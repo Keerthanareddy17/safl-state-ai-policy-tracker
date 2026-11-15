@@ -137,6 +137,13 @@ EXCLUDE_STOCK = [
     r"\bstocks?\b", r"\bIPO\b", r"\bmarket cap\b", r"\bSensex\b", r"\bNifty\b",
     r"\bshare price\b", r"\bshares? (?:rise|rises|fall|falls|jump|jumps|surge|surges|slump|slumps|drop|drops|gain|gains|climb|climbs)\b",
 ]
+# A place name right after one of these is an institution, not the state acting.
+INSTITUTE_PREFIXES = r"\b(?:IIT|IIIT|NIT|IIM|IISc|AIIMS|NIELIT|(?i:University(?: of)?|College(?: of)?))[\s\-]*$"
+INSTITUTE_SUFFIXES = r"^\W*(?:University|College|Institute)\b"
+INCIDENT_TERMS = [r"\bdeepfakes?\b", r"\bmorphed\b", r"\bfake video\b", r"\bviral video\b",
+                  r"\bAI[\s\-]generated (?:videos?|images?)\b"]
+POLICY_VERBS = [r"\bbans?\b", r"\bregulat\w*", r"\bguidelines?\b", r"\blaws?\b",
+                r"\baction against\b", r"\bSOPs?\b"]
 EXCLUDE_OPINION = [r"\bopinion\b", r"\bop-?ed\b", r"\bcolumn\b", r"\beditorial\b", r"\bblog\b"]
 OPINION_URL_HINTS = ["/opinion/", "/columns/", "/blogs/", "/editorial/"]
 CORPORATE_LAUNCH = r"\b(?:launch(?:es|ed)?|unveil(?:s|ed)?|introduc(?:es|ed)|releases?|debuts?)\b"
@@ -146,9 +153,11 @@ NATIONAL_ONLY = [r"\bMeitY\b", r"\bIndiaAI\b", r"\bIndia AI\b", r"\bUnion budget
 # against the headline, so it applies when the story is mainly about money.
 CATEGORY_KEYWORDS = {
     "regulation_ethics": [r"\bregulat\w*", r"\bethic\w*", r"\bguidelines?\b", r"\blegislat\w*",
-                          r"\bresponsible AI\b", r"\bgovernance\b", r"\bdeepfakes?\b", r"\bAI (?:act|bill|law)\b"],
+                          r"\bframeworks?\b", r"\brules\b", r"\bSOPs?\b", r"\badvisor(?:y|ies)\b",
+                          r"\bbans?\b", r"\bdeepfake laws?\b", r"\bresponsible AI\b",
+                          r"\bAI (?:act|bill|law)\b"],
     "policy_mission": [r"\bpolic(?:y|ies)\b", r"\bmission\b", r"\bstrateg(?:y|ies)\b", r"\broadmap\b",
-                       r"\bvision\b", r"\baction plan\b", r"\bscheme\b"],
+                       r"\bvision\b", r"\bblueprint\b", r"\baction plan\b", r"\bscheme\b"],
     "institution": [r"\btask force\b", r"\bcent(?:re|er) of excellence\b", r"\bCoE\b", r"\bcouncil\b",
                     r"\binstitute\b", r"\bcommittee\b", r"\bAI cell\b"],
     "partnership_mou": [r"\bMoU\b", r"\bpartner\w*", r"\btie-?ups?\b", r"\bties up\b", r"\bcollaborat\w*",
@@ -156,7 +165,8 @@ CATEGORY_KEYWORDS = {
     "infrastructure": [r"\bdata cent(?:re|er)s?\b", r"\bcompute\b", r"\bGPUs?\b", r"\bAI city\b",
                        r"\bAI park\b", r"\bsupercomput\w*", r"\bAI factory\b"],
     "deployment": [r"\bdeploy\w*", r"\bpilot\w*", r"\broll(?:s|ed)? out\b", r"\brollout\b", r"\blaunch\w*",
-                   r"\bintroduc\w*", r"\badopt\w*", r"\bchatbot\b", r"\bapp\b", r"\bplatform\b",
+                   r"\bintroduc\w*", r"\badopt\w*", r"\bcourses?\b", r"\btraining\b",
+                   r"\bskilling\b", r"\btrain(?:s|ed)?\b", r"\bchatbot\b", r"\bapp\b", r"\bplatform\b",
                    r"\bAI-powered\b", r"\bAI-enabled\b"],
     "budget_funding": [r"\bbudget\b", r"\ballocat\w*", r"\boutlay\b", r"\bcrore\b"],
 }
@@ -164,7 +174,9 @@ HEADLINE_ONLY_CATEGORIES = {"budget_funding"}
 # Order matters: first sector that matches wins.
 SECTOR_KEYWORDS = {
     "education": [r"\bcurriculum\b", r"\bschools?\b", r"\bstudents?\b", r"\bteachers?\b",
-                  r"\bclassrooms?\b", r"\buniversit\w*", r"\bskilling\b"],
+                  r"\bclassrooms?\b", r"\buniversit\w*", r"\bskilling\b", r"\bclass(?:es)?\b",
+                  r"\bsubject\b", r"\bcourses?\b", r"\btraining\b", r"\btrain(?:s|ed)?\b",
+                  r"\bsyllabus\b", r"\blabs?\b"],
     "health": [r"\bhospitals?\b", r"\bhealth\w*", r"\bpatients?\b", r"\bdiagnos\w*", r"\bmedical\b"],
     "agriculture": [r"\bfarmers?\b", r"\bcrops?\b", r"\bagri\w*", r"\bfarm\w*", r"\bsoil\b"],
     "policing": [r"\bpolice\b", r"\bcrime\b", r"\bsurveillance\b", r"\btraffic\b", r"\bcyber crime\b"],

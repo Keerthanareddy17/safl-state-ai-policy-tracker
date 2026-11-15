@@ -1,7 +1,8 @@
 import re
 
 from .config import (AI_GUARDS, AI_PHRASES, CATEGORY_KEYWORDS, CORPORATE_LAUNCH,
-                     EXCLUDE_OPINION, HEADLINE_ONLY_CATEGORIES, EXCLUDE_STOCK, GOV_ACTOR_TERMS, NATIONAL_ONLY,
+                     EXCLUDE_OPINION, HEADLINE_ONLY_CATEGORIES, INCIDENT_TERMS,
+                     INSTITUTE_PREFIXES, INSTITUTE_SUFFIXES, POLICY_VERBS, EXCLUDE_STOCK, GOV_ACTOR_TERMS, NATIONAL_ONLY,
                      OPINION_URL_HINTS, SECTOR_KEYWORDS, SUBJECT_MAX_GAP_WORDS,
                      SUBJECT_VERBS, SUMMARY_MAX_WORDS, TITLE_GOV_TERMS)
 from .normalize import clean_text, find_states
@@ -15,6 +16,10 @@ _TITLE_GOV_RE = re.compile(r"\b(?:" + "|".join(TITLE_GOV_TERMS) + r")s?\b", re.I
 _SUBJECT_RE = re.compile(
     r"^(?:\W+\w+){0," + str(SUBJECT_MAX_GAP_WORDS) + r"}?\W+(?:" + "|".join(SUBJECT_VERBS) + r")\b",
     re.IGNORECASE)
+_PREFIX_RE = re.compile(INSTITUTE_PREFIXES)
+_SUFFIX_RE = re.compile(INSTITUTE_SUFFIXES, re.IGNORECASE)
+_INCIDENT_RE = re.compile("|".join(INCIDENT_TERMS), re.IGNORECASE)
+_POLICY_VERB_RE = re.compile("|".join(POLICY_VERBS), re.IGNORECASE)
 _STOCK_RE = re.compile("|".join(EXCLUDE_STOCK), re.IGNORECASE)
 _OPINION_RE = re.compile("|".join(EXCLUDE_OPINION), re.IGNORECASE)
 _NATIONAL_RE = re.compile("|".join(NATIONAL_ONLY))
@@ -36,7 +41,9 @@ def is_gov_actor(text, title_only=False):
     if _TITLE_GOV_RE.search(text):
         return True
     # a state name acting as the subject: "Kerala launches ..."
-    return any(_SUBJECT_RE.match(text[end:]) for _, _, end in find_states(text))
+    return any(_SUBJECT_RE.match(text[end:]) and not _PREFIX_RE.search(text[:start])
+               and not _SUFFIX_RE.match(text[end:])
+               for _, start, end in find_states(text))
 
 
 def excluded_reason(title, url=""):
@@ -44,6 +51,8 @@ def excluded_reason(title, url=""):
         return "excluded_stock"
     if _OPINION_RE.search(title) or any(h in (url or "").lower() for h in OPINION_URL_HINTS):
         return "excluded_opinion"
+    if _INCIDENT_RE.search(title) and not _POLICY_VERB_RE.search(title):
+        return "incident_not_policy"
     return None
 
 

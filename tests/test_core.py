@@ -32,3 +32,11 @@ def test_local_bodies_and_new_delhi():
     assert normalize_state("BMC budget plans AI parking") == "Maharashtra"
     assert normalize_state("GHMC rolls out AI tool") == "Telangana"
     assert normalize_state("New Delhi hosts AI summit") is None
+
+
+def test_institute_prefix_and_incidents():
+    from pipeline.classify import excluded_reason, is_gov_actor
+    assert not is_gov_actor("IIT Delhi launches AI course", title_only=True)
+    assert is_gov_actor("Kerala launches AI mission", title_only=True)
+    assert excluded_reason("Viral video of minister is AI-generated") == "incident_not_policy"
+    assert excluded_reason("Govt issues SOP on deepfake videos") is None

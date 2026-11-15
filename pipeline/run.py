@@ -83,7 +83,7 @@ def funnel(n_raw, n_unique, dropped):
     order = [("passed AI check", {"not_ai"}),
              ("state assigned", {"no_state", "national_only"}),
              ("government actor", {"no_gov_actor", "corporate_launch"}),
-             ("not excluded", {"excluded_stock", "excluded_opinion"})]
+             ("not excluded", {"excluded_stock", "excluded_opinion", "incident_not_policy"})]
     for label, reasons in order:
         n -= sum(first[x] for x in reasons)
         stages.append((label, n))
@@ -153,10 +153,11 @@ def main():
     for region in sorted(REGIONS, key=lambda r: (-by_region[r], r)):
         print(f"  {region:<42}{by_region[region]}")
 
-    rng = random.Random(1)
-    print("\n10 random KEPT rows (title | state/basis | category | sector):")
-    for a in rng.sample(kept, min(10, len(kept))):
-        print(f"  {a['title'][:95]} | {a['state']}/{a['state_basis']} | {a['category']} | {a['sector'] or '-'}")
+    rng = random.Random(2)
+    others = [a for a in kept if a["category"] == "other"]
+    print("\n10 random rows still categorized 'other' (title | state):")
+    for a in rng.sample(others, min(10, len(others))):
+        print(f"  {a['title'][:110]} | {a['state']}")
 
 
 if __name__ == "__main__":
