@@ -1,0 +1,8 @@
+requests
+feedparser
+pandas
+rapidfuzz
+python-dateutil
+openpyxl
+python-dotenv
+pytest
