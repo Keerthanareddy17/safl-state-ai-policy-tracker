@@ -1,0 +1,200 @@
+{
+ "funnel": [
+  [
+   "raw records",
+   5596
+  ],
+  [
+   "unique articles",
+   4120
+  ],
+  [
+   "passed AI check",
+   2532
+  ],
+  [
+   "state assigned",
+   2481
+  ],
+  [
+   "government actor",
+   1062
+  ],
+  [
+   "not excluded",
+   1008
+  ]
+ ],
+ "drop_reasons": {
+  "no_gov_actor": 1242,
+  "not_ai": 1588,
+  "incident_not_policy": 52,
+  "national_only": 28,
+  "corporate_launch": 177,
+  "no_state": 23,
+  "excluded_stock": 2
+ },
+ "articles": 1008,
+ "events": 804,
+ "duplicates_collapsed": 204,
+ "largest_clusters": [
+  {
+   "event_id": "85a84ab076",
+   "state": "Karnataka",
+   "size": 16,
+   "member_titles": [
+    "Karnataka announces India's first government-led AI University; AI education from Class VI",
+    "Karnataka CM announces India\u2019s first government-driven AI University",
+    "Karnataka to set up India's first government-run AI university: Details",
+    "Karnataka CM Shivakumar announces India\u2019s first govt-driven AI University",
+    "Karnataka to set up India's first government-driven AI university",
+    "Karnataka announces India's first govt-driven AI university",
+    "Karnataka Plans AI Education From Class 6, Announces India's First Government-Led AI University",
+    "Karnataka will establish India\u2019s first govt-driven AI university: CM",
+    "CM DK Shivakumar announces India\u2019s first government-driven AI University in Karnataka",
+    "Google I/O Connect India 2026 | Karnataka government to set up first-of-its-kind AI University: CM D K Shivakumar",
+    "India's first govt-led AI university: How Karnataka plans to become an AI-native state",
+    "Karnataka Announces India\u2019s First Government-Driven AI University",
+    "Karnataka to Establish India's First Government-Led AI University, AI Hub",
+    "Karnataka Announces India\u2019s First Government-Driven AI University",
+    "Bengaluru to get India\u2019s first government-sponsored AI University, CM D.K. Shivakumar announces",
+    "Karnataka To Introduce AI Education From Class 6, Plans Indias First Government-Led AI University"
+   ]
+  },
+  {
+   "event_id": "7cdfb14601",
+   "state": "Goa",
+   "size": 10,
+   "member_titles": [
+    "Goa unveils AI Policy 2026, launches state hackathon and announces AI Centre of Excellence",
+    "Goa Launches AI Policy 2026, Hackathon & Tech Conclave",
+    "\u2018Vision turning into action\u2019: CM hails Goa AI Policy 2026",
+    "Goa Launches AI Policy 2026, Signs MoU With BITS Pilani For AI Development",
+    "Goa Unveils Three-Year AI Policy, Launches Hackathon and Centre of Excellence",
+    "Goa unveils AI policy 2026, launches state-level hackathon",
+    "Goa unveils AI policy to diversify economy beyond tourism",
+    "Goa unveils AI Policy 2026, launches state-level AI hackathon | Tap to know more | Inshorts",
+    "Goa Launches AI Policy 2026 to Boost Youth Skills and Startups",
+    "Goa unveils AI policy 2026"
+   ]
+  },
+  {
+   "event_id": "e848b50eb2",
+   "state": "Tamil Nadu",
+   "size": 10,
+   "member_titles": [
+    "Tamil Nadu has taken a major step into sovereign artificial intelligence by signing an MoU with Sarvam AI to build India\u2019s first full stack Sovereign AI Park in Chennai with an initial investment of \u20b910,000 crore. The agreement was exchanged on January 13 in t",
+    "Tamil Nadu, Sarvam AI ink MoU to set up India\u2019s first \u20b910,000-crore Sovereign AI Park",
+    "Tamil Nadu Partners with Sarvam AI for Sovereign AI Park",
+    "Sarvam AI signs MoU with TN Govt to set up sovereign AI park with \u20b910,000 cr investment",
+    "Tamil Nadu govt partners with Sarvam to launch Sovereign AI Park",
+    "Tamil Nadu Signs \u20b910,000 Crore MoU with Sarvam AI to Build India\u2019s First Sovereign AI Park in Chennai",
+    "Tamil Nadu to set up India's first Sovereign AI Park: What it offers",
+    "Tamil Nadu Partners Sarvam AI for Sovereign AI Park",
+    "Why is India building a \u20b910,000 crore AI district that other states may have to rent into? A five-year sovereign AI project anchored in Tamil Nadu could quietly change how India builds, governs, and deploys AI at population scale. This isn\u2019t an IT park. It\u2019s AI infra",
+    "Tamil Nadu to set up India's first sovereign AI park for \u20b910K crore"
+   ]
+  },
+  {
+   "event_id": "ada620bff6",
+   "state": "Karnataka",
+   "size": 9,
+   "member_titles": [
+    "Karnataka to introduce AI training in government schools from Class 6",
+    "Karnataka plans AI training in government schools from Class 6",
+    "Karnataka to introduce AI training in government schools from Class 6",
+    "Karnataka is bringing AI into government schools from Class 6",
+    "Karnataka plans AI training in government schools from Class 6",
+    "AI training likely from Class nine in Karnataka government schools",
+    "Karnataka AI Education Push: Government Plans University, Student Training from Class 6",
+    "Karnataka to introduce AI course for government school students from Class 6",
+    "AI Classes From Class 6: Karnataka Plans Early Tech Training in Government Schools"
+   ]
+  },
+  {
+   "event_id": "89a75c63a1",
+   "state": "Bihar",
+   "size": 8,
+   "member_titles": [
+    "Who is Kanishka Narayan, Bihar-born MP picked as UK's AI minister in Andy Burnham's cabinet",
+    "Bihar-born Kanishka Narayan becomes UK\u2019s first Cabinet-level AI minister",
+    "Bihar-Born Man Is UK's First AI Minister, Google AI Chief Cheers",
+    "Who is Kanishka Narayan, Bihar-born Labour MP appointed UK's first AI minister",
+    "An Indian-origin man is UK\u2019s first AI minister. Kanishka Narayan was born in Bihar",
+    "Who is Kanishka Narayan? Bihar-born MP becomes UKs first AI minister",
+    "Born In Bihar, Now UK's First AI Minister: Who Is Kanishka Narayan?",
+    "Andy Burnham overhauls UK Cabinet: Bihar-born Kanishka Narayan made AI minister, Lisa Nandy gets key role"
+   ]
+  }
+ ],
+ "unknown_date_articles": 0,
+ "unknown_date_events": 0,
+ "relabelled_state_count": 129,
+ "state_basis_all_unique_articles": {
+  "title": 3149,
+  "description": 145,
+  "query": 766,
+  "none": 60
+ },
+ "state_basis_events": {
+  "title": 655,
+  "query": 118,
+  "description": 31
+ },
+ "events_by_tier": {
+  "featured": 673,
+  "low_coverage": 129,
+  "insufficient": 2
+ },
+ "states_by_tier": {
+  "featured": 17,
+  "low_coverage": 14,
+  "insufficient": 5
+ },
+ "events_by_state": {
+  "Karnataka": 70,
+  "Tamil Nadu": 68,
+  "Uttar Pradesh": 65,
+  "Telangana": 55,
+  "Maharashtra": 49,
+  "Kerala": 45,
+  "Andhra Pradesh": 44,
+  "Bihar": 42,
+  "Gujarat": 37,
+  "Punjab": 34,
+  "Delhi": 32,
+  "Goa": 28,
+  "Odisha": 27,
+  "Haryana": 22,
+  "Jharkhand": 22,
+  "Assam": 20,
+  "Nagaland": 18,
+  "West Bengal": 15,
+  "Rajasthan": 14,
+  "Chandigarh": 12,
+  "Tripura": 11,
+  "Chhattisgarh": 10,
+  "Madhya Pradesh": 10,
+  "Meghalaya": 10,
+  "Sikkim": 9,
+  "Uttarakhand": 9,
+  "Manipur": 7,
+  "Arunachal Pradesh": 5,
+  "Mizoram": 5,
+  "Himachal Pradesh": 4,
+  "Jammu and Kashmir": 3,
+  "Ladakh": 1,
+  "Puducherry": 1
+ },
+ "events_by_category": {
+  "other": 232,
+  "deployment": 184,
+  "policy_mission": 110,
+  "partnership_mou": 102,
+  "infrastructure": 61,
+  "institution": 37,
+  "budget_funding": 33,
+  "statement": 27,
+  "regulation_ethics": 18
+ }
+}

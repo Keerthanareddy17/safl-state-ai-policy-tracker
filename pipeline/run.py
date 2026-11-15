@@ -9,6 +9,9 @@ import pandas as pd
 
 from .classify import categorize, drop_reasons, is_national_only, summarize
 from .config import REGIONS
+from .coverage import coverage_table
+from .dedup import build_events
+from .export import write_all
 from .fetch import fetch_newsapi, fetch_rss, load_cached
 from .normalize import canonical_url, clean_text, detect_states, normalize_date
 
@@ -127,37 +130,49 @@ def main():
     print("\nFunnel:")
     for label, n in stages:
         print(f"  {label:<20}{n}")
-    print("\nDrop reasons (first failing check), by source_api:")
-    by_src = Counter((d["drop_reason"].split(";")[0], d["source_api"]) for d in dropped)
+    print("\nDrop reasons (first failing check):")
     for reason, total in first.most_common():
-        parts = ", ".join(f"{s}={by_src[(reason, s)]}" for s in ("google_news_rss", "newsapi"))
-        print(f"  {reason:<20}{total:<7}({parts})")
+        print(f"  {reason:<22}{total}")
+    print(f"\nstate_basis (kept): {dict(Counter(a['state_basis'] for a in kept))}")
 
-    print("\nstate_basis, all unique articles (before filtering):")
-    for k, v in basis_all.most_common():
-        print(f"  {k:<14}{v}")
-    print("state_basis, kept articles:")
-    for k, v in Counter(a["state_basis"] for a in kept).most_common():
-        print(f"  {k:<14}{v}")
-    print(f"Detected state not among query regions: {relabelled}")
+    # phase 3 starts from the written articles.csv
+    articles = pd.read_csv(PROCESSED / "articles.csv", dtype=str, keep_default_na=False).to_dict("records")
+    events = build_events(articles)
+    coverage = coverage_table(events)
+    stats = {"funnel": stages, "drop_reasons": dict(first), "articles": len(articles),
+             "relabelled": relabelled, "basis_all": dict(basis_all),
+             "unknown_date_articles": sum(a["date_precision"] == "unknown" for a in articles)}
+    quality = write_all(events, coverage, stats)
 
-    print("\nCategory distribution (kept):")
-    cats = Counter(a["category"] for a in kept)
+    print("\nCategory distribution (events):")
+    cats = Counter(e["category"] for e in events)
     for k, v in cats.most_common():
-        print(f"  {k:<20}{v:<6}{100 * v / len(kept):.1f}%")
-    dep = Counter(a["sector"] for a in kept if a["category"] == "deployment")
-    print("Deployment sectors: " + ", ".join(f"{k}={v}" for k, v in dep.most_common()))
+        print(f"  {k:<20}{v:<6}{100 * v / len(events):.1f}%")
+    print(f"  % other: {100 * cats['other'] / len(events):.1f}   % statement: {100 * cats['statement'] / len(events):.1f}")
 
-    by_region = Counter(a["state"] for a in kept)
-    print(f"\nRelevant unique articles by state ({len(kept)} total):")
-    for region in sorted(REGIONS, key=lambda r: (-by_region[r], r)):
-        print(f"  {region:<42}{by_region[region]}")
+    print(f"\nArticles -> events: {len(articles)} -> {len(events)} "
+          f"({len(articles) - len(events)} duplicates collapsed)")
+    print("\n5 largest clusters:")
+    for c in quality["largest_clusters"]:
+        print(f"  [{c['state']}] size {c['size']}")
+        for t in c["member_titles"][:6]:
+            print(f"      - {t[:100]}")
 
-    rng = random.Random(2)
-    others = [a for a in kept if a["category"] == "other"]
-    print("\n10 random rows still categorized 'other' (title | state):")
-    for a in rng.sample(others, min(10, len(others))):
-        print(f"  {a['title'][:110]} | {a['state']}")
+    print("\nCoverage (tier | state | events cats pubs months multi query | reason):")
+    for c in coverage:
+        print(f"  {c['tier']:<13}{c['state']:<42}{c['events']:>4}{c['distinct_categories']:>4}"
+              f"{c['distinct_publishers']:>4}{c['active_months']:>4}{c['multi_source_events']:>4}"
+              f"{c['query_basis_events']:>4}  {c['reason']}")
+    print(f"States by tier: {quality['states_by_tier']}")
+
+    sample = pd.read_csv(PROCESSED / "dedup_sample.csv", dtype=str, keep_default_na=False)
+    print("\n5 clusters from dedup_sample.csv:")
+    for eid in list(dict.fromkeys(sample["event_id"]))[:5]:
+        grp = sample[sample["event_id"] == eid]
+        print(f"  {eid} [{grp.iloc[0]['state']}]")
+        for _, m in grp.iterrows():
+            mark = "*" if m["is_representative"] == "True" else " "
+            print(f"    {mark} {m['date'] or '????-??-??'} {m['source_name'][:22]:<22} {m['member_title'][:80]}")
 
 
 if __name__ == "__main__":

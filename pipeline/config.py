@@ -141,7 +141,7 @@ EXCLUDE_STOCK = [
 INSTITUTE_PREFIXES = r"\b(?:IIT|IIIT|NIT|IIM|IISc|AIIMS|NIELIT|(?i:University(?: of)?|College(?: of)?))[\s\-]*$"
 INSTITUTE_SUFFIXES = r"^\W*(?:University|College|Institute)\b"
 INCIDENT_TERMS = [r"\bdeepfakes?\b", r"\bmorphed\b", r"\bfake video\b", r"\bviral video\b",
-                  r"\bAI[\s\-]generated (?:videos?|images?)\b"]
+                  r"\bAI[\s\-]generated\b", r"\bAI videos?\b", r"\bhoax\b", r"\bfake alert\b"]
 POLICY_VERBS = [r"\bbans?\b", r"\bregulat\w*", r"\bguidelines?\b", r"\blaws?\b",
                 r"\baction against\b", r"\bSOPs?\b"]
 EXCLUDE_OPINION = [r"\bopinion\b", r"\bop-?ed\b", r"\bcolumn\b", r"\beditorial\b", r"\bblog\b"]
@@ -157,30 +157,65 @@ CATEGORY_KEYWORDS = {
                           r"\bbans?\b", r"\bdeepfake laws?\b", r"\bresponsible AI\b",
                           r"\bAI (?:act|bill|law)\b"],
     "policy_mission": [r"\bpolic(?:y|ies)\b", r"\bmission\b", r"\bstrateg(?:y|ies)\b", r"\broadmap\b",
-                       r"\bvision\b", r"\bblueprint\b", r"\baction plan\b", r"\bscheme\b"],
+                       r"\bvision\b", r"\bblueprint\b", r"\baction plan\b", r"\bscheme\b",
+                       r"\binitiatives?\b", r"\bprogrammes?\b", r"\bprograms?\b",
+                       r"\bfirst government-led\b"],
     "institution": [r"\btask force\b", r"\bcent(?:re|er) of excellence\b", r"\bCoE\b", r"\bcouncil\b",
-                    r"\binstitute\b", r"\bcommittee\b", r"\bAI cell\b"],
+                    r"\binstitute\b", r"\bcommittee\b", r"\bAI cell\b", r"\bAI university\b"],
+    # plain "university" only counts when a state or government is the grammatical subject
+    # (handled in classify.categorize)
     "partnership_mou": [r"\bMoU\b", r"\bpartner\w*", r"\btie-?ups?\b", r"\bties up\b", r"\bcollaborat\w*",
                         r"\bagreement\b", r"\bpact\b", r"\binks\b"],
     "infrastructure": [r"\bdata cent(?:re|er)s?\b", r"\bcompute\b", r"\bGPUs?\b", r"\bAI city\b",
-                       r"\bAI park\b", r"\bsupercomput\w*", r"\bAI factory\b"],
+                       r"\bAI park\b", r"\bsupercomput\w*", r"\bAI factory\b", r"\bfactor(?:y|ies)\b",
+                       r"\bhubs?\b", r"\binnovation city\b", r"\bcampus(?:es)?\b", r"\bparks?\b",
+                       r"\bhyperscale\b"],
     "deployment": [r"\bdeploy\w*", r"\bpilot\w*", r"\broll(?:s|ed)? out\b", r"\brollout\b", r"\blaunch\w*",
                    r"\bintroduc\w*", r"\badopt\w*", r"\bcourses?\b", r"\btraining\b",
                    r"\bskilling\b", r"\btrain(?:s|ed)?\b", r"\bchatbot\b", r"\bapp\b", r"\bplatform\b",
-                   r"\bAI-powered\b", r"\bAI-enabled\b"],
+                   r"\bAI-powered\b", r"\bAI-enabled\b", r"\bAI-based\b", r"\bAI-assisted\b"],
     "budget_funding": [r"\bbudget\b", r"\ballocat\w*", r"\boutlay\b", r"\bcrore\b"],
+    # a leader talking, no action; only when nothing above matched
+    "statement": [r"\bsays?\b", r"\burges?\b", r"\bbats for\b", r"\bcalls? for\b", r"\basks?\b",
+                  r"\bstress(?:es)?\b", r"\bhighlights?\b", r"\bspeaks?\b"],
 }
-HEADLINE_ONLY_CATEGORIES = {"budget_funding"}
+HEADLINE_ONLY_CATEGORIES = {"budget_funding", "statement"}
 # Order matters: first sector that matches wins.
 SECTOR_KEYWORDS = {
     "education": [r"\bcurriculum\b", r"\bschools?\b", r"\bstudents?\b", r"\bteachers?\b",
                   r"\bclassrooms?\b", r"\buniversit\w*", r"\bskilling\b", r"\bclass(?:es)?\b",
                   r"\bsubject\b", r"\bcourses?\b", r"\btraining\b", r"\btrain(?:s|ed)?\b",
                   r"\bsyllabus\b", r"\blabs?\b"],
-    "health": [r"\bhospitals?\b", r"\bhealth\w*", r"\bpatients?\b", r"\bdiagnos\w*", r"\bmedical\b"],
+    "health": [r"\bhospitals?\b", r"\bhealth\w*", r"\bpatients?\b", r"\bdiagnos\w*", r"\bmedical\b",
+               r"\bMBBS\b", r"\bsurgery\b", r"\bGMCH\b", r"\bdoctors?\b"],
     "agriculture": [r"\bfarmers?\b", r"\bcrops?\b", r"\bagri\w*", r"\bfarm\w*", r"\bsoil\b"],
     "policing": [r"\bpolice\b", r"\bcrime\b", r"\bsurveillance\b", r"\btraffic\b", r"\bcyber crime\b"],
     "citizen_services": [r"\bgrievance\w*", r"\be-?governance\b", r"\bcitizens?\b", r"\bservices\b",
                          r"\bchatbot\b", r"\brevenue\b", r"\bland records?\b"],
 }
 SUMMARY_MAX_WORDS = 25
+
+
+# --- Phase 3: dedup, coverage, export ----------------------------------
+
+NEAR_DUP_DAYS = 3            # same story is usually syndicated within a few days
+NEAR_DUP_RATIO = 80          # token_set_ratio when both dates are known
+NEAR_DUP_RATIO_NO_DATE = 95  # stricter when a date is missing, since time can't back it up
+
+# Preferred as the representative after government sources: (name, domain fragment)
+NATIONAL_OUTLETS = [
+    ("The Hindu", "thehindu.com"), ("Indian Express", "indianexpress.com"),
+    ("Times of India", "timesofindia.indiatimes.com"), ("Hindustan Times", "hindustantimes.com"),
+    ("Economic Times", "economictimes.indiatimes.com"), ("Mint", "livemint.com"),
+    ("Business Standard", "business-standard.com"), ("NDTV", "ndtv.com"),
+    ("Moneycontrol", "moneycontrol.com"), ("Deccan Herald", "deccanherald.com"),
+    ("The News Minute", "thenewsminute.com"), ("PTI", "ptinews.com"),
+]
+
+# Coverage tiers
+FEATURED_MIN_EVENTS = 15        # enough volume that a dashboard view isn't a handful of dots
+FEATURED_MIN_CATEGORIES = 4     # activity should span more than one kind of action
+FEATURED_MIN_PUBLISHERS = 6     # guards against one outlet dominating a state's picture
+FEATURED_MIN_ACTIVE_MONTHS = 4  # shows sustained activity, not one news burst
+LOW_COVERAGE_MIN_EVENTS = 3     # below this there is nothing meaningful to show at all
+NON_SUBSTANTIVE_CATEGORIES = {"statement", "other"}  # don't count toward category breadth

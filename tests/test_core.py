@@ -40,3 +40,20 @@ def test_institute_prefix_and_incidents():
     assert is_gov_actor("Kerala launches AI mission", title_only=True)
     assert excluded_reason("Viral video of minister is AI-generated") == "incident_not_policy"
     assert excluded_reason("Govt issues SOP on deepfake videos") is None
+
+
+def _art(title, date, state="Kerala", precision="day", name="A"):
+    return {"title": title, "date": date, "date_precision": precision, "state": state,
+            "url": "http://x/" + title, "source_name": name, "source_domain": "", "summary": title,
+            "state_basis": "title", "category": "deployment", "sector": ""}
+
+
+def test_dedup_dates_and_thresholds():
+    from pipeline.dedup import cluster
+    a = _art("Kerala launches AI chatbot for citizens", "2026-05-01", name="A")
+    b = _art("Kerala launches AI chatbot to help citizens with services", "2026-05-03", name="B")
+    far = _art("Kerala launches AI chatbot to help citizens with services", "2026-08-01", name="C")
+    assert len(cluster([a, b])) == 1
+    assert len(cluster([a, far])) == 2
+    unknown = _art("Kerala launches AI chatbot to help citizens with services", "", precision="unknown", name="D")
+    assert len(cluster([a, unknown])) == 2  # below the stricter 95 bar

@@ -40,7 +40,11 @@ def is_gov_actor(text, title_only=False):
         return False
     if _TITLE_GOV_RE.search(text):
         return True
-    # a state name acting as the subject: "Kerala launches ..."
+    return state_is_subject(text)
+
+
+def state_is_subject(text):
+    """A state name acting as the subject: "Kerala launches ..."."""
     return any(_SUBJECT_RE.match(text[end:]) and not _PREFIX_RE.search(text[:start])
                and not _SUFFIX_RE.match(text[end:])
                for _, start, end in find_states(text))
@@ -75,9 +79,20 @@ def is_national_only(text):
     return bool(_NATIONAL_RE.search(text))
 
 
+_UNIVERSITY_RE = re.compile(r"\buniversit(?:y|ies)\b", re.IGNORECASE)
+_GOVT_LED_RE = re.compile(r"\b(?:state govt|state government|govt-led|government-led)\b", re.IGNORECASE)
+
+
+def _matches(category, rx, title, text):
+    if rx.search(title if category in HEADLINE_ONLY_CATEGORIES else text):
+        return True
+    if category == "institution" and _UNIVERSITY_RE.search(text):
+        return state_is_subject(text) or bool(_GOVT_LED_RE.search(text))
+    return False
+
+
 def categorize(title, text):
-    category = next((k for k, rx in _CATEGORY_RES.items()
-                     if rx.search(title if k in HEADLINE_ONLY_CATEGORIES else text)), "other")
+    category = next((k for k, rx in _CATEGORY_RES.items() if _matches(k, rx, title, text)), "other")
     sector = ""
     if category == "deployment":
         sector = next((k for k, rx in _SECTOR_RES.items() if rx.search(text)), "other")

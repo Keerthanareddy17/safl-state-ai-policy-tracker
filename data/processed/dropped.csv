@@ -9,8 +9,11 @@ Amaravati to host NIELIT’s ‘Quantum and AI University Campus’,Andhra Prade
 City-based CureBay raises Rs 100cr to expand rural healthcare network,Andhra Pradesh,no_gov_actor
 "AdaniConneX's Vizag data centres to use air cooling, limit freshwater use",Andhra Pradesh,not_ai;no_gov_actor
 "Q2 Results Today Live: Grasim Ind, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Rail Vikas Nigam, Godrej Industries, Gillette Share to announce Q2 results",Bihar,not_ai;no_gov_actor
+"Complaint against home minister Priyank after he links RSS to seizure of 44,250 live cartridges in Bihar and Haryana; BJP says image Priyank used in social media post was AI-generated",Bihar|Haryana,incident_not_policy
 AI-based software to monitor roads across state: RCD,Bihar,no_gov_actor
 Bengaluru: Bihar worker arrested after posting AI-generated video of Vidhana Soudha being blown up,Bihar|Karnataka,incident_not_policy
+Worker arrested in Bengaluru for AI video of ‘blasting Vidhana Soudha’,Bihar|Karnataka,incident_not_policy
+'Vidhanasabha uda diya': Bengaluru police arrest Bihar man over AI-generated Vidhana Soudha blast video,Bihar|Karnataka,incident_not_policy
 AI training for state university teachers to be mandatory soon,Bihar,no_gov_actor
 AI training set to be mandatory for teachers of state universities,Bihar,no_gov_actor
 Experts discuss ways to bridge military needs & industrial capabilities,Chandigarh,no_gov_actor
@@ -21,6 +24,7 @@ MCD plans AI-based mapping of outdoor advertising sites to boost revenue,Delhi,n
 "1,000 extra trains between Delhi, Mumbai, Kolkata and Chennai to ease waiting lists, Railway ministry plans four parallel tracks on 7 major corridors",Delhi|Maharashtra|Tamil Nadu|West Bengal,not_ai
 Before the AQI turns severe: How AI can help India breathe,Delhi,no_gov_actor
 "Delhi HC orders removal of AI-generated videos targeting Rekha Gupta, says political satire cannot trample on dignity",Delhi,incident_not_policy
+‘Not political satire’: HC orders takedown of ‘offensive’ AI videos targeting CM,Delhi,incident_not_policy
 CERT-In seeks checks on access of AI agents,Delhi,no_gov_actor
 "India, Nepal reaffirm commitment to all-round enhancement of partnership as FS Misri meets PM Shah",Delhi,not_ai
 "AIVISKAR 2026 at CGC University, Mohali, Redefines India’s AI Innovation Landscape - The Tribune",Delhi,no_gov_actor
@@ -67,7 +71,7 @@ VGGS: Gujarat woos Rajasthan investors,Gujarat|Rajasthan,no_gov_actor
 Gujarat proposes three-tier AI training for 5 lakh students,Gujarat,no_gov_actor
 "UP retains top position in number of GST assesses, followed by Maharashtra",Haryana|Maharashtra,no_gov_actor
 "UP retains top position in number of GST assesses, followed by Maharashtra",Haryana|Maharashtra,no_gov_actor
-"AI videos, German singer link in case against man who died in Haryana jail",Haryana,no_gov_actor
+"AI videos, German singer link in case against man who died in Haryana jail",Haryana,no_gov_actor;incident_not_policy
 J&K universities get six months to roll out ‘Design Your Degree’ programme; LG Manoj Sinha calls for higher education reforms,Jammu and Kashmir,not_ai;no_gov_actor
 "Jharkhand to launch AI-powered portal to track medicine supply, curb misuse of prescription drugs",Jharkhand,corporate_launch
 PTR observatory to help plan human-elephant conflict management strategies,Jharkhand,no_gov_actor
@@ -126,10 +130,11 @@ Keralam to tighten curbs on fake lottery sales online,Kerala,no_gov_actor
 AI takes on the paperwork clogging India’s court system,Kerala,no_gov_actor
 Halloween Pumpkin 2D LITE by SR Studios Kerala,Kerala,not_ai;no_gov_actor
 Water Shader LITE by SR by SR Studios Kerala,Kerala,not_ai;no_gov_actor
+"US-based TN techie uses AI to send threats to Kerala airport, CM’s home and temples for years, then tracks impact through news reports. Now held from airport after 1,500 hoax bomb threats across India",Kerala,incident_not_policy
 US-based TN techie held for 200 bomb threats targeting Keralam,Kerala,no_gov_actor
 India-based Spintronics AI weighs GaN chip fab in Madhya Pradesh,Madhya Pradesh|Telangana,no_gov_actor
 "Simplify Alpha™ opens AI engineering and innovation center in Hyderabad, joined by Simplify Healthcare® and SimplifyX™",Maharashtra|Telangana,no_gov_actor
-Passenger held over hoax hijack threat to Air India Kolkata-Mumbai flight,Maharashtra|West Bengal,not_ai
+Passenger held over hoax hijack threat to Air India Kolkata-Mumbai flight,Maharashtra|West Bengal,not_ai;incident_not_policy
 WordPress.org blog: WordCamp Asia 2027 Is Coming to Penang,Maharashtra,not_ai;no_gov_actor;excluded_opinion
 Amazon EC2 G7 instances now available in additional regions,Maharashtra,no_gov_actor
 "Sensex up 10.6% in 7-session pre-Diwali rally, best in 35 yrs",Maharashtra,no_gov_actor;excluded_stock
@@ -182,9 +187,12 @@ CureBay raises ₹100 crore in Pre-Series C round to expand rural network,Odisha
 Tata Power to set up ₹54 crore GCC in Odisha for next-gen energy solutions,Odisha,no_gov_actor
 AI firm KYVEX’S founder Pearl Kapur joins BJP ahead of Punjab elections,Punjab,no_gov_actor
 We Were Here: When a Group of Indian Uncles Declare War on AI,Rajasthan,no_gov_actor
-A rush to procure books before elections may have enabled scamsters to push AI-generated fake books into Periyar Library,Tamil Nadu,no_gov_actor
+HC grants bail to man who created AI videos of CM to scam people,Rajasthan|Tamil Nadu,incident_not_policy
+A rush to procure books before elections may have enabled scamsters to push AI-generated fake books into Periyar Library,Tamil Nadu,no_gov_actor;incident_not_policy
 "Tamil Nadu Library Book Procurement Scam: Madras High Court Orders DVAC To Register FIR, Freeze Publisher’s Bank Accounts",Tamil Nadu,no_gov_actor
+New Indian mega library rocked by scandal over 'AI-generated books',Tamil Nadu,incident_not_policy
 Tamil Nadu library book scam: DVAC inspects records in Chennai and Coimbatore,Tamil Nadu,no_gov_actor
+"AI-generated books, fake authors, inflated prices: DVAC probes Tamil Nadu library procurement scam",Tamil Nadu,incident_not_policy
 "‘Errors in 1,800 books at Tamil Nadu library’: Writer flags possible AI use, questions authorship",Tamil Nadu,no_gov_actor
 "TN registration dept clocks ₹1,950crore revenue in Oct, launches AI app to track court cases",Tamil Nadu,corporate_launch
 ‘You have to be willing to make those hard choices’: Freshworks CEO on crossing $1 billion in ARR with 30% fewer employees in the AI software age,Tamil Nadu,no_gov_actor
@@ -495,12 +503,15 @@ Congress accuses BJP of normalising Chinese border transgressions in Arunachal,A
 NHPC seeks Forest clearance to fell over 23 lakh trees for Kamala hydel project in Arunachal,Arunachal Pradesh,not_ai;no_gov_actor
 "Out after month in detention, Siang activist Adum Tayong says stir will continue",Arunachal Pradesh,not_ai;no_gov_actor
 DA hike pending arrears payment process: How money will be paid after states increased dearness allowance on Diwali,Arunachal Pradesh,not_ai;no_gov_actor
-‘Congress must apologise to nation’: Kiren Rijiju slams party for sharing fake AI video on Chinese control of Arunachal,Arunachal Pradesh,no_gov_actor
+‘Congress must apologise to nation’: Kiren Rijiju slams party for sharing fake AI video on Chinese control of Arunachal,Arunachal Pradesh,no_gov_actor;incident_not_policy
 "Arunachal Pradesh Chief Minister Pema Khandu calls for roadmap to boost yak economy, herders’ income",Arunachal Pradesh,not_ai
 "Arunachal Cabinet clears Rs 1,500-crore education mission, sports job scheme, ease of doing business reforms",Arunachal Pradesh,not_ai
-All charades dropped: Assam BJP’s AI video shows Himanta ‘shooting point-blank’ at Muslims,Assam,no_gov_actor
+All charades dropped: Assam BJP’s AI video shows Himanta ‘shooting point-blank’ at Muslims,Assam,no_gov_actor;incident_not_policy
 Supreme Court upholds Assam government's action to clear nearly 20% encroached forest land,Assam,not_ai
-"Assam BJP posts, then deletes, AI video showing Himanta taking aim at men in skullcaps",Assam,no_gov_actor
+"Assam BJP posts, then deletes, AI video showing Himanta taking aim at men in skullcaps",Assam,no_gov_actor;incident_not_policy
+AI video of Assam CM Sarma shooting Muslims causes outrage in India,Assam,incident_not_policy
+Assam BJP removes social media co-convenor after AI video showing CM Himanta Biswa Sarma ‘shooting minori,Assam,incident_not_policy
+AI Video Showing Assam Chief Minister Targeting Muslims Sparks Political Outrage,Assam,incident_not_policy
 Assam government to hand over 992 acres to AAI for Silchar greenfield airport,Assam,not_ai
 "Assam CM unveils Swahid Smarak Kshetra, honours 860 martyrs",Assam,not_ai
 AI-FIRST ASSAM: Reimagining Governance for a Digital Decade,Assam,no_gov_actor
@@ -541,11 +552,12 @@ Assam: Kaziranga crash death toll rises to 23,Assam,not_ai;no_gov_actor
 "Assam Rifles, DRI seize methamphetamine tablets worth Rs 60 crore in Assam; one held",Assam|Mizoram,not_ai;no_gov_actor
 "Assam to Introduce AI Tools in School Education, Pilot Project to Cover 70 Schools",Assam,no_gov_actor
 3 Congress Leaders Arrested Over Assam Chief Minister Himanta Sarma's AI Deepfake Video,Assam,incident_not_policy
+Assam BJP deletes AI video of CM Himanta aiming rifle at Muslims after outrage,Assam,incident_not_policy
 Prime Minister Modi Inaugurates Yotta’s National Data Center in Assam,Assam,not_ai
 "Red-faced over shooting video, Assam BJP now claims post was ‘unauthorised’, sacks social media man",Assam,not_ai;no_gov_actor
 ‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters,Assam,not_ai;no_gov_actor
 How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh,Assam|West Bengal,no_state;no_gov_actor
-"Viral image of PM Modi in Assam tea garden is AI-generated, not a real photoshoot",Assam,no_gov_actor
+"Viral image of PM Modi in Assam tea garden is AI-generated, not a real photoshoot",Assam,no_gov_actor;incident_not_policy
 CJI to launch CBI’s ‘Abhay’ AI chatbot to curb digital arrest scams,Assam,corporate_launch
 #FactCheck- AI-Generated Image of PM Modi Misleadingly Shared as Assam Campaign Shoot Setup,Assam,no_gov_actor;incident_not_policy
 Amit Shah to launch Vibrant Villages Programme Phase II in Assam,Assam,not_ai;corporate_launch
@@ -555,11 +567,12 @@ Pranab Doley in Assam: The Indian activist jailed after taking on a hotel in Kaz
 Assam turns to AI strengthen flood warning and urban drainage,Assam,no_gov_actor
 "3 extensions, forest land violations row: Assam moves out retired forest officer",Assam,not_ai;no_gov_actor
 Assam Government Encroaches Into a World Heritage Site in India’s Northeast,Assam,not_ai
+Himanta Biswa Sarma And His Cabinet Ministers Groove To Gangnam Style In AI Video,Assam,incident_not_policy
 "Assam CMO flags AI-generated morphed image of Himanta Biswa Sarma, case registered",Assam,no_gov_actor;incident_not_policy
 Assam Education Minister inaugurates Rs 5-crore projects at K.C. Das Commerce College,Assam,not_ai
 "CMO says FIR filed over fake, morphed AI image of Himanta Biswa Sarma",Assam,no_gov_actor;incident_not_policy
 Nvidia chief Jensen Huang says AI boom keeps him from retiring,Assam,no_gov_actor
-Assam CMO Flags AI-Generated Fake Image of Himanta Biswa Sarma,Assam,no_gov_actor
+Assam CMO Flags AI-Generated Fake Image of Himanta Biswa Sarma,Assam,no_gov_actor;incident_not_policy
 "Bihar cabinet approves six proposals focused on youth, startups and industrial growth",Bihar,not_ai
 "Bihar cabinet clears tech-hub push, satellite townships",Bihar,not_ai
 INTERVIEW | ‘Bihar aims to become the tech hub of eastern India’,Bihar,not_ai;no_gov_actor
@@ -592,6 +605,7 @@ From Bihar to SEMICON India: How Shweta Suman is building Swadeza for the world,
 "DA hike: Bihar govt increases DA, DR for employees and pensioners ahead of Chhath—Here's all we know",Bihar,not_ai
 "CtrlS Bihar Investment: Rs 10,000 Crore AI Facility",Bihar,no_gov_actor
 "AI to Create Super Teachers in Bihar, Cricket Bowling to Explain Maths",Bihar,no_gov_actor
+Bengaluru Police Arrest Bihar Worker Over AI-Generated Vidhana Soudha Blast Video,Bihar,incident_not_policy
 "Make govt scheme videos, earn up to Rs 1 lakh: Bihar's offer to influencers",Bihar,not_ai
 "CtrlS invests ₹10,000 crore in Bihar for 150 MW AI facility",Bihar,no_gov_actor
 """Bihar to develop around 700 model schools for NEET, JEE preparation"": CM Samrat Choudhary",Bihar,not_ai
@@ -610,6 +624,7 @@ An AI-generated video is shared as visuals of Modi watching Bihar CM Nitish Kuma
 Bihar Govt Launches QR Code-Based Monitoring for Rural Roads Constructed Under Pradhan Mantri Gram Sadak Yojana,Bihar,not_ai
 Nitish Kumar: Veteran Bihar chief minister to step down for move to parliament,Bihar,not_ai
 Bihar cabinet approves 500 million U.S. dollars loan from World Bank,Bihar,not_ai
+Clip of Muslim doctor slapping Bihar's former chief minister is AI-generated,Bihar,incident_not_policy
 Bihar first state to bring AI committee to land dept. Officials struggled to solve disputes,Bihar,no_gov_actor
 Bihar-born UK minister applauds state's development,Bihar,not_ai
 "Bihar Establishes Artificial Intelligence Center of Excellence With Academic, Industry Partners",Bihar,no_gov_actor
@@ -657,7 +672,7 @@ Haryana Vidhan Sabha holds workshop on AI-powered language technology mission Bh
 "World Youth Skills Day: As AI reshapes jobs, Chandigarh’s skill institutes race to bridge training gap",Chandigarh,no_gov_actor
 "Punjabi University, PGIMER develop AI tool for rare skin disease diagnosis",Chandigarh,no_gov_actor
 ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites,Chandigarh,no_gov_actor
-Chandigarh court suspends three Facebook pages over AI-generated political videos,Chandigarh,no_gov_actor
+Chandigarh court suspends three Facebook pages over AI-generated political videos,Chandigarh,no_gov_actor;incident_not_policy
 Chandigarh University CSE student Utkarsh develops AI-based hospital & patient care automation startup 'Medoc',Chandigarh,no_gov_actor
 Simla-Chandigarh Diocese Reflects on Evangelisation in the Age of AI,Chandigarh,no_gov_actor
 Chandigarh University's Computer Science Engineering Students Develop AI-Powered Platform to Detect Fraudulent Apps,Chandigarh,no_gov_actor
@@ -673,14 +688,14 @@ PU session explores Punjabi reading habits in the AI era,Chandigarh,no_gov_actor
 "Haryana to use AI, upgraded SACHET portal to curb financial frauds",Chandigarh|Haryana,no_gov_actor
 "2,000 more AI cameras to boost Chandigarh policing",Chandigarh,no_gov_actor
 ‘Unbeatable infra’: Mann pitches Mohali as north India’s AI hub,Chandigarh,no_gov_actor
-Court restrains 3 FB pages as AI videos target Cong man,Chandigarh,no_gov_actor
+Court restrains 3 FB pages as AI videos target Cong man,Chandigarh,no_gov_actor;incident_not_policy
 "AI to strengthen doctors, not replace them: BHU VC",Chandigarh,no_gov_actor
 Chandigarh University Student builds AI-Powered Startup 'Fovea Infotech'; Crosses Rs 50 Lakh Turnover in Less Than a Year of Operations,Chandigarh,no_gov_actor
 Higher education to go future-ready with AI and new-age courses,Chandigarh,no_gov_actor
 "In new Haryana land pooling policy, landowners’ share fixed at 50%",Chandigarh|Haryana,not_ai;no_gov_actor
 "Axiom was practice, my real mission is to see Tricolour on Moon by 2040: Captain Shubhanshu Shukla",Chandigarh,not_ai;no_gov_actor
 "Chandigarh: AI can guide but not teach, says Hyderabad surgeon | Hindustan Times",Chandigarh,no_gov_actor
-Chandigarh court orders Facebook to block three pages for AI videos defaming Congress leader Jaintipur,Chandigarh,no_gov_actor
+Chandigarh court orders Facebook to block three pages for AI videos defaming Congress leader Jaintipur,Chandigarh,no_gov_actor;incident_not_policy
 Many innovations carried out to make Chandigarh railway station world-class: Railway Minister,Chandigarh,not_ai
 Redington and AWS Launch Cloud and AI Bus Yatra to Power Digital Growth Across India,Chandigarh,corporate_launch
 Centre wrote off Rs 9.87 lakh crore corporate loans and only 1.67 lakh crore Agri loans,Chandigarh,not_ai;no_gov_actor
@@ -900,6 +915,7 @@ BRICS Delhi Declaration: 7 Commitments That Could Actually Change Indian Law or 
 "[Advertisement] NLU Delhi Launches Online Certificate Course On Competition Law, Digital Markets &...",Delhi,not_ai
 "HM Amit Shah directs agencies to intensify measures against infiltration, use AI to counter national security challenges",Delhi,no_gov_actor
 "Tech districts , fully online government services focus of IT policy",Delhi,not_ai
+Delhi High Court orders removal of AAP's AI-generated posts showing Delhi CM Rekha Gupta as liquor vendor,Delhi,incident_not_policy
 "Delhi's draft IT policy targets 200 GCCs, tech districts, 100 pc online govt services",Delhi,not_ai
 IIT Delhi launches six-month online cybersecurity and AI security course for professionals - The Times of India,Delhi,corporate_launch
 Two IIT Delhi Grads Built & Sold an AI Startup in 4 Months. Now They Are Building for C++,Delhi,no_gov_actor
@@ -957,8 +973,10 @@ Phuket-Delhi AI flight captain's confirmatory test also positive for marijuana: 
 PM Modi inaugurates AI-powered Param Pragya supercomputing facility at IIT Delhi,Delhi,no_gov_actor
 "BRICS New Delhi Declaration: Building for Resilience, Innovation, Cooperation and Sustainability (September 12, 2026)",Delhi,not_ai;no_gov_actor
 NATIONAL PUBLIC RELATIONS SUMMIT 2026 UNDERWAY AT NEW DELHI,Delhi|Nagaland,not_ai;no_state;no_gov_actor
+High Court Orders Takedown of AI Videos Targeting Delhi CM Rekha Gupta,Delhi,incident_not_policy
 "[Advertisement] NLU Delhi x Mentblue Launch Certificate Course On TMT, Data Protection & Fintech –...",Delhi,not_ai;corporate_launch
 Delhi HC orders takedown of AI-generated videos targeting CM Rekha Gupta,Delhi,incident_not_policy
+Breaches Line Of Political Satire: Delhi HC Orders Takedown Of AI Videos Depicting CM Rekha Gupta As...,Delhi,incident_not_policy
 "IIT Delhi, I4C, Amazon launch AI cybersecurity hackathon to tackle deepfakes, online fraud",Delhi,corporate_launch;incident_not_policy
 "Union Environment Minister interacts with Start-ups to explore Affordable, Scalable, Technology-driven Solutions for Air Pollution in Delhi-NCR",Delhi,not_ai
 "AIIA-iCAINE Marks Sixth Foundation Day with Launch of National Ayurveda AI Challenge in Collaboration with Techfest, IIT Bombay",Delhi,corporate_launch
@@ -1148,6 +1166,7 @@ Anant Raj inks Haryana data center MOU as quarterly revenue hits US$ 69.46 milli
 "Haryana signs MoU to take cloud and data centre services to global markets, host overseas data",Haryana,not_ai
 "Anant Raj Cloud, Orange Business ink pact with Haryana government for global data push",Haryana,not_ai
 Haryana Department Schemes And Budget Update 2026,Haryana,not_ai
+Police flag Haryana man’s AI video targeting officer,Haryana,incident_not_policy
 "We want to work towards predictive analysis of projects: Parneet Sachdev, Haryana RERA-Panchkula",Haryana,not_ai;no_gov_actor
 "Haryana revises nursing home policy, allows doctors to take residential plots on 10-year lease",Haryana,not_ai;no_gov_actor
 "Railway ‘fails to extend’ season ticket despite train disruption, Haryana man wins Rs 5,000",Haryana,not_ai;no_gov_actor
@@ -1300,9 +1319,9 @@ The Supreme Court Just Caught AI Faking Precedents. The Harder Problem Is What I
 Semiconductor and AI Revolution,Jammu and Kashmir,no_gov_actor
 SC Sets Aside Orders in Jammu and Kashmir Bank Case over AI-Hallucinated Judgments,Jammu and Kashmir,no_gov_actor
 "'AI Should Aid, Not Replace Human Reasoning': Supreme Court on Fake Case Law",Jammu and Kashmir,no_gov_actor
-"Zero-Tolerance For Using AI-Generated Precedents Without Verification: Supreme Court Sets Aside NCLT,...",Jammu and Kashmir,no_gov_actor
-Citing AI-Generated Fake Precedents Is Advocate Misconduct; Judgments Based On Them Are Void : Supreme...,Jammu and Kashmir,no_gov_actor
-Supreme Court: Reliance on AI-Generated Fake Precedents Vitiates Adjudication; Zero Tolerance for Hallucinated Citations,Jammu and Kashmir,no_gov_actor
+"Zero-Tolerance For Using AI-Generated Precedents Without Verification: Supreme Court Sets Aside NCLT,...",Jammu and Kashmir,no_gov_actor;incident_not_policy
+Citing AI-Generated Fake Precedents Is Advocate Misconduct; Judgments Based On Them Are Void : Supreme...,Jammu and Kashmir,no_gov_actor;incident_not_policy
+Supreme Court: Reliance on AI-Generated Fake Precedents Vitiates Adjudication; Zero Tolerance for Hallucinated Citations,Jammu and Kashmir,no_gov_actor;incident_not_policy
 Securing the Nation,Jammu and Kashmir,not_ai;no_gov_actor
 "Supreme Court Sets Aside NCLT Judgment For Using AI-Hallucinated Citations, Asks BCI To Examine Issue",Jammu and Kashmir,no_gov_actor
 "IIT Jammu, NTT DATA to set up AI Centre of Excellence",Jammu and Kashmir,no_gov_actor
@@ -1508,6 +1527,7 @@ Karnataka to deploy AI-based Smart Enforcement System in 60 high-risk locations 
 "The spotlight is shifting to HSR Layout as Bengaluru strengthens its deep tech credentials. With the launch of the Centre for Applied AI for Tech Solutions (CATS) at the KEONICS facility, the focus is firmly on building and deploying applied AI at scale. Backed b",Karnataka,corporate_launch
 From agricultural land to AI City: Farmers' resistance to the Greater Bengaluru Integrated Township Project in Bidadi,Karnataka,no_gov_actor
 "BTS to see launch of KEO, Karnataka’s own AI-ready computer",Karnataka,corporate_launch
+Bengaluru vlogger files complaint over AI-generated obscene video; Hennur police launch manhunt,Karnataka,incident_not_policy
 FedEx Strengthens India’s Export Corridors with New Integrated Hub in Bengaluru,Karnataka,not_ai;no_gov_actor
 Air India grounds a Dreamliner after pilot reports 'possible defect' in fuel control switch on landing in,Karnataka,not_ai;no_gov_actor
 Can KEO steal the limelight at Bengaluru Tech Summit 2025?,Karnataka,not_ai;no_gov_actor
@@ -1551,7 +1571,7 @@ Kerala’s AI-driven governance and data policy spark privacy concerns,Kerala,no
 Experion Technologies Opens 700-Seat AI Centre in Thiruvananthapuram,Kerala,no_gov_actor
 How Kerala Aims To Become A National AI And Emerging Technologies Hub,Kerala,no_gov_actor
 AI to boost agriculture productivity in Kerala,Kerala,no_gov_actor
-Substantial portions of White Paper on Kerala’s fiscal health AI-generated: Thomas Isaac,Kerala,no_gov_actor
+Substantial portions of White Paper on Kerala’s fiscal health AI-generated: Thomas Isaac,Kerala,no_gov_actor;incident_not_policy
 "To replicate IT success story, Kerala’s AI mission targets real-world impact across governance, industry",Kerala,no_gov_actor
 "With a 63% ‘score’, Thiruvanthapuram -based AI startup aces UPSC prelims predictions",Kerala,no_gov_actor
 "After Kerala, Tamil Nadu also gets dedicated Ministry for Artificial Intelligence",Kerala|Tamil Nadu,no_gov_actor
@@ -1580,6 +1600,7 @@ Kerala Woman Loses ₹49.2 Lakh In Trading Scam Using Fake Sitharaman Video,Kera
 "Prompt, action, cut! Here comes Keralam's first full-length AI feature film",Kerala,no_gov_actor
 "Kerala to launch unified school dashboard with single sign-on, AI features",Kerala,corporate_launch
 Meet India’s AI Kid: Kerala teenager builds AI tools while studying Commerce,Kerala,no_gov_actor
+Meta removes AI video featuring CM,Kerala,incident_not_policy
 This Kerala Engineer Built Open-Source Jev Alternative a Year Before the Hype,Kerala,not_ai;no_gov_actor
 Cybercrime Is Now an Industrialised AI System: Kerala DGP,Kerala,no_gov_actor
 "More AI morphing in Kerala colleges, this time Kottayam BTech student held",Kerala,no_gov_actor
@@ -1596,6 +1617,7 @@ AI-powered robotic canal cleaning system launched in Thiruvananthapuram,Kerala,c
 ‘AI Kid of India’ urges young people to embrace technology,Kerala,no_gov_actor
 Who will win Kerala Assembly Election 2026? LDF or UDF?,Kerala,not_ai
 "Kerala-based AI startup Genrobotics secures big deal from Singapore govt, aims IPO in two years",Kerala,excluded_stock
+"Kerala floods ‘man-made’, claims Congress MLA; minister calls audio clip ‘AI-generated’",Kerala,incident_not_policy
 "Supreme Court to do away with human intervention, will deploy AI for case listing and bench allocation",Kerala,no_gov_actor
 "Kerala Election Results 2026: Date, counting start timing, result schedule, other details",Kerala,not_ai;no_gov_actor
 West Bengal: Modi's BJP conquers one of India's toughest political frontiers,Kerala|West Bengal,not_ai;no_gov_actor
@@ -1606,9 +1628,11 @@ India Assembly and State By-Elections 2026 Schedule Announced,Kerala|Puducherry,
 Kerala Transport dept to launch AI powered ticketing system for KSRTC,Kerala,corporate_launch
 NAVIQ launch to give Kerala’s AI ambitions a boost: VK Mathews,Kerala,corporate_launch
 "Kerala Digital Square Project: Computers in all lower primary schools under 100 day plan, AI Learning for high school students",Kerala,no_gov_actor
+Meta removes AI video of Kerala CM Satheesan after police intervention,Kerala,incident_not_policy
 "Pinarayi Vijayan | 2026 Kerala Assembly Election Results, Biography, CPI(M), & Chief Minister",Kerala,not_ai
 DYFI all set to launch statewide AI training programme ‘Hello2AI’,Kerala,corporate_launch
-Rs 49.2 lakh gone! Kerala woman falls for trading scam featuring AI video of Nirmala Sitharaman,Kerala,no_gov_actor
+"Cyber sleuths pushed for purge of AI videos critical of CM, UDF ministers",Kerala,incident_not_policy
+Rs 49.2 lakh gone! Kerala woman falls for trading scam featuring AI video of Nirmala Sitharaman,Kerala,no_gov_actor;incident_not_policy
 Kerala Targets 100 Start-Ups With ₹100 Cr Revenue Each,Kerala,not_ai;no_gov_actor
 Women from Keralam's Panakkad thangal family launch AI mission,Kerala,corporate_launch
 Keralam doctor taken into custody for sexually harassing junior at govt hospital,Kerala,not_ai
@@ -1617,7 +1641,8 @@ Kerala Doctor Arrested Over Sexual Harassment Allegations,Kerala,not_ai;no_gov_a
 PM Modi’s chat with Chinmayananda’s holobot sparks ‘AI Baba’ ridicule,Kerala,no_gov_actor
 "Keralam CM opens Huddle Global 2026, calls for empowering innovators to build globally competitive businesses",Kerala,not_ai
 Don’t have to leave Keralam to build something for the world: CM Satheesan,Kerala,not_ai
-Fact Check: Fake AI video of Nirmala Sitharaman promises high trading returns; Keralam woman duped of Rs 49.2 lakh,Kerala,no_gov_actor
+Meta Blocks Viral AI Video Mocking Kerala CM’s Handling of Power Crisis Following Government Order,Kerala,incident_not_policy
+Fact Check: Fake AI video of Nirmala Sitharaman promises high trading returns; Keralam woman duped of Rs 49.2 lakh,Kerala,no_gov_actor;incident_not_policy
 "1 Kg gold snatched: Two bike-borne men rob jewellery shop owner in Thiruvananthapuram, cops launch manhunt",Kerala,not_ai;corporate_launch
 "Ladakh Has Potential to Become India’s First AI State, Says LG Kavinder Gupta, Emphasizes Human-Centric Digital Growth. | The Administration of Union Territory of Ladakh | India",Ladakh,no_gov_actor
 Airtel brings mobile connectivity to Eastern Ladakh’s isolated villages,Ladakh,not_ai;no_gov_actor
@@ -2247,6 +2272,7 @@ HCLTech To Set Up First AI Data Center in Odisha,Odisha,no_gov_actor
 HCLTech to Build India’s First AI Data Centre in Odisha,Odisha,no_gov_actor
 "HCLTech to invest over ₹14,000 cr in Odisha AI data centre; technology centre to employ 5,000",Odisha,no_gov_actor
 "HCLTech to Build First India Data Centre in Odisha, Targets AI Workloads",Odisha,no_gov_actor
+'Ghost of state emblem': Youtuber roasts Odisha Higher Education Department over AI-generated logo,Odisha,incident_not_policy
 "Odisha Boosts Tech Push With AI, Robotics, Japan Centres In Bhubaneswar",Odisha,no_gov_actor
 Odisha Artificial Intelligence Policy 2025: Building an Inclusive and Responsible AI Ecosystem,Odisha,no_gov_actor
 Blue Cloud Joins IndiaAI Centre in Odisha to Scale Applied AI Innovation,Odisha,no_gov_actor
@@ -2456,7 +2482,7 @@ Putting Farmers First: Rajasthan’s Digital Push to Transform Agricultural Serv
 202611134011976 - tennews.in: National News Portal,Rajasthan,not_ai;no_gov_actor
 Rajasthan Man Arrested Over AI Deepfake Videos of Tamil Nadu CM Vijay,Rajasthan,incident_not_policy
 Rajasthan Entrepreneurs Get a New Platform as AI-Powered Private Community Makes Its Debut,Rajasthan,corporate_launch
-AI-generated newspaper clip falsely claims jail term for candidates securing low votes in Rajasthan Panchayat polls,Rajasthan,no_gov_actor
+AI-generated newspaper clip falsely claims jail term for candidates securing low votes in Rajasthan Panchayat polls,Rajasthan,no_gov_actor;incident_not_policy
 "From Paper Leaks to Screen Time: Rajasthan High Court takes suo motu cognizance of welfare of Gen Z, Alpha & Beta",Rajasthan,not_ai;no_gov_actor
 "468 AI cameras to be installed at 165 locations: Will identify suspicious faces, record audio; track wrong-...",Rajasthan,no_gov_actor
 "Bengaluru CEO says he won't hire men from UP, Bihar, Rajasthan, MP; faces backlash",Rajasthan,not_ai;no_gov_actor
@@ -2477,7 +2503,7 @@ Rajasthan Shocker: 20-Year-Old Man Cremated Inside Government School After Group
 Plot allocation to be completed within three months: Rajasthan CM on petrochemical zone,Rajasthan,not_ai
 "Rajasthan: 10.59 million voters to decide fate of 8,843 candidates in Panchayat polls tomorrow",Rajasthan,not_ai;no_gov_actor
 Rajasthan: Medical store set on fire after 17-year-old CA student dies,Rajasthan,not_ai;no_gov_actor
-AI Video of Sachin Pilot Talking About Being Pulled From Debate Goes Viral,Rajasthan,no_gov_actor
+AI Video of Sachin Pilot Talking About Being Pulled From Debate Goes Viral,Rajasthan,no_gov_actor;incident_not_policy
 Education should blend tradition with modernity: Rajasthan CM,Rajasthan,not_ai
 "AI to protect vision of diabetes patients in Rajasthan: Mission Madhunetra to launch across state, to also ...",Rajasthan,corporate_launch
 BHASHINI Showcases Multilingual AI Innovations at NCeG 2026; Launches Rajasthan Language Model Training Hackathon,Rajasthan,corporate_launch
@@ -2490,6 +2516,7 @@ Rajasthan govt ties up with International Solar Alliance to prepare energy trans
 Rajasthan education model gains national recognition,Rajasthan,not_ai;no_gov_actor
 "NBCC bags ₹501.45-crore contracts, biggest in Rajasthan, to builds labs in 922 govt schools",Rajasthan,not_ai
 Jaipur Hosts Rajasthan Education Summit 2026 Focused on Employment-Oriented AI Education,Rajasthan,no_gov_actor
+Madras HC grants bail to Rajasthan man held for creating fake AI video of CM Joseph Vijay,Rajasthan|Tamil Nadu,incident_not_policy
 "EXCLUSIVE: India ordered website takedowns on fake court orders, Reuters finds; police launch probe",Rajasthan,not_ai
 "Red Hat Recognises Adani Airports, Bharti Airtel, DoIT&C, Government of Rajasthan and IRCTC at Red Hat APAC Innovation Awards 2026",Rajasthan,not_ai
 "Union Home Minister Launches Rs 6,453 Cr Development Projects Across Rajasthan",Rajasthan,not_ai
@@ -2622,23 +2649,23 @@ Vyoma.AI Breaks Ground on 52 MW AI-Ready Data Center in Chennai,Tamil Nadu,no_go
 Vultr plans 20MW AMD Instinct AI supercluster in Chennai,Tamil Nadu,no_gov_actor
 Minister holds discussions with Global WeConnect Technologies,Tamil Nadu,not_ai
 LTM launches industrial AI lab in Chennai,Tamil Nadu,corporate_launch
-Tamil Nadu library scam raises questions over AI-generated books,Tamil Nadu,no_gov_actor
+Tamil Nadu library scam raises questions over AI-generated books,Tamil Nadu,no_gov_actor;incident_not_policy
 Tamil Nadu Model Schools Adopt Premium AI Tools,Tamil Nadu,no_gov_actor
 "Libraries of lies: The Tamil Nadu scam involving fake authors, stolen ISBNs, and AI slop",Tamil Nadu,no_gov_actor
 "Anakapalli MoU Maps 400 MW And 1,400 MW AirTrunk Campus Proposals",Tamil Nadu,not_ai
 "Vultr, AMD expand AI infrastructure with Chennai supercluster",Tamil Nadu,no_gov_actor
 "How AI rivals are becoming investors, suppliers and customers to one another | Explained",Tamil Nadu,no_gov_actor
-"Tamil Nadu suspends 5 library officials over AI-generated books, fake authors and inflated prices",Tamil Nadu,no_gov_actor
+"Tamil Nadu suspends 5 library officials over AI-generated books, fake authors and inflated prices",Tamil Nadu,no_gov_actor;incident_not_policy
 Publish buying record to purge bogus books from libraries,Tamil Nadu,not_ai;no_gov_actor
 Tamil Nadu: India investigates alleged 'AI scam' involving public library books,Tamil Nadu,no_gov_actor
 Model schools turn to premium AI models to teach students better,Tamil Nadu,no_gov_actor
 Tamil Nadu free bicycle scheme 2026: Hero Cycles deal cuts prices for 5.3 lakh Class 11 students in government and aided schools,Tamil Nadu,not_ai
 Lighthouse Learning partners with Meru International School Hyderabad to strengthen education,Tamil Nadu|Telangana,not_ai;no_gov_actor
-"AI-generated books, fake authors: Row erupts over Tamil Nadu library purchases - India Today",Tamil Nadu,no_gov_actor
+"AI-generated books, fake authors: Row erupts over Tamil Nadu library purchases - India Today",Tamil Nadu,no_gov_actor;incident_not_policy
 Kuehne+Nagel opens Chennai Tech Centre as demand for digital logistics and AI solutions grows,Tamil Nadu,no_gov_actor
 AI Vision company to commercialise Tamil Nadu’s AI assets,Tamil Nadu,no_gov_actor
-"AI-Generated Books, Fake Authors? Periyar Arivulagam Row Escalates In Tamil Nadu",Tamil Nadu,no_gov_actor
-Periyar Arivulagam Library: How Did AI-Generated Books Enter Tamil Nadu's Public Libraries?,Tamil Nadu,no_gov_actor
+"AI-Generated Books, Fake Authors? Periyar Arivulagam Row Escalates In Tamil Nadu",Tamil Nadu,no_gov_actor;incident_not_policy
+Periyar Arivulagam Library: How Did AI-Generated Books Enter Tamil Nadu's Public Libraries?,Tamil Nadu,no_gov_actor;incident_not_policy
 "India, Korea hospitals deploy stroke AI and more briefs",Tamil Nadu|Telangana,no_state;no_gov_actor
 AI tool to offer career guidance to students,Tamil Nadu,no_gov_actor
 ‘T.N. focusing on emerging domains like AI to drive tech-based learning ecosystem’,Tamil Nadu,no_gov_actor
@@ -2652,8 +2679,11 @@ AI-driven political campaigns heat up Tamil Nadu 2026 election battle,Tamil Nadu
 DMK vows Rs 10K-crore AI facility in Chennai manifesto,Tamil Nadu,no_gov_actor
 AI-powered software on the anvil to fast-track building plan approvals in Tamil Nadu,Tamil Nadu,no_gov_actor
 Tamil Nadu becomes second state to have dedicated ministry for Artificial Intelligence,Tamil Nadu,no_gov_actor
+Tamil Nadu mandates review of AI-generated content,Tamil Nadu,incident_not_policy
 TN Sets Up Dedicated Ministry For Artificial Intelligence,Tamil Nadu,no_gov_actor
+Tamil development department approval mandatory for AI-generated content: Tamil Nadu Minister Rajmohan,Tamil Nadu,incident_not_policy
 "TVK's first TN Budget puts welfare upfront, backs it with infra and human capital investments",Tamil Nadu,not_ai
+"From France lockdown claim to AI-generated Tamil Nadu CM image, five misleading posts debunked",Tamil Nadu,incident_not_policy
 "Marie Wilson is Tamil Nadu’s new Finance Minister, Sengottaiyan gets Revenue; portfolios allocated to new ministers of Vijay-led Cabinet",Tamil Nadu,not_ai
 Tamil Nadu ministers list 2026: Who is in Vijay's expanded cabinet,Tamil Nadu,not_ai
 "How is Tamil Nadu Expanding with ₹18,600 Cr Investment?",Tamil Nadu,not_ai;no_gov_actor
@@ -2856,11 +2886,11 @@ UP sets up 2 steering grps for AI push in universities,Uttar Pradesh,no_gov_acto
 "MeitY, UP to Set Up Three AI Centres Under IndiaAI Mission",Uttar Pradesh,national_only;no_gov_actor
 India’s School Leaders Gather in Lucknow This Week to Push Back on AI-First Education.,Uttar Pradesh,no_gov_actor
 "Uttar Pradesh Targets Rs 4.9 Trillion Data Centre Investments, Plans 2 GW Capacity Expansion To Emerge As India’s AI Infra Hub: Report",Uttar Pradesh,no_gov_actor
-AI-Generated Obscene Images Used for Blackmail in Uttar Pradesh,Uttar Pradesh,no_gov_actor
+AI-Generated Obscene Images Used for Blackmail in Uttar Pradesh,Uttar Pradesh,no_gov_actor;incident_not_policy
 "Uttar Pradesh: Lucknow University opens first Green Skills & Applied AI Centre, aims to train 5,000 youth in first year",Uttar Pradesh,no_gov_actor
 AI Uttar Pradesh Economy Push Takes Centre Stage in Lucknow,Uttar Pradesh,no_gov_actor
 AKTU Gets ₹20 Crore AI Centre of Excellence Under IndiaAI Mission,Uttar Pradesh,national_only;no_gov_actor
-High Court Orders DCP-Level Probe Into Alleged AI-Generated Marksheet Submitted in Lucknow,Uttar Pradesh,no_gov_actor
+High Court Orders DCP-Level Probe Into Alleged AI-Generated Marksheet Submitted in Lucknow,Uttar Pradesh,no_gov_actor;incident_not_policy
 UP opportunity: Building the foundations for the next leap in AI,Uttar Pradesh,no_gov_actor
 "GBU inaugurates centre for green skills, applied AI",Uttar Pradesh,no_gov_actor
 Uttar Pradesh Data Centre Policy 2026: Powering India’s AI-Ready Digital Backbone,Uttar Pradesh,no_gov_actor
@@ -2966,12 +2996,14 @@ Uttarakhand emerges as a growing hub for medical and nursing education,Uttarakha
 Uttarakhand: New parking facility in Kaddukhal to be ready before next tourist season,Uttarakhand,not_ai;no_gov_actor
 "Uttarakhand CM Dhami congratulates Kashipur, Rudrapur on securing top honours under Swachh Survekshan",Uttarakhand,not_ai
 Uttarakhand Govt Eases Construction Rules To Boost Development - PT Pulse,Uttarakhand,not_ai
+"FIR filed over AI video targeting Uttarakhand ex-CM Harish Rawat, BJP denies role",Uttarakhand,incident_not_policy
 Uttarakhand CM asks officials to promptly resolve complaints on CM helpline,Uttarakhand,not_ai
 Uttarakhand CM Dhami joins 133rd 'Mann Ki Baat'; hails PM Modi's vision for self-reliant India,Uttarakhand,not_ai
 Uttarakhand CM Pushkar Dhami lays foundation stones for 34 projects worth Rs 234 crore for Kumbh Mela 202,Uttarakhand,not_ai
 Uttarakhand Chief Minister participates in three-day 'Nayar Valley Adventure Festival-2026',Uttarakhand,not_ai
 CM Dhami urges Uttarakhand students to build skills for technology-driven jobs,Uttarakhand,not_ai
 Uttarakhand okays tiger protection force in two reserves; to laud wildlife saviours,Uttarakhand,not_ai;no_gov_actor
+"Uttarakhand minister's husband hits back at FIR, alleges Rs 210 crore graft; calls viral audio AI-generated",Uttarakhand,incident_not_policy
 "Uttarakhand plans new spiritual, cultural tourism circuits: Tourism minister",Uttarakhand,not_ai
 Uttarakhand's Joshimath: Six dead after helicopter crashes in northern Indian state,Uttarakhand,not_ai;no_gov_actor
 "Chipko movement | History, Causes, Leaders, Outcomes, & Facts",Uttarakhand,not_ai;no_gov_actor
@@ -3002,7 +3034,7 @@ US firm eyes Bengal startup JVs for AI-led transformation,West Bengal,no_gov_act
 ICDMAI marks a milestone in AI and Data Mining innovation,West Bengal,no_gov_actor
 Asiatic Society uses AI to recreate 1150 AD puthi,West Bengal,no_gov_actor
 "Kolkata: Andaman Earthquake, Bengal BJP Budget Push, Siliguri Varanasi Rail Link And More",West Bengal,not_ai
-AI-generated mistakes plague SIR roll names,West Bengal,no_gov_actor
+AI-generated mistakes plague SIR roll names,West Bengal,no_gov_actor;incident_not_policy
 "West Bengal to push AI, data centres under ₹30,000-crore silicon valley project",West Bengal,no_gov_actor
 IIT Kharagpur launches Rs 15 cr AI centre for mining innovation,West Bengal,corporate_launch
 "AI-powered control room with 90 screens to monitor 80,700 polling booths 24x7 during Bengal elections",West Bengal,no_gov_actor
@@ -3017,6 +3049,7 @@ TCS builds AI-ready data platform hub with Oracle in Kolkata,West Bengal,no_gov_
 "TCS, Oracle team up for AI data platform lab, centre of excellence in Kolkata's Salt Lake",West Bengal,no_gov_actor
 "West Bengal betting on policy reforms, AI to reclaim its industrial edge: Shri. Tapas Roy at CMOs’ Charcha",West Bengal,no_gov_actor
 "TCS opens India’s first Oracle AI Data Platform Lab, Centre of Excellence in Kolkata",West Bengal,no_gov_actor
+Kolkata Resident Allegedly Duped of Lakhs Through AI-Generated Fake Finance Minister Video,West Bengal,incident_not_policy
 "West Bengal Govt to unveil new policies before Durga Puja, says Finance Minister",West Bengal,not_ai
 NITTTR Kolkata Hosts AI Leadership Summit 2026; Charts Roadmap for Artificial Intelligence-Ready India,West Bengal,no_gov_actor
 IISER Kolkata hosts symposium on eco-friendly and inclusive AI,West Bengal,no_gov_actor
@@ -3048,12 +3081,14 @@ St Xavier’s College to launch MSc in artificial intelligence in 2028,West Beng
 AI-generated video shared to falsely claim 'Bangladeshis living in Kolkata declared they will rule West Bengal'; details inside,West Bengal,no_gov_actor;incident_not_policy
 "BJP IT cell sitting in EC, using AI to delete voters’ names, says Mamata",West Bengal,no_gov_actor
 ‘EC used BJP-devised AI tools’: Mamata Banerjee alleges discrepancies in West Bengal voter roll deletions | India News,West Bengal,no_gov_actor
+AI Video Shared as WB Education Minister Bratya Basu Taking Bribe Amid Elections,West Bengal,incident_not_policy
 BJP names Suvendu Adhikari West Bengal chief minister,West Bengal,not_ai
 "Who will be West Bengal’s next CM? Buzz grows as Samik Bhattacharya, Suvendu Adhikari could be asked to s",West Bengal,not_ai
 "Mamata Banerjee, West Bengal election results 2026: India’s fiercest female politician faces a fight for survival",West Bengal,not_ai;no_gov_actor
 Kolkata Corporation Posts AI-Edited Photo To Promote Cleanliness Campaign | BOOM,West Bengal,no_gov_actor
 TCS and Google Cloud launch Gemini Experience Center in Kolkata,West Bengal,not_ai;corporate_launch
 Tata Consultancy Services and Google Cloud launch AI-focused Gemini experience centre in Kolkata,West Bengal,corporate_launch
+"Fact Check: Dhruv Rathee praises BJP govt in West Bengal? No, video is AI-generated",West Bengal,incident_not_policy
 Fact-Check: Deepfake Shared as Real Video of Dhruv Rathee Praising BJP Govt in West Bengal,West Bengal,not_ai;incident_not_policy
 TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in Kolkata,West Bengal,corporate_launch
 Mitsubishi keen on setting up semiconductor plant in Bengal: Minister,West Bengal,not_ai
