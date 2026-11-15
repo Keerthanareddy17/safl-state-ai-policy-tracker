@@ -199,8 +199,9 @@ SUMMARY_MAX_WORDS = 25
 # --- Phase 3: dedup, coverage, export ----------------------------------
 
 NEAR_DUP_DAYS = 3            # same story is usually syndicated within a few days
-NEAR_DUP_RATIO = 80          # token_set_ratio when both dates are known
-NEAR_DUP_RATIO_NO_DATE = 95  # stricter when a date is missing, since time can't back it up
+SET_THRESHOLD = 80           # token_set_ratio floor: shared wording
+SORT_THRESHOLD = 45          # lowered from 60 after calibration; the numbers guard now handles subset over-merges such as Class 6 vs Class 9
+SET_THRESHOLD_NO_DATE = 95   # stricter when a date is missing, since time can't back it up
 
 # Preferred as the representative after government sources: (name, domain fragment)
 NATIONAL_OUTLETS = [
@@ -217,5 +218,40 @@ FEATURED_MIN_EVENTS = 15        # enough volume that a dashboard view isn't a ha
 FEATURED_MIN_CATEGORIES = 4     # activity should span more than one kind of action
 FEATURED_MIN_PUBLISHERS = 6     # guards against one outlet dominating a state's picture
 FEATURED_MIN_ACTIVE_MONTHS = 4  # shows sustained activity, not one news burst
+FEATURED_MAX_QUERY_SHARE = 0.40  # state label must come mainly from article text, not from which search returned it
 LOW_COVERAGE_MIN_EVENTS = 3     # below this there is nothing meaningful to show at all
 NON_SUBSTANTIVE_CATEGORIES = {"statement", "other"}  # don't count toward category breadth
+
+
+# Foreign-government stories mentioning an Indian origin (e.g. a UK minister born in Bihar)
+FOREIGN_COUNTRIES = [
+    r"\bUK(?:[\u2019']?s)?\b", r"\bU\.K\.", r"\bUS\b", r"\bU\.S\.", r"\bUSA\b", r"\bUAE\b",
+    r"\bUnited Kingdom\b", r"\bUnited States\b", r"\bBritain\b", r"\bBritish\b", r"\bSingapore\b",
+    r"\bChina\b", r"\bChinese\b", r"\bJapan\b", r"\bAustralia\b", r"\bCanada\b", r"\bGermany\b",
+    r"\bFrance\b", r"\bSaudi Arabia\b", r"\bRussia\b", r"\bPakistan\b", r"\bBangladesh\b",
+    r"\bSri Lanka\b", r"\bNepal\b", r"\bIsrael\b", r"\bSouth Korea\b",
+]
+FOREIGN_ROLES = [r"minister", r"government", r"govt", r"parliament", r"cabinet", r"president", r"senate"]
+
+# "<State>-born", "native of <State>": origin, not the subject of the story
+ORIGIN_AFTER = r"^[\s\-]*(?:born|origin)\b"
+ORIGIN_BEFORE = r"(?:native of|hails? from|hailing from)\s+$"
+
+# Union/Central government as the actor; excluded unless a state-government signal is also present
+NATIONAL_ACTOR_TERMS = [
+    r"\bUnion (?:Minister|Cabinet|Govt|Government|Ministry)\b", r"\bcentral (?:govt|government|ministry)\b",
+    r"\bGovt\.? of India\b", r"\bGovernment of India\b", r"\bMeitY\b", r"\bNITI Aayog\b",
+]
+# case-sensitive: lowercase "centre" and "AI Centre of Excellence" are not the Union government
+NATIONAL_ACTOR_CENTRE = r"\bthe Centre\b|\bCentre[\u2019']s\b|^Centre\b"
+
+# Punjab, Hyderabad (Sindh) and Bengal exist on both sides of the border; spot check found
+# all 3 sampled Punjab rows were Pakistani Punjab
+FOREIGN_OUTLET_TLDS = (".pk", ".bd")
+FOREIGN_OUTLET_NAMES = [
+    "The Express Tribune", "Express Tribune", "Dawn", "The News International", "Geo News", "Geo",
+    "ARY News", "ARY", "Samaa", "Business Recorder", "Pakistan Today", "Daily Times", "The Nation",
+    "The Daily Star", "Prothom Alo",
+]
+FOREIGN_OUTLET_DOMAINS = ["dawn.com", "geo.tv", "brecorder.com", "arynews.tv", "samaa.tv",
+                          "thedailystar.net", "prothomalo.com"]

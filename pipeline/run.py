@@ -1,5 +1,6 @@
 import argparse
 import hashlib
+import json
 import logging
 import random
 from collections import Counter
@@ -11,7 +12,8 @@ from .classify import categorize, drop_reasons, is_national_only, summarize
 from .config import REGIONS
 from .coverage import coverage_table
 from .dedup import build_events
-from .export import write_all
+from .export import calibration, write_all
+from .precision import compute as compute_precision, update_outputs
 from .fetch import fetch_newsapi, fetch_rss, load_cached
 from .normalize import canonical_url, clean_text, detect_states, normalize_date
 
@@ -58,7 +60,8 @@ def process(unique):
             state, mentioned, basis = regions[0], regions[0], "query"
         basis_all[basis or "none"] += 1
 
-        reasons = drop_reasons(title, text, state, title_only=not desc, url=url)
+        reasons = drop_reasons(title, text, state, title_only=not desc, url=url, basis=basis,
+                               source_name=r["source_name"], source_domain=r["source_domain"])
         if reasons:
             dropped.append({"title": title, "query_regions": "|".join(regions),
                             "state": state or "", "source_api": r["source_api"],
@@ -86,11 +89,33 @@ def funnel(n_raw, n_unique, dropped):
     order = [("passed AI check", {"not_ai"}),
              ("state assigned", {"no_state", "national_only"}),
              ("government actor", {"no_gov_actor", "corporate_launch"}),
-             ("not excluded", {"excluded_stock", "excluded_opinion", "incident_not_policy"})]
+             ("not excluded", {"excluded_stock", "excluded_opinion", "incident_not_policy", "foreign_government",
+                                 "national_actor", "foreign_outlet"})]
     for label, reasons in order:
         n -= sum(first[x] for x in reasons)
         stages.append((label, n))
     return stages, first
+
+
+def _previous_run():
+    """Tiers and counts from the last run's outputs, read before they are overwritten."""
+    tiers, counts = {}, {"articles": "n/a", "events": "n/a"}
+    cov = PROCESSED / "state_coverage.csv"
+    if cov.exists():
+        tiers = dict(pd.read_csv(cov)[["state", "tier"]].values)
+    rep = PROCESSED / "quality_report.json"
+    if rep.exists():
+        q = json.loads(rep.read_text())
+        counts = {"articles": q["articles"], "events": q["events"]}
+    return tiers, counts
+
+
+def _print_pairs(pairs):
+    for p in pairs:
+        print(f"  [{p['state']}] set={p['set_score']} sort={p['sort_score']} "
+              f"guard={p['numbers_guard_fired']} {p['date_a']}/{p['date_b']}")
+        print(f"      A: {p['title_a'][:105]}")
+        print(f"      B: {p['title_b'][:105]}")
 
 
 def main():
@@ -112,13 +137,6 @@ def main():
         fetch_newsapi(regions)
 
     records, truncated = load_cached()
-    print(f"\nTotal raw records: {len(records)}")
-    for k, v in Counter(r["source_api"] for r in records).most_common():
-        print(f"  {k:<18}{v}")
-    print(f"Possibly truncated queries: {len(truncated)}")
-    for q in truncated:
-        print(f"  {q}")
-
     unique = unique_articles(records)
     kept, dropped, relabelled, basis_all = process(unique)
     PROCESSED.mkdir(parents=True, exist_ok=True)
@@ -127,52 +145,39 @@ def main():
         .to_csv(PROCESSED / "dropped.csv", index=False)
 
     stages, first = funnel(len(records), len(unique), dropped)
-    print("\nFunnel:")
-    for label, n in stages:
-        print(f"  {label:<20}{n}")
-    print("\nDrop reasons (first failing check):")
-    for reason, total in first.most_common():
-        print(f"  {reason:<22}{total}")
-    print(f"\nstate_basis (kept): {dict(Counter(a['state_basis'] for a in kept))}")
 
     # phase 3 starts from the written articles.csv
     articles = pd.read_csv(PROCESSED / "articles.csv", dtype=str, keep_default_na=False).to_dict("records")
-    events = build_events(articles)
+    prev_tier, prev_counts = _previous_run()
+    pair_log = []
+    events = build_events(articles, pair_log)
     coverage = coverage_table(events)
     stats = {"funnel": stages, "drop_reasons": dict(first), "articles": len(articles),
              "relabelled": relabelled, "basis_all": dict(basis_all),
              "unknown_date_articles": sum(a["date_precision"] == "unknown" for a in articles)}
     quality = write_all(events, coverage, stats)
+    merged_pairs, missed_pairs = calibration(pair_log)
+    labelled = compute_precision()
+    if labelled:
+        update_outputs(labelled)  # write_all rebuilds the JSON files, so re-attach precision
 
-    print("\nCategory distribution (events):")
-    cats = Counter(e["category"] for e in events)
-    for k, v in cats.most_common():
-        print(f"  {k:<20}{v:<6}{100 * v / len(events):.1f}%")
-    print(f"  % other: {100 * cats['other'] / len(events):.1f}   % statement: {100 * cats['statement'] / len(events):.1f}")
-
-    print(f"\nArticles -> events: {len(articles)} -> {len(events)} "
-          f"({len(articles) - len(events)} duplicates collapsed)")
-    print("\n5 largest clusters:")
-    for c in quality["largest_clusters"]:
-        print(f"  [{c['state']}] size {c['size']}")
-        for t in c["member_titles"][:6]:
-            print(f"      - {t[:100]}")
-
-    print("\nCoverage (tier | state | events cats pubs months multi query | reason):")
+    print(f"\nArticles -> events: before {prev_counts['articles']} -> {prev_counts['events']}, "
+          f"after {len(articles)} -> {len(events)} ({len(articles) - len(events)} duplicates collapsed)")
+    print("\nCoverage (tier change | state | events cats pubs months multi query share | reason):")
     for c in coverage:
-        print(f"  {c['tier']:<13}{c['state']:<42}{c['events']:>4}{c['distinct_categories']:>4}"
+        before = prev_tier.get(c["state"], "?")
+        change = c["tier"] if before == c["tier"] else f"{before} -> {c['tier']}"
+        print(f"  {change:<30}{c['state']:<42}{c['events']:>4}{c['distinct_categories']:>4}"
               f"{c['distinct_publishers']:>4}{c['active_months']:>4}{c['multi_source_events']:>4}"
-              f"{c['query_basis_events']:>4}  {c['reason']}")
+              f"{c['query_basis_events']:>4}{c['query_basis_share']:>6.2f}  {c['reason']}")
     print(f"States by tier: {quality['states_by_tier']}")
 
-    sample = pd.read_csv(PROCESSED / "dedup_sample.csv", dtype=str, keep_default_na=False)
-    print("\n5 clusters from dedup_sample.csv:")
-    for eid in list(dict.fromkeys(sample["event_id"]))[:5]:
-        grp = sample[sample["event_id"] == eid]
-        print(f"  {eid} [{grp.iloc[0]['state']}]")
-        for _, m in grp.iterrows():
-            mark = "*" if m["is_representative"] == "True" else " "
-            print(f"    {mark} {m['date'] or '????-??-??'} {m['source_name'][:22]:<22} {m['member_title'][:80]}")
+    print("\n10 lowest-scoring merged pairs (possible over-merges)")
+    _print_pairs(merged_pairs[:10])
+    rel = pd.read_csv(PROCESSED / "relevance_sample.csv", dtype=str, keep_default_na=False)
+    print(f"\nrelevance_sample.csv ({len(rel)} events): event_id | state | category | title")
+    for _, r in rel.iterrows():
+        print(f"  {r['event_id']} | {r['state']} | {r['category']} | {r['title'][:110]}")
 
 
 if __name__ == "__main__":

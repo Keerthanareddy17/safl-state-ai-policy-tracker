@@ -1,0 +1,49 @@
+event_id,suggested_label,suggested_reason
+a0d64adc0e,relevant,State government sets up Responsible AI committee
+5ded59c0f0,relevant,State budget announces AI-related initiatives
+ad8d31327c,relevant,"CM states AI priority; statement, no action"
+53a3a4bd45,not_relevant,Libraries holding AI books; no AI government action
+8565917937,not_relevant,College record; minister only applauds
+5dadeb9d7b,relevant,State budget focuses on AI and education
+4d29775204,relevant,State government AI push on skills and governance
+af8d88557f,relevant,State MoU for AI data centre
+225e5da6d9,relevant,State plans AI City and deep tech hubs
+f4265710f9,relevant,State police deploy AI at festival
+673e1d8f1b,not_relevant,Central agency and company deal; no state actor
+4c0a9be2bc,relevant,CM launching state AI centre
+39a81b0fbb,relevant,State government creating AI Innovation Regions
+c4c104163c,not_relevant,Company-led MoU; state government not named
+68cf9ae5b7,relevant,CM says state will lead through AI policy
+28a24402ce,not_relevant,Police event programmes; AI only incidental
+b21b5e36cd,relevant,State minister statement on AI safety; weak
+85560b6691,not_relevant,Opinion-style piece; no specific state action
+3a3c8f9312,relevant,State orders teachers to complete AI course
+c11db7a678,relevant,State approves AI data centre
+9dbb62c13c,relevant,State IT minister on AI data centres
+5b1a9a861e,relevant,State introduces GPU-as-a-service framework
+07305f1fe3,relevant,State partners Meta for AI governance services
+0ef8e9f75f,not_relevant,Looks national (IAIRO); state actor unclear
+661b0c3966,relevant,State cabinet clears AI mission
+044adccdf0,relevant,MoU with Bihar government for AI CoE
+fd9ebbf2b1,relevant,MoU with Bihar government for AI CoE
+87dd0cbb05,relevant,CM statement on Punjab AI leadership
+ddfd7db1df,relevant,State AI-powered public safety system
+481641cb4d,relevant,State adds AI education to curriculum
+36eba8d1d9,relevant,State plans AI data centre projects
+82352339d3,relevant,State uses AI model for pension cases
+c08943e073,relevant,State partners on AI data centre
+e9b5a72e2b,relevant,State budget includes AI centres of excellence
+c675fceccb,not_relevant,"Railways is central government, not Delhi"
+292053a3b7,not_relevant,Company MoU with central institute; no state
+60693ebcfe,relevant,State tourism department uses AI
+8b71b1e541,relevant,State MoU to use AI in governance
+bfaaf3fb4b,relevant,State unveils draft AI policy
+1be596201a,relevant,CM launches state AI Sandbox
+cf0a3987e0,relevant,State police set up AI task force
+78513183b8,relevant,CM launches AI Sandbox initiative
+a6f2e20e81,relevant,"Minister interview on AI; weak, no action"
+149756dca7,relevant,State launches AI-powered MSME portal
+c85926f538,relevant,State higher education roadmap with AI courses
+5dd70a0f6d,relevant,State school modernisation with AI curriculum
+081ef71249,not_relevant,"Claim about election roll process, not state AI"
+9da0bea8ba,relevant,State draft industrial policy lists AI focus

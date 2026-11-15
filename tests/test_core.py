@@ -57,3 +57,35 @@ def test_dedup_dates_and_thresholds():
     assert len(cluster([a, far])) == 2
     unknown = _art("Kerala launches AI chatbot to help citizens with services", "", precision="unknown", name="D")
     assert len(cluster([a, unknown])) == 2  # below the stricter 95 bar
+
+
+def test_origin_foreign_and_number_guard():
+    from pipeline.classify import foreign_government
+    from pipeline.dedup import numbers
+    assert normalize_state("Bihar-born MP becomes UK's first AI minister") is None
+    assert normalize_state("Karnataka plans AI hub") == "Karnataka"
+    assert foreign_government("Bihar-born MP becomes UK's AI minister", "Bihar-born MP becomes UK's AI minister", None)
+    assert not foreign_government("Kerala CM meets UK minister on AI", "Kerala CM meets UK minister on AI", "title")
+    assert numbers("Rs 1,150 crore AI roadmap, six hubs") == {"1150"}  # number words are ignored
+
+
+def test_foreign_needs_adjacent_role():
+    from pipeline.classify import foreign_government
+    t = "Goa govt inks MoU with US firm to explore AI"
+    assert not foreign_government(t, t, None)
+    t2 = "UAE's AI minister warns on jobs"
+    assert foreign_government(t2, t2, None)
+
+
+def test_national_actor():
+    from pipeline.classify import is_national_actor
+    assert is_national_actor("Union Minister Vaishnaw launches AI report in Delhi")
+    assert not is_national_actor("MeitY, Govt of Andhra Pradesh launch AI CoE in Vizag")
+    assert not is_national_actor("Union Minister meets Karnataka CM on AI hub")
+
+
+def test_foreign_outlet():
+    from pipeline.classify import is_foreign_outlet
+    assert is_foreign_outlet("The Express Tribune", "tribune.com.pk")
+    assert is_foreign_outlet("Dawn", "dawn.com")
+    assert not is_foreign_outlet("The Tribune", "tribuneindia.com")

@@ -74,7 +74,7 @@ def write_all(events, coverage, stats, seed=0):
             rel_rows.append({k: e[k] for k in ["event_id", "state", "title", "category", "sector",
                                                "summary", "source_name", "source_url", "date"]}
                             | {"manual_label": ""})
-    pd.DataFrame(rel_rows).to_csv(PROCESSED / "relevance_sample.csv", index=False)
+    _write_relevance_sample(rel_rows)
 
     biggest = sorted(events, key=lambda e: -len(e["members"]))[:5]
     quality = {
@@ -107,3 +107,39 @@ def write_all(events, coverage, stats, seed=0):
         "quality": {k: quality[k] for k in summary_keys},
     }, indent=1))
     return quality
+
+
+SUGGESTIONS = ROOT / "data" / "labels" / "suggested_labels.csv"
+RELEVANCE_COLS = ["event_id", "state", "title", "category", "sector", "summary", "source_name",
+                  "source_url", "date", "suggested_label", "suggested_reason", "manual_label"]
+
+
+def _write_relevance_sample(rows):
+    path = PROCESSED / "relevance_sample.csv"
+    if path.exists():
+        old = pd.read_csv(path, dtype=str, keep_default_na=False)
+        if "manual_label" in old and old["manual_label"].str.strip().any():
+            print("relevance_sample.csv has manual labels; leaving it untouched")
+            return
+    df = pd.DataFrame(rows)
+    sugg = (pd.read_csv(SUGGESTIONS, dtype=str, keep_default_na=False)
+            if SUGGESTIONS.exists() else pd.DataFrame(columns=["event_id", "suggested_label", "suggested_reason"]))
+    df = df.drop(columns=["manual_label"], errors="ignore").merge(sugg, on="event_id", how="left").fillna("")
+    df["manual_label"] = ""
+    df.reindex(columns=RELEVANCE_COLS, fill_value="").to_csv(path, index=False)
+
+
+CALIBRATION_COLS = ["state", "date_a", "date_b", "title_a", "title_b", "set_score", "sort_score",
+                    "numbers_guard_fired", "merged"]
+
+
+def calibration(pair_log, n=15):
+    """Lowest-scoring merged pairs, and highest-scoring same-state pairs in the date window that stayed apart."""
+    merged = sorted((p for p in pair_log if p["merged"]), key=lambda p: (p["set_score"], p["sort_score"]))[:n]
+    # pairs already joined through a third article aren't misses
+    missed = sorted((p for p in pair_log
+                     if not p["merged"] and p["in_window"] and not p["same_cluster"]),
+                    key=lambda p: (-p["set_score"], -p["sort_score"]))[:n]
+    df = pd.DataFrame(merged + missed, columns=CALIBRATION_COLS)
+    df.to_csv(PROCESSED / "dedup_calibration.csv", index=False)
+    return merged, missed

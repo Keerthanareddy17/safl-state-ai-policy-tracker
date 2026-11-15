@@ -1,37 +1,37 @@
-state,events,distinct_categories,distinct_publishers,active_months,multi_source_events,query_basis_events,tier,reason
-Karnataka,70,7,44,11,9,10,featured,
-Tamil Nadu,68,7,43,9,3,12,featured,
-Uttar Pradesh,65,5,38,12,9,8,featured,
-Telangana,55,5,26,13,6,13,featured,
-Maharashtra,49,6,29,13,6,8,featured,
-Kerala,45,6,28,9,2,9,featured,
-Andhra Pradesh,44,7,28,17,3,3,featured,
-Bihar,42,7,34,9,6,0,featured,
-Gujarat,37,7,36,10,5,5,featured,
-Punjab,34,5,27,11,5,1,featured,
-Delhi,32,4,18,9,3,10,featured,
-Goa,28,4,22,9,1,4,featured,
-Odisha,27,7,27,10,6,1,featured,
-Haryana,22,6,15,8,3,2,featured,
-Jharkhand,22,5,17,10,2,1,featured,
-Nagaland,18,5,13,8,0,10,featured,
-West Bengal,15,4,12,11,1,5,featured,
-Assam,20,3,25,7,5,0,low_coverage,distinct_categories 3<4
-Rajasthan,14,4,11,8,0,1,low_coverage,events 14<15
-Chandigarh,12,2,7,8,0,6,low_coverage,events 12<15; distinct_categories 2<4
-Tripura,11,3,13,5,3,0,low_coverage,events 11<15; distinct_categories 3<4
-Chhattisgarh,10,2,13,4,1,1,low_coverage,events 10<15; distinct_categories 2<4
-Madhya Pradesh,10,2,8,5,1,2,low_coverage,events 10<15; distinct_categories 2<4
-Meghalaya,10,4,10,5,1,2,low_coverage,events 10<15
-Sikkim,9,3,9,3,1,0,low_coverage,events 9<15; distinct_categories 3<4; active_months 3<4
-Uttarakhand,9,4,9,7,2,1,low_coverage,events 9<15
-Manipur,7,4,13,3,2,0,low_coverage,events 7<15; active_months 3<4
-Arunachal Pradesh,5,4,5,4,1,2,low_coverage,events 5<15; distinct_publishers 5<6
-Mizoram,5,2,7,3,1,0,low_coverage,events 5<15; distinct_categories 2<4; active_months 3<4
-Himachal Pradesh,4,1,6,4,2,0,low_coverage,events 4<15; distinct_categories 1<4
-Jammu and Kashmir,3,1,3,3,0,1,low_coverage,events 3<15; distinct_categories 1<4; distinct_publishers 3<6; active_months 3<4
-Ladakh,1,1,1,1,0,0,insufficient,events 1<15; distinct_categories 1<4; distinct_publishers 1<6; active_months 1<4
-Puducherry,1,1,1,1,0,0,insufficient,events 1<15; distinct_categories 1<4; distinct_publishers 1<6; active_months 1<4
-Andaman and Nicobar Islands,0,0,0,0,0,0,insufficient,events 0<15; distinct_categories 0<4; distinct_publishers 0<6; active_months 0<4
-Dadra and Nagar Haveli and Daman and Diu,0,0,0,0,0,0,insufficient,events 0<15; distinct_categories 0<4; distinct_publishers 0<6; active_months 0<4
-Lakshadweep,0,0,0,0,0,0,insufficient,events 0<15; distinct_categories 0<4; distinct_publishers 0<6; active_months 0<4
+state,events,distinct_categories,distinct_publishers,active_months,multi_source_events,query_basis_events,query_basis_share,tier,reason
+Karnataka,70,7,44,11,9,10,0.14,featured,
+Tamil Nadu,69,7,43,9,3,12,0.17,featured,
+Uttar Pradesh,64,5,38,12,9,7,0.11,featured,
+Telangana,52,5,25,13,6,11,0.21,featured,
+Maharashtra,47,6,29,13,6,7,0.15,featured,
+Kerala,45,6,28,9,2,9,0.2,featured,
+Andhra Pradesh,44,7,28,17,3,3,0.07,featured,
+Gujarat,39,7,36,10,4,5,0.13,featured,
+Bihar,36,7,29,9,5,0,0.0,featured,
+Odisha,31,7,27,10,7,1,0.03,featured,
+Delhi,29,4,17,9,3,8,0.28,featured,
+Goa,29,4,22,9,1,4,0.14,featured,
+Haryana,22,6,15,8,3,2,0.09,featured,
+Jharkhand,22,5,17,10,2,1,0.05,featured,
+Punjab,22,4,19,10,3,1,0.05,featured,
+West Bengal,15,4,12,11,1,5,0.33,featured,
+Assam,20,3,25,7,5,0,0.0,low_coverage,distinct_categories 3<4
+Nagaland,18,5,13,8,0,10,0.56,low_coverage,query_basis_share 0.56>0.40
+Rajasthan,13,4,10,8,0,1,0.08,low_coverage,events 13<15
+Chandigarh,11,2,7,7,0,5,0.45,low_coverage,events 11<15; distinct_categories 2<4; query_basis_share 0.45>0.40
+Tripura,11,3,13,5,3,0,0.0,low_coverage,events 11<15; distinct_categories 3<4
+Chhattisgarh,10,2,13,4,1,1,0.1,low_coverage,events 10<15; distinct_categories 2<4
+Madhya Pradesh,10,2,8,5,1,2,0.2,low_coverage,events 10<15; distinct_categories 2<4
+Meghalaya,10,4,10,5,1,2,0.2,low_coverage,events 10<15
+Sikkim,9,3,9,3,1,0,0.0,low_coverage,events 9<15; distinct_categories 3<4; active_months 3<4
+Uttarakhand,9,4,9,7,2,1,0.11,low_coverage,events 9<15
+Manipur,7,4,13,3,2,0,0.0,low_coverage,events 7<15; active_months 3<4
+Arunachal Pradesh,5,4,5,4,1,2,0.4,low_coverage,events 5<15; distinct_publishers 5<6
+Mizoram,5,2,7,3,1,0,0.0,low_coverage,events 5<15; distinct_categories 2<4; active_months 3<4
+Himachal Pradesh,4,1,6,4,2,0,0.0,low_coverage,events 4<15; distinct_categories 1<4
+Jammu and Kashmir,2,1,2,2,0,0,0.0,insufficient,events 2<15; distinct_categories 1<4; distinct_publishers 2<6; active_months 2<4
+Ladakh,1,1,1,1,0,0,0.0,insufficient,events 1<15; distinct_categories 1<4; distinct_publishers 1<6; active_months 1<4
+Puducherry,1,1,1,1,0,0,0.0,insufficient,events 1<15; distinct_categories 1<4; distinct_publishers 1<6; active_months 1<4
+Andaman and Nicobar Islands,0,0,0,0,0,0,0.0,insufficient,events 0<15; distinct_categories 0<4; distinct_publishers 0<6; active_months 0<4
+Dadra and Nagar Haveli and Daman and Diu,0,0,0,0,0,0,0.0,insufficient,events 0<15; distinct_categories 0<4; distinct_publishers 0<6; active_months 0<4
+Lakshadweep,0,0,0,0,0,0,0.0,insufficient,events 0<15; distinct_categories 0<4; distinct_publishers 0<6; active_months 0<4

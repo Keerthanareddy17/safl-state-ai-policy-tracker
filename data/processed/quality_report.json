@@ -14,7 +14,7 @@
   ],
   [
    "state assigned",
-   2481
+   2480
   ],
   [
    "government actor",
@@ -22,21 +22,24 @@
   ],
   [
    "not excluded",
-   1008
+   968
   ]
  ],
  "drop_reasons": {
-  "no_gov_actor": 1242,
+  "no_gov_actor": 1241,
   "not_ai": 1588,
   "incident_not_policy": 52,
-  "national_only": 28,
+  "national_only": 29,
   "corporate_launch": 177,
   "no_state": 23,
-  "excluded_stock": 2
+  "foreign_government": 17,
+  "national_actor": 9,
+  "excluded_stock": 2,
+  "foreign_outlet": 14
  },
- "articles": 1008,
- "events": 804,
- "duplicates_collapsed": 204,
+ "articles": 968,
+ "events": 782,
+ "duplicates_collapsed": 186,
  "largest_clusters": [
   {
    "event_id": "85a84ab076",
@@ -64,35 +67,17 @@
   {
    "event_id": "7cdfb14601",
    "state": "Goa",
-   "size": 10,
+   "size": 9,
    "member_titles": [
     "Goa unveils AI Policy 2026, launches state hackathon and announces AI Centre of Excellence",
     "Goa Launches AI Policy 2026, Hackathon & Tech Conclave",
     "\u2018Vision turning into action\u2019: CM hails Goa AI Policy 2026",
-    "Goa Launches AI Policy 2026, Signs MoU With BITS Pilani For AI Development",
     "Goa Unveils Three-Year AI Policy, Launches Hackathon and Centre of Excellence",
     "Goa unveils AI policy 2026, launches state-level hackathon",
     "Goa unveils AI policy to diversify economy beyond tourism",
     "Goa unveils AI Policy 2026, launches state-level AI hackathon | Tap to know more | Inshorts",
     "Goa Launches AI Policy 2026 to Boost Youth Skills and Startups",
     "Goa unveils AI policy 2026"
-   ]
-  },
-  {
-   "event_id": "e848b50eb2",
-   "state": "Tamil Nadu",
-   "size": 10,
-   "member_titles": [
-    "Tamil Nadu has taken a major step into sovereign artificial intelligence by signing an MoU with Sarvam AI to build India\u2019s first full stack Sovereign AI Park in Chennai with an initial investment of \u20b910,000 crore. The agreement was exchanged on January 13 in t",
-    "Tamil Nadu, Sarvam AI ink MoU to set up India\u2019s first \u20b910,000-crore Sovereign AI Park",
-    "Tamil Nadu Partners with Sarvam AI for Sovereign AI Park",
-    "Sarvam AI signs MoU with TN Govt to set up sovereign AI park with \u20b910,000 cr investment",
-    "Tamil Nadu govt partners with Sarvam to launch Sovereign AI Park",
-    "Tamil Nadu Signs \u20b910,000 Crore MoU with Sarvam AI to Build India\u2019s First Sovereign AI Park in Chennai",
-    "Tamil Nadu to set up India's first Sovereign AI Park: What it offers",
-    "Tamil Nadu Partners Sarvam AI for Sovereign AI Park",
-    "Why is India building a \u20b910,000 crore AI district that other states may have to rent into? A five-year sovereign AI project anchored in Tamil Nadu could quietly change how India builds, governs, and deploys AI at population scale. This isn\u2019t an IT park. It\u2019s AI infra",
-    "Tamil Nadu to set up India's first sovereign AI park for \u20b910K crore"
    ]
   },
   {
@@ -112,18 +97,32 @@
    ]
   },
   {
-   "event_id": "89a75c63a1",
-   "state": "Bihar",
-   "size": 8,
+   "event_id": "e848b50eb2",
+   "state": "Tamil Nadu",
+   "size": 9,
    "member_titles": [
-    "Who is Kanishka Narayan, Bihar-born MP picked as UK's AI minister in Andy Burnham's cabinet",
-    "Bihar-born Kanishka Narayan becomes UK\u2019s first Cabinet-level AI minister",
-    "Bihar-Born Man Is UK's First AI Minister, Google AI Chief Cheers",
-    "Who is Kanishka Narayan, Bihar-born Labour MP appointed UK's first AI minister",
-    "An Indian-origin man is UK\u2019s first AI minister. Kanishka Narayan was born in Bihar",
-    "Who is Kanishka Narayan? Bihar-born MP becomes UKs first AI minister",
-    "Born In Bihar, Now UK's First AI Minister: Who Is Kanishka Narayan?",
-    "Andy Burnham overhauls UK Cabinet: Bihar-born Kanishka Narayan made AI minister, Lisa Nandy gets key role"
+    "Tamil Nadu has taken a major step into sovereign artificial intelligence by signing an MoU with Sarvam AI to build India\u2019s first full stack Sovereign AI Park in Chennai with an initial investment of \u20b910,000 crore. The agreement was exchanged on January 13 in t",
+    "Tamil Nadu, Sarvam AI ink MoU to set up India\u2019s first \u20b910,000-crore Sovereign AI Park",
+    "Tamil Nadu Partners with Sarvam AI for Sovereign AI Park",
+    "Sarvam AI signs MoU with TN Govt to set up sovereign AI park with \u20b910,000 cr investment",
+    "Tamil Nadu govt partners with Sarvam to launch Sovereign AI Park",
+    "Tamil Nadu Signs \u20b910,000 Crore MoU with Sarvam AI to Build India\u2019s First Sovereign AI Park in Chennai",
+    "Tamil Nadu to set up India's first Sovereign AI Park: What it offers",
+    "Tamil Nadu Partners Sarvam AI for Sovereign AI Park",
+    "Tamil Nadu to set up India's first sovereign AI park for \u20b910K crore"
+   ]
+  },
+  {
+   "event_id": "d4c6971f38",
+   "state": "Assam",
+   "size": 6,
+   "member_titles": [
+    "Assam CM Himanta Biswa Sarma inaugurates AI-powered Slice Small Finance Bank in Guwahati",
+    "Assam CM inaugurates India's first AI-powered bank branch of Slice Small Finance Bank in Guwahati",
+    "Assam CM inaugurates India\u2019s first AI-powered bank branch",
+    "Assam CM inaugurates India\u2019s first AI-powered \u2018phygital\u2019 bank branch in Guwahati",
+    "Assam CM Himanta Biswa Sarma inaugurated India\u2019s first AI-powered \u201cphygital\u201d banking branch by Slice Small Finance Bank on GS Road in Guwahati. Speaking at the launch, Sarma said the digitally enabled branch marks another step toward building a mor",
+    "Assam CM inaugurates India\u2019s first AI-powered Slice Small Finance Bank branch in Guwahati"
    ]
   }
  ],
@@ -131,47 +130,47 @@
  "unknown_date_events": 0,
  "relabelled_state_count": 129,
  "state_basis_all_unique_articles": {
-  "title": 3149,
+  "title": 3137,
   "description": 145,
-  "query": 766,
-  "none": 60
+  "query": 777,
+  "none": 61
  },
  "state_basis_events": {
-  "title": 655,
-  "query": 118,
+  "title": 641,
+  "query": 110,
   "description": 31
  },
  "events_by_tier": {
-  "featured": 673,
-  "low_coverage": 129,
-  "insufficient": 2
+  "featured": 636,
+  "low_coverage": 142,
+  "insufficient": 4
  },
  "states_by_tier": {
-  "featured": 17,
+  "featured": 16,
   "low_coverage": 14,
-  "insufficient": 5
+  "insufficient": 6
  },
  "events_by_state": {
   "Karnataka": 70,
-  "Tamil Nadu": 68,
-  "Uttar Pradesh": 65,
-  "Telangana": 55,
-  "Maharashtra": 49,
+  "Tamil Nadu": 69,
+  "Uttar Pradesh": 64,
+  "Telangana": 52,
+  "Maharashtra": 47,
   "Kerala": 45,
   "Andhra Pradesh": 44,
-  "Bihar": 42,
-  "Gujarat": 37,
-  "Punjab": 34,
-  "Delhi": 32,
-  "Goa": 28,
-  "Odisha": 27,
+  "Gujarat": 39,
+  "Bihar": 36,
+  "Odisha": 31,
+  "Delhi": 29,
+  "Goa": 29,
   "Haryana": 22,
   "Jharkhand": 22,
+  "Punjab": 22,
   "Assam": 20,
   "Nagaland": 18,
   "West Bengal": 15,
-  "Rajasthan": 14,
-  "Chandigarh": 12,
+  "Rajasthan": 13,
+  "Chandigarh": 11,
   "Tripura": 11,
   "Chhattisgarh": 10,
   "Madhya Pradesh": 10,
@@ -182,19 +181,195 @@
   "Arunachal Pradesh": 5,
   "Mizoram": 5,
   "Himachal Pradesh": 4,
-  "Jammu and Kashmir": 3,
+  "Jammu and Kashmir": 2,
   "Ladakh": 1,
   "Puducherry": 1
  },
  "events_by_category": {
-  "other": 232,
-  "deployment": 184,
+  "other": 214,
+  "deployment": 179,
   "policy_mission": 110,
-  "partnership_mou": 102,
-  "infrastructure": 61,
-  "institution": 37,
-  "budget_funding": 33,
-  "statement": 27,
+  "partnership_mou": 103,
+  "infrastructure": 62,
+  "institution": 36,
+  "budget_funding": 34,
+  "statement": 26,
   "regulation_ethics": 18
+ },
+ "precision": {
+  "strict": {
+   "labelled": 48,
+   "relevant": 31,
+   "overall_precision": 0.646,
+   "per_state": {
+    "Andhra Pradesh": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    },
+    "Bihar": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Delhi": {
+     "labelled": 3,
+     "relevant": 1,
+     "precision": 0.333
+    },
+    "Goa": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Gujarat": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Haryana": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Jharkhand": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    },
+    "Karnataka": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    },
+    "Kerala": {
+     "labelled": 3,
+     "relevant": 0,
+     "precision": 0.0
+    },
+    "Maharashtra": {
+     "labelled": 3,
+     "relevant": 1,
+     "precision": 0.333
+    },
+    "Odisha": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Punjab": {
+     "labelled": 3,
+     "relevant": 0,
+     "precision": 0.0
+    },
+    "Tamil Nadu": {
+     "labelled": 3,
+     "relevant": 1,
+     "precision": 0.333
+    },
+    "Telangana": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    },
+    "Uttar Pradesh": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "West Bengal": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    }
+   }
+  },
+  "lenient": {
+   "labelled": 48,
+   "relevant": 36,
+   "overall_precision": 0.75,
+   "per_state": {
+    "Andhra Pradesh": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Bihar": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Delhi": {
+     "labelled": 3,
+     "relevant": 1,
+     "precision": 0.333
+    },
+    "Goa": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Gujarat": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Haryana": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Jharkhand": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Karnataka": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Kerala": {
+     "labelled": 3,
+     "relevant": 1,
+     "precision": 0.333
+    },
+    "Maharashtra": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    },
+    "Odisha": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "Punjab": {
+     "labelled": 3,
+     "relevant": 0,
+     "precision": 0.0
+    },
+    "Tamil Nadu": {
+     "labelled": 3,
+     "relevant": 1,
+     "precision": 0.333
+    },
+    "Telangana": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    },
+    "Uttar Pradesh": {
+     "labelled": 3,
+     "relevant": 3,
+     "precision": 1.0
+    },
+    "West Bengal": {
+     "labelled": 3,
+     "relevant": 2,
+     "precision": 0.667
+    }
+   }
+  }
  }
 }

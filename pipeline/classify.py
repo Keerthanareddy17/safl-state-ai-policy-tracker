@@ -1,6 +1,7 @@
 import re
 
-from .config import (AI_GUARDS, AI_PHRASES, CATEGORY_KEYWORDS, CORPORATE_LAUNCH,
+from .config import (FOREIGN_OUTLET_DOMAINS, FOREIGN_OUTLET_NAMES, FOREIGN_OUTLET_TLDS,
+                     NATIONAL_ACTOR_CENTRE, NATIONAL_ACTOR_TERMS, FOREIGN_COUNTRIES, FOREIGN_ROLES, AI_GUARDS, AI_PHRASES, CATEGORY_KEYWORDS, CORPORATE_LAUNCH,
                      EXCLUDE_OPINION, HEADLINE_ONLY_CATEGORIES, INCIDENT_TERMS,
                      INSTITUTE_PREFIXES, INSTITUTE_SUFFIXES, POLICY_VERBS, EXCLUDE_STOCK, GOV_ACTOR_TERMS, NATIONAL_ONLY,
                      OPINION_URL_HINTS, SECTOR_KEYWORDS, SUBJECT_MAX_GAP_WORDS,
@@ -20,6 +21,16 @@ _PREFIX_RE = re.compile(INSTITUTE_PREFIXES)
 _SUFFIX_RE = re.compile(INSTITUTE_SUFFIXES, re.IGNORECASE)
 _INCIDENT_RE = re.compile("|".join(INCIDENT_TERMS), re.IGNORECASE)
 _POLICY_VERB_RE = re.compile("|".join(POLICY_VERBS), re.IGNORECASE)
+_FOREIGN_RE = re.compile("|".join(FOREIGN_COUNTRIES))
+_FOREIGN_ROLE_RE = re.compile(r"\b(?:" + "|".join(FOREIGN_ROLES) + r")s?\b", re.IGNORECASE)
+_STATE_GOV_AFTER_RE = re.compile(r"^\W*(?:\w+\W+)?(?:govt|government|minister|cabinet|department)\b", re.IGNORECASE)
+_WORD_RE = re.compile(r"\S+")
+_NATIONAL_ACTOR_RE = re.compile("|".join(NATIONAL_ACTOR_TERMS), re.IGNORECASE)
+_CENTRE_RE = re.compile(NATIONAL_ACTOR_CENTRE)
+_STATE_GOV_DIRECT_RE = re.compile(r"^\W*(?:govt|government|minister|cabinet|department)\b", re.IGNORECASE)
+_GOVT_OF_RE = re.compile(r"\b(?:govt|government)\.?\s+of\s+$", re.IGNORECASE)
+_STATE_SIGNAL_RE = re.compile(r"\bchief minister\b|\bstate (?:govt|government|minister|department)\b", re.IGNORECASE)
+_OUTLET_RE = re.compile(r"^(?:" + "|".join(map(re.escape, FOREIGN_OUTLET_NAMES)) + r")\b", re.IGNORECASE)
 _STOCK_RE = re.compile("|".join(EXCLUDE_STOCK), re.IGNORECASE)
 _OPINION_RE = re.compile("|".join(EXCLUDE_OPINION), re.IGNORECASE)
 _NATIONAL_RE = re.compile("|".join(NATIONAL_ONLY))
@@ -60,7 +71,50 @@ def excluded_reason(title, url=""):
     return None
 
 
-def drop_reasons(title, text, state, title_only, url=""):
+def _foreign_role_adjacent(title):
+    """A foreign country name with a government-role word at most two tokens away ("UK's first AI minister")."""
+    for m in _FOREIGN_RE.finditer(title):
+        before = _WORD_RE.findall(title[:m.start()])[-3:]
+        after = _WORD_RE.findall(title[m.end():])[:3]
+        if _FOREIGN_ROLE_RE.search(" ".join(before + after)):
+            return True
+    return False
+
+
+def foreign_government(title, text, basis):
+    """Foreign government is the subject and no Indian state government acts in the text."""
+    if not _foreign_role_adjacent(title):
+        return False
+    if basis in ("title", "description"):
+        if (state_is_subject(text) or _CM_RE.search(text) or _TITLE_GOV_RE.search(text)
+                or re.search(r"chief minister", text, re.IGNORECASE)):
+            return False
+        if any(_STATE_GOV_AFTER_RE.match(text[end:]) for _, _, end in find_states(text)):
+            return False
+    return True
+
+
+def is_national_actor(text):
+    """Union/Central government is the actor and nothing in the text points to a state government."""
+    union = _NATIONAL_ACTOR_RE.search(text) or _CENTRE_RE.search(text)
+    if not union:
+        return False
+    if _CM_RE.search(text) or _STATE_SIGNAL_RE.search(text) or state_is_subject(text):
+        return False
+    # "<State> govt/minister" with nothing in between, so "Delhi: Union Minister" doesn't count
+    return not any(_STATE_GOV_DIRECT_RE.match(text[end:]) or _GOVT_OF_RE.search(text[:start])
+                   for _, start, end in find_states(text))
+
+
+def is_foreign_outlet(source_name, source_domain):
+    """Pakistani/Bangladeshi publisher, by domain or by name ("The Tribune" in India doesn't match)."""
+    dom = (source_domain or "").lower()
+    if dom.endswith(FOREIGN_OUTLET_TLDS) or any(dom == d or dom.endswith("." + d) for d in FOREIGN_OUTLET_DOMAINS):
+        return True
+    return bool(_OUTLET_RE.match((source_name or "").strip()))
+
+
+def drop_reasons(title, text, state, title_only, url="", basis=None, source_name="", source_domain=""):
     """All reasons a row fails, in funnel order; empty list means relevant."""
     reasons = []
     if not is_ai(text):
@@ -72,6 +126,12 @@ def drop_reasons(title, text, state, title_only, url=""):
     ex = excluded_reason(title, url)
     if ex:
         reasons.append(ex)
+    if foreign_government(title, text, basis):
+        reasons.append("foreign_government")
+    if is_national_actor(text):
+        reasons.append("national_actor")
+    if is_foreign_outlet(source_name, source_domain):
+        reasons.append("foreign_outlet")
     return reasons
 
 

@@ -7,8 +7,8 @@ from zoneinfo import ZoneInfo
 
 from dateutil import parser as dateparser
 
-from .config import (ABBREV_CONTEXT, ABBREV_CONTEXT_WINDOW, STATE_ABBREVIATIONS,
-                     STATE_ALIASES)
+from .config import (ABBREV_CONTEXT, ABBREV_CONTEXT_WINDOW, ORIGIN_AFTER, ORIGIN_BEFORE,
+                     STATE_ABBREVIATIONS, STATE_ALIASES)
 
 IST = ZoneInfo("Asia/Kolkata")
 TRACKING_PARAMS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "igshid"}
@@ -28,6 +28,8 @@ _ABBREV_RE = re.compile(r"(?<![\w&])(" + "|".join(map(re.escape, STATE_ABBREVIAT
 _CONTEXT_RE = re.compile(r"\b(?:" + "|".join(ABBREV_CONTEXT) + r")\b", re.IGNORECASE)
 _CM_RE = re.compile(r"\bCM\b")
 _WORD_RE = re.compile(r"\S+")
+_ORIGIN_AFTER_RE = re.compile(ORIGIN_AFTER, re.IGNORECASE)
+_ORIGIN_BEFORE_RE = re.compile(ORIGIN_BEFORE, re.IGNORECASE)
 
 
 def clean_text(text):
@@ -43,11 +45,16 @@ def _near_government(text, start, end):
     return bool(_CONTEXT_RE.search(window) or _CM_RE.search(window))
 
 
+def _is_origin(text, start, end):
+    return bool(_ORIGIN_AFTER_RE.match(text[end:]) or _ORIGIN_BEFORE_RE.search(text[:start]))
+
+
 def find_states(text):
     """Return [(state, start, end)] for every alias hit, in text order."""
     hits = []
     for state, rx in _ALIAS_RES:
-        hits.extend((state, m.start(), m.end()) for m in rx.finditer(text))
+        hits.extend((state, m.start(), m.end()) for m in rx.finditer(text)
+                    if not _is_origin(text, m.start(), m.end()))
     # all-caps headlines turn words like "UP" into false abbreviations
     letters = [c for c in text if c.isalpha()]
     shouting = letters and sum(c.isupper() for c in letters) / len(letters) > 0.8
