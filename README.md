@@ -2,7 +2,7 @@
 
 A pipeline that collects news about AI-related actions by Indian state and Union Territory governments, filters it to events where a state government is the actor, removes duplicate reports, scores how well each state is covered, and publishes the result as a static dashboard.
 
-Live dashboard: _link to be added once GitHub Pages is enabled for `/docs`_
+Live dashboard: [https://keerthanareddy17.github.io/safl-state-ai-policy-tracker]
 
 Data window: 15 Nov 2025 to 15 Nov 2026. All 28 states and 8 UTs are scanned. Only states that pass a coverage scorecard are featured; the rest are kept in the data and shown as low coverage.
 
