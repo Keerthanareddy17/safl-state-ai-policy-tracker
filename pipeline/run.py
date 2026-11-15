@@ -9,7 +9,7 @@ from pathlib import Path
 import pandas as pd
 
 from .classify import categorize, drop_reasons, is_national_only, summarize
-from .config import REGIONS
+from .config import REGIONS, data_end, quarter_windows
 from .coverage import coverage_table
 from .dedup import build_events
 from .export import calibration, write_all
@@ -60,14 +60,17 @@ def process(unique):
             state, mentioned, basis = regions[0], regions[0], "query"
         basis_all[basis or "none"] += 1
 
+        date, precision = normalize_date(r["published_raw"])
         reasons = drop_reasons(title, text, state, title_only=not desc, url=url, basis=basis,
                                source_name=r["source_name"], source_domain=r["source_domain"])
+        # older stories re-published inside the search window
+        if date and not (quarter_windows()[0][0].isoformat() <= date <= data_end().isoformat()):
+            reasons.append("out_of_window")
         if reasons:
             dropped.append({"title": title, "query_regions": "|".join(regions),
                             "state": state or "", "source_api": r["source_api"],
                             "drop_reason": ";".join(reasons)})
             continue
-        date, precision = normalize_date(r["published_raw"])
         category, sector = categorize(title, text)
         kept.append({
             "article_id": aid, "state": state, "state_basis": basis, "states_mentioned": mentioned,
@@ -90,7 +93,8 @@ def funnel(n_raw, n_unique, dropped):
              ("state assigned", {"no_state", "national_only"}),
              ("government actor", {"no_gov_actor", "corporate_launch"}),
              ("not excluded", {"excluded_stock", "excluded_opinion", "incident_not_policy", "foreign_government",
-                                 "national_actor", "foreign_outlet"})]
+                                 "national_actor", "foreign_outlet"}),
+             ("in data window", {"out_of_window"})]
     for label, reasons in order:
         n -= sum(first[x] for x in reasons)
         stages.append((label, n))

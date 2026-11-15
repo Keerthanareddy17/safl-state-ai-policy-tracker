@@ -1,0 +1,645 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Policy Activity Across Indian States</title>
+<meta name="description" content="News-based tracker of AI policy activity by Indian state and UT governments.">
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7; --surface: #fcfcfb;
+    --text: #0b0b0b; --text-2: #52514e; --muted: #6f6d67;
+    --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,.10);
+    --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6;
+    --other: #b9b8b0;
+    --tier-feat: #2a78d6; --tier-low: #86b6ef; --tier-insuf: #b9b8b0;
+    --chip-ink: #ffffff;
+    --link: #1c5cab;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --page: #0d0d0d; --surface: #1a1a19;
+      --text: #f0efec; --text-2: #c3c2b7; --muted: #9a988f;
+      --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,.10);
+      --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9;
+      --other: #5a5953;
+      --tier-feat: #3987e5; --tier-low: #1c5cab; --tier-insuf: #5a5953;
+      --link: #6da7ec;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19;
+    --text: #f0efec; --text-2: #c3c2b7; --muted: #9a988f;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,.10);
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9;
+    --other: #5a5953;
+    --tier-feat: #3987e5; --tier-low: #1c5cab; --tier-insuf: #5a5953;
+    --link: #6da7ec;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--page); color: var(--text);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px 64px; }
+  a { color: var(--link); }
+  h1 { font-size: clamp(24px, 4.4vw, 34px); line-height: 1.15; margin: 40px 0 8px; font-weight: 650; letter-spacing: -.01em; }
+  h2 { font-size: 20px; margin: 0 0 4px; font-weight: 650; }
+  .lede { color: var(--text-2); margin: 0; max-width: 70ch; }
+  .window { color: var(--muted); font-size: 13px; margin-top: 8px; }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin: 24px 0 8px; }
+  .tile { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+  .tile .label { font-size: 13px; color: var(--text-2); }
+  .tile .value { font-size: 28px; font-weight: 650; line-height: 1.2; margin-top: 2px; }
+  .tile .sub { font-size: 12px; color: var(--muted); margin-top: 4px; }
+
+  section { margin-top: 44px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-top: 14px; }
+  .note { color: var(--muted); font-size: 13px; margin: 6px 0 0; max-width: 80ch; }
+  .error { background: #fdecec; color: #8a1f1f; border: 1px solid #e5b5b5; padding: 12px 14px; border-radius: 8px; margin-top: 16px; display: none; }
+
+  /* coverage list */
+  .thresholds { font-size: 13px; color: var(--text-2); margin: 0 0 10px; }
+  .cov-row { border-top: 1px solid var(--grid); }
+  .cov-row:first-child { border-top: 0; }
+  .cov-btn {
+    all: unset; box-sizing: border-box; width: 100%; cursor: pointer; padding: 7px 4px;
+    display: grid; grid-template-columns: minmax(110px, 200px) 104px 1fr 40px; gap: 10px; align-items: center;
+  }
+  .cov-btn:hover { background: color-mix(in srgb, var(--text) 4%, transparent); }
+  .cov-btn:focus-visible { outline: 2px solid var(--link); outline-offset: 1px; }
+  .cov-name { font-size: 14px; overflow-wrap: anywhere; }
+  .badge { font-size: 11.5px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--border); text-align: center; white-space: nowrap; color: var(--text-2); }
+  .badge.featured { background: color-mix(in srgb, var(--tier-feat) 16%, transparent); color: var(--text); }
+  .badge.low_coverage { background: color-mix(in srgb, var(--tier-low) 22%, transparent); }
+  .badge.insufficient { background: transparent; color: var(--muted); }
+  .bar-track { height: 10px; }
+  .bar-fill { height: 10px; border-radius: 0 4px 4px 0; min-width: 2px; }
+  .cov-n { text-align: right; font-variant-numeric: tabular-nums; font-size: 14px; }
+  .cov-detail { padding: 4px 8px 12px 8px; font-size: 13px; color: var(--text-2); }
+  .cov-detail ul { margin: 6px 0 0; padding-left: 18px; }
+  .cov-detail .metrics { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+  .tier-key { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12.5px; color: var(--text-2); margin-top: 12px; }
+  .tier-key span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; background: var(--k); }
+
+  /* charts */
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12.5px; color: var(--text-2); margin-bottom: 10px; }
+  .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+  .chart-box { position: relative; width: 100%; }
+  details.tv { margin-top: 12px; font-size: 13px; }
+  details.tv summary { cursor: pointer; color: var(--text-2); }
+  .tv-scroll { overflow-x: auto; margin-top: 8px; }
+  .tv table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+  .tv th, .tv td { padding: 4px 8px; border-bottom: 1px solid var(--grid); text-align: right; white-space: nowrap; }
+  .tv th:first-child, .tv td:first-child { text-align: left; }
+  .tv th { color: var(--text-2); font-weight: 600; }
+
+  /* filters + events */
+  .filters { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: center; margin: 14px 0 12px; }
+  .filters select, .filters input[type="search"] {
+    font: inherit; font-size: 14px; color: var(--text); background: var(--surface);
+    border: 1px solid var(--axis); border-radius: 8px; padding: 7px 10px; min-width: 0;
+  }
+  .filters input[type="search"] { flex: 1 1 200px; }
+  .filters label.chk { display: flex; gap: 6px; align-items: center; font-size: 14px; color: var(--text-2); }
+  .count { font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+  .ev-head, .ev-row { display: grid; grid-template-columns: 88px 160px 150px 1fr 96px; gap: 12px; padding: 10px 12px; }
+  .ev-head { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; border-bottom: 1px solid var(--axis); padding-bottom: 6px; }
+  .ev-list { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .ev-list .ev-head { padding-top: 10px; }
+  .ev-row { border-top: 1px solid var(--grid); align-items: start; font-size: 14px; }
+  .ev-date { color: var(--text-2); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .ev-title a { font-weight: 550; text-decoration: none; }
+  .ev-title a:hover { text-decoration: underline; }
+  .ev-summary { color: var(--text-2); font-size: 13px; margin-top: 3px; }
+  .ev-src { color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--text-2); }
+  .chip::before { content: ""; width: 9px; height: 9px; border-radius: 2px; background: var(--c); flex: none; }
+  .inferred { display: inline-block; margin-left: 6px; font-size: 11px; color: var(--muted); border: 1px solid var(--axis); border-radius: 999px; padding: 0 6px; cursor: help; white-space: nowrap; }
+  .src-btn { all: unset; cursor: pointer; font-size: 12px; color: var(--text-2); border: 1px solid var(--axis); border-radius: 999px; padding: 1px 9px; white-space: nowrap; }
+  .src-btn:focus-visible { outline: 2px solid var(--link); }
+  .src-more { grid-column: 4 / 6; font-size: 13px; color: var(--text-2); }
+  .more { margin-top: 12px; }
+  .more button { font: inherit; font-size: 14px; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--axis); background: var(--surface); color: var(--text); cursor: pointer; }
+  .empty { padding: 24px; color: var(--muted); text-align: center; }
+
+  /* method */
+  .method { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; margin-top: 14px; }
+  .method .card { margin: 0; }
+  .method h3 { font-size: 15px; margin: 0 0 6px; }
+  .method p, .method li { font-size: 14px; color: var(--text-2); margin: 6px 0; }
+  .method ul { padding-left: 18px; margin: 4px 0; }
+  .funnel { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  .funnel td { padding: 3px 0; border-bottom: 1px solid var(--grid); color: var(--text-2); }
+  .funnel td:last-child { text-align: right; font-variant-numeric: tabular-nums; color: var(--text); }
+  footer { margin-top: 48px; font-size: 12.5px; color: var(--muted); }
+
+  @media (max-width: 760px) {
+    .cov-btn { grid-template-columns: 1fr 96px 36px; }
+    .cov-btn .bar-track { grid-column: 1 / 4; grid-row: 2; }
+    .ev-head { display: none; }
+    .ev-row { grid-template-columns: 1fr; gap: 4px; padding: 12px; }
+    .ev-row > div { min-width: 0; }
+    .ev-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
+    .src-more { grid-column: 1; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>AI Policy Activity Across Indian States</h1>
+    <p class="lede">News reports of AI-related actions by state and Union Territory governments: policies, missions, MoUs, data centres and deployments, collected from public news feeds and grouped into events.</p>
+    <div class="window" id="window"></div>
+    <div class="tiles" id="tiles" aria-label="Summary figures"></div>
+    <div class="error" id="error" role="alert"></div>
+  </header>
+
+  <section id="coverage">
+    <h2>Coverage across India</h2>
+    <p class="note">Events found per state or UT. A state is featured in the charts and table below only if its news coverage clears every threshold. Select a row to see why.</p>
+    <div class="card">
+      <p class="thresholds" id="thresholds"></p>
+      <div id="cov-list"></div>
+      <div class="tier-key" aria-hidden="true">
+        <span style="--k: var(--tier-feat)">Featured</span>
+        <span style="--k: var(--tier-low)">Low coverage</span>
+        <span style="--k: var(--tier-insuf)">Insufficient</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="categories">
+    <h2>Events by category, featured states</h2>
+    <p class="note">Each event has one category, assigned by keyword rules. Statements (a leader speaking, no action) and uncategorised events are grouped in grey.</p>
+    <div class="card">
+      <div class="legend" id="cat-legend"></div>
+      <div class="chart-box" id="cat-box"><canvas id="cat-chart" role="img" aria-label="Stacked bar chart of events per featured state by category"></canvas></div>
+      <details class="tv"><summary>Show as table</summary><div class="tv-scroll" id="cat-table"></div></details>
+    </div>
+  </section>
+
+  <section id="months">
+    <h2>Events by month, featured states</h2>
+    <p class="note" id="month-note"></p>
+    <div class="card">
+      <div class="chart-box" style="height:260px"><canvas id="month-chart" role="img" aria-label="Bar chart of events per month in featured states"></canvas></div>
+      <details class="tv"><summary>Show as table</summary><div class="tv-scroll" id="month-table"></div></details>
+    </div>
+  </section>
+
+  <section id="events">
+    <h2>Events</h2>
+    <div class="filters" role="search">
+      <label class="chk"><input type="checkbox" id="f-low"> Include low-coverage states</label>
+      <select id="f-state" aria-label="State"></select>
+      <select id="f-cat" aria-label="Category"></select>
+      <input type="search" id="f-q" placeholder="Search title, summary, source" aria-label="Search events">
+    </div>
+    <div class="count" id="ev-count"></div>
+    <div class="ev-list" id="ev-list"></div>
+    <div class="more" id="ev-more"></div>
+    <p class="note"><span class="inferred">inferred</span> marks events where the state was taken from the search that returned the article, not from its text. Links go through Google News and redirect to the publisher.</p>
+  </section>
+
+  <section id="method">
+    <h2>Method &amp; limits</h2>
+    <div class="method" id="method"></div>
+  </section>
+
+  <footer id="footer"></footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+(function () {
+  "use strict";
+
+  // Fixed category order = fixed colour slots; statement and other share a neutral.
+  var CATS = [
+    { key: "policy_mission",    label: "Policy & mission",    css: "--s1" },
+    { key: "regulation_ethics", label: "Regulation & ethics", css: "--s2" },
+    { key: "institution",       label: "Institutions",        css: "--s3" },
+    { key: "partnership_mou",   label: "Partnerships & MoUs", css: "--s4" },
+    { key: "infrastructure",    label: "Infrastructure",      css: "--s5" },
+    { key: "deployment",        label: "Deployment",          css: "--s6" },
+    { key: "budget_funding",    label: "Budget & funding",    css: "--s7" },
+    { key: "statement",         label: "Statement",           css: "--other" },
+    { key: "other",             label: "Other",               css: "--other" }
+  ];
+  var CAT_BY_KEY = {};
+  CATS.forEach(function (c) { CAT_BY_KEY[c.key] = c; });
+  var GREY_KEYS = ["statement", "other"];
+  var TIER_LABEL = { featured: "Featured", low_coverage: "Low coverage", insufficient: "Insufficient" };
+  var METRIC_LABEL = {
+    events: "events", distinct_categories: "categories", distinct_publishers: "publishers",
+    active_months: "active months", query_basis_share: "share of events with state inferred from the search"
+  };
+  var PAGE = 40;
+
+  var data, charts = {}, shown = PAGE;
+
+  function el(tag, props, children) {
+    var n = document.createElement(tag);
+    Object.keys(props || {}).forEach(function (k) {
+      if (k === "text") n.textContent = props[k];
+      else if (k === "class") n.className = props[k];
+      else n.setAttribute(k, props[k]);
+    });
+    (children || []).forEach(function (c) { if (c) n.appendChild(c); });
+    return n;
+  }
+  function css(name) { return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
+  function num(n) { return Number(n).toLocaleString("en-IN"); }
+  function pct(x) { return (x * 100).toFixed(1) + "%"; }
+  function monthLabel(ym) {
+    var p = ym.split("-");
+    return new Date(Date.UTC(+p[0], +p[1] - 1, 1)).toLocaleString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+  }
+  function dateLabel(iso) {
+    if (!iso) return "date unknown";
+    var p = iso.split("-");
+    if (p.length === 2) return monthLabel(iso);
+    return new Date(Date.UTC(+p[0], +p[1] - 1, +p[2])).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
+  }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : null; }
+
+  /* ---------- header ---------- */
+  function renderHeader() {
+    var q = data.quality, w = data.window;
+    document.getElementById("window").textContent =
+      "Data window: " + dateLabel(w.start) + " – " + dateLabel(w.end);
+
+    var p = q.precision, tiles = [];
+    tiles.push(["Events (featured states)", num(q.events_by_tier.featured || 0), num(q.events) + " events in all states"]);
+    tiles.push(["Featured states", q.states_by_tier.featured + " / 36", "36 states and UTs scanned"]);
+    tiles.push(["Articles collected", num(q.funnel[0][1]), num(q.funnel[1][1]) + " unique; " + num(q.articles) + " relevant"]);
+    tiles.push(["Duplicate reports collapsed", num(q.duplicates_collapsed), num(q.articles) + " articles into " + num(q.events) + " events"]);
+    if (p) {
+      tiles.push(["Precision (strict – lenient)",
+        (p.strict.overall_precision * 100).toFixed(0) + "–" + (p.lenient.overall_precision * 100).toFixed(0) + "%",
+        p.strict.labelled + "-event manual sample" +
+          (p.current_output ? "; " + (p.current_output.strict.overall_precision * 100).toFixed(0) + "–" +
+            (p.current_output.lenient.overall_precision * 100).toFixed(0) + "% on the " + p.current_output.strict.labelled + " still in output" : "")]);
+    }
+    var box = document.getElementById("tiles");
+    tiles.forEach(function (t) {
+      box.appendChild(el("div", { class: "tile" }, [
+        el("div", { class: "label", text: t[0] }),
+        el("div", { class: "value", text: t[1] }),
+        el("div", { class: "sub", text: t[2] })
+      ]));
+    });
+  }
+
+  /* ---------- coverage ---------- */
+  function readableReason(part) {
+    var m = /^(\w+) ([\d.]+)([<>])([\d.]+)$/.exec(part);
+    if (!m) return part;
+    var name = METRIC_LABEL[m[1]] || m[1];
+    return m[3] === "<"
+      ? name + ": " + m[2] + " (needs at least " + m[4] + ")"
+      : name + ": " + m[2] + " (must be at most " + m[4] + ")";
+  }
+  function renderCoverage() {
+    document.getElementById("thresholds").textContent =
+      "Featured: at least 15 events, 4 categories (statements and other excluded), 6 publishers and 4 active months, and no more than 40% of events with the state inferred from the search. Low coverage: at least 3 events. Below that: insufficient.";
+    var rows = data.state_coverage, max = Math.max.apply(null, rows.map(function (r) { return r.events; })) || 1;
+    var list = document.getElementById("cov-list");
+    rows.forEach(function (r, i) {
+      var reasons = r.reason ? r.reason.split("; ") : [];
+      var tip = r.tier === "featured" ? "Meets every threshold" : "Fails: " + reasons.map(readableReason).join("; ");
+      var fill = el("div", { class: "bar-fill" });
+      fill.style.width = (r.events / max * 100) + "%";
+      fill.style.background = "var(--tier-" + (r.tier === "featured" ? "feat" : r.tier === "low_coverage" ? "low" : "insuf") + ")";
+      var btn = el("button", { class: "cov-btn", type: "button", "aria-expanded": "false", "aria-controls": "cov-d" + i, title: tip }, [
+        el("span", { class: "cov-name", text: r.state }),
+        el("span", { class: "badge " + r.tier, text: TIER_LABEL[r.tier] }),
+        el("div", { class: "bar-track" }, [fill]),
+        el("span", { class: "cov-n", text: String(r.events) })
+      ]);
+      var detail = el("div", { class: "cov-detail", id: "cov-d" + i, hidden: "" }, [
+        el("div", { class: "metrics" }, [
+          el("span", { text: r.events + " events" }),
+          el("span", { text: r.distinct_categories + " categories" }),
+          el("span", { text: r.distinct_publishers + " publishers" }),
+          el("span", { text: r.active_months + " active months" }),
+          el("span", { text: r.multi_source_events + " reported by 2+ sources" }),
+          el("span", { text: r.query_basis_events + " with state inferred from search (" + Math.round(r.query_basis_share * 100) + "%)" })
+        ]),
+        r.tier === "featured"
+          ? el("p", { class: "note", text: "Meets every threshold." })
+          : el("ul", {}, reasons.map(function (x) { return el("li", { text: readableReason(x) }); }))
+      ]);
+      btn.addEventListener("click", function () {
+        var open = btn.getAttribute("aria-expanded") === "true";
+        btn.setAttribute("aria-expanded", String(!open));
+        detail.hidden = open;
+      });
+      list.appendChild(el("div", { class: "cov-row" }, [btn, detail]));
+    });
+  }
+
+  /* ---------- charts ---------- */
+  function featuredEvents() { return data.events.filter(function (e) { return e.tier === "featured"; }); }
+
+  function chartDefaults() {
+    return { text2: css("--text-2"), muted: css("--muted"), grid: css("--grid"), surface: css("--surface") };
+  }
+
+  function renderCategoryChart() {
+    var d = chartDefaults(), evs = featuredEvents(), totals = {}, byState = {};
+    evs.forEach(function (e) {
+      byState[e.state] = byState[e.state] || {};
+      byState[e.state][e.category] = (byState[e.state][e.category] || 0) + 1;
+      totals[e.state] = (totals[e.state] || 0) + 1;
+    });
+    var states = Object.keys(totals).sort(function (a, b) { return totals[b] - totals[a] || a.localeCompare(b); });
+    // chart series: seven coloured categories, then statement + other folded into one grey series
+    var series = CATS.filter(function (c) { return GREY_KEYS.indexOf(c.key) < 0; }).map(function (c) {
+      return { label: c.label, color: css(c.css), keys: [c.key] };
+    });
+    series.push({ label: "Statement & other", color: css("--other"), keys: GREY_KEYS });
+
+    var legend = document.getElementById("cat-legend");
+    legend.textContent = "";
+    series.forEach(function (s) {
+      var sw = el("i"); sw.style.background = s.color;
+      legend.appendChild(el("span", {}, [sw, document.createTextNode(s.label)]));
+    });
+
+    var datasets = series.map(function (s) {
+      return {
+        label: s.label,
+        data: states.map(function (st) { return s.keys.reduce(function (a, k) { return a + ((byState[st] || {})[k] || 0); }, 0); }),
+        backgroundColor: s.color, borderColor: d.surface, borderWidth: 2, borderRadius: 3, borderSkipped: false,
+        maxBarThickness: 22
+      };
+    });
+    document.getElementById("cat-box").style.height = (states.length * 30 + 56) + "px";
+    if (charts.cat) charts.cat.destroy();
+    charts.cat = new Chart(document.getElementById("cat-chart"), {
+      type: "bar",
+      data: { labels: states, datasets: datasets },
+      options: {
+        indexAxis: "y", maintainAspectRatio: false, animation: false,
+        scales: {
+          x: { stacked: true, grid: { color: d.grid }, border: { display: false }, ticks: { color: d.muted, precision: 0 } },
+          y: { stacked: true, grid: { display: false }, border: { display: false }, ticks: { color: d.text2 } }
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            mode: "index", intersect: false,
+            filter: function (item) { return item.parsed.x > 0; },
+            callbacks: {
+              label: function (c) { return " " + c.parsed.x + "  " + c.dataset.label; },
+              footer: function (items) { return "Total " + items.reduce(function (a, i) { return a + i.parsed.x; }, 0); }
+            }
+          }
+        }
+      }
+    });
+
+    // table view
+    var head = ["State"].concat(series.map(function (s) { return s.label; })).concat(["Total"]);
+    var rows = states.map(function (st, i) {
+      return [st].concat(datasets.map(function (ds) { return String(ds.data[i]); })).concat([String(totals[st])]);
+    });
+    document.getElementById("cat-table").textContent = "";
+    document.getElementById("cat-table").appendChild(tableEl(head, rows));
+  }
+
+  function tableEl(head, rows) {
+    var t = el("table");
+    t.appendChild(el("thead", {}, [el("tr", {}, head.map(function (h) { return el("th", { text: h }); }))]));
+    t.appendChild(el("tbody", {}, rows.map(function (r) { return el("tr", {}, r.map(function (c) { return el("td", { text: c }); })); })));
+    return t;
+  }
+
+  function renderMonthChart() {
+    var d = chartDefaults(), w = data.window, counts = {}, outside = 0;
+    featuredEvents().forEach(function (e) {
+      if (!e.date) return;
+      var ym = e.date.slice(0, 7);
+      if (e.date < w.start || e.date > w.end) { outside++; return; }
+      counts[ym] = (counts[ym] || 0) + 1;
+    });
+    var months = [], cur = new Date(Date.UTC(+w.start.slice(0, 4), +w.start.slice(5, 7) - 1, 1));
+    var endYm = w.end.slice(0, 7);
+    for (;;) {
+      var ym = cur.toISOString().slice(0, 7);
+      months.push(ym);
+      if (ym >= endYm) break;
+      cur.setUTCMonth(cur.getUTCMonth() + 1);
+    }
+    var note = "Events by earliest publication date. " + monthLabel(months[0]) + " and " + monthLabel(months[months.length - 1]) +
+      " are part-months (the window starts and ends mid-month), and the most recent weeks also draw on a second news source.";
+    if (outside) note += " " + outside + " featured event" + (outside > 1 ? "s" : "") + " dated before the window (older stories re-published) " + (outside > 1 ? "are" : "is") + " left out of this chart.";
+    document.getElementById("month-note").textContent = note;
+
+    var values = months.map(function (m) { return counts[m] || 0; });
+    if (charts.month) charts.month.destroy();
+    charts.month = new Chart(document.getElementById("month-chart"), {
+      type: "bar",
+      data: { labels: months.map(monthLabel), datasets: [{
+        label: "Events", data: values, backgroundColor: css("--s1"),
+        borderRadius: { topLeft: 4, topRight: 4 }, borderSkipped: "bottom", maxBarThickness: 24
+      }] },
+      options: {
+        maintainAspectRatio: false, animation: false,
+        scales: {
+          x: { grid: { display: false }, border: { color: css("--axis") }, ticks: { color: d.muted, maxRotation: 60, autoSkip: false } },
+          y: { beginAtZero: true, grid: { color: d.grid }, border: { display: false }, ticks: { color: d.muted, precision: 0 } }
+        },
+        plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return " " + c.parsed.y + " events"; } } } }
+      }
+    });
+    document.getElementById("month-table").textContent = "";
+    document.getElementById("month-table").appendChild(tableEl(["Month", "Events"], months.map(function (m, i) { return [monthLabel(m), String(values[i])]; })));
+  }
+
+  /* ---------- events table ---------- */
+  var f = {};
+  function initFilters() {
+    f.low = document.getElementById("f-low");
+    f.state = document.getElementById("f-state");
+    f.cat = document.getElementById("f-cat");
+    f.q = document.getElementById("f-q");
+    f.cat.appendChild(el("option", { value: "", text: "All categories" }));
+    CATS.forEach(function (c) { f.cat.appendChild(el("option", { value: c.key, text: c.label })); });
+    f.low.addEventListener("change", function () { fillStates(); shown = PAGE; renderEvents(); });
+    [f.state, f.cat].forEach(function (n) { n.addEventListener("change", function () { shown = PAGE; renderEvents(); }); });
+    f.q.addEventListener("input", function () { shown = PAGE; renderEvents(); });
+    fillStates();
+  }
+  function fillStates() {
+    var keep = f.state.value, include = f.low.checked;
+    var names = {};
+    data.events.forEach(function (e) { if (include ? e.tier !== "insufficient" : e.tier === "featured") names[e.state] = true; });
+    f.state.textContent = "";
+    f.state.appendChild(el("option", { value: "", text: "All states" }));
+    Object.keys(names).sort().forEach(function (s) { f.state.appendChild(el("option", { value: s, text: s })); });
+    f.state.value = names[keep] ? keep : "";
+  }
+  function filtered() {
+    var include = f.low.checked, st = f.state.value, cat = f.cat.value, q = f.q.value.trim().toLowerCase();
+    return data.events.filter(function (e) {
+      if (!(include ? e.tier !== "insufficient" : e.tier === "featured")) return false;
+      if (st && e.state !== st) return false;
+      if (cat && e.category !== cat) return false;
+      if (q && (e.title + " " + e.summary + " " + e.source_name + " " + e.state).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    }).sort(function (a, b) { return (b.date || "").localeCompare(a.date || ""); });
+  }
+  function eventRow(e) {
+    var cat = CAT_BY_KEY[e.category] || CAT_BY_KEY.other;
+    var chip = el("span", { class: "chip", text: cat.label });
+    chip.style.setProperty("--c", "var(" + cat.css + ")");
+    var stateCell = el("div", { class: "ev-state" }, [document.createTextNode(e.state)]);
+    if (e.state_basis === "query") {
+      stateCell.appendChild(el("span", { class: "inferred", text: "inferred", title: "State inferred from search query" }));
+    }
+    var url = safeUrl(e.source_url);
+    var titleEl = url
+      ? el("a", { href: url, target: "_blank", rel: "noopener noreferrer", text: e.title })
+      : el("span", { text: e.title });
+    var main = el("div", { class: "ev-title" }, [titleEl]);
+    if (e.summary && e.summary !== e.title) main.appendChild(el("div", { class: "ev-summary", text: e.summary }));
+    if (e.source_name) main.appendChild(el("div", { class: "ev-src", text: e.source_name }));
+
+    var srcCell = el("div");
+    var row = el("div", { class: "ev-row" });
+    var more = null;
+    if (e.source_count >= 2) {
+      var btn = el("button", { class: "src-btn", type: "button", "aria-expanded": "false", text: e.source_count + " sources" });
+      btn.addEventListener("click", function () {
+        var open = btn.getAttribute("aria-expanded") === "true";
+        btn.setAttribute("aria-expanded", String(!open));
+        if (open) { more.remove(); return; }
+        more = el("div", { class: "src-more" }, [document.createTextNode("Also reported by: ")]);
+        var links = e.other_links || [];
+        if (links.length) {
+          links.forEach(function (l, i) {
+            if (i) more.appendChild(document.createTextNode(", "));
+            var u = safeUrl(l.url);
+            more.appendChild(u ? el("a", { href: u, target: "_blank", rel: "noopener noreferrer", text: l.name }) : document.createTextNode(l.name));
+          });
+        } else {
+          more.appendChild(document.createTextNode((e.other_sources || "").split("|").join(", ")));
+        }
+        row.appendChild(more);
+      });
+      srcCell.appendChild(btn);
+    }
+    row.appendChild(el("div", { class: "ev-date", text: dateLabel(e.date) }));
+    row.appendChild(stateCell);
+    row.appendChild(el("div", {}, [chip]));
+    row.appendChild(main);
+    row.appendChild(srcCell);
+    return row;
+  }
+  function renderEvents() {
+    var rows = filtered(), list = document.getElementById("ev-list");
+    list.textContent = "";
+    list.appendChild(el("div", { class: "ev-head" }, ["Date", "State", "Category", "Event", "Sources"].map(function (h) { return el("div", { text: h }); })));
+    document.getElementById("ev-count").textContent = num(rows.length) + " event" + (rows.length === 1 ? "" : "s");
+    if (!rows.length) list.appendChild(el("div", { class: "empty", text: "No events match these filters." }));
+    rows.slice(0, shown).forEach(function (e) { list.appendChild(eventRow(e)); });
+    var more = document.getElementById("ev-more");
+    more.textContent = "";
+    if (rows.length > shown) {
+      var b = el("button", { type: "button", text: "Show more (" + num(rows.length - shown) + " remaining)" });
+      b.addEventListener("click", function () { shown += PAGE; renderEvents(); });
+      more.appendChild(b);
+    }
+  }
+
+  /* ---------- method ---------- */
+  function block(title, parts) {
+    return el("div", { class: "card" }, [el("h3", { text: title })].concat(parts));
+  }
+  function ul(items) { return el("ul", {}, items.map(function (t) { return el("li", { text: t }); })); }
+  function renderMethod() {
+    var q = data.quality, p = q.precision, other = (q.events_by_category.other || 0) / q.events;
+    var box = document.getElementById("method");
+
+    box.appendChild(block("Sources", [
+      el("p", { text: "Google News RSS: for each of the 36 states and UTs, two keyword groups and four quarterly windows. NewsAPI: one request per region, matching the headline or description, limited to roughly the last 29 days by the free plan. English-language results only." })
+    ]));
+    box.appendChild(block("What counts as relevant", [
+      el("p", { text: "An article is kept when it mentions AI, a state or UT government is the actor, and it is not excluded." }),
+      el("p", { text: "Excluded: stock and market stories, opinion pieces, company product launches with no government actor, national-only items with no state, deepfake or fake-video incidents with no policy action, foreign-government stories, stories where the Union government is the only actor, older stories re-published with a date outside the window, and Pakistani or Bangladeshi outlets (Punjab and Bengal exist on both sides of the border)." }),
+      el("p", { text: "The state comes from the headline, then the description. If neither names one and only one state's search returned the article, that state is used and the event is marked \"inferred\"." })
+    ]));
+    var fun = el("table", { class: "funnel" });
+    q.funnel.forEach(function (s) { fun.appendChild(el("tr", {}, [el("td", { text: s[0] }), el("td", { text: num(s[1]) })])); });
+    fun.appendChild(el("tr", {}, [el("td", { text: "events after dedup" }), el("td", { text: num(q.events) })]));
+    box.appendChild(block("Funnel", [fun]));
+    box.appendChild(block("Two-level deduplication", [
+      ul([
+        "Articles: the same article returned by several searches is merged first, and its regions are kept.",
+        "Exact matches: same link, or same normalised headline within a state.",
+        "Near matches: same state, published within 3 days, headline word overlap of at least 80 (set ratio) and 45 (sort ratio), unless the numbers in the two headlines differ (for example Class 6 versus Class 9).",
+        "The shown headline comes from a government source if there is one, then a national outlet, then an article whose state was found in the text. The event date is the earliest date in the cluster."
+      ])
+    ]));
+    box.appendChild(block("Selection thresholds", [
+      el("p", { text: "Featured: at least 15 events, 4 categories, 6 publishers, 4 active months, and at most 40% of events with the state inferred from the search. Low coverage: at least 3 events. Everything below that is insufficient. All 36 are kept in the data; none is dropped." })
+    ]));
+    var precisionParts = [];
+    if (p) {
+      precisionParts.push(el("p", { text: p.strict.labelled + "-event sample: " + pct(p.strict.overall_precision) + " strict / " + pct(p.lenient.overall_precision) + " lenient." }));
+      if (p.current_output) {
+        var pun = data.state_coverage.filter(function (r) { return r.state === "Punjab"; })[0];
+        precisionParts.push(el("p", { text: p.current_output.strict.labelled + " sampled events still in output after the cross-border fix: " + pct(p.current_output.strict.overall_precision) + " / " + pct(p.current_output.lenient.overall_precision) + "." }));
+        if (pun) precisionParts.push(el("p", { text: "Punjab's remaining " + pun.events + " events have not been re-sampled." }));
+      }
+      precisionParts.push(el("p", { text: "Sample: 3 random events per featured state, labelled by hand as relevant or not. Strict uses the label as given; lenient also counts events marked as statements, which are in scope but contain no action." }));
+    }
+    box.appendChild(block("Precision", precisionParts));
+    box.appendChild(block("Known gaps", [ul([
+      "Google News summaries are only the headline, so most events have no separate summary.",
+      "Links go through Google News and redirect to the publisher; the publisher's own link is not stored.",
+      "Categories come from keyword rules: " + Math.round(other * 100) + "% of events fall in \"other\" and the rest can be misfiled (for example a framework document filed under regulation).",
+      "Only English-language sources are searched, so regional-language reporting is missing.",
+      "NewsAPI covers about 29 days, so the most recent weeks draw on a second source and months before that on Google News alone.",
+      "Low coverage can mean little reporting rather than little activity. Small states and UTs are especially affected.",
+      "Known false-positive types: company-led MoUs that do not name the state, central-government bodies (Railways, IITs, SECI) in a state, commentary and interviews, and local events with an incidental AI mention."
+    ])]));
+  }
+
+  function renderCharts() { renderCategoryChart(); renderMonthChart(); }
+
+  function init(d) {
+    data = d;
+    renderHeader();
+    renderCoverage();
+    renderCharts();
+    initFilters();
+    renderEvents();
+    renderMethod();
+    document.getElementById("footer").textContent = "Source data: docs/data.json. Built from news feeds; not an official record of government activity.";
+    if (window.matchMedia) {
+      window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", renderCharts);
+    }
+  }
+
+  fetch("data.json", { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(init)
+    .catch(function (err) {
+      var box = document.getElementById("error");
+      box.style.display = "block";
+      box.textContent = "Could not load data.json (" + err.message + "). Serve this folder over HTTP, for example python -m http.server in docs/.";
+    });
+})();
+</script>
+</body>
+</html>

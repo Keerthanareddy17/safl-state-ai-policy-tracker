@@ -6,6 +6,7 @@ from pathlib import Path
 import pandas as pd
 
 from .config import DATA_END_DATE, quarter_windows
+from .dedup import _publisher
 
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = ROOT / "data" / "processed"
@@ -32,6 +33,18 @@ COLUMN_DEFINITIONS = [
 ]
 
 
+def _other_links(event):
+    """One link per other publisher in the cluster, excluding the representative's outlet."""
+    seen = {_publisher(m) for m in event["members"] if m["url"] == event["rep_url"]}
+    links = []
+    for m in event["members"]:
+        key = _publisher(m)
+        if key and key not in seen:
+            seen.add(key)
+            links.append({"name": m["source_name"] or m["source_domain"], "url": m["url"]})
+    return links
+
+
 def _public(event, tier):
     row = {k: event[k] for k in EVENT_COLS}
     row["tier"] = tier
@@ -43,6 +56,8 @@ def write_all(events, coverage, stats, seed=0):
     DOCS.mkdir(parents=True, exist_ok=True)
     tier_of = {c["state"]: c["tier"] for c in coverage}
     rows = [_public(e, tier_of[e["state"]]) for e in events]
+    # links to the other outlets are only needed by the dashboard, so they stay out of the CSVs
+    json_rows = [dict(r, other_links=_other_links(e)) for r, e in zip(rows, events)]
     all_df = pd.DataFrame(rows, columns=EVENT_COLS + ["tier"])
     all_df.to_csv(PROCESSED / "events_all_states.csv", index=False)
 
@@ -102,7 +117,7 @@ def write_all(events, coverage, stats, seed=0):
     windows = quarter_windows()
     (DOCS / "data.json").write_text(json.dumps({
         "window": {"start": windows[0][0].isoformat(), "end": DATA_END_DATE},
-        "events": rows,
+        "events": json_rows,
         "state_coverage": coverage,
         "quality": {k: quality[k] for k in summary_keys},
     }, indent=1))

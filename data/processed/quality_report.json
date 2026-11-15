@@ -23,6 +23,10 @@
   [
    "not excluded",
    968
+  ],
+  [
+   "in data window",
+   963
   ]
  ],
  "drop_reasons": {
@@ -32,13 +36,14 @@
   "national_only": 29,
   "corporate_launch": 177,
   "no_state": 23,
+  "out_of_window": 5,
   "foreign_government": 17,
   "national_actor": 9,
   "excluded_stock": 2,
   "foreign_outlet": 14
  },
- "articles": 968,
- "events": 782,
+ "articles": 963,
+ "events": 777,
  "duplicates_collapsed": 186,
  "largest_clusters": [
   {
@@ -136,12 +141,12 @@
   "none": 61
  },
  "state_basis_events": {
-  "title": 641,
   "query": 110,
+  "title": 636,
   "description": 31
  },
  "events_by_tier": {
-  "featured": 636,
+  "featured": 631,
   "low_coverage": 142,
   "insufficient": 4
  },
@@ -157,7 +162,7 @@
   "Telangana": 52,
   "Maharashtra": 47,
   "Kerala": 45,
-  "Andhra Pradesh": 44,
+  "Andhra Pradesh": 39,
   "Gujarat": 39,
   "Bihar": 36,
   "Odisha": 31,
@@ -189,9 +194,9 @@
   "other": 214,
   "deployment": 179,
   "policy_mission": 110,
-  "partnership_mou": 103,
+  "partnership_mou": 100,
   "infrastructure": 62,
-  "institution": 36,
+  "institution": 34,
   "budget_funding": 34,
   "statement": 26,
   "regulation_ethics": 18
@@ -368,6 +373,172 @@
      "labelled": 3,
      "relevant": 2,
      "precision": 0.667
+    }
+   }
+  },
+  "current_output": {
+   "strict": {
+    "labelled": 45,
+    "relevant": 31,
+    "overall_precision": 0.689,
+    "per_state": {
+     "Andhra Pradesh": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     },
+     "Bihar": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Delhi": {
+      "labelled": 3,
+      "relevant": 1,
+      "precision": 0.333
+     },
+     "Goa": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Gujarat": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Haryana": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Jharkhand": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     },
+     "Karnataka": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     },
+     "Kerala": {
+      "labelled": 3,
+      "relevant": 0,
+      "precision": 0.0
+     },
+     "Maharashtra": {
+      "labelled": 3,
+      "relevant": 1,
+      "precision": 0.333
+     },
+     "Odisha": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Tamil Nadu": {
+      "labelled": 3,
+      "relevant": 1,
+      "precision": 0.333
+     },
+     "Telangana": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     },
+     "Uttar Pradesh": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "West Bengal": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     }
+    }
+   },
+   "lenient": {
+    "labelled": 45,
+    "relevant": 36,
+    "overall_precision": 0.8,
+    "per_state": {
+     "Andhra Pradesh": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Bihar": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Delhi": {
+      "labelled": 3,
+      "relevant": 1,
+      "precision": 0.333
+     },
+     "Goa": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Gujarat": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Haryana": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Jharkhand": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Karnataka": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Kerala": {
+      "labelled": 3,
+      "relevant": 1,
+      "precision": 0.333
+     },
+     "Maharashtra": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     },
+     "Odisha": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "Tamil Nadu": {
+      "labelled": 3,
+      "relevant": 1,
+      "precision": 0.333
+     },
+     "Telangana": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     },
+     "Uttar Pradesh": {
+      "labelled": 3,
+      "relevant": 3,
+      "precision": 1.0
+     },
+     "West Bengal": {
+      "labelled": 3,
+      "relevant": 2,
+      "precision": 0.667
+     }
     }
    }
   }
