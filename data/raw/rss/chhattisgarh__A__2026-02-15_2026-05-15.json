@@ -1,0 +1,109 @@
+{
+ "region": "Chhattisgarh",
+ "group": "A",
+ "query": "(Chhattisgarh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chhattisgarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:07+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh FM O.P. Choudhary presents Budget for year 2026-27 in State Legislative Assembly",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXVnZVVFZDhVMDV4eW5sSmJGX0tRMzk0Mk9VS09rWnRXUUg0TFgtNVN6eHN5M3RmME8yTzBQMkd1ZDF1aGZwakRROWphZFltRUlOWDYxMVNlODJxS3VLb1NXUlpWQ0M1SF9xWVlBRnFhYXhrY1BJZVhXQkw1SE5RbHFucnFZbTZZYU1ucnFRcmV0MnhTNjRXTlNWamZ6c0JUUnkyR1ZYREpQY0ZLN05aTTBGbF9BVXpWcWc?oc=5\" target=\"_blank\">Chhattisgarh FM O.P. Choudhary presents Budget for year 2026-27 in State Legislative Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXVnZVVFZDhVMDV4eW5sSmJGX0tRMzk0Mk9VS09rWnRXUUg0TFgtNVN6eHN5M3RmME8yTzBQMkd1ZDF1aGZwakRROWphZFltRUlOWDYxMVNlODJxS3VLb1NXUlpWQ0M1SF9xWVlBRnFhYXhrY1BJZVhXQkw1SE5RbHFucnFZbTZZYU1ucnFRcmV0MnhTNjRXTlNWamZ6c0JUUnkyR1ZYREpQY0ZLN05aTTBGbF9BVXpWcWc?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "SANKALP 2026: Chhattisgarh unveils Rs 1.72 lakh cr budget with massive push for Bastar and women empowerment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRF9MWTc1dGZHZGE3S09FMFpHaWk3cDFCemZmX2FLQW9QczItNVdoR1NyZkN0eVlCS0xzMER2ZGpYZnMwa215Wk1pRk94eWtPLVJMang5S0ZodlNqZE95OXhrQWQwMFlGNkdvcERoSmlaVXdPWnFOYXluam8ya2plN21hcFFkWS1wVEJiY1I0b2JoWFc2Z1hWODlpTF80LWMtMkhDRG9QZlFxOUZXS3ktMXVrRXhVV0tVNkdWeS1pSzTSAc4BQVVfeXFMTVpQQnhGcU0tQ3VqOUZNY21Xdk1mLS1ua3pLOHNXdlBKcFRnM1djSU82MkpHdlRMSXU3bGhVQ2NocmRFazFEZVhNSFFIQXNpd21sdGhxRnJlOU5MUXM3aGwxUFNGeGlobnRTeXMzT3g5S0R0VWJnemVfc2h5cWptNldmZWk1d3FGTXNGNnE4QUlBbnIzVUdvWGozYThnWkgyMnhOcGlaR0F2dEEwblZvNDV0Z0J5T0hSekJSQk9FaXkwUGQzUFRQRmpFUHNDSXc?oc=5\" target=\"_blank\">SANKALP 2026: Chhattisgarh unveils Rs 1.72 lakh cr budget with massive push for Bastar and women empowerment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRF9MWTc1dGZHZGE3S09FMFpHaWk3cDFCemZmX2FLQW9QczItNVdoR1NyZkN0eVlCS0xzMER2ZGpYZnMwa215Wk1pRk94eWtPLVJMang5S0ZodlNqZE95OXhrQWQwMFlGNkdvcERoSmlaVXdPWnFOYXluam8ya2plN21hcFFkWS1wVEJiY1I0b2JoWFc2Z1hWODlpTF80LWMtMkhDRG9QZlFxOUZXS3ktMXVrRXhVV0tVNkdWeS1pSzTSAc4BQVVfeXFMTVpQQnhGcU0tQ3VqOUZNY21Xdk1mLS1ua3pLOHNXdlBKcFRnM1djSU82MkpHdlRMSXU3bGhVQ2NocmRFazFEZVhNSFFIQXNpd21sdGhxRnJlOU5MUXM3aGwxUFNGeGlobnRTeXMzT3g5S0R0VWJnemVfc2h5cWptNldmZWk1d3FGTXNGNnE4QUlBbnIzVUdvWGozYThnWkgyMnhOcGlaR0F2dEEwblZvNDV0Z0J5T0hSekJSQk9FaXkwUGQzUFRQRmpFUHNDSXc?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Daily Chhattisgarh Current Affairs for CGPSC Exam (26-02-2026)",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNlVuSy1KS1dDS0N1ejVGZERIcDgwYkF5eWRlTTlnMVhIaFR2YmZHWjVKQUVQc1h2NzdEbVJLNThEWV9LNXM5RGctME1sWVVpVGk2TTVYaFpKZGphM1M2R0pFcUJoV0pTemc?oc=5\" target=\"_blank\">Daily Chhattisgarh Current Affairs for CGPSC Exam (26-02-2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Drishti IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNlVuSy1KS1dDS0N1ejVGZERIcDgwYkF5eWRlTTlnMVhIaFR2YmZHWjVKQUVQc1h2NzdEbVJLNThEWV9LNXM5RGctME1sWVVpVGk2TTVYaFpKZGphM1M2R0pFcUJoV0pTemc?oc=5",
+   "source_name": "Drishti IAS",
+   "source_domain": "drishtiias.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Budget 2026–27 charts Rs 1.72 lakh crore roadmap with strong focus on Bastar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPckFwb0tRakRiek4wdFZxdWt6TjhMbFVJU1FLWWFLMUVrOHl5NDNFaC1PcGFiRUkwYlVka0JGOS1QckhzYlhuVjFxUHhoSEZNUHdUZG9vanFnTjZNNGFWSnNSU2k5T09YMEhUYXM5blRKT2l0TDNhQ0p0UDIxMGIyVU1RY21yWk1YcFRiVkh0NC14N284Yk9ZT2F3?oc=5\" target=\"_blank\">Chhattisgarh Budget 2026–27 charts Rs 1.72 lakh crore roadmap with strong focus on Bastar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YourStory.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckFwb0tRakRiek4wdFZxdWt6TjhMbFVJU1FLWWFLMUVrOHl5NDNFaC1PcGFiRUkwYlVka0JGOS1QckhzYlhuVjFxUHhoSEZNUHdUZG9vanFnTjZNNGFWSnNSU2k5T09YMEhUYXM5blRKT2l0TDNhQ0p0UDIxMGIyVU1RY21yWk1YcFRiVkh0NC14N284Yk9ZT2F3?oc=5",
+   "source_name": "YourStory.com",
+   "source_domain": "yourstory.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Budget 2026–27 Unveils ₹1.72 Lakh Crore Plan Focused on Farmers, Welfare and Infrastructure",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm1IZllnaUpnRkRmdC0tbl9LaFBkTEd0ak16QmtoRDNaVFJ3SkRCRzg0WkRISXdHZ0N2aEI4VnI1aEJ3S05pVy1FZDgyX1d6Y0JQM2dzZFNPVGNDdzdkVnpIZ00tbWpIWHZoMFJOWnBxT3hJcEw1RGhuT0RsVFJRTExodHlvOUhCMWc2eXl3US1hWElaeHFzUk85M1IwVzFwR2pELUpJTVdBeW9kN0syTm1GU2JIWVlPWUg5RW1DNzZ2R21WZ0E5NXdOa05nZWI3dTNpSDVJOA?oc=5\" target=\"_blank\">Chhattisgarh Budget 2026–27 Unveils ₹1.72 Lakh Crore Plan Focused on Farmers, Welfare and Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm1IZllnaUpnRkRmdC0tbl9LaFBkTEd0ak16QmtoRDNaVFJ3SkRCRzg0WkRISXdHZ0N2aEI4VnI1aEJ3S05pVy1FZDgyX1d6Y0JQM2dzZFNPVGNDdzdkVnpIZ00tbWpIWHZoMFJOWnBxT3hJcEw1RGhuT0RsVFJRTExodHlvOUhCMWc2eXl3US1hWElaeHFzUk85M1IwVzFwR2pELUpJTVdBeW9kN0syTm1GU2JIWVlPWUg5RW1DNzZ2R21WZ0E5NXdOa05nZWI3dTNpSDVJOA?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "From Maoist bastion to ‘modern education city’: What Chhattisgarh Budget has in store for Bastar region",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlQ4Zld0NXJrZkxzU1pSNXFId2NoelcyWU5fT0x6TkJzclVQOVI1WnFubXF4Slo5VkFNeW5PcTBjOTRsdU1JaGxxV0tUOTFVRm5kR0F4ZWlaMmRnbHZHRUhhRzdmZ0d1UUNlOEFEZllVcE9mU0tScVVyS0xYZUlVVkdPMjlEWmFGdTAtd0FGa2hkVENWbzlEUkxVRlEwYXVsRUlZbFVqRFpTMndpQVJFb3QtQUh6SXBmdmEzV2x2NGlOelRMRmphX21uODZxT2Z2OGZ2NVNJbXZzV3hseU1RMWpvcELSAesBQVVfeXFMTVdaWDk0MFFHaThIRncwLXFtZDhrWkdQWlNFeU14M2cyTGE4b2JzV2ktS3J0NFFHOTJ4WWhVdExsMzZvVlRXR3l4VUlKbGdrVkI0azdzUWdfVzZfYzExeG1aY25DeTdTSThSdWs4Y3BPSWRCbEptQUQxWEViVHBoU3o1aG4zUkM5aTFGaHpSYlNkdzBTX25WYncwaUJya3lfTDdOUFQ1N0VSN1FDNmpJMWswUndWNzlPNjVEci1LUlozaGxEZTB5aS1kY2RCRUdja0JsVnV0TUJha1laYlFYdDY0NUs5WWRCRGFkZw?oc=5\" target=\"_blank\">From Maoist bastion to ‘modern education city’: What Chhattisgarh Budget has in store for Bastar region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlQ4Zld0NXJrZkxzU1pSNXFId2NoelcyWU5fT0x6TkJzclVQOVI1WnFubXF4Slo5VkFNeW5PcTBjOTRsdU1JaGxxV0tUOTFVRm5kR0F4ZWlaMmRnbHZHRUhhRzdmZ0d1UUNlOEFEZllVcE9mU0tScVVyS0xYZUlVVkdPMjlEWmFGdTAtd0FGa2hkVENWbzlEUkxVRlEwYXVsRUlZbFVqRFpTMndpQVJFb3QtQUh6SXBmdmEzV2x2NGlOelRMRmphX21uODZxT2Z2OGZ2NVNJbXZzV3hseU1RMWpvcELSAesBQVVfeXFMTVdaWDk0MFFHaThIRncwLXFtZDhrWkdQWlNFeU14M2cyTGE4b2JzV2ktS3J0NFFHOTJ4WWhVdExsMzZvVlRXR3l4VUlKbGdrVkI0azdzUWdfVzZfYzExeG1aY25DeTdTSThSdWs4Y3BPSWRCbEptQUQxWEViVHBoU3o1aG4zUkM5aTFGaHpSYlNkdzBTX25WYncwaUJya3lfTDdOUFQ1N0VSN1FDNmpJMWswUndWNzlPNjVEci1LUlozaGxEZTB5aS1kY2RCRUdja0JsVnV0TUJha1laYlFYdDY0NUs5WWRCRGFkZw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Two lakh Chhattisgarh teachers to get AI training under new education initiative",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xkakpXaHpHUVd0MThyMGlZbXNpVTJsZExNa1VNVXFMUFdYOF95WUVNWENJYk5yRDdhT3lHbnNDdnZkZUZINGdxSEV4ODVjSDJ6aXRiOTFqM2FPcy04c0Ytc0JPTzFtRTEtbmFzbVo5cGROZWc2SUQxbnMzZU5wdlRkZVhFUFRIZGdsRUlzSVlwUXJuOFdIYUdEa1pKRV9jRXJFeEt6LXptdlhXRTJr0gG8AUFVX3lxTE9PZFo2cGdlWm5sTkxIb01wZHNnY3dJVG9VOUFPZkN5c216NUM0RDBjaWlJNEdyUnFYblRyeHBmWUYzcnFlY0pzVGVRbEVuN1VReDRTT3lLVUVTNGdsNHduNXN2em9faTE2RXVUcFItWUU3NVdLTDJ3NWc0dWxldHU3Sm5vZUdpQnNfNXRHSnVhVmw5djdCU3dUZjkwYkhRLVZ3Y1J6U1JkbEZmc2hSYmNwN0k5ZnJZblgySDM5?oc=5\" target=\"_blank\">Two lakh Chhattisgarh teachers to get AI training under new education initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdexLive</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xkakpXaHpHUVd0MThyMGlZbXNpVTJsZExNa1VNVXFMUFdYOF95WUVNWENJYk5yRDdhT3lHbnNDdnZkZUZINGdxSEV4ODVjSDJ6aXRiOTFqM2FPcy04c0Ytc0JPTzFtRTEtbmFzbVo5cGROZWc2SUQxbnMzZU5wdlRkZVhFUFRIZGdsRUlzSVlwUXJuOFdIYUdEa1pKRV9jRXJFeEt6LXptdlhXRTJr0gG8AUFVX3lxTE9PZFo2cGdlWm5sTkxIb01wZHNnY3dJVG9VOUFPZkN5c216NUM0RDBjaWlJNEdyUnFYblRyeHBmWUYzcnFlY0pzVGVRbEVuN1VReDRTT3lLVUVTNGdsNHduNXN2em9faTE2RXVUcFItWUU3NVdLTDJ3NWc0dWxldHU3Sm5vZUdpQnNfNXRHSnVhVmw5djdCU3dUZjkwYkhRLVZ3Y1J6U1JkbEZmc2hSYmNwN0k5ZnJZblgySDM5?oc=5",
+   "source_name": "EdexLive",
+   "source_domain": "edexlive.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "AI Impact Summit: Chhattisgarh pavilion draws global attention at Bharat Mandapam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjR5Tjd3UUdFLTJHeUwwQV9pdGVPQzUteDBfbnAzc2VVaFJ2WjY5eFMxYlEtNWFXSUZqWVRfcjJTdmFiWnpQcHJuMWNCcUFGSFptSzBQVGx5MzNsU0hmRlh1ckFiZ1VmdjRHZGtJWHFFU2VfdUdlb0hWcUVLYmhRUFBHSnhEYVA0dWlxeEhUVEJFNUNSYlRsb2Frbjh2a0ptVXYwTkZ5OHFFTV9jWWI2ZXY1SkE3QVY2b2xGaERBNFBxRWc?oc=5\" target=\"_blank\">AI Impact Summit: Chhattisgarh pavilion draws global attention at Bharat Mandapam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zee Business</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjR5Tjd3UUdFLTJHeUwwQV9pdGVPQzUteDBfbnAzc2VVaFJ2WjY5eFMxYlEtNWFXSUZqWVRfcjJTdmFiWnpQcHJuMWNCcUFGSFptSzBQVGx5MzNsU0hmRlh1ckFiZ1VmdjRHZGtJWHFFU2VfdUdlb0hWcUVLYmhRUFBHSnhEYVA0dWlxeEhUVEJFNUNSYlRsb2Frbjh2a0ptVXYwTkZ5OHFFTV9jWWI2ZXY1SkE3QVY2b2xGaERBNFBxRWc?oc=5",
+   "source_name": "Zee Business",
+   "source_domain": "zeebiz.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Chief Minister Vishnu Deo Sai calls FY2026-27 Budget a roadmap for 'sankalp se siddhi'",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd2tjM2FzRFI0OXlnbUNSaHYwR1pGQnJuamIzbXFtdFhwTzNjcE1nNmdvQlJEZEZhQVVuOWlkT0VuOHRVc1c1T2V4OXVQaGhHbndSTlZKeEt1eERZS2RBT2x2cElHQUpMYVNjZlZkUXJvZkhMYk5fTVVQa1kxRHhZSkRCM3NkSVJpRU1IbW9ZOUEtcm4zNkFBcGdFbmpjNk45VmJZN2dNcy0xVVdjb3pFMnFIT3hZMzZGX20xRFJTNkl6OXFyazkzVUJTVER4cTV2dHVLTDY0ejJ4QQ?oc=5\" target=\"_blank\">Chhattisgarh Chief Minister Vishnu Deo Sai calls FY2026-27 Budget a roadmap for 'sankalp se siddhi'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zee Business</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd2tjM2FzRFI0OXlnbUNSaHYwR1pGQnJuamIzbXFtdFhwTzNjcE1nNmdvQlJEZEZhQVVuOWlkT0VuOHRVc1c1T2V4OXVQaGhHbndSTlZKeEt1eERZS2RBT2x2cElHQUpMYVNjZlZkUXJvZkhMYk5fTVVQa1kxRHhZSkRCM3NkSVJpRU1IbW9ZOUEtcm4zNkFBcGdFbmpjNk45VmJZN2dNcy0xVVdjb3pFMnFIT3hZMzZGX20xRFJTNkl6OXFyazkzVUJTVER4cTV2dHVLTDY0ejJ4QQ?oc=5",
+   "source_name": "Zee Business",
+   "source_domain": "zeebiz.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:07+00:00"
+  }
+ ]
+}

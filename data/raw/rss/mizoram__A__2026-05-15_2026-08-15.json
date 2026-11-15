@@ -1,0 +1,109 @@
+{
+ "region": "Mizoram",
+ "group": "A",
+ "query": "(Mizoram) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Mizoram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:34:57+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram CM Lalduhoma holds series of meetings to boost AI in education, investment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQTZkSFRIVlp0dG80NEdCTnY4MnU0RE9PTkdCa3BrTHN1YTNVelBUeWRHa3I0dGkyNkFFa0R0ZmE3S0U4MmdtVG5vTm4xRU12bllmTE5wVHo5Wnp3ajY1TnB0cXpLVmRfbF9IVm5uWDJVZUZpZXd3YVAxTkFGUTYwODNudHpuS21vdDR4aU1GQ3hVcnBkNnJFVDFXS0RSaFBpMTlJY0hBTHd3WE1zOUpSVDBST0IyWHpGbTFzVnRsWFh1SF9VVWFUSGtYdFhfV29wSEZmYUE1M1N6eU1mS1FhSm9fX3I0S1FhbGxNN2JoMXJ2Nk85VlHSAfoBQVVfeXFMTUw4bWR5R29GUWx2ZUxqMmhOeHBpdUprTkpNNGtZaGlUbWowRkIxMGwwaHBtVGFVRWdpOW9wU0c1TGZoMnAtSTZRVDhSVmh2c3BNaHRWRUQ1S2pUMGtrb25lam1tcTVrbUFMcEdROXl5dy1haGpBbDFXcWtZWFh1eWhKR3Utekl1aHN2cGtWMTk0YWt4eG80aHFqSDhXXzBYQzh3SWNCeXUyZ2xkWmlTMUZLV1RvSWVQVjVydHZidWhCRzRSTE5DaFVmSjJVZUJ3UWVkeHpwa2ZVZ1ZZQUhhbHJmTG1SYlh0SDJmYVViaVhxR05fSU5vTXh6UQ?oc=5\" target=\"_blank\">Mizoram CM Lalduhoma holds series of meetings to boost AI in education, investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQTZkSFRIVlp0dG80NEdCTnY4MnU0RE9PTkdCa3BrTHN1YTNVelBUeWRHa3I0dGkyNkFFa0R0ZmE3S0U4MmdtVG5vTm4xRU12bllmTE5wVHo5Wnp3ajY1TnB0cXpLVmRfbF9IVm5uWDJVZUZpZXd3YVAxTkFGUTYwODNudHpuS21vdDR4aU1GQ3hVcnBkNnJFVDFXS0RSaFBpMTlJY0hBTHd3WE1zOUpSVDBST0IyWHpGbTFzVnRsWFh1SF9VVWFUSGtYdFhfV29wSEZmYUE1M1N6eU1mS1FhSm9fX3I0S1FhbGxNN2JoMXJ2Nk85VlHSAfoBQVVfeXFMTUw4bWR5R29GUWx2ZUxqMmhOeHBpdUprTkpNNGtZaGlUbWowRkIxMGwwaHBtVGFVRWdpOW9wU0c1TGZoMnAtSTZRVDhSVmh2c3BNaHRWRUQ1S2pUMGtrb25lam1tcTVrbUFMcEdROXl5dy1haGpBbDFXcWtZWFh1eWhKR3Utekl1aHN2cGtWMTk0YWt4eG80aHFqSDhXXzBYQzh3SWNCeXUyZ2xkWmlTMUZLV1RvSWVQVjVydHZidWhCRzRSTE5DaFVmSjJVZUJ3UWVkeHpwa2ZVZ1ZZQUhhbHJmTG1SYlh0SDJmYVViaVhxR05fSU5vTXh6UQ?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "SCHOOL EDUCATION MINISTER-IN NEW AGE TECHNOLOGY SKILL LAB A HAWNG",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVdaeDBfUXEzOS1nUTBMek5wR0o1cXdGXzd3MnhXYkcxRldxWEpwRmQ2Rkx1R2FibVUzVDFJY1JicGZKQk1XdHVOeEtCMTlaTjktalRlaFVfMHNjNGFBTWo5X25VTWNZVGdtNzJ3N3lZOHowbFBGUjZaVk1jVXVoUGt4REVSRnBfNFREdzJVWmdfTkVVV1ExWXZ0SnRPZUk?oc=5\" target=\"_blank\">SCHOOL EDUCATION MINISTER-IN NEW AGE TECHNOLOGY SKILL LAB A HAWNG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVdaeDBfUXEzOS1nUTBMek5wR0o1cXdGXzd3MnhXYkcxRldxWEpwRmQ2Rkx1R2FibVUzVDFJY1JicGZKQk1XdHVOeEtCMTlaTjktalRlaFVfMHNjNGFBTWo5X25VTWNZVGdtNzJ3N3lZOHowbFBGUjZaVk1jVXVoUGt4REVSRnBfNFREdzJVWmdfTkVVV1ExWXZ0SnRPZUk?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Sat, 30 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Inaugurates Northeast's First New Age Tech Skills Centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTF2dURKRFZOX0xqaG1yMjZUV3VMaUVyV25VdWdQMGc0WV80X0tsc2FqNTlIOW52ZTJCRlRFSHVsdnROZUE0aTdDRWFxU3hEVTR6QmxrZ25LZF9LWXJDQm5Kd01wN0NsUkpyVTIyMHVaV3NDWnZWVk9lM3plZmU5empWaGVWbzJlT1ZtZnlfSnFCdklxN2fSAZgBQVVfeXFMTUh0ZGtiVTFmbDJmNjc1Q0Q1bFlfNTlpT0tHc25sdkNLRjh2MFlKX21HTFg2S1NYdEFfdDN1bmRRa2sySVZWSFNvQVpjOHlrdWpUNTZYV3NiejRFTmNYX0ZCNXJDRGFaY0s4M25ielo4YTJseWpoa2poOUI3V3lQbmhSeUctZU5WeUt0TTc0UHdleUVZdVVyd1Q?oc=5\" target=\"_blank\">Mizoram Inaugurates Northeast's First New Age Tech Skills Centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTF2dURKRFZOX0xqaG1yMjZUV3VMaUVyV25VdWdQMGc0WV80X0tsc2FqNTlIOW52ZTJCRlRFSHVsdnROZUE0aTdDRWFxU3hEVTR6QmxrZ25LZF9LWXJDQm5Kd01wN0NsUkpyVTIyMHVaV3NDWnZWVk9lM3plZmU5empWaGVWbzJlT1ZtZnlfSnFCdklxN2fSAZgBQVVfeXFMTUh0ZGtiVTFmbDJmNjc1Q0Q1bFlfNTlpT0tHc25sdkNLRjh2MFlKX21HTFg2S1NYdEFfdDN1bmRRa2sySVZWSFNvQVpjOHlrdWpUNTZYV3NiejRFTmNYX0ZCNXJDRGFaY0s4M25ielo4YTJseWpoa2poOUI3V3lQbmhSeUctZU5WeUt0TTc0UHdleUVZdVVyd1Q?oc=5",
+   "source_name": "Rediff",
+   "source_domain": "rediff.com",
+   "published_raw": "Fri, 29 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Regional Review Meeting For North East Region, Aizawl : Launch of MDCS Baseline Survey, Pig Farming Booklet and ASF Awareness Film",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lc0VPUjZjNmVWSERXcVlOaTNUeGtMQlYxQ2RWOW9FN3JzWnR2Q3ZLZ3dDaFFzbkhMek4zSGU5Y3BndHFnZmVQN2Q1RDdlNU1MZnVBV2t1bGVGOXFmYVVTV0JUaXRjZmh6?oc=5\" target=\"_blank\">Regional Review Meeting For North East Region, Aizawl : Launch of MDCS Baseline Survey, Pig Farming Booklet and ASF Awareness Film</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lc0VPUjZjNmVWSERXcVlOaTNUeGtMQlYxQ2RWOW9FN3JzWnR2Q3ZLZ3dDaFFzbkhMek4zSGU5Y3BndHFnZmVQN2Q1RDdlNU1MZnVBV2t1bGVGOXFmYVVTV0JUaXRjZmh6?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "AI In Education: How Karnataka, Mizoram, UP And Delhi Are Preparing For AI Education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjFuMjdJWC1oVUkteVhGU3Z5ZUQtZHNXYVlfWnhubXhjcEZfUS05SkktUHNQSW5rOHFNaTNZZXU2X0lmdTJjT0I3WjAzVG03MEphbnp6dEt2cjZFVHl4ODlhbUlQNTJhanNuS3RpRzE1cmF4NzRaSHIyNDkwaWxJUjQzSkM1SzFyS0U0MFZjSkpSTmRkbFZGbTVVWFM1RDZ1MXB4WmlxekZXcWpsZng1RktpU0RzSXBEN2VpdNIBwwFBVV95cUxQNGItV2RXS3E0dktJS3hZSVlvVElVOEo5ekNYMFBpdEp6d1pSY0IteThQMDZ0ckp4ZGhVR2RIZ0RaaFZ5T0lmMHA0aGJaYjJfSF9DeFZkVXZlMG1paUFEMXNjQ1hyUVpYTnhsWUJ6ZXhGUFFVUWNIOE9xUWxJSVp2TnVLT3B4T3J6elo1cmNMd1A5RFdiVkVjZ1hJcnBjczRUTEstbWpXN29mTmt6NF85d3gtdF9zWUVUSVg0MG5WTElZaDg?oc=5\" target=\"_blank\">AI In Education: How Karnataka, Mizoram, UP And Delhi Are Preparing For AI Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jagran Josh</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjFuMjdJWC1oVUkteVhGU3Z5ZUQtZHNXYVlfWnhubXhjcEZfUS05SkktUHNQSW5rOHFNaTNZZXU2X0lmdTJjT0I3WjAzVG03MEphbnp6dEt2cjZFVHl4ODlhbUlQNTJhanNuS3RpRzE1cmF4NzRaSHIyNDkwaWxJUjQzSkM1SzFyS0U0MFZjSkpSTmRkbFZGbTVVWFM1RDZ1MXB4WmlxekZXcWpsZng1RktpU0RzSXBEN2VpdNIBwwFBVV95cUxQNGItV2RXS3E0dktJS3hZSVlvVElVOEo5ekNYMFBpdEp6d1pSY0IteThQMDZ0ckp4ZGhVR2RIZ0RaaFZ5T0lmMHA0aGJaYjJfSF9DeFZkVXZlMG1paUFEMXNjQ1hyUVpYTnhsWUJ6ZXhGUFFVUWNIOE9xUWxJSVp2TnVLT3B4T3J6elo1cmNMd1A5RFdiVkVjZ1hJcnBjczRUTEstbWpXN29mTmt6NF85d3gtdF9zWUVUSVg0MG5WTElZaDg?oc=5",
+   "source_name": "Jagran Josh",
+   "source_domain": "jagranjosh.com",
+   "published_raw": "Mon, 10 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram CM meets Google, BRICS, India Today to push AI and tourism",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUVrUzYzaWtNZXhJOHVMckY5c1dHcFJwNlhrTW03aGpBbF82Zks0OE9uMGZsTzU0bUk0Xy1SWTdtb1lkVnZOZEhVaGdhTmlkbHhWQ1ZoTnFMRkxxRVVQZnlYMmlGUFNudmd5eEY0aTRCNmh2bDJGaU00N0pPMm1IXzJ4T0hkaWRfcVZ5YktSZ05jTjJfSHB6ZDZEQnFrTmdxQ1lld0V0TFc5aDNkeGxNNzNHd1lpUUN3UldMYU5BSVFZNEHSAcgBQVVfeXFMTlB3bElMU3RKc19PbkZua0ZUSFhfaHRiS2ZnT2FRXzBLR0Job2ZCY096U3RSeTJjQjk1WGN3MDQtVGY5ZjNXbzRLZFI1SzhtbkhVMzZDRHlMbFEwSjVnQjF2NzduUDRZbjAyUHBvVTAyblZzaU9OZlR5c2ZoSzBxek8ydTVGRHp1OVFuUjcxM09maTktc0k5bV8xMVZXRmxoUlN0QzZqOU1fSm5iWWlwUFF1UEg5WE5JdGhzN0t4OEZLbnV6MEJlU0Y?oc=5\" target=\"_blank\">Mizoram CM meets Google, BRICS, India Today to push AI and tourism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUVrUzYzaWtNZXhJOHVMckY5c1dHcFJwNlhrTW03aGpBbF82Zks0OE9uMGZsTzU0bUk0Xy1SWTdtb1lkVnZOZEhVaGdhTmlkbHhWQ1ZoTnFMRkxxRVVQZnlYMmlGUFNudmd5eEY0aTRCNmh2bDJGaU00N0pPMm1IXzJ4T0hkaWRfcVZ5YktSZ05jTjJfSHB6ZDZEQnFrTmdxQ1lld0V0TFc5aDNkeGxNNzNHd1lpUUN3UldMYU5BSVFZNEHSAcgBQVVfeXFMTlB3bElMU3RKc19PbkZua0ZUSFhfaHRiS2ZnT2FRXzBLR0Job2ZCY096U3RSeTJjQjk1WGN3MDQtVGY5ZjNXbzRLZFI1SzhtbkhVMzZDRHlMbFEwSjVnQjF2NzduUDRZbjAyUHBvVTAyblZzaU9OZlR5c2ZoSzBxek8ydTVGRHp1OVFuUjcxM09maTktc0k5bV8xMVZXRmxoUlN0QzZqOU1fSm5iWWlwUFF1UEg5WE5JdGhzN0t4OEZLbnV6MEJlU0Y?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "\"National Workshop on Convergence of Artificial Intelligence, Material Science and Cyber Security for Smart Manufacturing\" in Industry 4.0 Organized at Doon University",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTUQ4M0UxNXFlUmRybDBZdXdkbl9Vb1FMMmNKeURSZjJkTWxDM0FZVmZFWmYtTG9peENXa2t0VzVwSl9IT3N6b0EzakpUX1ZHaFF4U3FjYVJuZnQ5YllPaHVVODBDZzVG?oc=5\" target=\"_blank\">\"National Workshop on Convergence of Artificial Intelligence, Material Science and Cyber Security for Smart Manufacturing\" in Industry 4.0 Organized at Doon University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTUQ4M0UxNXFlUmRybDBZdXdkbl9Vb1FMMmNKeURSZjJkTWxDM0FZVmZFWmYtTG9peENXa2t0VzVwSl9IT3N6b0EzakpUX1ZHaFF4U3FjYVJuZnQ5YllPaHVVODBDZzVG?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram churches to hold protest rally against proposed FCRA amendment bill on August 11",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUGcxREViejdWV1pXM2tsc3pYUGU0Y1hCTlVBM2lWb2J1SFlabExnSzlqOHcyWjJhdXpDVlhoUDZUa0E1WC1QMEtPZjlKbFdyZFdYUm9IRDZrcEJpclNHR0FBUGs2ZWlYazkzb01iYm85dlEzMkg4R0kxZm1WVlZxYy1SOHZmTmt6R3R2QVNuZjcweFpHb1d2M1Y0ZFZvTGp0cXdmRmNDR3BEaTJ6Y21ReVAzd1lTanZQTllZOER5VnFOeEVFQ0lCa1RYTXBMaXhvWldieHUwN1p5NVNubDlQX0ZKa9IB6AFBVV95cUxPUHpEX2I1SWlHVXp3SUlGTFlBaEE3UnJQVDdaZmUtMjBsdnBKWWpqQ0pBc3pLa0V2aWZ2THdGS1pQU0ItY0U1cnU5X25LLW15TjZXWXl1czBlX2JNT1lFdnl3MEZoem12WXZXRWl0WGV1eFZGNmpDSlZfTk1fd1YzR0V2anIzTXhHRmdmVVpZUmZabXQwS1kyWW5OUlJzNkRoZnVWTzEwX0xHTDRqbFVoc005TzRxcUs0RlpVOWxoVnVTOWZRdXhqT1ZtVWhRbkE0UFd1TlNJZEJmVmJIY1lraVlVcTd3bFh1?oc=5\" target=\"_blank\">Mizoram churches to hold protest rally against proposed FCRA amendment bill on August 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUGcxREViejdWV1pXM2tsc3pYUGU0Y1hCTlVBM2lWb2J1SFlabExnSzlqOHcyWjJhdXpDVlhoUDZUa0E1WC1QMEtPZjlKbFdyZFdYUm9IRDZrcEJpclNHR0FBUGs2ZWlYazkzb01iYm85dlEzMkg4R0kxZm1WVlZxYy1SOHZmTmt6R3R2QVNuZjcweFpHb1d2M1Y0ZFZvTGp0cXdmRmNDR3BEaTJ6Y21ReVAzd1lTanZQTllZOER5VnFOeEVFQ0lCa1RYTXBMaXhvWldieHUwN1p5NVNubDlQX0ZKa9IB6AFBVV95cUxPUHpEX2I1SWlHVXp3SUlGTFlBaEE3UnJQVDdaZmUtMjBsdnBKWWpqQ0pBc3pLa0V2aWZ2THdGS1pQU0ItY0U1cnU5X25LLW15TjZXWXl1czBlX2JNT1lFdnl3MEZoem12WXZXRWl0WGV1eFZGNmpDSlZfTk1fd1YzR0V2anIzTXhHRmdmVVpZUmZabXQwS1kyWW5OUlJzNkRoZnVWTzEwX0xHTDRqbFVoc005TzRxcUs0RlpVOWxoVnVTOWZRdXhqT1ZtVWhRbkE0UFd1TlNJZEJmVmJIY1lraVlVcTd3bFh1?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Thu, 30 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram CM calls for more Mizo content online, wider translation of literature to preserve language",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNlU5QlVOcUZPdnk4YU8wUnZ2M1FWLWlWbzA3U0phbnozYzVteWVtYXRWbnVyS3VlV0lwSXlhekVmdjZEZmV5OHdfRTJjQ05pTl9GMGZvWDJTOUxiQjRwclM0cEVUUXdid1BsY0phb2VEczBBOEpJSlNCdmhPVDlxUkZ3NGpFYzlJa0dDTldGVXJueUdJVERtNkd2akNqbU0wRjNkbWZjRkN2UUFTNGVCckF3TjZBSngzeXFISXBRcXNpSHpQT1ZVcXI2aEdwdDN4WFJMRy1zMm1jZzlYX0hWdWE5dEhBblJaeGZGOVJqWXXSAfYBQVVfeXFMTUhROUxNQlJSY0RYR0dRZnE5NjJQV0xXYURyM3pxUG1qYzk5UUhlQklRUThULVczbEJGcC1UakplZ0JDZmhCMzJ0TlRpTzQxR0JGeXplbUdXaHVWaldlM0xrWmdXM2t3c21abTdsQlV2c19wMU1jNVd0eU1DaDFFcldYQS1BZ1pYckJZZ3hqN0hNd3hUVlZ4aFVqdEFIdkdzczJRVnkyZzZHekhVSHdzbTRwTW11WWl6bUlfZTZ5VVZhYm5BTm45Z0NvbmFvWldlc3Ezc241UXJQdWJ2OElaTmJ2TUN3eEgyNEJqQWRSMGVIYVdUclNB?oc=5\" target=\"_blank\">Mizoram CM calls for more Mizo content online, wider translation of literature to preserve language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNlU5QlVOcUZPdnk4YU8wUnZ2M1FWLWlWbzA3U0phbnozYzVteWVtYXRWbnVyS3VlV0lwSXlhekVmdjZEZmV5OHdfRTJjQ05pTl9GMGZvWDJTOUxiQjRwclM0cEVUUXdid1BsY0phb2VEczBBOEpJSlNCdmhPVDlxUkZ3NGpFYzlJa0dDTldGVXJueUdJVERtNkd2akNqbU0wRjNkbWZjRkN2UUFTNGVCckF3TjZBSngzeXFISXBRcXNpSHpQT1ZVcXI2aEdwdDN4WFJMRy1zMm1jZzlYX0hWdWE5dEhBblJaeGZGOVJqWXXSAfYBQVVfeXFMTUhROUxNQlJSY0RYR0dRZnE5NjJQV0xXYURyM3pxUG1qYzk5UUhlQklRUThULVczbEJGcC1UakplZ0JDZmhCMzJ0TlRpTzQxR0JGeXplbUdXaHVWaldlM0xrWmdXM2t3c21abTdsQlV2c19wMU1jNVd0eU1DaDFFcldYQS1BZ1pYckJZZ3hqN0hNd3hUVlZ4aFVqdEFIdkdzczJRVnkyZzZHekhVSHdzbTRwTW11WWl6bUlfZTZ5VVZhYm5BTm45Z0NvbmFvWldlc3Ezc241UXJQdWJ2OElaTmJ2TUN3eEgyNEJqQWRSMGVIYVdUclNB?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:57+00:00"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "region": "Himachal Pradesh",
+ "group": "B",
+ "query": "(\"Himachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Himachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:32+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Where Heritage Meets Intelligence: Empowering Artisans through AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SWhVcHY1TUptVmJwWDFqZ3NlQ0R1WDliWEhmYUJpWm9JRzZiUTFESTZ4Z1lMU3E5bWlDWGZzM19QVDNRQ0RzZ0VfU0hfeFpQUUt4RS1EaGlKc1daVzhYRnRqdW55cWlO?oc=5\" target=\"_blank\">Where Heritage Meets Intelligence: Empowering Artisans through AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SWhVcHY1TUptVmJwWDFqZ3NlQ0R1WDliWEhmYUJpWm9JRzZiUTFESTZ4Z1lMU3E5bWlDWGZzM19QVDNRQ0RzZ0VfU0hfeFpQUUt4RS1EaGlKc1daVzhYRnRqdW55cWlO?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "AI Summit 2026 Congress protest: Dramatic standoff between Delhi, Shimla police ends",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2t3VlV0R1NjbEdEaGNuNkVLMHdodTgyay03QUt1ZDFfMjQwUXRYUEtndHBPUERjb3JHZWtJYjFoQk9TTjd1bmxBeEVnbFFyRkJXZVMyVWhPeVgxUG9CRHBLeG1RTEFOdE5lek9ReUJGVXZQUzBnaktFMWJGWjdqRTktRXQ0VFphd1dzbnlmTzF0MXhPVVFXSmVnQ0pjUUloaWU4MElxSl83UHNWNTRON3gyamRnWVVvVnpzd1pGN2xLcHN6d29GcUEtUTcyX3V5Q3ZkLWFLa0hkaXIwaHp5RzIwclNyR3RZ0gHvAUFVX3lxTE95N0tnd19JRmc3cERtbmdzYTk3WGZjTFNwWHRKZzB1MlY4a2UyX0RxMDJoN3JqN0IwWjB6VFpCWFo2VGtBamZqdW42WTZzS1lfcjlSVHUzd0dPbnNVQ1dUSW5fNjN0anF2RHV1Z19NTjNnaU5OQ2dBSGRJTEdjaGp4MW82ZXVJQ0wyZ2FqUExKT0I1aUZrU2tXWjQ4NEpRakJtN0VGZ3NtMTRRLXVQX0VXaWlKdTlCNUMtSGN2eU5CaldEWmpFeTFudDk5N0xWNVBIRktnQ2ozNEp2ZFd0dHJodU4ybWs2dnFvNGlKM3dV?oc=5\" target=\"_blank\">AI Summit 2026 Congress protest: Dramatic standoff between Delhi, Shimla police ends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa2t3VlV0R1NjbEdEaGNuNkVLMHdodTgyay03QUt1ZDFfMjQwUXRYUEtndHBPUERjb3JHZWtJYjFoQk9TTjd1bmxBeEVnbFFyRkJXZVMyVWhPeVgxUG9CRHBLeG1RTEFOdE5lek9ReUJGVXZQUzBnaktFMWJGWjdqRTktRXQ0VFphd1dzbnlmTzF0MXhPVVFXSmVnQ0pjUUloaWU4MElxSl83UHNWNTRON3gyamRnWVVvVnpzd1pGN2xLcHN6d29GcUEtUTcyX3V5Q3ZkLWFLa0hkaXIwaHp5RzIwclNyR3RZ0gHvAUFVX3lxTE95N0tnd19JRmc3cERtbmdzYTk3WGZjTFNwWHRKZzB1MlY4a2UyX0RxMDJoN3JqN0IwWjB6VFpCWFo2VGtBamZqdW42WTZzS1lfcjlSVHUzd0dPbnNVQ1dUSW5fNjN0anF2RHV1Z19NTjNnaU5OQ2dBSGRJTEdjaGp4MW82ZXVJQ0wyZ2FqUExKT0I1aUZrU2tXWjQ4NEpRakJtN0VGZ3NtMTRRLXVQX0VXaWlKdTlCNUMtSGN2eU5CaldEWmpFeTFudDk5N0xWNVBIRktnQ2ozNEp2ZFd0dHJodU4ybWs2dnFvNGlKM3dV?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal govt to safeguard service benefits of teachers in CBSE-affiliated schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYnc1ZktTTUJNcFVFSlM2UUNjYU9ONjZpTG00eFZUOUhMbmxLY19VeC1mOFpVdVYxbk5vR2lEc3V5WTBVd1BvR3RkOGZ5SWUyeXZfY3htMXFlVkd2ZU16NGZtTkFLUjUzMFpoWDhDUVFqVkUyVlQ1djVlNmtRZVQ1M3pEVUtzM3JxemI4ZWpXU0ltSkRRbXZWb3FzMEt0clMtTU13TjEzTnI4a0ZJMUE3ZDEzMHlDd2JEZ3o1Nm00cW9Dc0N1enotaGhnaURRcnAyVjZBMS1NSlBsclBLbmxBTlNRTjY2NENfYUIxT0R3YURkc2xZckNN0gH7AUFVX3lxTE9hcnBiU2JraGRiSFF2UVhVZjY4LWZGdlVqcWk5X2EySjJyTm9LaFQzcDFOUmpuN1daTkE3cmZVYjZfcHN5QU83SzVwVUh5T2RsR3dSQlhKRFB3S3BQaWg4WHFKLVpHRkxDNUdEX2dLdy16REZ3M2xIRTdjRHE0N0NQTzRtdlcxM0c1a0p3aUI0QzBzZDdWTXAxQ29QWkpkSVExNlBsei1MYnlXWnduVVZOZGd5cDFlVFppRjFnTElLRU82YnJOeFktS1g5TWstYzBzc2ZMV3ExMS1tUEFCZkprSUxaNVR3bW1WSnFCS3c1MzdBTENraFgxQXRF?oc=5\" target=\"_blank\">Himachal govt to safeguard service benefits of teachers in CBSE-affiliated schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYnc1ZktTTUJNcFVFSlM2UUNjYU9ONjZpTG00eFZUOUhMbmxLY19VeC1mOFpVdVYxbk5vR2lEc3V5WTBVd1BvR3RkOGZ5SWUyeXZfY3htMXFlVkd2ZU16NGZtTkFLUjUzMFpoWDhDUVFqVkUyVlQ1djVlNmtRZVQ1M3pEVUtzM3JxemI4ZWpXU0ltSkRRbXZWb3FzMEt0clMtTU13TjEzTnI4a0ZJMUE3ZDEzMHlDd2JEZ3o1Nm00cW9Dc0N1enotaGhnaURRcnAyVjZBMS1NSlBsclBLbmxBTlNRTjY2NENfYUIxT0R3YURkc2xZckNN0gH7AUFVX3lxTE9hcnBiU2JraGRiSFF2UVhVZjY4LWZGdlVqcWk5X2EySjJyTm9LaFQzcDFOUmpuN1daTkE3cmZVYjZfcHN5QU83SzVwVUh5T2RsR3dSQlhKRFB3S3BQaWg4WHFKLVpHRkxDNUdEX2dLdy16REZ3M2xIRTdjRHE0N0NQTzRtdlcxM0c1a0p3aUI0QzBzZDdWTXAxQ29QWkpkSVExNlBsei1MYnlXWnduVVZOZGd5cDFlVFppRjFnTElLRU82YnJOeFktS1g5TWstYzBzc2ZMV3ExMS1tUEFCZkprSUxaNVR3bW1WSnFCS3c1MzdBTENraFgxQXRF?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Shirtless Protest Row: Himachal Police Detains Delhi Police Team Over Arrest of IYC Men",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDJ0cEVRa3VUVGVvRTI5WGVBU1pEcE0xYVN2RjBJQVNzcEZYd3NncDZURnlqV21JT3BtRDBMOGxzb1VZYmlGRlMwQTgtSWFmTmtacTY2QklSc2U3SGRSN1Frc1JkdWpkQUZjWHVuX3FvWkYwVmU5WWI3SnlINHZvaGxPUXZCNERqMkZpblpPNXpJZU04dDA1emFKeEFMM25fcjNiVVcwaVdlaVQ5MmYwXzhQNDV5dzDSAcoBQVVfeXFMTTRheGJ0aDRsSXF0VkdSekNIaFRkdTQzbjU3RzRRTDZtZjFYaXVlOVdLMnZwSW9KYkQ0Sjl0QnRVdktFcGhyNm5hOExmdjBodUdnNEtUbm9XSWtMR1VDWnktdE1oeXZRd0ZLeE54M29QSzZueUFPVVhzRGo0Smhnb1RYaHNoM2piU1BGZHlYSW9vUjdELTlyNXh1aWZsUUFxbEVkSk5Ra0tIQ2NUM2FtcXFxWlFoUUgzYkpFMGthVGE0Zm1kWFpqZnNQQQ?oc=5\" target=\"_blank\">Shirtless Protest Row: Himachal Police Detains Delhi Police Team Over Arrest of IYC Men</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDJ0cEVRa3VUVGVvRTI5WGVBU1pEcE0xYVN2RjBJQVNzcEZYd3NncDZURnlqV21JT3BtRDBMOGxzb1VZYmlGRlMwQTgtSWFmTmtacTY2QklSc2U3SGRSN1Frc1JkdWpkQUZjWHVuX3FvWkYwVmU5WWI3SnlINHZvaGxPUXZCNERqMkZpblpPNXpJZU04dDA1emFKeEFMM25fcjNiVVcwaVdlaVQ5MmYwXzhQNDV5dzDSAcoBQVVfeXFMTTRheGJ0aDRsSXF0VkdSekNIaFRkdTQzbjU3RzRRTDZtZjFYaXVlOVdLMnZwSW9KYkQ0Sjl0QnRVdktFcGhyNm5hOExmdjBodUdnNEtUbm9XSWtMR1VDWnktdE1oeXZRd0ZLeE54M29QSzZueUFPVVhzRGo0Smhnb1RYaHNoM2piU1BGZHlYSW9vUjdELTlyNXh1aWZsUUFxbEVkSk5Ra0tIQ2NUM2FtcXFxWlFoUUgzYkpFMGthVGE0Zm1kWFpqZnNQQQ?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "thewire.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Salaries Of Himachal Chief Minister, Cabinet To Be Delayed Amid State's Debt",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOenVwWlR6eFVJRTJxNzI4X1JKUVVvNnhuSHVzV19zdU5kSGVPRDVOcWJuTHQtUlRYNUhCV0lxcklfYTRWWUhFSnc3NGYzdUlkRXdSSGRVWjU2d2kxMWthcUR1UFBGWGlfS2Vxdi1pWUhpOHNYcnV4dF8tbkZqcTBUdkx2WFhENFpzdWdMaGxKdnVsTTNUZzBxNHIxd0FjcUNfOE9OajJTcWZ0eG5MdndKTS1mNHVRUdIBvgFBVV95cUxNVko1WVM2cGhXRFdNN1NzRW9SWS1PTy01eXVxcjVsZEtSYjE1MVZMRmYzN0xVZzAtVTVqTDhCODlSYkRWZkZhOWk1bTYxVGxDTF9PbXZQWlhuTl9BX3RKaHU0dXBYdTlLZlMxYWxOdktsYVl4UThXaFYxV0NncVFQZnlnOWJNYUlZS3VFZlB0MXI0LWltSzNNcjNUNlRfdTlxOXZIX0MxaTdwUENfZC1QZFVOVEdOOTNUeHYxWU1n?oc=5\" target=\"_blank\">Salaries Of Himachal Chief Minister, Cabinet To Be Delayed Amid State's Debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenVwWlR6eFVJRTJxNzI4X1JKUVVvNnhuSHVzV19zdU5kSGVPRDVOcWJuTHQtUlRYNUhCV0lxcklfYTRWWUhFSnc3NGYzdUlkRXdSSGRVWjU2d2kxMWthcUR1UFBGWGlfS2Vxdi1pWUhpOHNYcnV4dF8tbkZqcTBUdkx2WFhENFpzdWdMaGxKdnVsTTNUZzBxNHIxd0FjcUNfOE9OajJTcWZ0eG5MdndKTS1mNHVRUdIBvgFBVV95cUxNVko1WVM2cGhXRFdNN1NzRW9SWS1PTy01eXVxcjVsZEtSYjE1MVZMRmYzN0xVZzAtVTVqTDhCODlSYkRWZkZhOWk1bTYxVGxDTF9PbXZQWlhuTl9BX3RKaHU0dXBYdTlLZlMxYWxOdktsYVl4UThXaFYxV0NncVFQZnlnOWJNYUlZS3VFZlB0MXI0LWltSzNNcjNUNlRfdTlxOXZIX0MxaTdwUENfZC1QZFVOVEdOOTNUeHYxWU1n?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Sat, 21 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh unveils She Travel Policy to boost safety for solo women travellers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUs2R0pHN2k0b2lVVzQ4eldHbG9QdllVMUswSUd4cjR4SldxcmU3V3RLWnhsbXdILVlvQW91eG9mQnp1dWp1WXlaWW1WeGtKQWctem9UaGkwQXlRRnFSUTRaaHhfUTRCTUxyalBHUUdTY0dINXJ5S0JvamJtTVNkNms5dTlHQ0Q1NnMyNURiWTVxejIzYjEzd2hwYkx6M2E2OTRsRWd0M2NJdkNJbUJ0RHBqY1N4TGd2MnNjcUI2bDdWMERXcVlQS1BEcXI3UdIB2wFBVV95cUxQYmdlQlVXX1ZEUl9MNzVHb1p3dzg1aHpsTWpTdUlyMVV3R2ZLOFRNMjd1OUc5NHlHdUVmVVIxN0tZOF9naHZGTG9YbWpobnJ0STFLUlJUdUhzQkJ4Wm9nZUJyZnczZWFDSFZOblJrNDNOX0F2b002am5aNDY2YWhJd1RtUnp5RFdaVUdwaDFiQXpYNVdEWEs5bktSZmdmTk5tMEFtSDJNMFl1YkR0MmdQTkY4bnRhd0hETVp3NzFyVTBubWJIdFZwbjFwNVI2cElpV3M5eUtheG5vem8?oc=5\" target=\"_blank\">Himachal Pradesh unveils She Travel Policy to boost safety for solo women travellers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndulgExpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUs2R0pHN2k0b2lVVzQ4eldHbG9QdllVMUswSUd4cjR4SldxcmU3V3RLWnhsbXdILVlvQW91eG9mQnp1dWp1WXlaWW1WeGtKQWctem9UaGkwQXlRRnFSUTRaaHhfUTRCTUxyalBHUUdTY0dINXJ5S0JvamJtTVNkNms5dTlHQ0Q1NnMyNURiWTVxejIzYjEzd2hwYkx6M2E2OTRsRWd0M2NJdkNJbUJ0RHBqY1N4TGd2MnNjcUI2bDdWMERXcVlQS1BEcXI3UdIB2wFBVV95cUxQYmdlQlVXX1ZEUl9MNzVHb1p3dzg1aHpsTWpTdUlyMVV3R2ZLOFRNMjd1OUc5NHlHdUVmVVIxN0tZOF9naHZGTG9YbWpobnJ0STFLUlJUdUhzQkJ4Wm9nZUJyZnczZWFDSFZOblJrNDNOX0F2b002am5aNDY2YWhJd1RtUnp5RFdaVUdwaDFiQXpYNVdEWEs5bktSZmdmTk5tMEFtSDJNMFl1YkR0MmdQTkY4bnRhd0hETVp3NzFyVTBubWJIdFZwbjFwNVI2cElpV3M5eUtheG5vem8?oc=5",
+   "source_name": "IndulgExpress",
+   "source_domain": "indulgexpress.com",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal approves Rs 1,617 cr for modernisation of medical colleges, super speciality institutions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1NiXzFtdVNxdE5aQ0pQdmpEbFBfNV9XaElHWncwR3U5bFFBWHhwNDhqTFFWY0w4dVlSbF91UEZ2SWxWYjM3c29IQm9OZ1NMWG9EcGk1NWM0ODJ6TUJLSXhua2Y3bE9EcTB5ZEowdlk2enZSQ2w0Z1B1d2psRmI3MGhxUnU5X2lUc3oxdC1CS1UzckUzekc2X0tJZnJ6cWFidmVHOFZyMEs5NDM1a2cyZUw5TjdkT1NoQ183QTVReF9KSC1qVDVxbElqc3hORWhXQWR2bmVadUNKbGtjMS1FYUk1azMxeTlPNEpNMkdxZ0pqQ0x00gH6AUFVX3lxTFA3M0hwMFRYb3paNGV2QW5JdWx0UUFyMXByRnJjU05wNk5LNFBuN0VpOHQwanVzWUotbTZYYUpBa0xZSVNsX1U0MWJFaVJUR3poWkxyLUxaQ0xWbWNaMlp2dnNobmJ5T2N3bFk5MXlPOUxjUFEyVTF2OXE3ell0QmczTUhVM0V1MS12a3Jfb1lxRTVtNS1pZ1JEeTBadDhOb3UxMno3aTZsYzBuWmV0QjRFUUVSRmR1ZC1BOFkxb3c3TmxrVmNnYTIzY2R2ZnRodmtqdnU2Q1laMnFwTUhCbld2X2FhN1VBUUhCLUV1WnowX3JuNUp4Nk9QYlE?oc=5\" target=\"_blank\">Himachal approves Rs 1,617 cr for modernisation of medical colleges, super speciality institutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET HealthWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1NiXzFtdVNxdE5aQ0pQdmpEbFBfNV9XaElHWncwR3U5bFFBWHhwNDhqTFFWY0w4dVlSbF91UEZ2SWxWYjM3c29IQm9OZ1NMWG9EcGk1NWM0ODJ6TUJLSXhua2Y3bE9EcTB5ZEowdlk2enZSQ2w0Z1B1d2psRmI3MGhxUnU5X2lUc3oxdC1CS1UzckUzekc2X0tJZnJ6cWFidmVHOFZyMEs5NDM1a2cyZUw5TjdkT1NoQ183QTVReF9KSC1qVDVxbElqc3hORWhXQWR2bmVadUNKbGtjMS1FYUk1azMxeTlPNEpNMkdxZ0pqQ0x00gH6AUFVX3lxTFA3M0hwMFRYb3paNGV2QW5JdWx0UUFyMXByRnJjU05wNk5LNFBuN0VpOHQwanVzWUotbTZYYUpBa0xZSVNsX1U0MWJFaVJUR3poWkxyLUxaQ0xWbWNaMlp2dnNobmJ5T2N3bFk5MXlPOUxjUFEyVTF2OXE3ell0QmczTUhVM0V1MS12a3Jfb1lxRTVtNS1pZ1JEeTBadDhOb3UxMno3aTZsYzBuWmV0QjRFUUVSRmR1ZC1BOFkxb3c3TmxrVmNnYTIzY2R2ZnRodmtqdnU2Q1laMnFwTUhCbld2X2FhN1VBUUhCLUV1WnowX3JuNUp4Nk9QYlE?oc=5",
+   "source_name": "ET HealthWorld",
+   "source_domain": "health.economictimes.indiatimes.com",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal to provide grant to daughters of widows for higher education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhrTjR4Vi1JdFRXVXBCakVKRDRZTGZrTXpwRGVybk4tYXM3cFZzWEN2bllQWFV1eTdGYVlMYmhEYzdNalQ5dWE3NHRwaFBRQmlQMWhzOFgxQU8yaDBFQ0dTcmpkczI3aHZpc2RXV3pEa3RZYlgyRjNFUzZUZFctM21sX1ZuRGJiOUQybkNNSzVJVmJCQTFRSDRiSkdXSDNQeDZtWXlDeUUyM181dU45YlJHQ292R1lGX1N3TVVaWjRqUVZfYzBIWk1PUjdPUWtZTFFRWlpTTHhLcW92R0tDZVB1dG3SAeoBQVVfeXFMUFFvQlJ6THA4M2JhU093MnhvZU5MZ2poemlQczZxOGlvWGZ2SkRNVlhkTEIxX0VrY1hUZEh1aXAxQjhzZU9FWVNVLUZWZHZneWc3NWlnZjdfTmgyUGJ1Tl96Q2VWRlU2eDUtb0pxeE9Cb3cxV05RRnpaR1AxZFVlUXloaFBiRVRVN3pZc1pFbG1HSkhDTDkzWWlTUmVIazJuangzTE54NEtCZ05Fb040QjBfUWxBc19DanpNekRQLUVFZUN3eERHZVBrRzF5UU1LdDZVUDdnZWpKcmFja3lOczhBSXdqTHdSem93?oc=5\" target=\"_blank\">Himachal to provide grant to daughters of widows for higher education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhrTjR4Vi1JdFRXVXBCakVKRDRZTGZrTXpwRGVybk4tYXM3cFZzWEN2bllQWFV1eTdGYVlMYmhEYzdNalQ5dWE3NHRwaFBRQmlQMWhzOFgxQU8yaDBFQ0dTcmpkczI3aHZpc2RXV3pEa3RZYlgyRjNFUzZUZFctM21sX1ZuRGJiOUQybkNNSzVJVmJCQTFRSDRiSkdXSDNQeDZtWXlDeUUyM181dU45YlJHQ292R1lGX1N3TVVaWjRqUVZfYzBIWk1PUjdPUWtZTFFRWlpTTHhLcW92R0tDZVB1dG3SAeoBQVVfeXFMUFFvQlJ6THA4M2JhU093MnhvZU5MZ2poemlQczZxOGlvWGZ2SkRNVlhkTEIxX0VrY1hUZEh1aXAxQjhzZU9FWVNVLUZWZHZneWc3NWlnZjdfTmgyUGJ1Tl96Q2VWRlU2eDUtb0pxeE9Cb3cxV05RRnpaR1AxZFVlUXloaFBiRVRVN3pZc1pFbG1HSkhDTDkzWWlTUmVIazJuangzTE54NEtCZ05Fb040QjBfUWxBc19DanpNekRQLUVFZUN3eERHZVBrRzF5UU1LdDZVUDdnZWpKcmFja3lOczhBSXdqTHdSem93?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Sun, 22 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "JSW Energy subsidiaries move Himachal Pradesh High Court against land revenue levy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUpzaEktbi1jUUd4aVg2TjBaQUlEY0txUURSa1hrZGpwalh5aFlnSnNrakV4REVsX3ExeDVYTWN3SUR2anhHTk5iR2ZOT2NVVXFkSEZVTmYtbjNEN09Ud202UWd5YzVnN0J4eUp3ZHJaZjdSYWZZa0JWTGRyRkF1cEUwc0Vva2dDRjQtSzI5d2stdWhkOVNXRFVtXzZCeUFrUWk2V0RzMWxKS19meFNuZjVFY0xneTNBOTQzZzlOYnVsTk0xWnFsUWYyWXF1RzM0OVRjTllMd0gzX2NveHfSAeIBQVVfeXFMTlRxLTJnckJMY2l0Um9saWU2bXd1NldHTVM1UXhMZFA5elFoZE5RWW0yOVRldHh0cDZKOVRhckFuTGNWemtXY0QwOWIybmdCNGlnb05ILWdBdGlMRE96R3ZlLXFDZTVlTzZMZnl2S2JLc2tGOEVfSDRwSm5KOFJjc0pXZ29HU21CZUIwVVJmVVItU2VIOEJiNG9iaUVkaHliaGdueFhzbl9rdVRta2lCTUN0XzgtRXJ5MEZEREE2UVgwdDVQVnVaME1sTkJtMlBZQ3Nra2pfd1JLVW9PRHVkQWotZw?oc=5\" target=\"_blank\">JSW Energy subsidiaries move Himachal Pradesh High Court against land revenue levy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETLegalWorld.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUpzaEktbi1jUUd4aVg2TjBaQUlEY0txUURSa1hrZGpwalh5aFlnSnNrakV4REVsX3ExeDVYTWN3SUR2anhHTk5iR2ZOT2NVVXFkSEZVTmYtbjNEN09Ud202UWd5YzVnN0J4eUp3ZHJaZjdSYWZZa0JWTGRyRkF1cEUwc0Vva2dDRjQtSzI5d2stdWhkOVNXRFVtXzZCeUFrUWk2V0RzMWxKS19meFNuZjVFY0xneTNBOTQzZzlOYnVsTk0xWnFsUWYyWXF1RzM0OVRjTllMd0gzX2NveHfSAeIBQVVfeXFMTlRxLTJnckJMY2l0Um9saWU2bXd1NldHTVM1UXhMZFA5elFoZE5RWW0yOVRldHh0cDZKOVRhckFuTGNWemtXY0QwOWIybmdCNGlnb05ILWdBdGlMRE96R3ZlLXFDZTVlTzZMZnl2S2JLc2tGOEVfSDRwSm5KOFJjc0pXZ29HU21CZUIwVVJmVVItU2VIOEJiNG9iaUVkaHliaGdueFhzbl9rdVRta2lCTUN0XzgtRXJ5MEZEREE2UVgwdDVQVnVaME1sTkJtMlBZQ3Nra2pfd1JLVW9PRHVkQWotZw?oc=5",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "legal.economictimes.indiatimes.com",
+   "published_raw": "Thu, 07 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh chief minister Sukhvinder Singh Sukhu launches statewide HPV vaccination drive",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxONWdBellyRVN4cGRGaEl6RE5SZ2FVM2lGS1JBX0hRbnhvTHBWc0lfVU04NVE2RDJUaDRDU0tiTWJlWFlLQ3pTdE4zX2gwNWNpdVh1ZkFJbkRxeHcwNnN6bk9vQVdvSkh5bV9LcXFQeGRjZDBSNHdINHRBUm5obWpGeHVIVU91UnQ4clR4a2NFLXRiTkxEeVpXZEhOYlpkRnBHN3g1Rmdza2I1S01OX3VJTnNzWVZsNzlRSlpQcWhsa2Y5UnZUMi1fcVVfTkNDLThyNXMzYk8yblVOUEljc1lCTVlrTHZOTjRWcWlhRUlmaTV2cVRFbng3OFRVV253X1FlXzBR0gGIAkFVX3lxTE1FVkdTRVhTZFNZMFB4VGhoSzhIVlVYNlhXajMyNkp6N19VWjd2aVBnQXN2YURlTlJCSVRhUHRLaG52LUJoRFljQjFod2NkV0xTTGQzR1NzckVCQkZWMDgzN3pkMThIM0o4U3lpaHpXWkhHb250WG43WU85aTNvQWZOVllxQ2xLQzFGMlgtN20xSUU5N0FEWS05dEswVUNIcjQ2SFg5UXNYRXhqQlFtNEZjbXVyYU8yTk83STBVb0I3VElVZ3BGMGlibHdaWG5lUGcxc1JpYnVVQzhGWXlvZE53VTN3YlpPOFdJR0k2YmNESGF4cy16M2NyLVI1Q3QtNmVzZ0NBcGJXbg?oc=5\" target=\"_blank\">Himachal Pradesh chief minister Sukhvinder Singh Sukhu launches statewide HPV vaccination drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONWdBellyRVN4cGRGaEl6RE5SZ2FVM2lGS1JBX0hRbnhvTHBWc0lfVU04NVE2RDJUaDRDU0tiTWJlWFlLQ3pTdE4zX2gwNWNpdVh1ZkFJbkRxeHcwNnN6bk9vQVdvSkh5bV9LcXFQeGRjZDBSNHdINHRBUm5obWpGeHVIVU91UnQ4clR4a2NFLXRiTkxEeVpXZEhOYlpkRnBHN3g1Rmdza2I1S01OX3VJTnNzWVZsNzlRSlpQcWhsa2Y5UnZUMi1fcVVfTkNDLThyNXMzYk8yblVOUEljc1lCTVlrTHZOTjRWcWlhRUlmaTV2cVRFbng3OFRVV253X1FlXzBR0gGIAkFVX3lxTE1FVkdTRVhTZFNZMFB4VGhoSzhIVlVYNlhXajMyNkp6N19VWjd2aVBnQXN2YURlTlJCSVRhUHRLaG52LUJoRFljQjFod2NkV0xTTGQzR1NzckVCQkZWMDgzN3pkMThIM0o4U3lpaHpXWkhHb250WG43WU85aTNvQWZOVllxQ2xLQzFGMlgtN20xSUU5N0FEWS05dEswVUNIcjQ2SFg5UXNYRXhqQlFtNEZjbXVyYU8yTk83STBVb0I3VElVZ3BGMGlibHdaWG5lUGcxc1JpYnVVQzhGWXlvZE53VTN3YlpPOFdJR0k2YmNESGF4cy16M2NyLVI1Q3QtNmVzZ0NBcGJXbg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 01 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:32+00:00"
+  }
+ ]
+}

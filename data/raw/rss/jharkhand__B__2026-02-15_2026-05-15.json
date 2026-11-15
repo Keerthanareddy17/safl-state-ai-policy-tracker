@@ -1,0 +1,98 @@
+{
+ "region": "Jharkhand",
+ "group": "B",
+ "query": "(Jharkhand) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Jharkhand%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:01+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand Budget 2026–27 Unveils ₹1.58 Lakh Crore Plan Focused on Welfare, Infrastructure and Economic Growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0c2OU9RZkJVZVpmcUc5VUQ1ZkFOSS1zZFhreXoyMG5Fc0Q2Tkw4RTQ0a09OVE1yek9aMkVqZ3Z2dExRLTl4NllHSXZDaC04RFhybzJ0UjZ0QUNDd0Jnc0dmdU4yTzhwSEpodTVvb09BZWREX2wyeUtYSTh0Sk41LUFlTkNPVkF0cmhTbGFsQ1F3SnZpVzhEaElXLTNwM04zNzl6b3FoaWFfcHlOOXNpaUROUTlRcFl6bVhJSkJzOEZfeGlSMVZvMnpsUHQ4OXVzNEFLVnBNV0RjR2Iycmc?oc=5\" target=\"_blank\">Jharkhand Budget 2026–27 Unveils ₹1.58 Lakh Crore Plan Focused on Welfare, Infrastructure and Economic Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0c2OU9RZkJVZVpmcUc5VUQ1ZkFOSS1zZFhreXoyMG5Fc0Q2Tkw4RTQ0a09OVE1yek9aMkVqZ3Z2dExRLTl4NllHSXZDaC04RFhybzJ0UjZ0QUNDd0Jnc0dmdU4yTzhwSEpodTVvb09BZWREX2wyeUtYSTh0Sk41LUFlTkNPVkF0cmhTbGFsQ1F3SnZpVzhEaElXLTNwM04zNzl6b3FoaWFfcHlOOXNpaUROUTlRcFl6bVhJSkJzOEZfeGlSMVZvMnpsUHQ4OXVzNEFLVnBNV0RjR2Iycmc?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "J'khand govt to establish 'health cottages' in every panchayat: Health Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdXNUcmFKZDFOSVk3MWpuS05UUHVzdDY2MWdheGtpbFliTGhkeFNSc3MwTk1tTExycXcyUk5Kdm1ZX1UyVll2UnZMZnlPUHFWQzRFTmVKU05vSU9WeUp5Qzg5TWlPUDIxTDZPQkx1YXMwb0ZONW4zS2dSbWRFZFdRcVNzSWNIZjIxN0EzT3JIbWdxWW8waTZNNnY2MGFXWTJEbEw1bTNuLWc3dXZYV2JlLTEwV05KSXB1czlZZDBKQmxEQmM1ZW1RdUI4QXNHa1ROSTBTSG9XVHfSAd4BQVVfeXFMTmJXLXhwR3dJdkg0d0tsSU9Pb1NCbEFjaWl1T2xuQWlZZ2hVTUJFcWFiQlhfWEw3Ni1TUk1ETnVTeEN6U0drQWE3em8wQTRDSkVwVGtGMWNDekd6ZjVjQ20tNi1jUERacnFzVE80T0xnVDhKNV9kYnRmWmVBcjEtUkdjZUMxUktOTlVycUQyMGpzSUNVeEhDRmx3LVQzTlVNbUFiS0RUTk5COFNQbnA3bDFHOU9yQWpmZDdWSXdfM3NRc1dOcTFaQ1MxYnRfdkRyeFJ3V1V5TXJHS21vQjln?oc=5\" target=\"_blank\">J'khand govt to establish 'health cottages' in every panchayat: Health Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET HealthWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdXNUcmFKZDFOSVk3MWpuS05UUHVzdDY2MWdheGtpbFliTGhkeFNSc3MwTk1tTExycXcyUk5Kdm1ZX1UyVll2UnZMZnlPUHFWQzRFTmVKU05vSU9WeUp5Qzg5TWlPUDIxTDZPQkx1YXMwb0ZONW4zS2dSbWRFZFdRcVNzSWNIZjIxN0EzT3JIbWdxWW8waTZNNnY2MGFXWTJEbEw1bTNuLWc3dXZYV2JlLTEwV05KSXB1czlZZDBKQmxEQmM1ZW1RdUI4QXNHa1ROSTBTSG9XVHfSAd4BQVVfeXFMTmJXLXhwR3dJdkg0d0tsSU9Pb1NCbEFjaWl1T2xuQWlZZ2hVTUJFcWFiQlhfWEw3Ni1TUk1ETnVTeEN6U0drQWE3em8wQTRDSkVwVGtGMWNDekd6ZjVjQ20tNi1jUERacnFzVE80T0xnVDhKNV9kYnRmWmVBcjEtUkdjZUMxUktOTlVycUQyMGpzSUNVeEhDRmx3LVQzTlVNbUFiS0RUTk5COFNQbnA3bDFHOU9yQWpmZDdWSXdfM3NRc1dOcTFaQ1MxYnRfdkRyeFJ3V1V5TXJHS21vQjln?oc=5",
+   "source_name": "ET HealthWorld",
+   "source_domain": "health.economictimes.indiatimes.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand to set up health cottages in every panchayat: Irfan Ansari",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0lJUGhXb0c2UGtlczBfVkJUM0xJT3RoRml0YnJFbTVtNUJtQnRLN3UtZGlLcHVwNzdyUGM0TUJHVzRFaUhjZWoyLVVSRVBoSkp3eXBRbmtLenFmVEw4SVNUcENmX3VsM0p3TGVVazJjWlRwT2dVMThpd2E3RFVXVTRzUnFMUTNBWjRlVktFejdORS0yUUJaQmV4cjV4RXdOUjQ4Z2dGSGlvS3poaVdXU3BJdkktd1BGWktFeHUtb1BPWWowNFlvM3BzVTUwQ1cy0gHWAUFVX3lxTE1FajdDRVFRV2UxemNLQTZUNTh4b2lEc3NCM08wX2wxQWItdExvNlFXSDR4ZEprZjk2UlpOVEQ1LWl5TG4ybi0tUHJ0c0NkNmZKaEhIRFBRVmRYRmRHekYxTzVsX1kzdzZNbHdwQjd4Yk5LenhNeGprZ2pqRHRBR0lCMEY4R0trdGp0dEthM2hCTS1URWg4QncwYjN0QVVzVkxVTGlIQ2FsWHRKQkRaeUFhZDZ6cUFPYVpPXy1DTDgzY20wS202MlFCMVZMb2dmcllvMHNSbHc?oc=5\" target=\"_blank\">Jharkhand to set up health cottages in every panchayat: Irfan Ansari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Dialogues</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0lJUGhXb0c2UGtlczBfVkJUM0xJT3RoRml0YnJFbTVtNUJtQnRLN3UtZGlLcHVwNzdyUGM0TUJHVzRFaUhjZWoyLVVSRVBoSkp3eXBRbmtLenFmVEw4SVNUcENmX3VsM0p3TGVVazJjWlRwT2dVMThpd2E3RFVXVTRzUnFMUTNBWjRlVktFejdORS0yUUJaQmV4cjV4RXdOUjQ4Z2dGSGlvS3poaVdXU3BJdkktd1BGWktFeHUtb1BPWWowNFlvM3BzVTUwQ1cy0gHWAUFVX3lxTE1FajdDRVFRV2UxemNLQTZUNTh4b2lEc3NCM08wX2wxQWItdExvNlFXSDR4ZEprZjk2UlpOVEQ1LWl5TG4ybi0tUHJ0c0NkNmZKaEhIRFBRVmRYRmRHekYxTzVsX1kzdzZNbHdwQjd4Yk5LenhNeGprZ2pqRHRBR0lCMEY4R0trdGp0dEthM2hCTS1URWg4QncwYjN0QVVzVkxVTGlIQ2FsWHRKQkRaeUFhZDZ6cUFPYVpPXy1DTDgzY20wS202MlFCMVZMb2dmcllvMHNSbHc?oc=5",
+   "source_name": "Medical Dialogues",
+   "source_domain": "medicaldialogues.in",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Supreme Court grants bail to Jharkhand ex-minister Anosh Ekka in Rs 57 crore disproportionate assets case",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkVhUG5Mb1hnOUhENjRuTGZBU2Q2bDFrNDM4NDRFMlRMQTlFMG9VT1czbEIzdHZaSHFXOVhvQlgzMXh3OGU3QUN3dURBZXN0OE1TVWJodkdweHNUNkFla29CN0FjempZa2k2aE13R25MVW9sTWhmZUhlOWJiSTdhLWFfb1FQRVVDcFJDTFdEYTBPNHN0ZTZreVVuTkhHRTBZNFdvVFpGVnVNWktPLTE5MTU2bUp3RVVM0gG_AUFVX3lxTE44VFZ4RWRjd2ZtSUJPOWVDOXluSUMxemdUV2xOX05qTGVnSF9PeHk4T3lqSnpDMTBhNWdzR19qNzJuNloxZWdCM1F3R2t0ZTlXa1pKS01tX2RrWFN2N25vRHpkeDZqYXhKdWhxcnB2ajBjeVZJeWVxNnVkVWh1RndFeFQzS3NnNzBMdmg4Yzc3U28wbm9XU01lbmxGYkV4ZUtTTHlDLWdBaVZSQk45QVZPeE40cXVrTVJlMGw0Z2lr?oc=5\" target=\"_blank\">Supreme Court grants bail to Jharkhand ex-minister Anosh Ekka in Rs 57 crore disproportionate assets case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkVhUG5Mb1hnOUhENjRuTGZBU2Q2bDFrNDM4NDRFMlRMQTlFMG9VT1czbEIzdHZaSHFXOVhvQlgzMXh3OGU3QUN3dURBZXN0OE1TVWJodkdweHNUNkFla29CN0FjempZa2k2aE13R25MVW9sTWhmZUhlOWJiSTdhLWFfb1FQRVVDcFJDTFdEYTBPNHN0ZTZreVVuTkhHRTBZNFdvVFpGVnVNWktPLTE5MTU2bUp3RVVM0gG_AUFVX3lxTE44VFZ4RWRjd2ZtSUJPOWVDOXluSUMxemdUV2xOX05qTGVnSF9PeHk4T3lqSnpDMTBhNWdzR19qNzJuNloxZWdCM1F3R2t0ZTlXa1pKS01tX2RrWFN2N25vRHpkeDZqYXhKdWhxcnB2ajBjeVZJeWVxNnVkVWh1RndFeFQzS3NnNzBMdmg4Yzc3U28wbm9XU01lbmxGYkV4ZUtTTHlDLWdBaVZSQk45QVZPeE40cXVrTVJlMGw0Z2lr?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 14 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand govt nod to tourist tax, Rs 276 cr fund to build libraries",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdnVLV0VEaFh2emVnWUFUTVJoeUx4RmRJT0ZiSkphcXVJVnp3MWhNcGhyWjJucDB0YTV6MFVDUlMyc2FXRTNaVjJoUEVLTlhITXZrMkVXUnMwYXNaOFdpdVAxeXRtZDdfSTFfS3pNX3k4ajg4SXg5SFQzZnd2dG1KTFJLVnRDdms4OGZMVjY4dGF0NTdoSVJQbllVQzByYWRhU2pSd2ZPNDZRYnpDS3MyTFZiVFNJdjUxOXhhWHFzUk90MGhDUGpmUzloN0QtY0RJTHJKSWRUNNIB3AFBVV95cUxPOEdKUGo2cENPTzNHLUxjbUpJNmpxSnNmY01lVENobFJTellNWFBEeFFkQV9tc2NQZTA3emFtOFp0cHFZUURvZ3Zjd2dDS3QxX1lueXYzcE56UFB1ZmpCU2tveTllM0VCcVNxdVJhN1plR0Y1SlphYVpURzBMcm1vVkhSb0xnclJDai1vZklGZG03SDU3cmd2dXBZb0pQbUpTY3NGNkNXT0hwMjJxM3lJV1dsY3l3anNBTlJuaG81Wkl1aUN0aUp5bTNxNzl4bUU1RVBQRk5TUkNGNS1i?oc=5\" target=\"_blank\">Jharkhand govt nod to tourist tax, Rs 276 cr fund to build libraries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETLegalWorld.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdnVLV0VEaFh2emVnWUFUTVJoeUx4RmRJT0ZiSkphcXVJVnp3MWhNcGhyWjJucDB0YTV6MFVDUlMyc2FXRTNaVjJoUEVLTlhITXZrMkVXUnMwYXNaOFdpdVAxeXRtZDdfSTFfS3pNX3k4ajg4SXg5SFQzZnd2dG1KTFJLVnRDdms4OGZMVjY4dGF0NTdoSVJQbllVQzByYWRhU2pSd2ZPNDZRYnpDS3MyTFZiVFNJdjUxOXhhWHFzUk90MGhDUGpmUzloN0QtY0RJTHJKSWRUNNIB3AFBVV95cUxPOEdKUGo2cENPTzNHLUxjbUpJNmpxSnNmY01lVENobFJTellNWFBEeFFkQV9tc2NQZTA3emFtOFp0cHFZUURvZ3Zjd2dDS3QxX1lueXYzcE56UFB1ZmpCU2tveTllM0VCcVNxdVJhN1plR0Y1SlphYVpURzBMcm1vVkhSb0xnclJDai1vZklGZG03SDU3cmd2dXBZb0pQbUpTY3NGNkNXT0hwMjJxM3lJV1dsY3l3anNBTlJuaG81Wkl1aUN0aUp5bTNxNzl4bUU1RVBQRk5TUkNGNS1i?oc=5",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "legal.economictimes.indiatimes.com",
+   "published_raw": "Fri, 13 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Looking into JPSC cut-off age issue, Jharkhand govt tells assembly",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZm5pc08tbDZrX2tSaXo4UHNLZFVGQWtpeVc0LVZqS0Zac1RQSEFRQ2RQMDBOY3FZM0htR1U3bk9NWUF6Wk94Z1FtOEF5MnFzeTRXMUtYSVl4WGhOYnN3alBvZzB5N2hjWmprZmd3eGE2aHFwQnZrUy1WY19mMzIxaXp5dDNoenRwNzBxcVBpam40LUsyMFJieXlfb1FPbGFNNjY1OGlUaVdVazJEZ0JXcl9SazNJOE5JaDRZTWRhcnBNVEtMVl9EcFphSGlEMHFTUVE0WVNB0gHbAUFVX3lxTFAyc2RlUF9ZUEpLWEJNSEpnWEFFSEJZQnRZVnZiUHhHa05ocGtVRW1sRWRXVHEyeU5uZTJEUDAtRFBLWF9jNTJ3by0wRzQtTF9hVGpGdmxWUkZaV21mc0VtY0ZLVzdlUVhMOUxTRHNjN2VUdVNVeEZ1WWVUY2dpZHYyaFNoUjhJQ213am9Mb3RScXRERGlGZkx4NElpNFNqZWF6VVRHWU1Eb3UteWJzZlE1eVNyaTAyNVFJRG0ySDJ4YUFqYVVMdDA2QjJDZVdNRVZuY0VheDEzR0N0TQ?oc=5\" target=\"_blank\">Looking into JPSC cut-off age issue, Jharkhand govt tells assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZm5pc08tbDZrX2tSaXo4UHNLZFVGQWtpeVc0LVZqS0Zac1RQSEFRQ2RQMDBOY3FZM0htR1U3bk9NWUF6Wk94Z1FtOEF5MnFzeTRXMUtYSVl4WGhOYnN3alBvZzB5N2hjWmprZmd3eGE2aHFwQnZrUy1WY19mMzIxaXp5dDNoenRwNzBxcVBpam40LUsyMFJieXlfb1FPbGFNNjY1OGlUaVdVazJEZ0JXcl9SazNJOE5JaDRZTWRhcnBNVEtMVl9EcFphSGlEMHFTUVE0WVNB0gHbAUFVX3lxTFAyc2RlUF9ZUEpLWEJNSEpnWEFFSEJZQnRZVnZiUHhHa05ocGtVRW1sRWRXVHEyeU5uZTJEUDAtRFBLWF9jNTJ3by0wRzQtTF9hVGpGdmxWUkZaV21mc0VtY0ZLVzdlUVhMOUxTRHNjN2VUdVNVeEZ1WWVUY2dpZHYyaFNoUjhJQ213am9Mb3RScXRERGlGZkx4NElpNFNqZWF6VVRHWU1Eb3UteWJzZlE1eVNyaTAyNVFJRG0ySDJ4YUFqYVVMdDA2QjJDZVdNRVZuY0VheDEzR0N0TQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "PM SHRI scheme transforms school education system in Jharkhand's Sahibganj",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaVlEbkFRRVdnVnRTZ1ZBd0F0Vl9ZTnQyR29YNm1uNXB2djNOTjdTRnJTamlMMzZvbExjVm5RR20taDBsM04wcTQ4T3hWd3FZYWJSLVRPeUZVQW00aC1tblhCdnpxX1FPSDBlZlpONk00djFiN1lvelJBOUV4SkhzdEprMERMRWIwbi1FYXBVdzRTaEk3d3Q2eEJuY3FiWE96QlVNUHdVSVRzbHR6c01PLVllLWlEWDhwYnc3amhYZFR2SkZqcmd1RE8zTDQwcWxEMEpOeG1VSmxFbXhzSl84YVRaTXBDQdIB6wFBVV95cUxNVzJIWXZPWVlQM1ExUlZOVG9kTVFNZ3pZT2VFMUVrc0dVVnhNZEpqazU3YVlvOVNUY2tuOWRFUXZmbm41LXE0MnNqMWd0bnp1TmJQX1J4MUFSbFB2MGRGcGhCWnZCZFhUR0tnUGVSNC1FNmZzWXM4RWNuU3FDVmlOVWsxdXhjTUZCeVNCR2ZWZEI0aXdZSVY1RTZxVTMxeWt1dnlaVENlSHRyZXJ3dS1ENnQyLXZwcXJFbkZtbFdCQW1ZekhyWFR2cnV1R0RDV1dEamVvOTVjbEVOOVpXbDl2RjFvUWZuQWdBTU5V?oc=5\" target=\"_blank\">PM SHRI scheme transforms school education system in Jharkhand's Sahibganj</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaVlEbkFRRVdnVnRTZ1ZBd0F0Vl9ZTnQyR29YNm1uNXB2djNOTjdTRnJTamlMMzZvbExjVm5RR20taDBsM04wcTQ4T3hWd3FZYWJSLVRPeUZVQW00aC1tblhCdnpxX1FPSDBlZlpONk00djFiN1lvelJBOUV4SkhzdEprMERMRWIwbi1FYXBVdzRTaEk3d3Q2eEJuY3FiWE96QlVNUHdVSVRzbHR6c01PLVllLWlEWDhwYnc3amhYZFR2SkZqcmd1RE8zTDQwcWxEMEpOeG1VSmxFbXhzSl84YVRaTXBDQdIB6wFBVV95cUxNVzJIWXZPWVlQM1ExUlZOVG9kTVFNZ3pZT2VFMUVrc0dVVnhNZEpqazU3YVlvOVNUY2tuOWRFUXZmbm41LXE0MnNqMWd0bnp1TmJQX1J4MUFSbFB2MGRGcGhCWnZCZFhUR0tnUGVSNC1FNmZzWXM4RWNuU3FDVmlOVWsxdXhjTUZCeVNCR2ZWZEI0aXdZSVY1RTZxVTMxeWt1dnlaVENlSHRyZXJ3dS1ENnQyLXZwcXJFbkZtbFdCQW1ZekhyWFR2cnV1R0RDV1dEamVvOTVjbEVOOVpXbDl2RjFvUWZuQWdBTU5V?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Tata Steel to invest ₹11,000 crore in Jharkhand for advanced green steel",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmQzTnQ1ek5pSVNhMTZkUjIwRWVGOFc4N0JQNlNmeUR2Vng3ZTE5b1pBV200NzFLM1pZeDdHMU5JbHpFWGVfbURuWDBiWFAyNXJJV0gtY2Zidnl2UlhCU3QyR0dpa0RRQ0tHZkt6bEl2Z2RRd3NOeHVoc2UzdHlSUmhyTE5leDJwMDhGS2hzc0pxTExfRWZGVUQxRzJ6dk9MTWRybk9YOVpua1FPZjVZOVI0NzNjWDNSa1NlUC1OLTVQcHd0RnYySmhEMURDczlIMkxWdHdKOGvSAdwBQVVfeXFMTlJzYWZnSnVZdzNOTjAyQVZ3OU03OVJvbndyS1BRLVZKTVRBUHNBM2FlckFDNEswZjlTNGhSZkRYMWdPSnl0YklvZ000ZlNGUFF5V2IxNEl2NmxJQ3ZpZVBNYkZYVmwyRnJpTzcyQ09aeXRHSDlmRUhFZTJ0b1VrcGNURzM1SllkeEhTOHo5eFRnX1NfLWVvRW1NQmJwZDdYQnRDTC1xZ2ZTaTNwbktMOFVKN2ZuaVRrZGpCdjl6WGRFeGhKc3Z6ZFlmSjBGck5OMUxmWGdFR2Q0Z2ppWg?oc=5\" target=\"_blank\">Tata Steel to invest ₹11,000 crore in Jharkhand for advanced green steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmQzTnQ1ek5pSVNhMTZkUjIwRWVGOFc4N0JQNlNmeUR2Vng3ZTE5b1pBV200NzFLM1pZeDdHMU5JbHpFWGVfbURuWDBiWFAyNXJJV0gtY2Zidnl2UlhCU3QyR0dpa0RRQ0tHZkt6bEl2Z2RRd3NOeHVoc2UzdHlSUmhyTE5leDJwMDhGS2hzc0pxTExfRWZGVUQxRzJ6dk9MTWRybk9YOVpua1FPZjVZOVI0NzNjWDNSa1NlUC1OLTVQcHd0RnYySmhEMURDczlIMkxWdHdKOGvSAdwBQVVfeXFMTlJzYWZnSnVZdzNOTjAyQVZ3OU03OVJvbndyS1BRLVZKTVRBUHNBM2FlckFDNEswZjlTNGhSZkRYMWdPSnl0YklvZ000ZlNGUFF5V2IxNEl2NmxJQ3ZpZVBNYkZYVmwyRnJpTzcyQ09aeXRHSDlmRUhFZTJ0b1VrcGNURzM1SllkeEhTOHo5eFRnX1NfLWVvRW1NQmJwZDdYQnRDTC1xZ2ZTaTNwbktMOFVKN2ZuaVRrZGpCdjl6WGRFeGhKc3Z6ZFlmSjBGck5OMUxmWGdFR2Q0Z2ppWg?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 04 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:01+00:00"
+  }
+ ]
+}

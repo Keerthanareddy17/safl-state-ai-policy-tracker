@@ -1,0 +1,42 @@
+{
+ "region": "Chandigarh",
+ "query": "(Chandigarh) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:31+00:00",
+ "total_results": 3,
+ "item_count": 3,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Chandigarh",
+   "title": "Experts discuss ways to bridge military needs & industrial capabilities",
+   "description": "India-Israel defence dialogue at CII Chandigarh explored indigenisation, tech transfer, air defence, drones and AI to boost Atma-Nirbhar combat capability.",
+   "url": "https://timesofindia.indiatimes.com/city/chandigarh/experts-discuss-ways-to-bridge-military-needs-industrial-capabilities/articleshow/135781568.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-12T19:31:48Z",
+   "fetched_at": "2026-11-15T09:47:31+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Chandigarh",
+   "title": "Shah presents President’s Police Colour to Chandigarh Police, unveils AI shield for city",
+   "description": "Amit Shah awards President’s Police Colour to Chandigarh Police, unveils AI shield adding 2,152 cameras, flags 141 vehicles; highlights high conviction rates.",
+   "url": "https://timesofindia.indiatimes.com/city/chandigarh/shah-presents-presidents-police-colour-to-chandigarh-police-unveils-ai-shield-for-city/articleshow/135437456.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-01T20:29:13Z",
+   "fetched_at": "2026-11-15T09:47:31+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Chandigarh",
+   "title": "2,152 more AI cameras, 85% conviction rate: Amit Shah lauds Chandigarh Police on Raising Day",
+   "description": "Union home minister Amit Shah announced the installation of 2,152 AI-enabled surveillance cameras in Chandigarh. This initiative aims to enhance the city's security network and monitor suspicious activities. Shah highlighted Chandigarh Police's effective impl…",
+   "url": "https://timesofindia.indiatimes.com/city/chandigarh/2152-more-ai-cameras-85-conviction-rate-amit-shah-lauds-chandigarh-police-on-raising-day/articleshow/135423388.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-01T09:45:11Z",
+   "fetched_at": "2026-11-15T09:47:31+00:00"
+  }
+ ]
+}

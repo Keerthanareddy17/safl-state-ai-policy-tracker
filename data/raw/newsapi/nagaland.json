@@ -1,0 +1,20 @@
+{
+ "region": "Nagaland",
+ "query": "(Nagaland) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:59+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Nagaland",
+   "title": "Nagaland unemployment rate at 7.3% vs 3.5% national: Chief secy",
+   "description": "Nagaland unemployment at 7.3% vs 3.5% nationally; youth unemployment 17.5%, chief secretary says, urging AI and industry-aligned education reforms.",
+   "url": "https://timesofindia.indiatimes.com/city/guwahati/nagaland-unemployment-rate-at-7-3-vs-3-5-national-chief-secy/articleshow/135366564.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-30T14:34:36Z",
+   "fetched_at": "2026-11-15T09:47:59+00:00"
+  }
+ ]
+}

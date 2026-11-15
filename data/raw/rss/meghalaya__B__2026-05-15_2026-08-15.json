@@ -1,0 +1,120 @@
+{
+ "region": "Meghalaya",
+ "group": "B",
+ "query": "(Meghalaya) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Meghalaya%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:38+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "India enters next phase of governance transformation with AI-driven administrative reforms: Dr. Jitendra Singh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaW95bldWSGNUc2x2MVRLNzVBSFVFTWJkbWNWRTJNMkdSTWw1bTVMQXhUcDltck1fSTFZYnJfUEF6LUw1MmxKY09kT012Y2oweWtucVZra3ZzWnJKNXJuamZqUU1ORVFU?oc=5\" target=\"_blank\">India enters next phase of governance transformation with AI-driven administrative reforms: Dr. Jitendra Singh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaW95bldWSGNUc2x2MVRLNzVBSFVFTWJkbWNWRTJNMkdSTWw1bTVMQXhUcDltck1fSTFZYnJfUEF6LUw1MmxKY09kT012Y2oweWtucVZra3ZzWnJKNXJuamZqUU1ORVFU?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "India enters next phase of governance reforms with AI-driven administration: Jitendra Singh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGZKR1UtUnRIRFJOZlBlTzFyTzV0cmczWlczTHg1YXlwR2FKckMxcGVJNFdmd05fajJ5NnR4TmpiaG9tSjFDTVNmTXZxQ1VoU1ByS2J6ekhhWk5kUFU2OTJOTG1ZUW9MZzliM0NDZ1hfbFlYamowWTdWeERpVGd4ak5FN0NLMWQ3X0JSUldkMmFBOTVmOWNiaGJrVldDVUtCaVFWNjJLcGNBdkhaTWtZVkJ0T1AzQWM?oc=5\" target=\"_blank\">India enters next phase of governance reforms with AI-driven administration: Jitendra Singh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGZKR1UtUnRIRFJOZlBlTzFyTzV0cmczWlczTHg1YXlwR2FKckMxcGVJNFdmd05fajJ5NnR4TmpiaG9tSjFDTVNmTXZxQ1VoU1ByS2J6ekhhWk5kUFU2OTJOTG1ZUW9MZzliM0NDZ1hfbFlYamowWTdWeERpVGd4ak5FN0NLMWQ3X0JSUldkMmFBOTVmOWNiaGJrVldDVUtCaVFWNjJLcGNBdkhaTWtZVkJ0T1AzQWM?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "HM Amit Shah asks NE CMs to focus on AI, machine learning for new generations",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVFNVThWenJsZ0FDQVpSanQtYkxmeHJFSlNVTDViUVRCZW5DN3JxLUR1U05XNzdoRjJoVFpFbmlQUDB5MEpOTkUzU2RFYnlkcFBXRy05Q1VZRDloamdlanZSc1R2UFFObU4xMmc1a3pYc2c0UDE2WWRsTlgxQjJRSERRaVBTUko1clFRSlRxVFVfeW5CS3VseGxncmNkUkFxTXFFNEdpNmdSeWFBNVZNYQ?oc=5\" target=\"_blank\">HM Amit Shah asks NE CMs to focus on AI, machine learning for new generations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVFNVThWenJsZ0FDQVpSanQtYkxmeHJFSlNVTDViUVRCZW5DN3JxLUR1U05XNzdoRjJoVFpFbmlQUDB5MEpOTkUzU2RFYnlkcFBXRy05Q1VZRDloamdlanZSc1R2UFFObU4xMmc1a3pYc2c0UDE2WWRsTlgxQjJRSERRaVBTUko1clFRSlRxVFVfeW5CS3VseGxncmNkUkFxTXFFNEdpNmdSeWFBNVZNYQ?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Jitendra Singh urges states to use AI to improve public service delivery",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWhmVzF2RmFfRGlTOVFTS1JCQ0NlR0xSQ3dMN1ZmMW9Cb0l1TW5tUVZtSzAxaWk5R3hHcFY3SDdFZWQ3YnlKYU00Sm5wZXBtVVFHaFJlRzE2WGZNd3p1bEVJMi1KR0FUb0RQRHVVUGFPMG4zQWtWMDN2TUFLOEJ5UGZCcUFNbVo3QmthX0otSktWTnpRTGtFWE9neGFFeDJnRGFGeXNicWoxU0E1Z2RIeXNKYWlQVHBxTjlJaWhPTQ?oc=5\" target=\"_blank\">Jitendra Singh urges states to use AI to improve public service delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWhmVzF2RmFfRGlTOVFTS1JCQ0NlR0xSQ3dMN1ZmMW9Cb0l1TW5tUVZtSzAxaWk5R3hHcFY3SDdFZWQ3YnlKYU00Sm5wZXBtVVFHaFJlRzE2WGZNd3p1bEVJMi1KR0FUb0RQRHVVUGFPMG4zQWtWMDN2TUFLOEJ5UGZCcUFNbVo3QmthX0otSktWTnpRTGtFWE9neGFFeDJnRGFGeXNicWoxU0E1Z2RIeXNKYWlQVHBxTjlJaWhPTQ?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya to launch ₹3,214 crore highway projects, upgrades to boost connectivity",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVUczRXFPdGFPRVViMjZFVi1qMFFQZHFnc3Z0U0pQM0xCdTV5QTIzT0NrMzJsOFUxWHFSYjdNRlBtWWluZ2NxWlUtU21oOGFoWkRlamxBQXNIeG1tU04wbkR0TzB6dHl0X2M3TExSbEpacFdDa09BVWJXYkpLaE56elNkVWRkRTFkdVdLR29tckxRVlVIdi0zS3NxZjNoampVdUhKcEFVWUR5MWV1SUpDdVdhQXA3UDB4dWRRQjk2V1NiU3lCdkZESHBaSmJNMjVWV3pnZDdhcmNmRmxQYUxGZk90Y3RiZ9IB6gFBVV95cUxPRFlCUGF4T3lBT1FScDE4dnJMcm1EWkZnUFRMMWh0ODFpNWU5bHo5SzVVbDBfXzlHRVF1Z1ZpOXRac0FmY0V2S0VLdURiNzd4Xy02TDNJbTQ2dW13ZURtaU51RTU2Snl6YndLNWRWSUhaQzdpQXp5Z2Q5WkhLeFpXTlpBdE5zbTEzTV9NVTNrdjR5amxjOEVBRWdzZ2NqNktISWFwTjI3UWtvNnNTRHBrQWpfYXhmajJ6S1dyX2kyN01UT0V3Q0d4V1lraDBiTkNSRTlpWjBjNGxzWUdOcmRPSFFQeU13aDZiT2c?oc=5\" target=\"_blank\">Meghalaya to launch ₹3,214 crore highway projects, upgrades to boost connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVUczRXFPdGFPRVViMjZFVi1qMFFQZHFnc3Z0U0pQM0xCdTV5QTIzT0NrMzJsOFUxWHFSYjdNRlBtWWluZ2NxWlUtU21oOGFoWkRlamxBQXNIeG1tU04wbkR0TzB6dHl0X2M3TExSbEpacFdDa09BVWJXYkpLaE56elNkVWRkRTFkdVdLR29tckxRVlVIdi0zS3NxZjNoampVdUhKcEFVWUR5MWV1SUpDdVdhQXA3UDB4dWRRQjk2V1NiU3lCdkZESHBaSmJNMjVWV3pnZDdhcmNmRmxQYUxGZk90Y3RiZ9IB6gFBVV95cUxPRFlCUGF4T3lBT1FScDE4dnJMcm1EWkZnUFRMMWh0ODFpNWU5bHo5SzVVbDBfXzlHRVF1Z1ZpOXRac0FmY0V2S0VLdURiNzd4Xy02TDNJbTQ2dW13ZURtaU51RTU2Snl6YndLNWRWSUhaQzdpQXp5Z2Q5WkhLeFpXTlpBdE5zbTEzTV9NVTNrdjR5amxjOEVBRWdzZ2NqNktISWFwTjI3UWtvNnNTRHBrQWpfYXhmajJ6S1dyX2kyN01UT0V3Q0d4V1lraDBiTkNSRTlpWjBjNGxzWUdOcmRPSFFQeU13aDZiT2c?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Tue, 16 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "AP launches AI-based pilot to detect diabetic retinopathy in government hospitals",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTWRCaV8wUXY3ZjN6TE13TmpxOUdhLXN3OXNYclhmRldVMWwzajgzY2VCdHNKS0JpY213eU9TTHUtNGJDek5RREJ5cEZoSVRzTnVRbzc3aFhXLXdKbi1VeU1pbUdyclhGMVRMOG1mRUhtNGgzRFpQTGZHbF9kOUY4RUs1SXQtOEJWRnB6amdkNUkzTGw3NENxTnlvcThUZklzbk9yRnBxcF9uOUhhQ18yUGQ0Ry1wLWZhX3hTSGptVWZmcklxTGZ1R3k1N2xPRFRfN3Nhc0xhaVh2YVBvbEFhWHF30gHvAUFVX3lxTE5vOFVCbEQtUWlVVDBiR3VSeEN2VnV3enFXMGtUYlh3OG1lWVpLbV9HTThER29TNzZWRDdCSnlCUXFVRTZyNHNlNzlodGhkQU1QcGlfVnJsc1NXeUU1V3dlZEI1eHF2S01KS0R1ZC1LQkZTcDhqdzlGWU5Ha2hwcDB5bXExbnFsNWZqeDVJdnczQzgxU0RORldMRXRzalpfZmxDbm55N0hBWk9DTGJTRUlwZXZ3UloyQ0Z6ZGgydlRvWl82TnFvQmIxeGd2X2tDaWx1QW9KcjR2NGZWYUpzUTgzV0cxdWhGeG1XX1BnWEMw?oc=5\" target=\"_blank\">AP launches AI-based pilot to detect diabetic retinopathy in government hospitals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTWRCaV8wUXY3ZjN6TE13TmpxOUdhLXN3OXNYclhmRldVMWwzajgzY2VCdHNKS0JpY213eU9TTHUtNGJDek5RREJ5cEZoSVRzTnVRbzc3aFhXLXdKbi1VeU1pbUdyclhGMVRMOG1mRUhtNGgzRFpQTGZHbF9kOUY4RUs1SXQtOEJWRnB6amdkNUkzTGw3NENxTnlvcThUZklzbk9yRnBxcF9uOUhhQ18yUGQ0Ry1wLWZhX3hTSGptVWZmcklxTGZ1R3k1N2xPRFRfN3Nhc0xhaVh2YVBvbEFhWHF30gHvAUFVX3lxTE5vOFVCbEQtUWlVVDBiR3VSeEN2VnV3enFXMGtUYlh3OG1lWVpLbV9HTThER29TNzZWRDdCSnlCUXFVRTZyNHNlNzlodGhkQU1QcGlfVnJsc1NXeUU1V3dlZEI1eHF2S01KS0R1ZC1LQkZTcDhqdzlGWU5Ha2hwcDB5bXExbnFsNWZqeDVJdnczQzgxU0RORldMRXRzalpfZmxDbm55N0hBWk9DTGJTRUlwZXZ3UloyQ0Z6ZGgydlRvWl82TnFvQmIxeGd2X2tDaWx1QW9KcjR2NGZWYUpzUTgzV0cxdWhGeG1XX1BnWEMw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Thu, 11 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya minister urges Centre to adopt flexible approach in implementing higher edu schemes in North East",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZUhDOS05eGpwQVN3ZkkxVk1nQ0h6YjhNRUhDWEptNVB3OFNoSWRHMjdkSDl4ZVlzaDV2LUNDenFVaHBFWWt3NzJDQkZicWhDTlNHdm5Jbkd3WkpxMU5Sd0tWazA1SnRuNGpmV1RTM2F4YWJwSmpyeXZIWVdmc0hxRk1hZU85XzBEbkRNbzJnSWNzYzRVbEZiNDNhcUhlRFlHeGJ5LW9vMUZaYjlROHEtZkdRWkppYjlpZ1ZLOWx2aTYyUVk0Q01kaUVxMlRiei0zMFNRTjdjVTQ3OF9DZU8zddIB5gFBVV95cUxPV0pHSHFtQlVaR01handUMFdKX012Umc3MHdTQUhtLU1sQ2RrTlV4TTdIV1c3SjNsaVVvLUM0bjNtdEJyNTlnSjVHUVNCTUdvSFZ4R09OMWJZcGw0Si1KV2FfbXhZOS1jSmN1clBKNWZBNEM2N0lXRUp4ZFRGdVg1VU5PU185WDh4dUtLdVNVdDZaSVJnZDZjLUxhQlVaYUJfcjlGTWt4a1pzeDd3WmktQ1JwZFlfWGlFdUxWNERHX2IyczdZOUNjR2FUSVVjX0NLY2xVay10dHNUREZUUXFXd1lIVG9mUQ?oc=5\" target=\"_blank\">Meghalaya minister urges Centre to adopt flexible approach in implementing higher edu schemes in North East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZUhDOS05eGpwQVN3ZkkxVk1nQ0h6YjhNRUhDWEptNVB3OFNoSWRHMjdkSDl4ZVlzaDV2LUNDenFVaHBFWWt3NzJDQkZicWhDTlNHdm5Jbkd3WkpxMU5Sd0tWazA1SnRuNGpmV1RTM2F4YWJwSmpyeXZIWVdmc0hxRk1hZU85XzBEbkRNbzJnSWNzYzRVbEZiNDNhcUhlRFlHeGJ5LW9vMUZaYjlROHEtZkdRWkppYjlpZ1ZLOWx2aTYyUVk0Q01kaUVxMlRiei0zMFNRTjdjVTQ3OF9DZU8zddIB5gFBVV95cUxPV0pHSHFtQlVaR01handUMFdKX012Umc3MHdTQUhtLU1sQ2RrTlV4TTdIV1c3SjNsaVVvLUM0bjNtdEJyNTlnSjVHUVNCTUdvSFZ4R09OMWJZcGw0Si1KV2FfbXhZOS1jSmN1clBKNWZBNEM2N0lXRUp4ZFRGdVg1VU5PU185WDh4dUtLdVNVdDZaSVJnZDZjLUxhQlVaYUJfcjlGTWt4a1pzeDd3WmktQ1JwZFlfWGlFdUxWNERHX2IyczdZOUNjR2FUSVVjX0NLY2xVay10dHNUREZUUXFXd1lIVG9mUQ?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 11 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya shuts educational institutes on Monday for FIFA World Cup final",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMnRibmFOOUhRa01mbHVoQUQwVEU1QU40dXJYakN0R0Q3dWQ4WkJGeUhIT1o2cVlFTUJNd2stdEJXQm5qNk4zdm9lVlRFdnZvdTI5UkxnVVY3LWUwbHUweVlIYkdEMG5RTUU1ODFrX2prSVBtZmtJOGFpQlM3T2lZNGVyU1B2LUpMRWlfNHZjSGR6Y2lMYnJteWxaVW1wRnY1RTlRZjZIb3huNVBuS0p6QUctR1pqWndZMENraWZGaHc2dlU1VjVRc1RNSDJZN2dEazNMMUVlZURxSl9C0gHgAUFVX3lxTFBOM2FoX0NIQmVvSHdEYkZsSXFJcGE3cGVMSlFENEtQNkE1X0EzRTc4cWhELW1hcVJTS3J3NkR4NHE3b1M2MU9qNFR6bUJuRllCZUg5TjVaNDJLLW41SUFyM3hhYUxaYU9VRDlZTnhheEpDZHBKM0RFVFBIZ05VOUtCdy1Hbkl3QnlSd0F0Vk94ZExLUVpCbE5neGdTVGlVaTJ3UFJWQXFkY0ZvdzUzMTdiVV9pY1pld3F2b2pjMzRGdGQ1Q3pVQ185OVlaRDB2S29zdnZOOWVjNVF2ZVpCc1E5?oc=5\" target=\"_blank\">Meghalaya shuts educational institutes on Monday for FIFA World Cup final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMnRibmFOOUhRa01mbHVoQUQwVEU1QU40dXJYakN0R0Q3dWQ4WkJGeUhIT1o2cVlFTUJNd2stdEJXQm5qNk4zdm9lVlRFdnZvdTI5UkxnVVY3LWUwbHUweVlIYkdEMG5RTUU1ODFrX2prSVBtZmtJOGFpQlM3T2lZNGVyU1B2LUpMRWlfNHZjSGR6Y2lMYnJteWxaVW1wRnY1RTlRZjZIb3huNVBuS0p6QUctR1pqWndZMENraWZGaHc2dlU1VjVRc1RNSDJZN2dEazNMMUVlZURxSl9C0gHgAUFVX3lxTFBOM2FoX0NIQmVvSHdEYkZsSXFJcGE3cGVMSlFENEtQNkE1X0EzRTc4cWhELW1hcVJTS3J3NkR4NHE3b1M2MU9qNFR6bUJuRllCZUg5TjVaNDJLLW41SUFyM3hhYUxaYU9VRDlZTnhheEpDZHBKM0RFVFBIZ05VOUtCdy1Hbkl3QnlSd0F0Vk94ZExLUVpCbE5neGdTVGlVaTJ3UFJWQXFkY0ZvdzUzMTdiVV9pY1pld3F2b2pjMzRGdGQ1Q3pVQ185OVlaRDB2S29zdnZOOWVjNVF2ZVpCc1E5?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Mon, 20 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya: Tura college gets AICTE nod for urban planning programme",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3BBak5OcnBoN0xjRl9TMnZPUExGWW4zNkltMEE2QXJGTHplSHdJOFJTSWFvTDNtQk5ZUTdGOFF4VUE4LUlRNmF5NVh1Y2EtdFA5aFY3REpGNHg3MWx4YzVvdmtOS1RBaTZNejcwVmZuUXZOS0FEbnN0VllCZEtMd3FweDBXcWQ5aVEwSHE0ZU5FdWNLVWRRelpZRmQ1MjVMQ19CcEpkUC1TYVpldjA0UUl1SFg3Ul93dGpSX3Y5ZEpRU3RQV25XdER4enc1ejhxOW1ueWFGbjRLemdvYmVHeWlMd1dLOE5v0gHsAUFVX3lxTE1qdlVGUFZPMFN0NUpza3NGVEpxalRVWGxNM0NPd2czLXVQc0NCT1A5MlFBY2JsX2FVb0hucGdHaEdEZV9GS2U4MFN6T1p1b3JPT2tkTF9QN1F4RmQ4YjYySnJJQ2YxaEE1VnY3NkFyQWtSbGlWN0VOTFl5SnFUdjBaNnFZcnlSZE1SQlYzUnlIemtDZTFHaXJjZmRLcHBvMDhBQ0RERFVTLWtldnIzbm91MG1idnRNYktMTEtsV1FjSTBqYjN4bWpjN2VoTGJTOEhIR0JwcGZrWXpCMXZlWXJmRm95aEh3SGdHbVBG?oc=5\" target=\"_blank\">Meghalaya: Tura college gets AICTE nod for urban planning programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3BBak5OcnBoN0xjRl9TMnZPUExGWW4zNkltMEE2QXJGTHplSHdJOFJTSWFvTDNtQk5ZUTdGOFF4VUE4LUlRNmF5NVh1Y2EtdFA5aFY3REpGNHg3MWx4YzVvdmtOS1RBaTZNejcwVmZuUXZOS0FEbnN0VllCZEtMd3FweDBXcWQ5aVEwSHE0ZU5FdWNLVWRRelpZRmQ1MjVMQ19CcEpkUC1TYVpldjA0UUl1SFg3Ul93dGpSX3Y5ZEpRU3RQV25XdER4enc1ejhxOW1ueWFGbjRLemdvYmVHeWlMd1dLOE5v0gHsAUFVX3lxTE1qdlVGUFZPMFN0NUpza3NGVEpxalRVWGxNM0NPd2czLXVQc0NCT1A5MlFBY2JsX2FVb0hucGdHaEdEZV9GS2U4MFN6T1p1b3JPT2tkTF9QN1F4RmQ4YjYySnJJQ2YxaEE1VnY3NkFyQWtSbGlWN0VOTFl5SnFUdjBaNnFZcnlSZE1SQlYzUnlIemtDZTFHaXJjZmRLcHBvMDhBQ0RERFVTLWtldnIzbm91MG1idnRNYktMTEtsV1FjSTBqYjN4bWpjN2VoTGJTOEhIR0JwcGZrWXpCMXZlWXJmRm95aEh3SGdHbVBG?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Sat, 16 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "BJP Minister urges Meghalaya Guv to stall KHADC Service Licence Bill",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkxhN2ZwX0JaVVBvaWRxejhPb2UtZk9SM0t4eUtvNzJzX0ZpS201SzJ2RUtMdjNFTVppWDFVczk4TkdrZWpiLTdBWngxZ0xZWEFCYnQzaWUyS3U2NVRGVGtScnZISG9jNVZIeVQtS1V3elRvZ25rd1FHYUlhSWlhLXpoMks3NkFaRzNlazJwUTEyQjlaZ3BCNU5kOHlrWXZGQU05RGdXZmZfY194Q1FEaXpB0gG3AUFVX3lxTE43dHdhSXRUZi1pRnBkMldaVkJmRnpIcjhxbXJjWFRNbF9hZnQtSkVaZUd5R01PYTJYUnJVREFBemg1VlQzVlRKZWRiUHRYS1AxUjA1YXA4N1h5M2x2WlZvYmY4dGRYeVA1YVF6dHdib09xdzVYRE1leGZyZjRjN3V2VGtIM2lYRU1iTDFFXzJhYkZ6VjZVSGlyRWNURDZWOXhHUW1lVUNRQkkyeE1VMmdFWjcyWEZTbw?oc=5\" target=\"_blank\">BJP Minister urges Meghalaya Guv to stall KHADC Service Licence Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkxhN2ZwX0JaVVBvaWRxejhPb2UtZk9SM0t4eUtvNzJzX0ZpS201SzJ2RUtMdjNFTVppWDFVczk4TkdrZWpiLTdBWngxZ0xZWEFCYnQzaWUyS3U2NVRGVGtScnZISG9jNVZIeVQtS1V3elRvZ25rd1FHYUlhSWlhLXpoMks3NkFaRzNlazJwUTEyQjlaZ3BCNU5kOHlrWXZGQU05RGdXZmZfY194Q1FEaXpB0gG3AUFVX3lxTE43dHdhSXRUZi1pRnBkMldaVkJmRnpIcjhxbXJjWFRNbF9hZnQtSkVaZUd5R01PYTJYUnJVREFBemg1VlQzVlRKZWRiUHRYS1AxUjA1YXA4N1h5M2x2WlZvYmY4dGRYeVA1YVF6dHdib09xdzVYRE1leGZyZjRjN3V2VGtIM2lYRU1iTDFFXzJhYkZ6VjZVSGlyRWNURDZWOXhHUW1lVUNRQkkyeE1VMmdFWjcyWEZTbw?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:38+00:00"
+  }
+ ]
+}

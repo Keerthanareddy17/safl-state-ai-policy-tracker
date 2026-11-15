@@ -1,0 +1,230 @@
+{
+ "region": "Mizoram",
+ "group": "A",
+ "query": "(Mizoram) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-08-15 before:2026-11-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Mizoram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-08-15+before%3A2026-11-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:35:00+00:00",
+ "item_count": 20,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram targets 5,500 students in Lunglei's first Gen-AI education mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNR29kYXZFcEZhMnZjMzdCUXphWndHYmMzWG1fSUxCVnVRX2RMWVJWN0VSMmZNTUVYQXRsLVhnZ0VVM3M3V1RrLUtlVHFEUVRfTndXYnI5ZlRkWVp6ZWdlVTg0U0JHaVV0OEQwbDlhLU04QWVVU2hCdm1vNGdra29ZVG9QZGZFSHQ4Vkw0UFFnMGRuVXVaSVNkUkR4NXQ3UFNqQ2xFeVl4aWFVQXpjSmRDQk03Q09WeEdlTXd0akxJcE5aWXFSNFEwQnkxYkJaUdIB0wFBVV95cUxPUVQ2WVI0eWw2OV9aZHdNNFBqeWtTX1dHSXcycTY2ellQWVlZOThGU2NKTTFxQmozSS11aXh4Q29GLXZxRlJLR1QzcGU1My1fcmY0RmNPRnJ4akRSeVViZE1takJvWG0ydS01UVBPbFpxUEs4blVsOFZveTZyUGRXdHdxc2RfLTZLVWlpbzl5dlZ2QTdYM2IxbTZvTVVKdHpyd2JsN3BEQ0hIZC1oTGRSOUdiUzl1MGtyUkw2TFg5d3JNNFMyT083OUpJY3JQd25Td1dj?oc=5\" target=\"_blank\">Mizoram targets 5,500 students in Lunglei's first Gen-AI education mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR29kYXZFcEZhMnZjMzdCUXphWndHYmMzWG1fSUxCVnVRX2RMWVJWN0VSMmZNTUVYQXRsLVhnZ0VVM3M3V1RrLUtlVHFEUVRfTndXYnI5ZlRkWVp6ZWdlVTg0U0JHaVV0OEQwbDlhLU04QWVVU2hCdm1vNGdra29ZVG9QZGZFSHQ4Vkw0UFFnMGRuVXVaSVNkUkR4NXQ3UFNqQ2xFeVl4aWFVQXpjSmRDQk03Q09WeEdlTXd0akxJcE5aWXFSNFEwQnkxYkJaUdIB0wFBVV95cUxPUVQ2WVI0eWw2OV9aZHdNNFBqeWtTX1dHSXcycTY2ellQWVlZOThGU2NKTTFxQmozSS11aXh4Q29GLXZxRlJLR1QzcGU1My1fcmY0RmNPRnJ4akRSeVViZE1takJvWG0ydS01UVBPbFpxUEs4blVsOFZveTZyUGRXdHdxc2RfLTZLVWlpbzl5dlZ2QTdYM2IxbTZvTVVKdHpyd2JsN3BEQ0hIZC1oTGRSOUdiUzl1MGtyUkw2TFg5d3JNNFMyT083OUpJY3JQd25Td1dj?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Fri, 06 Nov 2026 12:22:37 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Speaker to lead Indian delegation session on AI at Commonwealth meet in South Africa",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb2hvMVZxN3lnaDVvQW1JOTJSeDN6dWVZSzFHalF6SW9FWm5QclVLUlNFbVh2eXkyZ1hSSGNxSGxlUTVoeGZWcFhxZWlMVVpodmZNVEd6WEs1M3FsRlpRSXhuOTdRVXM0RGpnai0zR0xyN0xELW91c1RSOF9jWnNiNGpPQUM4LVFKX3FwbHdMVUt3Wi1tSGlibVg2VnVYelJMUnlNYl9VZ2RFNE1FT0otS0xhVUU2Mmh4THBXV0xwaG05ZXQ3TnpCbE45LUMtdjhvMXBQUGRMTGV4V1pNYk9CZ3J1amgxWmNBZEVJaDhCR3LSAfcBQVVfeXFMT3RzT3NHMFZwcG1MQzVLZU9aazh3RHFhX2h3Q1Rkb3ZOTVdweE1SSG1uRklmWm9melFlU3FJZGhGaHhoR2NEWHBfTVpKTGFlUjJQcEtHZ3ozU0lsRUdFcXhoWEw4UVgtYWh1MjduaTFTczFJQjhMaGN2dWFBa2NmYUZVcWh2WVk1b1hxRjJTRXhNOXRXd2xxTjZQMmNhcDY4YkhWQ3k0a2VoVWdxTVBaLTY5ckp3MzBtblRoMDNLQ0ktbGVZMmQ3d21jSTRGal82SHJtTFhSQllNeDlhLTJVZXNxVnJKODJCSHdJQmpsa3g0OGdieDFXbw?oc=5\" target=\"_blank\">Mizoram Speaker to lead Indian delegation session on AI at Commonwealth meet in South Africa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb2hvMVZxN3lnaDVvQW1JOTJSeDN6dWVZSzFHalF6SW9FWm5QclVLUlNFbVh2eXkyZ1hSSGNxSGxlUTVoeGZWcFhxZWlMVVpodmZNVEd6WEs1M3FsRlpRSXhuOTdRVXM0RGpnai0zR0xyN0xELW91c1RSOF9jWnNiNGpPQUM4LVFKX3FwbHdMVUt3Wi1tSGlibVg2VnVYelJMUnlNYl9VZ2RFNE1FT0otS0xhVUU2Mmh4THBXV0xwaG05ZXQ3TnpCbE45LUMtdjhvMXBQUGRMTGV4V1pNYk9CZ3J1amgxWmNBZEVJaDhCR3LSAfcBQVVfeXFMT3RzT3NHMFZwcG1MQzVLZU9aazh3RHFhX2h3Q1Rkb3ZOTVdweE1SSG1uRklmWm9melFlU3FJZGhGaHhoR2NEWHBfTVpKTGFlUjJQcEtHZ3ozU0lsRUdFcXhoWEw4UVgtYWh1MjduaTFTczFJQjhMaGN2dWFBa2NmYUZVcWh2WVk1b1hxRjJTRXhNOXRXd2xxTjZQMmNhcDY4YkhWQ3k0a2VoVWdxTVBaLTY5ckp3MzBtblRoMDNLQ0ktbGVZMmQ3d21jSTRGal82SHJtTFhSQllNeDlhLTJVZXNxVnJKODJCSHdJQmpsa3g0OGdieDFXbw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 17 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram bars schools from sharing student data with AI platforms without Govt approval",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2phUEZRZ3AwTUtQTVRYTEJFQVhmeEhPLVU1aEllMjVCN2lrOC10UHduZjZ4SG5naGlaYzYyRFBqSzB0R3ljOWdUU1RiWmk4bksxUUdwZjU3eTMwdUhYeXJNRDhDb3Z1OUFkUnB1dFYwanFvQzdsOG01M3JMdGJId1RKYTZBMkRHTE5xdWpvaWItN3RKYTBHcExPTEZ5aDI4c0xpTHZlZGloY0Y0ZXc?oc=5\" target=\"_blank\">Mizoram bars schools from sharing student data with AI platforms without Govt approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hub News</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2phUEZRZ3AwTUtQTVRYTEJFQVhmeEhPLVU1aEllMjVCN2lrOC10UHduZjZ4SG5naGlaYzYyRFBqSzB0R3ljOWdUU1RiWmk4bksxUUdwZjU3eTMwdUhYeXJNRDhDb3Z1OUFkUnB1dFYwanFvQzdsOG01M3JMdGJId1RKYTZBMkRHTE5xdWpvaWItN3RKYTBHcExPTEZ5aDI4c0xpTHZlZGloY0Y0ZXc?oc=5",
+   "source_name": "Hub News",
+   "source_domain": "hubnetwork.in",
+   "published_raw": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Champhai-ah Students’ Science Seminar 2026 neih a ni",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbS14dUx1cG1lbHg0OTVfeDBySVF4UlE5VlMxczMwVG4tbWJKR1pDTUZWNzZNdGRJMHlKR3JQN2Y0X2UtX3h6bERKWVRLcXV1UmJmS21pMWRGNXlMbXRNN20wLVg2cEl4RVNCM2twN1RhR05Tb0lrSXNWa1JkWkN6STRUTGtlR2JTQ0Nndw?oc=5\" target=\"_blank\">Champhai-ah Students’ Science Seminar 2026 neih a ni</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbS14dUx1cG1lbHg0OTVfeDBySVF4UlE5VlMxczMwVG4tbWJKR1pDTUZWNzZNdGRJMHlKR3JQN2Y0X2UtX3h6bERKWVRLcXV1UmJmS21pMWRGNXlMbXRNN20wLVg2cEl4RVNCM2twN1RhR05Tb0lrSXNWa1JkWkN6STRUTGtlR2JTQ0Nndw?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Thu, 20 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram CM reviews progress of Kaladan project, rail expansion, border fencing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTWcxdXBrYTFYcGNZZzZOTHNQVkhlRVgzcXJ2VE15NEFCN3RQblNBUGpiVlFDa3lZMzFXTWl4RXR5Y2FpOWUwZEtYWTFLMDdORndPeFZkNlYzcEQ4SnpIQ1RsaTM5bEljNUplUmlLN0MwT3A0d0hlb3VhM2EwdXo1MjE2QndEbDV6aURBQ3d5RGs2V3MwY0NZRm9kTklCMzZMQ0F2SGllc25lbWR6eUotdFY1TVNRN3U1LTRWOG16QU0wS1M5SjRjMUZlTGN2eXZ6YUJ6MFdoRmpnZFlpTVJOYTlWNEJPMWdjU2NJ0gHvAUFVX3lxTE40UGxzWHh0bzNXWll4cnhMcWNHLVJUWVVJVERMM2FGS3VEWHplRHJRN0hwZDY1eWQ4NW9RNG52QmVNUGlIdmZDSWpzWVQyQXZrUjVJUFNZT3NHLUhKcHZuRkprNFFIVVd1ME5keG01bUJrLU9GWVB2d1F1WFdXeEhOSy1OMlpWazNneVlCTEJHbFRhSFYwVFVnNUxhS1JZdkdwcVN1LWo4d2Z0LWJCWGx3ZExoNHo3SkRQbFMtY3hBQkhIU0psem1KMmk0S0ZxM1h1aWx2NUxsUl9UYzdZUTBNNEdVWXhnYVBZNDRKQjFv?oc=5\" target=\"_blank\">Mizoram CM reviews progress of Kaladan project, rail expansion, border fencing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTWcxdXBrYTFYcGNZZzZOTHNQVkhlRVgzcXJ2VE15NEFCN3RQblNBUGpiVlFDa3lZMzFXTWl4RXR5Y2FpOWUwZEtYWTFLMDdORndPeFZkNlYzcEQ4SnpIQ1RsaTM5bEljNUplUmlLN0MwT3A0d0hlb3VhM2EwdXo1MjE2QndEbDV6aURBQ3d5RGs2V3MwY0NZRm9kTklCMzZMQ0F2SGllc25lbWR6eUotdFY1TVNRN3U1LTRWOG16QU0wS1M5SjRjMUZlTGN2eXZ6YUJ6MFdoRmpnZFlpTVJOYTlWNEJPMWdjU2NJ0gHvAUFVX3lxTE40UGxzWHh0bzNXWll4cnhMcWNHLVJUWVVJVERMM2FGS3VEWHplRHJRN0hwZDY1eWQ4NW9RNG52QmVNUGlIdmZDSWpzWVQyQXZrUjVJUFNZT3NHLUhKcHZuRkprNFFIVVd1ME5keG01bUJrLU9GWVB2d1F1WFdXeEhOSy1OMlpWazNneVlCTEJHbFRhSFYwVFVnNUxhS1JZdkdwcVN1LWo4d2Z0LWJCWGx3ZExoNHo3SkRQbFMtY3hBQkhIU0psem1KMmk0S0ZxM1h1aWx2NUxsUl9UYzdZUTBNNEdVWXhnYVBZNDRKQjFv?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Respiratory diseases account for highest share of deaths in Mizoram in 2025 — Key factors",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRjQtNXc3bU14eVFEMGUtcS1JOThyaVJTcHFhNmRfT01MWEplRzNmTVh5VXplTkJQVGc0LWdialdiTzljd2k1Z093UE16ajJzRG9XQUlTMDl2WTFwYkc3U0hvalRENEU2RUctalFPWGtKbF9ZcVBieGRGQi03Sk5iN0J1THYwZkIxa25qSzQzRXptbzM1ZFVDRzZ1MDgzY05lcEs5WFVtMnIwejBRTUNyU3lvVVNZYTI0RkJPQ2F3X09WeUwtUlk4WEFpaUhUZjMxOExIa0JOeVhJeTNuVU13?oc=5\" target=\"_blank\">Respiratory diseases account for highest share of deaths in Mizoram in 2025 — Key factors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRjQtNXc3bU14eVFEMGUtcS1JOThyaVJTcHFhNmRfT01MWEplRzNmTVh5VXplTkJQVGc0LWdialdiTzljd2k1Z093UE16ajJzRG9XQUlTMDl2WTFwYkc3U0hvalRENEU2RUctalFPWGtKbF9ZcVBieGRGQi03Sk5iN0J1THYwZkIxa25qSzQzRXptbzM1ZFVDRzZ1MDgzY05lcEs5WFVtMnIwejBRTUNyU3lvVVNZYTI0RkJPQ2F3X09WeUwtUlk4WEFpaUhUZjMxOExIa0JOeVhJeTNuVU13?oc=5",
+   "source_name": "CNBC TV18",
+   "source_domain": "cnbctv18.com",
+   "published_raw": "Mon, 02 Nov 2026 09:23:05 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram speaker to lead Indian delegation session on AI at Commonwealth Parliamentary Conference",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTRMN3Z1YXEtQzhZYkV1NjMyTDZTcTdlQ2EzdDBlQnVQNk5keEItUGVIWlRLenZtYW5xTVJRWi1mTzBSTWEwYkY4U25RYWhXWmxpM0pTT1FHSHJ0bVFTamNHeEE2S3VfOWNCOWdyempoTXdVUXl3TzFBZDdKQzNmOW1pYl9XTFVqaVFEbGF5clBlWnF0OWJ3RV82andoNnBsRHFWX1pDYUhpeFNOV280Zmw4WXJuUjBRMnhlbU1BZDRSanNjeURERDZ1bkdUMngyOWN2MGh4azJXQUdhVlUzNUdFaDRickh2RlpURmVB0gHzAUFVX3lxTE1aVlRQNDBkY3JSYVYzbE1CVUpVVUhSRW00NERuY1NzZEJfZlFiTlJqb3JHX2hVSUdvUDNZRGpvOHF3T19rR0FrQmNSNGw1MVNwZ3ZZTnJvMGM1TV9CcERPelZya09tUWFzLThnTkVBTVBzTENYQ0NvNnFLdE1nWXNudmNDNGQ0SUxHcnZjeGJSNXVITEJhQXN4eEktU1ZKTG9CR243N2FGTGZpY2lzd2NhNDVoNmtUei1HLTFwT2kzeE9nQ1U5UFpwVjdMSWFVc2N4SWZlZEQyQkNDaXk1VnZTb2xpRklZaUM1ZXhweW56emhfbw?oc=5\" target=\"_blank\">Mizoram speaker to lead Indian delegation session on AI at Commonwealth Parliamentary Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZTRMN3Z1YXEtQzhZYkV1NjMyTDZTcTdlQ2EzdDBlQnVQNk5keEItUGVIWlRLenZtYW5xTVJRWi1mTzBSTWEwYkY4U25RYWhXWmxpM0pTT1FHSHJ0bVFTamNHeEE2S3VfOWNCOWdyempoTXdVUXl3TzFBZDdKQzNmOW1pYl9XTFVqaVFEbGF5clBlWnF0OWJ3RV82andoNnBsRHFWX1pDYUhpeFNOV280Zmw4WXJuUjBRMnhlbU1BZDRSanNjeURERDZ1bkdUMngyOWN2MGh4azJXQUdhVlUzNUdFaDRickh2RlpURmVB0gHzAUFVX3lxTE1aVlRQNDBkY3JSYVYzbE1CVUpVVUhSRW00NERuY1NzZEJfZlFiTlJqb3JHX2hVSUdvUDNZRGpvOHF3T19rR0FrQmNSNGw1MVNwZ3ZZTnJvMGM1TV9CcERPelZya09tUWFzLThnTkVBTVBzTENYQ0NvNnFLdE1nWXNudmNDNGQ0SUxHcnZjeGJSNXVITEJhQXN4eEktU1ZKTG9CR243N2FGTGZpY2lzd2NhNDVoNmtUei1HLTFwT2kzeE9nQ1U5UFpwVjdMSWFVc2N4SWZlZEQyQkNDaXk1VnZTb2xpRklZaUM1ZXhweW56emhfbw?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Thu, 17 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Centre approves 45 rural road projects worth ₹710 crore in Mizoram",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSTJ0OUpTNjY0WENmZ25Zc29Mdkh6X0VMc0laUENBdE52WjlHaTN0cWlrQ0pWZ1FQRnB5bXlQdXlpazdSeWkyTGlGcGRWbjdUS3BoaDBBMEJncV9raUV4UzNYaFpqclk0TDBWVlNLMnhCekExMlVwUlBSdEZERG9ib09CZjRudGVoQUdTTVJhUDVWNjFzYkluM0hsMVJwNzQ1VElRdFF1VXBpUWRtNkhPVUhSRzVhSDAtaHp0MTJFcVBJN3U5WWpmaklNWURCdlZ2WWpF0gHYAUFVX3lxTE1RUVVyVzVtcXNCV1hVV2prdTBPR2RLNHMta1E3a0Y2a0JELV85cHZOUW1WcHdRMVFqMVBsbnRQUjNUREhjRHhraGlTMk14bXNDSElwelRRbUhIbDhROFliWWxOdjl2RFBNbFBaLWZtNVc5NmdEVVo2VFFfeUVya210YV92bGJZZEJuWmJGV1N1ODJGU3N0QmhmdkxoOHhtYzVQYXVkeUVtMzNBSEI2ZDY1QjZMWjcwY0pmMjd2QTQxT1ZqVXFNVVQ2YWg3NkNZd0VZMUdmekpEVA?oc=5\" target=\"_blank\">Centre approves 45 rural road projects worth ₹710 crore in Mizoram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSTJ0OUpTNjY0WENmZ25Zc29Mdkh6X0VMc0laUENBdE52WjlHaTN0cWlrQ0pWZ1FQRnB5bXlQdXlpazdSeWkyTGlGcGRWbjdUS3BoaDBBMEJncV9raUV4UzNYaFpqclk0TDBWVlNLMnhCekExMlVwUlBSdEZERG9ib09CZjRudGVoQUdTTVJhUDVWNjFzYkluM0hsMVJwNzQ1VElRdFF1VXBpUWRtNkhPVUhSRzVhSDAtaHp0MTJFcVBJN3U5WWpmaklNWURCdlZ2WWpF0gHYAUFVX3lxTE1RUVVyVzVtcXNCV1hVV2prdTBPR2RLNHMta1E3a0Y2a0JELV85cHZOUW1WcHdRMVFqMVBsbnRQUjNUREhjRHhraGlTMk14bXNDSElwelRRbUhIbDhROFliWWxOdjl2RFBNbFBaLWZtNVc5NmdEVVo2VFFfeUVya210YV92bGJZZEJuWmJGV1N1ODJGU3N0QmhmdkxoOHhtYzVQYXVkeUVtMzNBSEI2ZDY1QjZMWjcwY0pmMjd2QTQxT1ZqVXFNVVQ2YWg3NkNZd0VZMUdmekpEVA?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Mon, 02 Nov 2026 09:20:48 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram’s 3 autonomous councils face over ₹159 crore salary shortfall: What is the issue",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWN2WjNEQTdRaGs5X0syRUU2dzFUSHFQSjc4Y2dTWkJvMldCVFRWcWswSnlCZWZlQ2J6VVpnYUFZNjVadXJjNE5ZLTVRazVQb2syNEdkZm1jcVh6QUp1UHUtTFlQdENsUG5vLWpPc0xQejBGNmx0OEdyQU9uT3pFVHczUmRzYThKNktoTTN5d0pYTGNKVzNUZUIwUGU0bEpMcEF6WUhHb1lzdDQxM29kSzlHNmt3UnRoeExFb3I4ZWhLd3VIaEQxWnhON0dZUdIB0wFBVV95cUxOSjVXZ0ZQZnhwNFNEckNtZE5jc01BNXZZRmxVekpqZHRpak95RVZ0bEY4ZkxkRVhFQmZ5OTN4RjgxTDFMdGFXUUhTSDNiUUpLTjlZaDFJblJQZXdyUnB1Mm5NWXlPMFBNRWtlU0RIeFRqOXFqVldyUXV6bHdNNTZ5S0tsUVRjWTF3cnl5Rkpka0JKc0V4S3JlZ1NRY2RpOUFZTzlqek9HR3NzM29VVXlReVQxeXpOZktYd0x5bk9uSXRxYThVSWxsSlc2c3VRTmN5V21F?oc=5\" target=\"_blank\">Mizoram’s 3 autonomous councils face over ₹159 crore salary shortfall: What is the issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWN2WjNEQTdRaGs5X0syRUU2dzFUSHFQSjc4Y2dTWkJvMldCVFRWcWswSnlCZWZlQ2J6VVpnYUFZNjVadXJjNE5ZLTVRazVQb2syNEdkZm1jcVh6QUp1UHUtTFlQdENsUG5vLWpPc0xQejBGNmx0OEdyQU9uT3pFVHczUmRzYThKNktoTTN5d0pYTGNKVzNUZUIwUGU0bEpMcEF6WUhHb1lzdDQxM29kSzlHNmt3UnRoeExFb3I4ZWhLd3VIaEQxWnhON0dZUdIB0wFBVV95cUxOSjVXZ0ZQZnhwNFNEckNtZE5jc01BNXZZRmxVekpqZHRpak95RVZ0bEY4ZkxkRVhFQmZ5OTN4RjgxTDFMdGFXUUhTSDNiUUpLTjlZaDFJblJQZXdyUnB1Mm5NWXlPMFBNRWtlU0RIeFRqOXFqVldyUXV6bHdNNTZ5S0tsUVRjWTF3cnl5Rkpka0JKc0V4S3JlZ1NRY2RpOUFZTzlqek9HR3NzM29VVXlReVQxeXpOZktYd0x5bk9uSXRxYThVSWxsSlc2c3VRTmN5V21F?oc=5",
+   "source_name": "CNBC TV18",
+   "source_domain": "cnbctv18.com",
+   "published_raw": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram sees sharp rise in tourist arrivals as rail connectivity boosts travel",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUkzTHBMa20xRXA1TUlaQkF1WThwM1RSTmpMNHMwSVIyS1FFNGJ2Q1gxbFc4Ml9mbDg1WjdpLU9oUzJaXzh0clFwc19YRTBsMHNUdEFOOUpHdl9TWU1kOXNaalotRG1qVUp1Z29DR2lOZlFHeUpLLTNRYkZHV3ZBLTRPdGpEYzJod1RURlhQUy04dkczMVpFWUNXbGJpbHFLYTN0UmZvekluZTFxRnZpLWQ5RlgwdFNyZjdWZV9iVzRWQ0hPWXo5ODVVNVotTkxtX2I4OF930gHbAUFVX3lxTE96MTh2YkQ5WlJ6ZWlFR1AyeVl0NlN2bmc0bWhZV1pJWG12Qm9Id28wY01aVGtKZzEyZ2JEQkVyVnlZTm9SVUFSSmVjTFFhcXg5N0VfczI2UUw0a1l4WTFtMFpNcnhybnV6YjZydTlENWFkNmRWYjk2VHFXNzdOcDZYYXh6YnRaQkZXdUx4RDlaS0M2QjZWeUNOLTk4TE0xaEdMc2NJZGowZVpTV1FmYUdiQVNNbjdBdFNQTGlmV3hPOFdWYUpXaVJyelBtMnMtREVVQVFrYkZUaHB6bw?oc=5\" target=\"_blank\">Mizoram sees sharp rise in tourist arrivals as rail connectivity boosts travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUUkzTHBMa20xRXA1TUlaQkF1WThwM1RSTmpMNHMwSVIyS1FFNGJ2Q1gxbFc4Ml9mbDg1WjdpLU9oUzJaXzh0clFwc19YRTBsMHNUdEFOOUpHdl9TWU1kOXNaalotRG1qVUp1Z29DR2lOZlFHeUpLLTNRYkZHV3ZBLTRPdGpEYzJod1RURlhQUy04dkczMVpFWUNXbGJpbHFLYTN0UmZvekluZTFxRnZpLWQ5RlgwdFNyZjdWZV9iVzRWQ0hPWXo5ODVVNVotTkxtX2I4OF930gHbAUFVX3lxTE96MTh2YkQ5WlJ6ZWlFR1AyeVl0NlN2bmc0bWhZV1pJWG12Qm9Id28wY01aVGtKZzEyZ2JEQkVyVnlZTm9SVUFSSmVjTFFhcXg5N0VfczI2UUw0a1l4WTFtMFpNcnhybnV6YjZydTlENWFkNmRWYjk2VHFXNzdOcDZYYXh6YnRaQkZXdUx4RDlaS0M2QjZWeUNOLTk4TE0xaEdMc2NJZGowZVpTV1FmYUdiQVNNbjdBdFNQTGlmV3hPOFdWYUpXaVJyelBtMnMtREVVQVFrYkZUaHB6bw?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Mon, 05 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram to recruit 671 primary, 107 high school teachers; reviews education staffing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ093RmlwblVvRzdOWFlWLWRieW4td280bXhoWENZemJKbG14RnRKUWVwMVE0cnZPMktoLTRyVkxma1RXWE80ZzBBRGk2RUNqWF9EMURjaDJ2b3R5VW5zbzY5aFN5YllZLUN3OFB0RlVtMkIxQ3A1SUZSSjg3UWRUZFdaQzBYd2tOVnJ0ajI1N0pvaGN6U1JVMURZTnRKM2dmNkRIY0tSWGd5VDljdlhFR0N3bjU0V041TnBhcjdGMVdodF9BR2dhZmpka1F6MDdZRjVCZ0Z6OWhYYnRoTklCWmZyLXVPSHRQenZrUlRfR3J3SjQzQ2Vv0gH7AUFVX3lxTE03MHJ0N2djNm5EcVZsdDc1eVM4cjA2MUdWX2E5RWtVMlIzcF9mVXk3ZHk3NTQwQ1ZMeHZLRGtCWnlBVmNmbDBha2RPU3Y1RXhSUUQ5aGl1MXBybUx4cXc4TnlYRGVyTVNzLVh2OXdxOW1sbTBCNWZyaFdraWtmSk1OOExzYXFjaENoUnM4STJsRHV4bkZYa3hZZmtaNE52SldiVUdObVpSZGcxemhtV3Y1aW5FOFdQTHpCTk9RSXFrNnNKbVBoTGFiTnJqTkdOSkoxQUJBSXd2aXpacjhiazQyN1pSdk5TMS0tVUpLcGpBVXlfemRNdm1IMXI4?oc=5\" target=\"_blank\">Mizoram to recruit 671 primary, 107 high school teachers; reviews education staffing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ093RmlwblVvRzdOWFlWLWRieW4td280bXhoWENZemJKbG14RnRKUWVwMVE0cnZPMktoLTRyVkxma1RXWE80ZzBBRGk2RUNqWF9EMURjaDJ2b3R5VW5zbzY5aFN5YllZLUN3OFB0RlVtMkIxQ3A1SUZSSjg3UWRUZFdaQzBYd2tOVnJ0ajI1N0pvaGN6U1JVMURZTnRKM2dmNkRIY0tSWGd5VDljdlhFR0N3bjU0V041TnBhcjdGMVdodF9BR2dhZmpka1F6MDdZRjVCZ0Z6OWhYYnRoTklCWmZyLXVPSHRQenZrUlRfR3J3SjQzQ2Vv0gH7AUFVX3lxTE03MHJ0N2djNm5EcVZsdDc1eVM4cjA2MUdWX2E5RWtVMlIzcF9mVXk3ZHk3NTQwQ1ZMeHZLRGtCWnlBVmNmbDBha2RPU3Y1RXhSUUQ5aGl1MXBybUx4cXc4TnlYRGVyTVNzLVh2OXdxOW1sbTBCNWZyaFdraWtmSk1OOExzYXFjaENoUnM4STJsRHV4bkZYa3hZZmtaNE52SldiVUdObVpSZGcxemhtV3Y1aW5FOFdQTHpCTk9RSXFrNnNKbVBoTGFiTnJqTkdOSkoxQUJBSXd2aXpacjhiazQyN1pSdk5TMS0tVUpLcGpBVXlfemRNdm1IMXI4?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram to launch Pradhan Mantri Gram Sadak Yojana phase 4 by floating tenders for 45 roads in Nov",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWDB3UkdJNnlSYXI0clpTMHo5Q0M3S1NCcnIzMjJuWEM5a2RwS0Z3eUR4NmdiTGlycGpDQlZ1UGR6RTk5cU1uWVA0SlVHWWRpa2pQOUROYlRqalJOeS1Dci0zV2pvenJKXzdIV1hESF9HWTBmVDBQMUNQWHlZbFlCcHRqdGJRWXhQRmdiWDFyMlQ1U3loaFdiMkZlWUZ3SWo0bEFaNkE2bGxndmNFV0VIb3BNRWxxTzJiSUg2S2swTEFPdTQyWHhaV1cxQ2k5ZU1uaXR3Ti1OeWhMVVlhMmVLYTNTY3ZWVGY3ZTd6M2N6SlJzWEs2UTdqaUd2NjRNcnfSAYQCQVVfeXFMUGZnQ2ZHMVd4ZzkyMU44cmR5QmNfRGZONWxWdE5YTUpHNjc3OVlkb29hZFpENnhKU0FxTVZhZGdsVzdjUWxnOG11ekxlY3dDdlJEWkxmeVFyRkxaS2FXQ2NndUJqaHh4Q2o1b25UNkJwSm91aDFTNXhWcnVILTdEbVhCV1htc3FjWS1hSWVZenNnb1Z5YjlDX0RGT09aVjRxaWNxVWFJN1pWcGc1WHp1N09LTFZkR25namQya3AxWlYzUDg3VW0xbGRBZzV6dkJkcFFpWmRjempYQVJ3V2tuZlRtXzZxS1pqZFpVREwtMEV6SE53SG9Oa09GZk96SEVXRkVZVF8?oc=5\" target=\"_blank\">Mizoram to launch Pradhan Mantri Gram Sadak Yojana phase 4 by floating tenders for 45 roads in Nov</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWDB3UkdJNnlSYXI0clpTMHo5Q0M3S1NCcnIzMjJuWEM5a2RwS0Z3eUR4NmdiTGlycGpDQlZ1UGR6RTk5cU1uWVA0SlVHWWRpa2pQOUROYlRqalJOeS1Dci0zV2pvenJKXzdIV1hESF9HWTBmVDBQMUNQWHlZbFlCcHRqdGJRWXhQRmdiWDFyMlQ1U3loaFdiMkZlWUZ3SWo0bEFaNkE2bGxndmNFV0VIb3BNRWxxTzJiSUg2S2swTEFPdTQyWHhaV1cxQ2k5ZU1uaXR3Ti1OeWhMVVlhMmVLYTNTY3ZWVGY3ZTd6M2N6SlJzWEs2UTdqaUd2NjRNcnfSAYQCQVVfeXFMUGZnQ2ZHMVd4ZzkyMU44cmR5QmNfRGZONWxWdE5YTUpHNjc3OVlkb29hZFpENnhKU0FxTVZhZGdsVzdjUWxnOG11ekxlY3dDdlJEWkxmeVFyRkxaS2FXQ2NndUJqaHh4Q2o1b25UNkJwSm91aDFTNXhWcnVILTdEbVhCV1htc3FjWS1hSWVZenNnb1Z5YjlDX0RGT09aVjRxaWNxVWFJN1pWcGc1WHp1N09LTFZkR25namQya3AxWlYzUDg3VW0xbGRBZzV6dkJkcFFpWmRjempYQVJ3V2tuZlRtXzZxS1pqZFpVREwtMEV6SE53SG9Oa09GZk96SEVXRkVZVF8?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Launches Gen-AI Mission to Train Over 5,500 School Students in 80 schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWlpaU9OdlRKRWFVel9rUzZpUENWa2todE5yWlNnQU5ZNDRab1FScHFkOXQwbENJNi0zYXlSVVFxY2hxOEdsTnU4WlJZZGhRUEdrdk1GdE51em04SVVVSFBaQThKVnVKdlVxeEdHSFVwOU9yMnFvU1dXREdtSmhZM0NwSWdzSHVWZTFCaGQweEUzZXh3WmhxQ3lZQ2hDdU5XVkx3VmR0VFA5M2xVM09IZ3BRMEhPdjZaQ2VxUW9WcDZTaVlYc0HSAc4BQVVfeXFMUF9BTjdjamVxNUt1bzFRUmR1VzQ1YkF5aGkycE9CSVE5MVZUUjhmT3JZNU1yNTdlaVhMYkNHRTViQWRpdUxsQzBGaldhQXpjbElsNTZoZU1GZ2t5dzV2dW1EZ0M0NmpQNE5USExoeE95bjVJYkN3UWdjLUZnc0Rpb0Rrb3A0Y01rV2JuZk5sNVRhbUlyWmxpcmIyVkhFLTFnX1pvcEZ0QlNObmdTNlRqb1NXaDg4bFNQOTBlSTBIdWkwdTBDTkIzc1hYZFNla2c?oc=5\" target=\"_blank\">Mizoram Launches Gen-AI Mission to Train Over 5,500 School Students in 80 schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWlpaU9OdlRKRWFVel9rUzZpUENWa2todE5yWlNnQU5ZNDRab1FScHFkOXQwbENJNi0zYXlSVVFxY2hxOEdsTnU4WlJZZGhRUEdrdk1GdE51em04SVVVSFBaQThKVnVKdlVxeEdHSFVwOU9yMnFvU1dXREdtSmhZM0NwSWdzSHVWZTFCaGQweEUzZXh3WmhxQ3lZQ2hDdU5XVkx3VmR0VFA5M2xVM09IZ3BRMEhPdjZaQ2VxUW9WcDZTaVlYc0HSAc4BQVVfeXFMUF9BTjdjamVxNUt1bzFRUmR1VzQ1YkF5aGkycE9CSVE5MVZUUjhmT3JZNU1yNTdlaVhMYkNHRTViQWRpdUxsQzBGaldhQXpjbElsNTZoZU1GZ2t5dzV2dW1EZ0M0NmpQNE5USExoeE95bjVJYkN3UWdjLUZnc0Rpb0Rrb3A0Y01rV2JuZk5sNVRhbUlyWmxpcmIyVkhFLTFnX1pvcEZ0QlNObmdTNlRqb1NXaDg4bFNQOTBlSTBIdWkwdTBDTkIzc1hYZFNla2c?oc=5",
+   "source_name": "NDTV Profit",
+   "source_domain": "ndtvprofit.com",
+   "published_raw": "Sat, 07 Nov 2026 06:15:57 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram launches AI mission for students in 80 Lunglei schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWFvanRlYVhYNXp6VlpJa0lycGZ5cFgxNHFUNG1CbWlmQWY4eFBKeDYyNEI0aGtuOUs5bHJwanNmVWxXTkNWVndrOTR2eVpHX3BqVVlrTmdNclI4b0JEUmIxWi1wRDFvLVZkck56SEVFRFZtZm5Hbkw4MXlIdHp2ejZ5MGxjaTZkMkxlS1hlSlB0RTRSck1hY0V3WQ?oc=5\" target=\"_blank\">Mizoram launches AI mission for students in 80 Lunglei schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Mill</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWFvanRlYVhYNXp6VlpJa0lycGZ5cFgxNHFUNG1CbWlmQWY4eFBKeDYyNEI0aGtuOUs5bHJwanNmVWxXTkNWVndrOTR2eVpHX3BqVVlrTmdNclI4b0JEUmIxWi1wRDFvLVZkck56SEVFRFZtZm5Hbkw4MXlIdHp2ejZ5MGxjaTZkMkxlS1hlSlB0RTRSck1hY0V3WQ?oc=5",
+   "source_name": "The News Mill",
+   "source_domain": "thenewsmill.com",
+   "published_raw": "Fri, 06 Nov 2026 12:42:17 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram CM Launches Gen-AI Mission For 5,500+ School Students Across 80 Schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVl0QlVRZlh6ZHZzcjlCN3pwdXlBSFRLRnRJY2NJUVRlNkdkZW1vUHhOSTFCM3dPT1FUaFVhNHAyb0NMVWVsejdSNVNPdEhyUGY3S0J0eFo1R185UDR6bS1RTEN2Q0tTTjktUWJtRm1mY3gtQmQ1d3JyRlJKSXJmajhDR0UyazhBaU1UcURIc1dSQWN0SFJsdDNUY293N1FWYVNkcmFqRDd1TVRkaTNtT2licFpjYTBiS1NLYlZWTk45Tm_SAcMBQVVfeXFMTXVZdEJVUWZYemR2c3I5Qjd6cHV5QUhUS0Z0SWNjSVFUZTZHZGVtb1B4TkkxQjN3T09RVGhVYTRwMm9DTFVlbHo3UjVTT3RIclBmN0tCdHhaNUdfOVA0em0tUUxDdkNLU045LVFibUZtZmN4LUJkNXdyckZSSklyZmo4Q0dFMms4QWlNVHFESHNXUkFjdEhSbHQzVGNvdzdRVmFTZHJhakQ3dU1UZGkzbU9pYnBaY2EwYktTS2JWVk5OOU5v?oc=5\" target=\"_blank\">Mizoram CM Launches Gen-AI Mission For 5,500+ School Students Across 80 Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABP Live English</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVl0QlVRZlh6ZHZzcjlCN3pwdXlBSFRLRnRJY2NJUVRlNkdkZW1vUHhOSTFCM3dPT1FUaFVhNHAyb0NMVWVsejdSNVNPdEhyUGY3S0J0eFo1R185UDR6bS1RTEN2Q0tTTjktUWJtRm1mY3gtQmQ1d3JyRlJKSXJmajhDR0UyazhBaU1UcURIc1dSQWN0SFJsdDNUY293N1FWYVNkcmFqRDd1TVRkaTNtT2licFpjYTBiS1NLYlZWTk45Tm_SAcMBQVVfeXFMTXVZdEJVUWZYemR2c3I5Qjd6cHV5QUhUS0Z0SWNjSVFUZTZHZGVtb1B4TkkxQjN3T09RVGhVYTRwMm9DTFVlbHo3UjVTT3RIclBmN0tCdHhaNUdfOVA0em0tUUxDdkNLU045LVFibUZtZmN4LUJkNXdyckZSSklyZmo4Q0dFMms4QWlNVHFESHNXUkFjdEhSbHQzVGNvdzdRVmFTZHJhakQ3dU1UZGkzbU9pYnBaY2EwYktTS2JWVk5OOU5v?oc=5",
+   "source_name": "ABP Live English",
+   "source_domain": "news.abplive.com",
+   "published_raw": "Tue, 10 Nov 2026 09:01:08 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Future-Ready Students! Schools Launch Generative AI Training for 5,500 Students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORE82UDVNaTR0TEU3cnFCRnU1MzRJUElCZXgwTWVBX2RpVkRIU1JxbWdGazZhcUtNYnFzdFNFR3FLRG83VHRlLW1Sc1lRR3E4UFR6ZU1UOGZ0TF9nWmV3dVdxMmlaU2pIWlBaanBPdGVuaEZJZnZfOUZidjA1dzZmUk85Uk1NTlRNeVVZRmMxejIzWGRtUDg3RTFpSGszZ1dwZ2w0YkM5bkhQRFNHSDNNWnExMUJ4eHdzMGhiY2M1NmkzRVZvaVhTNVBkbWV5YUhZ?oc=5\" target=\"_blank\">Future-Ready Students! Schools Launch Generative AI Training for 5,500 Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sakshi Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORE82UDVNaTR0TEU3cnFCRnU1MzRJUElCZXgwTWVBX2RpVkRIU1JxbWdGazZhcUtNYnFzdFNFR3FLRG83VHRlLW1Sc1lRR3E4UFR6ZU1UOGZ0TF9nWmV3dVdxMmlaU2pIWlBaanBPdGVuaEZJZnZfOUZidjA1dzZmUk85Uk1NTlRNeVVZRmMxejIzWGRtUDg3RTFpSGszZ1dwZ2w0YkM5bkhQRFNHSDNNWnExMUJ4eHdzMGhiY2M1NmkzRVZvaVhTNVBkbWV5YUhZ?oc=5",
+   "source_name": "Sakshi Education",
+   "source_domain": "education.sakshi.com",
+   "published_raw": "Mon, 09 Nov 2026 01:11:47 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "PM Modi to virtually inaugurate Tribal Freedom Fighters Museum in Mizoram tomorrow",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkxtYnRHd2hSR29RQUNGMEg3S2ZDbVlhUzBoOWxPUTNFamQ2OUwzcXl1UHdHeW96djZNOUJzZndjVEtpRFVvbVBjSHJ3YXNudmMtT1RiSktiWHZVdE9JMlF2aDY1TG5ZQUNMN0FJbktnY2dEdURkNUxzaXNma01qaEp3RGhQbHBUZWp3OHVMR3hQRk4xYzBvX2pveDhhV0FMeTR0YzFYMmpjaW51SjhReU43Tm15UWc?oc=5\" target=\"_blank\">PM Modi to virtually inaugurate Tribal Freedom Fighters Museum in Mizoram tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hawk</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkxtYnRHd2hSR29RQUNGMEg3S2ZDbVlhUzBoOWxPUTNFamQ2OUwzcXl1UHdHeW96djZNOUJzZndjVEtpRFVvbVBjSHJ3YXNudmMtT1RiSktiWHZVdE9JMlF2aDY1TG5ZQUNMN0FJbktnY2dEdURkNUxzaXNma01qaEp3RGhQbHBUZWp3OHVMR3hQRk4xYzBvX2pveDhhV0FMeTR0YzFYMmpjaW51SjhReU43Tm15UWc?oc=5",
+   "source_name": "The Hawk",
+   "source_domain": "thehawk.in",
+   "published_raw": "Sat, 14 Nov 2026 16:46:09 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Biblical Fear of ‘666’ Keeps 40 Eligible Mizoram Voters Off Electoral Roll as ECI Steps Up Efforts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV0h3cjRxZjF2dDVuZjdpeFIwUkZzMl9nYkRER01yZGJ3SHprbXVUa3BHWmIteUs3MU5Hd0ZoVTViMzBHajV5OG9abUhEZjZSOEpEeUZ3RDZtUFJMeXgwY2JUV0ttNVNSazRqRFJjWkZjMzA5eW40cTgyZkp5eU8yY0laNWU3dXVmdnBhVlF5djJIVXVTRFJaWWVvSmpFRE5DS1JDMkU3U2tqYTRLaUlTTTNoWlRvSXlIRGpCdWlad1YxZVhJZ3NuVlczbUMxemZucEtaeWhHckhNN2FUSkh3aVNuc0nSAeoBQVVfeXFMTVRjTmh0azN0VmdhZW9rY0ZLN2JHV2RvUmlnVWdyT0x1N0N0UjZKN2lIT3ZCRHBBdGZrY212RU1BbkNZUko3bGxWVktDSlpqQ2I3djF4MHV2S1lSRTZwbGU0WHhoSGxqS1FuRjBXM3AxbGV0anVWdmoyUjJmZkJtSlZyQlliU1BKM3VpZDd5UF84TTdUQzBNa1N3d05aRlZidlhIYnNER3VRZnpWblhkeXI1eXlTb1JjYnRoaFV1Z2J4c0IwcFRJTDVkZjFmeUNQV3hNNVBDM2o1elJGVnQ0blRfM3ZSOGwzZXVR?oc=5\" target=\"_blank\">Biblical Fear of ‘666’ Keeps 40 Eligible Mizoram Voters Off Electoral Roll as ECI Steps Up Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Republic World</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV0h3cjRxZjF2dDVuZjdpeFIwUkZzMl9nYkRER01yZGJ3SHprbXVUa3BHWmIteUs3MU5Hd0ZoVTViMzBHajV5OG9abUhEZjZSOEpEeUZ3RDZtUFJMeXgwY2JUV0ttNVNSazRqRFJjWkZjMzA5eW40cTgyZkp5eU8yY0laNWU3dXVmdnBhVlF5djJIVXVTRFJaWWVvSmpFRE5DS1JDMkU3U2tqYTRLaUlTTTNoWlRvSXlIRGpCdWlad1YxZVhJZ3NuVlczbUMxemZucEtaeWhHckhNN2FUSkh3aVNuc0nSAeoBQVVfeXFMTVRjTmh0azN0VmdhZW9rY0ZLN2JHV2RvUmlnVWdyT0x1N0N0UjZKN2lIT3ZCRHBBdGZrY212RU1BbkNZUko3bGxWVktDSlpqQ2I3djF4MHV2S1lSRTZwbGU0WHhoSGxqS1FuRjBXM3AxbGV0anVWdmoyUjJmZkJtSlZyQlliU1BKM3VpZDd5UF84TTdUQzBNa1N3d05aRlZidlhIYnNER3VRZnpWblhkeXI1eXlTb1JjYnRoaFV1Z2J4c0IwcFRJTDVkZjFmeUNQV3hNNVBDM2o1elJGVnQ0blRfM3ZSOGwzZXVR?oc=5",
+   "source_name": "Republic World",
+   "source_domain": "republicworld.com",
+   "published_raw": "Wed, 09 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "PM Modi to virtually inaugurate Ropuiliani Tribal Freedom Fighters Museum in Mizoram on Nov 15",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxObEV0RGNtUkQ5N3N0dU03MlFvd192TW1LYVpQVi15ZThUTGpmZ0FrbHVvdG9DNzlJbTF1eW1VMHE1V0Q1Zl9jdXZTNXJMTkpRWU53OVVmMUFESENVN2hKLVJGcVpFbmdkejRLbnVMcVJ6RjRtZG5sSU5Cc3VidUl0ZHYxblUzTnRPc0lxb3lXbjNxNkhMMlYwQmNlOGtXQWJUOUc0ZXZSeE1KWDFVREZOaXFUWkpLOC14QzdDQjZVYkhLczNMUENDa3cwQXU1YkxnNWVhYXBIV0k3Mmo1OUE?oc=5\" target=\"_blank\">PM Modi to virtually inaugurate Ropuiliani Tribal Freedom Fighters Museum in Mizoram on Nov 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hawk</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObEV0RGNtUkQ5N3N0dU03MlFvd192TW1LYVpQVi15ZThUTGpmZ0FrbHVvdG9DNzlJbTF1eW1VMHE1V0Q1Zl9jdXZTNXJMTkpRWU53OVVmMUFESENVN2hKLVJGcVpFbmdkejRLbnVMcVJ6RjRtZG5sSU5Cc3VidUl0ZHYxblUzTnRPc0lxb3lXbjNxNkhMMlYwQmNlOGtXQWJUOUc0ZXZSeE1KWDFVREZOaXFUWkpLOC14QzdDQjZVYkhLczNMUENDa3cwQXU1YkxnNWVhYXBIV0k3Mmo1OUE?oc=5",
+   "source_name": "The Hawk",
+   "source_domain": "thehawk.in",
+   "published_raw": "Tue, 10 Nov 2026 17:17:37 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Assam Rifles, DRI seize methamphetamine tablets worth Rs 60 crore in Assam; one held",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlNpbTdiTGQxdHhfSXV2NGtSYXBabXJoUGFVOU5tYXpCZllVcmZpdGJuQ1NnTFFVMlNodU5RUDNUZXZjbnhvcDhtMmJuWjZISXlfalozTHd5VWQwOTB5Nm5WWm8yeHdzcEU0WUhiQXlxVFpScHBpUVQyR2huWll6S1RybFF6MnBxdFlQWVgzX2I4R2dySmxHSTBUM3BSUHh1VWlqMkgyWXFLZGxiVm5kVWtKRllLeHE3R0NiV1FrTGJBcmVuUGVya0x5cw?oc=5\" target=\"_blank\">Assam Rifles, DRI seize methamphetamine tablets worth Rs 60 crore in Assam; one held</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hawk</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlNpbTdiTGQxdHhfSXV2NGtSYXBabXJoUGFVOU5tYXpCZllVcmZpdGJuQ1NnTFFVMlNodU5RUDNUZXZjbnhvcDhtMmJuWjZISXlfalozTHd5VWQwOTB5Nm5WWm8yeHdzcEU0WUhiQXlxVFpScHBpUVQyR2huWll6S1RybFF6MnBxdFlQWVgzX2I4R2dySmxHSTBUM3BSUHh1VWlqMkgyWXFLZGxiVm5kVWtKRllLeHE3R0NiV1FrTGJBcmVuUGVya0x5cw?oc=5",
+   "source_name": "The Hawk",
+   "source_domain": "thehawk.in",
+   "published_raw": "Fri, 13 Nov 2026 16:26:11 GMT",
+   "fetched_at": "2026-11-15T09:35:00+00:00"
+  }
+ ]
+}

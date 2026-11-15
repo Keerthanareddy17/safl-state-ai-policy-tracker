@@ -1,0 +1,109 @@
+{
+ "region": "Dadra and Nagar Haveli and Daman and Diu",
+ "group": "A",
+ "query": "(\"Dadra and Nagar Haveli and Daman and Diu\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Dadra+and+Nagar+Haveli+and+Daman+and+Diu%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:22+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Torrent Power cuts Bhiwandi AT&C losses to 9.1% in FY26",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3kyMjlZSFdqaXItVUh5dk9XTnI4SWZQOGltYWI3eld4RTNjNHJLMUMzRHRJVVEwbk9zVkF2SGZpeTJzYjhnMjFDRWF3c2N2Nkd5UXFaajhxcWVLaDVkOTMyVHpZUUdDM3VQWUt6ZEdhdFlPMENsWUpRdTNuTDI2TS1nZ3ZoOEM1Rm82eTN1eVktV09KbWlyUlNHN2F4YWxETlY0UDlldGxXSnd2bWIzUw?oc=5\" target=\"_blank\">Torrent Power cuts Bhiwandi AT&amp;C losses to 9.1% in FY26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Multibagg AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3kyMjlZSFdqaXItVUh5dk9XTnI4SWZQOGltYWI3eld4RTNjNHJLMUMzRHRJVVEwbk9zVkF2SGZpeTJzYjhnMjFDRWF3c2N2Nkd5UXFaajhxcWVLaDVkOTMyVHpZUUdDM3VQWUt6ZEdhdFlPMENsWUpRdTNuTDI2TS1nZ3ZoOEM1Rm82eTN1eVktV09KbWlyUlNHN2F4YWxETlY0UDlldGxXSnd2bWIzUw?oc=5",
+   "source_name": "Multibagg AI",
+   "source_domain": "multibagg.ai",
+   "published_raw": "Thu, 05 Nov 2026 09:09:41 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Can AI clean India’s electoral rolls without cleaning out its voters?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOEVvd2tCemdoa1hRb1RQWjNpMXVpaW1EbFJfa2ZHLVZmVGhjQjBTME5tejZBUi1nVVpFeWRrT05oNDdFUlU1ZFZLMU1IUzhXX2dqd3hwUTBBNi00OGpYRHA0eEEtZnhlVzU5R210c0lnbTljSEFNUTRTMENtM2NhbTBLU3hEN0FhQ1BOU2ZyWW1RelRYNU9NbFRvS2F3dW9WbFpHVlA2ejJfU2hCRS1iQndQa0FsS1hwZzYzcV9rOTU1anM5MWNmd050M1JFV1A1MDNaSVE5YWM1a0NYMnJzX2RRZWRySkHSAewBQVVfeXFMUDk0ZUtyOGtQRlBpOEk3OWRDM1RKOFRZX00zRWhRYUtteGQ4bWZBajlITWc3c3dpNElVWGlQQVFsU21BLVdQcC1NVnRlTmViRjVxTU11cVRyZ014SldNaHRiOVJNS1hNUzBXQzRpSXBTVE9yVlNaVURVOU94TkpQQWRSNF9aT0laeDhwQlhxUVhtT21BQ0ktWU40N0dUNnQxVzZaYTd3R2NIOEREVXFpcUNYbXJYRHl5Uy1XamdzUDdFWi1HcVlaa3Y4a0RhYUhndzBxS3dFMEZKWEQ0LWtFR0M5aDM2WkF6WnBKSmk?oc=5\" target=\"_blank\">Can AI clean India’s electoral rolls without cleaning out its voters?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOEVvd2tCemdoa1hRb1RQWjNpMXVpaW1EbFJfa2ZHLVZmVGhjQjBTME5tejZBUi1nVVpFeWRrT05oNDdFUlU1ZFZLMU1IUzhXX2dqd3hwUTBBNi00OGpYRHA0eEEtZnhlVzU5R210c0lnbTljSEFNUTRTMENtM2NhbTBLU3hEN0FhQ1BOU2ZyWW1RelRYNU9NbFRvS2F3dW9WbFpHVlA2ejJfU2hCRS1iQndQa0FsS1hwZzYzcV9rOTU1anM5MWNmd050M1JFV1A1MDNaSVE5YWM1a0NYMnJzX2RRZWRySkHSAewBQVVfeXFMUDk0ZUtyOGtQRlBpOEk3OWRDM1RKOFRZX00zRWhRYUtteGQ4bWZBajlITWc3c3dpNElVWGlQQVFsU21BLVdQcC1NVnRlTmViRjVxTU11cVRyZ014SldNaHRiOVJNS1hNUzBXQzRpSXBTVE9yVlNaVURVOU94TkpQQWRSNF9aT0laeDhwQlhxUVhtT21BQ0ktWU40N0dUNnQxVzZaYTd3R2NIOEREVXFpcUNYbXJYRHl5Uy1XamdzUDdFWi1HcVlaa3Y4a0RhYUhndzBxS3dFMEZKWEQ0LWtFR0M5aDM2WkF6WnBKSmk?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "As told to Parliament (August 5, 2026): INCOIS AI model forecasts El Niño to continue until February 2027 with up to 90% probability",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOZDRZcmhHWWp0dU1OUWdkZDNlX2NsQWt3OWpVcGd0RGdWQTM3ZjJfQlVrVFZOa050LTdlbEM4UTloSFVnNzJubW9fVFF0U0tqanM2Z2RDeFYzN1VfdGhqUVdYS0lrUmx5UzlEMjFkODAzdVZ2aEdQQUJrMEZ4amRMUkdib1E1ZzJSYVFuNlpPTVhyM1gxdVdZZnJsLV9kWnJRNGZyWXZuZ0pTU21Bd3psZ2FjaHJyQ0ZuLUpQRUtuWlJyd0Jjd2FWRk5pcFV6YUxINGIwTF9GV0NPdXdKYmVGT290TzAydnlndXdnek9rLTdWWENiRDFjOHU5LVJQaXJPOG5ERGFFcWZfQdIBlwJBVV95cUxOTXRCTVBMdVVuWlRsNGo5MFNjdTlGS1hDTmJuZXhPRzRhQnI2SjBnc1l0RVlOQy1hS3MyQmN3V3owdTNQd2h6UVltbVUtQzBaWTB0VmFXWnFfZ2ZUdnpWX0lwWUIzZGEtN2puMzU2bkJwV2V1QjN4LXJpZHUwcjVPTVFRaG5aR05jeEpPVkUxWWIwYVFsUmtOOUwtekVoMERPYndYQkZwXzNrTEtrb084RU5BVXpJRDFMN1hZNkJyUmlwZmFLejRJdlE0VmpFZ2VJNVh5N2ZOYS1uNWlZTnZLcDJ4YWpKUTZmemFFU3NfTUhKVGJmVTdiVG82R2F2TlZyUXl4ZEl3cGVFUDFKTHpUZWo0ZGlfeUk?oc=5\" target=\"_blank\">As told to Parliament (August 5, 2026): INCOIS AI model forecasts El Niño to continue until February 2027 with up to 90% probability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Down To Earth</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZDRZcmhHWWp0dU1OUWdkZDNlX2NsQWt3OWpVcGd0RGdWQTM3ZjJfQlVrVFZOa050LTdlbEM4UTloSFVnNzJubW9fVFF0U0tqanM2Z2RDeFYzN1VfdGhqUVdYS0lrUmx5UzlEMjFkODAzdVZ2aEdQQUJrMEZ4amRMUkdib1E1ZzJSYVFuNlpPTVhyM1gxdVdZZnJsLV9kWnJRNGZyWXZuZ0pTU21Bd3psZ2FjaHJyQ0ZuLUpQRUtuWlJyd0Jjd2FWRk5pcFV6YUxINGIwTF9GV0NPdXdKYmVGT290TzAydnlndXdnek9rLTdWWENiRDFjOHU5LVJQaXJPOG5ERGFFcWZfQdIBlwJBVV95cUxOTXRCTVBMdVVuWlRsNGo5MFNjdTlGS1hDTmJuZXhPRzRhQnI2SjBnc1l0RVlOQy1hS3MyQmN3V3owdTNQd2h6UVltbVUtQzBaWTB0VmFXWnFfZ2ZUdnpWX0lwWUIzZGEtN2puMzU2bkJwV2V1QjN4LXJpZHUwcjVPTVFRaG5aR05jeEpPVkUxWWIwYVFsUmtOOUwtekVoMERPYndYQkZwXzNrTEtrb084RU5BVXpJRDFMN1hZNkJyUmlwZmFLejRJdlE0VmpFZ2VJNVh5N2ZOYS1uNWlZTnZLcDJ4YWpKUTZmemFFU3NfTUhKVGJmVTdiVG82R2F2TlZyUXl4ZEl3cGVFUDFKTHpUZWo0ZGlfeUk?oc=5",
+   "source_name": "Down To Earth",
+   "source_domain": "downtoearth.org.in",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "VP Radhakrishnan to visit Dadra and Nagar Haveli and Daman and Diu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGdSaUtSR0ZSbnk2UXJla1QwNTNkNTFUWkN5U21uVVpWM283OE5UUWVqd1RfY0Zka0lfNVltMjdfdnZ3VGdMRXF5S2pjbUMwWE1FUmo3TzNQVmtaaE5ESklMc0RqdUtQZkVMdHFjYUduVmllb243aVdfeHRGN1hVQWxhRkFyY1g1T1lNNkNGQURyY1Nrdi1icXprMnNlblVfSDV6dkp2OEdsZGg1UXpSS19kellDSVRqRFFUNzdDYVMzcXNkNFpiVzVZeFV1X0xZQ3FNcjg5ZHFsX3FiVmNvNjAxbFY?oc=5\" target=\"_blank\">VP Radhakrishnan to visit Dadra and Nagar Haveli and Daman and Diu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGdSaUtSR0ZSbnk2UXJla1QwNTNkNTFUWkN5U21uVVpWM283OE5UUWVqd1RfY0Zka0lfNVltMjdfdnZ3VGdMRXF5S2pjbUMwWE1FUmo3TzNQVmtaaE5ESklMc0RqdUtQZkVMdHFjYUduVmllb243aVdfeHRGN1hVQWxhRkFyY1g1T1lNNkNGQURyY1Nrdi1icXprMnNlblVfSDV6dkp2OEdsZGg1UXpSS19kellDSVRqRFFUNzdDYVMzcXNkNFpiVzVZeFV1X0xZQ3FNcjg5ZHFsX3FiVmNvNjAxbFY?oc=5",
+   "source_name": "Rediff",
+   "source_domain": "rediff.com",
+   "published_raw": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "India’s western region is the ‘WEST engine’ of growth: Home Minister Amit Shah",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFoSmZJTWZGeHJ1RlBRZWdGZnpGU2tsNkxlTGtvNlFmcWhVcGZ5Q2VaaHRjTnBFYkhHWG9BdlJqWGs5VnFVRUtUV3BDZDRaVkpDWWNmS3pmdGFYc0ZoenF3alJYdHVOZE1FOW1SZHdaSXMwQm1LNEJZWHhhdVROVjl6VTNxa1JYS1VadnhWX3MtVm91ek9HOUQtVlRLS0g1RGFuUmVxUHNZYWpxNFJEVTM0anNRT0NfQ2wyeHMxZG1vTGPSAdABQVVfeXFMTkEyOE12UG1OcDN0a2RQQkR6cXR4MlRJcFF3QjhydzRWLTZkVlVCWTJjay1MTTc1Zm1NQktmbGtSV1ZneWtLQkQ4WGhycjY5LVV3eXNwVnZYYmFEZEpYX2ZZR3VBTV8yUWdwZ0JjZGZDT3M5WnZxb29YR2tmR2tpVS14U2Z2T1BfaG5ZeG94SUx4TUg5OXphRy1sTWlyUTAwYkg2YUI1UFM1UUN2dkpSbTYxY3JfZ1BEWVZQa3JBVVJWbFhTQVJYTE5CT1NDN2hSNA?oc=5\" target=\"_blank\">India’s western region is the ‘WEST engine’ of growth: Home Minister Amit Shah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFoSmZJTWZGeHJ1RlBRZWdGZnpGU2tsNkxlTGtvNlFmcWhVcGZ5Q2VaaHRjTnBFYkhHWG9BdlJqWGs5VnFVRUtUV3BDZDRaVkpDWWNmS3pmdGFYc0ZoenF3alJYdHVOZE1FOW1SZHdaSXMwQm1LNEJZWHhhdVROVjl6VTNxa1JYS1VadnhWX3MtVm91ek9HOUQtVlRLS0g1RGFuUmVxUHNZYWpxNFJEVTM0anNRT0NfQ2wyeHMxZG1vTGPSAdABQVVfeXFMTkEyOE12UG1OcDN0a2RQQkR6cXR4MlRJcFF3QjhydzRWLTZkVlVCWTJjay1MTTc1Zm1NQktmbGtSV1ZneWtLQkQ4WGhycjY5LVV3eXNwVnZYYmFEZEpYX2ZZR3VBTV8yUWdwZ0JjZGZDT3M5WnZxb29YR2tmR2tpVS14U2Z2T1BfaG5ZeG94SUx4TUg5OXphRy1sTWlyUTAwYkg2YUI1UFM1UUN2dkpSbTYxY3JfZ1BEWVZQa3JBVVJWbFhTQVJYTE5CT1NDN2hSNA?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Almost 6.4% of voter names deleted in draft lists published for four States and one U.T. undergoing SIR",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUm5EbkFLZ2JId1lVSHRZZ3IxZUlraEFWYXNHeHdSR3hwWjluYTQycU9kWnJXMXdTd3daY1AxMDN4WHRrMXdKR0xzc3pmN1d5VnVjdUpESEFfRGlMckpxYnNLV0c0NHhOTVRQbXdGVTloR1RsbWFZLVpsallYby01QVloUjhzLVhwbFFtbUktZnJYMHRqRFZNbGNxZ3p2TlhNLVhSZXBMSmZpS09BVkVYaUo3Mjh2Z0RNWTlzZUZUSi05aVNPbGEyeFN3Ny1FM2ZlS3ZJSks1SlI3d0Q5aWpZNUc2Tm0xOVdHX0RrMXBQY9IB9gFBVV95cUxOekhxdVRZYW42cEZ1T1JOWXdSclgta2FJVktoRmhDV0VTaV9RSS1acW1JR3FvWlRWOXVkZ1QtbUpGbFZITWRGSThUczM1NTM5ZjAyV0E4VE9VRVJNRVREZDRyTVBDMV82TEhmZkFab1NIUFBTcXRJa2RCZkZ5QTRpdnE2TzY4WHJKZFFKRDB3M1dvb1RtSHozMndMYUlJNVVmTW9neGI3TlZNX0UwT2FwQkwzVVhuNGVweTBJYW5XV2dNZi0zUUI4eTJBQlNMOUZ5LVYwcE0xZ3VZaWhDdkZKVEJOUmkyMWxvVWtOVDRDTEI3N0Z2akE?oc=5\" target=\"_blank\">Almost 6.4% of voter names deleted in draft lists published for four States and one U.T. undergoing SIR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUm5EbkFLZ2JId1lVSHRZZ3IxZUlraEFWYXNHeHdSR3hwWjluYTQycU9kWnJXMXdTd3daY1AxMDN4WHRrMXdKR0xzc3pmN1d5VnVjdUpESEFfRGlMckpxYnNLV0c0NHhOTVRQbXdGVTloR1RsbWFZLVpsallYby01QVloUjhzLVhwbFFtbUktZnJYMHRqRFZNbGNxZ3p2TlhNLVhSZXBMSmZpS09BVkVYaUo3Mjh2Z0RNWTlzZUZUSi05aVNPbGEyeFN3Ny1FM2ZlS3ZJSks1SlI3d0Q5aWpZNUc2Tm0xOVdHX0RrMXBQY9IB9gFBVV95cUxOekhxdVRZYW42cEZ1T1JOWXdSclgta2FJVktoRmhDV0VTaV9RSS1acW1JR3FvWlRWOXVkZ1QtbUpGbFZITWRGSThUczM1NTM5ZjAyV0E4VE9VRVJNRVREZDRyTVBDMV82TEhmZkFab1NIUFBTcXRJa2RCZkZ5QTRpdnE2TzY4WHJKZFFKRDB3M1dvb1RtSHozMndMYUlJNVVmTW9neGI3TlZNX0UwT2FwQkwzVVhuNGVweTBJYW5XV2dNZi0zUUI4eTJBQlNMOUZ5LVYwcE0xZ3VZaWhDdkZKVEJOUmkyMWxvVWtOVDRDTEI3N0Z2akE?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 11 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Need low-cost housing? Here's how the SPARSH 2.0 scheme works",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdng5TzE2OUNzeG1yUnNlN1FYd2U4Z0pxNHRncXljaTJ2eUFLNzRqWWVrT3M1RmpHVHJ4RktiMFBzWlllckNaQXl0a2FzRkZpYnFjdlZZdktSdnJyd0ZBMWpOQ2xKd2J4Y0sxa1JaWHFZWWQxTG9nM0QzMV9MSVlGeEtXWXRZOW4wYk1td1NuRUhUemsxbll0VEsxYU9GdEhGNGs2R0N4V2trQ3hQX3Robzl4SUstbEJqaWZrZlpmZEx4c0Z3RXV4MlJ5UXpJYWZqTEp3c9IB2gFBVV95cUxNSWRab09qblBCVlg1N2dOSG52enZCdlliNTRxVG1uUVlaRVF1cjZRSC0zaDZMeFRnVUZvUjhlUDFQNEhueG9CaWVheFNnTDI1anZRVVRCWmJValpQYWFRTzh1Z29ibm9Rd1V1TlNZbEFzMGhNYUxkTzdvZElOaHUzZUJndHh5bzM2TzE4eFdya1lTaG9SV2ZaOEpfeW84WnhTakg3bE42TTAtcEliVno2SURhLUhzMXVHM1lJX3FsYlFHQkJfWXlLalN5M1l2dHBxWlJZMVZlQU84dw?oc=5\" target=\"_blank\">Need low-cost housing? Here's how the SPARSH 2.0 scheme works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdng5TzE2OUNzeG1yUnNlN1FYd2U4Z0pxNHRncXljaTJ2eUFLNzRqWWVrT3M1RmpHVHJ4RktiMFBzWlllckNaQXl0a2FzRkZpYnFjdlZZdktSdnJyd0ZBMWpOQ2xKd2J4Y0sxa1JaWHFZWWQxTG9nM0QzMV9MSVlGeEtXWXRZOW4wYk1td1NuRUhUemsxbll0VEsxYU9GdEhGNGs2R0N4V2trQ3hQX3Robzl4SUstbEJqaWZrZlpmZEx4c0Z3RXV4MlJ5UXpJYWZqTEp3c9IB2gFBVV95cUxNSWRab09qblBCVlg1N2dOSG52enZCdlliNTRxVG1uUVlaRVF1cjZRSC0zaDZMeFRnVUZvUjhlUDFQNEhueG9CaWVheFNnTDI1anZRVVRCWmJValpQYWFRTzh1Z29ibm9Rd1V1TlNZbEFzMGhNYUxkTzdvZElOaHUzZUJndHh5bzM2TzE4eFdya1lTaG9SV2ZaOEpfeW84WnhTakg3bE42TTAtcEliVno2SURhLUhzMXVHM1lJX3FsYlFHQkJfWXlLalN5M1l2dHBxWlJZMVZlQU84dw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 30 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Indian Coast Guard rescues 170 people amid floods in Gujarat, Dadra and Nagar Haveli",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOMk9jcFZXamluUXBFd2FWWm1rQ1c0R1hpakhqYktxaU1MM083aTJuZzV1UW4zSnFVUUdQRUs5TVFyb1o5S1AwbUQ3ZEVNelB6cHE1MDVsLXdRYzloSTJWWVRiSXRwMlRqQlFXWE5lb2FxeG5pLXh6RzB3RmNYZnF0UkZIcnRtSWR0NUhTWjFXN09MUTZVQnBZQ0NDbVhGeEw0ZkRJRC11YjJSRlZ3Z1lzUWFWOXRuMUUyTDFSdVRPcE02YlY1b1BDYXdqVC3SAdIBQVVfeXFMUGNUakszUnJISzlpWW4xSFZPUmFPaWNiMGotWTdJOTVoZU9HVXJvclNEZ3lwRENXQU5VUHRtLXRzdmFYTy1lVnR2d2JoLUFIZHA3NUg3N2J2U3JtSmk2em5pRlVDSEFWNmJ1UWZjb2UwV2Y2dlN0OUJkeE9wX3pQODJ4UUdncm1tcUVXNldRTGpISFkwaE1teGRLNjRxTW1ScmpQR0Jzck5JMXFMeVhqV1RaakExc2IwNTNrQnFJX1ctaGNaelZObk1NWS1sMnY3ZXFn?oc=5\" target=\"_blank\">Indian Coast Guard rescues 170 people amid floods in Gujarat, Dadra and Nagar Haveli</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMk9jcFZXamluUXBFd2FWWm1rQ1c0R1hpakhqYktxaU1MM083aTJuZzV1UW4zSnFVUUdQRUs5TVFyb1o5S1AwbUQ3ZEVNelB6cHE1MDVsLXdRYzloSTJWWVRiSXRwMlRqQlFXWE5lb2FxeG5pLXh6RzB3RmNYZnF0UkZIcnRtSWR0NUhTWjFXN09MUTZVQnBZQ0NDbVhGeEw0ZkRJRC11YjJSRlZ3Z1lzUWFWOXRuMUUyTDFSdVRPcE02YlY1b1BDYXdqVC3SAdIBQVVfeXFMUGNUakszUnJISzlpWW4xSFZPUmFPaWNiMGotWTdJOTVoZU9HVXJvclNEZ3lwRENXQU5VUHRtLXRzdmFYTy1lVnR2d2JoLUFIZHA3NUg3N2J2U3JtSmk2em5pRlVDSEFWNmJ1UWZjb2UwV2Y2dlN0OUJkeE9wX3pQODJ4UUdncm1tcUVXNldRTGpISFkwaE1teGRLNjRxTW1ScmpQR0Jzck5JMXFMeVhqV1RaakExc2IwNTNrQnFJX1ctaGNaelZObk1NWS1sMnY3ZXFn?oc=5",
+   "source_name": "WION",
+   "source_domain": "wionews.com",
+   "published_raw": "Sun, 26 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "PM Modi to attend G7 Summit in France next week: Possible meeting with Trump, bilateral talks with Macron on agenda",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1VpZVNIZEhpQkJ6S1g0RTlKV3VXV3RwZDNod0ZWZG9LQlhMZjg1M1hLbEtMU2Njd1BfMHh4enZkQVQ2RUw0QnZqcFNCc0NPUklTVFFiVHNiclNYZ0VWRkZDZm5PWGRqNGVGbFNpX2preHJxY0hfTmNTTzdFaDR3eHNOYzFvM2hnN1hicFFBdl9wUGNVdGNjUlhnQk1NVjVUd2p5VVFDZWlEYmZNOGR5Ym9kVFJZV3hYN1ZyMFZ3SnRjclpOb1JWaUNjLVZaODVjTUkwcURMV3N1U3diS3NiV2p2Qk9tWjNMZGd1bG9HR3g3d9IB9wFBVV95cUxPOUhkNkVmbFRPaDJPeDlXaVFhZE95MmRRc0RUWlpzUTlWMmRLSkU2Qk5oODVtNVBqaTVSTXpkbldJRW9FcEZZa1Y4RkFTamFpamg3Yndza1JqTkxUZkM4TWtGR291NVdHTEpyeWtvUjJNNG0tMndBaWtrMk1tU1VBZF9NelN0R3YtTm1WbExHcXlZRHc0QmNUd1V2MXZjTG1RSzItUFFrZzlVZG9Id1p6TVEyVTVlWjRSMlI1UFNNUDFGdVhlTjhFdDZmcVBoNk1hNnlNWmhieDVWVGpzRTJvOWVxZE51S0F3dlg5ekpIcXl2clZLS2Ew?oc=5\" target=\"_blank\">PM Modi to attend G7 Summit in France next week: Possible meeting with Trump, bilateral talks with Macron on agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1VpZVNIZEhpQkJ6S1g0RTlKV3VXV3RwZDNod0ZWZG9LQlhMZjg1M1hLbEtMU2Njd1BfMHh4enZkQVQ2RUw0QnZqcFNCc0NPUklTVFFiVHNiclNYZ0VWRkZDZm5PWGRqNGVGbFNpX2preHJxY0hfTmNTTzdFaDR3eHNOYzFvM2hnN1hicFFBdl9wUGNVdGNjUlhnQk1NVjVUd2p5VVFDZWlEYmZNOGR5Ym9kVFJZV3hYN1ZyMFZ3SnRjclpOb1JWaUNjLVZaODVjTUkwcURMV3N1U3diS3NiV2p2Qk9tWjNMZGd1bG9HR3g3d9IB9wFBVV95cUxPOUhkNkVmbFRPaDJPeDlXaVFhZE95MmRRc0RUWlpzUTlWMmRLSkU2Qk5oODVtNVBqaTVSTXpkbldJRW9FcEZZa1Y4RkFTamFpamg3Yndza1JqTkxUZkM4TWtGR291NVdHTEpyeWtvUjJNNG0tMndBaWtrMk1tU1VBZF9NelN0R3YtTm1WbExHcXlZRHc0QmNUd1V2MXZjTG1RSzItUFFrZzlVZG9Id1p6TVEyVTVlWjRSMlI1UFNNUDFGdVhlTjhFdDZmcVBoNk1hNnlNWmhieDVWVGpzRTJvOWVxZE51S0F3dlg5ekpIcXl2clZLS2Ew?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:22+00:00"
+  }
+ ]
+}

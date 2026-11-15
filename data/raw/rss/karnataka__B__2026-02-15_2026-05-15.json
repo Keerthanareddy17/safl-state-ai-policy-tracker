@@ -1,0 +1,252 @@
+{
+ "region": "Karnataka",
+ "group": "B",
+ "query": "(Karnataka OR Bengaluru) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Karnataka+OR+Bengaluru%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:34:47+00:00",
+ "item_count": 22,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka's Deputy Chief Minister D.K. Shivakumar forecast up to 50% job cuts due to AI at the Future of Work Summit while simultaneously announcing a 9,000-acre second airport and AI City in South Bengaluru. Two announcements in one breath, one that s",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE5YeF9tYjBoZ1VuOUxDeTZDRXhPTks5cDR0VlpUV2s4ZFhTOXlCWkJxbGMzbkFkZnE2NERUVEhSbjZDYWJqcEtKNXdfcGJKNkd4eWN0Tm1hUFRXMXVJaVdWOUxDVjlDTzBXUDB0TnZYR2x1YjN0TWNkbXh5ZkdMOHJGS2VJY0NXeDllYTVJV3BjaWEzek5LWlVjdGR4MHJOSWJ4anVWNFFVeVh1a18taEZ4eS1sUzhHQVFF?oc=5\" target=\"_blank\">Karnataka's Deputy Chief Minister D.K. Shivakumar forecast up to 50% job cuts due to AI at the Future of Work Summit while simultaneously announcing a 9,000-acre second airport and AI City in South Bengaluru. Two announcements in one breath, one that s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE5YeF9tYjBoZ1VuOUxDeTZDRXhPTks5cDR0VlpUV2s4ZFhTOXlCWkJxbGMzbkFkZnE2NERUVEhSbjZDYWJqcEtKNXdfcGJKNkd4eWN0Tm1hUFRXMXVJaVdWOUxDVjlDTzBXUDB0TnZYR2x1YjN0TWNkbXh5ZkdMOHJGS2VJY0NXeDllYTVJV3BjaWEzek5LWlVjdGR4MHJOSWJ4anVWNFFVeVh1a18taEZ4eS1sUzhHQVFF?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Government of Karnataka constitutes responsible AI committee; first meeting held in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXRUYmo4bkVOV3AwTnF0S0VYeEdfTUtEMjA0RnBVcFVpeFQ0eEs5VmltbmM1cF8wZGp5RGtTQVNOT1Z2OS1mT1g5ZkY0eWJlaUN6VkhtLTFaMnJmdlJuTFBFSjJ5VG1vdGhWWWJ1VzN1VnZPdjlBYXVhVjgxQ0J2Q2JUNlI2WlgwZ3hSVWRMdThiZXF4cnhJbjRPaWFEUjRpdXo4bHg5Y21XUWxLWG50TnpGQ0lPOTN1UmswcVFiVGozODRXUGM2bEZ5NjNrNHMzeHc?oc=5\" target=\"_blank\">Government of Karnataka constitutes responsible AI committee; first meeting held in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Express Computer</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXRUYmo4bkVOV3AwTnF0S0VYeEdfTUtEMjA0RnBVcFVpeFQ0eEs5VmltbmM1cF8wZGp5RGtTQVNOT1Z2OS1mT1g5ZkY0eWJlaUN6VkhtLTFaMnJmdlJuTFBFSjJ5VG1vdGhWWWJ1VzN1VnZPdjlBYXVhVjgxQ0J2Q2JUNlI2WlgwZ3hSVWRMdThiZXF4cnhJbjRPaWFEUjRpdXo4bHg5Y21XUWxLWG50TnpGQ0lPOTN1UmswcVFiVGozODRXUGM2bEZ5NjNrNHMzeHc?oc=5",
+   "source_name": "Express Computer",
+   "source_domain": "expresscomputer.in",
+   "published_raw": "Thu, 12 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "With AI, Karnataka is entering a new phase of industrial transformation: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdWtNUG9TNHAyZ3ZJOVh6VURyRE8yQjM0ejZoblFMV1ZQUlFxZkhxVVJBZW9xeGJabmJOTzBOUXJtUzZxRGl6bDdVN3Y1VGVsdjRwb2pwXy1tdWdaN252N1JNTFJzLVdvdUhIeWJTaC1aQkNkYTlWVGNjbUE5YWN0UDY1VGcwWmYzZUFZaGNHbVlCZkpmQWs5V1Z0MjV3ZDgxUm1Vd09pYnlzUHdkQndBcVRNMklfMXhoTDFJc3RSM2J0UjFkclYxX1pOOTRaNllmZkNtMzdncTBTYzNScEpMTGhRNmVhOHRTR0ExaWtn0gH0AUFVX3lxTFAxNjRRSDA0X2VBUFlVSmdFYzZoYjM5bWZPbHk1SUFxV0c3WTVxak5pUlQ4eDJlSEpUbzdZbUFIOWlrOVVTTXZ6dnNYVTR2dW5NQlRxU2xVekxsZV9GTDNrMmlwU0NEczRQZktldjMyYW9CM2liekN2MDhQREMtYUp2dFhwYjh0THR0cERTRDY4ZmQzYS1Na2ZTWnhLZm1uRzNFejZiNUlCSWJZUW9tdmtpOEVvdnZ1V3l3XzMydnY2dEo0bUQwUzZlOGxZS3RMd0Y2MHVlN2xvYWt3S2VCZzJCeGNpZmlYdzdmWGFYQTJxaXBlZlo?oc=5\" target=\"_blank\">With AI, Karnataka is entering a new phase of industrial transformation: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdWtNUG9TNHAyZ3ZJOVh6VURyRE8yQjM0ejZoblFMV1ZQUlFxZkhxVVJBZW9xeGJabmJOTzBOUXJtUzZxRGl6bDdVN3Y1VGVsdjRwb2pwXy1tdWdaN252N1JNTFJzLVdvdUhIeWJTaC1aQkNkYTlWVGNjbUE5YWN0UDY1VGcwWmYzZUFZaGNHbVlCZkpmQWs5V1Z0MjV3ZDgxUm1Vd09pYnlzUHdkQndBcVRNMklfMXhoTDFJc3RSM2J0UjFkclYxX1pOOTRaNllmZkNtMzdncTBTYzNScEpMTGhRNmVhOHRTR0ExaWtn0gH0AUFVX3lxTFAxNjRRSDA0X2VBUFlVSmdFYzZoYjM5bWZPbHk1SUFxV0c3WTVxak5pUlQ4eDJlSEpUbzdZbUFIOWlrOVVTTXZ6dnNYVTR2dW5NQlRxU2xVekxsZV9GTDNrMmlwU0NEczRQZktldjMyYW9CM2liekN2MDhQREMtYUp2dFhwYjh0THR0cERTRDY4ZmQzYS1Na2ZTWnhLZm1uRzNFejZiNUlCSWJZUW9tdmtpOEVvdnZ1V3l3XzMydnY2dEo0bUQwUzZlOGxZS3RMd0Y2MHVlN2xvYWt3S2VCZzJCeGNpZmlYdzdmWGFYQTJxaXBlZlo?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 11 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka govt sets up committee on Responsible AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFJmQmNJMElNZm9EYkZNVGRzRXJsVFpkYm9ZNkJHZThWMmNvMFNSSWhpbnJ4R1BScFEwTUZzWVdRWTF3LS1uU0s4QVJxblhrTmctMnE5N1U1RUJLRUpPeDJ4ZnJ0WFVMQVFvdlpaTFpMOWQ3czZITWU3alFwWHNQTXRKYzhnVHNsQUNqeEJ0UjBNZjVWalhjVGphU1ZvZDhQOGdtMENJWk9xMldzcEhDQXd2Nmx6a0x3RDR4LVRmbUh2NUdVLWfSAcsBQVVfeXFMTnpwbVo4S1NUUDNhYmxOVUFYb0ZMcy1LREtIa3BrSnY3bGJlbndfNjJlY0NuemJpdzMtQ0VTVVpFaVJQZnRmNjhIb3MyYUJ1dURRQ0RvZVZTSEk5TTlpN01FckEyb2ZkVTluRzY5QlNpMFJnMFZyUk9IZGdsUUszYlZ6VTdTNUMtZzJvbURTTm9pSnBKN3VNaTBKN3ZTNURiS1NHVEJjalV0U1Bkb0tTUmhwNzJrTnlhVTZaaEZmSy0xN25QNUxvdGNFZWM?oc=5\" target=\"_blank\">Karnataka govt sets up committee on Responsible AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFJmQmNJMElNZm9EYkZNVGRzRXJsVFpkYm9ZNkJHZThWMmNvMFNSSWhpbnJ4R1BScFEwTUZzWVdRWTF3LS1uU0s4QVJxblhrTmctMnE5N1U1RUJLRUpPeDJ4ZnJ0WFVMQVFvdlpaTFpMOWQ3czZITWU3alFwWHNQTXRKYzhnVHNsQUNqeEJ0UjBNZjVWalhjVGphU1ZvZDhQOGdtMENJWk9xMldzcEhDQXd2Nmx6a0x3RDR4LVRmbUh2NUdVLWfSAcsBQVVfeXFMTnpwbVo4S1NUUDNhYmxOVUFYb0ZMcy1LREtIa3BrSnY3bGJlbndfNjJlY0NuemJpdzMtQ0VTVVpFaVJQZnRmNjhIb3MyYUJ1dURRQ0RvZVZTSEk5TTlpN01FckEyb2ZkVTluRzY5QlNpMFJnMFZyUk9IZGdsUUszYlZ6VTdTNUMtZzJvbURTTm9pSnBKN3VNaTBKN3ZTNURiS1NHVEJjalV0U1Bkb0tTUmhwNzJrTnlhVTZaaEZmSy0xN25QNUxvdGNFZWM?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 12 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka adds AI, cyber security to Computer Literacy Test for govt staff",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMi1YWUYtSk1DN2cwRGk3WkpvaFo2SkVQeVRteWxfREh2NGJOUlNMbU9fbUlQbHdhc3FOWWwzTDJub3lPT3NDSXAxRU9rMHdRdTFjSUFnblFHN19meGxEeE91V0Z5MHVJS2ZRREtzRkgtUG8wbnFhVlo3U2VVN0Fldnd5eFZnaXdTUkdDLWhwN1NCb2VsYjdZTHBUV2x1elpOSkZhOTl6aTR4aExWbVN0Y0JMQlY4dm5xOXNhbmdmYnQ1dWRvMnJpLWZneVp5MExr0gHeAUFVX3lxTE9QaGJOMnFkMXR1N0FMM2dBMm81eXhodFhqUGRFUkVwXzNGdGhpM1puVkwxVTE2NEFzZGF5VGV3RjFESk45YVlSYkI3QlBwWXBISjBRNGlfVlRGcGoxeHBOVnVYOHdRWDNTdmpBaTdUTXJYTHBUNEZzQXdjUjYwTndzeVhPVkRXU0hNSFFENEtyM1cxUmkyMHdmS3NTeVNRU2NFVHMzMmtndnVSc21XUmxjeVZ5alN1S3lZYlplTUpGbzgtZDhkQ2g5U2ZLcWVXOFVHZ1FpMGxvc2FSRDg5QQ?oc=5\" target=\"_blank\">Karnataka adds AI, cyber security to Computer Literacy Test for govt staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMi1YWUYtSk1DN2cwRGk3WkpvaFo2SkVQeVRteWxfREh2NGJOUlNMbU9fbUlQbHdhc3FOWWwzTDJub3lPT3NDSXAxRU9rMHdRdTFjSUFnblFHN19meGxEeE91V0Z5MHVJS2ZRREtzRkgtUG8wbnFhVlo3U2VVN0Fldnd5eFZnaXdTUkdDLWhwN1NCb2VsYjdZTHBUV2x1elpOSkZhOTl6aTR4aExWbVN0Y0JMQlY4dm5xOXNhbmdmYnQ1dWRvMnJpLWZneVp5MExr0gHeAUFVX3lxTE9QaGJOMnFkMXR1N0FMM2dBMm81eXhodFhqUGRFUkVwXzNGdGhpM1puVkwxVTE2NEFzZGF5VGV3RjFESk45YVlSYkI3QlBwWXBISjBRNGlfVlRGcGoxeHBOVnVYOHdRWDNTdmpBaTdUTXJYTHBUNEZzQXdjUjYwTndzeVhPVkRXU0hNSFFENEtyM1cxUmkyMHdmS3NTeVNRU2NFVHMzMmtndnVSc21XUmxjeVZ5alN1S3lZYlplTUpGbzgtZDhkQ2g5U2ZLcWVXOFVHZ1FpMGxvc2FSRDg5QQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "'AI disruption' sinks software project, Karnataka govt diverts allotted land for medical college",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdFBhUm5SMlRLQ1VKOVJ2WVlCOFQxeVJmRGhrQmtLdU1Pc0puYUhYZEhWaF9KWGJwYjEwa1VMQ3ZBaG1IT3ZEM0ZWNG01S3FwaThxSTM3SDNoZ0VKcDZyVmhKNGVFellmREJUN1A0YVgwLTE5d2d4OWxtMnVWeHlxMWpGOWJPTlZqVnNvY1VLWGhyLXRQRWhPbTBFUzhQbHZhUWppYlV4SG9ZUGZJQVNTalZ6R0dxaG01SXI3emsxNk1QMzNrd0lTOWVEVmZHaEVNV01HVjY5VUw3RVotdGVQYmdNOUFobmZVT2tFa3Z5Y2pZX2FIU3gzRQ?oc=5\" target=\"_blank\">'AI disruption' sinks software project, Karnataka govt diverts allotted land for medical college</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdFBhUm5SMlRLQ1VKOVJ2WVlCOFQxeVJmRGhrQmtLdU1Pc0puYUhYZEhWaF9KWGJwYjEwa1VMQ3ZBaG1IT3ZEM0ZWNG01S3FwaThxSTM3SDNoZ0VKcDZyVmhKNGVFellmREJUN1A0YVgwLTE5d2d4OWxtMnVWeHlxMWpGOWJPTlZqVnNvY1VLWGhyLXRQRWhPbTBFUzhQbHZhUWppYlV4SG9ZUGZJQVNTalZ6R0dxaG01SXI3emsxNk1QMzNrd0lTOWVEVmZHaEVNV01HVjY5VUw3RVotdGVQYmdNOUFobmZVT2tFa3Z5Y2pZX2FIU3gzRQ?oc=5",
+   "source_name": "Deccan Herald",
+   "source_domain": "deccanherald.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka Deputy Chief Minister DK Shivakumar says AI may cut 50% jobs, backs Bengaluru’s tech role",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRjhuZlQxbEZOTFU4NzRZaGl6bEdSU0xZOFB3TXlTb1ZlVHA3dUtOZHNCNzllM2NkREw1aE9OT1FZa0hLNzhtZ0M5V2sxTGlQZDJHSkNIRzVRTnFjalFMWGxsYTB4ekxDd3F3QXZfQl9wQ1lyNWw0MzFIamp2YjBOcTdZWi1sZkJMSE9YRHdVamxnZ01pbmcyR0dSWnluZ3hxSnh4SnZIWWM1ZEJCQmVUd2RCTkZkMFJ5UlloanhTTUtKdnBnRnh3WldCMU00WllrQkJCbHRhUzdwRnpSWWM4SHVB0gHnAUFVX3lxTFBxVDZOaGFvaGNEczRwQVBoamt0MHhNWFlqSHJmQTlET2pXSzJwbVlURUxXZWhyMjFJUjlMVGZ4Qm0xUkJyZVRral83a0swM0thSVY0ZWgzbjZ5R2JFNHBiTGxKVTZJWnlhai1GQkV2S0VvbXFTZmU0T2I3djdURTByRGFvenAybWl2bW5yb2tac3VhZ1ROcGxVeEFzYnRFd3RORnBzT2VQdm9hVUEzWWtTLTVOY3FaaVZZX2gwOGYxMUpJSTkyX3BDYkFGYVBWd2l0eGVlVTN4bHRtZjRjaGU3c190c0JxWQ?oc=5\" target=\"_blank\">Karnataka Deputy Chief Minister DK Shivakumar says AI may cut 50% jobs, backs Bengaluru’s tech role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Storyboard18</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRjhuZlQxbEZOTFU4NzRZaGl6bEdSU0xZOFB3TXlTb1ZlVHA3dUtOZHNCNzllM2NkREw1aE9OT1FZa0hLNzhtZ0M5V2sxTGlQZDJHSkNIRzVRTnFjalFMWGxsYTB4ekxDd3F3QXZfQl9wQ1lyNWw0MzFIamp2YjBOcTdZWi1sZkJMSE9YRHdVamxnZ01pbmcyR0dSWnluZ3hxSnh4SnZIWWM1ZEJCQmVUd2RCTkZkMFJ5UlloanhTTUtKdnBnRnh3WldCMU00WllrQkJCbHRhUzdwRnpSWWM4SHVB0gHnAUFVX3lxTFBxVDZOaGFvaGNEczRwQVBoamt0MHhNWFlqSHJmQTlET2pXSzJwbVlURUxXZWhyMjFJUjlMVGZ4Qm0xUkJyZVRral83a0swM0thSVY0ZWgzbjZ5R2JFNHBiTGxKVTZJWnlhai1GQkV2S0VvbXFTZmU0T2I3djdURTByRGFvenAybWl2bW5yb2tac3VhZ1ROcGxVeEFzYnRFd3RORnBzT2VQdm9hVUEzWWtTLTVOY3FaaVZZX2gwOGYxMUpJSTkyX3BDYkFGYVBWd2l0eGVlVTN4bHRtZjRjaGU3c190c0JxWQ?oc=5",
+   "source_name": "Storyboard18",
+   "source_domain": "storyboard18.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "St John’s Bengaluru to partner with French startup to deploy ‘AI agents’ for hospital management",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWRnd0VGampqeVFYeFBIQ2l5UXB0ZXZIMnh1UERfUDZmX2VQOHBuNm5kYW5NTDZwdlRxVjlrYzBVaHZTWEM1U3c3emM2WUxvLVpwWUZ4WHRhQnppT09tSlZ1eW5LNFRvUXlRQ2Zac0hMWFZwMUNOcC02aTJqQ0tIZW9WdXAxS09BRDJIVVpKMEdwajhGOWNxZVlhOEhCYnc5enpaRVdiT0VYVkQyU2dIODFERmV2SVFkZUJhcmJrb1pvd19UN0tGTEs0WmdoQzdDTm1ELUdDaFDSAd8BQVVfeXFMUEZjeDhEZ3RtelRDY0RkeUI5bndRaFYxak1wYmJjaU0tMFlXc3BZdGNwMEs1Tm12c3VINjd1TkY5TlhyZDdlRkEzdGxsTm1fdGxTYnhkOVNGZWZoUTFUMTdnak5QTXhvUkZoeWMwdF9wYU5meUk2Nm5raGFvVE1aY2lUQ0RPdkhVYXhTSFRLOE1HZ3dCaXd5dnFBZHFJcjFYUzR4TklEYXltZWRCZWNpV3k5c2J1dEN1Tnd0R2Rna2VSOU5jaC1xSUxIWjZLNURlMUtSeXp6d0htMDRodWdoRQ?oc=5\" target=\"_blank\">St John’s Bengaluru to partner with French startup to deploy ‘AI agents’ for hospital management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWRnd0VGampqeVFYeFBIQ2l5UXB0ZXZIMnh1UERfUDZmX2VQOHBuNm5kYW5NTDZwdlRxVjlrYzBVaHZTWEM1U3c3emM2WUxvLVpwWUZ4WHRhQnppT09tSlZ1eW5LNFRvUXlRQ2Zac0hMWFZwMUNOcC02aTJqQ0tIZW9WdXAxS09BRDJIVVpKMEdwajhGOWNxZVlhOEhCYnc5enpaRVdiT0VYVkQyU2dIODFERmV2SVFkZUJhcmJrb1pvd19UN0tGTEs0WmdoQzdDTm1ELUdDaFDSAd8BQVVfeXFMUEZjeDhEZ3RtelRDY0RkeUI5bndRaFYxak1wYmJjaU0tMFlXc3BZdGNwMEs1Tm12c3VINjd1TkY5TlhyZDdlRkEzdGxsTm1fdGxTYnhkOVNGZWZoUTFUMTdnak5QTXhvUkZoeWMwdF9wYU5meUk2Nm5raGFvVE1aY2lUQ0RPdkhVYXhTSFRLOE1HZ3dCaXd5dnFBZHFJcjFYUzR4TklEYXltZWRCZWNpV3k5c2J1dEN1Tnd0R2Rna2VSOU5jaC1xSUxIWjZLNURlMUtSeXp6d0htMDRodWdoRQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka Deputy Chief Minister D. K. Shivakumar has warned that AI could displace up to 50% of existing jobs in Bengaluru, mentioning the potential impact of rapid automation on India’s technology workforce. Speaking at the Network18 Future of Work Sum",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFMGpKdlA3NkRHdm1EckRGSlhQOEFUT3ZlTXBVcFRVY0xCLW9SaXdHRmhyQmdCU1VRcjR5ZXM0Q1hya0VlMVNxX0JQMHJOLUw1T1E?oc=5\" target=\"_blank\">Karnataka Deputy Chief Minister D. K. Shivakumar has warned that AI could displace up to 50% of existing jobs in Bengaluru, mentioning the potential impact of rapid automation on India’s technology workforce. Speaking at the Network18 Future of Work Sum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Instagram</font>",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFMGpKdlA3NkRHdm1EckRGSlhQOEFUT3ZlTXBVcFRVY0xCLW9SaXdHRmhyQmdCU1VRcjR5ZXM0Q1hya0VlMVNxX0JQMHJOLUw1T1E?oc=5",
+   "source_name": "Instagram",
+   "source_domain": "instagram.com",
+   "published_raw": "Fri, 01 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "UNSW, Deloitte India to launch AI CoE in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2E1VUcyNktGVzJDVkhJRFJaX3E2TVlvRDUweHp1MkNtUkRPZWd3R1JQZERyU1phVHo0bjJQMjB5SnBWZ0VWdFB2ZnBaZWRWQWM2bXpCZnFRX1RHZmhncFhpc21EbGtPNmRZRUFzc3R5V0tmVU4zSGJJa1o0Y05MWU5yVDNzRlljUUVLYTFyVFlYbEk?oc=5\" target=\"_blank\">UNSW, Deloitte India to launch AI CoE in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manufacturing Today India</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2E1VUcyNktGVzJDVkhJRFJaX3E2TVlvRDUweHp1MkNtUkRPZWd3R1JQZERyU1phVHo0bjJQMjB5SnBWZ0VWdFB2ZnBaZWRWQWM2bXpCZnFRX1RHZmhncFhpc21EbGtPNmRZRUFzc3R5V0tmVU4zSGJJa1o0Y05MWU5yVDNzRlljUUVLYTFyVFlYbEk?oc=5",
+   "source_name": "Manufacturing Today India",
+   "source_domain": "manufacturingtodayindia.com",
+   "published_raw": "Sat, 25 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Google for Startups, Antler India Launch AI Immersion Programme in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTElmUklJd0k2Qy00Ums4X2lpa1BLM2ZnMWl2VW82M0tHT1dRU1RZdm9ETVBfWGFPbl8tbWpwR05fZWRTWTVlSE9nVDNsVkx6VjZLWXpwdUpXVi03M0RwcGh5SS1QM01YRDdsRzhDOXloa2ZwdWxpTU1UTldiVk5Tc1pBd3NFYm42dnRkUXJ4SGlJNWxpTEdhU1llOGxZOHo4b0NkODZaMWtHcmdfcE41Y1VOelVjMmxrcURMaUhlWnJ0NVRWdTY0?oc=5\" target=\"_blank\">Google for Startups, Antler India Launch AI Immersion Programme in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entrepreneur India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTElmUklJd0k2Qy00Ums4X2lpa1BLM2ZnMWl2VW82M0tHT1dRU1RZdm9ETVBfWGFPbl8tbWpwR05fZWRTWTVlSE9nVDNsVkx6VjZLWXpwdUpXVi03M0RwcGh5SS1QM01YRDdsRzhDOXloa2ZwdWxpTU1UTldiVk5Tc1pBd3NFYm42dnRkUXJ4SGlJNWxpTEdhU1llOGxZOHo4b0NkODZaMWtHcmdfcE41Y1VOelVjMmxrcURMaUhlWnJ0NVRWdTY0?oc=5",
+   "source_name": "Entrepreneur India",
+   "source_domain": "entrepreneurindia.com",
+   "published_raw": "Sat, 09 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "UP govt cancels Rs 25,000 crore MoU signed with Bengaluru-based startup",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSnpEMnA0R2ZiWWN3eUp1cDFUZkRyMk1QSmFJMDhHOUxYZlhOcHJGTTJya2hTR2Y2N3ZDY1ZxSDFRQjhwWEwzZEpSZHpsMjljNmMxcmpRdmJvUWg2aWtVUzIzSkhlWnNSNkE5cDRuT1dqQ1hMU1NyZnBKcWlzQThpZG5QOGRfUFlZNW9OX0g5bnZmMS0wdVZEMU1rQk5QRjNVQkV4dGNST0s1WHNrb2IxU1ZlUnE3R2ozdVBvOXlTSFFIemJnYk9IbWdiaFlaa29zb0R1bkFXbHFob1M4S1drd0ZqTk14QWvSAewBQVVfeXFMTmlsQmlfMnlvbXV5dDNyMk5zckFmZWpHNFFnNmt4c3hiVHpKRUJ0LWpvRldpTzdmZVB1RXdJaVY3QWtfYW4wYlZrTXVfU0VsY1NqckhsM21FaGlJc3J3dkdSNmw2Ymhwd3lNdFNSOVJMWWdyUTN2UFZKaXBqOFVSd2Z6TjAwN1l6ODl3OXFWcG1WeWRJTzdHM283Yl9ock93bTdKUXRVUk9CREdlVERzSFhvTkd1QmgtSEVVaXF0dGF2Z3J1Z29nNnk5RzVNTGc0b3RtZ2NSZXZEVklyMFJOTExxUUV0Y3JHRmYydi0?oc=5\" target=\"_blank\">UP govt cancels Rs 25,000 crore MoU signed with Bengaluru-based startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSnpEMnA0R2ZiWWN3eUp1cDFUZkRyMk1QSmFJMDhHOUxYZlhOcHJGTTJya2hTR2Y2N3ZDY1ZxSDFRQjhwWEwzZEpSZHpsMjljNmMxcmpRdmJvUWg2aWtVUzIzSkhlWnNSNkE5cDRuT1dqQ1hMU1NyZnBKcWlzQThpZG5QOGRfUFlZNW9OX0g5bnZmMS0wdVZEMU1rQk5QRjNVQkV4dGNST0s1WHNrb2IxU1ZlUnE3R2ozdVBvOXlTSFFIemJnYk9IbWdiaFlaa29zb0R1bkFXbHFob1M4S1drd0ZqTk14QWvSAewBQVVfeXFMTmlsQmlfMnlvbXV5dDNyMk5zckFmZWpHNFFnNmt4c3hiVHpKRUJ0LWpvRldpTzdmZVB1RXdJaVY3QWtfYW4wYlZrTXVfU0VsY1NqckhsM21FaGlJc3J3dkdSNmw2Ymhwd3lNdFNSOVJMWWdyUTN2UFZKaXBqOFVSd2Z6TjAwN1l6ODl3OXFWcG1WeWRJTzdHM283Yl9ock93bTdKUXRVUk9CREdlVERzSFhvTkd1QmgtSEVVaXF0dGF2Z3J1Z29nNnk5RzVNTGc0b3RtZ2NSZXZEVklyMFJOTExxUUV0Y3JHRmYydi0?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka using AI to power welfare delivery, cybersecurity and citizen services: Centre for e-Governance CE..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNLVVBUUtRTHJweDVfQm9rY0Q3TGdWZmNRR2I0bTJ0YXctckhMOVhGZVdnaERPSlJSUkQ2WVBMLXhHR3YtV1pfaXk5RFZ0aHhTWUdPSDhIaWV5YmpCZl8ybFNCOUhJMzNhWlJ0RFhpWHZhMjI2dlktWUVBd2Mta0xONzI2YkRia3A1ODVJWWpJY2hRbl9VbUlyeVI1TDZCOHZ1Y05kdF9pUDNjbHZzc0VRSENaTGlnWl9GbjVaank1anRTZUZQTHo3QTE3TVlBYjZNMm11UHZUSW9rV3lCd1IwNlduWVJMRjlFTGprTU4zUVBhN2VWNk9MYjAzS1NNX3ZWWkdpVDdYVkt0UnB0T0HSAZICQVVfeXFMUDNxa2JMUmV4QlI2WVRxMFJqX2p5N2JFenhXb05KcDluakp3YWlJM0VJRVEzTUZXc0ROSWlVYlZrMWhwMXdtQjZTcGdyU3doMmJ1b09kZE9PSkpzUUtDZjRMbG1XSDgyVHNqbVJpSzV6ajJnOXpBYWwtaEI0Z3VuTk1RaVVEcG93b3JTSWhJeVVFUy1NRTJxTDdnRmFhQWQzYnpUdnFmWVg2YlJoSEVKUHBoZVpKZnVvVF9wNnRJeUJSMDhEbDJhMHBseF9zTFRCdTFwbVRabG1IYjlJUUJNRFBFY3NzYjk0czNHTHJQMFE1N0d2dGk2N1JmakN0YnRoNTdlaGhPa04wenhWUFpRV2ZWZw?oc=5\" target=\"_blank\">Karnataka using AI to power welfare delivery, cybersecurity and citizen services: Centre for e-Governance CE..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNLVVBUUtRTHJweDVfQm9rY0Q3TGdWZmNRR2I0bTJ0YXctckhMOVhGZVdnaERPSlJSUkQ2WVBMLXhHR3YtV1pfaXk5RFZ0aHhTWUdPSDhIaWV5YmpCZl8ybFNCOUhJMzNhWlJ0RFhpWHZhMjI2dlktWUVBd2Mta0xONzI2YkRia3A1ODVJWWpJY2hRbl9VbUlyeVI1TDZCOHZ1Y05kdF9pUDNjbHZzc0VRSENaTGlnWl9GbjVaank1anRTZUZQTHo3QTE3TVlBYjZNMm11UHZUSW9rV3lCd1IwNlduWVJMRjlFTGprTU4zUVBhN2VWNk9MYjAzS1NNX3ZWWkdpVDdYVkt0UnB0T0HSAZICQVVfeXFMUDNxa2JMUmV4QlI2WVRxMFJqX2p5N2JFenhXb05KcDluakp3YWlJM0VJRVEzTUZXc0ROSWlVYlZrMWhwMXdtQjZTcGdyU3doMmJ1b09kZE9PSkpzUUtDZjRMbG1XSDgyVHNqbVJpSzV6ajJnOXpBYWwtaEI0Z3VuTk1RaVVEcG93b3JTSWhJeVVFUy1NRTJxTDdnRmFhQWQzYnpUdnFmWVg2YlJoSEVKUHBoZVpKZnVvVF9wNnRJeUJSMDhEbDJhMHBseF9zTFRCdTFwbVRabG1IYjlJUUJNRFBFY3NzYjk0czNHTHJQMFE1N0d2dGk2N1JmakN0YnRoNTdlaGhPa04wenhWUFpRV2ZWZw?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Sat, 09 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "AI-based monitoring to boost Karnataka govt’s dialysis services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGZHSmVmaEp4YmpyODRVdFpScFdBWEgtTWZITlFlR2hhSGEyS0o0V25hQ2xlaGo3MmszWmRtVXhnLWFRYkZ1SkNZb2k0dUJMMXQ0UUVXSVAzWk4tUS1HQ0VuTlFDLWNqb0JnRHZrcG9Oa3pBQjJHOTB6LUZ5TTN6azA3ZWdNNXR3a2tsUWtNazRWUEx3RXc0X2lQZEdYd3Q3ZGpYcGxvalhxWXJ4SnZsbEJkWS1Od3d0V3BWNDJlMzBud9IBzwFBVV95cUxPMFlTQWhsUk8zUUo4ZW8yUjVqNjQzNFZhaEROdk1SaDFvZi1qSWRkQlRJaEZDTlRfb3BHMzMxS2dCb2czdmppVk1UTHY0WGdEM3hDV0xvZEZhV0xkRzE2Y09uODdIckdDT2UwMDUzNlhoUU1TeUZxaVplQWFINkZZZXVSaGNzNV9kenJKUG1XUnpxclZQYmdlR2l6OWtiYmtIV2ZOa01qeUo0TXRrbVB5OFpHbmRqUjVhZmN0V2ZuN1Q3dTZPOUwxNGEycjE5a0E?oc=5\" target=\"_blank\">AI-based monitoring to boost Karnataka govt’s dialysis services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGZHSmVmaEp4YmpyODRVdFpScFdBWEgtTWZITlFlR2hhSGEyS0o0V25hQ2xlaGo3MmszWmRtVXhnLWFRYkZ1SkNZb2k0dUJMMXQ0UUVXSVAzWk4tUS1HQ0VuTlFDLWNqb0JnRHZrcG9Oa3pBQjJHOTB6LUZ5TTN6azA3ZWdNNXR3a2tsUWtNazRWUEx3RXc0X2lQZEdYd3Q3ZGpYcGxvalhxWXJ4SnZsbEJkWS1Od3d0V3BWNDJlMzBud9IBzwFBVV95cUxPMFlTQWhsUk8zUUo4ZW8yUjVqNjQzNFZhaEROdk1SaDFvZi1qSWRkQlRJaEZDTlRfb3BHMzMxS2dCb2czdmppVk1UTHY0WGdEM3hDV0xvZEZhV0xkRzE2Y09uODdIckdDT2UwMDUzNlhoUU1TeUZxaVplQWFINkZZZXVSaGNzNV9kenJKUG1XUnpxclZQYmdlR2l6OWtiYmtIV2ZOa01qeUo0TXRrbVB5OFpHbmRqUjVhZmN0V2ZuN1Q3dTZPOUwxNGEycjE5a0E?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 03 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Bengaluru firm unveils two AI language models",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNckR0S1ZSeWlRTW9BbjdWRUhlSWItSF9YSTlEWVhLb3ZKVG9jOHlkaVB6SU1HNmdWWGZVeWJ6M0VYZzdPQWJrY3hiVnc2SVhnSElLYzNCTm05V0Q3LS1RbDRjcmRyem1iYmN1ZEwyUVYteTlmSVE4SjZySEhQdGVuZHZHczhDeElEQl95ZTFFNXZ5amtWVWpVdC1IY1k5WFlfVEFLcERFU3AtQTFLNThv0gG2AUFVX3lxTFB2NFE5ZDBFN0FDUWZiWG1zRGJqOHF4Uk1TNTZfOU1EM3c3bFNjTVV6clBMN1l2c2xEYjRIcVZ5NmNBOGU0MU92MWhUR0Jqdk1Yc2d2NnlCeTNWVDhxRE5rc01vSW1GbVhvX0F2MEswcmxfZjc0QklDd2FublF5ak1nQUNRNkNhLTV2Q3kwSGFxVDhxNTR1V0ZMMkJhYWVCUW5lQS1XWGN4ZmlqREJzOW1NbVpPVFl3?oc=5\" target=\"_blank\">Bengaluru firm unveils two AI language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckR0S1ZSeWlRTW9BbjdWRUhlSWItSF9YSTlEWVhLb3ZKVG9jOHlkaVB6SU1HNmdWWGZVeWJ6M0VYZzdPQWJrY3hiVnc2SVhnSElLYzNCTm05V0Q3LS1RbDRjcmRyem1iYmN1ZEwyUVYteTlmSVE4SjZySEhQdGVuZHZHczhDeElEQl95ZTFFNXZ5amtWVWpVdC1IY1k5WFlfVEFLcERFU3AtQTFLNThv0gG2AUFVX3lxTFB2NFE5ZDBFN0FDUWZiWG1zRGJqOHF4Uk1TNTZfOU1EM3c3bFNjTVV6clBMN1l2c2xEYjRIcVZ5NmNBOGU0MU92MWhUR0Jqdk1Yc2d2NnlCeTNWVDhxRE5rc01vSW1GbVhvX0F2MEswcmxfZjc0QklDd2FublF5ak1nQUNRNkNhLTV2Q3kwSGFxVDhxNTR1V0ZMMkJhYWVCUW5lQS1XWGN4ZmlqREJzOW1NbVpPVFl3?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "IBM Launches Its First Infrastructure Innovation Center in India to Accelerate Enterprise-Scale AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZldYZ1JWbE91MjM3a0doOS16UVpJd1gtQUlldlAtaktBdFgtVzhmbWE4ZTlVNndnR29UODdTRkxiOG5GNGZ5dEp2aVIya0JwVllyM1NyZERnMGtjMDBBRnltU29lQ0lzNDNDTmtCeV9qdUFkRk1uN1AwNW83LWViNWk0WDU3MXBXZ25JMDBlaWdvMjN6d002OXp0dFdDOGZSQ0ZuQUN4OFFXM0hodEFmWHRyRFBFTVBGam1IcGtHeGVPOVdI?oc=5\" target=\"_blank\">IBM Launches Its First Infrastructure Innovation Center in India to Accelerate Enterprise-Scale AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZldYZ1JWbE91MjM3a0doOS16UVpJd1gtQUlldlAtaktBdFgtVzhmbWE4ZTlVNndnR29UODdTRkxiOG5GNGZ5dEp2aVIya0JwVllyM1NyZERnMGtjMDBBRnltU29lQ0lzNDNDTmtCeV9qdUFkRk1uN1AwNW83LWViNWk0WDU3MXBXZ25JMDBlaWdvMjN6d002OXp0dFdDOGZSQ0ZuQUN4OFFXM0hodEFmWHRyRFBFTVBGam1IcGtHeGVPOVdI?oc=5",
+   "source_name": "IBM",
+   "source_domain": "in.newsroom.ibm.com",
+   "published_raw": "Wed, 04 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Bengaluru to launch Asia’s largest AI command centre to detect water leaks, predict demand in real-time",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUlRuaXUtQkZtRDRsQUJrWFBIVUZsUFd5dDZIVW9FWTZCcUIwcktIQnJ2WUdqOTBneU5zSHVaOFNycUFRanRPeVhqUnJHY24ySnlTMFJ6Wlh3Sjh3a1VQVEVqZl9CbkR5bWFqa1FaVGxEVW4zMUZXTEwwdmZHRmJGYURZOWppOXRod1MyWHdjRkRRSlJHMU1ZdFJqM1BzT1FTbG5PLUpfZ2hSakZ1UElfX2V3UkJHelhpTk1kSTZGOXc3VDExeUJCeFJ5N3RKNldWazVoMVRmYTRRejVSTEdVMEVqUWZIYnJxRDk2cWpRUFhSWU9S0gH7AUFVX3lxTFBoSTlVdld2WlZseTJ1eV8zbzRrWi1TbW00ZlNmNlhGUmw4RG1LX25sTVRTekdLTUhnM3VmYkpuUkwtS0M1SkVDMTdUWXBGaWY1V0EwSGNVV2FQS0lKZkdEMFRmbzZoWGtoRUROUWg3MVRSMnIyOFFoYmIydzZuVk5iSWhQbTRrSVpOTC1XR1V4c0RvU0FReHVhaTN4cmNDNFI0blJfNG9ldy03cFFuOWZBelJGMTI3NGZpX3dxYmpVOFdmZG0xelRlak5NV2hOT090YlVvbzNTOVZsdkJXODV5OWdFTGtwZjByZWctUmpjUGdXOWxwdnlYelo0?oc=5\" target=\"_blank\">Bengaluru to launch Asia’s largest AI command centre to detect water leaks, predict demand in real-time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUlRuaXUtQkZtRDRsQUJrWFBIVUZsUFd5dDZIVW9FWTZCcUIwcktIQnJ2WUdqOTBneU5zSHVaOFNycUFRanRPeVhqUnJHY24ySnlTMFJ6Wlh3Sjh3a1VQVEVqZl9CbkR5bWFqa1FaVGxEVW4zMUZXTEwwdmZHRmJGYURZOWppOXRod1MyWHdjRkRRSlJHMU1ZdFJqM1BzT1FTbG5PLUpfZ2hSakZ1UElfX2V3UkJHelhpTk1kSTZGOXc3VDExeUJCeFJ5N3RKNldWazVoMVRmYTRRejVSTEdVMEVqUWZIYnJxRDk2cWpRUFhSWU9S0gH7AUFVX3lxTFBoSTlVdld2WlZseTJ1eV8zbzRrWi1TbW00ZlNmNlhGUmw4RG1LX25sTVRTekdLTUhnM3VmYkpuUkwtS0M1SkVDMTdUWXBGaWY1V0EwSGNVV2FQS0lKZkdEMFRmbzZoWGtoRUROUWg3MVRSMnIyOFFoYmIydzZuVk5iSWhQbTRrSVpOTC1XR1V4c0RvU0FReHVhaTN4cmNDNFI0blJfNG9ldy03cFFuOWZBelJGMTI3NGZpX3dxYmpVOFdmZG0xelRlak5NV2hOT090YlVvbzNTOVZsdkJXODV5OWdFTGtwZjByZWctUmpjUGdXOWxwdnlYelo0?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "BWSSB-IISc deploy AI for groundwater analysis",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0hkS0FXbEZEN0xHSHdDelY4aktRYk42LXpVS2UtNnFtdVhwZFBkVUxXZnVUNEt4Uy1mZlFHVWZudXB4TmVzRTBxanNwMHNIMjJBUV9MbGxBRkVhUGRuWWl4aU1aai1YVUxxNmw4Wjk4eHZNamVwbHVZTXlOUkp3eHBkVnFsNGN1SFZwaGFtUW9HekR4OVMzZG51QjdDaWFSS0FCQ1hFTjFZQUHSAbgBQVVfeXFMTllRZWFRdnRDYlBMZUF5M2dtYjR4bTBKckxUUnhib3BSWlZuYzlKekRLbzk4bFVzeEtOckctR2JLelhTQjhTMG1WMVc2YjRuc1E2cjJqU05IMXFNWHJheGpPQXRoVGthYVQ2U3JPNjJsWGRNamZLdUZ2REdKNk1TMGE3cEtOa0d1cWZndUVpWDVMYkwxMlRnbEV4MlVNVElSQ1lCLW0tNDVOVE9DdzJrZHpwSFk2cm1Scw?oc=5\" target=\"_blank\">BWSSB-IISc deploy AI for groundwater analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0hkS0FXbEZEN0xHSHdDelY4aktRYk42LXpVS2UtNnFtdVhwZFBkVUxXZnVUNEt4Uy1mZlFHVWZudXB4TmVzRTBxanNwMHNIMjJBUV9MbGxBRkVhUGRuWWl4aU1aai1YVUxxNmw4Wjk4eHZNamVwbHVZTXlOUkp3eHBkVnFsNGN1SFZwaGFtUW9HekR4OVMzZG51QjdDaWFSS0FCQ1hFTjFZQUHSAbgBQVVfeXFMTllRZWFRdnRDYlBMZUF5M2dtYjR4bTBKckxUUnhib3BSWlZuYzlKekRLbzk4bFVzeEtOckctR2JLelhTQjhTMG1WMVc2YjRuc1E2cjJqU05IMXFNWHJheGpPQXRoVGthYVQ2U3JPNjJsWGRNamZLdUZ2REdKNk1TMGE3cEtOa0d1cWZndUVpWDVMYkwxMlRnbEV4MlVNVElSQ1lCLW0tNDVOVE9DdzJrZHpwSFk2cm1Scw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka to roll out AI-based Kaveri 3.0 registration system, GIS land stack under Budget 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc2ltai00Qk0yaWtWaGgzclRBS2x0VUoxS3RuZFVCeDBYbFBaZ2c0YjNucXJibHFuN2NrVEJGa0oxeWMxd1ZYNHhDc2c5Ti1HalptS3VtLTc4R2k1NlY5NV9yTTl0SGdUSzlMUDNqeW1rYXU4Zm1ZWE45bVFVbDJQS2pJU0Y4WV9ORllVcE5la3RVRG03T3c2MVFvOFBpUDdJM2stWDBucFBOTHpfM0FqTEJDVlNrR2tXVTlZdzE3allnTzkwMnFqTE1rUExhQlY2YTVNa1VQOGJxQzJmZVZHNGl0MHR5cm9maXJCLU00aDZuTG1J0gH6AUFVX3lxTE9zb19ZTnVIWWV6SndLemtpUkxtQVBSSkZLWmN1VzBBN1AzR2NjMHVBT3ZqNjRDdkpzRmtVeVI5dnFTT3VYMDlSTGxka3lkNHUyRHY5MEtzVHB2ZlFvVUFiUjExbGlwRDdzSV92bkdtamJ2S3QwWXF5SnA5dk5weU9pSjZtVXJOb3EzMVhqVE1ZOUwtWERvMkYwTHRqbjlnVGdrekRteUkzUkh5WEZncTdTdVJ6c1N1LVV0NGx3N3JPTFk4U1BEa1Jqd1I5QXF0X3dPZDJwLUlXcGhyRjdHS2FpaHhnRndYRzNlOG43WC0tZG0tT0FrZ1dTS0E?oc=5\" target=\"_blank\">Karnataka to roll out AI-based Kaveri 3.0 registration system, GIS land stack under Budget 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Realty</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc2ltai00Qk0yaWtWaGgzclRBS2x0VUoxS3RuZFVCeDBYbFBaZ2c0YjNucXJibHFuN2NrVEJGa0oxeWMxd1ZYNHhDc2c5Ti1HalptS3VtLTc4R2k1NlY5NV9yTTl0SGdUSzlMUDNqeW1rYXU4Zm1ZWE45bVFVbDJQS2pJU0Y4WV9ORllVcE5la3RVRG03T3c2MVFvOFBpUDdJM2stWDBucFBOTHpfM0FqTEJDVlNrR2tXVTlZdzE3allnTzkwMnFqTE1rUExhQlY2YTVNa1VQOGJxQzJmZVZHNGl0MHR5cm9maXJCLU00aDZuTG1J0gH6AUFVX3lxTE9zb19ZTnVIWWV6SndLemtpUkxtQVBSSkZLWmN1VzBBN1AzR2NjMHVBT3ZqNjRDdkpzRmtVeVI5dnFTT3VYMDlSTGxka3lkNHUyRHY5MEtzVHB2ZlFvVUFiUjExbGlwRDdzSV92bkdtamJ2S3QwWXF5SnA5dk5weU9pSjZtVXJOb3EzMVhqVE1ZOUwtWERvMkYwTHRqbjlnVGdrekRteUkzUkh5WEZncTdTdVJ6c1N1LVV0NGx3N3JPTFk4U1BEa1Jqd1I5QXF0X3dPZDJwLUlXcGhyRjdHS2FpaHhnRndYRzNlOG43WC0tZG0tT0FrZ1dTS0E?oc=5",
+   "source_name": "ET Realty",
+   "source_domain": "realty.economictimes.indiatimes.com",
+   "published_raw": "Sat, 07 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Breaking the language barrier: Bengaluru police launch India’s first AI-powered multilingual 112 helpline",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXJJRVNRVEtfeWtSbVU0d21uUUJRSmhDTFF5eTRxUDR2bHRlbGo4OW5ZVE1qQmZyVkhydHBBbllxTkMyTXA0YUJaa3hIVmNoQ3hMQ1ZGcmdfR1k0Z3VlNkJkeVNBZ2Ztemg4T2FxLTNwY09qZU1JMXFYdlYtZlNvaHVxaks4OUtjWHVfMGo4X3pLdG0zQXdHSmRGdEQtanlDY0ZValA0Tmh2RmFKLVIwQ1g1eng4VTFk0gG_AUFVX3lxTFBiTi1IRWJ6VkFsQk5pb2J5UUZaZHNkVzc0YUpMNVR5STZVTzAzZnQtVy1ocncyeXVHQzJEelJhaFRBWFYtTVpqc1NZNDJjLXlWd0pvT2RSRFJtUFNUS2F1VUt6NGZ5NlNUclV0eDRNSjhOR3hfVjRZeWxROWVCd2dTcjlvT0p5WlhfbU1TZ004QzBoMG01NHEzZFUzdVpad1RaWlNZZFdmb1JwQ29haThUYnNUdlotMU9UVkRSN09V?oc=5\" target=\"_blank\">Breaking the language barrier: Bengaluru police launch India’s first AI-powered multilingual 112 helpline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXJJRVNRVEtfeWtSbVU0d21uUUJRSmhDTFF5eTRxUDR2bHRlbGo4OW5ZVE1qQmZyVkhydHBBbllxTkMyTXA0YUJaa3hIVmNoQ3hMQ1ZGcmdfR1k0Z3VlNkJkeVNBZ2Ztemg4T2FxLTNwY09qZU1JMXFYdlYtZlNvaHVxaks4OUtjWHVfMGo4X3pLdG0zQXdHSmRGdEQtanlDY0ZValA0Tmh2RmFKLVIwQ1g1eng4VTFk0gG_AUFVX3lxTFBiTi1IRWJ6VkFsQk5pb2J5UUZaZHNkVzc0YUpMNVR5STZVTzAzZnQtVy1ocncyeXVHQzJEelJhaFRBWFYtTVpqc1NZNDJjLXlWd0pvT2RSRFJtUFNUS2F1VUt6NGZ5NlNUclV0eDRNSjhOR3hfVjRZeWxROWVCd2dTcjlvT0p5WlhfbU1TZ004QzBoMG01NHEzZFUzdVpad1RaWlNZZFdmb1JwQ29haThUYnNUdlotMU9UVkRSN09V?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "UP govt scraps ₹25,000 crore MoU with Bengaluru-based Puch AI citing credibility concerns",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdldqMVBMc2hfRUtKUE4yaHJYeURVVHNWdE5qVkVra3ZTanBXYWZVSktmOU1XVHRTWUZKZVoxaEk5Yjg4b3BKdEhGcnIzNElrTnlIbldOem5hckRlOEhOSUxiY1E4NFF5QmRpZjFIT1lwMWNmZS1hUkdJUkR4YmRBSHBfS01maGdicm5WZlhOeDA5ZFZpa0ZZQUhaRVlRemFZLTlJTDZvcnJkaGdwZzd2ODhqVUw0SWZha3dKckc5MEF2NGpvMG9PSXBSUFVmOHh0TzJ6NXMtRTNPQl9sM3FkZnhzUS14YkNLWXRiZUtfc0ctUdIB9wFBVV95cUxPamZlQnlweHhsRGZBQUxiUXdUVWJPUGZVV05LMWEzRlphaVExVzlMY0ZFandONmtvazI1NWREWHZ1YkN3LS1USW9LYTJsc0RSeW9seFdtS1RtSTdfTzFNTjZWV2JiYUQ1RWtZTXloelVpVzZiRDZRclZBcGozSjVXa05pS0l5b0l4Mzc1T1RJb1ZhajlhNkNEZEFwMExiOUhLM3pBdUw4Nmw1cWkyUXdvRlJXRmpoNks1SWMteEptc3NSbkowS1J0RG1zQTNqcVUxd1NldE9aVTJPT3dKSHFjY0lPX2cwckpjeDhlN0Y5cjZJcFdoWGlF?oc=5\" target=\"_blank\">UP govt scraps ₹25,000 crore MoU with Bengaluru-based Puch AI citing credibility concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdldqMVBMc2hfRUtKUE4yaHJYeURVVHNWdE5qVkVra3ZTanBXYWZVSktmOU1XVHRTWUZKZVoxaEk5Yjg4b3BKdEhGcnIzNElrTnlIbldOem5hckRlOEhOSUxiY1E4NFF5QmRpZjFIT1lwMWNmZS1hUkdJUkR4YmRBSHBfS01maGdicm5WZlhOeDA5ZFZpa0ZZQUhaRVlRemFZLTlJTDZvcnJkaGdwZzd2ODhqVUw0SWZha3dKckc5MEF2NGpvMG9PSXBSUFVmOHh0TzJ6NXMtRTNPQl9sM3FkZnhzUS14YkNLWXRiZUtfc0ctUdIB9wFBVV95cUxPamZlQnlweHhsRGZBQUxiUXdUVWJPUGZVV05LMWEzRlphaVExVzlMY0ZFandONmtvazI1NWREWHZ1YkN3LS1USW9LYTJsc0RSeW9seFdtS1RtSTdfTzFNTjZWV2JiYUQ1RWtZTXloelVpVzZiRDZRclZBcGozSjVXa05pS0l5b0l4Mzc1T1RJb1ZhajlhNkNEZEFwMExiOUhLM3pBdUw4Nmw1cWkyUXdvRlJXRmpoNks1SWMteEptc3NSbkowS1J0RG1zQTNqcVUxd1NldE9aVTJPT3dKSHFjY0lPX2cwckpjeDhlN0Y5cjZJcFdoWGlF?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "DK Shivakumar predicts 50% job cut in Bengaluru due to AI, worried netizens react",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDNxa2RGME8wQmFGN1B3VFljaDlxVmZXSl9RZl90VzJhTUxXRzN2clBMWWJISkRGS0lmQ09JaWR2bnhMNi1YZUhCZEFYbkRrMnoyUE9lRnFnLUtwbXFrbkNoVXV2LVpXb3ZQQzkwR01BTUNWMHVCTWRtRzhQcGNkSmd0SUl1SkNYaHl4anBMQUgxQjlrZ3dyMC01OTJHUnY2MHRLcU9Tb0RlY0hfQ3YyYWxBdHdsLURhZ241Z0NvTkkxYmNtdmFlTzVqajFzOEo5THfSAdcBQVVfeXFMT1hSS2NXYnBxeFN0QXhrM05JOV9pVTgzRUZ4bTB6d1NWa0pmRS1hOUVLUzRsdFpfQU1YbHZXVXVoLUNfVVRqSU92MXNlWlRHTmpTMFE4aXhzWE5uNmcyNFR1MENKbkpTZVRCc2RCNmh4Q0JORXVSd1FoNHNNX3VRcGVpOEZESWtWU1pNWVAxOUNabmJTdUl2bVJnOW9aWmU4NkFUUmxieDNoTWtiWi1NSng2ZXhXVXg2RnRESnFvR3NBelF4cF9nVWpCcklSRmgxeTVUd050WXM?oc=5\" target=\"_blank\">DK Shivakumar predicts 50% job cut in Bengaluru due to AI, worried netizens react</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDNxa2RGME8wQmFGN1B3VFljaDlxVmZXSl9RZl90VzJhTUxXRzN2clBMWWJISkRGS0lmQ09JaWR2bnhMNi1YZUhCZEFYbkRrMnoyUE9lRnFnLUtwbXFrbkNoVXV2LVpXb3ZQQzkwR01BTUNWMHVCTWRtRzhQcGNkSmd0SUl1SkNYaHl4anBMQUgxQjlrZ3dyMC01OTJHUnY2MHRLcU9Tb0RlY0hfQ3YyYWxBdHdsLURhZ241Z0NvTkkxYmNtdmFlTzVqajFzOEo5THfSAdcBQVVfeXFMT1hSS2NXYnBxeFN0QXhrM05JOV9pVTgzRUZ4bTB6d1NWa0pmRS1hOUVLUzRsdFpfQU1YbHZXVXVoLUNfVVRqSU92MXNlWlRHTmpTMFE4aXhzWE5uNmcyNFR1MENKbkpTZVRCc2RCNmh4Q0JORXVSd1FoNHNNX3VRcGVpOEZESWtWU1pNWVAxOUNabmJTdUl2bVJnOW9aWmU4NkFUUmxieDNoTWtiWi1NSng2ZXhXVXg2RnRESnFvR3NBelF4cF9nVWpCcklSRmgxeTVUd050WXM?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Fri, 01 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:47+00:00"
+  }
+ ]
+}

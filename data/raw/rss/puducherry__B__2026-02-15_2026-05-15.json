@@ -1,0 +1,109 @@
+{
+ "region": "Puducherry",
+ "group": "B",
+ "query": "(Puducherry) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Puducherry%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:14+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "AINRC Gains as BJP Slips, NDA Retains Power in Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjRrM3oxelNrYTZRYU96YWdyalVPaVBTY2hxNlREdWxXdFk0aHRzNUVBMndKOGFnLU92eHdySjVaeHJTU25MOWxfQVpZdFBGWkJIQTR4YUNPX0FRNHd0VWE0NnpycEZzWWFCckFuMHFNRFlVcnp6NjRKRWhPRVJpVjJqVGR6cWE0VS15VkJUZzRsanh4dHlySUJ4UlNfb19RMndTN1FERnNhWUhYck51MFFiT2dld9IBvAFBVV95cUxPX0JEQVVIelgtaG1PYzRJTUFJbjdJelp3X2VURkpkRFgxcGlGZ0QwSzlqeUpYZ3lPUjI0NXhGLXBZUm8yRlR2N1NKVHZQREtRRmN0QkFLek1vY3Q5cDBRSVVPLTB3am9vWDBRQ2k2NHBkckVlc3dmUk5Yak5jbVZxZjhWMVVOR0t2TEhSNks2dVZic1dtdlh3dHVfa08yZ2dMcDVocnctYmstVFp3OGFCVmFienpRaS1WZWF4Xw?oc=5\" target=\"_blank\">AINRC Gains as BJP Slips, NDA Retains Power in Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjRrM3oxelNrYTZRYU96YWdyalVPaVBTY2hxNlREdWxXdFk0aHRzNUVBMndKOGFnLU92eHdySjVaeHJTU25MOWxfQVpZdFBGWkJIQTR4YUNPX0FRNHd0VWE0NnpycEZzWWFCckFuMHFNRFlVcnp6NjRKRWhPRVJpVjJqVGR6cWE0VS15VkJUZzRsanh4dHlySUJ4UlNfb19RMndTN1FERnNhWUhYck51MFFiT2dld9IBvAFBVV95cUxPX0JEQVVIelgtaG1PYzRJTUFJbjdJelp3X2VURkpkRFgxcGlGZ0QwSzlqeUpYZ3lPUjI0NXhGLXBZUm8yRlR2N1NKVHZQREtRRmN0QkFLek1vY3Q5cDBRSVVPLTB3am9vWDBRQ2k2NHBkckVlc3dmUk5Yak5jbVZxZjhWMVVOR0t2TEhSNks2dVZic1dtdlh3dHVfa08yZ2dMcDVocnctYmstVFp3OGFCVmFienpRaS1WZWF4Xw?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Wed, 06 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5\" target=\"_blank\">Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Congress, BJP Workers clash in Puducherry Over AI Summit Protest",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0UwVl9YbzRzejVNeWxvWHVod0hTcERwLWNMQjcwOFp3am84ZHd0anZBZjlrdUYxQVhtX2p4cGVpREJsTUYzYWpXaDZ0M0QtNG51TldCSWN5d0ZrSFBvMzVUZE5jR0xUZkVLR2Jnb0hTcmlxaGdjcVdMck02QmtxOEtyZFNVbEVuSEFtU1Y3ckoyQ2Itcnl6d2N0YTVWSTM4SWdGdDJTcDRfZWJjcE03MzBwR2o4ajQxY1l1aUJOTllidw?oc=5\" target=\"_blank\">Congress, BJP Workers clash in Puducherry Over AI Summit Protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0UwVl9YbzRzejVNeWxvWHVod0hTcERwLWNMQjcwOFp3am84ZHd0anZBZjlrdUYxQVhtX2p4cGVpREJsTUYzYWpXaDZ0M0QtNG51TldCSWN5d0ZrSFBvMzVUZE5jR0xUZkVLR2Jnb0hTcmlxaGdjcVdMck02QmtxOEtyZFNVbEVuSEFtU1Y3ckoyQ2Itcnl6d2N0YTVWSTM4SWdGdDJTcDRfZWJjcE03MzBwR2o4ajQxY1l1aUJOTllidw?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Rangasamy Set for Fifth Term as Puducherry CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1I0LXNQcUR4UWxGRkUyN05ENkVWVThrVFJDRG4tOWtlVmIwRGVwekp6dUZ0ZTcxTTFySl9obTdtMDJsd3VEODhvNGFjWmRCWERuZXFndDR3MUNtZGUxTk03Q19GSWlqSFpWMmxaSXhZLXQ4ZzF4MTNlVEtBX3VxUXlwZ09FUFdrU2R4cFdaWGoyZ1d6a05TOExRNFdQckRuX0p3SEJJRnA0ZHN3S0HSAbMBQVVfeXFMTmlCVHRNakU4VkNNTUVMeU9wWWxFQmRFSlE3b3QzT21vNW1GLUNLQ0EtNUpmblZQU0hKTjliYUwxbVhGMG9yNE5rekl6S3FwekpwbjJsOXI4YUNKZWt4RGFzREJQVkZ2bzBLRVdCX3FvWG1Pd0QtLWJJNGFOcDdlY0ZZU0pMRGRLLVFUZ2pzcngzMlZCUzhNOFQydWJ2bU5YUmthWEZoRWdEdVl2WlAxc1Jmc00?oc=5\" target=\"_blank\">Rangasamy Set for Fifth Term as Puducherry CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1I0LXNQcUR4UWxGRkUyN05ENkVWVThrVFJDRG4tOWtlVmIwRGVwekp6dUZ0ZTcxTTFySl9obTdtMDJsd3VEODhvNGFjWmRCWERuZXFndDR3MUNtZGUxTk03Q19GSWlqSFpWMmxaSXhZLXQ4ZzF4MTNlVEtBX3VxUXlwZ09FUFdrU2R4cFdaWGoyZ1d6a05TOExRNFdQckRuX0p3SEJJRnA0ZHN3S0HSAbMBQVVfeXFMTmlCVHRNakU4VkNNTUVMeU9wWWxFQmRFSlE3b3QzT21vNW1GLUNLQ0EtNUpmblZQU0hKTjliYUwxbVhGMG9yNE5rekl6S3FwekpwbjJsOXI4YUNKZWt4RGFzREJQVkZ2bzBLRVdCX3FvWG1Pd0QtLWJJNGFOcDdlY0ZZU0pMRGRLLVFUZ2pzcngzMlZCUzhNOFQydWJ2bU5YUmthWEZoRWdEdVl2WlAxc1Jmc00?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "BJP Makes Major Gains in 3 of 5 State Assembly Elections",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUw1VllLcUJpOWRMTGZkakQzU2hKRm9oSUxrNHB1SGtoeTRUUkVBTTB2eXdVTWxHYmVzZGlSWkNrUWJ1cUhKdUtQSmg4azRPcnVRVTF0MHR6VjVOMF9uaFA2MEtaMDF0SEhISktTRG5xS05teHhSR1lTV2U4d0NKM2l0ZVdlYjQ1c055WDN6N2M3Njg?oc=5\" target=\"_blank\">BJP Makes Major Gains in 3 of 5 State Assembly Elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUw1VllLcUJpOWRMTGZkakQzU2hKRm9oSUxrNHB1SGtoeTRUUkVBTTB2eXdVTWxHYmVzZGlSWkNrUWJ1cUhKdUtQSmg4azRPcnVRVTF0MHR6VjVOMF9uaFA2MEtaMDF0SEhISktTRG5xS05teHhSR1lTV2U4d0NKM2l0ZVdlYjQ1c055WDN6N2M3Njg?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "AIADMK’s Slide in Puducherry Signals BJP’s Growing Leverage",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUlCY2ZicXQ5b0xLZmcwWjJsS3hIek02LThlVUtBUFlSX1JpajJ1MUVSeFB2czRoM09oci01dHJ3aHFvTHdrZW9OS3ZONUMyMk04ZGZQV3lKc2l6QkJVMEFEMkVvbUVoX0tTYkRkUlUyaXdxc1RqcWlRSEk3bnV4b0NzcFdNcVlITmlxUEZvLU1EVGg0V2l4aXR4MzNrZVRZb2pWVFRVb3lsbThQU2lHb3M0X0FYY2vSAb4BQVVfeXFMTnBnd3kwZVp1RDN4YVREaFU4QkxuenYxYlY3bG80UjNWZ01sRDd0bHJ4U1hpTS1VMzREbVR0RjJkTWdtYzhuZ0Z2M1dndzhnUGliZEV6RmI4UWJGSGd3OEU2Mlk5WFlla0hzcXBraWhHTC1pUmtRZFNfMk9fZllvMmlwZG0xZGNTbmV3bldBZFlLdHlYYXVjMFMzUEltenRVOHlnYmFmUTFWODFfQjFtZDZtSnlZTkxvVFVQbjF4Zw?oc=5\" target=\"_blank\">AIADMK’s Slide in Puducherry Signals BJP’s Growing Leverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUlCY2ZicXQ5b0xLZmcwWjJsS3hIek02LThlVUtBUFlSX1JpajJ1MUVSeFB2czRoM09oci01dHJ3aHFvTHdrZW9OS3ZONUMyMk04ZGZQV3lKc2l6QkJVMEFEMkVvbUVoX0tTYkRkUlUyaXdxc1RqcWlRSEk3bnV4b0NzcFdNcVlITmlxUEZvLU1EVGg0V2l4aXR4MzNrZVRZb2pWVFRVb3lsbThQU2lHb3M0X0FYY2vSAb4BQVVfeXFMTnBnd3kwZVp1RDN4YVREaFU4QkxuenYxYlY3bG80UjNWZ01sRDd0bHJ4U1hpTS1VMzREbVR0RjJkTWdtYzhuZ0Z2M1dndzhnUGliZEV6RmI4UWJGSGd3OEU2Mlk5WFlla0hzcXBraWhHTC1pUmtRZFNfMk9fZllvMmlwZG0xZGNTbmV3bldBZFlLdHlYYXVjMFMzUEltenRVOHlnYmFmUTFWODFfQjFtZDZtSnlZTkxvVFVQbjF4Zw?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Mon, 23 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "State elections 2026 top developments: BJP eyes third term in Assam, NDA and Cong-DMK face-off in Puduche",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMUoyVDdHMzhKSk9DcWlCVHFsaHhQREp3cEVIbk9qWFZ5MGJZd0xiR2NkQ2RzRkNmMHdSYmNaZGs0N1o5YmIxcXNyVUxOR1lfY3oxMUtrVXROMUt3eVcyRnZPUkhvWWVYeVBLWmt6cTg5a3ptZWpMUzBvYTN4bFlPenFrR1NDTk1GN1Q5RHhCbndGUTY0LUloS3hpWWZOaFphRHpSc1YycmhxTjdZdTRSSjlMTlBVbVYza2h3MGN5ekthalhsUHRlNl9RNnhpcGVmd3NucnZTem81XzRjRlhudTFSaExaLTJVTVNmWEliUmlGTVVSdGRIZ25xdDNtN2hRQ3ZLMklMT0oxdDI2cWNCc2tnQ2JxcUNmNVZuMVFSeXFFT0JkR0x4Z05lSHQwWjlsNWNHWTB3TjPSAb4CQVVfeXFMTmVReDRIVjhWVUluMjZDZW9YTXRvaFNyUU5MUEVRNE51eGtEckZHbGxPSzUzcGlmNUI3WlhzZjJ5SHdETW52eEt0N2N4RDZud1pGRnRCRjFsWXBoQjRIdHZMRVFOWmZSbFVOc0hwNDNrWm9MaFYxZ09Dd0hpak4zeC1JNWNkcUEwTkRuZTNOZ3BXRGtlb3B3dTJUVFlLQm5IRFpNcS10MXpPRFZLdnJOMVNEcFhoZ0NjcEloaG54QWt4VS1XU290am9JTlpRM0s3RkVhbnc2MzZMTHRzWEhQU0FMR1N2TVZJM09JbHlnMmJBTFFOOVdOcnJ6LUc2VEdfZzJYSWVMaDhzTmZmNERBMEhFdkZsUF90dmF6SkJxZ2pkYWhacXNEZ09ZYzlzbWVQZWVOZkFlMEFqWW5qbjl3?oc=5\" target=\"_blank\">State elections 2026 top developments: BJP eyes third term in Assam, NDA and Cong-DMK face-off in Puduche</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMUoyVDdHMzhKSk9DcWlCVHFsaHhQREp3cEVIbk9qWFZ5MGJZd0xiR2NkQ2RzRkNmMHdSYmNaZGs0N1o5YmIxcXNyVUxOR1lfY3oxMUtrVXROMUt3eVcyRnZPUkhvWWVYeVBLWmt6cTg5a3ptZWpMUzBvYTN4bFlPenFrR1NDTk1GN1Q5RHhCbndGUTY0LUloS3hpWWZOaFphRHpSc1YycmhxTjdZdTRSSjlMTlBVbVYza2h3MGN5ekthalhsUHRlNl9RNnhpcGVmd3NucnZTem81XzRjRlhudTFSaExaLTJVTVNmWEliUmlGTVVSdGRIZ25xdDNtN2hRQ3ZLMklMT0oxdDI2cWNCc2tnQ2JxcUNmNVZuMVFSeXFFT0JkR0x4Z05lSHQwWjlsNWNHWTB3TjPSAb4CQVVfeXFMTmVReDRIVjhWVUluMjZDZW9YTXRvaFNyUU5MUEVRNE51eGtEckZHbGxPSzUzcGlmNUI3WlhzZjJ5SHdETW52eEt0N2N4RDZud1pGRnRCRjFsWXBoQjRIdHZMRVFOWmZSbFVOc0hwNDNrWm9MaFYxZ09Dd0hpak4zeC1JNWNkcUEwTkRuZTNOZ3BXRGtlb3B3dTJUVFlLQm5IRFpNcS10MXpPRFZLdnJOMVNEcFhoZ0NjcEloaG54QWt4VS1XU290am9JTlpRM0s3RkVhbnc2MzZMTHRzWEhQU0FMR1N2TVZJM09JbHlnMmJBTFFOOVdOcnJ6LUc2VEdfZzJYSWVMaDhzTmZmNERBMEhFdkZsUF90dmF6SkJxZ2pkYWhacXNEZ09ZYzlzbWVQZWVOZkFlMEFqWW5qbjl3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Inside BJP’s Strategy to Win Puducherry Assembly",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFppUFo3TVZDbXN3YUFzM0ZraWZTN2NXcnFzc0dpaWpsR2Npd0tEMmRtWTdjNnRoMGM3SldwdU5HSGpPdlhScjgzY3Q2VTE1WFVCZmFuaFFFNmF6cW4wanNwa3IzMXpaRjZIQWhvTE5TMUFRTXN5dllneENwWGtSeXp6WVI0SlhEVnZZZUVqVjhYUHFlU24yd0JoY0Vha1hHSFJHUzNIZ0VjWlplR05HYnNkRTExR1hIeVpNVDNZM1_SAccBQVVfeXFMUG1hb3lVYUZwMzFoVHl0d3UxZXp4MDdjRkRLWG15SngzZGZzSmtGMEhJa2hBakw1UVp2cmtoMHBCeGh6cERubVpRTzFJNXpLMG9WRm1taEZ3bUlORkJlV2JnUXRBcE9JQlNnNWZuTGJFNGprQl9La3JxbmYxV25KM2pwT0FYVXdNbjdsWU5WcjFscjd4TmpCQVVWTlpRNjJXTzdEVXFYSTJsUXladS1iU1prSnJWNE9aQU5GNDdfbGN1SkxmeTQ5OA?oc=5\" target=\"_blank\">Inside BJP’s Strategy to Win Puducherry Assembly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFppUFo3TVZDbXN3YUFzM0ZraWZTN2NXcnFzc0dpaWpsR2Npd0tEMmRtWTdjNnRoMGM3SldwdU5HSGpPdlhScjgzY3Q2VTE1WFVCZmFuaFFFNmF6cW4wanNwa3IzMXpaRjZIQWhvTE5TMUFRTXN5dllneENwWGtSeXp6WVI0SlhEVnZZZUVqVjhYUHFlU24yd0JoY0Vha1hHSFJHUzNIZ0VjWlplR05HYnNkRTExR1hIeVpNVDNZM1_SAccBQVVfeXFMUG1hb3lVYUZwMzFoVHl0d3UxZXp4MDdjRkRLWG15SngzZGZzSmtGMEhJa2hBakw1UVp2cmtoMHBCeGh6cERubVpRTzFJNXpLMG9WRm1taEZ3bUlORkJlV2JnUXRBcE9JQlNnNWZuTGJFNGprQl9La3JxbmYxV25KM2pwT0FYVXdNbjdsWU5WcjFscjd4TmpCQVVWTlpRNjJXTzdEVXFYSTJsUXladS1iU1prSnJWNE9aQU5GNDdfbGN1SkxmeTQ5OA?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Sat, 21 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "India Assembly and State By-Elections 2026 Schedule Announced",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFlVb2pSaHoxVldtT3Z4MjVzcDZWSm5JYm4zeC0zYUZ2ZzluUllXQTR3RmhEdURpdVYwaDNhbjF3ajI1ejlfYTVfSDJ4Y1FKY0szdnVBNktRb0UtVUFyR24zeTNmWXlJbXNNdWo1bkdZcVVyTTdxeGFHZzVZUGlRWktvdlBvQi02aWNvSzhOYncya3AwWDNlTFQ3M0JDUXVwVU92a1RjQ3E0cmdOT2xfeXFB0gG4AUFVX3lxTE55NXV5bFE1TnVocUpmdEZVNVpyNEs2enJ6clpSem5ZSFAxY1oySmpKby1OSFNkcldzWFdjQzJjRnJUSHRlVVpOcEU3a3FzcG9ZeGJNM2JNbUs5QThaM2M3ODlrZkYzTk5MLTJtakJjZlZ6TndHemdkT0kxSU9sdlpaY2h4RUt0cV9OUzk1RDBTc1p5T2x0MklEMU9jczJYUzFyNnpWdGtFWUVjZGVtUEUxWlB2M29aUy0?oc=5\" target=\"_blank\">India Assembly and State By-Elections 2026 Schedule Announced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFlVb2pSaHoxVldtT3Z4MjVzcDZWSm5JYm4zeC0zYUZ2ZzluUllXQTR3RmhEdURpdVYwaDNhbjF3ajI1ejlfYTVfSDJ4Y1FKY0szdnVBNktRb0UtVUFyR24zeTNmWXlJbXNNdWo1bkdZcVVyTTdxeGFHZzVZUGlRWktvdlBvQi02aWNvSzhOYncya3AwWDNlTFQ3M0JDUXVwVU92a1RjQ3E0cmdOT2xfeXFB0gG4AUFVX3lxTE55NXV5bFE1TnVocUpmdEZVNVpyNEs2enJ6clpSem5ZSFAxY1oySmpKby1OSFNkcldzWFdjQzJjRnJUSHRlVVpOcEU3a3FzcG9ZeGJNM2JNbUs5QThaM2M3ODlrZkYzTk5MLTJtakJjZlZ6TndHemdkT0kxSU9sdlpaY2h4RUt0cV9OUzk1RDBTc1p5T2x0MklEMU9jczJYUzFyNnpWdGtFWUVjZGVtUEUxWlB2M29aUy0?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Sun, 15 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:14+00:00"
+  }
+ ]
+}

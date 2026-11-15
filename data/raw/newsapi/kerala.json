@@ -1,0 +1,119 @@
+{
+ "region": "Kerala",
+ "query": "(Kerala OR Thiruvananthapuram) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:47+00:00",
+ "total_results": 10,
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "CM to open Huddle Global on Nov 12",
+   "description": "Kerala CM V D Satheesan to inaugurate Huddle Global startup festival in Kovalam on Nov 12; 120+ investors, 4,000 startups, AI expo, Kera Fund.",
+   "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/cm-to-open-huddle-global-on-nov-12/articleshow/135717663.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-10T17:28:25Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "T’puram gains ground as AI hub",
+   "description": "India AI Centre of Excellence (CAIK) in Thiruvananthapuram draws 56 startup applications, 24 from outside Kerala, offering zero-equity, real-world AI testing.",
+   "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/tpuram-gains-ground-as-ai-hub/articleshow/135660690.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-08T14:12:00Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "Generative AI Hackathon to be held in Thiruvananthapuram on Saturday",
+   "description": "Generative AI Hackathon 2026 in Thiruvananthapuram at Technopark on Saturday; registrations close Nov 5 with PDF project idea submission.",
+   "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/generative-ai-hackathon-to-be-held-in-thiruvananthapuram-on-saturday/articleshow/135506341.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-03T16:19:37Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "Use of legislative majority to curtail PACs’ powers improper: CM",
+   "description": "Kerala CM V D Satheesan says legislatures can’t expunge CAG audit findings by majority vote; PACs urged to use AI, clear long-pending audits.",
+   "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/curtailing-pacs-powers-using-legislative-majority-improper-cm/articleshow/135503613.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-03T14:44:20Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "Keralam to tighten curbs on fake lottery sales online",
+   "description": "Kerala to crack down on fake lottery ticket sales using AI and social media, enforcing 2024 rules banning online sales and warning of jail or fines.",
+   "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/keralam-to-tighten-curbs-on-fake-lottery-sales-online/articleshow/135277963.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-28T18:44:33Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "AI takes on the paperwork clogging India’s court system",
+   "description": "India’s courts are drowning in documents — and even recording witness testimony can create a bottleneck. “It’s writing, writing, writing, all day,” says Kerala judge Suresh Babu in the annual report of nonprofit Adalat AI. That type of inefficiency matters: I…",
+   "url": "https://biztoc.com/x/90b5a74a5a743e24",
+   "source_name": "Biztoc.com",
+   "source_domain": "biztoc.com",
+   "published_raw": "2026-10-28T09:15:56Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "Halloween Pumpkin 2D LITE by SR Studios Kerala",
+   "description": "2D pumpkin enemy character- Whats in this pack : Pumpkin character x2- Material Used : Custom Shader Graph material- Animations : 1 (idle)- Sheet Resolution (Width x Height) and Frames count(in brackets):Pumpkin Idle - 4000x2636 (20)A lite version of the asse…",
+   "url": "https://assetstore.unity.com/packages/2d/characters/halloween-pumpkin-2d-lite-419196",
+   "source_name": "Unity.com",
+   "source_domain": "assetstore.unity.com",
+   "published_raw": "2026-10-26T16:43:20Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "Water Shader LITE by SR by SR Studios Kerala",
+   "description": "Animated water shader.12+ variations.Lite version of our asset \"SR Water shader\". This pack contains many Animated water Shaders/Materials for games. All materials are highly customizable too. Adjust the properties and create your own variation easily.What's …",
+   "url": "https://assetstore.unity.com/packages/vfx/shaders/water-shader-lite-by-sr-418796",
+   "source_name": "Unity.com",
+   "source_domain": "assetstore.unity.com",
+   "published_raw": "2026-10-26T16:43:12Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "US-based TN techie uses AI to send threats to Kerala airport, CM’s home and temples for years, then tracks impact through news reports. Now held from airport after 1,500 hoax bomb threats across India",
+   "description": "Sharath Subramanyam, a techie working in the US, was arrested for sending over 200 hoax bomb threats. These threats targeted various institutions in Kerala, including airports and government residences, causing significant disruptions. He allegedly used artif…",
+   "url": "https://timesofindia.indiatimes.com/city/chennai/us-based-tn-techie-uses-ai-to-send-threats-to-kerala-airport-cms-home-and-temples-for-years-then-tracks-impact-through-news-reports-now-held-from-airport-after-1500-hoax-bomb-threats-across-india/articleshow/135025738.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-18T07:58:13Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Kerala",
+   "title": "US-based TN techie held for 200 bomb threats targeting Keralam",
+   "description": "US-based TN techie Sharath Subramanyam held for 200+ hoax bomb threats in Kerala since 2023; allegedly used AI to target airports, courts, hotels, temples.",
+   "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/us-based-tn-techie-held-for-200-bomb-threats-targeting-keralam/articleshow/135019388.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-17T18:37:09Z",
+   "fetched_at": "2026-11-15T09:47:47+00:00"
+  }
+ ]
+}

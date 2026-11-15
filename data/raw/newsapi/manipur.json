@@ -1,0 +1,20 @@
+{
+ "region": "Manipur",
+ "query": "(Manipur) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:55+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Manipur",
+   "title": "Manipur CM urges students to shun agitation, choose dialogue to resolve crises",
+   "description": "Manipur Chief Minister Yumnam Khemchand Singh inaugurated an AI-Enabled Career Intelligence Hub for student career guidance. He urged students to avoid agitation and focus on dialogue to resolve conflicts peacefully. Singh highlighted the importance of honest…",
+   "url": "https://economictimes.indiatimes.com/news/politics-and-nation/manipur-cm-urges-students-to-shun-agitation-choose-dialogue-to-resolve-crises/articleshow/135643063.cms",
+   "source_name": "The Times of India",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_raw": "2026-11-07T17:23:01Z",
+   "fetched_at": "2026-11-15T09:47:55+00:00"
+  }
+ ]
+}

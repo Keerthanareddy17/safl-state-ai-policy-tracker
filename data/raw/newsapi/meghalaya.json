@@ -1,0 +1,20 @@
+{
+ "region": "Meghalaya",
+ "query": "(Meghalaya) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:56+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya to host state’s first AI job fair on Nov 17 for 125 technical roles",
+   "description": "Meghalaya to host its first AI Job Fair in Shillong on Nov 17, offering 125 technical roles with Shamrock AI and Prolifics; 500 students expected.",
+   "url": "https://timesofindia.indiatimes.com/city/guwahati/meghalaya-to-host-states-first-ai-job-fair-on-nov-17-for-125-technical-roles/articleshow/135813403.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-13T18:04:01Z",
+   "fetched_at": "2026-11-15T09:47:56+00:00"
+  }
+ ]
+}

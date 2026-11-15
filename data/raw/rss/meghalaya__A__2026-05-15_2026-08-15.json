@@ -1,0 +1,120 @@
+{
+ "region": "Meghalaya",
+ "group": "A",
+ "query": "(Meghalaya) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Meghalaya%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:31+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "India enters next phase of governance transformation with AI-driven administrative reforms: Dr. Jitendra Singh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaW95bldWSGNUc2x2MVRLNzVBSFVFTWJkbWNWRTJNMkdSTWw1bTVMQXhUcDltck1fSTFZYnJfUEF6LUw1MmxKY09kT012Y2oweWtucVZra3ZzWnJKNXJuamZqUU1ORVFU?oc=5\" target=\"_blank\">India enters next phase of governance transformation with AI-driven administrative reforms: Dr. Jitendra Singh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaW95bldWSGNUc2x2MVRLNzVBSFVFTWJkbWNWRTJNMkdSTWw1bTVMQXhUcDltck1fSTFZYnJfUEF6LUw1MmxKY09kT012Y2oweWtucVZra3ZzWnJKNXJuamZqUU1ORVFU?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "HM Amit Shah asks NE CMs to focus on AI, machine learning for new generations",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVFNVThWenJsZ0FDQVpSanQtYkxmeHJFSlNVTDViUVRCZW5DN3JxLUR1U05XNzdoRjJoVFpFbmlQUDB5MEpOTkUzU2RFYnlkcFBXRy05Q1VZRDloamdlanZSc1R2UFFObU4xMmc1a3pYc2c0UDE2WWRsTlgxQjJRSERRaVBTUko1clFRSlRxVFVfeW5CS3VseGxncmNkUkFxTXFFNEdpNmdSeWFBNVZNYQ?oc=5\" target=\"_blank\">HM Amit Shah asks NE CMs to focus on AI, machine learning for new generations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVFNVThWenJsZ0FDQVpSanQtYkxmeHJFSlNVTDViUVRCZW5DN3JxLUR1U05XNzdoRjJoVFpFbmlQUDB5MEpOTkUzU2RFYnlkcFBXRy05Q1VZRDloamdlanZSc1R2UFFObU4xMmc1a3pYc2c0UDE2WWRsTlgxQjJRSERRaVBTUko1clFRSlRxVFVfeW5CS3VseGxncmNkUkFxTXFFNEdpNmdSeWFBNVZNYQ?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Teacher training academy to strengthen Meghalaya's education foundation: CM Sangma",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTlBYXlCeEdMYmZPM2ExcWhyNzUtUDBPc3pRTmNRanJnbUpZYlFzWFhEVnNXWDIyRG1DVmx0VTB4NEJ3NVgwTGpsamhLWDAtdFBuVlRzY2FDVm01VVpKOGNxWEhaM2lMUjF3c0JhT1BCR21JN1BSbWRHTG5yVDVnd1Y2U0MtYjRjS19aamdXdElzYzlMVmhKSUk4WFRsN3ZaSHRmN0JublZzU2JzMnh5dDVsaU9ielllNE5PXzR0SVlDV08zM2RRYTJhUzVYSFpfQXE2YXdBQ2thY0RhdHdLanJESzVndHJ5aXQyeEFjbFPSAfQBQVVfeXFMUGJobWVqR1BjQnlIQTFJZWk5R2lYeXNWLU9pNEZHQTRUYlZacjlOSUZEMFUzdUtRS09FbGFwLTUyU3prcHlta1ZUN0NnV2VOYTFnQWt6ZnJJTVhaZXhtR1VMalRnTEIyTjh4YU1fZC1PSUxvNzIwVHN4ZC1SSVBCOTYtS3pGa2llQ0t5REg1WThzeWdmejFRbXRDOWE3c0wySTBJQmlmcDJhUWFqYlBqODVDRl9yRnlaYU1aY2duRGhlajMtUzJaX1oxal9GX0dDbTR1X3BLc05LWVdPYk9sNm9oOElVTkRHcU04NUM0Nlo2cUtCQw?oc=5\" target=\"_blank\">Teacher training academy to strengthen Meghalaya's education foundation: CM Sangma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTlBYXlCeEdMYmZPM2ExcWhyNzUtUDBPc3pRTmNRanJnbUpZYlFzWFhEVnNXWDIyRG1DVmx0VTB4NEJ3NVgwTGpsamhLWDAtdFBuVlRzY2FDVm01VVpKOGNxWEhaM2lMUjF3c0JhT1BCR21JN1BSbWRHTG5yVDVnd1Y2U0MtYjRjS19aamdXdElzYzlMVmhKSUk4WFRsN3ZaSHRmN0JublZzU2JzMnh5dDVsaU9ielllNE5PXzR0SVlDV08zM2RRYTJhUzVYSFpfQXE2YXdBQ2thY0RhdHdLanJESzVndHJ5aXQyeEFjbFPSAfQBQVVfeXFMUGJobWVqR1BjQnlIQTFJZWk5R2lYeXNWLU9pNEZHQTRUYlZacjlOSUZEMFUzdUtRS09FbGFwLTUyU3prcHlta1ZUN0NnV2VOYTFnQWt6ZnJJTVhaZXhtR1VMalRnTEIyTjh4YU1fZC1PSUxvNzIwVHN4ZC1SSVBCOTYtS3pGa2llQ0t5REg1WThzeWdmejFRbXRDOWE3c0wySTBJQmlmcDJhUWFqYlBqODVDRl9yRnlaYU1aY2duRGhlajMtUzJaX1oxal9GX0dDbTR1X3BLc05LWVdPYk9sNm9oOElVTkRHcU04NUM0Nlo2cUtCQw?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Sat, 04 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "How a young woman from Tura took Meghalaya to the Commonwealth Stage",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONHVWNWNIOWQzLUVhZ1BLSUFYZEt1VkNNOHlvQWtxNThPeFNTcG9aNjRuYy1fd1NCTWFoY0ptZDNnZFRYOGNGVm1fTXdPaWhnYV9EZm16cTlWQkxPeHdzTnRJWG9YU2h5UFVaUmxITXExWWlhR0U0LXR5YXZtNm5aUzBrdWdUY1N3MDU1SWFCREpndHV0NGc?oc=5\" target=\"_blank\">How a young woman from Tura took Meghalaya to the Commonwealth Stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hub News</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHVWNWNIOWQzLUVhZ1BLSUFYZEt1VkNNOHlvQWtxNThPeFNTcG9aNjRuYy1fd1NCTWFoY0ptZDNnZFRYOGNGVm1fTXdPaWhnYV9EZm16cTlWQkxPeHdzTnRJWG9YU2h5UFVaUmxITXExWWlhR0U0LXR5YXZtNm5aUzBrdWdUY1N3MDU1SWFCREpndHV0NGc?oc=5",
+   "source_name": "Hub News",
+   "source_domain": "hubnetwork.in",
+   "published_raw": "Fri, 31 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya launches ‘Mission Clouded Leopard’ to protect state animal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzQzeDBTQWcxc2t0NFhzcDgtRmFQYnVPR2FQbDduTVNpTzFPWWdQcGJ0aFk3cGE1N2pGLWFIUzMtS1BFNk9MaWVrYU9BMWZJbTl3dHk3ZldzUHhESExOdDZGRFEwazRkT0s4OUhYWmZULUxjcERiUVl2MEJhaUxJQm9SWk9oODNWUDhfdjBfNDkxdk1OUjVOM2VhenlIZXpwbFZETDZwSlNONzhvbjVvQXNDUzhRMEhXUU5WcFpqRUY0MXVLSHZkdNIBzgFBVV95cUxQdEc4Snhqd21iTnJSS2FqTzVJeGV3Y19KUkp3MVpXUThYMXFxdHAzTUpOUjNDZEVUb3kyRVNLc21BU0dKNVJJZkVrVnhzdzdsNFBzZXVtUzJKS21USUkwVjVMclh6WFg1cXl3QmhhcVBUcnBCUktMZV9kekh4NG9FTzdVQlZUZmRKNzlESEtfOWhOcENsN3F2MUtiNEw1ZGNqdFlUckN6TlhGZFBqQS1wbDJMX3h5emg5cS1QQnNWLUN3aUdET2xPdFd1ajR6UQ?oc=5\" target=\"_blank\">Meghalaya launches ‘Mission Clouded Leopard’ to protect state animal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzQzeDBTQWcxc2t0NFhzcDgtRmFQYnVPR2FQbDduTVNpTzFPWWdQcGJ0aFk3cGE1N2pGLWFIUzMtS1BFNk9MaWVrYU9BMWZJbTl3dHk3ZldzUHhESExOdDZGRFEwazRkT0s4OUhYWmZULUxjcERiUVl2MEJhaUxJQm9SWk9oODNWUDhfdjBfNDkxdk1OUjVOM2VhenlIZXpwbFZETDZwSlNONzhvbjVvQXNDUzhRMEhXUU5WcFpqRUY0MXVLSHZkdNIBzgFBVV95cUxQdEc4Snhqd21iTnJSS2FqTzVJeGV3Y19KUkp3MVpXUThYMXFxdHAzTUpOUjNDZEVUb3kyRVNLc21BU0dKNVJJZkVrVnhzdzdsNFBzZXVtUzJKS21USUkwVjVMclh6WFg1cXl3QmhhcVBUcnBCUktMZV9kekh4NG9FTzdVQlZUZmRKNzlESEtfOWhOcENsN3F2MUtiNEw1ZGNqdFlUckN6TlhGZFBqQS1wbDJMX3h5emg5cS1QQnNWLUN3aUdET2xPdFd1ajR6UQ?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya signs first tenant for Shillong Technology Park-II as NASSCOM meet pushes digital economy vision",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjhjeEpVYk9DZnNaVGVIUWhodm95V3J2T1RXSFp4NVhoclpldWZYS1hjT3JET0hBYy04bmJOM0hrZlkybzlmTXVSVExZQjBQWmlNeXpFdm5YMnhDMlpjMjZjR1hqQkxOV1I0bXhzVjBhY3dIQ2hNR1hVcmQtbGs2Q2tWb29vaDhmYmVuMUpvcEJVX3A5VllsN3JwQWZyQ3RFRlJUbi1CeXZrODZHRjl6UUJxbHlJM0V6M0xKNVhmZjJZNmtRQlRBNmJn?oc=5\" target=\"_blank\">Meghalaya signs first tenant for Shillong Technology Park-II as NASSCOM meet pushes digital economy vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syllad</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjhjeEpVYk9DZnNaVGVIUWhodm95V3J2T1RXSFp4NVhoclpldWZYS1hjT3JET0hBYy04bmJOM0hrZlkybzlmTXVSVExZQjBQWmlNeXpFdm5YMnhDMlpjMjZjR1hqQkxOV1I0bXhzVjBhY3dIQ2hNR1hVcmQtbGs2Q2tWb29vaDhmYmVuMUpvcEJVX3A5VllsN3JwQWZyQ3RFRlJUbi1CeXZrODZHRjl6UUJxbHlJM0V6M0xKNVhmZjJZNmtRQlRBNmJn?oc=5",
+   "source_name": "Syllad",
+   "source_domain": "syllad.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Why Meghalaya’s tribal council blocked Blinkit despite state clearances",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjNhMDNSV1V1OVBLLU9Hc2wyblRHV2JRc3o3VGJiYU5HNVFGbXVFZUFQTy1FUTRLUy1EOGJicERSMkJoSmpLSXUwMUg0eWxZaXEyUk1hVngxcDFKZUNYVzNjX0JmTGN6R3FxV3lFQld0eVRSOURBUXUyVWhMcUt0NWI3VHlwUnhfbm1nVg?oc=5\" target=\"_blank\">Why Meghalaya’s tribal council blocked Blinkit despite state clearances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaNama</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjNhMDNSV1V1OVBLLU9Hc2wyblRHV2JRc3o3VGJiYU5HNVFGbXVFZUFQTy1FUTRLUy1EOGJicERSMkJoSmpLSXUwMUg0eWxZaXEyUk1hVngxcDFKZUNYVzNjX0JmTGN6R3FxV3lFQld0eVRSOURBUXUyVWhMcUt0NWI3VHlwUnhfbm1nVg?oc=5",
+   "source_name": "MediaNama",
+   "source_domain": "medianama.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya’s Lakadong turmeric is in the spotlight: Is it healthier than regular haldi?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUlvbU1YTTUtaHBLbXhYN0ZBLVRTOWpoWFVmd0FneTktclY3dDNmb200RFFkNHNKQllDcGpHam00SThFWHIzbloyaFlkWWo0WjIwSXJuX21HRXA4VjUtUnpOUm1yWUp6S1FxbG1FMktFU0UtcFRqbGllX3g3eGxnMkYwUHVhZXVfMVk2TTBvTE10RVJyUE9yVWtFMWJFMjcwSWtnb2dtTUI3NkpjMlRaVEdOb2gxeW53RElNdmxyOU1zSWh2MUNCbmJ5MkXSAdMBQVVfeXFMUGg5Vmhua1J5WEZZWjVRTFU0VFc0LU5qOUFTdHZyNFYzMHB5V1U2Q29sS0JqM2htS0kyTWNMZ3FkUlFrUl8wb3lmLURlYkJyQ0V4SmtnLVpQTUNNMlVERTFaTl9iQ0tFU05UM0kxSXg3bmcya0lSb1BRLXRmOFIwTGNjNlNXZF9aNzI2dHBrdGRqeDFseGFQYkJ2UHRHTkVtRjBQR3JRc2lhZDNuREpDNHNqMDRMcHd0SDh5bDRkZURjZ2JocnJyZDVuR3NjRGw4clFGMA?oc=5\" target=\"_blank\">Meghalaya’s Lakadong turmeric is in the spotlight: Is it healthier than regular haldi?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaUlvbU1YTTUtaHBLbXhYN0ZBLVRTOWpoWFVmd0FneTktclY3dDNmb200RFFkNHNKQllDcGpHam00SThFWHIzbloyaFlkWWo0WjIwSXJuX21HRXA4VjUtUnpOUm1yWUp6S1FxbG1FMktFU0UtcFRqbGllX3g3eGxnMkYwUHVhZXVfMVk2TTBvTE10RVJyUE9yVWtFMWJFMjcwSWtnb2dtTUI3NkpjMlRaVEdOb2gxeW53RElNdmxyOU1zSWh2MUNCbmJ5MkXSAdMBQVVfeXFMUGg5Vmhua1J5WEZZWjVRTFU0VFc0LU5qOUFTdHZyNFYzMHB5V1U2Q29sS0JqM2htS0kyTWNMZ3FkUlFrUl8wb3lmLURlYkJyQ0V4SmtnLVpQTUNNMlVERTFaTl9iQ0tFU05UM0kxSXg3bmcya0lSb1BRLXRmOFIwTGNjNlNXZF9aNzI2dHBrdGRqeDFseGFQYkJ2UHRHTkVtRjBQR3JRc2lhZDNuREpDNHNqMDRMcHd0SDh5bDRkZURjZ2JocnJyZDVuR3NjRGw4clFGMA?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 31 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya to launch ₹3,214 crore highway projects, upgrades to boost connectivity",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVUczRXFPdGFPRVViMjZFVi1qMFFQZHFnc3Z0U0pQM0xCdTV5QTIzT0NrMzJsOFUxWHFSYjdNRlBtWWluZ2NxWlUtU21oOGFoWkRlamxBQXNIeG1tU04wbkR0TzB6dHl0X2M3TExSbEpacFdDa09BVWJXYkpLaE56elNkVWRkRTFkdVdLR29tckxRVlVIdi0zS3NxZjNoampVdUhKcEFVWUR5MWV1SUpDdVdhQXA3UDB4dWRRQjk2V1NiU3lCdkZESHBaSmJNMjVWV3pnZDdhcmNmRmxQYUxGZk90Y3RiZ9IB6gFBVV95cUxPRFlCUGF4T3lBT1FScDE4dnJMcm1EWkZnUFRMMWh0ODFpNWU5bHo5SzVVbDBfXzlHRVF1Z1ZpOXRac0FmY0V2S0VLdURiNzd4Xy02TDNJbTQ2dW13ZURtaU51RTU2Snl6YndLNWRWSUhaQzdpQXp5Z2Q5WkhLeFpXTlpBdE5zbTEzTV9NVTNrdjR5amxjOEVBRWdzZ2NqNktISWFwTjI3UWtvNnNTRHBrQWpfYXhmajJ6S1dyX2kyN01UT0V3Q0d4V1lraDBiTkNSRTlpWjBjNGxzWUdOcmRPSFFQeU13aDZiT2c?oc=5\" target=\"_blank\">Meghalaya to launch ₹3,214 crore highway projects, upgrades to boost connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVUczRXFPdGFPRVViMjZFVi1qMFFQZHFnc3Z0U0pQM0xCdTV5QTIzT0NrMzJsOFUxWHFSYjdNRlBtWWluZ2NxWlUtU21oOGFoWkRlamxBQXNIeG1tU04wbkR0TzB6dHl0X2M3TExSbEpacFdDa09BVWJXYkpLaE56elNkVWRkRTFkdVdLR29tckxRVlVIdi0zS3NxZjNoampVdUhKcEFVWUR5MWV1SUpDdVdhQXA3UDB4dWRRQjk2V1NiU3lCdkZESHBaSmJNMjVWV3pnZDdhcmNmRmxQYUxGZk90Y3RiZ9IB6gFBVV95cUxPRFlCUGF4T3lBT1FScDE4dnJMcm1EWkZnUFRMMWh0ODFpNWU5bHo5SzVVbDBfXzlHRVF1Z1ZpOXRac0FmY0V2S0VLdURiNzd4Xy02TDNJbTQ2dW13ZURtaU51RTU2Snl6YndLNWRWSUhaQzdpQXp5Z2Q5WkhLeFpXTlpBdE5zbTEzTV9NVTNrdjR5amxjOEVBRWdzZ2NqNktISWFwTjI3UWtvNnNTRHBrQWpfYXhmajJ6S1dyX2kyN01UT0V3Q0d4V1lraDBiTkNSRTlpWjBjNGxzWUdOcmRPSFFQeU13aDZiT2c?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Tue, 16 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya: Tura college gets AICTE nod for urban planning programme",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3BBak5OcnBoN0xjRl9TMnZPUExGWW4zNkltMEE2QXJGTHplSHdJOFJTSWFvTDNtQk5ZUTdGOFF4VUE4LUlRNmF5NVh1Y2EtdFA5aFY3REpGNHg3MWx4YzVvdmtOS1RBaTZNejcwVmZuUXZOS0FEbnN0VllCZEtMd3FweDBXcWQ5aVEwSHE0ZU5FdWNLVWRRelpZRmQ1MjVMQ19CcEpkUC1TYVpldjA0UUl1SFg3Ul93dGpSX3Y5ZEpRU3RQV25XdER4enc1ejhxOW1ueWFGbjRLemdvYmVHeWlMd1dLOE5v0gHsAUFVX3lxTE1qdlVGUFZPMFN0NUpza3NGVEpxalRVWGxNM0NPd2czLXVQc0NCT1A5MlFBY2JsX2FVb0hucGdHaEdEZV9GS2U4MFN6T1p1b3JPT2tkTF9QN1F4RmQ4YjYySnJJQ2YxaEE1VnY3NkFyQWtSbGlWN0VOTFl5SnFUdjBaNnFZcnlSZE1SQlYzUnlIemtDZTFHaXJjZmRLcHBvMDhBQ0RERFVTLWtldnIzbm91MG1idnRNYktMTEtsV1FjSTBqYjN4bWpjN2VoTGJTOEhIR0JwcGZrWXpCMXZlWXJmRm95aEh3SGdHbVBG?oc=5\" target=\"_blank\">Meghalaya: Tura college gets AICTE nod for urban planning programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY3BBak5OcnBoN0xjRl9TMnZPUExGWW4zNkltMEE2QXJGTHplSHdJOFJTSWFvTDNtQk5ZUTdGOFF4VUE4LUlRNmF5NVh1Y2EtdFA5aFY3REpGNHg3MWx4YzVvdmtOS1RBaTZNejcwVmZuUXZOS0FEbnN0VllCZEtMd3FweDBXcWQ5aVEwSHE0ZU5FdWNLVWRRelpZRmQ1MjVMQ19CcEpkUC1TYVpldjA0UUl1SFg3Ul93dGpSX3Y5ZEpRU3RQV25XdER4enc1ejhxOW1ueWFGbjRLemdvYmVHeWlMd1dLOE5v0gHsAUFVX3lxTE1qdlVGUFZPMFN0NUpza3NGVEpxalRVWGxNM0NPd2czLXVQc0NCT1A5MlFBY2JsX2FVb0hucGdHaEdEZV9GS2U4MFN6T1p1b3JPT2tkTF9QN1F4RmQ4YjYySnJJQ2YxaEE1VnY3NkFyQWtSbGlWN0VOTFl5SnFUdjBaNnFZcnlSZE1SQlYzUnlIemtDZTFHaXJjZmRLcHBvMDhBQ0RERFVTLWtldnIzbm91MG1idnRNYktMTEtsV1FjSTBqYjN4bWpjN2VoTGJTOEhIR0JwcGZrWXpCMXZlWXJmRm95aEh3SGdHbVBG?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Sat, 16 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:31+00:00"
+  }
+ ]
+}

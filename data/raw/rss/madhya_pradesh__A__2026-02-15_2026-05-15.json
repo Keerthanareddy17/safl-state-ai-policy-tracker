@@ -1,0 +1,109 @@
+{
+ "region": "Madhya Pradesh",
+ "group": "A",
+ "query": "(\"Madhya Pradesh\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Madhya+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:50+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh govt to roll out AI mission in phases to boost governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2Zrb0wyYmJzSTJ5UWJVUTF6WUg3c0l2WFF3SW12YzVycU1DMFpwMUFCaW5FTmNYMUd2XzBXZm45b0hGcFdWaHl4cHBnMTF1REZreEc2cy16cGJaVGxEUFg0U0l0c3dCclVocWNsTWl3U25oczJSQjlZWGlRTXhiUzRGNjFLWXV2a3dMVFZvU3g3ZDU2QU15Y0hhZlpDdlE?oc=5\" target=\"_blank\">Madhya Pradesh govt to roll out AI mission in phases to boost governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2Zrb0wyYmJzSTJ5UWJVUTF6WUg3c0l2WFF3SW12YzVycU1DMFpwMUFCaW5FTmNYMUd2XzBXZm45b0hGcFdWaHl4cHBnMTF1REZreEc2cy16cGJaVGxEUFg0U0l0c3dCclVocWNsTWl3U25oczJSQjlZWGlRTXhiUzRGNjFLWXV2a3dMVFZvU3g3ZDU2QU15Y0hhZlpDdlE?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Sun, 22 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Artificial Intelligence (AI) Transforming Rural India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8zWmtfRXNtYnB5amZ3SWRaVWctOHZiZkl1cUVfaDExZWpSSnRvNFgzUWJvMllCWm1fQmtUVmcxZWlFRkZVOTZJWk01S1hKblRCSVZXSlpfSzBaQTFucHF6bEFrdXZQaWRmblB2SFhWWXQxalZSMVVOcU5n?oc=5\" target=\"_blank\">Artificial Intelligence (AI) Transforming Rural India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zWmtfRXNtYnB5amZ3SWRaVWctOHZiZkl1cUVfaDExZWpSSnRvNFgzUWJvMllCWm1fQmtUVmcxZWlFRkZVOTZJWk01S1hKblRCSVZXSlpfSzBaQTFucHF6bEFrdXZQaWRmblB2SFhWWXQxalZSMVVOcU5n?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "MP to soon launch 'AI Mission' to improve governance: CM Yadav",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2xQR0htS0U1OTFCOHNhcGVjMWNQN0pGZHpuU1ZmNkx0a1lnX3RGeC1OV0JwaHIxSVBERVdtbkNsTHZweGpqb1B4YTJEdU5nUFo0dXQwOVFwVEtpY2hyQTBmcHVVeWg5Zm1wZHEzakNnUXBXZjI1aG5tZDZsNXhCcEMyLU9HN0pxbV8wbVhFU1ZETHNCMjdTYXBEcXVuUXA2bDRTSTBPMmd3TUtNQWY0ZVdSMmtpSzRpQlF6OXM0cUMySE12WERQNHU3UlpJbHdseUJacTRyV0xyUFYzMVh30gHkAUFVX3lxTE1jSG5GamhBUWVfMngxOS1EWDMzY2NPUVhBOGRPTlRMcnZvM3pPSnV4bkxUQkktZWJfb2NJMzAyaV8yR1dYNkpybGRaM2xmVEVrVl9MQ2pJVTVSSjNxc29UVW1WSjU1bWhabU5RcVRmbkxKTFZLWXBjc3JqSlhVOG90UXZMM1dRclBiWEh0Nkh5dnAtbkR5WEJPYVA3cmlpRk1vdkJFTThfcmtUV0h6Q1JJMU5ERVQyUVM2b1VVV1VlY1dLbkpnRkpjZ1JxTnZCYUFETmRCTml1WGlHU0tkcW1FMm82TQ?oc=5\" target=\"_blank\">MP to soon launch 'AI Mission' to improve governance: CM Yadav</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2xQR0htS0U1OTFCOHNhcGVjMWNQN0pGZHpuU1ZmNkx0a1lnX3RGeC1OV0JwaHIxSVBERVdtbkNsTHZweGpqb1B4YTJEdU5nUFo0dXQwOVFwVEtpY2hyQTBmcHVVeWg5Zm1wZHEzakNnUXBXZjI1aG5tZDZsNXhCcEMyLU9HN0pxbV8wbVhFU1ZETHNCMjdTYXBEcXVuUXA2bDRTSTBPMmd3TUtNQWY0ZVdSMmtpSzRpQlF6OXM0cUMySE12WERQNHU3UlpJbHdseUJacTRyV0xyUFYzMVh30gHkAUFVX3lxTE1jSG5GamhBUWVfMngxOS1EWDMzY2NPUVhBOGRPTlRMcnZvM3pPSnV4bkxUQkktZWJfb2NJMzAyaV8yR1dYNkpybGRaM2xmVEVrVl9MQ2pJVTVSSjNxc29UVW1WSjU1bWhabU5RcVRmbkxKTFZLWXBjc3JqSlhVOG90UXZMM1dRclBiWEh0Nkh5dnAtbkR5WEJPYVA3cmlpRk1vdkJFTThfcmtUV0h6Q1JJMU5ERVQyUVM2b1VVV1VlY1dLbkpnRkpjZ1JxTnZCYUFETmRCTml1WGlHU0tkcW1FMm82TQ?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh to launch State AI Mission: CM Mohan Yadav announces at AI Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY3dDelk2WDhWUHNrcnU1bkVyaG9OT1ZxckdXVFNEa1ZkNldxaXJoaWp4RlJzVEt0T0xSek85WHlGT3ZmekJzZ1o1aGZxXzcyc19KYjNzSk9qeVRMT2lUak80UFV2RmdYYTM2dWliaHc5QmZNMUJvMEN6M0lEOHIxSTF2VnhuWlNMS3F6SzdPeW5UTXgtblNBMDJkd05kY0hUdzZuc3RGQ01oY2NOSmM3aWhDbUxpbGtuXy1XN2xKMklsZE9HbmxoTHVGWlA4Z3dJOWptdDI5cVB3MVE?oc=5\" target=\"_blank\">Madhya Pradesh to launch State AI Mission: CM Mohan Yadav announces at AI Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY3dDelk2WDhWUHNrcnU1bkVyaG9OT1ZxckdXVFNEa1ZkNldxaXJoaWp4RlJzVEt0T0xSek85WHlGT3ZmekJzZ1o1aGZxXzcyc19KYjNzSk9qeVRMT2lUak80UFV2RmdYYTM2dWliaHc5QmZNMUJvMEN6M0lEOHIxSTF2VnhuWlNMS3F6SzdPeW5UTXgtblNBMDJkd05kY0hUdzZuc3RGQ01oY2NOSmM3aWhDbUxpbGtuXy1XN2xKMklsZE9HbmxoTHVGWlA4Z3dJOWptdDI5cVB3MVE?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh SpaceTech Policy-2026: Establishing a Regional Hub for the Space Economy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVk1dERlcUs1a2VQSWw4U0pJUGJWUmpHb3M2Z19nR2U3X296WUFybHF2eHhVVUdiUmtNNFN0THZIdGdzb2xHaDRieXJHVkFyREdQRjAzSlBXaEtSS0JwZjRtdE5YZlFBdlNmNWlCSl8waGxKLWQ4bzJscGdfU05HaURodGhWdG9MQkgxYm5jNlBNeWJiUUpfNkNXdTdBV1pVRHBIX2c2VlhxQ2c4Mk0zblB1YXo?oc=5\" target=\"_blank\">Madhya Pradesh SpaceTech Policy-2026: Establishing a Regional Hub for the Space Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Policy Edge</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVk1dERlcUs1a2VQSWw4U0pJUGJWUmpHb3M2Z19nR2U3X296WUFybHF2eHhVVUdiUmtNNFN0THZIdGdzb2xHaDRieXJHVkFyREdQRjAzSlBXaEtSS0JwZjRtdE5YZlFBdlNmNWlCSl8waGxKLWQ4bzJscGdfU05HaURodGhWdG9MQkgxYm5jNlBNeWJiUUpfNkNXdTdBV1pVRHBIX2c2VlhxQ2c4Mk0zblB1YXo?oc=5",
+   "source_name": "The Policy Edge",
+   "source_domain": "policyedge.in",
+   "published_raw": "Mon, 23 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Beyond pilot projects: How Madhya Pradesh is turning AI into a governance powerhouse",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1Y2TnhYdlFjdjEzdnRsakpaR0tITXZlaFpNbGFraW1GUkxvQktjWHBZUTE5NC10RFhsSm9lMHIxZC1UMG5CUFNiOGYwTDVxQ3dkVm1YcU5oRHUyY0Y3Unlwam1TcmVQWWFFOGtEOS03VnRpS05Qc0VRSkdpaVVOY0djOVFKWHhhXzBEQjhhbEc4OEI2dkN1aG5JYnFHb3U1V3hwc19RZEl6TjBjcnE4SFZZZWdqNE9BenNMNGdCYzBpTDRrbmROUzY1azFlMzlIalo4WGI1X2vSAd8BQVVfeXFMTWg2WUJiU2h2UEJDeDAwNC1WcVN4T2hhM2FUZ3BKeGZFUFR4U0hfal9wUWgwbEVKZHZOaGxCU2dyZHhHR2tQMTk0a1E3cjNvdnJlc0t0YzQwWk9yNE1Jc2loVUtMWVRRWmF3MUdDVExlWnhIaHZuNHNzWFlyd2xjbTZKNk9sdWsyOV9tMi04djJCaXhqcTFzT3EyU01pUmk4dExKNmJnQ2o5TE5JUkQ4NmV2a05iMHBoWHhfTlpvREZ3cXVjekFBLWJqT3BtOVpmaENiYVdtSUdDYnJ0Ym9Taw?oc=5\" target=\"_blank\">Beyond pilot projects: How Madhya Pradesh is turning AI into a governance powerhouse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1Y2TnhYdlFjdjEzdnRsakpaR0tITXZlaFpNbGFraW1GUkxvQktjWHBZUTE5NC10RFhsSm9lMHIxZC1UMG5CUFNiOGYwTDVxQ3dkVm1YcU5oRHUyY0Y3Unlwam1TcmVQWWFFOGtEOS03VnRpS05Qc0VRSkdpaVVOY0djOVFKWHhhXzBEQjhhbEc4OEI2dkN1aG5JYnFHb3U1V3hwc19RZEl6TjBjcnE4SFZZZWdqNE9BenNMNGdCYzBpTDRrbmROUzY1azFlMzlIalo4WGI1X2vSAd8BQVVfeXFMTWg2WUJiU2h2UEJDeDAwNC1WcVN4T2hhM2FUZ3BKeGZFUFR4U0hfal9wUWgwbEVKZHZOaGxCU2dyZHhHR2tQMTk0a1E3cjNvdnJlc0t0YzQwWk9yNE1Jc2loVUtMWVRRWmF3MUdDVExlWnhIaHZuNHNzWFlyd2xjbTZKNk9sdWsyOV9tMi04djJCaXhqcTFzT3EyU01pUmk4dExKNmJnQ2o5TE5JUkQ4NmV2a05iMHBoWHhfTlpvREZ3cXVjekFBLWJqT3BtOVpmaENiYVdtSUdDYnJ0Ym9Taw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sun, 22 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh as a Testbed For AI In Infrastructure",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGc4cWF1Q0x0QjYwdDZRNkFlZ21Gdk9fVE85MFk4NUo5RXBZVHVoOVRnWnpkamZYTzhoc1J0UXE0UXNhYXV2blRkbE1rRGZNV2JYd0dWQUt5SHk3YzBXYklOUmplVlhOZmlRZ1BLRWlYQkRMY0c5TDhYOUJjWXVfWUt0UXdJa3M3M0xSaUJ0cFFJbUQx?oc=5\" target=\"_blank\">Madhya Pradesh as a Testbed For AI In Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGc4cWF1Q0x0QjYwdDZRNkFlZ21Gdk9fVE85MFk4NUo5RXBZVHVoOVRnWnpkamZYTzhoc1J0UXE0UXNhYXV2blRkbE1rRGZNV2JYd0dWQUt5SHk3YzBXYklOUmplVlhOZmlRZ1BLRWlYQkRMY0c5TDhYOUJjWXVfWUt0UXdJa3M3M0xSaUJ0cFFJbUQx?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Fri, 17 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "India's AI Revolution in Rural Development",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXdmSVJxTmV6RWtQT0k4VzFsc2YxWmFOY0FZb2w4dXl5Z3NkVkt1bWo5WXZwT3hDZG1ZQ0tUYVR2bkNkUWJTa3VfNUhBV0ZrUHdLT3VUVWgwcDMtcmRCTXhNTlpTWDdKV1kycEZUTUJCbXBVOUx5MUhhNldRSEc5cHhYMHVLcFFWZ19wYUVTMjhWaE9ZUkZDSFFtWU1URl9MdTZmYw?oc=5\" target=\"_blank\">India's AI Revolution in Rural Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Drishti IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXdmSVJxTmV6RWtQT0k4VzFsc2YxWmFOY0FZb2w4dXl5Z3NkVkt1bWo5WXZwT3hDZG1ZQ0tUYVR2bkNkUWJTa3VfNUhBV0ZrUHdLT3VUVWgwcDMtcmRCTXhNTlpTWDdKV1kycEZUTUJCbXBVOUx5MUhhNldRSEc5cHhYMHVLcFFWZ19wYUVTMjhWaE9ZUkZDSFFtWU1URl9MdTZmYw?oc=5",
+   "source_name": "Drishti IAS",
+   "source_domain": "drishtiias.com",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "AI to help predict employment, health, disasters in MP, cut risks",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQa3JONngtRVNwaERITUcxR2NwSmRyejJ1Rm9zUkFoVzRDQlF1cXU2M2Q4YkdRcHJfTFBhT25UclE1dFQ0cW9pUmF6Y3R6NWFaVldiSjVQZ2tzZVRINTh1Z29zMFV4NVFfVEV1MTZibDNrYjZJZ3FNOHROR2hCMVlvTEdXYU9rY3RGX0NPSWMwUFFzRWVlSnVwa3RoUGp4UnVWamN6SGtOeTJ3ZFpFN1QzUlpoWWRNZ0tLc013RTlFQ081R2ZZeW9ReTk3ZGJHdmZhMFZLTl9yNmJocmhmNTJ2TVNENDltVWx5QmJRR1ZNM05QendIRXJIX3d1eGxwVGdqcVU3eDZNQ09rMGxSOG5lQdIBlgJBVV95cUxNejFiWUJpMEd6QlplTzFETWEtVkZLRG9yTXBpekxZV2ctN2VDdDM5aFRBdkZ6eElNYmdmS3VFd0hheGFMa3pLZ0pjQTR3TExZaDZ2d2prb3lwWlVIM09jLW1pMi1nOUtMNnFJdUVBRzI2Q3lFeTAtdnZqOHl6SUFlNC04ZWxPTzFXbC1OdHZqNWdsdzRmenN4Ui1Tc25RSWhPNEhBM1pSaVl1aTNkUUo4TWs5Tzg4QjU1SlRoeW1OUEpYRTF0bUo2eXFNUnA0TE5HZ1VtdEFNYm40TkJYSjFkSDljMENDOXhPOTJiMG1DLUtDejV2cDBIeDJpMTN0TjRmX2kzRjRlMXFTZkV5VzRCSkdYNEpFUQ?oc=5\" target=\"_blank\">AI to help predict employment, health, disasters in MP, cut risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa3JONngtRVNwaERITUcxR2NwSmRyejJ1Rm9zUkFoVzRDQlF1cXU2M2Q4YkdRcHJfTFBhT25UclE1dFQ0cW9pUmF6Y3R6NWFaVldiSjVQZ2tzZVRINTh1Z29zMFV4NVFfVEV1MTZibDNrYjZJZ3FNOHROR2hCMVlvTEdXYU9rY3RGX0NPSWMwUFFzRWVlSnVwa3RoUGp4UnVWamN6SGtOeTJ3ZFpFN1QzUlpoWWRNZ0tLc013RTlFQ081R2ZZeW9ReTk3ZGJHdmZhMFZLTl9yNmJocmhmNTJ2TVNENDltVWx5QmJRR1ZNM05QendIRXJIX3d1eGxwVGdqcVU3eDZNQ09rMGxSOG5lQdIBlgJBVV95cUxNejFiWUJpMEd6QlplTzFETWEtVkZLRG9yTXBpekxZV2ctN2VDdDM5aFRBdkZ6eElNYmdmS3VFd0hheGFMa3pLZ0pjQTR3TExZaDZ2d2prb3lwWlVIM09jLW1pMi1nOUtMNnFJdUVBRzI2Q3lFeTAtdnZqOHl6SUFlNC04ZWxPTzFXbC1OdHZqNWdsdzRmenN4Ui1Tc25RSWhPNEhBM1pSaVl1aTNkUUo4TWs5Tzg4QjU1SlRoeW1OUEpYRTF0bUo2eXFNUnA0TE5HZ1VtdEFNYm40TkJYSjFkSDljMENDOXhPOTJiMG1DLUtDejV2cDBIeDJpMTN0TjRmX2kzRjRlMXFTZkV5VzRCSkdYNEpFUQ?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:50+00:00"
+  }
+ ]
+}

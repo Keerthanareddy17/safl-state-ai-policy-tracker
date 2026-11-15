@@ -1,0 +1,109 @@
+{
+ "region": "Goa",
+ "group": "B",
+ "query": "(Goa) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Goa%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:52+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa crosses 1 lakh chest X-rays reviewed using AI in public health system",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXVlWG5scjZfUDJDZkRzeXlsa1EwNUFVSkxmZmdBRnFyVWczeXJnTDZqY2kxZ085VWpUZk9WS2d0Qm5hTXRhWHhVLTA4Tjk2eG5LazI1cy1rZEZRV3RnZWxPMXZwdmtIMi1CRkY5c3Zlam1qa081djZTaVNfdjBLTktrM3o3bEEyNmpQUkZPNHJZT3AwNmVhMjNWQ2I5eDBzYklCanlINmxSMU5YRFQ0WW40UTBVX0FycndJ?oc=5\" target=\"_blank\">Goa crosses 1 lakh chest X-rays reviewed using AI in public health system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Express Healthcare</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXVlWG5scjZfUDJDZkRzeXlsa1EwNUFVSkxmZmdBRnFyVWczeXJnTDZqY2kxZ085VWpUZk9WS2d0Qm5hTXRhWHhVLTA4Tjk2eG5LazI1cy1rZEZRV3RnZWxPMXZwdmtIMi1CRkY5c3Zlam1qa081djZTaVNfdjBLTktrM3o3bEEyNmpQUkZPNHJZT3AwNmVhMjNWQ2I5eDBzYklCanlINmxSMU5YRFQ0WW40UTBVX0FycndJ?oc=5",
+   "source_name": "Express Healthcare",
+   "source_domain": "expresshealthcare.in",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "India Energy Week 2026 to Bring Global Energy Leadership Together in Goa: Shri Hardeep S Puri",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSVQ5aGw0QlFMN3RUU1V0d3FHZmMxczZMVGZoZFoxeGVDN3JZNVZYNUxlLXRsTG83WHo1R3BieHJjRy1sSk9HRDE3cHRjUXBaZktiSVFPU01Ga01aLXhrTlI3R2RTS3FC?oc=5\" target=\"_blank\">India Energy Week 2026 to Bring Global Energy Leadership Together in Goa: Shri Hardeep S Puri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSVQ5aGw0QlFMN3RUU1V0d3FHZmMxczZMVGZoZFoxeGVDN3JZNVZYNUxlLXRsTG83WHo1R3BieHJjRy1sSk9HRDE3cHRjUXBaZktiSVFPU01Ga01aLXhrTlI3R2RTS3FC?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Over 1 lakh chest X-rays screened using AI in Goa; diagnosis time cut by over 50% : Health Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmxHdThvRERfVHJ0RmtGZGdSVGEtODdES2lpb2VWWDJ0NGVUUFA3YUNibUxBdHlHR3NQd1Z1LThUaUJnNi14N3didDlvQmhaSFAtaHZHbnQ3SGpyUmJUbThCdENXRndiaXJjMVYxay1Gd0dvSDhnSlRZWWdRd0o5a0JRNm9aRkdzWUhzbF95NmtSQ3N2XzlpTUlvQ1ljN0diTWhHb2M0QVltTklvVzlTYnhSWVZfNElseGtz?oc=5\" target=\"_blank\">Over 1 lakh chest X-rays screened using AI in Goa; diagnosis time cut by over 50% : Health Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitalgoa</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmxHdThvRERfVHJ0RmtGZGdSVGEtODdES2lpb2VWWDJ0NGVUUFA3YUNibUxBdHlHR3NQd1Z1LThUaUJnNi14N3didDlvQmhaSFAtaHZHbnQ3SGpyUmJUbThCdENXRndiaXJjMVYxay1Gd0dvSDhnSlRZWWdRd0o5a0JRNm9aRkdzWUhzbF95NmtSQ3N2XzlpTUlvQ1ljN0diTWhHb2M0QVltTklvVzlTYnhSWVZfNElseGtz?oc=5",
+   "source_name": "digitalgoa",
+   "source_domain": "digitalgoa.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI toll booths slap fines despite valid docus: Motorists",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm84M0dFQlFZalNJczZzTFdBOTdDei1NN2FlM3ppZ0JoTm4ydUVfdE1rZ0pNMGZNazhjX1BZNXZtR0RXUWZOenZSbk5XbVBiMTFxa2dJR0d4bng3NU1mV05xZEEzZzNtdUtYYk1sZnFDaXBBUUJXd2lDQjBjUkxMUUxRbjJqY1NJa2ZNU3hxZVJXS0R1cENRQ3VoZ2pBdnNXNmdXOS1LS1dUbEpxZUhWVU9SSmY2Ml83WVB2Nk9XUlBzbjFF0gHKAUFVX3lxTE5VMjAtR19OM2NmdWxXVW0zWFB2b1VtbXE5cVdwd1BtMGtzbEF5RW5MaDlOTkNKazl0aXI5VVBfaG4wbjN1eElGMU1GaE1YUHZ4UkdfR0wwTkFMNVE4eGVZZjZoVWNuazdBOTE1OXFXSnYxT0xLVlpDX0FCd3NDM2hjX1V1eElCeE90c3JnbkxNa2hocGVvN0tudS1Zbm1ETktiV3BOZl9SajRGUXBhTWloVEtJd2tXMGdFR0NlUnF4dW02ZDg0SEFkRXc?oc=5\" target=\"_blank\">AI toll booths slap fines despite valid docus: Motorists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm84M0dFQlFZalNJczZzTFdBOTdDei1NN2FlM3ppZ0JoTm4ydUVfdE1rZ0pNMGZNazhjX1BZNXZtR0RXUWZOenZSbk5XbVBiMTFxa2dJR0d4bng3NU1mV05xZEEzZzNtdUtYYk1sZnFDaXBBUUJXd2lDQjBjUkxMUUxRbjJqY1NJa2ZNU3hxZVJXS0R1cENRQ3VoZ2pBdnNXNmdXOS1LS1dUbEpxZUhWVU9SSmY2Ml83WVB2Nk9XUlBzbjFF0gHKAUFVX3lxTE5VMjAtR19OM2NmdWxXVW0zWFB2b1VtbXE5cVdwd1BtMGtzbEF5RW5MaDlOTkNKazl0aXI5VVBfaG4wbjN1eElGMU1GaE1YUHZ4UkdfR0wwTkFMNVE4eGVZZjZoVWNuazdBOTE1OXFXSnYxT0xLVlpDX0FCd3NDM2hjX1V1eElCeE90c3JnbkxNa2hocGVvN0tudS1Zbm1ETktiV3BOZl9SajRGUXBhTWloVEtJd2tXMGdFR0NlUnF4dW02ZDg0SEFkRXc?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 29 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa nightclub fire: Owners who fled to Thailand detained",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uY29UWWx5UnFLYjEwSFY3Nm9RUWhZaWxQNW83b0k1ckJaWm05VzlBczY2ZW9XQzZhMmtfdFZqaE54QXM4WkIzbW5DUnItdE56cENiZE1JRTFjdw?oc=5\" target=\"_blank\">Goa nightclub fire: Owners who fled to Thailand detained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uY29UWWx5UnFLYjEwSFY3Nm9RUWhZaWxQNW83b0k1ckJaWm05VzlBczY2ZW9XQzZhMmtfdFZqaE54QXM4WkIzbW5DUnItdE56cENiZE1JRTFjdw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Thu, 11 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI-system to challan vehicles sans valid docus at Goa border checkposts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVl5b2ZUaDgwRzZ3azM2djFRNFJnMXdlQVZIVTVzMGh3Z05pQ2NnNkdtdHFkc3otX2NTdGtleVFrak9Hd0l5VHAtazBiTzJxM3kxV1FPYmpsRXlobjNtWmQ5RjlRbklVUF9pT1dNT3g5SHY1WUJkM0FaMENUR2NXd25DWC1QdTNIYnpqbXBhVjdYem43dXJzVU1fQ1VKT1ZFOFZHZm1RT3JnRzc0M1hyRVBJb2psSVN4VGhmQmpwUzFubGVLUGRtYkpINldXa0o2RFJTQ3R0SE9TZ9IB3wFBVV95cUxPVllad0t5enRmQVpIanZyN2Z1MXBsSVp6dXMyMXZlNXlYeWJLdXBWa3NFOFdOVVM4TkZDUTRTMkNTVU9LQzc2dFlhbDVtaEJhVDNfSHJNTGg5bXBGTjlSUGNEWkNUQzZGaVR5Mk82ZVlBR2JBRWJ4VnZuamNEeG5ibzlqWUlaTnRLcDNvc2lpdGFwSFpOYVVzRkYyQ1ZaYlVlNC1QN1V4Z3E5ZE82YThOWmNuUmR5QWlDRTBGcHpyeHl1WlhkaVYzSTQ3Zkd2ZDd6aXFEZVI0eUhfMVltSnVv?oc=5\" target=\"_blank\">AI-system to challan vehicles sans valid docus at Goa border checkposts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVl5b2ZUaDgwRzZ3azM2djFRNFJnMXdlQVZIVTVzMGh3Z05pQ2NnNkdtdHFkc3otX2NTdGtleVFrak9Hd0l5VHAtazBiTzJxM3kxV1FPYmpsRXlobjNtWmQ5RjlRbklVUF9pT1dNT3g5SHY1WUJkM0FaMENUR2NXd25DWC1QdTNIYnpqbXBhVjdYem43dXJzVU1fQ1VKT1ZFOFZHZm1RT3JnRzc0M1hyRVBJb2psSVN4VGhmQmpwUzFubGVLUGRtYkpINldXa0o2RFJTQ3R0SE9TZ9IB3wFBVV95cUxPVllad0t5enRmQVpIanZyN2Z1MXBsSVp6dXMyMXZlNXlYeWJLdXBWa3NFOFdOVVM4TkZDUTRTMkNTVU9LQzc2dFlhbDVtaEJhVDNfSHJNTGg5bXBGTjlSUGNEWkNUQzZGaVR5Mk82ZVlBR2JBRWJ4VnZuamNEeG5ibzlqWUlaTnRLcDNvc2lpdGFwSFpOYVVzRkYyQ1ZaYlVlNC1QN1V4Z3E5ZE82YThOWmNuUmR5QWlDRTBGcHpyeHl1WlhkaVYzSTQ3Zkd2ZDd6aXFEZVI0eUhfMVltSnVv?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Implementation of AI system to check vehicles deferred again",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPajB1WFJpaW9qdWpFZ09lWnJEbERzQXF4UEdlZHdrcUt2NlpIdXB4LVBDWDFESDM1NVhxWW1OZ0c0aEl4VE5wcHJVTXdzeFljck5JX0NxT0k1bEZReFNMQTRQZ29tRXgxRG9oXzQ2czZKMmsyOUNSRFZpN1c4NDF6cXBFbTFWM1hjc1Fnb0FweVl3blBIcl9nZC1LeDlZZVUzZGlkTV9wY01HbEJvWV9hdDB6cnRNR2FNSGxOYlN0TEhiMC01Z1hSM3RRVdIB0AFBVV95cUxPazZjdWVpX2NJSGo5bFdnbjhFOGdWakFLbHJKNGFXTzN4UTl0WWRXMFBiVTY0NjBib0NDdnlPWm0zbWlwRWxVendZaHRzekhZdXA1bDdqdWt2SGdBcU1NR252bGZLWUh5ZUV6N3J4YmViMFJ1SkthM1NpZ2hsQnRxYU5WN1BQQVl3WWxkZ1hqemctT0FVR2tfOXJjYXR1a1BhS0cwRUxSN0ZXdU9Fdzd3RnNOR1R5dHdYaEhGc25CY21BbmxXYUFnVktOQ01oU05Y?oc=5\" target=\"_blank\">Implementation of AI system to check vehicles deferred again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajB1WFJpaW9qdWpFZ09lWnJEbERzQXF4UEdlZHdrcUt2NlpIdXB4LVBDWDFESDM1NVhxWW1OZ0c0aEl4VE5wcHJVTXdzeFljck5JX0NxT0k1bEZReFNMQTRQZ29tRXgxRG9oXzQ2czZKMmsyOUNSRFZpN1c4NDF6cXBFbTFWM1hjc1Fnb0FweVl3blBIcl9nZC1LeDlZZVUzZGlkTV9wY01HbEJvWV9hdDB6cnRNR2FNSGxOYlN0TEhiMC01Z1hSM3RRVdIB0AFBVV95cUxPazZjdWVpX2NJSGo5bFdnbjhFOGdWakFLbHJKNGFXTzN4UTl0WWRXMFBiVTY0NjBib0NDdnlPWm0zbWlwRWxVendZaHRzekhZdXA1bDdqdWt2SGdBcU1NR252bGZLWUh5ZUV6N3J4YmViMFJ1SkthM1NpZ2hsQnRxYU5WN1BQQVl3WWxkZ1hqemctT0FVR2tfOXJjYXR1a1BhS0cwRUxSN0ZXdU9Fdzd3RnNOR1R5dHdYaEhGc25CY21BbmxXYUFnVktOQ01oU05Y?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 14 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Unity Mall project not in wetland zone, has all clearances: Goa goverment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVhrMERTSlU4Y0F0TFVHMWQzQXZGQ3NJNU0xUFhUbHQta25SZnU1ZTNtX1RvQjlWdzlpdldxUjJWcHlaeHh3ZnA4NWwtY1J0TDJuMk1XTEIwcXJnTC1RdDM4a1hpWklUN0JmX0s4ZlpJVm1tMzJiUmUwMUhPQ09Od2JNSVk4RlNLSXlsbzFtejlhNUFqa0M4c1ZpX1pkQVg0d0hxLUptd3FCZ3BNZDhibmh1c3pPWnBOeWZhN0pJamFGRndjcjdmeGRzc0ZvdFRiU2lr0gHYAUFVX3lxTE9GaW5KMWVZS181U3hmc0UycDNRNnFTcUNsaHMwN0JtbUdCNVJDTHoxQnMyUHRlLVVpYjhVdzJxUDdmU1BYNUlrUUFsLWhuaVNWVXk0RlFBb2hqcXF2Rkh0N1dMVEV4cmZVMnJQRXl0NW43eUVnVWt4S2J4UHQ4Yk9zVVczRVRmTEpWd3h5a1l0bGhrY3dpY0ljRHVMZ3p6MW80MWdYdzRWbjZXRG5aUFJTb2JfLTZDMzhQamg1a3IyejYyaWhCU2tCaFR3SEFOR2JuNFl0TUNmQw?oc=5\" target=\"_blank\">Unity Mall project not in wetland zone, has all clearances: Goa goverment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Realty</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVhrMERTSlU4Y0F0TFVHMWQzQXZGQ3NJNU0xUFhUbHQta25SZnU1ZTNtX1RvQjlWdzlpdldxUjJWcHlaeHh3ZnA4NWwtY1J0TDJuMk1XTEIwcXJnTC1RdDM4a1hpWklUN0JmX0s4ZlpJVm1tMzJiUmUwMUhPQ09Od2JNSVk4RlNLSXlsbzFtejlhNUFqa0M4c1ZpX1pkQVg0d0hxLUptd3FCZ3BNZDhibmh1c3pPWnBOeWZhN0pJamFGRndjcjdmeGRzc0ZvdFRiU2lr0gHYAUFVX3lxTE9GaW5KMWVZS181U3hmc0UycDNRNnFTcUNsaHMwN0JtbUdCNVJDTHoxQnMyUHRlLVVpYjhVdzJxUDdmU1BYNUlrUUFsLWhuaVNWVXk0RlFBb2hqcXF2Rkh0N1dMVEV4cmZVMnJQRXl0NW43eUVnVWt4S2J4UHQ4Yk9zVVczRVRmTEpWd3h5a1l0bGhrY3dpY0ljRHVMZ3p6MW80MWdYdzRWbjZXRG5aUFJTb2JfLTZDMzhQamg1a3IyejYyaWhCU2tCaFR3SEFOR2JuNFl0TUNmQw?oc=5",
+   "source_name": "ET Realty",
+   "source_domain": "realty.economictimes.indiatimes.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "After Goa Fire & Chinnaswamy Stampede, Bengaluru Police Deploy Drones, AI For Year-End Rush | Exclusive",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcUp5bENwc2VHcVVBSktCLWVyQXNPWWd2NW1PMmRhUTI5NG13X0VETG1wSklKZ3FQMGVDaUdOMFBFZzdqcFRKbnFaUnlyWmpYVDlFa1lwSDZfeVBtQ1JmMmRMTnRYR2ZzMVktNUdUUGlXak9aaXJrdU9ObEpfNVBpUkY2SDBmR2wtRU42UGJCcEJnV1l6RkdoOE1yQkxseEkwbmNxZnhaUXo4dXdjSHczUnl4enpubXhQMmpLaUVnS0lSN3d1YTRYaV9aRy1WRGdheFpYR0lRaw?oc=5\" target=\"_blank\">After Goa Fire & Chinnaswamy Stampede, Bengaluru Police Deploy Drones, AI For Year-End Rush | Exclusive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcUp5bENwc2VHcVVBSktCLWVyQXNPWWd2NW1PMmRhUTI5NG13X0VETG1wSklKZ3FQMGVDaUdOMFBFZzdqcFRKbnFaUnlyWmpYVDlFa1lwSDZfeVBtQ1JmMmRMTnRYR2ZzMVktNUdUUGlXak9aaXJrdU9ObEpfNVBpUkY2SDBmR2wtRU42UGJCcEJnV1l6RkdoOE1yQkxseEkwbmNxZnhaUXo4dXdjSHczUnl4enpubXhQMmpLaUVnS0lSN3d1YTRYaV9aRy1WRGdheFpYR0lRaw?oc=5",
+   "source_name": "News18",
+   "source_domain": "news18.com",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:52+00:00"
+  }
+ ]
+}

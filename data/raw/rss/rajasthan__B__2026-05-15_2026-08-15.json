@@ -1,0 +1,175 @@
+{
+ "region": "Rajasthan",
+ "group": "B",
+ "query": "(Rajasthan) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Rajasthan%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:42+00:00",
+ "item_count": 15,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "BHASHINI Showcases Multilingual AI Innovations at NCeG 2026; Launches Rajasthan Language Model Training Hackathon",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBZUDJxcjgxRzJ2N0dTWnJ1X1ZmUTVuYjR1UmQxeHl6cy1vUXdaUzU1cnhQcGt3dkxlbGFzbkRRZXFvYVVXSk1RdHBDdjg3UHN2QjJHbEwtb0VVNmFyV1d5eHNILXZMTTNjMll6eDY0TjZOWGNzYWF0MEFYbw?oc=5\" target=\"_blank\">BHASHINI Showcases Multilingual AI Innovations at NCeG 2026; Launches Rajasthan Language Model Training Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZUDJxcjgxRzJ2N0dTWnJ1X1ZmUTVuYjR1UmQxeHl6cy1vUXdaUzU1cnhQcGt3dkxlbGFzbkRRZXFvYVVXSk1RdHBDdjg3UHN2QjJHbEwtb0VVNmFyV1d5eHNILXZMTTNjMll6eDY0TjZOWGNzYWF0MEFYbw?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5\" target=\"_blank\">Rajasthan agriculture department, Wadhwani AI sign MoU for AI-based farming solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUmxMVlRvQVl5OHFSNG1LejMtZnFaajhFYlpzeWh1WWo0bzdneDNncXgybi1hN0laNEdmTWl1NmpNaUt5VTN5dE1ZZU8wY0pXdXR3ekRpMDFaaGJLZ2ZMdjlwd1hSTkFxY3ZjcXVWWnpLeVhhcFZJdDVBRm5DampvbXNmUVh3VHVWdUZUb0N6a05kY1NZOFVUS0xRLXJnd0U4OFYtQjBCOE1PcmpqbG5OaEdVQ3U0ZTRGc1NIT25ZTGFOMjNSdzZ3MFJWaGotSkZ1cWhvU0ZsSkJiQzVvOThfYXlUWW16V1k0NUVlOXR30gHzAUFVX3lxTE5DTlhTSndoVk81VnU0SGJmS3BSNjNPZURKREh2M0lSMEhCbDlfR1NuWkxIQXJFNklLaWF6dzdGYUlZeUdPYkxIWEZybGk2SjRyQlFJZ2IxbnBNVnRVSmt5R2VLbm9GTmJwTmpreTAxa1ZIMWZHYXNTSnZQbENyYzRjbnkzNTNxbTd1cm90NFJvUVo2OXVzVUtIbC1YdzUwdEUySklwWU5kZURKMVFWY19Fc3dsb2M0ay03aTA3TXdfWE9yRm5ocEhMRWpmZFp1VG9EdVpPbkZjRU1XN2ZWeWtXdUpLSnN0Y1kyMEVpSm1XWWJRdw?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "VGU Jaipur to Launch Rajasthan’s First Generative AI Campus in Partnership with Google Cloud",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSnhlcjd6WkM4NDFTTlo1QTBySFUyazlSdEVQNzhKVGZRY0lWc1JpR3NXWFdjc1l3Z3hieElmdm81a0Q2MXVoQmlwbTR3SURyd3cyMXowczI5dlJjeVJpV25TQnAxbFZyQng1WEREQ3lpY200QnNyVzZqU0txVVIzdkVkbW41aVhTYW96MERNSkE5N09ibENUdkhma3piY1Z3a2x6eWlVc1lVdWtLWHQxQmFmXy14OWVwMm9yWTFIaXUydDk4eWZzN2draHFDMENjQjJFenZ30gHbAUFVX3lxTE55UE53Y29mWTRZbTd2ZmxuRVpndVVPeXRXbjFSa2Rpc1M3Y0dmQWluMFRIRHVabkNCWVlMUk9kdmREMUpWbG5RTXhValhnbG85a0pXYUxWbjBFS01FQ29qbjdHU0NKNXlwUUkwQUhjM2JPRFBybEkwMlVDdC05N2ZIRjJaSHpJaXExWDFVci1zaFVfRUpRUjNsMVdGUFAtRGZVMkZya3NTVEdiZmNHdXZaeUVtbXVJTU05OTl5VFJtRG50OTVudHNob0Z4RExJUm9KWkxuYTQ5d2hidw?oc=5\" target=\"_blank\">VGU Jaipur to Launch Rajasthan’s First Generative AI Campus in Partnership with Google Cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSnhlcjd6WkM4NDFTTlo1QTBySFUyazlSdEVQNzhKVGZRY0lWc1JpR3NXWFdjc1l3Z3hieElmdm81a0Q2MXVoQmlwbTR3SURyd3cyMXowczI5dlJjeVJpV25TQnAxbFZyQng1WEREQ3lpY200QnNyVzZqU0txVVIzdkVkbW41aVhTYW96MERNSkE5N09ibENUdkhma3piY1Z3a2x6eWlVc1lVdWtLWHQxQmFmXy14OWVwMm9yWTFIaXUydDk4eWZzN2draHFDMENjQjJFenZ30gHbAUFVX3lxTE55UE53Y29mWTRZbTd2ZmxuRVpndVVPeXRXbjFSa2Rpc1M3Y0dmQWluMFRIRHVabkNCWVlMUk9kdmREMUpWbG5RTXhValhnbG85a0pXYUxWbjBFS01FQ29qbjdHU0NKNXlwUUkwQUhjM2JPRFBybEkwMlVDdC05N2ZIRjJaSHpJaXExWDFVci1zaFVfRUpRUjNsMVdGUFAtRGZVMkZya3NTVEdiZmNHdXZaeUVtbXVJTU05OTl5VFJtRG50OTVudHNob0Z4RExJUm9KWkxuYTQ5d2hidw?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Tue, 16 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "CheatGPT? Engineer uses AI to knock out competitors for government job, nabbed",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZ6bUNHU2VXWjNCdUN6bWNYaTEwQTN2Nzd1VkJ5cTI1TzFWd1cwQTlVNmhtak02dlVWaTVUUkllYkU5Y3VGUFpnSHdFTGppeGJsVXNya09WNU9sdzRFZzVjVEMwV252aWs5ZnhQS2FvUG5kdTVZN1ZvcHljUjRyZnc2RElMTGRBdldnNXBnZllidGlzN0dhZ0czVk5FZXNSV0JjRDUtYkJaR0ow0gGzAUFVX3lxTE84alVQSHFTSEMtc0pjbndHOFhpNks0b1FtczFvVi1OOGNFSk1odTl5RmdmaG5uT3NENU1KdWVaa3FnOUVTNS14cWxaNW1JNkdJd2RxSlFMMnE4NzBLWV9aYmxUYndLSDZZdUdfeld3OGFwNk9jUGJqU1lUZlpERHdWUVFJSEpkM0N2M1l5OGV1YVJIZVpEY0xmZ3JFclhwa0xkRXVKUmZrWHYtYmpvWllmalZF?oc=5\" target=\"_blank\">CheatGPT? Engineer uses AI to knock out competitors for government job, nabbed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZ6bUNHU2VXWjNCdUN6bWNYaTEwQTN2Nzd1VkJ5cTI1TzFWd1cwQTlVNmhtak02dlVWaTVUUkllYkU5Y3VGUFpnSHdFTGppeGJsVXNya09WNU9sdzRFZzVjVEMwV252aWs5ZnhQS2FvUG5kdTVZN1ZvcHljUjRyZnc2RElMTGRBdldnNXBnZllidGlzN0dhZ0czVk5FZXNSV0JjRDUtYkJaR0ow0gGzAUFVX3lxTE84alVQSHFTSEMtc0pjbndHOFhpNks0b1FtczFvVi1OOGNFSk1odTl5RmdmaG5uT3NENU1KdWVaa3FnOUVTNS14cWxaNW1JNkdJd2RxSlFMMnE4NzBLWV9aYmxUYndLSDZZdUdfeld3OGFwNk9jUGJqU1lUZlpERHdWUVFJSEpkM0N2M1l5OGV1YVJIZVpEY0xmZ3JFclhwa0xkRXVKUmZrWHYtYmpvWllmalZF?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 22 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan to use AI surveillance system in wildlife sanctuaries",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFdYM0loVHhrNWZJQlVqaTN5bzhzV1FEUGl3VEt1ZnAtWmNoVzFrX25rbVQxV0RYNHU1TVpEX2xlWG1ockFnQ1loZTFnSHE3ZVpnRVJOcDF4cWNPSWI2WWp1Z25OM084am14OVhMVWZ5RzRrU3hzNHAyXzBLcXVUMmJnZFVudkNnMWRQdGxHZ0pVU3VNbXl5a2dn0gGnAUFVX3lxTE9SbzdEQ3lCd2xrcTY5dFJZNVBKbVNoYmVQYWs4T1U3NzgtQXpSamgwcERaR3AzYmxlZDJsSzdkd0EyMXNvZ1FKYTZVdFJ2T2pOSUw4dGNGYndWbUVSaUxrNEJBazlnZGxSZFhqRWdBYkNNa0pOQnBvZWp2UUoxT3QtTjZsNHR1cmNuN2pnTU1TRUdReVFoRzFuQnFUWXBlZ09LSUpvTkFV?oc=5\" target=\"_blank\">Rajasthan to use AI surveillance system in wildlife sanctuaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFdYM0loVHhrNWZJQlVqaTN5bzhzV1FEUGl3VEt1ZnAtWmNoVzFrX25rbVQxV0RYNHU1TVpEX2xlWG1ockFnQ1loZTFnSHE3ZVpnRVJOcDF4cWNPSWI2WWp1Z25OM084am14OVhMVWZ5RzRrU3hzNHAyXzBLcXVUMmJnZFVudkNnMWRQdGxHZ0pVU3VNbXl5a2dn0gGnAUFVX3lxTE9SbzdEQ3lCd2xrcTY5dFJZNVBKbVNoYmVQYWs4T1U3NzgtQXpSamgwcERaR3AzYmxlZDJsSzdkd0EyMXNvZ1FKYTZVdFJ2T2pOSUw4dGNGYndWbUVSaUxrNEJBazlnZGxSZFhqRWdBYkNNa0pOQnBvZWp2UUoxT3QtTjZsNHR1cmNuN2pnTU1TRUdReVFoRzFuQnFUWXBlZ09LSUpvTkFV?oc=5",
+   "source_name": "Daily Pioneer",
+   "source_domain": "dailypioneer.com",
+   "published_raw": "Mon, 15 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan emerges as major data centre investment hub with proposals exceeding ₹43,000 crore",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWhENjQ3c1dJR3pxaWtRR3UyTnpxb3ZaMWRudmV5RmhucFczR1dkT1o3SVY2dmUtOC10ZjZQVEtlY1Y2TmlfU1FNdWhwMDZiajZUbjlQQzNuTWwwcEgtNXVWZEdDSUl2VUlXcVotMmRtb0tRclMyTHdseVFZWjRJSlpTTWtjemdBVEhUX3N2VEY5eW5LVGRYZ0FkcGU5STZZMEh2Mnotb2ZCaHdKSVFqOWJuZXhOV0o5RklhcVc4NUxMMkFIWnp3Y2ZqVkRLbGUtbmFyNnl0WmpEb2JQazQtcTBYb2ZhT3Fnd3hqWVp6ZVFGanNW0gH6AUFVX3lxTFBrWUVxMHBXSW56U090bHNiemRFbjE5a2Y3cGRTOTZkTDlyaExYZGdLdkV5ZDFvTmhUd3pVZ0pfcy0tcFJMSjlKbEJUOVF2Y2xJdkZtLUlLdVJ2OVgwMDNHaW9NemtNaEY2ZjJwVjMzMGw5RzVVRDZmcm1MUXNjVlZibGJJNkZraVlOaVlscGtPWC1TNjZlVExLMHhnNlNqSFE4NGo5aDBIOTZwZktoTEpoTmlPSjY4UW5KN2NweGZtSG9HLXcwTDlYLUpJOWlneDlvRHdqTk1kSVRFWDFqRnhsUkJ6WU5lTkM3X3JOazJveWFkMEVSZjhTR1E?oc=5\" target=\"_blank\">Rajasthan emerges as major data centre investment hub with proposals exceeding ₹43,000 crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rajasthan.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWhENjQ3c1dJR3pxaWtRR3UyTnpxb3ZaMWRudmV5RmhucFczR1dkT1o3SVY2dmUtOC10ZjZQVEtlY1Y2TmlfU1FNdWhwMDZiajZUbjlQQzNuTWwwcEgtNXVWZEdDSUl2VUlXcVotMmRtb0tRclMyTHdseVFZWjRJSlpTTWtjemdBVEhUX3N2VEY5eW5LVGRYZ0FkcGU5STZZMEh2Mnotb2ZCaHdKSVFqOWJuZXhOV0o5RklhcVc4NUxMMkFIWnp3Y2ZqVkRLbGUtbmFyNnl0WmpEb2JQazQtcTBYb2ZhT3Fnd3hqWVp6ZVFGanNW0gH6AUFVX3lxTFBrWUVxMHBXSW56U090bHNiemRFbjE5a2Y3cGRTOTZkTDlyaExYZGdLdkV5ZDFvTmhUd3pVZ0pfcy0tcFJMSjlKbEJUOVF2Y2xJdkZtLUlLdVJ2OVgwMDNHaW9NemtNaEY2ZjJwVjMzMGw5RzVVRDZmcm1MUXNjVlZibGJJNkZraVlOaVlscGtPWC1TNjZlVExLMHhnNlNqSFE4NGo5aDBIOTZwZktoTEpoTmlPSjY4UW5KN2NweGZtSG9HLXcwTDlYLUpJOWlneDlvRHdqTk1kSVRFWDFqRnhsUkJ6WU5lTkM3X3JOazJveWFkMEVSZjhTR1E?oc=5",
+   "source_name": "rajasthan.economictimes.indiatimes.com",
+   "source_domain": "rajasthan.economictimes.indiatimes.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Technology must drive social inclusion: Rajasthan CM Bhajan Lal Sharma at National e-Governance Conference",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1FJUVo2YlRmOGo0ckZFZjV5RnlaMFlabUY5UTVBd2ZRdzlMdDRIMDBwSHE4MUU3ZEZVWlU2UDVWT1IzWHZzUnp4ZllNTFZuSFozWTNzc284amdDRXdrRURJQjB2U2F5N3B2YXBCUjQzVnU2Q3RWVlE5T2sxYjVYSWswYzlpWndIMjd0S2N3R2xPV2pZVkFmWUFwb0hwdEFWYi1jc0g4NEFCdUFiMEpwMjV6aEpfbkpKWXgzQXFLRmJ3aUZGTExKVU56eTZaNFJRUXN5TWJBdDRhYTF3QTFzTUpJWXhsdE9NdW5abTJMTmEyR001SXlUSg?oc=5\" target=\"_blank\">Technology must drive social inclusion: Rajasthan CM Bhajan Lal Sharma at National e-Governance Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1FJUVo2YlRmOGo0ckZFZjV5RnlaMFlabUY5UTVBd2ZRdzlMdDRIMDBwSHE4MUU3ZEZVWlU2UDVWT1IzWHZzUnp4ZllNTFZuSFozWTNzc284amdDRXdrRURJQjB2U2F5N3B2YXBCUjQzVnU2Q3RWVlE5T2sxYjVYSWswYzlpWndIMjd0S2N3R2xPV2pZVkFmWUFwb0hwdEFWYi1jc0g4NEFCdUFiMEpwMjV6aEpfbkpKWXgzQXFLRmJ3aUZGTExKVU56eTZaNFJRUXN5TWJBdDRhYTF3QTFzTUpJWXhsdE9NdW5abTJMTmEyR001SXlUSg?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan building citizen-centric, digital healthcare ecosystem: Gayatri Rathore, Principal Secy, Health an..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaXlfekNfX2NBNm9iZWR3RUY5SHRjV1hKVml3bnN5NEhKYlBaQWRCdjRwYzl3SjZZanpDMzVSYk9iWEgyUUtvZkstR1JabFJzdEJwYjBNLXZkZmlselFCbHRnTzZaNlhCTFJ0THg0N042WGNiWm1PaENKNDFqT3c5aUVjQU80SWszbXNteXR1MFBUNUNtbzdxRlZ4LVlLM0x4bzB4Z19ySS13MHYtbDY4SHozT1daWDU1ei1hazdTZGNEazNVZ0RlMVV5RWcwNzlqX3hxajFQVmlQWTlSU3ZxT0c0VdIB5wFBVV95cUxQTlV1X014UzVoOThLaDVmWU9IT0V1ZUd4SDVFcTYxVExtcjVrZWl6Z2JOZWduYUJCZExfZzlCVGdMbXZMcFVRYk83SWtGREgzR2F4MGlITWROQk9kSkE2R2k1aE9LakJNWHlKV2ExUUwzcmVNR0hmSDRsbnhDZm55UWhJc0R3eU9zbDJtcDBob3BtQ0U5YkszdWR2WmdwMVBWSFVIbnZMT3F4cEtMMk5kV0FqOVcyay1uUXFpeDg5WTNOT2Q0bEE0VkVubTVTUF9EMTVDVWZxOWlpN3Z3U05xSVZHU0tWdm8?oc=5\" target=\"_blank\">Rajasthan building citizen-centric, digital healthcare ecosystem: Gayatri Rathore, Principal Secy, Health an..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaXlfekNfX2NBNm9iZWR3RUY5SHRjV1hKVml3bnN5NEhKYlBaQWRCdjRwYzl3SjZZanpDMzVSYk9iWEgyUUtvZkstR1JabFJzdEJwYjBNLXZkZmlselFCbHRnTzZaNlhCTFJ0THg0N042WGNiWm1PaENKNDFqT3c5aUVjQU80SWszbXNteXR1MFBUNUNtbzdxRlZ4LVlLM0x4bzB4Z19ySS13MHYtbDY4SHozT1daWDU1ei1hazdTZGNEazNVZ0RlMVV5RWcwNzlqX3hxajFQVmlQWTlSU3ZxT0c0VdIB5wFBVV95cUxQTlV1X014UzVoOThLaDVmWU9IT0V1ZUd4SDVFcTYxVExtcjVrZWl6Z2JOZWduYUJCZExfZzlCVGdMbXZMcFVRYk83SWtGREgzR2F4MGlITWROQk9kSkE2R2k1aE9LakJNWHlKV2ExUUwzcmVNR0hmSDRsbnhDZm55UWhJc0R3eU9zbDJtcDBob3BtQ0U5YkszdWR2WmdwMVBWSFVIbnZMT3F4cEtMMk5kV0FqOVcyay1uUXFpeDg5WTNOT2Q0bEE0VkVubTVTUF9EMTVDVWZxOWlpN3Z3U05xSVZHU0tWdm8?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Wed, 27 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan scales up Mission Madhuhari with AI, digital tracking for Type 1 diabetes care",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSXNQUExuc0FyQ3dsYzFHekE0SFdqcVZOSGt1XzlaOFJqRVRWOHZUR202LWRiOXMybmotcFBFZENLUFVNVFNMZzBMQUx2TmtaZ0xfRnV3TV82WVc5OGViNlZxbjQxcE5BRURIZUxrdTMxeWN5UUZPU015WkJRQWJNQ0std1FVbEY4cHZWMTFWTFVoekZid1d2cUJVc3R2ZHNmUWY4enBtZVkwSmczREJxUl9tdERQMXoydjRYdmFueFozV0JVREM2WU1FUTQ1a2JhOG5DdFRTN241Vmd5YU80dXpTbHRURnA2SkhaLVduREpOUdIB9gFBVV95cUxQcTYwSEFMbEFNTVNrNGJ4cklsWGtoVnN1TEJMWlNyY3ZSQ2lqM1AxdVR3dUhHeFdXY1Q5YWZWc2hQZkluMU1lR3A3bXQ3WFF0Qi0ybGpYVXJlTWVqeVVxT1RVbVBvOUFPMUkzMUdwODRvZkQ5bF9ORHJQTWs2cTFzWmpmd1J5UmE3MkkwSG1CMGRTdkR6N29DT2NWbDREY1hXSmk0bVRNVzhPWXk1UzkyZE5lQTNBZzZVMUlrcGNHVktZQnpSRkJCcFdlYkVrZmJMVWdkY3hYTUtKb1NqRFFJckdnWS1QZUpDUXliemR6OG1mWk5zWkE?oc=5\" target=\"_blank\">Rajasthan scales up Mission Madhuhari with AI, digital tracking for Type 1 diabetes care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSXNQUExuc0FyQ3dsYzFHekE0SFdqcVZOSGt1XzlaOFJqRVRWOHZUR202LWRiOXMybmotcFBFZENLUFVNVFNMZzBMQUx2TmtaZ0xfRnV3TV82WVc5OGViNlZxbjQxcE5BRURIZUxrdTMxeWN5UUZPU015WkJRQWJNQ0std1FVbEY4cHZWMTFWTFVoekZid1d2cUJVc3R2ZHNmUWY4enBtZVkwSmczREJxUl9tdERQMXoydjRYdmFueFozV0JVREM2WU1FUTQ1a2JhOG5DdFRTN241Vmd5YU80dXpTbHRURnA2SkhaLVduREpOUdIB9gFBVV95cUxQcTYwSEFMbEFNTVNrNGJ4cklsWGtoVnN1TEJMWlNyY3ZSQ2lqM1AxdVR3dUhHeFdXY1Q5YWZWc2hQZkluMU1lR3A3bXQ3WFF0Qi0ybGpYVXJlTWVqeVVxT1RVbVBvOUFPMUkzMUdwODRvZkQ5bF9ORHJQTWs2cTFzWmpmd1J5UmE3MkkwSG1CMGRTdkR6N29DT2NWbDREY1hXSmk0bVRNVzhPWXk1UzkyZE5lQTNBZzZVMUlrcGNHVktZQnpSRkJCcFdlYkVrZmJMVWdkY3hYTUtKb1NqRFFJckdnWS1QZUpDUXliemR6OG1mWk5zWkE?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan receives investment proposals worth over ₹43,000 crore in data centre sector: CM Bhajan Lal Shar..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWE12R1UzN3JXcmVhZXZfTzh4aXpRSXhxeEhmZkJ5QTFlMUZzdU8xMThJbjZIZmJiVTlpdGZkMjcxVjNJZEtEQmg5WGdzdzhmMWtycHVkenoxV0JKdHB2OGd2VGFfdHpfWEs1TjBmU0JncDdRMVRaNk1CQ3JjRWx5aUxtd1JHVmF1X2hSdy1FQzR0VkYxUlJvd2pZSVhlWFlSalhqdDRueDdUcDBQVlpPUjhkeloyQkZqRFJTX1pDM2NGV3dTd0QyUWJVU0duRDFVdDFicnFCZktWaTZUaEtaakJ0Y1NRcUtnRkw3SUpsV2l4cjRoNUV0MzFNY2Nuei1yYm9UbVJLUVlNYWPSAY8CQVVfeXFMTXdJdVUtREtDdHJTOHpxZFVUS1loUURHckJzb2p4aGJ3ZmhiYnd2UG9oalVkSHFNbDZBWEY3VWRyQk9vTlZMQUt4dl8xbkVwdzhVM3lMUXhhbUIxak5FNC1nZ1M1bGtMZmtCRlV6bW5qVjVTNlhVcEZBQVVhMENwS3R6R2ZiaFFSTm95MkFtVml0YWFDUTVmMURod2xiMldBbVJIQ3dNQ1A1dGhydjZYZGhhT0lJNVFibTNfN2NqalBCSGg0S2F2SEwwZ0k2SDhFZnhZV2hUUzltUDJ4MHptandmemN3UllfRlJ0OEIwN29DX0p4REpiaWF5ZXlfbW5ZSzE2cEhPOEtFc0lrdFZabw?oc=5\" target=\"_blank\">Rajasthan receives investment proposals worth over ₹43,000 crore in data centre sector: CM Bhajan Lal Shar..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWE12R1UzN3JXcmVhZXZfTzh4aXpRSXhxeEhmZkJ5QTFlMUZzdU8xMThJbjZIZmJiVTlpdGZkMjcxVjNJZEtEQmg5WGdzdzhmMWtycHVkenoxV0JKdHB2OGd2VGFfdHpfWEs1TjBmU0JncDdRMVRaNk1CQ3JjRWx5aUxtd1JHVmF1X2hSdy1FQzR0VkYxUlJvd2pZSVhlWFlSalhqdDRueDdUcDBQVlpPUjhkeloyQkZqRFJTX1pDM2NGV3dTd0QyUWJVU0duRDFVdDFicnFCZktWaTZUaEtaakJ0Y1NRcUtnRkw3SUpsV2l4cjRoNUV0MzFNY2Nuei1yYm9UbVJLUVlNYWPSAY8CQVVfeXFMTXdJdVUtREtDdHJTOHpxZFVUS1loUURHckJzb2p4aGJ3ZmhiYnd2UG9oalVkSHFNbDZBWEY3VWRyQk9vTlZMQUt4dl8xbkVwdzhVM3lMUXhhbUIxak5FNC1nZ1M1bGtMZmtCRlV6bW5qVjVTNlhVcEZBQVVhMENwS3R6R2ZiaFFSTm95MkFtVml0YWFDUTVmMURod2xiMldBbVJIQ3dNQ1A1dGhydjZYZGhhT0lJNVFibTNfN2NqalBCSGg0S2F2SEwwZ0k2SDhFZnhZV2hUUzltUDJ4MHptandmemN3UllfRlJ0OEIwN29DX0p4REpiaWF5ZXlfbW5ZSzE2cEhPOEtFc0lrdFZabw?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan govt ties up with International Solar Alliance to prepare energy transition roadmap",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRS1GZDJTaXVDTlh4TEFRREJ6Z3dRWDVKc2xQalVXUXFHaWNENmhBOTc1UWVNRmZZa0dlUlVNVnZzZTZuWHRIaEE2clgwYkY3aFMzWFBNRThKR2c5SzJGMkNpckRnc3hmTndQeERhTHktZ2dEU1NCbEtMdmYxdmFCTzhURHVDQjZ2VzJaZHk3b0g2WEFnTVpkcHJqQmJ2dmp2QTZJSThwb0xXM2MxemFKcXoyNnV2Q0RxbEJuOG50dUZHT2hNeXIxWnA5NFNfemJKbURSWkZleDd1Zk4xd05UZXpUTjNwU3VjdGN6c0VtbjJVaUxJ0gH6AUFVX3lxTE5hNUYzVmhYU1ZGMVZ3X1dCc1czTGpVdlA1Vl9jb1NLOEdCZ1NzdUpjTEljWlpNSzVWVTV3MFM0aUNoTVpXTGpROUY3MkRRQzFHTHhiZURtRW9aQ1R4b0ktaXFCem52eDExT01VakxFZDd0QVVWbjNETGppNDB3djBlSUJQeXppS1lVTVllLVFhZTF1bXNRWEpOdkdWUENXWnNtQndQLVItWlVReWhPeHVxZEM3dE5yZTBJUmwwTnI2dFUzZXZIbFotQk9XTmQ1SVRuZE5qRE05TjVUQXFqZE01M1JMd0w2ZU41RjdnUlRaUHNvdVRvUEJYR1E?oc=5\" target=\"_blank\">Rajasthan govt ties up with International Solar Alliance to prepare energy transition roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET EnergyWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRS1GZDJTaXVDTlh4TEFRREJ6Z3dRWDVKc2xQalVXUXFHaWNENmhBOTc1UWVNRmZZa0dlUlVNVnZzZTZuWHRIaEE2clgwYkY3aFMzWFBNRThKR2c5SzJGMkNpckRnc3hmTndQeERhTHktZ2dEU1NCbEtMdmYxdmFCTzhURHVDQjZ2VzJaZHk3b0g2WEFnTVpkcHJqQmJ2dmp2QTZJSThwb0xXM2MxemFKcXoyNnV2Q0RxbEJuOG50dUZHT2hNeXIxWnA5NFNfemJKbURSWkZleDd1Zk4xd05UZXpUTjNwU3VjdGN6c0VtbjJVaUxJ0gH6AUFVX3lxTE5hNUYzVmhYU1ZGMVZ3X1dCc1czTGpVdlA1Vl9jb1NLOEdCZ1NzdUpjTEljWlpNSzVWVTV3MFM0aUNoTVpXTGpROUY3MkRRQzFHTHhiZURtRW9aQ1R4b0ktaXFCem52eDExT01VakxFZDd0QVVWbjNETGppNDB3djBlSUJQeXppS1lVTVllLVFhZTF1bXNRWEpOdkdWUENXWnNtQndQLVItWlVReWhPeHVxZEM3dE5yZTBJUmwwTnI2dFUzZXZIbFotQk9XTmQ1SVRuZE5qRE05TjVUQXFqZE01M1JMd0w2ZU41RjdnUlRaUHNvdVRvUEJYR1E?oc=5",
+   "source_name": "ET EnergyWorld",
+   "source_domain": "energy.economictimes.indiatimes.com",
+   "published_raw": "Thu, 09 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan education model gains national recognition",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3VMYnc1UW5DVGVtaTVYeXNORTFMb2RHV3FHWUpVQVp3T2J6OV90bEhIM0RESlk1NHRNUTJQQmt4VkRrR2s1ZkdVbXI1U3d5YXlIUUJtcDNHS0lDWWhDa0I1NHpxVzBkRjgwT0FxQjNhY1pGMm1mMFB5QjU0T1FmdV9ObVZmYXhUOUhDbFp1eVZOSkVERXZDTkVKRjlXMklPQmdtSTJKRFB3cVRFSmI3QnZfeGxjWG1rVlV5dUE1T3ZXeG5C0gHKAUFVX3lxTFBwa1ZuNmN6bmI3dF90NTJyNC1WNWF2bURucDNtV2c0OTUyOUNsRXFVN0ExTFVHWDY3d256TVBOUTBXQTFmMllGNzZKSTBXbGgxS1I2eDBUN0dpQjIyak9HclRONm50M0h1aTB5ckR1eXYyNHVZNGJEeDI0RjNSRjdSdzBrMFRhSUJLX2NIVEJFTWdvMUsxMHQ1Y0pqZVE5cUgtM0dSTnV5VTlLbkJBeFJ4UUEyYk1iQ1l0endvNXRuYXE0N3RTRU9yZnc?oc=5\" target=\"_blank\">Rajasthan education model gains national recognition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3VMYnc1UW5DVGVtaTVYeXNORTFMb2RHV3FHWUpVQVp3T2J6OV90bEhIM0RESlk1NHRNUTJQQmt4VkRrR2s1ZkdVbXI1U3d5YXlIUUJtcDNHS0lDWWhDa0I1NHpxVzBkRjgwT0FxQjNhY1pGMm1mMFB5QjU0T1FmdV9ObVZmYXhUOUhDbFp1eVZOSkVERXZDTkVKRjlXMklPQmdtSTJKRFB3cVRFSmI3QnZfeGxjWG1rVlV5dUE1T3ZXeG5C0gHKAUFVX3lxTFBwa1ZuNmN6bmI3dF90NTJyNC1WNWF2bURucDNtV2c0OTUyOUNsRXFVN0ExTFVHWDY3d256TVBOUTBXQTFmMllGNzZKSTBXbGgxS1I2eDBUN0dpQjIyak9HclRONm50M0h1aTB5ckR1eXYyNHVZNGJEeDI0RjNSRjdSdzBrMFRhSUJLX2NIVEJFTWdvMUsxMHQ1Y0pqZVE5cUgtM0dSTnV5VTlLbkJBeFJ4UUEyYk1iQ1l0endvNXRuYXE0N3RTRU9yZnc?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "NBCC bags ₹501.45-crore contracts, biggest in Rajasthan, to builds labs in 922 govt schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRU9wVmc0anVWUlFEMGJFRWJ6N08wRC1vSy1oSFBBcTRheUUzZ25oQVRHMERBQkdJOHg2QlROb1BxUGZZRmtkd0p3VUtLU19rTlVYRWU3TmhkSVpCTHFCSmlfY1ZDcDg3MHJPWjhlcHJNdEVWMW1DMWdYaC1wYTRibjk0TE9tbF9BeFFQbWJRM2lYWWxwVHZlc2N6Vm9uRkU4SkZLN0lVQmpUY1ZCOHlZZTF4ZzhwdU41czVSSVhYREx3MlVVUl9mMkVzcVl4RUdMRE5HbkRxd2lvUF9GV3ZwbE5TZFVBUC1XS3hNbUZBd9IB9AFBVV95cUxNQmZDT19OektyU2dMWGtNcy1DWndYSlZaWER4Z2stQk9DeUpTeTNSSTc3QW56TkVNVlk5Mmk2X3ZMYnFWNmo4Q1JpUjhlZWtUdGhfWEpVSXBoUWx6VDdJVDJiQzhvSWNweGY3U1RJUC1yQWtGTDNrNkZ0RXdEYi03UFJNNWtZeVl6MGMyYkE0Smd5c2Jfd0hSbGMzZGtWZWdOdDA5eTBBUlcxOFE0eFpQZVhkTUhHX2JmcEhVZ2U5TWNJYjk2MEwxTzJ1RHdjVXRYTWJzQzc0RFFSalVSR2ZkSHphS3pxTGZqeU1zUFh6SmlCSllx?oc=5\" target=\"_blank\">NBCC bags ₹501.45-crore contracts, biggest in Rajasthan, to builds labs in 922 govt schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRU9wVmc0anVWUlFEMGJFRWJ6N08wRC1vSy1oSFBBcTRheUUzZ25oQVRHMERBQkdJOHg2QlROb1BxUGZZRmtkd0p3VUtLU19rTlVYRWU3TmhkSVpCTHFCSmlfY1ZDcDg3MHJPWjhlcHJNdEVWMW1DMWdYaC1wYTRibjk0TE9tbF9BeFFQbWJRM2lYWWxwVHZlc2N6Vm9uRkU4SkZLN0lVQmpUY1ZCOHlZZTF4ZzhwdU41czVSSVhYREx3MlVVUl9mMkVzcVl4RUdMRE5HbkRxd2lvUF9GV3ZwbE5TZFVBUC1XS3hNbUZBd9IB9AFBVV95cUxNQmZDT19OektyU2dMWGtNcy1DWndYSlZaWER4Z2stQk9DeUpTeTNSSTc3QW56TkVNVlk5Mmk2X3ZMYnFWNmo4Q1JpUjhlZWtUdGhfWEpVSXBoUWx6VDdJVDJiQzhvSWNweGY3U1RJUC1yQWtGTDNrNkZ0RXdEYi03UFJNNWtZeVl6MGMyYkE0Smd5c2Jfd0hSbGMzZGtWZWdOdDA5eTBBUlcxOFE0eFpQZVhkTUhHX2JmcEhVZ2U5TWNJYjk2MEwxTzJ1RHdjVXRYTWJzQzc0RFFSalVSR2ZkSHphS3pxTGZqeU1zUFh6SmlCSllx?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan Govt Rolls Out AI Education In Schools, Trains 1 Lakh Teachers In Pilot Project Across 10 Districts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSzlDby11R29TZTRNS1RKTWxOdHFjWE9sd2xXMURqOWRtTVhCZnFnbG9CbkpVMF93SGFhYmx0TkVuWTlnb01ObTc4ZFdid0UzUm9iR3ZZR1Bac25ZSm5BRDdyaXhhdDU4dTQ4N2dxTkg5MmFxN25fY2NDckJpUlBFRFBrT1J5ZURLa0Q1TVRNT3hsSWxyTDNGVjAzV0g2SWp1X0hpdjZTOVd5WDlSODFGNkNLeHN2dnZrcU9UVW9yeHNnMXFlSm1taWtMNmhGUnItY1lEaktSOGF2VlMtbmFHU2ExeXPSAeoBQVVfeXFMTTNOb2NGTktQdWF3Z3NTY1pGcnJRcWwxYnV6c1NDSGtBY2pfYVRnWFM4djQ5Q2RMSC1RSWwwb0x1c0FvbndoVk1rT01zazhvbWx4NC16LWVJU2RmLWw5b3VlZUZsYmJBWFF3YjF6bTYxbnNiRFFsd1ZMRlBWNFlETXpkMkVqNGNFZl9XZDczSTZRaDF6M2NMbU9lUmZJSFowSFZDY2Y1S28wQ3Q1NFhvVVAyTGZJUVNMY2FRemZSdkhHelBXemZRUkNXdkxkMGlMZ0ppeHJGNnlIZU85SG1MZzQzeFctcDhFcERB?oc=5\" target=\"_blank\">Rajasthan Govt Rolls Out AI Education In Schools, Trains 1 Lakh Teachers In Pilot Project Across 10 Districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSzlDby11R29TZTRNS1RKTWxOdHFjWE9sd2xXMURqOWRtTVhCZnFnbG9CbkpVMF93SGFhYmx0TkVuWTlnb01ObTc4ZFdid0UzUm9iR3ZZR1Bac25ZSm5BRDdyaXhhdDU4dTQ4N2dxTkg5MmFxN25fY2NDckJpUlBFRFBrT1J5ZURLa0Q1TVRNT3hsSWxyTDNGVjAzV0g2SWp1X0hpdjZTOVd5WDlSODFGNkNLeHN2dnZrcU9UVW9yeHNnMXFlSm1taWtMNmhGUnItY1lEaktSOGF2VlMtbmFHU2ExeXPSAeoBQVVfeXFMTTNOb2NGTktQdWF3Z3NTY1pGcnJRcWwxYnV6c1NDSGtBY2pfYVRnWFM4djQ5Q2RMSC1RSWwwb0x1c0FvbndoVk1rT01zazhvbWx4NC16LWVJU2RmLWw5b3VlZUZsYmJBWFF3YjF6bTYxbnNiRFFsd1ZMRlBWNFlETXpkMkVqNGNFZl9XZDczSTZRaDF6M2NMbU9lUmZJSFowSFZDY2Y1S28wQ3Q1NFhvVVAyTGZJUVNMY2FRemZSdkhHelBXemZRUkNXdkxkMGlMZ0ppeHJGNnlIZU85SG1MZzQzeFctcDhFcERB?oc=5",
+   "source_name": "Free Press Journal",
+   "source_domain": "freepressjournal.in",
+   "published_raw": "Mon, 20 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Jaipur Hosts Rajasthan Education Summit 2026 Focused on Employment-Oriented AI Education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNV01JUVVuU3pYbkMwb2dVdFZxWHUyamhGdnQyeWZmVUg0Vll4UTVaYUVheEZHVVE5cExaTjZXOWVOMEVxeUJnWWpxX2psRXRuNGVFVktTdVBiUjlaXzlBY2tZVjZ1MTNBYmREOTJ2eEtsWmNPaXNIUHRqeUJUVk9FNnpNNG9qYWRHWEVXcTBLbTlsM1FCS0RrY1JMWDFGUTlZUTdyWmVDVHBsbThabHRBZGl2bE5mY21JeUJpQUZlRUp4MnVE0gHEAUFVX3lxTE1XTUlRVW5TelhuQzBvZ1V0VnFYdTJqaEZ2dDJ5ZmZVSDRWWXhRNVphRWF4RkdVUTlwTFpONlc5ZU4wRXF5QmdZanFfamxFdG40ZUVWS1N1UGJSOVpfOUFja1lWNnUxM0FiZEQ5MnZ4S2xaY09pc0hQdGp5QlRWT0U2ek00b2phZEdYRVdxMEttOWwzUUJLRGtjUkxYMUZROVlRN3JaZUNUcGxtOFpsdEFkaXZsTmZjbUl5QmlBRmVFSngydUQ?oc=5\" target=\"_blank\">Jaipur Hosts Rajasthan Education Summit 2026 Focused on Employment-Oriented AI Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SMEStreet</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV01JUVVuU3pYbkMwb2dVdFZxWHUyamhGdnQyeWZmVUg0Vll4UTVaYUVheEZHVVE5cExaTjZXOWVOMEVxeUJnWWpxX2psRXRuNGVFVktTdVBiUjlaXzlBY2tZVjZ1MTNBYmREOTJ2eEtsWmNPaXNIUHRqeUJUVk9FNnpNNG9qYWRHWEVXcTBLbTlsM1FCS0RrY1JMWDFGUTlZUTdyWmVDVHBsbThabHRBZGl2bE5mY21JeUJpQUZlRUp4MnVE0gHEAUFVX3lxTE1XTUlRVW5TelhuQzBvZ1V0VnFYdTJqaEZ2dDJ5ZmZVSDRWWXhRNVphRWF4RkdVUTlwTFpONlc5ZU4wRXF5QmdZanFfamxFdG40ZUVWS1N1UGJSOVpfOUFja1lWNnUxM0FiZEQ5MnZ4S2xaY09pc0hQdGp5QlRWT0U2ek00b2phZEdYRVdxMEttOWwzUUJLRGtjUkxYMUZROVlRN3JaZUNUcGxtOFpsdEFkaXZsTmZjbUl5QmlBRmVFSngydUQ?oc=5",
+   "source_name": "SMEStreet",
+   "source_domain": "smestreet.in",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:42+00:00"
+  }
+ ]
+}

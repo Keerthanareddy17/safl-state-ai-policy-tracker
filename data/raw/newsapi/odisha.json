@@ -1,0 +1,108 @@
+{
+ "region": "Odisha",
+ "query": "(Odisha OR Bhubaneswar) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:48:00+00:00",
+ "total_results": 9,
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "AI-based model to help scrutinise Odisha pension cases",
+   "description": "Odisha plans AI-based pension model to verify service records and pay fixation, aiming to speed up processing; departments asked to submit cadre and pay data.",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-based-model-to-help-scrutinise-odisha-pension-cases/articleshow/135641873.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-07T16:33:22Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "Quanshium AI Core develops indigenous quantum-secure drone technology",
+   "description": "Odisha-based start-up Quanshium AI Core has tested a quantum-secure drone communication link over 10 km using indigenous QRNG and post-quantum encryption technologies",
+   "url": "https://www.business-standard.com/technology/tech-news/quanshium-ai-core-develops-indigenous-quantum-secure-drone-technology-126110100753_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-11-01T15:05:20Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "Odisha eyes semiconductor push with five projects worth over $4 billion",
+   "description": "The state aims to build a semiconductor and advanced electronics ecosystem, with projects spanning chip fabrication and 3D packaging, alongside investments in AI infrastructure",
+   "url": "https://www.business-standard.com/technology/tech-news/odisha-eyes-semiconductor-push-with-five-projects-worth-over-4-billion-126103001985_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-10-30T17:49:54Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "AI course for apprenticeship-linked degree students from 2nd semester of current session",
+   "description": "Odisha to replace Good Citizenship with ‘AI for All’ VAC for AEDP students from 2026-27, boosting workplace-ready skills for apprenticeship-linked degrees.",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-course-for-apprenticeship-linked-degree-students-from-2nd-semester-of-current-session/articleshow/135274772.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-28T17:20:04Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "AI boost for commissionerate police in financial fraud probes",
+   "description": "Commissionerate police in Bhubaneswar to get AI financial investigation tool to speed fraud probes, trace fund flows, detect mule accounts and patterns.",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-boost-for-commissionerate-police-in-financial-fraud-probes/articleshow/135218696.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-26T19:03:02Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "Odisha police to hire 64 specialists for cyber crime coordination centre",
+   "description": "Odisha Police to set up S4C cyber command centre, hiring 64 cyber experts and 60 helpline agents to boost forensics, AI analytics, and investigations.",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-police-to-hire-64-specialists-for-cyber-crime-coordination-centre/articleshow/135218280.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-26T18:40:37Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "Srikant Jena seeks transparency on proposed Naraj AI data centre project",
+   "description": "Former Union minister Srikant Jena urges Odisha govt to disclose Naraj AI data centre MoU, power and water plans, incentives, jobs data, and EIA details.",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/srikant-jena-seeks-transparency-on-proposed-naraj-ai-data-centre-project/articleshow/135172711.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-24T14:54:12Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "CureBay raises ₹100 crore in Pre-Series C round to expand rural network",
+   "description": "The Bhubaneswar-based healthtech firm raised Rs 69 crore in equity and over Rs 30 crore in debt to expand its rural clinic network and strengthen AI-powered healthcare services",
+   "url": "https://www.business-standard.com/companies/news/curebay-raises-100-crore-in-pre-series-c-round-to-expand-rural-network-126102201518_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-10-22T15:01:43Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Odisha",
+   "title": "Tata Power to set up ₹54 crore GCC in Odisha for next-gen energy solutions",
+   "description": "Tata Power's new global capability centre in Odisha will develop AI-driven solutions for the energy sector, with an investment of Rs 54.31 crore and plans to create 110 skilled jobs.",
+   "url": "https://www.business-standard.com/industry/news/tata-power-to-set-up-54-crore-gcc-in-odisha-for-next-gen-energy-solutions-126102101184_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-10-21T13:50:44Z",
+   "fetched_at": "2026-11-15T09:48:00+00:00"
+  }
+ ]
+}

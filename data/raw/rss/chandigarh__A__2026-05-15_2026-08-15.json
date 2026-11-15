@@ -1,0 +1,98 @@
+{
+ "region": "Chandigarh",
+ "group": "A",
+ "query": "(Chandigarh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chandigarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:55+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "City plans hub for AI innovation, governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkZ0cVR4WU5LSEJOemVZYW9TWkY0ck56eTBmSW90ODREVHBlQmUyUXFVQzh4ZGJmdHVxaU1mZ0QyRUhmRS1hVVhndlBNY2VXOGxCYVh1elphREhud3Qzc2ZwS09JN0NoaHNzUTkwaXI1MXZSd1YtbTRReWVYNnR3UmhYaFRKaVRfLTVwazlDbDV0aFZ0bmxaak5QTmNaeXB4Z3h6dS0xcVRBeEQ5eGJFQnpOVFlIX01fa2o0U1Bn0gHDAUFVX3lxTE9hOFduN08xaUpURmdXZ21FbGRqeWg3T2FHWmZpNVNhczRDSm1CUkZrT0k0VWI3Ql9qX3h1UWZuOGpDMnlobl93aVhxWWpmdnZ4aFRTYW9TZkRaQnFMemFjRF94YzdlVUl6Tk9kb2hhN0RSSjVWbGd4Q0dKQ3JLSlByOFlyV09lU1hUS3E0cTlHV1lfSGF3SjgyUVlGVGJ5UU8yX1drNkszNUZHbWNRMnZNZmVYZVMwczFlUGlHUjVmV3Y2NA?oc=5\" target=\"_blank\">City plans hub for AI innovation, governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkZ0cVR4WU5LSEJOemVZYW9TWkY0ck56eTBmSW90ODREVHBlQmUyUXFVQzh4ZGJmdHVxaU1mZ0QyRUhmRS1hVVhndlBNY2VXOGxCYVh1elphREhud3Qzc2ZwS09JN0NoaHNzUTkwaXI1MXZSd1YtbTRReWVYNnR3UmhYaFRKaVRfLTVwazlDbDV0aFZ0bmxaak5QTmNaeXB4Z3h6dS0xcVRBeEQ5eGJFQnpOVFlIX01fa2o0U1Bn0gHDAUFVX3lxTE9hOFduN08xaUpURmdXZ21FbGRqeWg3T2FHWmZpNVNhczRDSm1CUkZrT0k0VWI3Ql9qX3h1UWZuOGpDMnlobl93aVhxWWpmdnZ4aFRTYW9TZkRaQnFMemFjRF94YzdlVUl6Tk9kb2hhN0RSSjVWbGd4Q0dKQ3JLSlByOFlyV09lU1hUS3E0cTlHV1lfSGF3SjgyUVlGVGJ5UU8yX1drNkszNUZHbWNRMnZNZmVYZVMwczFlUGlHUjVmV3Y2NA?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 13 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh University Hosts 24-Hour National AI Hackathon AI Nexus 2026; 70 Teams Develop AI Solutions for Real-World Challenges",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeGdDQ09HOHRKYVlRZ1JrRHJZUW1nTDdFTUZCSjNKQ2gyREN4TXZaY3ZCS2p6OTJOOXpjSHVVRmtId3pvTjlzcTdBR3NFaGVvaG5wbnk0QnpvaXlrMGZrMDdxbTJQdnJWcUtmQ2JuWGpwejlrOU43MEJTOHF1d0FfUUctVjhBVVhGemZWamN2TDVxNzZkaE51UmxTc2EtZVFTcFNrY0NxeWdINW40aXpHVENBcDUwTG1ZU0ZoVDgwZ3RuZGZtR25PVGkxR1NJY3U2NnlSS0lQVkxJemN6OXNhUVRLWFR1bTdxVVg2OTdHZkZrM3ZFTVVfVDRB0gH_AUFVX3lxTE5iNWVvTUc0UExLSktnVmlwUS1MVTFVQkZvNUVEM3JRQzJZZExuVTBGQVlyaE1tZ0NuR3k5T2x2Z3IyN2NDSGlNMGloYWZYVWNGQUlMeTQ3WGo4VlBmYzhLM0tZNzYzZlZTWEhoSnZtME10STV0WGFDUHFINmRPRlVVTzdFNXNIcnRnejRNQ002ZC10OERPWExpSmdYZ2dNb2JPd2tyUlVsNnNNZWhEZDV5VVl4RnNINWFDUFd1OGFqVUpPT0RUZVJsTGtrTUQyMXFILXlxaU9MX3FtRkhDM0JVOWFUeUFWY3BJZHFuYXNkdllvaFh4djdta0N0TmFwWQ?oc=5\" target=\"_blank\">Chandigarh University Hosts 24-Hour National AI Hackathon AI Nexus 2026; 70 Teams Develop AI Solutions for Real-World Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeGdDQ09HOHRKYVlRZ1JrRHJZUW1nTDdFTUZCSjNKQ2gyREN4TXZaY3ZCS2p6OTJOOXpjSHVVRmtId3pvTjlzcTdBR3NFaGVvaG5wbnk0QnpvaXlrMGZrMDdxbTJQdnJWcUtmQ2JuWGpwejlrOU43MEJTOHF1d0FfUUctVjhBVVhGemZWamN2TDVxNzZkaE51UmxTc2EtZVFTcFNrY0NxeWdINW40aXpHVENBcDUwTG1ZU0ZoVDgwZ3RuZGZtR25PVGkxR1NJY3U2NnlSS0lQVkxJemN6OXNhUVRLWFR1bTdxVVg2OTdHZkZrM3ZFTVVfVDRB0gH_AUFVX3lxTE5iNWVvTUc0UExLSktnVmlwUS1MVTFVQkZvNUVEM3JRQzJZZExuVTBGQVlyaE1tZ0NuR3k5T2x2Z3IyN2NDSGlNMGloYWZYVWNGQUlMeTQ3WGo4VlBmYzhLM0tZNzYzZlZTWEhoSnZtME10STV0WGFDUHFINmRPRlVVTzdFNXNIcnRnejRNQ002ZC10OERPWExpSmdYZ2dNb2JPd2tyUlVsNnNNZWhEZDV5VVl4RnNINWFDUFd1OGFqVUpPT0RUZVJsTGtrTUQyMXFILXlxaU9MX3FtRkhDM0JVOWFUeUFWY3BJZHFuYXNkdllvaFh4djdta0N0TmFwWQ?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Wed, 08 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Guest column | Introduce AI to fix Chandigarh MC’s governance gaps | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUklfalFVdmxhYkROd0FFRk1uOHM3ekR4b3Nmd04zTmZRVVFoMHFuQ3BXU3pSWHROTFhIUUo0QmRmeklYUTVNaU8ycXZzaXphWFh5OGRiVk9xSnFGc2dTcUE4VDdkUE5IclN2UE95MzhDanZkM0gyUHFZLXJfQnljank5RGdGdWNkNEw3MTRpT3ZyUC1lWGdFRjNnUnNzQkx2WVI5ZG1PWDlMdGtPRDBHTWJ1bUZYWVpsUFdremlQVFBjbl9xcUxlRW1nVlZaWWI3RVV3OENn0gHbAUFVX3lxTFA2SzlINmIwb2g0UjRfY3ZRQllSQzI1SS1ReTFtT2tQcVNLZTNpeDFKQWY1WHB5b1pZVTlCeWxVY21sMnE2Y3l2YnRHbU1mQXppdE5jZExGdEtTa0tSamtOc1BzV0Nrak5tRVQ5dXdjLUVmLVBCSTZQUlFfWXFUUXZfR0Y4Ml9qLXZBU3RDd3lfQlpDN2JzcW1QTDR1Rk5GOEhITllpQmpVR2k1MmNaYnhXUVd1dE5qMGgwbEJCcEc0VEw2VGtKV2hCdFRBZDloNTQzdHpDRzJlV0JKcw?oc=5\" target=\"_blank\">Guest column | Introduce AI to fix Chandigarh MC’s governance gaps | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUklfalFVdmxhYkROd0FFRk1uOHM3ekR4b3Nmd04zTmZRVVFoMHFuQ3BXU3pSWHROTFhIUUo0QmRmeklYUTVNaU8ycXZzaXphWFh5OGRiVk9xSnFGc2dTcUE4VDdkUE5IclN2UE95MzhDanZkM0gyUHFZLXJfQnljank5RGdGdWNkNEw3MTRpT3ZyUC1lWGdFRjNnUnNzQkx2WVI5ZG1PWDlMdGtPRDBHTWJ1bUZYWVpsUFdremlQVFBjbl9xcUxlRW1nVlZaWWI3RVV3OENn0gHbAUFVX3lxTFA2SzlINmIwb2g0UjRfY3ZRQllSQzI1SS1ReTFtT2tQcVNLZTNpeDFKQWY1WHB5b1pZVTlCeWxVY21sMnE2Y3l2YnRHbU1mQXppdE5jZExGdEtTa0tSamtOc1BzV0Nrak5tRVQ5dXdjLUVmLVBCSTZQUlFfWXFUUXZfR0Y4Ml9qLXZBU3RDd3lfQlpDN2JzcW1QTDR1Rk5GOEhITllpQmpVR2k1MmNaYnhXUVd1dE5qMGgwbEJCcEc0VEw2VGtKV2hCdFRBZDloNTQzdHpDRzJlV0JKcw?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Sun, 31 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQWmFYX09GRWN2ZXU0QW0yRE9OVVBZQTZ1cnlxTmZ5Z3d1YzVGTHBDNGYtYVI5UldlYWtOa00ycE9LTGJPSG5fOEw5NmxyU2lza2hmWk5QdDRXSHFfdnRUbExaT1dLNEJkcHF2RVJCV21YMzIxT1BPSUtRNnlwRE56bW1tWV9fb3I0Qkk1dnNXZTBvd3RrUFJwbjBRNjhhejlyUE5CSFFNc21fdzBuVDBObkFibXBXYWVGcjJMaTZ4eEdabHdhLWYwbkF3U2ZiZGdtYjdkNVFoSHhBZC1qTHpYbDUxNVRGRzdERGdWZnN5VTFsbzdYWEZTV1QwT0MyQWx6dFE?oc=5\" target=\"_blank\">12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWmFYX09GRWN2ZXU0QW0yRE9OVVBZQTZ1cnlxTmZ5Z3d1YzVGTHBDNGYtYVI5UldlYWtOa00ycE9LTGJPSG5fOEw5NmxyU2lza2hmWk5QdDRXSHFfdnRUbExaT1dLNEJkcHF2RVJCV21YMzIxT1BPSUtRNnlwRE56bW1tWV9fb3I0Qkk1dnNXZTBvd3RrUFJwbjBRNjhhejlyUE5CSFFNc21fdzBuVDBObkFibXBXYWVGcjJMaTZ4eEdabHdhLWYwbkF3U2ZiZGdtYjdkNVFoSHhBZC1qTHpYbDUxNVRGRzdERGdWZnN5VTFsbzdYWEZTV1QwT0MyQWx6dFE?oc=5",
+   "source_name": "PR Newswire",
+   "source_domain": "prnewswire.com",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana Vidhan Sabha holds workshop on AI-powered language technology mission Bhashini",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMFVNZ1ZNZ3ZRNTJoNVd3czMtTnl2UHpKbnpNbzZKOWVrcmRoWTNNWEl1YlRfNDlzdnpjRTFfdkM1bUpBU3luVnN3akplVVZDbUlnXzgwSE5tRUUtakVPR0wyTi0tNW1MQlcyYWI3Uloxd3RTNmFZNTRoWUVuNUlfZ3Z2QnY3ZnlrenBkeWdORjYyUkl6UTA5dkItdjZfczBBZGJpbG9oRUlzN3J0b3FJbVlia2FrWFpGTlgzUGpHVmhiM3BNYlJrVVNhZ2NBQTBtTU9GMVlWTDBrd0ZyeC1ieU1nQ3ppRGwxNHRJNnp5cTdORW1IS3lZ0gH8AUFVX3lxTE51OW8wNGlkNXNqN2k1d1BHTkZPUWFhaXR5RklDdnRxTi1ubnAxVlBEX2V6dS1UX2Fic0tLMjctSk1wOEdUbDh1YW0wNzE3VExuYmlqXzhmQWRYWVBVSm9xend1YVQtVXYtM2thaWp4Z1BaMU1ZcEpKSlNKdlE2d0hTV3RRYURNRUNzQXJqeFJTNGtYRVcwbjIzb3VkSmhkcXdqbTdHN0VneURtTlBOM216Y3RzZzhZVGhyVEZ2VjdPUFZpeFppNUJMT3VkaExHalZIQWpJN0xraGg3T3ByMlRGSW80RE1ONWFnbzUyUGJJeGtQeDYwU3FQUzZqaw?oc=5\" target=\"_blank\">Haryana Vidhan Sabha holds workshop on AI-powered language technology mission Bhashini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMFVNZ1ZNZ3ZRNTJoNVd3czMtTnl2UHpKbnpNbzZKOWVrcmRoWTNNWEl1YlRfNDlzdnpjRTFfdkM1bUpBU3luVnN3akplVVZDbUlnXzgwSE5tRUUtakVPR0wyTi0tNW1MQlcyYWI3Uloxd3RTNmFZNTRoWUVuNUlfZ3Z2QnY3ZnlrenBkeWdORjYyUkl6UTA5dkItdjZfczBBZGJpbG9oRUlzN3J0b3FJbVlia2FrWFpGTlgzUGpHVmhiM3BNYlJrVVNhZ2NBQTBtTU9GMVlWTDBrd0ZyeC1ieU1nQ3ppRGwxNHRJNnp5cTdORW1IS3lZ0gH8AUFVX3lxTE51OW8wNGlkNXNqN2k1d1BHTkZPUWFhaXR5RklDdnRxTi1ubnAxVlBEX2V6dS1UX2Fic0tLMjctSk1wOEdUbDh1YW0wNzE3VExuYmlqXzhmQWRYWVBVSm9xend1YVQtVXYtM2thaWp4Z1BaMU1ZcEpKSlNKdlE2d0hTV3RRYURNRUNzQXJqeFJTNGtYRVcwbjIzb3VkSmhkcXdqbTdHN0VneURtTlBOM216Y3RzZzhZVGhyVEZ2VjdPUFZpeFppNUJMT3VkaExHalZIQWpJN0xraGg3T3ByMlRGSW80RE1ONWFnbzUyUGJJeGtQeDYwU3FQUzZqaw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "World Youth Skills Day: As AI reshapes jobs, Chandigarh’s skill institutes race to bridge training gap",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSkpvNHJhb1d3UTNnNWlSbk8zemNsdUx5RDlGcWtyTU5mXzY0T2JrYk1RX2ZkSDN0NUVLRWo0SU91LWJNQkJXQkYxSG0tWmxJM2hhVkZWaFRTN2dEaVlya2JNakttVWN3aXNlZXFUeUd1R25SNi1xWmQ5d1BIcERHSTMwNXMzcGRqMHFwdjRjRHJ5S21sbGFKVlpJWGZIT1k5OUIxZm8xMFY5UGJmS0tkM1hwTUY0cFQyb0FiQUE5YURlLXRDc3N2RVBGaDcwNXpMQ2V6SEFHeXJOQUxmWHNJWTg1SFlrSFprMkY4VTFLWjBJMDkyZHFndFhDLUlvQV9rVEQxRS05YkvSAY4CQVVfeXFMTnlGNGFGdGtsM2xiemY4WWt3SWxzOG5YTlNvU1pDNXZ2TXNEWTBCSU05UnV0SjNRQUN3WXozdUxFdjVqbW9YcllHa3FrX2tldVJSSXd6cHVKQXRYejNBSk00dFhvSTlPMDBwSGRhZklHVWw2QWZPVS1zM1JZX3JZVHU5NTgyV2swUWdSRjF3YnFJOUFxU3puMnNyOFdLUGhnNjhMaXhyN1NvYWFaVW9rTFp5ZDZZQ0hrYS1yTWxWSGpDcW91eVJpckFsdTJub3kweExvakhzRGhuQnE1V3hzOHNSOGdIQy1xUml2ZVFjVjhqTHFjWDFxcTdqd1lCZm1pc1hiak10WjZ5dUItNkxR?oc=5\" target=\"_blank\">World Youth Skills Day: As AI reshapes jobs, Chandigarh’s skill institutes race to bridge training gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSkpvNHJhb1d3UTNnNWlSbk8zemNsdUx5RDlGcWtyTU5mXzY0T2JrYk1RX2ZkSDN0NUVLRWo0SU91LWJNQkJXQkYxSG0tWmxJM2hhVkZWaFRTN2dEaVlya2JNakttVWN3aXNlZXFUeUd1R25SNi1xWmQ5d1BIcERHSTMwNXMzcGRqMHFwdjRjRHJ5S21sbGFKVlpJWGZIT1k5OUIxZm8xMFY5UGJmS0tkM1hwTUY0cFQyb0FiQUE5YURlLXRDc3N2RVBGaDcwNXpMQ2V6SEFHeXJOQUxmWHNJWTg1SFlrSFprMkY4VTFLWjBJMDkyZHFndFhDLUlvQV9rVEQxRS05YkvSAY4CQVVfeXFMTnlGNGFGdGtsM2xiemY4WWt3SWxzOG5YTlNvU1pDNXZ2TXNEWTBCSU05UnV0SjNRQUN3WXozdUxFdjVqbW9YcllHa3FrX2tldVJSSXd6cHVKQXRYejNBSk00dFhvSTlPMDBwSGRhZklHVWw2QWZPVS1zM1JZX3JZVHU5NTgyV2swUWdSRjF3YnFJOUFxU3puMnNyOFdLUGhnNjhMaXhyN1NvYWFaVW9rTFp5ZDZZQ0hrYS1yTWxWSGpDcW91eVJpckFsdTJub3kweExvakhzRGhuQnE1V3hzOHNSOGdIQy1xUml2ZVFjVjhqTHFjWDFxcTdqd1lCZm1pc1hiak10WjZ5dUItNkxR?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Infra, AI, cyber policing & more: Haryana to spend Rs 980cr on police modernisation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ0lmZnJUcDcxa3FxUTBmTUxOa2VPYnpHblR6aUY1X1ZZR0J5d2lZR3RKNVJhcE05VV9iWTMwSjZCNGJSdDNzZlExalpsZjZkWlNuek8weTNzbFNsYkpFeEFQYUc2d05WTzR3Tmk0a01yZjBEYmNMQkxScGtUSENIc3RNbllPY3U3b1oxYWNDMTVYdXZvdHFGdzl2T1hzaTg0ejQtTEpCYUZvaERjQVZCLWJ1NGw3T1EwT0NKaGR2SVU4NkgzdU9UQTc2X2ExZTU2RjYwRFRWalNkdEp3dnlXcFVhbGwwaEpIRUdvWNIB8gFBVV95cUxNcDJpb1p1b1dCUVM4RnFINkxrZ3VJN3l0ckttV3ozTXVYU1k1WUdPNUs0TFdVVWE0eW14VEZEQnJJRmFKTFNDMUl0VHlib3dpeEJYSFphQjc4YWU4MGhYN3h1MjE3eWZCblJITUtPakdpQVZBaVZyZE5yR0xHTk5CVUVvbUFHTnBucXNoVW5iMnZGYVBvU2VraG9wTXV0NHBaNGhZUWJvT3BfcG50ekNaa3hjODNHcXFxTG0wNUtiU1JOdE9GaWUtU1UxNUtIajJSNkNubHRGSngyVURXSVZaVVdzOUFReXBUdkczUm9ObWRqZw?oc=5\" target=\"_blank\">Infra, AI, cyber policing & more: Haryana to spend Rs 980cr on police modernisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ0lmZnJUcDcxa3FxUTBmTUxOa2VPYnpHblR6aUY1X1ZZR0J5d2lZR3RKNVJhcE05VV9iWTMwSjZCNGJSdDNzZlExalpsZjZkWlNuek8weTNzbFNsYkpFeEFQYUc2d05WTzR3Tmk0a01yZjBEYmNMQkxScGtUSENIc3RNbllPY3U3b1oxYWNDMTVYdXZvdHFGdzl2T1hzaTg0ejQtTEpCYUZvaERjQVZCLWJ1NGw3T1EwT0NKaGR2SVU4NkgzdU9UQTc2X2ExZTU2RjYwRFRWalNkdEp3dnlXcFVhbGwwaEpIRUdvWNIB8gFBVV95cUxNcDJpb1p1b1dCUVM4RnFINkxrZ3VJN3l0ckttV3ozTXVYU1k1WUdPNUs0TFdVVWE0eW14VEZEQnJJRmFKTFNDMUl0VHlib3dpeEJYSFphQjc4YWU4MGhYN3h1MjE3eWZCblJITUtPakdpQVZBaVZyZE5yR0xHTk5CVUVvbUFHTnBucXNoVW5iMnZGYVBvU2VraG9wTXV0NHBaNGhZUWJvT3BfcG50ekNaa3hjODNHcXFxTG0wNUtiU1JOdE9GaWUtU1UxNUtIajJSNkNubHRGSngyVURXSVZaVVdzOUFReXBUdkczUm9ObWRqZw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Punjabi University, PGIMER develop AI tool for rare skin disease diagnosis",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQblJzNTFhcEdyQjAtMkhfaWRla3oxSWo5OEszdS1mUkljdnl1REZWQU1QZHJ1aDJMbndrTDNtaFp2cFVFNEZYcjNvV08zVVQ4dk9WZlJQMElQZW5mNWhkUVRWLUUxcVI2SUF5X1lyVVRpNm1QaExsU0lXeThHOHdnakwzV2huMlNPNzNlZkpFd3ZmajByZ3NaX3RyWVhTcmtITy1DYU1za1pXV3ZqNnpzRER4T3ZnRy1BYmlhZy1RYnl4RWc0ZzhmNUltYTJ2UEswS3lLX1lGWE5fSXp2cFRTNldFbHUtZ9IB6wFBVV95cUxPMDhuQXEyTzVwdV9taVVjZVhmblRVdzFFdVdjc2Y0X0p1RW13X3NJME9FTVQ4WURLQlB4STB0Ym9qbDhXUWtUM1REc1h3Zmc3RkVnU3JoSHVEd3lWaVNqMHIzaUxlaTFKMEJfNERJS2w1SjlZbk1LdGIwdVRKbGF2SXhFMEJPSlhiMUR1MzF2X3lMQVlZYmo1eDJzSEpJS3o1TFk1blJTcDJQaGJVbEZ2MkVIVE1wa25HYkFqYV9Sa1dHay1XTG5pVnFoR21qSUo2bHNrQXgzRWE2cFNMSnV1MTZjZ3dnOEhzT240?oc=5\" target=\"_blank\">Punjabi University, PGIMER develop AI tool for rare skin disease diagnosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQblJzNTFhcEdyQjAtMkhfaWRla3oxSWo5OEszdS1mUkljdnl1REZWQU1QZHJ1aDJMbndrTDNtaFp2cFVFNEZYcjNvV08zVVQ4dk9WZlJQMElQZW5mNWhkUVRWLUUxcVI2SUF5X1lyVVRpNm1QaExsU0lXeThHOHdnakwzV2huMlNPNzNlZkpFd3ZmajByZ3NaX3RyWVhTcmtITy1DYU1za1pXV3ZqNnpzRER4T3ZnRy1BYmlhZy1RYnl4RWc0ZzhmNUltYTJ2UEswS3lLX1lGWE5fSXp2cFRTNldFbHUtZ9IB6wFBVV95cUxPMDhuQXEyTzVwdV9taVVjZVhmblRVdzFFdVdjc2Y0X0p1RW13X3NJME9FTVQ4WURLQlB4STB0Ym9qbDhXUWtUM1REc1h3Zmc3RkVnU3JoSHVEd3lWaVNqMHIzaUxlaTFKMEJfNERJS2w1SjlZbk1LdGIwdVRKbGF2SXhFMEJPSlhiMUR1MzF2X3lMQVlZYmo1eDJzSEpJS3o1TFk1blJTcDJQaGJVbEZ2MkVIVE1wa25HYkFqYV9Sa1dHay1XTG5pVnFoR21qSUo2bHNrQXgzRWE2cFNMSnV1MTZjZ3dnOEhzT240?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 08 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:55+00:00"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "region": "Goa",
+ "group": "A",
+ "query": "(Goa) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Goa%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:46+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Govt unveils draft AI policy with aim to position state as global hub for high-tech innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnpCSlFRS1Q0RUFNYUphcG02eFkzeHR0dmRQR2p1MDgwZnEyTU5OYlFfTmF1QVVYUnFyeG5odXoycFFacU9XTjlBYUhOelFsVThma0QzeDBESzZxRnNqc0ZjQzhJeVZFNWFCWm83Z0h5QzhTR3JmOTVMbnZaYmN5VzlXMzZZenY5NVlfUHJ5VVRjektOVmNPaTF2RTBQNnpvVlViVDZQRWVpeUpHbFlIZ2JzalIwRU5KQXAyc0w2SVFWUE13VDFrZW56Z9IB2AFBVV95cUxNazFvb2tsN1FFRjJxXzM3a01VSTlRSU5RQW9ma0FWdzJZakhWbWdJTzZtQWl1TFlDQzUxb2VYLUhjRVJSUUJOcnhSTllDYVQyZ1hTdE9EUWNfTUJyR29mNUpnTHFfMDBYcHpibC1kWnlRMlNibEJDbnVaSUpSM3VkUy0zcVFPZkh5ZVphZ0JXVmkwYkEwaEhva1dmVjVUMERvLXFJWGRtWkVvUVROUzV3VzQ5NnBrcmw5QThhZnhIWUtXT3J4VXBtUm5qc1dMZzNHaHdfdkMwTU0?oc=5\" target=\"_blank\">Goa Govt unveils draft AI policy with aim to position state as global hub for high-tech innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PSU Watch</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnpCSlFRS1Q0RUFNYUphcG02eFkzeHR0dmRQR2p1MDgwZnEyTU5OYlFfTmF1QVVYUnFyeG5odXoycFFacU9XTjlBYUhOelFsVThma0QzeDBESzZxRnNqc0ZjQzhJeVZFNWFCWm83Z0h5QzhTR3JmOTVMbnZaYmN5VzlXMzZZenY5NVlfUHJ5VVRjektOVmNPaTF2RTBQNnpvVlViVDZQRWVpeUpHbFlIZ2JzalIwRU5KQXAyc0w2SVFWUE13VDFrZW56Z9IB2AFBVV95cUxNazFvb2tsN1FFRjJxXzM3a01VSTlRSU5RQW9ma0FWdzJZakhWbWdJTzZtQWl1TFlDQzUxb2VYLUhjRVJSUUJOcnhSTllDYVQyZ1hTdE9EUWNfTUJyR29mNUpnTHFfMDBYcHpibC1kWnlRMlNibEJDbnVaSUpSM3VkUy0zcVFPZkh5ZVphZ0JXVmkwYkEwaEhva1dmVjVUMERvLXFJWGRtWkVvUVROUzV3VzQ5NnBrcmw5QThhZnhIWUtXT3J4VXBtUm5qc1dMZzNHaHdfdkMwTU0?oc=5",
+   "source_name": "PSU Watch",
+   "source_domain": "psuwatch.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "From sun & sand to AI, GCCs and R&D, Rohan Ashok Khaunte on Goa’s tourism-tech vision",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmtRY292eTJOTlliY1FSTUtHWGZpQzRVckpJYzNvc0dYd3EzY0ZYVWVvNjdaUTdlRy02SkF2Z2ZEblBDWnlDa2lMN1YzYXdOZjQ4SjdYc1MtbDRyOTA3eno0U0FiUEhmN1J6LWpjdGFVZEJPUUdXYjJZcnh4UFhFX2ktb1lTNlZlYlpwWXJ1Z2NTNGhPZWZ3Q2kyOFRWZjNPdVQwZURVOWc0SURTQWQ3LWswbXhja1ozVmQyTzUyNGVlcE5qQ1ptSzV2TWpLVGltaTJDUnFjVEJKZ1YwWFdv0gHjAUFVX3lxTFB4WDlzbkNzd0Y1Rzd5SDBjTGtLRkpyV0JXX1ZLZUliWDdJSVg4RXdLYmpOVmRLMWhhX0M3a3YtTWZsbVdKRTdHb0V6VFdRbHg5TjBlZVIzRzJGNEtrRWtEM1hpX3lPQjVFM1ZXbDBkV1lxOVlqR3NoNTM3Y2t0WjNWS1J1RGRWXzUtSWs5ZlZrNHlibzNDSFRfdzdzTDQ3WlJWZ2FrRVF2OFNnR1JOSmNLSGE0bndSS0ZCSmZ0ZHdfLXV4T1R2djEwZkVxV3VlVVc2c2JKYWxiWDNoSjZMbnVHTjhz?oc=5\" target=\"_blank\">From sun & sand to AI, GCCs and R&amp;D, Rohan Ashok Khaunte on Goa’s tourism-tech vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmtRY292eTJOTlliY1FSTUtHWGZpQzRVckpJYzNvc0dYd3EzY0ZYVWVvNjdaUTdlRy02SkF2Z2ZEblBDWnlDa2lMN1YzYXdOZjQ4SjdYc1MtbDRyOTA3eno0U0FiUEhmN1J6LWpjdGFVZEJPUUdXYjJZcnh4UFhFX2ktb1lTNlZlYlpwWXJ1Z2NTNGhPZWZ3Q2kyOFRWZjNPdVQwZURVOWc0SURTQWQ3LWswbXhja1ozVmQyTzUyNGVlcE5qQ1ptSzV2TWpLVGltaTJDUnFjVEJKZ1YwWFdv0gHjAUFVX3lxTFB4WDlzbkNzd0Y1Rzd5SDBjTGtLRkpyV0JXX1ZLZUliWDdJSVg4RXdLYmpOVmRLMWhhX0M3a3YtTWZsbVdKRTdHb0V6VFdRbHg5TjBlZVIzRzJGNEtrRWtEM1hpX3lPQjVFM1ZXbDBkV1lxOVlqR3NoNTM3Y2t0WjNWS1J1RGRWXzUtSWs5ZlZrNHlibzNDSFRfdzdzTDQ3WlJWZ2FrRVF2OFNnR1JOSmNLSGE0bndSS0ZCSmZ0ZHdfLXV4T1R2djEwZkVxV3VlVVc2c2JKYWxiWDNoSjZMbnVHTjhz?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa turns to AI to convert piles of govt paperwork to digital records",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1lnc0tNLXMzeWxJczA3RVc0R3RuU2IxS2lvMTJvV3A0VE15dFZaa3RMamlCM2pKUXFNSDFyZ2s1Wkx2emxkbG9SMzIyWVR3TU12bDFFU2hCMGNJMFpFejI5aFM0YjBFTWNIMmllNC1jZE9WRU5lbHc0SHYtQlpJVk5WbjlRSVpQMld0RjFTZE9EeDJ0T1hsMW82ZDZIdThRV25HZm5vSkVIa1Zyc3NjTkZnckFtRDkzTThpVlltcEtQdmJuZl96TlhPd3paZWE4cnFtSEhkVdIB3AFBVV95cUxPN3F6LVR1NExTRWdLc0hfOEQ2VWZLMEp4S0ZxS2pFRElqMmN0V0t1NDJ3Q0dkWTNTXy1XNGFXSEh0bTZqUGFOdFl1cEJvNnJySUw3bHBtbnYwaGVuSGNwR2tra3B0MlVabTl4WVBCemhQOWhKYVEzbWJBSXBZdHJoNlgyNG9MdDNpUEN3ZXpsS2UyV0tFYzJBOUlZX1p2SVpteGxjY2RLUEc3U256RDgtT2V3aEw2TFk5TzJCZ2Z5cENxLUN6dmFlTDc4Z1NwNzNDN1loUEpaZ200aVBy?oc=5\" target=\"_blank\">Goa turns to AI to convert piles of govt paperwork to digital records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1lnc0tNLXMzeWxJczA3RVc0R3RuU2IxS2lvMTJvV3A0VE15dFZaa3RMamlCM2pKUXFNSDFyZ2s1Wkx2emxkbG9SMzIyWVR3TU12bDFFU2hCMGNJMFpFejI5aFM0YjBFTWNIMmllNC1jZE9WRU5lbHc0SHYtQlpJVk5WbjlRSVpQMld0RjFTZE9EeDJ0T1hsMW82ZDZIdThRV25HZm5vSkVIa1Zyc3NjTkZnckFtRDkzTThpVlltcEtQdmJuZl96TlhPd3paZWE4cnFtSEhkVdIB3AFBVV95cUxPN3F6LVR1NExTRWdLc0hfOEQ2VWZLMEp4S0ZxS2pFRElqMmN0V0t1NDJ3Q0dkWTNTXy1XNGFXSEh0bTZqUGFOdFl1cEJvNnJySUw3bHBtbnYwaGVuSGNwR2tra3B0MlVabTl4WVBCemhQOWhKYVEzbWJBSXBZdHJoNlgyNG9MdDNpUEN3ZXpsS2UyV0tFYzJBOUlZX1p2SVpteGxjY2RLUEc3U256RDgtT2V3aEw2TFk5TzJCZ2Z5cENxLUN6dmFlTDc4Z1NwNzNDN1loUEpaZ200aVBy?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 13 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "India’s AI Data Centre Surge: From Digital Back Office to Sovereign Superpower",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTByNXFOUXRSZzdnQXdSLTVCODlGMzhHa21ocWpaeUcyX21Ua0RzaXpxYUJtMU9wWVQwcm8xUmhkaTk5bnE1OGxqcG94anAtR3E1aVROOS1yOFd3Rkp5bWgtWTNXNDdvaHRQOTJPbk9GcWNZWWNpZmw0eTN6Z29nNWZXVm1vbVNDeVo2N2ZpamhFLVJWdTFVRzFqMDdoMG5oSUVOMw?oc=5\" target=\"_blank\">India’s AI Data Centre Surge: From Digital Back Office to Sovereign Superpower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goa Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTByNXFOUXRSZzdnQXdSLTVCODlGMzhHa21ocWpaeUcyX21Ua0RzaXpxYUJtMU9wWVQwcm8xUmhkaTk5bnE1OGxqcG94anAtR3E1aVROOS1yOFd3Rkp5bWgtWTNXNDdvaHRQOTJPbk9GcWNZWWNpZmw0eTN6Z29nNWZXVm1vbVNDeVo2N2ZpamhFLVJWdTFVRzFqMDdoMG5oSUVOMw?oc=5",
+   "source_name": "Goa Chronicle",
+   "source_domain": "goachronicle.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "‘Bandkhor’ film launched with focus on women’s empowerment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXJZcW94elE4cTZqM1EwSndMb3B5MlZlMndPWExpdmlvUHpjV0IwVm5MVUVuTWZENFpfTXFDYjJvaUVUM3FOTFNETHR6c2xSNkhYZ2JCLTEwUTRtNG0tMXJ0aHVPRU9oSms0YXJIbkVsUVpMSlZ2NUZrNWR5X0JPT205MHZkWUZNZjVBaTg0aG1FZUZReFB1bHNlRXRVV3dMQ002YjhCYk5IcGJDQzdMMjQzVERoS2tXNGNPdms0UVo5OFBPZ1VuVGlpdU5YY01oUzZqTkxSWTNmS2xFdngtZGdSMXRvdE50ekl4NHlpS2NTUnV4V2xXNUo4N3hDZw?oc=5\" target=\"_blank\">‘Bandkhor’ film launched with focus on women’s empowerment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXJZcW94elE4cTZqM1EwSndMb3B5MlZlMndPWExpdmlvUHpjV0IwVm5MVUVuTWZENFpfTXFDYjJvaUVUM3FOTFNETHR6c2xSNkhYZ2JCLTEwUTRtNG0tMXJ0aHVPRU9oSms0YXJIbkVsUVpMSlZ2NUZrNWR5X0JPT205MHZkWUZNZjVBaTg0aG1FZUZReFB1bHNlRXRVV3dMQ002YjhCYk5IcGJDQzdMMjQzVERoS2tXNGNPdms0UVo5OFBPZ1VuVGlpdU5YY01oUzZqTkxSWTNmS2xFdngtZGdSMXRvdE50ekl4NHlpS2NTUnV4V2xXNUo4N3hDZw?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa proposes curbs on social media for minors under 16; draft to be sent to Centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWs4ZDRWMWVCaVhIMkJ5LXhlZnh3TEwzWk10cWxUU092WVdEbm9MbEVvYjJpTUlYYWNfTnl0cDVLRGdJVVBjQXJjclhPSmRWZDBkZzRjdnRJc2YzZDVhRVJ6OVo3S08xUjBpVENTaFlGaU9xWTJPSFNVX0l6MHc4WW9UUXBHbEFjZGFuOTNIU3R3NjI1blFqTWQySWh4UWVUX3NMd0tEN1I5ODdQdmkxT0JEYkQzc3dxVTdWQTZJWW1wYzVTRDhDejNn0gHPAUFVX3lxTE9OdDdyOFp1T0lUOFBoNmJhdHRfLTgxaDlyMnFsbGJpVTlfSVQxTW1lWDVWSHJkd3BnSWpYenZ4b0diYnk1SUQ1TEpsY3ZFeGJlbWd1Y2duNUZwUXFFZ1hSMERJeE5mQUxVSGw5TFBHX1ZWQWZsV3NENUNJb2c1ZnNzX0F2ZlVBWlYzTXJKQmY1YW40dFlEdzZsQTdKRFRZQjBCWFNCaGtiZ2I1aEZLTFJuWkFpc3hoOHRyWjVJQW85d1JKZThKUWNWZGNxMC1aQQ?oc=5\" target=\"_blank\">Goa proposes curbs on social media for minors under 16; draft to be sent to Centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWs4ZDRWMWVCaVhIMkJ5LXhlZnh3TEwzWk10cWxUU092WVdEbm9MbEVvYjJpTUlYYWNfTnl0cDVLRGdJVVBjQXJjclhPSmRWZDBkZzRjdnRJc2YzZDVhRVJ6OVo3S08xUjBpVENTaFlGaU9xWTJPSFNVX0l6MHc4WW9UUXBHbEFjZGFuOTNIU3R3NjI1blFqTWQySWh4UWVUX3NMd0tEN1I5ODdQdmkxT0JEYkQzc3dxVTdWQTZJWW1wYzVTRDhDejNn0gHPAUFVX3lxTE9OdDdyOFp1T0lUOFBoNmJhdHRfLTgxaDlyMnFsbGJpVTlfSVQxTW1lWDVWSHJkd3BnSWpYenZ4b0diYnk1SUQ1TEpsY3ZFeGJlbWd1Y2duNUZwUXFFZ1hSMERJeE5mQUxVSGw5TFBHX1ZWQWZsV3NENUNJb2c1ZnNzX0F2ZlVBWlYzTXJKQmY1YW40dFlEdzZsQTdKRFRZQjBCWFNCaGtiZ2I1aEZLTFJuWkFpc3hoOHRyWjVJQW85d1JKZThKUWNWZGNxMC1aQQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Sweet potato ‘konngel’, a dish fading from dessert course",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmhTRVVfYVRRZnBpcEpiR1k5QjB4Y2dGM3pJQVZpTThsNUt5ZWhpZEVsdmdSMGdLTE5JdGN5ZGk2Y21jMkd3MTRXVUhnNmxZN2FwT1NaMElMOTRPTlRXUWx5a0lZYjF3MG5QeFdHWGxYSEFOT0RHbXI4SUU1ZkJKdzd1cE9GcElzazFVQ2xzRllSQ0cxVk9yaHNkcE4ySmNzMDF2R1dRUXF2XzQ2R1gtREk5MzlSVHh0YXpEcmFUcEo4S0HSAcgBQVVfeXFMTThud1V6elViWWVLUWZuUUFYMjNrQ1BPRm40UWd1dVYzNjdpNFM0WTVETy1HeXJEOVpZOFl3OHBfOU94VnBnMW9NZWlNUmwzeW9nQjgzQ3dVUHltMUhDblNtcExZUXVQaGJlZk1nQkFuR1pPVlk5ZXl2c1N5a1hDN1J5amZaZkw2UVVvSWdPRVRjTTZyUEFMMlRleWNoMVMyZWpQMjdJUE9TazgtOGRNMWFPYjVhR1lZOHA2T0JfWjV0TE9vMXc3R2I?oc=5\" target=\"_blank\">Sweet potato ‘konngel’, a dish fading from dessert course</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmhTRVVfYVRRZnBpcEpiR1k5QjB4Y2dGM3pJQVZpTThsNUt5ZWhpZEVsdmdSMGdLTE5JdGN5ZGk2Y21jMkd3MTRXVUhnNmxZN2FwT1NaMElMOTRPTlRXUWx5a0lZYjF3MG5QeFdHWGxYSEFOT0RHbXI4SUU1ZkJKdzd1cE9GcElzazFVQ2xzRllSQ0cxVk9yaHNkcE4ySmNzMDF2R1dRUXF2XzQ2R1gtREk5MzlSVHh0YXpEcmFUcEo4S0HSAcgBQVVfeXFMTThud1V6elViWWVLUWZuUUFYMjNrQ1BPRm40UWd1dVYzNjdpNFM0WTVETy1HeXJEOVpZOFl3OHBfOU94VnBnMW9NZWlNUmwzeW9nQjgzQ3dVUHltMUhDblNtcExZUXVQaGJlZk1nQkFuR1pPVlk5ZXl2c1N5a1hDN1J5amZaZkw2UVVvSWdPRVRjTTZyUEFMMlRleWNoMVMyZWpQMjdJUE9TazgtOGRNMWFPYjVhR1lZOHA2T0JfWjV0TE9vMXc3R2I?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Aims to Attract Deep-Tech and Semiconductor Investments at India AI Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVc5SV9YTWNVV1ZKS2s5dzdubDRvLTRFbnkxbEpWWkllajQxMnd5d1JMTXg4YzFiYWFScnRVVWRHSlEzZGpET05jQ21pdVZLWTNSX1ZYbE9mc016TkZjbHpEWk9vVHB6ZU5sUHJqaGZFU1hSdHBNTW5TU2lidUEzVjA3Vm9MSUxYSG4xUVJCRlNQVGtTS3hrNFk2X0ZESUZ3TlNURlV2Yw?oc=5\" target=\"_blank\">Goa Aims to Attract Deep-Tech and Semiconductor Investments at India AI Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goodreturns</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVc5SV9YTWNVV1ZKS2s5dzdubDRvLTRFbnkxbEpWWkllajQxMnd5d1JMTXg4YzFiYWFScnRVVWRHSlEzZGpET05jQ21pdVZLWTNSX1ZYbE9mc016TkZjbHpEWk9vVHB6ZU5sUHJqaGZFU1hSdHBNTW5TU2lidUEzVjA3Vm9MSUxYSG4xUVJCRlNQVGtTS3hrNFk2X0ZESUZ3TlNURlV2Yw?oc=5",
+   "source_name": "Goodreturns",
+   "source_domain": "goodreturns.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Who is Dr Ketan Bhatikar, the Goa Congress leader who died of a snake bite?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2ZKSUs3NV9nWUhMMXBNLXExQ1hvalJTb0lydmpObHZsemhIRzM1N2pPVFVoS042eGNvVzRkemQ4bXJ6VTFublhBQkozRDJ6Q0N4eG9iZXdlVG9HVU81dVhCd3RTX0ZJUnFGWHZnVWJyTVNTTHl1cTRsRFhkZS1DdGZ5ZWM1eGliLUFLOFo5Z1dTYzJaWFV5MlRlbFF0aHA3YUYzbF9tVUpWejBCdHUwb1h1cWt3TnFRLXpnbDAzYjZwTVJWMGFIMEtqVFJZSEZCTWR6U0RkLW3SAd4BQVVfeXFMTUJMNnpEMXd0REFwTDZVb3FUWlFTOUJOazlGLVBUTldGTlR5UDBUREc2bWdTVTh5ZE5TNEQyUDJ5bzFvR2V6eEJzOTQtclYtRXM1VFBqOC1nUm9YR0VscmEwWFJSTnQ5SFhCbmx1SzNfbVIzajNESDBJQVZXbzlCT2lRa0RFT3p5ZTFMR0Nzdk5sRDl0UGhRa3Y0cVA4Tk1HaVdDYlFjQW1oNjU4T2w0dzJ6dWlyc0prdFpseVkyQko2R1VwWFE2a2xxR2hZNkM0YXQwckNyLUhic0ZPVnF3?oc=5\" target=\"_blank\">Who is Dr Ketan Bhatikar, the Goa Congress leader who died of a snake bite?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2ZKSUs3NV9nWUhMMXBNLXExQ1hvalJTb0lydmpObHZsemhIRzM1N2pPVFVoS042eGNvVzRkemQ4bXJ6VTFublhBQkozRDJ6Q0N4eG9iZXdlVG9HVU81dVhCd3RTX0ZJUnFGWHZnVWJyTVNTTHl1cTRsRFhkZS1DdGZ5ZWM1eGliLUFLOFo5Z1dTYzJaWFV5MlRlbFF0aHA3YUYzbF9tVUpWejBCdHUwb1h1cWt3TnFRLXpnbDAzYjZwTVJWMGFIMEtqVFJZSEZCTWR6U0RkLW3SAd4BQVVfeXFMTUJMNnpEMXd0REFwTDZVb3FUWlFTOUJOazlGLVBUTldGTlR5UDBUREc2bWdTVTh5ZE5TNEQyUDJ5bzFvR2V6eEJzOTQtclYtRXM1VFBqOC1nUm9YR0VscmEwWFJSTnQ5SFhCbmx1SzNfbVIzajNESDBJQVZXbzlCT2lRa0RFT3p5ZTFMR0Nzdk5sRDl0UGhRa3Y0cVA4Tk1HaVdDYlFjQW1oNjU4T2w0dzJ6dWlyc0prdFpseVkyQko2R1VwWFE2a2xxR2hZNkM0YXQwckNyLUhic0ZPVnF3?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "KSRTC mulls affordable tour packages to Goa: Details",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHA2NVRMeE9qTzI2d0xwLVY4VTBUY0d6bHhXenJpZXpiOW1QMFM3c0xzWVFrWWlIcFlJVG9obzZtc3pvajROMVpiVHB4bkZSdVBmNERVeVFRTzlOYnc0YVQ3bThXazdLSXpPUXRLWjBFMXRiTWdVNWl6anFrNXk2OHpiaXk3Q19qcWJ6WHhKN19jUGhz0gGUAUFVX3lxTFB4cDY1VEx4T2pPMjZ3THAtVjhVMFRjR3pseFd6cmllemI5bVAwUzdzTHNZUWtZaUhwWUlUb2hvNm1zem9qNE4xWmJUcHhuRlJ1UGY0RFV5UVFPOU5idzRhVDdtOFdrN0tJek9RdEtaMEUxdGJNZ1U1aXpqcWs1eTY4emJpeTdDX2pxYnpYeEo3X2NQaHM?oc=5\" target=\"_blank\">KSRTC mulls affordable tour packages to Goa: Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onmanorama</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHA2NVRMeE9qTzI2d0xwLVY4VTBUY0d6bHhXenJpZXpiOW1QMFM3c0xzWVFrWWlIcFlJVG9obzZtc3pvajROMVpiVHB4bkZSdVBmNERVeVFRTzlOYnc0YVQ3bThXazdLSXpPUXRLWjBFMXRiTWdVNWl6anFrNXk2OHpiaXk3Q19qcWJ6WHhKN19jUGhz0gGUAUFVX3lxTFB4cDY1VEx4T2pPMjZ3THAtVjhVMFRjR3pseFd6cmllemI5bVAwUzdzTHNZUWtZaUhwWUlUb2hvNm1zem9qNE4xWmJUcHhuRlJ1UGY0RFV5UVFPOU5idzRhVDdtOFdrN0tJek9RdEtaMEUxdGJNZ1U1aXpqcWs1eTY4emJpeTdDX2pxYnpYeEo3X2NQaHM?oc=5",
+   "source_name": "Onmanorama",
+   "source_domain": "onmanorama.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:46+00:00"
+  }
+ ]
+}

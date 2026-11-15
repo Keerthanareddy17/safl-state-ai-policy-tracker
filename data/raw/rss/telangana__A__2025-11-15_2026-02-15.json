@@ -1,0 +1,109 @@
+{
+ "region": "Telangana",
+ "group": "A",
+ "query": "(Telangana OR Hyderabad) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Telangana+OR+Hyderabad%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:11+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana and Blaize sign MoU to launch Telangana AI Innovation Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFgyaDVjOGZuV0NOTE5wcUl6U0ZlVGw4RXZVNlh3WlpVeGJWS2xKVWI3VXRhbllWZUUyM1B3NXBJR3lmNmFzQnoyUzNtYWd6enJycXZ5UzhWcHZDVVdWQjMxbVlOcUVHa2VDUnVlNVBIZWFYQndmaG5fRXdtOWJwMWxMMlpjUkYxc1VYZA?oc=5\" target=\"_blank\">Telangana and Blaize sign MoU to launch Telangana AI Innovation Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">W.Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFgyaDVjOGZuV0NOTE5wcUl6U0ZlVGw4RXZVNlh3WlpVeGJWS2xKVWI3VXRhbllWZUUyM1B3NXBJR3lmNmFzQnoyUzNtYWd6enJycXZ5UzhWcHZDVVdWQjMxbVlOcUVHa2VDUnVlNVBIZWFYQndmaG5fRXdtOWJwMWxMMlpjUkYxc1VYZA?oc=5",
+   "source_name": "W.Media",
+   "source_domain": "w.media",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana, Blaize signs MoU to boost AI, semiconductor and electronics growth in state at WEF 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXRPblNfX3M4Tkc1Y1YxYW5OY2gtVUFUUkh5eHUwSHJscElLU1VocC1OVC1yb0JoOVprZXBfYk9UUG1Nc3hrcm13akNuTEltZklESkc4MW4tcWRiUkd2MzEtY05Hb2lWVGIxSExIdVFzbWR2cjNxMmh3NTVHcVJ4QnZhejFSWVBZU1JMTGs3XzFkSUtfLWlBLVQzVkQwTkV6aWRWOVIyZjFkblk2Y0VDZjdTTFdaRS05ZDc1OHo0RzU4NjdISHBsMndWUjNxc0JWM2s2MjV5N3pqbkJpYWlxUQ?oc=5\" target=\"_blank\">Telangana, Blaize signs MoU to boost AI, semiconductor and electronics growth in state at WEF 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXRPblNfX3M4Tkc1Y1YxYW5OY2gtVUFUUkh5eHUwSHJscElLU1VocC1OVC1yb0JoOVprZXBfYk9UUG1Nc3hrcm13akNuTEltZklESkc4MW4tcWRiUkd2MzEtY05Hb2lWVGIxSExIdVFzbWR2cjNxMmh3NTVHcVJ4QnZhejFSWVBZU1JMTGs3XzFkSUtfLWlBLVQzVkQwTkV6aWRWOVIyZjFkblk2Y0VDZjdTTFdaRS05ZDc1OHo0RzU4NjdISHBsMndWUjNxc0JWM2s2MjV5N3pqbkJpYWlxUQ?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "US Begins Global AI Mission in Hyderabad: Consulate Official",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1hZM1JVWVBoX3ZQNHJrVFFXRGxwZ2ZIN3otdVA2dlhZUVBCMTd1NDJxTHp0Rm55Y0RsalB1UnZKOXQxYjhuWm84dEQ3LU9SR0RyTnVtVGR6OTExMnJUZk1seEJFdlVZY3paSUxybXZ3V0JYRER6UUNEVXZOT0dDTk0zc2t1NHBPUDZZYlhYUjU1Qnlta25pcFRNOWdpUXFsM1hQLUZDY1dsRW5fczltMkp5NHhETlhaU2JjUk11b2loZzTSAcgBQVVfeXFMUHB0S1V4T0c0a0tuWEpHUVhZVExlZnlLWmxhS3VLSHl4V0dIS0tHRDhBV29BLUo4Y3ZUY29BR3ZGVWUtUUg3MVJMc2dqY2t6eXBRbHFSallxN25XSW5uTG1ZS283YWpwZ3IwLWpvR1p0djZTSlRqQXVRVmQyZGVQQlZMRFFYTzB0cmxOUDZISC1BVlpleXdvOFFvTzhaaWhGdWtCcmxibjVVMGhMM19MLUNucDhlRk5tQ0tNbWlSZmQyYjZKc3VCaEs?oc=5\" target=\"_blank\">US Begins Global AI Mission in Hyderabad: Consulate Official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1hZM1JVWVBoX3ZQNHJrVFFXRGxwZ2ZIN3otdVA2dlhZUVBCMTd1NDJxTHp0Rm55Y0RsalB1UnZKOXQxYjhuWm84dEQ3LU9SR0RyTnVtVGR6OTExMnJUZk1seEJFdlVZY3paSUxybXZ3V0JYRER6UUNEVXZOT0dDTk0zc2t1NHBPUDZZYlhYUjU1Qnlta25pcFRNOWdpUXFsM1hQLUZDY1dsRW5fczltMkp5NHhETlhaU2JjUk11b2loZzTSAcgBQVVfeXFMUHB0S1V4T0c0a0tuWEpHUVhZVExlZnlLWmxhS3VLSHl4V0dIS0tHRDhBV29BLUo4Y3ZUY29BR3ZGVWUtUUg3MVJMc2dqY2t6eXBRbHFSallxN25XSW5uTG1ZS283YWpwZ3IwLWpvR1p0djZTSlRqQXVRVmQyZGVQQlZMRFFYTzB0cmxOUDZISC1BVlpleXdvOFFvTzhaaWhGdWtCcmxibjVVMGhMM19MLUNucDhlRk5tQ0tNbWlSZmQyYjZKc3VCaEs?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Sun, 23 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana rolls out global AI innovation entity Aikam at Davos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHo3cTV5RGNGSTRidVhmQ25pU1prd0hqWjk0SUNRTlVnN01kNlU3ZDVMTzB2UE85bGpCR3J6VVVCRkduWHhIWk1DQnByRG45TzFXeU9ST3BUQm9jQi1IS1M5QUttcnpkOEg1Wm9JSjhqQ1hvczdacWpHTVJDOGZXOGtLa2kwcThadC1OaVdqWnBKOU82Nk5pVmNjbkZYc3k4cXNYSUFoUVdnTnI4R1B2SXY2ZXQtMDMxUzBjd3lLX0Z6U3h0Q0FoUjBoNzZTbUZybmJNeVN30gHbAUFVX3lxTE9oVXhMTldmemZ5T0lnMjVXSnVTdGJFNXZxc2haeFNUaTJqemctSGJkSW52Z2xCSzdrNlRrRll3Y1lIT01taHVxMzU4UGxjM3RfeThBbTRzaDNHdnBhRVBPeFJKNmVDY0oza0FCdEwtVFo4R0FyM1hOZnJpb1o3WVhjeU0zNFpKb2ZHb1hxNGdaS0VMNVd6OUhaZ1pOSFk3bDNLMXpQVzE4TzJ6OUdkMVFvYmgwMW9oLTFtWG9jVkp2YkNqckxDdE1BVFVFQzB1QjhmQVdHLUZlV3NzOA?oc=5\" target=\"_blank\">Telangana rolls out global AI innovation entity Aikam at Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHo3cTV5RGNGSTRidVhmQ25pU1prd0hqWjk0SUNRTlVnN01kNlU3ZDVMTzB2UE85bGpCR3J6VVVCRkduWHhIWk1DQnByRG45TzFXeU9ST3BUQm9jQi1IS1M5QUttcnpkOEg1Wm9JSjhqQ1hvczdacWpHTVJDOGZXOGtLa2kwcThadC1OaVdqWnBKOU82Nk5pVmNjbkZYc3k4cXNYSUFoUVdnTnI4R1B2SXY2ZXQtMDMxUzBjd3lLX0Z6U3h0Q0FoUjBoNzZTbUZybmJNeVN30gHbAUFVX3lxTE9oVXhMTldmemZ5T0lnMjVXSnVTdGJFNXZxc2haeFNUaTJqemctSGJkSW52Z2xCSzdrNlRrRll3Y1lIT01taHVxMzU4UGxjM3RfeThBbTRzaDNHdnBhRVBPeFJKNmVDY0oza0FCdEwtVFo4R0FyM1hOZnJpb1o3WVhjeU0zNFpKb2ZHb1hxNGdaS0VMNVd6OUhaZ1pOSFk3bDNLMXpQVzE4TzJ6OUdkMVFvYmgwMW9oLTFtWG9jVkp2YkNqckxDdE1BVFVFQzB1QjhmQVdHLUZlV3NzOA?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad startups launching telescope, AI-image lab to space: What will it do?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWGxfcmdSV0RJaVZJQ1E0Zmg1ZDYyeUR1XzNjdUFnMk8xNl9VTlZtSDQxVlIyR2RfbVNMS0pHZDEzX1lwUklqUDJMR19mOEFPWUdxQ1YyWWRTQ1VOT0c5eUlhY2xUbU4yYlh5elg1VWhLV0VBMlRRYmFHRHZPQ0F3Ti1lMkROY1JtbHJ5ZEZYVUpYQ056d1NaTC1PQUtOcVppM0FwY19DNExwTU8wVDZKVnZhNFFGODBCM2NkVjVvMjQ2akRsdktiQ0tocHRBVFhScW9kdmlkUVF0dlFkbzVrZTA1Tmk3RFduTmhNSXB30gHzAUFVX3lxTE8xSTdKMGQ5andzbEpScmNuQ25pdm1VVVFpNGlTbFluN2pib05LZWJjYmtOaFY4SUVCM0NRZkZKMHVtVllObHlIbk1xaTVxRzkybnpsX2FfTnVMZmlacndFTGM5elFpUC11dThZTVlBNTZEV0puODZ6ZDhvaTVoam1mZl9rWnZFX0tUeXhKY2xCbndkVFVpWV9YaS1tdmNwRWdzcTlQUnRjODQ1aTc0dElvNEZlRnBzT1lXRmtwSWh0MkpaY0pLclJLZFdza2xNVVpiZGNfSG8zbnFfMTA0MXhCZGprUDZZNVF5Qk1sREc0dHAwSQ?oc=5\" target=\"_blank\">Hyderabad startups launching telescope, AI-image lab to space: What will it do?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWGxfcmdSV0RJaVZJQ1E0Zmg1ZDYyeUR1XzNjdUFnMk8xNl9VTlZtSDQxVlIyR2RfbVNMS0pHZDEzX1lwUklqUDJMR19mOEFPWUdxQ1YyWWRTQ1VOT0c5eUlhY2xUbU4yYlh5elg1VWhLV0VBMlRRYmFHRHZPQ0F3Ti1lMkROY1JtbHJ5ZEZYVUpYQ056d1NaTC1PQUtOcVppM0FwY19DNExwTU8wVDZKVnZhNFFGODBCM2NkVjVvMjQ2akRsdktiQ0tocHRBVFhScW9kdmlkUVF0dlFkbzVrZTA1Tmk3RFduTmhNSXB30gHzAUFVX3lxTE8xSTdKMGQ5andzbEpScmNuQ25pdm1VVVFpNGlTbFluN2pib05LZWJjYmtOaFY4SUVCM0NRZkZKMHVtVllObHlIbk1xaTVxRzkybnpsX2FfTnVMZmlacndFTGM5elFpUC11dThZTVlBNTZEV0puODZ6ZDhvaTVoam1mZl9rWnZFX0tUeXhKY2xCbndkVFVpWV9YaS1tdmNwRWdzcTlQUnRjODQ1aTc0dElvNEZlRnBzT1lXRmtwSWh0MkpaY0pLclJLZFdza2xNVVpiZGNfSG8zbnFfMTA0MXhCZGprUDZZNVF5Qk1sREc0dHAwSQ?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad’s Eon Space Labs to launch AI-powered imaging payload aboard ISRO’s PSLV-C62 mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGNxU3cyb01WSVc2aTBCZFpERVY1RFpSUXpFWGtGS2hBZjFxNTdRZ2tkM2R5eHQwUHp1YVZYMmQxNWVlcmZ5bFVEMjNGZ3EtVmtadVRWZDZfMFNGdDIyWjBFbWpneEo1WWhiWF9DcVZhSkJDeHZkTTlzdGNjZ00xazk3VENBMGlqa2JPSmVUSTE0cmRrb0V2eWxBT2VZeHlISTd2a1hTSGM4bjRObmhWMUU4aXpRWFFYcG9n?oc=5\" target=\"_blank\">Hyderabad’s Eon Space Labs to launch AI-powered imaging payload aboard ISRO’s PSLV-C62 mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGNxU3cyb01WSVc2aTBCZFpERVY1RFpSUXpFWGtGS2hBZjFxNTdRZ2tkM2R5eHQwUHp1YVZYMmQxNWVlcmZ5bFVEMjNGZ3EtVmtadVRWZDZfMFNGdDIyWjBFbWpneEo1WWhiWF9DcVZhSkJDeHZkTTlzdGNjZ00xazk3VENBMGlqa2JPSmVUSTE0cmRrb0V2eWxBT2VZeHlISTd2a1hTSGM4bjRObmhWMUU4aXpRWFFYcG9n?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Fri, 09 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "CAG launches Centre of Excellence for Financial Audit in Hyderabad to modernise public sector auditing with AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPYWZudlMzSkM1dmlOanpLRk9tZE1OX19RX1ctTGM2R1pqZ3E1VjdMdkVKc01vdDFLbXhHbjNhTDdOeXdtU0ViNS1sQlBScU1RNzR2ZklZRkRUSjNVVWhXc1JYTzlzVk1CLXhXOGZaeUtyYkYyTVlobTBLalRJeEZQeTNHUVV1N1VmY3NsMmdQX3BTVzRpSzVib3pnNjdNcm5nUUJaY0xBSlpwMWFEOUI0dU9VUzJTa0lMakVGblV3Vm9LV3dJdFBzWUZaZndNM2NoRnRwV1lQQ2ZVV3pIclUyZWJ1VVBjLUdVNWpKaVJVM0dzbkpsYy1mZGd3Rmp4ejRDeHfSAY8CQVVfeXFMUFIxSDlGTWo5ZDhLb3BubnVSNXVKNjVFM1RSTzhhdFUxeFRyeXZRZjEyc0lqNldJT0puREhIUVlZeV9ya3ltRkFzbjJqQlpocHJFdHA2by0yOGd5Y0ltbGJQN3BQMzRsS2Myc0c0cmt2dWhsc3BwRkJyNnVVWEVidFI3VDRFLUg4Ny1GS1VQOWt1bjBaaXkwb1RUT0wzaUdldHZuVVU4Q3loaEFaNFE2dHdoaGNVYVdiVGtINEpMUUp2VC1OVWlYWmF6LW9DbDV4N1Q0bnp5TDFTTGtUSFdfOHJlN0E2S2FadEozMUx3Zm9uSlJiVVc2d09oQWdiV3N3RGREUjI2bHMxaHd0TjIyWQ?oc=5\" target=\"_blank\">CAG launches Centre of Excellence for Financial Audit in Hyderabad to modernise public sector auditing with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYWZudlMzSkM1dmlOanpLRk9tZE1OX19RX1ctTGM2R1pqZ3E1VjdMdkVKc01vdDFLbXhHbjNhTDdOeXdtU0ViNS1sQlBScU1RNzR2ZklZRkRUSjNVVWhXc1JYTzlzVk1CLXhXOGZaeUtyYkYyTVlobTBLalRJeEZQeTNHUVV1N1VmY3NsMmdQX3BTVzRpSzVib3pnNjdNcm5nUUJaY0xBSlpwMWFEOUI0dU9VUzJTa0lMakVGblV3Vm9LV3dJdFBzWUZaZndNM2NoRnRwV1lQQ2ZVV3pIclUyZWJ1VVBjLUdVNWpKaVJVM0dzbkpsYy1mZGd3Rmp4ejRDeHfSAY8CQVVfeXFMUFIxSDlGTWo5ZDhLb3BubnVSNXVKNjVFM1RSTzhhdFUxeFRyeXZRZjEyc0lqNldJT0puREhIUVlZeV9ya3ltRkFzbjJqQlpocHJFdHA2by0yOGd5Y0ltbGJQN3BQMzRsS2Myc0c0cmt2dWhsc3BwRkJyNnVVWEVidFI3VDRFLUg4Ny1GS1VQOWt1bjBaaXkwb1RUT0wzaUdldHZuVVU4Q3loaEFaNFE2dHdoaGNVYVdiVGtINEpMUUp2VC1OVWlYWmF6LW9DbDV4N1Q0bnp5TDFTTGtUSFdfOHJlN0E2S2FadEozMUx3Zm9uSlJiVVc2d09oQWdiV3N3RGREUjI2bHMxaHd0TjIyWQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Thu, 27 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Data Center Surge Reaches India as American Tech Giants Invest Billions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxORkZ4MnJmLXF0cUl0ci02LTBOSkUzSmJqcjZFQjkxZ3hTTWNNd282SHAyUzJueVhPRHlBeS1URDRSN0VNdHJmcmI4NUp6TjNMcjQ2cThtYXpKS3kxTnQzUmxOWUN6TEtfZndUaDZQT1QxYi1nVFdTQUVrYzVTQ0otc0tMX3VRWlF2YWxELWtDMHRFaFMyb0E?oc=5\" target=\"_blank\">Data Center Surge Reaches India as American Tech Giants Invest Billions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORkZ4MnJmLXF0cUl0ci02LTBOSkUzSmJqcjZFQjkxZ3hTTWNNd282SHAyUzJueVhPRHlBeS1URDRSN0VNdHJmcmI4NUp6TjNMcjQ2cThtYXpKS3kxTnQzUmxOWUN6TEtfZndUaDZQT1QxYi1nVFdTQUVrYzVTQ0otc0tMX3VRWlF2YWxELWtDMHRFaFMyb0E?oc=5",
+   "source_name": "The New York Times",
+   "source_domain": "nytimes.com",
+   "published_raw": "Fri, 26 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Chinmaya Mission Inaugurates ‘Chinmaya Experience’ – AI-Enabled Spirituality Stalls in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNVekxFdDlTWVNIdHhWS0JVclFsNzctenZaUjc3NlZoVFFiT0FTTGgxdTJnSzNTMWdaMkRPbUdfV0dyRHhRYlZMeFJsemtqWWtlTXpncHp4VkVtM050LURMUGliTFRYNy1TN2JPdjhCVFEzcldpOUZ5NzNsNXAtVlFlZHdLNWhISmZMd2pVOTB6Vi1rcDhfMVRqbE1VTGNDc05tQzBlRUwtN1BfT3JXeWJuY1BwWXNBM0VGWVlHSWtZQQ?oc=5\" target=\"_blank\">Chinmaya Mission Inaugurates ‘Chinmaya Experience’ – AI-Enabled Spirituality Stalls in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chennai Patrika</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNVekxFdDlTWVNIdHhWS0JVclFsNzctenZaUjc3NlZoVFFiT0FTTGgxdTJnSzNTMWdaMkRPbUdfV0dyRHhRYlZMeFJsemtqWWtlTXpncHp4VkVtM050LURMUGliTFRYNy1TN2JPdjhCVFEzcldpOUZ5NzNsNXAtVlFlZHdLNWhISmZMd2pVOTB6Vi1rcDhfMVRqbE1VTGNDc05tQzBlRUwtN1BfT3JXeWJuY1BwWXNBM0VGWVlHSWtZQQ?oc=5",
+   "source_name": "Chennai Patrika",
+   "source_domain": "chennaipatrika.com",
+   "published_raw": "Tue, 27 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:11+00:00"
+  }
+ ]
+}

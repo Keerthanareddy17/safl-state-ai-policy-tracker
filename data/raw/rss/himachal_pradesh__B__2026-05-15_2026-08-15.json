@@ -1,0 +1,120 @@
+{
+ "region": "Himachal Pradesh",
+ "group": "B",
+ "query": "(\"Himachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Himachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:34+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh Government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1wa05rb1pxMjVjNTJpU19YazNEangzS1h3N1c1ZzFRalYxQXYzMU93WDRnblhSM3hUR2h5ejN0aEk3Yk5KZXhwTndiS09WYXZqMWlRYS1tb09sZFFOVDZURlZvMmphNEJRRFZraE5RMy1EWjA?oc=5\" target=\"_blank\">Himachal Pradesh Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">himachalpr.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wa05rb1pxMjVjNTJpU19YazNEangzS1h3N1c1ZzFRalYxQXYzMU93WDRnblhSM3hUR2h5ejN0aEk3Yk5KZXhwTndiS09WYXZqMWlRYS1tb09sZFFOVDZURlZvMmphNEJRRFZraE5RMy1EWjA?oc=5",
+   "source_name": "himachalpr.gov.in",
+   "source_domain": "himachalpr.gov.in",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "HP FUTURES Moves from Evidence to Action as UNESCO and Himachal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV2duejlLd0p6X2dYUEZmRjkzb3pFZnRTQzVLNkw5alJ4WHdZSF9NSGFGQW51NkRRNFpfWlNVYUZRLU1oV1F6WmpOdDh4S09RamNHNUxYd0Zqb1NTd1E5N19JWFB0ZUNyRzRlNUttT1BsSk9abFQ3ME56WVN4eVJwQ0k2akxjSlplV052elFYQW1IYmFmMWY0OTl6cHpDaWFQanZaZ2tfWjZON1EwYVdkUTh5Z3R2RHpoSy1haF9Da2o5VkNvM0JMUA?oc=5\" target=\"_blank\">HP FUTURES Moves from Evidence to Action as UNESCO and Himachal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV2duejlLd0p6X2dYUEZmRjkzb3pFZnRTQzVLNkw5alJ4WHdZSF9NSGFGQW51NkRRNFpfWlNVYUZRLU1oV1F6WmpOdDh4S09RamNHNUxYd0Zqb1NTd1E5N19JWFB0ZUNyRzRlNUttT1BsSk9abFQ3ME56WVN4eVJwQ0k2akxjSlplV052elFYQW1IYmFmMWY0OTl6cHpDaWFQanZaZ2tfWjZON1EwYVdkUTh5Z3R2RHpoSy1haF9Da2o5VkNvM0JMUA?oc=5",
+   "source_name": "UNESCO",
+   "source_domain": "unesco.org",
+   "published_raw": "Sun, 07 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Assigns Additional Charges to 5 IAS Officers; Shubh Karan Singh Gets Energy Role",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEcweXBZbVl4ZF9rVi15SUxhZUl4d0xiQTR1TnNDSktJNTRlV1hGbDRWNXJWYTl1WERDTU5iMUNILUREcU9ZTkpkNGxjV0NSZThsemg4c1VZSHNWUjZuUVU1TXp4UEZ6bkF3a05aeWQwYklLTk5xVG5RTUNmemRsczhDNTJGbTBPQUtKZm5DSlowNUFNSFc1Z2M4ZVBqV3BwaF95dFpsYmx6SGZ6TmRzU20teUZxVTh1dUkxOUdyZ185NmtR?oc=5\" target=\"_blank\">Himachal Assigns Additional Charges to 5 IAS Officers; Shubh Karan Singh Gets Energy Role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEcweXBZbVl4ZF9rVi15SUxhZUl4d0xiQTR1TnNDSktJNTRlV1hGbDRWNXJWYTl1WERDTU5iMUNILUREcU9ZTkpkNGxjV0NSZThsemg4c1VZSHNWUjZuUVU1TXp4UEZ6bkF3a05aeWQwYklLTk5xVG5RTUNmemRsczhDNTJGbTBPQUtKZm5DSlowNUFNSFc1Z2M4ZVBqV3BwaF95dFpsYmx6SGZ6TmRzU20teUZxVTh1dUkxOUdyZ185NmtR?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Centre approves ₹25.11 crore to improve NH 305 stretch in Himachal Pradesh: PWD Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcno5ZEN3c1ZaZ1BUTF93M0N5UmVfOTdmeTU4b1Q3c21zaGVWMzFfZUxZeW1JY1pPV2Z0Nks1UWRVLWJuUk15OE05UFRUMUR5VUQ1REtZQ0RSZ3F6SUdMbW5hMjl2Wm5UdUFWSmlNa2xwOW1TREZlM2E4elI4dzlJZzIxWnBPM1hpOTM3eWNRUDlKOFg2VnhZN0hyUDBLRmRjZGVueXEtcjRQdkVhelZFQm50ZEN5ZGRFMW1PLWNXQklaN1R1TXZOQ21pZXQyWHROdjFBaERobFY4VVFhRTVyUFVWU2JYR2IyQWh2anNiWVDSAfQBQVVfeXFMTkhvZjVtRDNyelZxZVJEd3JlVHFOMDEya2dNVWtzMkx0RDR4U0tWdjdrOWxrVnU4cHpzNENRUk16WXotcG80RmdjZG9aQmZLM0w0ZHIxc1M1UkRoalcxa1dYclAxQ3haMW1lQm5Sb2s5R3RpR2dENXliT2loUGo5V3JRN3UwanAtcEhwalhpOEZEeW1VTVhLdGoxV3FESWlYWFo3cDM1bHFNek5ldXJac2xPd1UxV284dTV1dUVsUk0xeGd0VjRMVk5CVW04bG04R2NTTERYQlMtdzVSczlDRmVZMHBXZ1pCZmozODEwbi03YlBKUQ?oc=5\" target=\"_blank\">Centre approves ₹25.11 crore to improve NH 305 stretch in Himachal Pradesh: PWD Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcno5ZEN3c1ZaZ1BUTF93M0N5UmVfOTdmeTU4b1Q3c21zaGVWMzFfZUxZeW1JY1pPV2Z0Nks1UWRVLWJuUk15OE05UFRUMUR5VUQ1REtZQ0RSZ3F6SUdMbW5hMjl2Wm5UdUFWSmlNa2xwOW1TREZlM2E4elI4dzlJZzIxWnBPM1hpOTM3eWNRUDlKOFg2VnhZN0hyUDBLRmRjZGVueXEtcjRQdkVhelZFQm50ZEN5ZGRFMW1PLWNXQklaN1R1TXZOQ21pZXQyWHROdjFBaERobFY4VVFhRTVyUFVWU2JYR2IyQWh2anNiWVDSAfQBQVVfeXFMTkhvZjVtRDNyelZxZVJEd3JlVHFOMDEya2dNVWtzMkx0RDR4U0tWdjdrOWxrVnU4cHpzNENRUk16WXotcG80RmdjZG9aQmZLM0w0ZHIxc1M1UkRoalcxa1dYclAxQ3haMW1lQm5Sb2s5R3RpR2dENXliT2loUGo5V3JRN3UwanAtcEhwalhpOEZEeW1VTVhLdGoxV3FESWlYWFo3cDM1bHFNek5ldXJac2xPd1UxV284dTV1dUVsUk0xeGd0VjRMVk5CVW04bG04R2NTTERYQlMtdzVSczlDRmVZMHBXZ1pCZmozODEwbi03YlBKUQ?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh Government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1WeUpWQ2dVNjZhQk5kNzVNbGJDRkJSUGMtRjEtajY1T1R5ZGJFTUNGV3JucW44MTdVTzUwT1JWV0l3eVB0eEphMHFSQkp5R0ZsY1lKUTRUTHowTmJNaWtfSmc4Zzd3Y2t3dmhBODRB?oc=5\" target=\"_blank\">Himachal Pradesh Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">himachalpr.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WeUpWQ2dVNjZhQk5kNzVNbGJDRkJSUGMtRjEtajY1T1R5ZGJFTUNGV3JucW44MTdVTzUwT1JWV0l3eVB0eEphMHFSQkp5R0ZsY1lKUTRUTHowTmJNaWtfSmc4Zzd3Y2t3dmhBODRB?oc=5",
+   "source_name": "himachalpr.gov.in",
+   "source_domain": "himachalpr.gov.in",
+   "published_raw": "Wed, 08 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal LoP Thakur hails PM Modi's Independence Day address; targets Sukhu govt over \"disregard for rules\"",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc0l6cDZCMGNuck05dzZjNWhyZGo1NWVKbE9LTkE4blY1c0c1WnZNLUlXdjBoVHpWZk5jekhUZUNBRUpleUhjWHVmZEE4eUVESUxIXzhIdFIwWFUyd3FFTkJJelVCbk1aVHlTT3VMV000YjdzR1kzaG16RjJKR3RJLXA1ZFV6cF9RckNUWG13cWZBUUtISVVoVnp2Si1NeGg0bVlRV3Brd00xcGZvODBLUDFtNmxrUjkxcERmbk1mT3lVV0VoMDRrZld4dmVxUllJV1BvSGJoakZ3VFVMN3hjdWdpcEZqcVBkTUJUZHlaVkJoRzB0d3c?oc=5\" target=\"_blank\">Himachal LoP Thakur hails PM Modi's Independence Day address; targets Sukhu govt over \"disregard for rules\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc0l6cDZCMGNuck05dzZjNWhyZGo1NWVKbE9LTkE4blY1c0c1WnZNLUlXdjBoVHpWZk5jekhUZUNBRUpleUhjWHVmZEE4eUVESUxIXzhIdFIwWFUyd3FFTkJJelVCbk1aVHlTT3VMV000YjdzR1kzaG16RjJKR3RJLXA1ZFV6cF9RckNUWG13cWZBUUtISVVoVnp2Si1NeGg0bVlRV3Brd00xcGZvODBLUDFtNmxrUjkxcERmbk1mT3lVV0VoMDRrZld4dmVxUllJV1BvSGJoakZ3VFVMN3hjdWdpcEZqcVBkTUJUZHlaVkJoRzB0d3c?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Sat, 15 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh: IIIT Una Empowers School Students with AI and Entrepreneurship Outreach",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNazhJZnFMOExXNGJnYjlWV3dxRW9uZnFkaDBTNU1LcEc2NVNsN2RaU0lOaGI0VEdPTG9Ec3AyZVEtSFBva0I2X0UzZjUtN2JjTGRMdG9iNWg5QXEyNmFrejNqcWVRU19RUFJzVF9nLUVUdV81bzZuOGpxZmlEQUVQZW5mbU13eG1rdWszZzBaX09XSWtxR0ZSWUZ0dHU4RmFSZWp4QTViZ2s0MWdfM1JFeVU4bElKMHNIX0xwWVZxSlpob21XdVE?oc=5\" target=\"_blank\">Himachal Pradesh: IIIT Una Empowers School Students with AI and Entrepreneurship Outreach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chenab Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNazhJZnFMOExXNGJnYjlWV3dxRW9uZnFkaDBTNU1LcEc2NVNsN2RaU0lOaGI0VEdPTG9Ec3AyZVEtSFBva0I2X0UzZjUtN2JjTGRMdG9iNWg5QXEyNmFrejNqcWVRU19RUFJzVF9nLUVUdV81bzZuOGpxZmlEQUVQZW5mbU13eG1rdWszZzBaX09XSWtxR0ZSWUZ0dHU4RmFSZWp4QTViZ2s0MWdfM1JFeVU4bElKMHNIX0xwWVZxSlpob21XdVE?oc=5",
+   "source_name": "The Chenab Times",
+   "source_domain": "thechenabtimes.com",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh Government Withdraws Ministers' Salary Deferment Notice, Directs Release Of Arrears To Pensioners Next Month",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNWJ0bTFoa3c5aXJvcjdkVTY3UXc1cGhNa1huUVA0TE5vZHVWUEVhcjhPMnliUGJwR1FKcVZ3b1ROaTRKTHNhRDlCWmxNaXRUWjhSTXU2amhSbmFXTTd6bUFsTEtvR1YwWWRJUklVWEpYbFpyWGI1SDFQUGV1UE5ya3pQSy1qWmtBSEk1R0x0ME5abGxpRHMzTUZtdzdDWFdMZW1EOHE1SlNDRm5aSVhpUkpMOURMdUdFYVlUNk9WQzFtR01oRFBQQlNNWmdYMVZnLVUtZEh4QmYxWXdBNU02YVdLX0ZsS3l4VFBUYU1B0gH7AUFVX3lxTE0xS0djMms2N3dFYklDYlBVUVpfLTgtRDlkZmdWaTc4bmZIc1FKWDJMNEJHZnZOcDBjNXp1OHhNVHp5Z2hvcGxkVllHdTBvMTFMT1FvakhLVXlPT1RRX19OVzZhbkkzS1Jndy1YS29zRUxFemFKbmdxS0ZVTjNnZ0VsZVV0R3RCUXFvbnRWY1BoTFRMVGJ4OTdEUzN2VHNKakR6ejB5X24wZmFKSHl0QkVvN19kSkRwb1RGTEhDU2dwRjNGbkV1WGQ5UzVlWkRiTGZEemxYdXhaQTBZNnJIdnNqckNRd09EdUkwUnJfWUpJTFl2Q09PdmlEU1Nj?oc=5\" target=\"_blank\">Himachal Pradesh Government Withdraws Ministers' Salary Deferment Notice, Directs Release Of Arrears To Pensioners Next Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Money</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNWJ0bTFoa3c5aXJvcjdkVTY3UXc1cGhNa1huUVA0TE5vZHVWUEVhcjhPMnliUGJwR1FKcVZ3b1ROaTRKTHNhRDlCWmxNaXRUWjhSTXU2amhSbmFXTTd6bUFsTEtvR1YwWWRJUklVWEpYbFpyWGI1SDFQUGV1UE5ya3pQSy1qWmtBSEk1R0x0ME5abGxpRHMzTUZtdzdDWFdMZW1EOHE1SlNDRm5aSVhpUkpMOURMdUdFYVlUNk9WQzFtR01oRFBQQlNNWmdYMVZnLVUtZEh4QmYxWXdBNU02YVdLX0ZsS3l4VFBUYU1B0gH7AUFVX3lxTE0xS0djMms2N3dFYklDYlBVUVpfLTgtRDlkZmdWaTc4bmZIc1FKWDJMNEJHZnZOcDBjNXp1OHhNVHp5Z2hvcGxkVllHdTBvMTFMT1FvakhLVXlPT1RRX19OVzZhbkkzS1Jndy1YS29zRUxFemFKbmdxS0ZVTjNnZ0VsZVV0R3RCUXFvbnRWY1BoTFRMVGJ4OTdEUzN2VHNKakR6ejB5X24wZmFKSHl0QkVvN19kSkRwb1RGTEhDU2dwRjNGbkV1WGQ5UzVlWkRiTGZEemxYdXhaQTBZNnJIdnNqckNRd09EdUkwUnJfWUpJTFl2Q09PdmlEU1Nj?oc=5",
+   "source_name": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "published_raw": "Thu, 11 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh approves ₹137.4 crore for Chail Chowk-Janjehli road project in Mandi: CM Sukhu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxONWFqeHp1djFNc0NMYnFhdmNzQUpaa0lqRDc3dnlzTVBCZkk5ZTJwQ3lFVW9VRUMwdGZjbC1zR2x4SXl3NzJmVXVtZ0cxYnhpZHpkZ2NacXQweDNTMXM1V1BYZDQ1NU1NUUJyLWdrTUVFU1lGSW1faVoyZGkxMHl0VkNXOVhlanlBVEF2Y0JBS1F2MkJhVnFXbThVczVhV0FQODBtZ29Eb1dmRGlxOW44cGhfWkwxNWlPbnpTalZwcU1Pdi1OYmpWMmxBbFJVUmhwUXNZeHNHeEE0UVlXOTZVMEhBRU0zNEx0QjZkSFI3MzNJXzdiSzVQRNIB_gFBVV95cUxNUXNIbGVLT1RfNnZKMU9xZVR6a3RjTlJ4NjlURnhwRUJjcDFYTVNSM2NJZnZURTNsUVBsbjI3MGNoX0VaQy1leHlvSTlNaXdFZlhUd3h3WnE2NVV1NEVkWDRDOTlTQS1PVmd2TnpCVmFVTHBVRWUtYktPbV9RaWlQNWJqbEtTYkt4aWtSMEFISWFhVU9rZlZ5UGZlMWswN0hnbFJyRm5DYlhIYS1LYmxWMnlVd1FUSkxqd2FoYk5Ea2V3bVJZNFhJamFwSWRzaS1vaWtmMFh4X1VMaUtCM0xvRGxCQzRMSlJqZkZBSTlaeDBISVM2V3FqOUlnSi02Zw?oc=5\" target=\"_blank\">Himachal Pradesh approves ₹137.4 crore for Chail Chowk-Janjehli road project in Mandi: CM Sukhu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONWFqeHp1djFNc0NMYnFhdmNzQUpaa0lqRDc3dnlzTVBCZkk5ZTJwQ3lFVW9VRUMwdGZjbC1zR2x4SXl3NzJmVXVtZ0cxYnhpZHpkZ2NacXQweDNTMXM1V1BYZDQ1NU1NUUJyLWdrTUVFU1lGSW1faVoyZGkxMHl0VkNXOVhlanlBVEF2Y0JBS1F2MkJhVnFXbThVczVhV0FQODBtZ29Eb1dmRGlxOW44cGhfWkwxNWlPbnpTalZwcU1Pdi1OYmpWMmxBbFJVUmhwUXNZeHNHeEE0UVlXOTZVMEhBRU0zNEx0QjZkSFI3MzNJXzdiSzVQRNIB_gFBVV95cUxNUXNIbGVLT1RfNnZKMU9xZVR6a3RjTlJ4NjlURnhwRUJjcDFYTVNSM2NJZnZURTNsUVBsbjI3MGNoX0VaQy1leHlvSTlNaXdFZlhUd3h3WnE2NVV1NEVkWDRDOTlTQS1PVmd2TnpCVmFVTHBVRWUtYktPbV9RaWlQNWJqbEtTYkt4aWtSMEFISWFhVU9rZlZ5UGZlMWswN0hnbFJyRm5DYlhIYS1LYmxWMnlVd1FUSkxqd2FoYk5Ea2V3bVJZNFhJamFwSWRzaS1vaWtmMFh4X1VMaUtCM0xvRGxCQzRMSlJqZkZBSTlaeDBISVM2V3FqOUlnSi02Zw?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 24 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh to offer 50% subsidy on e-buses, 30% on diesel buses",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPM3JpUjBPdXFVLUdVOXhkX0pqTFJLZjIzTXo2WXR3Y1V1Z3lqZzQ1MTlDWDdSSUFpS2dqSWJzTzk2RVBXa05SX1ZtRmRzSHFTYzlmSnV5T2dmLWIwS2pjUHNpa2Z1cjkyZmRJYWhrOTBOVnhtd0dZMFVKWG5VRWlCaU1RdFJIMGItYXlrRHhPTDhLNnQ2MUFSZWhlQ2tIdjRzdzBpYl94NmNseEpaS3NZSXU3Rk15dG9OX1h4TjlpU25JR3ZZLWh0OVlPQ04ySGJHM24yMlNGZlJFenI3ZmFiZEg5YUFxZFkwUHF5T0Jyd1lhWGt0ZVJ3OVREcmbSAYACQVVfeXFMUEE1Y3JhTERReUlQM2EtZW1GOXljSlJOdE9HbXB4WkN1NkZwQnFRZTNNLUNrOWVUNkdJTEZwU1RxRm9wMDhkY1FQSGQ3Ti1LM2FxdlNhN2ZSV1A3Z0tGS25femk2QUQ1MmxPeG5SRm16VDhDY3cyVEtEbWlsM2xDUGhlZUZ6U1JFYTdrMjcyb1doSkR0aVlKblVMaDA0NEFkc2kyRlNYTFNnVkR2WWFGWmxqZWw1b1JMdy1sQjRqeDBhVFU2U1ktSHh3VzR5T3JHUzZiTDQxclRUdkxDYmJOQUJLcFpNQUgtLXZ0MW5QSmFodHc0SnVXRGhFSEdwcUE4Ug?oc=5\" target=\"_blank\">Himachal Pradesh to offer 50% subsidy on e-buses, 30% on diesel buses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPM3JpUjBPdXFVLUdVOXhkX0pqTFJLZjIzTXo2WXR3Y1V1Z3lqZzQ1MTlDWDdSSUFpS2dqSWJzTzk2RVBXa05SX1ZtRmRzSHFTYzlmSnV5T2dmLWIwS2pjUHNpa2Z1cjkyZmRJYWhrOTBOVnhtd0dZMFVKWG5VRWlCaU1RdFJIMGItYXlrRHhPTDhLNnQ2MUFSZWhlQ2tIdjRzdzBpYl94NmNseEpaS3NZSXU3Rk15dG9OX1h4TjlpU25JR3ZZLWh0OVlPQ04ySGJHM24yMlNGZlJFenI3ZmFiZEg5YUFxZFkwUHF5T0Jyd1lhWGt0ZVJ3OVREcmbSAYACQVVfeXFMUEE1Y3JhTERReUlQM2EtZW1GOXljSlJOdE9HbXB4WkN1NkZwQnFRZTNNLUNrOWVUNkdJTEZwU1RxRm9wMDhkY1FQSGQ3Ti1LM2FxdlNhN2ZSV1A3Z0tGS25femk2QUQ1MmxPeG5SRm16VDhDY3cyVEtEbWlsM2xDUGhlZUZ6U1JFYTdrMjcyb1doSkR0aVlKblVMaDA0NEFkc2kyRlNYTFNnVkR2WWFGWmxqZWw1b1JMdy1sQjRqeDBhVFU2U1ktSHh3VzR5T3JHUzZiTDQxclRUdkxDYmJOQUJLcFpNQUgtLXZ0MW5QSmFodHc0SnVXRGhFSEdwcUE4Ug?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:34+00:00"
+  }
+ ]
+}

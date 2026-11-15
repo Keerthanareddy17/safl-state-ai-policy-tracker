@@ -1,0 +1,219 @@
+{
+ "region": "Haryana",
+ "group": "B",
+ "query": "(Haryana) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Haryana%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:22+00:00",
+ "item_count": 19,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Digital India BHASHINI Division Conducts Multilingual AI Workshop for Haryana Vidhan Sabha to Advance Language-First Legislative Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE43VGJfZjg5SV83LWc0Umg0ZnJhWUd2VkJRb3ZGeWNsQ1FLdVU5R1Awdy1qbm9sSVJ6ZG9GY1lkakpkOUhzU2wtZFdnbGk4a3loWkhtYnZRVVZPV1NlRlVOTmcxZUJlelhCSE01VlBLdWtPTy1sUUg3YUl3?oc=5\" target=\"_blank\">Digital India BHASHINI Division Conducts Multilingual AI Workshop for Haryana Vidhan Sabha to Advance Language-First Legislative Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43VGJfZjg5SV83LWc0Umg0ZnJhWUd2VkJRb3ZGeWNsQ1FLdVU5R1Awdy1qbm9sSVJ6ZG9GY1lkakpkOUhzU2wtZFdnbGk4a3loWkhtYnZRVVZPV1NlRlVOTmcxZUJlelhCSE01VlBLdWtPTy1sUUg3YUl3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana CM launches AI sandbox in Gurugram to accelerate Antyodaya-centric governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU2JTTmFnOEQ1Mk9KRC14WGsxQnVyRnR0R0RzSTBpbFRDRnFrXzdTVmMyQTdnaWpRMmtjMmphY3lQS1Q2ZXg4cjY1bDV5enllZXp0X3J3MlIwOHZ1RnpESDJDSUptczA0UE1kTnBPVFhOM1JZdHJIV2V4aEc3eGMzSHBvZl9qMnNoWFRTczkzNjVMb1NJOHEtZkhJZ19YQ2Z2Rkp6QjFRVGVYSHFHZjJGUVJkclpJZURFNnk2NFRfdW1Bak9pdk5MOTVua2VZWDJNLVE0SnhEWFRZZjl0T3fSAeMBQVVfeXFMTnVnY2tITU5zMHBfSjZyeGlEX1BfcWlCRTlWZzNwQkxiQTBjRjB3U0RIc29oV0kwRTIzRUN5UVA3VHVxWHBiamMxQ3FnMGpwZTlBbmhCdkRzbHBiOE10dnpBVWxxWVBmSTFVdWZVc0pNWDlQa1kzeTFCZy1YR2g5OFpVdG1PSVFSZlhrY2ZUMnZtQ1V3SHdEWlgyd1dJdDc4MWJpd1VfOV9ZOW5JTUJSckRIVnp4MVZwUmZ3QjN5WU1VNDdCdGpVcEF0ZjY1SGR1TG8tbUVJT19HRXdwa3dBS3c1aE0?oc=5\" target=\"_blank\">Haryana CM launches AI sandbox in Gurugram to accelerate Antyodaya-centric governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU2JTTmFnOEQ1Mk9KRC14WGsxQnVyRnR0R0RzSTBpbFRDRnFrXzdTVmMyQTdnaWpRMmtjMmphY3lQS1Q2ZXg4cjY1bDV5enllZXp0X3J3MlIwOHZ1RnpESDJDSUptczA0UE1kTnBPVFhOM1JZdHJIV2V4aEc3eGMzSHBvZl9qMnNoWFRTczkzNjVMb1NJOHEtZkhJZ19YQ2Z2Rkp6QjFRVGVYSHFHZjJGUVJkclpJZURFNnk2NFRfdW1Bak9pdk5MOTVua2VZWDJNLVE0SnhEWFRZZjl0T3fSAeMBQVVfeXFMTnVnY2tITU5zMHBfSjZyeGlEX1BfcWlCRTlWZzNwQkxiQTBjRjB3U0RIc29oV0kwRTIzRUN5UVA3VHVxWHBiamMxQ3FnMGpwZTlBbmhCdkRzbHBiOE10dnpBVWxxWVBmSTFVdWZVc0pNWDlQa1kzeTFCZy1YR2g5OFpVdG1PSVFSZlhrY2ZUMnZtQ1V3SHdEWlgyd1dJdDc4MWJpd1VfOV9ZOW5JTUJSckRIVnp4MVZwUmZ3QjN5WU1VNDdCdGpVcEF0ZjY1SGR1TG8tbUVJT19HRXdwa3dBS3c1aE0?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana AI Mission 2026: Driving Innovation, Skills and Sustainable",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3N5bjVCS2M5b3UzSVRPNk9NcnJ1bUZVaVRrX3BUYnI5VEhQX2xqcFYxWlNWTU0wMU81M1h4VE9kZkgzeFFTazJaenNDWk51VGF6dGs1eXhQODlaeTlRSlZncFBGVkRHVUx2UXJ4Y1ZaSHZzVjBiZXp4UzJuQ3VxUjFCelJVQ3NFRHVFNmdzOEZtcHhvYVJEdE8wb25MM3pNNWZNVXF3?oc=5\" target=\"_blank\">Haryana AI Mission 2026: Driving Innovation, Skills and Sustainable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3N5bjVCS2M5b3UzSVRPNk9NcnJ1bUZVaVRrX3BUYnI5VEhQX2xqcFYxWlNWTU0wMU81M1h4VE9kZkgzeFFTazJaenNDWk51VGF6dGs1eXhQODlaeTlRSlZncFBGVkRHVUx2UXJ4Y1ZaSHZzVjBiZXp4UzJuQ3VxUjFCelJVQ3NFRHVFNmdzOEZtcHhvYVJEdE8wb25MM3pNNWZNVXF3?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "What is the Haryana AI Sandbox launched by Chief Minister Nayab Singh Saini, and why it matters",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDA3Vzl6d091R1VqU0VZQ2dWZC1vVENmazczbjdGWFF5bVlTM1Y2UHRwQndySWMtWThWWjRHWWRiNHptUHJadFQ2U1FBMDhIYjFFX2NLbGRuMzZYZVkzN3JnN2dJY05HZjc1T0h1QWpFVlhILXdkMEYzSU54M1VkQXdCM2I2ODJkcjJkVHQ4aGhaeklnRlZfOExGMmVTeFRYbEIxRVpXdGhWUkdocmowLUdfVFZhMzdGNktJMlh6M1kyTE5pbHRiatIBzgFBVV95cUxOYVlqN1hTUWY1amo5VzYwU1JBZ3RrRlRaYVJxMXVfNHp2VmYxLV96ZjBnT0h6S1lreGlEZXJYbGo4cld2VTdDVDQyZFZlNVdmOHBsbEJMSXloRjBleFY5R3VFcjc4cTE3dW5jREpWcmVLRnFPbjB5ZnRlbWhtV3lNVi1HZTl0VEZzTTlQNFJlRGVLbGwyZnBlTVdkV2FoTjBmZkxvX0s1T0xVNXB3NXA1d1BieFBkUU9JbTVKalpxSWpYUXFUTUdZdThLemZ6QQ?oc=5\" target=\"_blank\">What is the Haryana AI Sandbox launched by Chief Minister Nayab Singh Saini, and why it matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDA3Vzl6d091R1VqU0VZQ2dWZC1vVENmazczbjdGWFF5bVlTM1Y2UHRwQndySWMtWThWWjRHWWRiNHptUHJadFQ2U1FBMDhIYjFFX2NLbGRuMzZYZVkzN3JnN2dJY05HZjc1T0h1QWpFVlhILXdkMEYzSU54M1VkQXdCM2I2ODJkcjJkVHQ4aGhaeklnRlZfOExGMmVTeFRYbEIxRVpXdGhWUkdocmowLUdfVFZhMzdGNktJMlh6M1kyTE5pbHRiatIBzgFBVV95cUxOYVlqN1hTUWY1amo5VzYwU1JBZ3RrRlRaYVJxMXVfNHp2VmYxLV96ZjBnT0h6S1lreGlEZXJYbGo4cld2VTdDVDQyZFZlNVdmOHBsbEJMSXloRjBleFY5R3VFcjc4cTE3dW5jREpWcmVLRnFPbjB5ZnRlbWhtV3lNVi1HZTl0VEZzTTlQNFJlRGVLbGwyZnBlTVdkV2FoTjBmZkxvX0s1T0xVNXB3NXA1d1BieFBkUU9JbTVKalpxSWpYUXFUTUdZdThLemZ6QQ?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "'For Haryana, Artificial Intelligence means ...': Haryana AI Sandbox explained",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVEM1ODQ0QU1BME50MXJTd09IMUFQQ3hPQmFfNllfX3NKN19XWkdxcHNPRzNRakV1Y016U1NLRTJrbWtuQ3QzSTlmS0tIaVpqaWNZMXZtQkdBYUtYRmc4WnphTjNjdHhzbDZqaUdxNVF0SGI3bWdweXVpSzd5M1kzZGNlQnZ1Y0c3UXVtbFNORlNzZVlPRy1YMDF0VG50R0I5VFV5TDdiSFZoM3lTVU5DM2dXc0thaUtfZDdWblQwb2VDcXJM0gHKAUFVX3lxTE95dkpLRlQ2dWk4VjlVcjNXUVFLNkpWX1JRd1pfVDRwSTFveWxpWnpxY2dHeG02OTNpVVR3eUVQMGZRRGxYWWVNU1d1UW9YVXdZb3NOeW9qTkd2elN0Mjk0enZvTnJFWkFGcEtrTWc4WUp0NVVJTW0yMmJSWFZvZWtqTVlJTG9fVmtsUDBnMGJEak5yaUJhdVJKb0haSnhBaFBYMWdJV1k4eUU1eGZQbi0wNTJqdUdaWVljbmNzT0FFemhNdElldUE3dEE?oc=5\" target=\"_blank\">'For Haryana, Artificial Intelligence means ...': Haryana AI Sandbox explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVEM1ODQ0QU1BME50MXJTd09IMUFQQ3hPQmFfNllfX3NKN19XWkdxcHNPRzNRakV1Y016U1NLRTJrbWtuQ3QzSTlmS0tIaVpqaWNZMXZtQkdBYUtYRmc4WnphTjNjdHhzbDZqaUdxNVF0SGI3bWdweXVpSzd5M1kzZGNlQnZ1Y0c3UXVtbFNORlNzZVlPRy1YMDF0VG50R0I5VFV5TDdiSFZoM3lTVU5DM2dXc0thaUtfZDdWblQwb2VDcXJM0gHKAUFVX3lxTE95dkpLRlQ2dWk4VjlVcjNXUVFLNkpWX1JRd1pfVDRwSTFveWxpWnpxY2dHeG02OTNpVVR3eUVQMGZRRGxYWWVNU1d1UW9YVXdZb3NOeW9qTkd2elN0Mjk0enZvTnJFWkFGcEtrTWc4WUp0NVVJTW0yMmJSWFZvZWtqTVlJTG9fVmtsUDBnMGJEak5yaUJhdVJKb0haSnhBaFBYMWdJV1k4eUU1eGZQbi0wNTJqdUdaWVljbmNzT0FFemhNdElldUE3dEE?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana: CM asks various departments to digitally present roadmaps for 2047 for review",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORXRJbzhGYWlLX21VOWJPUTdNcUFQNFYwU1NJallKM2xWbmVUbkhJUll1S2xhdmFGN1hiT0JKMmVjSjhqS2FLMDFGUms2emZrRTBFWlRxNXlsVV84aktQaDZLTV9lWVFIbnl1Y0d0M1hwZ3dvdjhZeEpOZmFsVnhMMHBXQklSd2hpOEFhUk94T2g0ZVgxVTh1RDNMdzlvUE5pVG50OUUzVUFmcllXN016VQ?oc=5\" target=\"_blank\">Haryana: CM asks various departments to digitally present roadmaps for 2047 for review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXRJbzhGYWlLX21VOWJPUTdNcUFQNFYwU1NJallKM2xWbmVUbkhJUll1S2xhdmFGN1hiT0JKMmVjSjhqS2FLMDFGUms2emZrRTBFWlRxNXlsVV84aktQaDZLTV9lWVFIbnl1Y0d0M1hwZ3dvdjhZeEpOZmFsVnhMMHBXQklSd2hpOEFhUk94T2g0ZVgxVTh1RDNMdzlvUE5pVG50OUUzVUFmcllXN016VQ?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Artificial Intelligence in governance:Haryana to roll out pilots in public grievances, roads, schools, healthcare | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxNeGVFR21ONXVncEZESVBUTVBLbVgzUE8wLXpDRFpvcXRCTWtHblpJemtEb1Jsc0RvTUw2WjJUdTdXN2pfTUo2MXdlOUdRODI1WXkyRkNvenYxQUZWdDBjbG4zdE9WTFZ2eUw2YUtFME1GbUN6VFZUN3lDXy1VWjZDdzlVVmFNQnRDdkFCYzdCbW4xWkQycE5Vd1BBZjVhX1dvQmdwbWNRd19jVm1KUERwY0RxdHhTeDYxNTdJZFZGMGxHc0pacXV5M0FkRURSZHlRUG5SVHd0RTV1WDR4ejFWVUl5OWNNcndVeVd5ZUd5VTB3emF5OTQwVFd0blBoX2xRRW5yZUhLOE1tNXBDcWZ3eldSUdIBmAJBVV95cUxPQ0JvUjRianVKZi1keXg5ZFl2Yk0yMzFmREloWkI4MmU4ZE9mWE5qblBKTUV5SXAwYmVuUGZIWGlHbVRXc3dnZ1EtRmJDUkwyNS1PRmhKYVlBLTIzejBDb3JDWXljS0NXazhTcGhwcmxnM2dhRVJzbU9fbGcwMFRFMklNQTZZUUZkckJMR1VyWmVUdk1vbF95dkZkSE9OWEstWEFYa3BOLXd2STRPQlZLdU1pci1JOGNzekh3R1haTTFVelBTaE9PQVdlT21YUWVvdlRzU01UeGZfVWpSYUJsWmQ4MzZUY0NsbFFuVjlBR2tDMExVamswSW1KVmc3ZU9jYXJnMS1nY0Q0NWpqbjFzdmUtZVA4MzBm?oc=5\" target=\"_blank\">Artificial Intelligence in governance:Haryana to roll out pilots in public grievances, roads, schools, healthcare | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeGVFR21ONXVncEZESVBUTVBLbVgzUE8wLXpDRFpvcXRCTWtHblpJemtEb1Jsc0RvTUw2WjJUdTdXN2pfTUo2MXdlOUdRODI1WXkyRkNvenYxQUZWdDBjbG4zdE9WTFZ2eUw2YUtFME1GbUN6VFZUN3lDXy1VWjZDdzlVVmFNQnRDdkFCYzdCbW4xWkQycE5Vd1BBZjVhX1dvQmdwbWNRd19jVm1KUERwY0RxdHhTeDYxNTdJZFZGMGxHc0pacXV5M0FkRURSZHlRUG5SVHd0RTV1WDR4ejFWVUl5OWNNcndVeVd5ZUd5VTB3emF5OTQwVFd0blBoX2xRRW5yZUhLOE1tNXBDcWZ3eldSUdIBmAJBVV95cUxPQ0JvUjRianVKZi1keXg5ZFl2Yk0yMzFmREloWkI4MmU4ZE9mWE5qblBKTUV5SXAwYmVuUGZIWGlHbVRXc3dnZ1EtRmJDUkwyNS1PRmhKYVlBLTIzejBDb3JDWXljS0NXazhTcGhwcmxnM2dhRVJzbU9fbGcwMFRFMklNQTZZUUZkckJMR1VyWmVUdk1vbF95dkZkSE9OWEstWEFYa3BOLXd2STRPQlZLdU1pci1JOGNzekh3R1haTTFVelBTaE9PQVdlT21YUWVvdlRzU01UeGZfVWpSYUJsWmQ4MzZUY0NsbFFuVjlBR2tDMExVamswSW1KVmc3ZU9jYXJnMS1nY0Q0NWpqbjFzdmUtZVA4MzBm?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "CM Saini discusses AI, data-driven governance with World Bank team",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZzdEX2xIMWdsSnA0eV8tcUsyM1Y2Qzg2MW1aaXB2d1dIMjZDbHBJZ2h3Ykwza0dFbmZjaktjM2xreUxKbU9oclY0amRYNkFIUEF4SEVvMWhqMjg2bnkxOXRxN3RsZU9PR3FDOVRTSmpjSGFQS253QVJfQUpYN1RsNjdyUGlGYi0tekRZTmRaM1o2QnFJMm9qOWdiLXPSAaoBQVVfeXFMTXY4Und3U2U1bnRIRl8zak50X25jQW44WDJDVnFxV3h4ZlBqdGgzaW1KVC0tTzlfZW5BdGJVYlVCMTI3VGJJLUtwNWVPMEQyNVVwNHhqT0hUbzl6ZmRmVUg5WVVpeFhiaVFUN0RSejl0UWdoZ293RDYyQktFdkhPTW5NeXBmZ0g0cElLbENGREFybUFuVmlTd2RIQ1l2QzRiTVpSTV9OWW9Pb3c?oc=5\" target=\"_blank\">CM Saini discusses AI, data-driven governance with World Bank team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZzdEX2xIMWdsSnA0eV8tcUsyM1Y2Qzg2MW1aaXB2d1dIMjZDbHBJZ2h3Ykwza0dFbmZjaktjM2xreUxKbU9oclY0amRYNkFIUEF4SEVvMWhqMjg2bnkxOXRxN3RsZU9PR3FDOVRTSmpjSGFQS253QVJfQUpYN1RsNjdyUGlGYi0tekRZTmRaM1o2QnFJMm9qOWdiLXPSAaoBQVVfeXFMTXY4Und3U2U1bnRIRl8zak50X25jQW44WDJDVnFxV3h4ZlBqdGgzaW1KVC0tTzlfZW5BdGJVYlVCMTI3VGJJLUtwNWVPMEQyNVVwNHhqT0hUbzl6ZmRmVUg5WVVpeFhiaVFUN0RSejl0UWdoZ293RDYyQktFdkhPTW5NeXBmZ0g0cElLbENGREFybUFuVmlTd2RIQ1l2QzRiTVpSTV9OWW9Pb3c?oc=5",
+   "source_name": "Daily Pioneer",
+   "source_domain": "dailypioneer.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana govt to introduce new MSME policy soon, says Haryana CM Saini",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXBrS3htT0xqY2JCeHFtOHdNWHNnampCdVBpdlVtdWJpQkYzNWo1UmVsNDFmZjFlRlhFYWQ0bHpDUS1kZUhiUFlvSmI3TlQ4ZjNWN0d1dUEwU2U2bTVWSHpnVjFIQmVJYzVKWDI1MW1tekZVTWM5LWRxMS1vbGRURDM2czA0MThhOHU2NW1wTU9nSzNHNV9vcjhWWHdTXy1XT0tUSmM0ZVNzVHFhWllLZTJfQl9EdWdJc29xdFJhZlpxZ2tLZDd6enFfUmhRa0psb0HSAdcBQVVfeXFMUF9QT0RONF8zUmNKMWc3WU0zakdpemdGTmJ1LXVkWGZfaDB5Wm8zSFBZOUlZQWMzU3RDdDlKc3pJVU9KRlV4OW1hY0c3cjg2MkxNWHgzeV9nU3dMdnRZaWZnb2xHZFFzMDRNb2EwaDNpNlpjUFBGbVp3akw1OU9aN3pGby1aTmxrdzVLcTE2NUhGdHQydDc4R21wcjFPNjJkMUM2MndLaWd6cUFIYkRYYTI1dmRPRTEzZXlxd21Eeko1Mzh5QVBnZG5NYW9zdWpIakdmT3I1aUU?oc=5\" target=\"_blank\">Haryana govt to introduce new MSME policy soon, says Haryana CM Saini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXBrS3htT0xqY2JCeHFtOHdNWHNnampCdVBpdlVtdWJpQkYzNWo1UmVsNDFmZjFlRlhFYWQ0bHpDUS1kZUhiUFlvSmI3TlQ4ZjNWN0d1dUEwU2U2bTVWSHpnVjFIQmVJYzVKWDI1MW1tekZVTWM5LWRxMS1vbGRURDM2czA0MThhOHU2NW1wTU9nSzNHNV9vcjhWWHdTXy1XT0tUSmM0ZVNzVHFhWllLZTJfQl9EdWdJc29xdFJhZlpxZ2tLZDd6enFfUmhRa0psb0HSAdcBQVVfeXFMUF9QT0RONF8zUmNKMWc3WU0zakdpemdGTmJ1LXVkWGZfaDB5Wm8zSFBZOUlZQWMzU3RDdDlKc3pJVU9KRlV4OW1hY0c3cjg2MkxNWHgzeV9nU3dMdnRZaWZnb2xHZFFzMDRNb2EwaDNpNlpjUFBGbVp3akw1OU9aN3pGby1aTmxrdzVLcTE2NUhGdHQydDc4R21wcjFPNjJkMUM2MndLaWd6cUFIYkRYYTI1dmRPRTEzZXlxd21Eeko1Mzh5QVBnZG5NYW9zdWpIakdmT3I1aUU?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Sat, 25 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana govt to roll out AI sandbox, plans state-run AI data centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUFKZHQzd29oY292SlByVVRMMkpQcWdmRlE3aTZjS09mOVhPVzZGNXROWmZaSkRWVTQ3MzVEUmNfaEVhb3lHZTlFWVFLdzYwX2R6QTJTT25wenlrRDhITG9ZV0VpdkFheFY5NjhfX3pnZTdDTzcwUkQ2NFNkYkE2Qk02bUNTZEIzeEZESE1tUXE5dUtIVlU2a2UxdmRaSjRjQ19LOXU3YlFscG9FUGxhdlRaZlFZRnFxbUNTdS00dUhEc1FZM0kzRFZXQUliZ0d1dEprRUlFd3BVZ3AyeVdBekM3SVB0RDJuZ214TjRuUGR2WDZyNERDOF9n0gH_AUFVX3lxTE13bUphNEpHMFBiRG1PY2J4ZHE3dGhvSlE0VkhnNE52cnJvYk10R2ZOWERmMWZqVWhMajNBUDhyNFBMZ2xMdE5hSUdtUUJkN2JBS0RhUDVYTW9zVW9FSWU5dW85Vms1eVExT3NRRDVsV2xaN29JTVBZOHo1SjVvOFUybDAtZXE4QzFfZHRPVmRGZDBncDFXZjdKeEFFOXg3ZWc3ZmE4TWlxTHFKODJQZENGRVFpNzZxYzNyUU1ycUx3Q3JzSGE1R2tETGtscFlfUGhkQmFvSkxhOXNzdjZ2VEZaWEpvTHR5QkRPa2s0cWttUnpueHo2Y3RDZWNVUmNyWQ?oc=5\" target=\"_blank\">Haryana govt to roll out AI sandbox, plans state-run AI data centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUFKZHQzd29oY292SlByVVRMMkpQcWdmRlE3aTZjS09mOVhPVzZGNXROWmZaSkRWVTQ3MzVEUmNfaEVhb3lHZTlFWVFLdzYwX2R6QTJTT25wenlrRDhITG9ZV0VpdkFheFY5NjhfX3pnZTdDTzcwUkQ2NFNkYkE2Qk02bUNTZEIzeEZESE1tUXE5dUtIVlU2a2UxdmRaSjRjQ19LOXU3YlFscG9FUGxhdlRaZlFZRnFxbUNTdS00dUhEc1FZM0kzRFZXQUliZ0d1dEprRUlFd3BVZ3AyeVdBekM3SVB0RDJuZ214TjRuUGR2WDZyNERDOF9n0gH_AUFVX3lxTE13bUphNEpHMFBiRG1PY2J4ZHE3dGhvSlE0VkhnNE52cnJvYk10R2ZOWERmMWZqVWhMajNBUDhyNFBMZ2xMdE5hSUdtUUJkN2JBS0RhUDVYTW9zVW9FSWU5dW85Vms1eVExT3NRRDVsV2xaN29JTVBZOHo1SjVvOFUybDAtZXE4QzFfZHRPVmRGZDBncDFXZjdKeEFFOXg3ZWc3ZmE4TWlxTHFKODJQZENGRVFpNzZxYzNyUU1ycUx3Q3JzSGE1R2tETGtscFlfUGhkQmFvSkxhOXNzdjZ2VEZaWEpvTHR5QkRPa2s0cWttUnpueHo2Y3RDZWNVUmNyWQ?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Sun, 21 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana CM Nayab Saini Launches AI Sandbox In Gurugram To Drive Tech-Led Governance Under Rs 474 Crore Programme",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeU9HVk41SEdueHFkUmtkblpaYU9TNGJnRFRzOVNxZTR3YUFFeWdwV2Z4UjZQSVRjM0o2WmR2RXlNdEJaVXgtb3ZlYkFJdjdMcVE1YU9XNmQ2eVNZSVpEamRNOVpBUW1VTUtLejB6ZUMycGQ3d2hPZm9tU25aeGxLYnNScVpnNmZmZVhudnpCam4wWGZwaTY3ajMwd1lJZW5RczNYQXNla0hQZjRWSFFCS05JYlJQOFRGOVdYcFdqTnRka214OUx3cjU0TWUyREtoRUVVQUVZTkIwekJqNUNLNA?oc=5\" target=\"_blank\">Haryana CM Nayab Saini Launches AI Sandbox In Gurugram To Drive Tech-Led Governance Under Rs 474 Crore Programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeU9HVk41SEdueHFkUmtkblpaYU9TNGJnRFRzOVNxZTR3YUFFeWdwV2Z4UjZQSVRjM0o2WmR2RXlNdEJaVXgtb3ZlYkFJdjdMcVE1YU9XNmQ2eVNZSVpEamRNOVpBUW1VTUtLejB6ZUMycGQ3d2hPZm9tU25aeGxLYnNScVpnNmZmZVhudnpCam4wWGZwaTY3ajMwd1lJZW5RczNYQXNla0hQZjRWSFFCS05JYlJQOFRGOVdYcFdqTnRka214OUx3cjU0TWUyREtoRUVVQUVZTkIwekJqNUNLNA?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana Unveils ‘Make in Haryana’ Industrial Policy; Targets ₹5 Lakh Crore Investment, AI-Led Growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHNyY25oT0NhQWdmVVJkclpQR2lpOEhWaXg1RV9RNGRtTXVqSnJrSlNsbEJBY0lCYkJuaE5MQzZLZ3RjeDh4UzgxTTVva1dQcDNXUU5qdTFieDhiMzFBWWdTZnFHcnVoakRacjJXcGtYN3NBZ0M4dVBuQzNUQnU5azdIU1VocjlMd3c2dkh3a0E0VVBqUlNlb3V5YTBsQlRfNm9VUHpOZndzWFhaaTZ5QTlQdnFOZEtfREpBc19rNFJIMWp2ck02X3FwWlZvUQ?oc=5\" target=\"_blank\">Haryana Unveils ‘Make in Haryana’ Industrial Policy; Targets ₹5 Lakh Crore Investment, AI-Led Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHNyY25oT0NhQWdmVVJkclpQR2lpOEhWaXg1RV9RNGRtTXVqSnJrSlNsbEJBY0lCYkJuaE5MQzZLZ3RjeDh4UzgxTTVva1dQcDNXUU5qdTFieDhiMzFBWWdTZnFHcnVoakRacjJXcGtYN3NBZ0M4dVBuQzNUQnU5azdIU1VocjlMd3c2dkh3a0E0VVBqUlNlb3V5YTBsQlRfNm9VUHpOZndzWFhaaTZ5QTlQdnFOZEtfREpBc19rNFJIMWp2ck02X3FwWlZvUQ?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Gurugram: Saini launches AI Sandbox initiative for five sectors | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXNnQ1AwY3lRRWZHR09KMG1WSmZUUXF1TkJMb24yR1d0TUgzN3FwQjdJaWw1TXpFdUkzQzlJMFRQYmRvRDlSengxbHVkMDNqdmUwdDVWMXI3VkVuWnNZdXlPQ0NnT0NwQndaNmluNkdWOWZGV003bDBOblgwRDhkUC1MV3o3bnZ6aEo3eDhIdzllcWh4d2lSVHRrWVpiTGZpY1p3WDlaejREaFlKaXlDRlh1SDdqblJsbUVtamQ5QnJFcEhvSGtYWkc3OThiaGZBNVdj0gHYAUFVX3lxTE9yVGdUNWg0Z196NElaTng0bDRPY0RrRGNHU3lPV2JHNWYyWGhIcXBDR3dlS1habURuZVdOSHhPdzRUVG4yc1JZd3d4WF85MGRJM1A2V3otYlNVdHIwVDdXb2xXQUh2aUduTWMzZWFkTzBfNTktUElYVEJxeEk1Y2gwLW11bzZXcUdwc1k4eDhoZmNRNDJ2MVVrTVZhMWNNaS1hSUJDS0thNGdfbjExWHpyNDF2bDRtbFhGTHJCWkczd3VmUzFSQ2VhcFdVLXo0cEpYMGhEU3BGNA?oc=5\" target=\"_blank\">Gurugram: Saini launches AI Sandbox initiative for five sectors | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXNnQ1AwY3lRRWZHR09KMG1WSmZUUXF1TkJMb24yR1d0TUgzN3FwQjdJaWw1TXpFdUkzQzlJMFRQYmRvRDlSengxbHVkMDNqdmUwdDVWMXI3VkVuWnNZdXlPQ0NnT0NwQndaNmluNkdWOWZGV003bDBOblgwRDhkUC1MV3o3bnZ6aEo3eDhIdzllcWh4d2lSVHRrWVpiTGZpY1p3WDlaejREaFlKaXlDRlh1SDdqblJsbUVtamQ5QnJFcEhvSGtYWkc3OThiaGZBNVdj0gHYAUFVX3lxTE9yVGdUNWg0Z196NElaTng0bDRPY0RrRGNHU3lPV2JHNWYyWGhIcXBDR3dlS1habURuZVdOSHhPdzRUVG4yc1JZd3d4WF85MGRJM1A2V3otYlNVdHIwVDdXb2xXQUh2aUduTWMzZWFkTzBfNTktUElYVEJxeEk1Y2gwLW11bzZXcUdwc1k4eDhoZmNRNDJ2MVVrTVZhMWNNaS1hSUJDS0thNGdfbjExWHpyNDF2bDRtbFhGTHJCWkczd3VmUzFSQ2VhcFdVLXo0cEpYMGhEU3BGNA?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana to develop as global education hub; 2 lakh youth to get AI-linked skills training",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDBwZlZiZlRnRS1mMV9OY1dCaTNKeU5ab0tXaDVTdU9XM3U4SE5hQlZQWXo4TDgtWS1HUng4XzJPZUhnNjdGQTVRUDZMS0M5TEdhZEoyYVNKenF5OXBEbGZMR0h2aklSMXNMYVAtcHVNM0NwRDdZaTdTV3JobGpLazVrMTBBaEdpRVlBcjdDelowa0tzSWRYaVFuYzVMTllDRGJDQ01vWldtNzJHZzVxRnVmdjZnQ0huYTVNYWY3dlnSAcYBQVVfeXFMT0ppU0ZSY09lN2h1M2t1LTlqY3hvUXlSY3BjTkZUU3p6S3dBRFZyNlNZei1lenRsU0l5YjEwcmNhVU53LWxJX2JyRHFXZDBKR1U2dEM2cWF3NXgzYkpZamJTbWg4MFdfbV90X01iZ0hENFVMdGJ0WTNFM2NINXRaVDRCVlpWcW5EODk0bHVDSjVuaGZ4Q1laSVdER0VBWmlDU09naTRCRWt6TnM5TzlUd2NmZjRTejdYTjRTQ3FlaV82dzV3VXpB?oc=5\" target=\"_blank\">Haryana to develop as global education hub; 2 lakh youth to get AI-linked skills training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDBwZlZiZlRnRS1mMV9OY1dCaTNKeU5ab0tXaDVTdU9XM3U4SE5hQlZQWXo4TDgtWS1HUng4XzJPZUhnNjdGQTVRUDZMS0M5TEdhZEoyYVNKenF5OXBEbGZMR0h2aklSMXNMYVAtcHVNM0NwRDdZaTdTV3JobGpLazVrMTBBaEdpRVlBcjdDelowa0tzSWRYaVFuYzVMTllDRGJDQ01vWldtNzJHZzVxRnVmdjZnQ0huYTVNYWY3dlnSAcYBQVVfeXFMT0ppU0ZSY09lN2h1M2t1LTlqY3hvUXlSY3BjTkZUU3p6S3dBRFZyNlNZei1lenRsU0l5YjEwcmNhVU53LWxJX2JyRHFXZDBKR1U2dEM2cWF3NXgzYkpZamJTbWg4MFdfbV90X01iZ0hENFVMdGJ0WTNFM2NINXRaVDRCVlpWcW5EODk0bHVDSjVuaGZ4Q1laSVdER0VBWmlDU09naTRCRWt6TnM5TzlUd2NmZjRTejdYTjRTQ3FlaV82dzV3VXpB?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana to modernise 719 government schools with smart classrooms, AI labs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRUgxOU1BMXU0V3hqYXp2a2hJdk1ZdktRNk5LeTFYeUNseGUwc1o1Ri1OSFFpeldkb2F1bjJyN2c1Wk1RMndpb2Ztdl80c3h1UThncmMwNkFRNkNZeDZWVEZSVjJCMmFRTlZiWEtZNGVZcGdJVC1fQjFlZHBTTlBNaFNaV3c2R3lGdlZpeldWUG55ZUJSTXB3bkU2VGF6XzBPcTVHX09WSmxsQjFKVXpXTC1mNjN1WWRqZDFhMVc4VWFBejlBQ3cxN01PRXBaQldqVFBzcVczdGpINE5QYUZqamh5R25icmPSAesBQVVfeXFMTmZJMUhiZGJXRXZ3VHJXRnhQc2lBSXdReWQ2bDhMakIzZzIyMVFGWnE1RWtZa1BZV0FubUh3eEdEWEZwdDR1NFc2Q1oybjU1SzFoV19WOTNBWncwN2M0b2RobkdXQS0zRkJ3bjRuV1dwNmhHTVhfSnJPUXlienlrMVZkcXUxM25CLXZpOFBzVk1hOFRwT0lCVHZoXzZ4dEpzS0tzUi1CLWtGTVlrS1U2V05BbklvVXdIeGlLSVlKVElCcHVBZC1BV0VvazFCOVZ5S1NMMndVUjZSbzZBM3F6LWxNOU5ib2s1bG5uOA?oc=5\" target=\"_blank\">Haryana to modernise 719 government schools with smart classrooms, AI labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRUgxOU1BMXU0V3hqYXp2a2hJdk1ZdktRNk5LeTFYeUNseGUwc1o1Ri1OSFFpeldkb2F1bjJyN2c1Wk1RMndpb2Ztdl80c3h1UThncmMwNkFRNkNZeDZWVEZSVjJCMmFRTlZiWEtZNGVZcGdJVC1fQjFlZHBTTlBNaFNaV3c2R3lGdlZpeldWUG55ZUJSTXB3bkU2VGF6XzBPcTVHX09WSmxsQjFKVXpXTC1mNjN1WWRqZDFhMVc4VWFBejlBQ3cxN01PRXBaQldqVFBzcVczdGpINE5QYUZqamh5R25icmPSAesBQVVfeXFMTmZJMUhiZGJXRXZ3VHJXRnhQc2lBSXdReWQ2bDhMakIzZzIyMVFGWnE1RWtZa1BZV0FubUh3eEdEWEZwdDR1NFc2Q1oybjU1SzFoV19WOTNBWncwN2M0b2RobkdXQS0zRkJ3bjRuV1dwNmhHTVhfSnJPUXlienlrMVZkcXUxM25CLXZpOFBzVk1hOFRwT0lCVHZoXzZ4dEpzS0tzUi1CLWtGTVlrS1U2V05BbklvVXdIeGlLSVlKVElCcHVBZC1BV0VvazFCOVZ5S1NMMndVUjZSbzZBM3F6LWxNOU5ib2s1bG5uOA?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana Cabinet Approves Pension Scheme Shift For Employees: One-Time Switch From UPS To NPS Allowed",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWHFNaE96TVBSbXNEZG5heTVMQlBYMW1mcnZVdGZmUkZtc2s1b0dnWllFdW9GSVBuUjU3eUswMGk3RjJxX2ZzUXFGVDdoMHhlRzdtRjYzaVlJQmpYWHoxc0k3N3Q1ZF9HS1EtNWJLNV9ScXZxblRydVB3TldULXdqY2xnX1FrUFpmOVpTRnR5UXk1a3RfT013ZmdkanJWdlZ6QkMyZTFhWEk2YWFtVUlxbTBqOGVoOURvYklnNEl2bTNXWDlVTzdoTVp0MXBIRkU4Qm9YS3BB0gHjAUFVX3lxTE14U3ZTUVBmVUZBRW84U2JaVkQ0eWtpSGROYXRuX3JiVExKSTRoWFNKXzh0SHlybG0xMXdMa1B3N2FoQzlSdlVUV1RPcURfcC1DMjBRbkNpcUZwb0JiZjhoUUVLWnpQa2g4cF9KcWFBT0xpVEN2V0N4V2syT1J4NGZPLTNIVHdyY0MzMkc2NF9RNUFLanpONEg0Nk13YS13RVZPYXVObmdZbzM4VzdpUmFNSUFxRmI2MHlDekVURE44TTRxdnVtOTBzWnhZVlhkVXNMNWZrUEN6NXpuRnJGQ3BwMlAw?oc=5\" target=\"_blank\">Haryana Cabinet Approves Pension Scheme Shift For Employees: One-Time Switch From UPS To NPS Allowed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Money</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWHFNaE96TVBSbXNEZG5heTVMQlBYMW1mcnZVdGZmUkZtc2s1b0dnWllFdW9GSVBuUjU3eUswMGk3RjJxX2ZzUXFGVDdoMHhlRzdtRjYzaVlJQmpYWHoxc0k3N3Q1ZF9HS1EtNWJLNV9ScXZxblRydVB3TldULXdqY2xnX1FrUFpmOVpTRnR5UXk1a3RfT013ZmdkanJWdlZ6QkMyZTFhWEk2YWFtVUlxbTBqOGVoOURvYklnNEl2bTNXWDlVTzdoTVp0MXBIRkU4Qm9YS3BB0gHjAUFVX3lxTE14U3ZTUVBmVUZBRW84U2JaVkQ0eWtpSGROYXRuX3JiVExKSTRoWFNKXzh0SHlybG0xMXdMa1B3N2FoQzlSdlVUV1RPcURfcC1DMjBRbkNpcUZwb0JiZjhoUUVLWnpQa2g4cF9KcWFBT0xpVEN2V0N4V2syT1J4NGZPLTNIVHdyY0MzMkc2NF9RNUFLanpONEg0Nk13YS13RVZPYXVObmdZbzM4VzdpUmFNSUFxRmI2MHlDekVURE44TTRxdnVtOTBzWnhZVlhkVXNMNWZrUEN6NXpuRnJGQ3BwMlAw?oc=5",
+   "source_name": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "published_raw": "Tue, 19 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana govt schools to teach AI, FinTech | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQd09jeWo2TlE4RFVoSWdFNnlnSW9lN3hGbC04U2xRelBkUnVTUHNWTERHMWlEOVVKZ3djeEQxZGpmZzQ0VzRSci02U1RWdEJQOG9MMENUWWFIb2I3LUxHb2d5b2I4eGk5Zjh1VkV2M3pIcUc1X0s1ZjdmSEFHeFpmNUh6OVhtVzgtUzhhUWs1ejVfSlZpQVRha3VwUEdhUm5WSXQtUy1VRDItY2o1R3djWVdDNlJ0QdIBuwFBVV95cUxQSjVZYXJFSHN5aGlzMGc0SmdYc1JwQi1IY0JtNC1JendBWVl2T1BlSHBDYjM3dDFQSDVfclhXUkdxNjF6MlFjX0ZnNks3Y1lwTzBaSjJFUHhQaHBrTXctYjA1VDZvOGtPSzJqMzFldW11dENfTHJ0TmxoRzBGUmxBNEQ3cl9LcFdQelpHcU0xWjJPaVZfbkVDdzhUc1VyWlY1MU1qX1RjbnJYZVBJemhaUHcyR2xVTFVkbU9n?oc=5\" target=\"_blank\">Haryana govt schools to teach AI, FinTech | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd09jeWo2TlE4RFVoSWdFNnlnSW9lN3hGbC04U2xRelBkUnVTUHNWTERHMWlEOVVKZ3djeEQxZGpmZzQ0VzRSci02U1RWdEJQOG9MMENUWWFIb2I3LUxHb2d5b2I4eGk5Zjh1VkV2M3pIcUc1X0s1ZjdmSEFHeFpmNUh6OVhtVzgtUzhhUWs1ejVfSlZpQVRha3VwUEdhUm5WSXQtUy1VRDItY2o1R3djWVdDNlJ0QdIBuwFBVV95cUxQSjVZYXJFSHN5aGlzMGc0SmdYc1JwQi1IY0JtNC1JendBWVl2T1BlSHBDYjM3dDFQSDVfclhXUkdxNjF6MlFjX0ZnNks3Y1lwTzBaSjJFUHhQaHBrTXctYjA1VDZvOGtPSzJqMzFldW11dENfTHJ0TmxoRzBGUmxBNEQ3cl9LcFdQelpHcU0xWjJPaVZfbkVDdzhUc1VyWlY1MU1qX1RjbnJYZVBJemhaUHcyR2xVTFVkbU9n?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Sun, 19 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana caps daily property registration appointments at 20 per office to ensure faster services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNTJGZ3M3aklMS3hmX3B3QXpLekZnN0Q2VHU5bjFoRm0zOXJIQk5hMzNER3hTZG5CXy1MbkdGcXhqR2xUejluOE1INUhsZmhxekJ4bHROend0TTlKa2NwUTNIdERDbDlJcGtXTzRCOTJtTElHck82MHIyUkJSTGNoc29jazZramtIZDN0QlZpQnExRGhXNFhDNjh4TzdvcTg3a3JzQnZ1SmhiMHkyQmNnalJCMXZUcHRwejRkVWdrWDFaQzF3RXpBQnA4QS1FS3pkdTZzQ1dkNnU4MXpWdlVsRWtSY3YtU1NsMnpMczZ6YmNYUU1LS0Fn0gH8AUFVX3lxTE1zUWRKbjhTU1FYLVNUOVljUHhJZjh0cVNuU3laZUVhcVAweTltcl9YTTFpUlZKaDdobUwyTXlKeGNnT3llUlRqOGlnai1VcGg0a01ueklqdTRUYW93c0lYN1RGYTJabDJFTjZSSWxxZzFLaGxjRkFVMmJwUmJid1ktd2p1T0RDa3B5dE1nSDZ2WGZPVkFKaWVYRjEwTnB5TXhLX0JSeHprOW5ad0RUU2VfeXZTTHA4ZGg1SlNJMFl2Zm80U09PUEtoZllRUUlJN1NoTWkwU1N1OXNTcDBHSXdlVUl3TE1tNlU5M1luRDAzRUloN0FzREJMbno5VQ?oc=5\" target=\"_blank\">Haryana caps daily property registration appointments at 20 per office to ensure faster services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Realty</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNTJGZ3M3aklMS3hmX3B3QXpLekZnN0Q2VHU5bjFoRm0zOXJIQk5hMzNER3hTZG5CXy1MbkdGcXhqR2xUejluOE1INUhsZmhxekJ4bHROend0TTlKa2NwUTNIdERDbDlJcGtXTzRCOTJtTElHck82MHIyUkJSTGNoc29jazZramtIZDN0QlZpQnExRGhXNFhDNjh4TzdvcTg3a3JzQnZ1SmhiMHkyQmNnalJCMXZUcHRwejRkVWdrWDFaQzF3RXpBQnA4QS1FS3pkdTZzQ1dkNnU4MXpWdlVsRWtSY3YtU1NsMnpMczZ6YmNYUU1LS0Fn0gH8AUFVX3lxTE1zUWRKbjhTU1FYLVNUOVljUHhJZjh0cVNuU3laZUVhcVAweTltcl9YTTFpUlZKaDdobUwyTXlKeGNnT3llUlRqOGlnai1VcGg0a01ueklqdTRUYW93c0lYN1RGYTJabDJFTjZSSWxxZzFLaGxjRkFVMmJwUmJid1ktd2p1T0RDa3B5dE1nSDZ2WGZPVkFKaWVYRjEwTnB5TXhLX0JSeHprOW5ad0RUU2VfeXZTTHA4ZGg1SlNJMFl2Zm80U09PUEtoZllRUUlJN1NoTWkwU1N1OXNTcDBHSXdlVUl3TE1tNlU5M1luRDAzRUloN0FzREJMbno5VQ?oc=5",
+   "source_name": "ET Realty",
+   "source_domain": "realty.economictimes.indiatimes.com",
+   "published_raw": "Sat, 04 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana to deploy AI-powered drones to track illegal constructions, mining | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3N5N3F4Mkhja2lqWVVWZ2c0QzBrMURBSHpGQkk0RF9ub3c1NmJ5cGNMdmh3SW9GYU8xOUZab2FEYjV3RkpJcDYwakEybTNPZUs0YzhhZUFQNExSRUFLc2Yxelg4cUxYU01zTWd4cks0M3M3MHFwN2kwYzh2Ui1BMGNfU2tVaXhTRGRvOUdyN3NSOUdJMndMV2EweUNjdjVjM2ZXaXdnVkEwaU40c1RQNGlkQXJDT0FZbE0ySnJvM0RFQ3preEpoVXhWWWNvQUxpa0xCTDlKYW1rc0tzMTVPaUxn0gHnAUFVX3lxTFBlZ1dXZDcwZWcxSzJETEw0a1pRRVp4a2RBMTJYRHZDMy16NEpkVUE2UWdGNzJIRGdiR1JfbG1UbS01R2tSaTlzQ00wdll3VG1jWlRsVlBLSFRRc2NtSE03akJ6bmdoekczMF95LTB3UlNobWVmWDFibXp0Vk55czEtQ21QMVZ2SEFVRUdfX1NmSTJVMjREbWMzbFFBaDA5dDZIT2tXcjJTdFEtbEIydFRxSnFvdHd3ZGdxMmh2Y3JLTWhVN2JTa1ptNnp5enJ4ZWhuM3d5cjFSWGxSYm15UGdpTjdaV2F6TQ?oc=5\" target=\"_blank\">Haryana to deploy AI-powered drones to track illegal constructions, mining | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3N5N3F4Mkhja2lqWVVWZ2c0QzBrMURBSHpGQkk0RF9ub3c1NmJ5cGNMdmh3SW9GYU8xOUZab2FEYjV3RkpJcDYwakEybTNPZUs0YzhhZUFQNExSRUFLc2Yxelg4cUxYU01zTWd4cks0M3M3MHFwN2kwYzh2Ui1BMGNfU2tVaXhTRGRvOUdyN3NSOUdJMndMV2EweUNjdjVjM2ZXaXdnVkEwaU40c1RQNGlkQXJDT0FZbE0ySnJvM0RFQ3preEpoVXhWWWNvQUxpa0xCTDlKYW1rc0tzMTVPaUxn0gHnAUFVX3lxTFBlZ1dXZDcwZWcxSzJETEw0a1pRRVp4a2RBMTJYRHZDMy16NEpkVUE2UWdGNzJIRGdiR1JfbG1UbS01R2tSaTlzQ00wdll3VG1jWlRsVlBLSFRRc2NtSE03akJ6bmdoekczMF95LTB3UlNobWVmWDFibXp0Vk55czEtQ21QMVZ2SEFVRUdfX1NmSTJVMjREbWMzbFFBaDA5dDZIT2tXcjJTdFEtbEIydFRxSnFvdHd3ZGdxMmh2Y3JLTWhVN2JTa1ptNnp5enJ4ZWhuM3d5cjFSWGxSYm15UGdpTjdaV2F6TQ?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:22+00:00"
+  }
+ ]
+}

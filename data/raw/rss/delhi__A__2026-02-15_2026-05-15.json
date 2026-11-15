@@ -1,0 +1,252 @@
+{
+ "region": "Delhi",
+ "group": "A",
+ "query": "(Delhi) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Delhi%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:33+00:00",
+ "item_count": 22,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Impact Summit 2026: Landmark Global Declaration and Major AI Investment Commitments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SMjZMWEhKc2NWUFItM3ZVVUtQenhYb19YWXp1aUhOcGJxZGQtVi14emtTT3RhTV9DbzRVR1FvVGlTYkJ1WTVVME5xTy1ZaVR1VnBqQTNKRzBTR213ZlVIQURsTXNXRzI0Yk5GYWhBQkg3X09qTF9hZm53?oc=5\" target=\"_blank\">India AI Impact Summit 2026: Landmark Global Declaration and Major AI Investment Commitments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SMjZMWEhKc2NWUFItM3ZVVUtQenhYb19YWXp1aUhOcGJxZGQtVi14emtTT3RhTV9DbzRVR1FvVGlTYkJ1WTVVME5xTy1ZaVR1VnBqQTNKRzBTR213ZlVIQURsTXNXRzI0Yk5GYWhBQkg3X09qTF9hZm53?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India’s AI Summit Could Prove to be New Delhi's Lost Opportunity",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1AwLWl1TEhuMS1taFdxRklFRUFya291R0xWOW1NamJiLUhqN3oyUl8zTm9CbHpJN1BrT2ZJLUs1anNaOFZ5VHRfcEg3dnl3T1pLalRRc2NBMkl2UnhONlkxTkxBSGZoT1RjXzlTSmNJY0hqVWZzYS1fcU5yRDhhQ1NkczlGUjVhMjdudFVUc2I?oc=5\" target=\"_blank\">India’s AI Summit Could Prove to be New Delhi's Lost Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Policy Press</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1AwLWl1TEhuMS1taFdxRklFRUFya291R0xWOW1NamJiLUhqN3oyUl8zTm9CbHpJN1BrT2ZJLUs1anNaOFZ5VHRfcEg3dnl3T1pLalRRc2NBMkl2UnhONlkxTkxBSGZoT1RjXzlTSmNJY0hqVWZzYS1fcU5yRDhhQ1NkczlGUjVhMjdudFVUc2I?oc=5",
+   "source_name": "Tech Policy Press",
+   "source_domain": "techpolicy.press",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Could India challenge tech boss power at Delhi AI Impact Summit?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSEtXQ0trd3o5V1lQbDF0NFhZN0NNdjRBNWo1U2RkcWhiV1E0bVZNa0Rmb1lxNkhkNExfMU5NOUUzNV9xWlFpbzIzU3g4WmIzYnh0NUl2S1dmdw?oc=5\" target=\"_blank\">Could India challenge tech boss power at Delhi AI Impact Summit?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSEtXQ0trd3o5V1lQbDF0NFhZN0NNdjRBNWo1U2RkcWhiV1E0bVZNa0Rmb1lxNkhkNExfMU5NOUUzNV9xWlFpbzIzU3g4WmIzYnh0NUl2S1dmdw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONllDM2V6a0JEUFJYY2xYaE1GX2lpZXYyLXVNQjRlZlJMcUJPSHAyR1owUFM3QktSX1RHTl9GcEVtNlA3dlF0OEUtcXVSd1NvREVhYjlTWi1wTThDb3NqNnk2LW9zRVg2blJ6V2VyLTJlVWQzeTdWTmNCaFF4Q3VBS05fV1FOcDdqZUNES0FPX2tKUQ?oc=5\" target=\"_blank\">Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONllDM2V6a0JEUFJYY2xYaE1GX2lpZXYyLXVNQjRlZlJMcUJPSHAyR1owUFM3QktSX1RHTl9GcEVtNlA3dlF0OEUtcXVSd1NvREVhYjlTWi1wTThDb3NqNnk2LW9zRVg2blJ6V2VyLTJlVWQzeTdWTmNCaFF4Q3VBS05fV1FOcDdqZUNES0FPX2tKUQ?oc=5",
+   "source_name": "The Guardian",
+   "source_domain": "theguardian.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Summit 2026: Who Controls Future Tech Order?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalNJUUJSbjgxeXljRVJ5R29wTEZXaVhYblJjS08yUlgzVW8wc01idi0wQUVBV0ZXWDBIMU84WVhMZGRBLUJzSGpHZlhNYU85blgwT3dMWmFkb09pR2dDVi1lcW9EdGlpOFc4ZjFhb29uSmY3N043WTNreXlEOWp2ZWlkWk9PcU56SnFRckwzYmQ3N3gzSXdTZktrNlNXV2g1VDRyZDYwUFZQVTYycnJuZVA5M0t5QjF30gG_AUFVX3lxTE9CT2Z1Sk83LXU3ckN0VUQ4VkNUWThuenF2dVRBaHZXSk9pWU01ZWNPOXVabnl1TnpOVVBPeHVsWmxpTER5ZG9nWFNDNlZWOVN1TXlDaWtnR19ONkN4R25EM01qMDhVQ28wUXcwNmR0eEF3MkdLaV9nb0RWeTNuM0RMMFk0MkZNN1dCWHBHWHBFeE81aXl6YmNZR1VMSWg3LUVtUTlyNHVJby1qU3FxYWhORll4SlZubTFHSUNqaVNB?oc=5\" target=\"_blank\">India AI Summit 2026: Who Controls Future Tech Order?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalNJUUJSbjgxeXljRVJ5R29wTEZXaVhYblJjS08yUlgzVW8wc01idi0wQUVBV0ZXWDBIMU84WVhMZGRBLUJzSGpHZlhNYU85blgwT3dMWmFkb09pR2dDVi1lcW9EdGlpOFc4ZjFhb29uSmY3N043WTNreXlEOWp2ZWlkWk9PcU56SnFRckwzYmQ3N3gzSXdTZktrNlNXV2g1VDRyZDYwUFZQVTYycnJuZVA5M0t5QjF30gG_AUFVX3lxTE9CT2Z1Sk83LXU3ckN0VUQ4VkNUWThuenF2dVRBaHZXSk9pWU01ZWNPOXVabnl1TnpOVVBPeHVsWmxpTER5ZG9nWFNDNlZWOVN1TXlDaWtnR19ONkN4R25EM01qMDhVQ28wUXcwNmR0eEF3MkdLaV9nb0RWeTNuM0RMMFk0MkZNN1dCWHBHWHBFeE81aXl6YmNZR1VMSWg3LUVtUTlyNHVJby1qU3FxYWhORll4SlZubTFHSUNqaVNB?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "New Delhi Declaration on AI Impact",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTNSZ19iTFowemlHc0M5TThkMU9jZ0ZsMlJGTzNvQVFkV3JBbi1LQVBldVdaU0hqdjJmdmJLSkZ6bElrVDI1Znl6NS1XcVAzTVI4UTRRUE5CN2tRb19DLXNtbGhWdnJDNElUaDNRSTI2V1dNY3h6Umw2WmpuUTBtTlNmdzh5S1hYMU1PckQzMk9CU0xXaWhzU2p1dw?oc=5\" target=\"_blank\">New Delhi Declaration on AI Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Drishti IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTNSZ19iTFowemlHc0M5TThkMU9jZ0ZsMlJGTzNvQVFkV3JBbi1LQVBldVdaU0hqdjJmdmJLSkZ6bElrVDI1Znl6NS1XcVAzTVI4UTRRUE5CN2tRb19DLXNtbGhWdnJDNElUaDNRSTI2V1dNY3h6Umw2WmpuUTBtTlNmdzh5S1hYMU1PckQzMk9CU0xXaWhzU2p1dw?oc=5",
+   "source_name": "Drishti IAS",
+   "source_domain": "drishtiias.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Impact Summit 2026: Championing Inclusive AI for ALL",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0tnVEdCNngtMzNiWFJXZnRubElGYzNFdU1QcGQ3aHp6Vk9ZYU9MUFJ4b3pxZFlVSE1xMXYtZXRMSTVIZXc0OFNFTWh2OVpIeUZ6amVtQ0IwZDhERGJSa3V0clVUTF9DOUstOWE2M0l3RWxQN3NSWEt5bnF4VC1BVE13OXdXekRFOFpuOER3ODFvYXRtME5EbTNuZ0w5OFM4NEptUWttZ3pZZw?oc=5\" target=\"_blank\">India AI Impact Summit 2026: Championing Inclusive AI for ALL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vision IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0tnVEdCNngtMzNiWFJXZnRubElGYzNFdU1QcGQ3aHp6Vk9ZYU9MUFJ4b3pxZFlVSE1xMXYtZXRMSTVIZXc0OFNFTWh2OVpIeUZ6amVtQ0IwZDhERGJSa3V0clVUTF9DOUstOWE2M0l3RWxQN3NSWEt5bnF4VC1BVE13OXdXekRFOFpuOER3ODFvYXRtME5EbTNuZ0w5OFM4NEptUWttZ3pZZw?oc=5",
+   "source_name": "Vision IAS",
+   "source_domain": "visionias.in",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India’s hosts AI Impact Summit, drawing world leaders, tech giants",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5\" target=\"_blank\">India’s hosts AI Impact Summit, drawing world leaders, tech giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZBdmR2a2RBM1FGaWpuS2kxMENjYlBuNXpDdHRUVmlCYU1tNWlmUEVBQUlHUDJEa1J3TW5INldHY0YwUFFBcXVGZldpaE1jei1iOE9PNHNNNExJVGtCSExqYXl2MXJ6aDVIR1R4ZEdka3JUT2RzZllFVVZwbU96UjNOY1pOMUluai1teEFQbXFWemc3SGwwSlFvRENyVHVva3Vzczdn0gGrAUFVX3lxTE9sRHhEek8yVnU3dEw5T3V0bndfQmltdENibUNHLVpDZ0JkdVJEakxaRHE3Y0NUQVhudjRpVFJXeW12anRuZzRYalBtNXBvOXJING45ZExTZXloY2xxYmtNMTF0ZDhZdWE3NXFZSTdkY3diOUJrdTktR29fMS1TQmdQX2JfQ0p3MmRCMFk0SjdBeGZBVVl1RTVodzNJWGxHX05jS2Qxc2VMT09LSQ?oc=5",
+   "source_name": "Al Jazeera",
+   "source_domain": "aljazeera.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Over 80 countries likely to sign Delhi Declaration at India AI Impact Summit 2026: Ashwini Vaishnaw",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVTl4eWlwOGt3S0pSdWJqcHo5dy0xTWo4a3VQYlByWHpQQUZMX21BcGlXN2hiY0Z5Vld0ZXRSeXNQWjVJU2hVMTJFdXVSbFVxNGk2Mm9qbU9jUURwY1p5NUsyeUJseWpVMFByTlJzaGN0TEV5WEhZeElObEpwX2xEaFNwVVdONEZNYmJkeWpVeTRIWGg1ZTR6cnNJVTgwZ2lieEROUGc1VjJwMTJEQ0poREtxeFl3RjBZUVBwU014cmNSandIbWdxNmdKT3FmZXFfc1l3UnJZRnM0Q3hrUXZYXzg1TkZ1RVHSAfQBQVVfeXFMUGk0czVuSEJ3MnlYZ0U3WG40bnNfblF0ZmtOUWIwdU9lTlVwcmNUTnpRdGxGZHBFd2M5LUYycXh1b1p6allkY05fTWFOMGp2T1RSWWszVkRzMjBwdGNYVXBwblJFYWJUUGN0LU95d1lETVlZelgyUW5VRzZSQXU0R004U0VHVHRwVmtOR1B2VDg4VUt4ZFlQMFZYQ2pza0NRZWw1T0FEbXRfb1l3aUc5QlJoWHdwd1lTbUNwakhtaGc5eXR0UE1iSDUyY1o1dU5pWGxsSzdMZFpIRWZiaWZBOWZweW85dGRzcTJUd2xfenpEU3p4UQ?oc=5\" target=\"_blank\">Over 80 countries likely to sign Delhi Declaration at India AI Impact Summit 2026: Ashwini Vaishnaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVTl4eWlwOGt3S0pSdWJqcHo5dy0xTWo4a3VQYlByWHpQQUZMX21BcGlXN2hiY0Z5Vld0ZXRSeXNQWjVJU2hVMTJFdXVSbFVxNGk2Mm9qbU9jUURwY1p5NUsyeUJseWpVMFByTlJzaGN0TEV5WEhZeElObEpwX2xEaFNwVVdONEZNYmJkeWpVeTRIWGg1ZTR6cnNJVTgwZ2lieEROUGc1VjJwMTJEQ0poREtxeFl3RjBZUVBwU014cmNSandIbWdxNmdKT3FmZXFfc1l3UnJZRnM0Q3hrUXZYXzg1TkZ1RVHSAfQBQVVfeXFMUGk0czVuSEJ3MnlYZ0U3WG40bnNfblF0ZmtOUWIwdU9lTlVwcmNUTnpRdGxGZHBFd2M5LUYycXh1b1p6allkY05fTWFOMGp2T1RSWWszVkRzMjBwdGNYVXBwblJFYWJUUGN0LU95d1lETVlZelgyUW5VRzZSQXU0R004U0VHVHRwVmtOR1B2VDg4VUt4ZFlQMFZYQ2pza0NRZWw1T0FEbXRfb1l3aUc5QlJoWHdwd1lTbUNwakhtaGc5eXR0UE1iSDUyY1o1dU5pWGxsSzdMZFpIRWZiaWZBOWZweW85dGRzcTJUd2xfenpEU3p4UQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Mythos challenge: Delhi needs a say in AI regulation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3ZmeGhLa3lCckdEVEJRQVpHTzI4ejFia21ISEs2M29vMW1LNFhCdm1ibmxEQTVnUUFMS0xnek01Rmc1MHFVaUZGWk5yc1VBa2dKYTNDc1hNTkxvTTZFQm41OUp0SDZYaEdfcGpjVlJnbHhIckpQbG16UDVUYlkwU0JrbWJZSGhUbW9vaU1QNEFMcmpMQjd1TTI3aENUeG91WXlVbGp3UXd6QWZGVGowNTdVOWvSAbsBQVVfeXFMTUVPM2VDMjhNS1RpN19lb3BoQzJ1aXFkdGFSQ1VHWnZDR1h1ODlOWDVEdTRjbkhqSUlEMERyY25BV2YxV3QtUVFfSHNjLUJfaUVfRm9MM0tuUkw5el9nbDliVnlnYUJnb2t1RVItb0NRajEwVEVLa1FMM1Exb0VrT1VMVUlKcldGdmxDWURDTjhVQkNteGVwaFZGZ2x4NGl0T2hBOE5Zek1iQ0FlS2ZVMkpHNEtyWVRLSzBlbw?oc=5\" target=\"_blank\">Mythos challenge: Delhi needs a say in AI regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3ZmeGhLa3lCckdEVEJRQVpHTzI4ejFia21ISEs2M29vMW1LNFhCdm1ibmxEQTVnUUFMS0xnek01Rmc1MHFVaUZGWk5yc1VBa2dKYTNDc1hNTkxvTTZFQm41OUp0SDZYaEdfcGpjVlJnbHhIckpQbG16UDVUYlkwU0JrbWJZSGhUbW9vaU1QNEFMcmpMQjd1TTI3aENUeG91WXlVbGp3UXd6QWZGVGowNTdVOWvSAbsBQVVfeXFMTUVPM2VDMjhNS1RpN19lb3BoQzJ1aXFkdGFSQ1VHWnZDR1h1ODlOWDVEdTRjbkhqSUlEMERyY25BV2YxV3QtUVFfSHNjLUJfaUVfRm9MM0tuUkw5el9nbDliVnlnYUJnb2t1RVItb0NRajEwVEVLa1FMM1Exb0VrT1VMVUlKcldGdmxDWURDTjhVQkNteGVwaFZGZ2x4NGl0T2hBOE5Zek1iQ0FlS2ZVMkpHNEtyWVRLSzBlbw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sat, 25 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Shield AI deepens India presence with New Delhi office and planned Bengaluru expansion",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmJsRkpMeFZiTmN0LU1lX1d0Y2RBYjlBajR0eHFEbkVudG41eWkzaFVJX2ZzX3B4S1ZmS0p3QXFmclJBTkFOWEZqVG9jeHloS0pNSVZtdW1yUDhYMnRMdGVvUjAtd1k3ZlltaEdhZTBNVV9pQkRIbDl0Q2VuYkxZWVRKSE5hRUxsdk81Wk5FTWNEaWJUM2hZdlFWSDVSRXphU2ZTLXBHMTU?oc=5\" target=\"_blank\">Shield AI deepens India presence with New Delhi office and planned Bengaluru expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shield.ai</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmJsRkpMeFZiTmN0LU1lX1d0Y2RBYjlBajR0eHFEbkVudG41eWkzaFVJX2ZzX3B4S1ZmS0p3QXFmclJBTkFOWEZqVG9jeHloS0pNSVZtdW1yUDhYMnRMdGVvUjAtd1k3ZlltaEdhZTBNVV9pQkRIbDl0Q2VuYkxZWVRKSE5hRUxsdk81Wk5FTWNEaWJUM2hZdlFWSDVSRXphU2ZTLXBHMTU?oc=5",
+   "source_name": "shield.ai",
+   "source_domain": "shield.ai",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI Impact Summit 2026 Concludes with Adoption of New Delhi Declaration",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE93VThxYlJROEZMU1dyaDN1bG80N0NYY3R2cnoyMEtUVUZjVDJJaTFJd0JXcHFIOXFnMU5EUzNxMFZnTS01NF81Ql9ZY3RsMFRKbThoN1JvR2o4TWZnNDk5Tms3VkkwLUxw?oc=5\" target=\"_blank\">AI Impact Summit 2026 Concludes with Adoption of New Delhi Declaration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93VThxYlJROEZMU1dyaDN1bG80N0NYY3R2cnoyMEtUVUZjVDJJaTFJd0JXcHFIOXFnMU5EUzNxMFZnTS01NF81Ql9ZY3RsMFRKbThoN1JvR2o4TWZnNDk5Tms3VkkwLUxw?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "All the important news from the ongoing India AI Impact Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMWExOVM4NE0wQks5N0J6T0kzRzk5cjZiOE5DS2xFbzl0SVZnVkwyV05EcFpHZF9seVFJcng0cWNSLVcydm94MW1ZdEtmRDRnX0RfTm1JVi1lbklvWElTMXBITVN4b1hqRXJ2bmxQVU9SQ3N6TnAtZ29KZC1xa3BvVHUyNnpuNE8tbk4tVlRRZkQ3Mm50?oc=5\" target=\"_blank\">All the important news from the ongoing India AI Impact Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMWExOVM4NE0wQks5N0J6T0kzRzk5cjZiOE5DS2xFbzl0SVZnVkwyV05EcFpHZF9seVFJcng0cWNSLVcydm94MW1ZdEtmRDRnX0RfTm1JVi1lbklvWElTMXBITVN4b1hqRXJ2bmxQVU9SQ3N6TnAtZ29KZC1xa3BvVHUyNnpuNE8tbk4tVlRRZkQ3Mm50?oc=5",
+   "source_name": "TechCrunch",
+   "source_domain": "techcrunch.com",
+   "published_raw": "Sun, 22 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Impact Summit 2026 and New Delhi Declaration: India’s Leap into the Global AI Order",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHhVaEFWWHFWTUM2WXhFYWJQQmxHX1BKX2hDVTVyNUpPNWtpU2kxMnBRY0RVVTJJWUlpMDNEalZ2RmdQN2VaUzZYc3RCakxVOXRYRlk3ZjB2aWJITThPellsSFJDdHp2WTVQa3RSZXkyZ1hfWlpqTmVoQUdza1BpWEtLWUE3UVlLS0Ixckp6WDhHdW1oOGMxMFZKVXZubkhTcGpXZjhWYTZ5SS1uRll5d2xjTnotNGkySHd2SWQyV29jMHN4aWN5SGNlRmd6QQ?oc=5\" target=\"_blank\">India AI Impact Summit 2026 and New Delhi Declaration: India’s Leap into the Global AI Order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vision IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHhVaEFWWHFWTUM2WXhFYWJQQmxHX1BKX2hDVTVyNUpPNWtpU2kxMnBRY0RVVTJJWUlpMDNEalZ2RmdQN2VaUzZYc3RCakxVOXRYRlk3ZjB2aWJITThPellsSFJDdHp2WTVQa3RSZXkyZ1hfWlpqTmVoQUdza1BpWEtLWUE3UVlLS0Ixckp6WDhHdW1oOGMxMFZKVXZubkhTcGpXZjhWYTZ5SS1uRll5d2xjTnotNGkySHd2SWQyV29jMHN4aWN5SGNlRmd6QQ?oc=5",
+   "source_name": "Vision IAS",
+   "source_domain": "visionias.in",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "M.A.N.A.V.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBlV1hNOHMwdTRWeHExVGpSUFUweUl5MVN4UlZ5Nmxtbzd3VmppNTg4Z1pzbm5vYXdUQXMzem9yMGhfS0VPMGJtbWs0YmhpdUdSVEk1TEREUlhlSGhtZTdhZ0tRTXJ1U1o0WUFPR2RRQkFwcWRmTWFzaVhR?oc=5\" target=\"_blank\">M.A.N.A.V.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlV1hNOHMwdTRWeHExVGpSUFUweUl5MVN4UlZ5Nmxtbzd3VmppNTg4Z1pzbm5vYXdUQXMzem9yMGhfS0VPMGJtbWs0YmhpdUdSVEk1TEREUlhlSGhtZTdhZ0tRTXJ1U1o0WUFPR2RRQkFwcWRmTWFzaVhR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Urgent research needed to tackle AI threats, says Google AI boss",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HS3lpeU52R2FTa1Q1YmpITDJ3cHdlWmphbkJDS3ZlT1RmUFVoY19UeGZZSmx0ZUhGdEZkamhPWHZkaXd5YVNsbmU0TzJpcWFUMGlFY1V5c1NDZw?oc=5\" target=\"_blank\">Urgent research needed to tackle AI threats, says Google AI boss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HS3lpeU52R2FTa1Q1YmpITDJ3cHdlWmphbkJDS3ZlT1RmUFVoY19UeGZZSmx0ZUhGdEZkamhPWHZkaXd5YVNsbmU0TzJpcWFUMGlFY1V5c1NDZw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Finalists Announced for Three Flagship Global AI Impact Challenges under the India AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBCQUFlRWNGN1Y1aGk0LVQxWHZwdlUwUDFFVXl0cVBVbmhxbnlQMzlmSzl5UkRhMFd5dEdIc2JVUmJ4aGVCZWRFRVdnU1JOenJmc09kUXpGT0hqODRjRS1sQWxLdU5uR1NZNkpDcDQyZG1tMXFjbkllY01B?oc=5\" target=\"_blank\">Finalists Announced for Three Flagship Global AI Impact Challenges under the India AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCQUFlRWNGN1Y1aGk0LVQxWHZwdlUwUDFFVXl0cVBVbmhxbnlQMzlmSzl5UkRhMFd5dEdIc2JVUmJ4aGVCZWRFRVdnU1JOenJmc09kUXpGT0hqODRjRS1sQWxLdU5uR1NZNkpDcDQyZG1tMXFjbkllY01B?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI in Education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uWjNaei1hRDdqTzVHSVpvb29pS1gzOFowblU1a0pxQmpRTF9ESmM0dnhxUTgzc0l6VEd6UkJ5STlWOEx0X1pVR1pYc1lTXzlVaGxVSGQxMlNxVW91c0RRT2gta0JXVERBTkR0djFtMEJqQTdESm5Wd1R3?oc=5\" target=\"_blank\">AI in Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uWjNaei1hRDdqTzVHSVpvb29pS1gzOFowblU1a0pxQmpRTF9ESmM0dnhxUTgzc0l6VEd6UkJ5STlWOEx0X1pVR1pYc1lTXzlVaGxVSGQxMlNxVW91c0RRT2gta0JXVERBTkR0djFtMEJqQTdESm5Wd1R3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Artificial Intelligence (AI) Transforming Rural India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8zWmtfRXNtYnB5amZ3SWRaVWctOHZiZkl1cUVfaDExZWpSSnRvNFgzUWJvMllCWm1fQmtUVmcxZWlFRkZVOTZJWk01S1hKblRCSVZXSlpfSzBaQTFucHF6bEFrdXZQaWRmblB2SFhWWXQxalZSMVVOcU5n?oc=5\" target=\"_blank\">Artificial Intelligence (AI) Transforming Rural India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zWmtfRXNtYnB5amZ3SWRaVWctOHZiZkl1cUVfaDExZWpSSnRvNFgzUWJvMllCWm1fQmtUVmcxZWlFRkZVOTZJWk01S1hKblRCSVZXSlpfSzBaQTFucHF6bEFrdXZQaWRmblB2SFhWWXQxalZSMVVOcU5n?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI and Climate Action in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEtHeGVxQ00zWnNPRlFZb2c2VUx5OHJuUGhpTXVUb2g5ZFVRRVR3ZjYzVjlUQUxPVTZQTFlNcTIxWW1QWGp2aHlzR3FBeXh5YW5vN0k5NjNYeHV3MExKWm5HbGw2R0NBSnFTRUV5aVItWk5PZDdndVF3?oc=5\" target=\"_blank\">AI and Climate Action in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEtHeGVxQ00zWnNPRlFZb2c2VUx5OHJuUGhpTXVUb2g5ZFVRRVR3ZjYzVjlUQUxPVTZQTFlNcTIxWW1QWGp2aHlzR3FBeXh5YW5vN0k5NjNYeHV3MExKWm5HbGw2R0NBSnFTRUV5aVItWk5PZDdndVF3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Macron defends EU AI rules and vows crackdown on child ‘digital abuse’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnJWd3puQUkzS3pQR2tpaWwzalBaVkY2VUhfN0FZMFpzZmptQmVrNC1jMUJxY2tzLTM3WHlfREd3TE1RVnFqV0V4ZGVXbWFMendxUEpPRWxobW1tQ2JwUDR0QUFPckdKcFVOQ05nX0U5Vy1RNzR2TjBfbTgyMDl5ZzJTYTBVel9MRkVuU0s5ZkJhbE92Mm1SZ0NnU3c2dGdRR3lURTlKQTA?oc=5\" target=\"_blank\">Macron defends EU AI rules and vows crackdown on child ‘digital abuse’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnJWd3puQUkzS3pQR2tpaWwzalBaVkY2VUhfN0FZMFpzZmptQmVrNC1jMUJxY2tzLTM3WHlfREd3TE1RVnFqV0V4ZGVXbWFMendxUEpPRWxobW1tQ2JwUDR0QUFPckdKcFVOQ05nX0U5Vy1RNzR2TjBfbTgyMDl5ZzJTYTBVel9MRkVuU0s5ZkJhbE92Mm1SZ0NnU3c2dGdRR3lURTlKQTA?oc=5",
+   "source_name": "The Guardian",
+   "source_domain": "theguardian.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI-focused centres of excellence, new policies on drones and semiconductors among highlights in Delhi Budget 2026-27",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGt6TURxMEVuMGdod3ZKa1pBbjl5S2MyUjh2X0tzZzN2QnEtQzUwSXREa3RaTXc3VG9zMUxGZmFac3htQ2JZR254bUZDUEJWa0k4Q3E0YWlveHVZVXRaOFF0Rlo3dGxHUWRsTTRSY3JqLWdITWNVT0VscVdZS1Q3R2pTMjhBMDAxZktDSEVpMFl4M182Q1Z6OGJXcXVpUGdDVTV5bUtDVmF1UDY1ZWRESlpINl9aWm9idXViMNIBwwFBVV95cUxPb0t2WllfSkJiaUdGY29fOXdUbkU4dkxmTTYzcUlfUHBkU3ExSklGX0FaV0g0QkVyMWptNXd1NlVBZHBLU3VHQWZJWnk3dWZpbnBKYThIZTJpNVhBMlV4eVRTcm03OWJZNlV5MXhhcFFYRXFCZS1iSkFvVW40X1lScFhZRzlNZXRaT3pHajlxbENpUnFpclAxY3BqN1k3UnJKeW94SUUwXzIwUldSeHBTM3hJNDZfRUVTUk5fekx3Z0lnb0U?oc=5\" target=\"_blank\">AI-focused centres of excellence, new policies on drones and semiconductors among highlights in Delhi Budget 2026-27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGt6TURxMEVuMGdod3ZKa1pBbjl5S2MyUjh2X0tzZzN2QnEtQzUwSXREa3RaTXc3VG9zMUxGZmFac3htQ2JZR254bUZDUEJWa0k4Q3E0YWlveHVZVXRaOFF0Rlo3dGxHUWRsTTRSY3JqLWdITWNVT0VscVdZS1Q3R2pTMjhBMDAxZktDSEVpMFl4M182Q1Z6OGJXcXVpUGdDVTV5bUtDVmF1UDY1ZWRESlpINl9aWm9idXViMNIBwwFBVV95cUxPb0t2WllfSkJiaUdGY29fOXdUbkU4dkxmTTYzcUlfUHBkU3ExSklGX0FaV0g0QkVyMWptNXd1NlVBZHBLU3VHQWZJWnk3dWZpbnBKYThIZTJpNVhBMlV4eVRTcm03OWJZNlV5MXhhcFFYRXFCZS1iSkFvVW40X1lScFhZRzlNZXRaT3pHajlxbENpUnFpclAxY3BqN1k3UnJKeW94SUUwXzIwUldSeHBTM3hJNDZfRUVTUk5fekx3Z0lnb0U?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:33+00:00"
+  }
+ ]
+}

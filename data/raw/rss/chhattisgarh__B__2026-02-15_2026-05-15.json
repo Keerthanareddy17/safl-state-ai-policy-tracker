@@ -1,0 +1,109 @@
+{
+ "region": "Chhattisgarh",
+ "group": "B",
+ "query": "(Chhattisgarh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chhattisgarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:14+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh CM launches upgraded Seva Setu portal to expand digital access to govt services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTF4OHR0YnhpT2x1Ykl4ck1MQ2JBQ2w5amcxYy00TmYwZmJzZWtGYWxMMFdBbWtPYlMtcFdLQWJ2M3JGX0kzLW5wNU1ZOWdSdnFTcy03YVlHb0dHRC1SbUEzN3dsV3VsQXBXVkhwYUJvZWs2d1lOZDQzd2V4dlFDcHAwRTVfUURyMVNzY2lWMFA1SnQ5M1lJSjFacERrb1dXMFc4bzZLYVZiX1B4U1FrRnNEOFotWklLNXRIRHZFM0E5cml1REHSAcsBQVVfeXFMUGxlQm5Da1ltLU5veVRPZ2JKalFTeTFCZ253ZzU2MlQwYXF5UktaT09NOTd6amFxZXRBRjhMeXhoQ0ZIdDVhbEVxdmU5VHR5am05cnpmeTRLSWVoXzBlRW1xZWJSLVBOQ1VkZFgzdVZnVkU4cUo2N0ZlaVF0d3VYR25wZVUwTE9hUzlLdFhSX055N2VNeERCcDdUYWxEc0RlbXBzWUZtSTFiMms1WjFvcVhvMG1PX2R4bGJybTI1V1RRU0pyYWtwT0NNUjA?oc=5\" target=\"_blank\">Chhattisgarh CM launches upgraded Seva Setu portal to expand digital access to govt services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTF4OHR0YnhpT2x1Ykl4ck1MQ2JBQ2w5amcxYy00TmYwZmJzZWtGYWxMMFdBbWtPYlMtcFdLQWJ2M3JGX0kzLW5wNU1ZOWdSdnFTcy03YVlHb0dHRC1SbUEzN3dsV3VsQXBXVkhwYUJvZWs2d1lOZDQzd2V4dlFDcHAwRTVfUURyMVNzY2lWMFA1SnQ5M1lJSjFacERrb1dXMFc4bzZLYVZiX1B4U1FrRnNEOFotWklLNXRIRHZFM0E5cml1REHSAcsBQVVfeXFMUGxlQm5Da1ltLU5veVRPZ2JKalFTeTFCZ253ZzU2MlQwYXF5UktaT09NOTd6amFxZXRBRjhMeXhoQ0ZIdDVhbEVxdmU5VHR5am05cnpmeTRLSWVoXzBlRW1xZWJSLVBOQ1VkZFgzdVZnVkU4cUo2N0ZlaVF0d3VYR25wZVUwTE9hUzlLdFhSX055N2VNeERCcDdUYWxEc0RlbXBzWUZtSTFiMms1WjFvcVhvMG1PX2R4bGJybTI1V1RRU0pyYWtwT0NNUjA?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "SANKALP 2026: Chhattisgarh unveils Rs 1.72 lakh cr budget with massive push for Bastar and women empowerment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRF9MWTc1dGZHZGE3S09FMFpHaWk3cDFCemZmX2FLQW9QczItNVdoR1NyZkN0eVlCS0xzMER2ZGpYZnMwa215Wk1pRk94eWtPLVJMang5S0ZodlNqZE95OXhrQWQwMFlGNkdvcERoSmlaVXdPWnFOYXluam8ya2plN21hcFFkWS1wVEJiY1I0b2JoWFc2Z1hWODlpTF80LWMtMkhDRG9QZlFxOUZXS3ktMXVrRXhVV0tVNkdWeS1pSzTSAc4BQVVfeXFMTVpQQnhGcU0tQ3VqOUZNY21Xdk1mLS1ua3pLOHNXdlBKcFRnM1djSU82MkpHdlRMSXU3bGhVQ2NocmRFazFEZVhNSFFIQXNpd21sdGhxRnJlOU5MUXM3aGwxUFNGeGlobnRTeXMzT3g5S0R0VWJnemVfc2h5cWptNldmZWk1d3FGTXNGNnE4QUlBbnIzVUdvWGozYThnWkgyMnhOcGlaR0F2dEEwblZvNDV0Z0J5T0hSekJSQk9FaXkwUGQzUFRQRmpFUHNDSXc?oc=5\" target=\"_blank\">SANKALP 2026: Chhattisgarh unveils Rs 1.72 lakh cr budget with massive push for Bastar and women empowerment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRF9MWTc1dGZHZGE3S09FMFpHaWk3cDFCemZmX2FLQW9QczItNVdoR1NyZkN0eVlCS0xzMER2ZGpYZnMwa215Wk1pRk94eWtPLVJMang5S0ZodlNqZE95OXhrQWQwMFlGNkdvcERoSmlaVXdPWnFOYXluam8ya2plN21hcFFkWS1wVEJiY1I0b2JoWFc2Z1hWODlpTF80LWMtMkhDRG9QZlFxOUZXS3ktMXVrRXhVV0tVNkdWeS1pSzTSAc4BQVVfeXFMTVpQQnhGcU0tQ3VqOUZNY21Xdk1mLS1ua3pLOHNXdlBKcFRnM1djSU82MkpHdlRMSXU3bGhVQ2NocmRFazFEZVhNSFFIQXNpd21sdGhxRnJlOU5MUXM3aGwxUFNGeGlobnRTeXMzT3g5S0R0VWJnemVfc2h5cWptNldmZWk1d3FGTXNGNnE4QUlBbnIzVUdvWGozYThnWkgyMnhOcGlaR0F2dEEwblZvNDV0Z0J5T0hSekJSQk9FaXkwUGQzUFRQRmpFUHNDSXc?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Transfers 43 IAS Officers; Niharika Barik Appointed Principal Secretary (Home & Jails), 7 District Collectors Replaced",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWHpTUVdtREJfUFlfdXN3THktckE2TzdROEJuWjNfLWlvX1FyUEJsU3c5ZWJMZ3ZQYkkyeU5PelVzVDhPbWtobXA4SUljdDJ2MTNhYl9lUEMzRUhlY3lSc0plb2kwYkJ4bG1TTmIzRmstNi1FUnJQV3JtblJTYWItYmxvUzZESURSRVFJd1RndWF2SUJWY2x3WF9kRF9EZDRFSXRXeVd0aWNWOGJXOW9IYldxZHBkaXAyMHFRUUJublpveUIzcGNLdVVfTzh1OGllTGZxY2FSUXQ4NjlncUN5elpQTXV5a0o5ZExaVkNCaS1ueS1KdEE?oc=5\" target=\"_blank\">Chhattisgarh Transfers 43 IAS Officers; Niharika Barik Appointed Principal Secretary (Home & Jails), 7 District Collectors Replaced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWHpTUVdtREJfUFlfdXN3THktckE2TzdROEJuWjNfLWlvX1FyUEJsU3c5ZWJMZ3ZQYkkyeU5PelVzVDhPbWtobXA4SUljdDJ2MTNhYl9lUEMzRUhlY3lSc0plb2kwYkJ4bG1TTmIzRmstNi1FUnJQV3JtblJTYWItYmxvUzZESURSRVFJd1RndWF2SUJWY2x3WF9kRF9EZDRFSXRXeVd0aWNWOGJXOW9IYldxZHBkaXAyMHFRUUJublpveUIzcGNLdVVfTzh1OGllTGZxY2FSUXQ4NjlncUN5elpQTXV5a0o5ZExaVkNCaS1ueS1KdEE?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Thu, 07 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Budget 2026–27 charts Rs 1.72 lakh crore roadmap with strong focus on Bastar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPckFwb0tRakRiek4wdFZxdWt6TjhMbFVJU1FLWWFLMUVrOHl5NDNFaC1PcGFiRUkwYlVka0JGOS1QckhzYlhuVjFxUHhoSEZNUHdUZG9vanFnTjZNNGFWSnNSU2k5T09YMEhUYXM5blRKT2l0TDNhQ0p0UDIxMGIyVU1RY21yWk1YcFRiVkh0NC14N284Yk9ZT2F3?oc=5\" target=\"_blank\">Chhattisgarh Budget 2026–27 charts Rs 1.72 lakh crore roadmap with strong focus on Bastar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YourStory.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckFwb0tRakRiek4wdFZxdWt6TjhMbFVJU1FLWWFLMUVrOHl5NDNFaC1PcGFiRUkwYlVka0JGOS1QckhzYlhuVjFxUHhoSEZNUHdUZG9vanFnTjZNNGFWSnNSU2k5T09YMEhUYXM5blRKT2l0TDNhQ0p0UDIxMGIyVU1RY21yWk1YcFRiVkh0NC14N284Yk9ZT2F3?oc=5",
+   "source_name": "YourStory.com",
+   "source_domain": "yourstory.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh & MP: Spl Assembly Sessions Convened to Pass Censure Motion Against Oppn",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmUxSDhfZnhzdlNLTjk2c09YeVJJNjFLYklQM0lIVFdUMGxVWUtmczdzM1FrQ3Z1bW5aTWpqUmY4LVgwQ2dqMGs0dE9CWGZiWXA2ZDV1MnJrYzljajJTZ3MteDF2QlNnelhrWkZpa09SNUVITlBNak1tcVlPVG1Rcms0bzlURXItNFFaYjJjUE1OYTc1WDhHT0lfTkxLd3pZTGNLSURSQlZhUF9sX1E2TlNUS1N5MzI3empONVA0NkFBemlxY0RKTNIBzgFBVV95cUxQbGpQWURYSW5Mc0xINnJNOTNkYm9oWFVpOENNUUViQXJGQzBEYTRieG40T3NicUJSSUhkY2pVUW5aSDFJUE44NWRqa2FZZDNEUG51T1NxNFlPbUt4c2p1empKRFYtc1RaeFdpT25RZk14aWRNaHVzOGtrUWk5Uk9oamNXeVFlWTR1U0RrVGpxR0Y5V01KZURuQWFJUWJnN21JX0JiTzE1dnN4UzdCREYtdm5ONXREMWFJT2VzcWhYaWFDN3RGdC1qV2hpRlNPdw?oc=5\" target=\"_blank\">Chhattisgarh & MP: Spl Assembly Sessions Convened to Pass Censure Motion Against Oppn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmUxSDhfZnhzdlNLTjk2c09YeVJJNjFLYklQM0lIVFdUMGxVWUtmczdzM1FrQ3Z1bW5aTWpqUmY4LVgwQ2dqMGs0dE9CWGZiWXA2ZDV1MnJrYzljajJTZ3MteDF2QlNnelhrWkZpa09SNUVITlBNak1tcVlPVG1Rcms0bzlURXItNFFaYjJjUE1OYTc1WDhHT0lfTkxLd3pZTGNLSURSQlZhUF9sX1E2TlNUS1N5MzI3empONVA0NkFBemlxY0RKTNIBzgFBVV95cUxQbGpQWURYSW5Mc0xINnJNOTNkYm9oWFVpOENNUUViQXJGQzBEYTRieG40T3NicUJSSUhkY2pVUW5aSDFJUE44NWRqa2FZZDNEUG51T1NxNFlPbUt4c2p1empKRFYtc1RaeFdpT25RZk14aWRNaHVzOGtrUWk5Uk9oamNXeVFlWTR1U0RrVGpxR0Y5V01KZURuQWFJUWJnN21JX0JiTzE1dnN4UzdCREYtdm5ONXREMWFJT2VzcWhYaWFDN3RGdC1qV2hpRlNPdw?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Thu, 23 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "‘Must apply parity’: Why Chhattisgarh High Court granted bail to ex-CMO official in Rs 2,883 crore liquor ‘scam’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0RoMWhYS1hjT3hhUXloVEhDQTNVRjRXNWlHdVZxSVdLYmsxSm1HLVozSEhoZmxJNXk5ZGc1MHRJYV9ELS1BM2ZVX04tTnJnZnNpeXptd3RIRnBvbzNJVDVXMFY3U0szRDR3QmRNTFhMSWhfbkFiUW1HMXNWMWYxNFhNYmRGeWFSeTd3aFF1Q2lfT0FkbVBjcUU3bTdXenRoSi0tVlBDVzhqSFJvNHdicF96X3d1SGZuSWfSAcABQVVfeXFMTXo0SHo1bW1hNVZfdjlWTUNPVDVuOVVUNnNPNFEzZlJ2MG5WdXNyRDJkVTdfaVQ2WEFDQk8yMWNVY0hzNW9Xb3FuTzFwajAtMWF0YUF3WTlpRUhrUG5YZUw4eHVWVUtTZFk0VWo4a2FXdkhuQ1ROblNLbVRpTHg5WUNPcUZJVzhQN1JzNmJVUVdySFgtOEgtYVlGZlJoZExkcmdfVDJ5QVFtY2VLcDNQOUpJVVJ1dnB4WjVTQjQyWS14?oc=5\" target=\"_blank\">‘Must apply parity’: Why Chhattisgarh High Court granted bail to ex-CMO official in Rs 2,883 crore liquor ‘scam’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0RoMWhYS1hjT3hhUXloVEhDQTNVRjRXNWlHdVZxSVdLYmsxSm1HLVozSEhoZmxJNXk5ZGc1MHRJYV9ELS1BM2ZVX04tTnJnZnNpeXptd3RIRnBvbzNJVDVXMFY3U0szRDR3QmRNTFhMSWhfbkFiUW1HMXNWMWYxNFhNYmRGeWFSeTd3aFF1Q2lfT0FkbVBjcUU3bTdXenRoSi0tVlBDVzhqSFJvNHdicF96X3d1SGZuSWfSAcABQVVfeXFMTXo0SHo1bW1hNVZfdjlWTUNPVDVuOVVUNnNPNFEzZlJ2MG5WdXNyRDJkVTdfaVQ2WEFDQk8yMWNVY0hzNW9Xb3FuTzFwajAtMWF0YUF3WTlpRUhrUG5YZUw4eHVWVUtTZFk0VWo4a2FXdkhuQ1ROblNLbVRpTHg5WUNPcUZJVzhQN1JzNmJVUVdySFgtOEgtYVlGZlJoZExkcmdfVDJ5QVFtY2VLcDNQOUpJVVJ1dnB4WjVTQjQyWS14?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Two lakh Chhattisgarh teachers to get AI training under new education initiative",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xkakpXaHpHUVd0MThyMGlZbXNpVTJsZExNa1VNVXFMUFdYOF95WUVNWENJYk5yRDdhT3lHbnNDdnZkZUZINGdxSEV4ODVjSDJ6aXRiOTFqM2FPcy04c0Ytc0JPTzFtRTEtbmFzbVo5cGROZWc2SUQxbnMzZU5wdlRkZVhFUFRIZGdsRUlzSVlwUXJuOFdIYUdEa1pKRV9jRXJFeEt6LXptdlhXRTJr0gG8AUFVX3lxTE9PZFo2cGdlWm5sTkxIb01wZHNnY3dJVG9VOUFPZkN5c216NUM0RDBjaWlJNEdyUnFYblRyeHBmWUYzcnFlY0pzVGVRbEVuN1VReDRTT3lLVUVTNGdsNHduNXN2em9faTE2RXVUcFItWUU3NVdLTDJ3NWc0dWxldHU3Sm5vZUdpQnNfNXRHSnVhVmw5djdCU3dUZjkwYkhRLVZ3Y1J6U1JkbEZmc2hSYmNwN0k5ZnJZblgySDM5?oc=5\" target=\"_blank\">Two lakh Chhattisgarh teachers to get AI training under new education initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdexLive</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xkakpXaHpHUVd0MThyMGlZbXNpVTJsZExNa1VNVXFMUFdYOF95WUVNWENJYk5yRDdhT3lHbnNDdnZkZUZINGdxSEV4ODVjSDJ6aXRiOTFqM2FPcy04c0Ytc0JPTzFtRTEtbmFzbVo5cGROZWc2SUQxbnMzZU5wdlRkZVhFUFRIZGdsRUlzSVlwUXJuOFdIYUdEa1pKRV9jRXJFeEt6LXptdlhXRTJr0gG8AUFVX3lxTE9PZFo2cGdlWm5sTkxIb01wZHNnY3dJVG9VOUFPZkN5c216NUM0RDBjaWlJNEdyUnFYblRyeHBmWUYzcnFlY0pzVGVRbEVuN1VReDRTT3lLVUVTNGdsNHduNXN2em9faTE2RXVUcFItWUU3NVdLTDJ3NWc0dWxldHU3Sm5vZUdpQnNfNXRHSnVhVmw5djdCU3dUZjkwYkhRLVZ3Y1J6U1JkbEZmc2hSYmNwN0k5ZnJZblgySDM5?oc=5",
+   "source_name": "EdexLive",
+   "source_domain": "edexlive.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "‘Chhattisgarh has emerged as a growth engine’: GSDP projected to grow 8.11% in FY26, says Economic Survey",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEIzbEduZWhVY181YVpucE9JUmQwOXpaRnQ5cHRoeHhfaEptcUNJbWVTaFFDU19MUldNNnpiNTRzSjNrbGNoeklQQ0dEVFhqWk1iTHlGY1hXckszRWdpRnBWVWhZd0NUdWJXaGlMUU1iYWotMVhtbTFuaEozbUpPZkhqYmVZblVCbjF0NlQ4aDBPZzRNOUt1TVB5RTdSTnhTbU5MbEZn0gGsAUFVX3lxTFBWbkhITWl1dV9pREViQWN3eHcxOTJBeElwOXRWTUN6aGxTcUM1WTd0X1JDVWd1aFlVZW55Vmtzckk1dE1LSVo1TVlka2hOajdDcVVDZnotenl0aW9lLTdfQ0VyR1RfTlJSY2hjSDB0WGxtSFBpTlVKdUhRQ0JLOVhZb0Rsbkx4LWh0MThRZmJuT2xDdHpiZFppWDFOZVotd0trZDBpeHRQeWJObnY?oc=5\" target=\"_blank\">‘Chhattisgarh has emerged as a growth engine’: GSDP projected to grow 8.11% in FY26, says Economic Survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEIzbEduZWhVY181YVpucE9JUmQwOXpaRnQ5cHRoeHhfaEptcUNJbWVTaFFDU19MUldNNnpiNTRzSjNrbGNoeklQQ0dEVFhqWk1iTHlGY1hXckszRWdpRnBWVWhZd0NUdWJXaGlMUU1iYWotMVhtbTFuaEozbUpPZkhqYmVZblVCbjF0NlQ4aDBPZzRNOUt1TVB5RTdSTnhTbU5MbEZn0gGsAUFVX3lxTFBWbkhITWl1dV9pREViQWN3eHcxOTJBeElwOXRWTUN6aGxTcUM1WTd0X1JDVWd1aFlVZW55Vmtzckk1dE1LSVo1TVlka2hOajdDcVVDZnotenl0aW9lLTdfQ0VyR1RfTlJSY2hjSDB0WGxtSFBpTlVKdUhRQ0JLOVhZb0Rsbkx4LWh0MThRZmJuT2xDdHpiZFppWDFOZVotd0trZDBpeHRQeWJObnY?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "From Maoist bastion to ‘modern education city’: What Chhattisgarh Budget has in store for Bastar region",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlQ4Zld0NXJrZkxzU1pSNXFId2NoelcyWU5fT0x6TkJzclVQOVI1WnFubXF4Slo5VkFNeW5PcTBjOTRsdU1JaGxxV0tUOTFVRm5kR0F4ZWlaMmRnbHZHRUhhRzdmZ0d1UUNlOEFEZllVcE9mU0tScVVyS0xYZUlVVkdPMjlEWmFGdTAtd0FGa2hkVENWbzlEUkxVRlEwYXVsRUlZbFVqRFpTMndpQVJFb3QtQUh6SXBmdmEzV2x2NGlOelRMRmphX21uODZxT2Z2OGZ2NVNJbXZzV3hseU1RMWpvcELSAesBQVVfeXFMTVdaWDk0MFFHaThIRncwLXFtZDhrWkdQWlNFeU14M2cyTGE4b2JzV2ktS3J0NFFHOTJ4WWhVdExsMzZvVlRXR3l4VUlKbGdrVkI0azdzUWdfVzZfYzExeG1aY25DeTdTSThSdWs4Y3BPSWRCbEptQUQxWEViVHBoU3o1aG4zUkM5aTFGaHpSYlNkdzBTX25WYncwaUJya3lfTDdOUFQ1N0VSN1FDNmpJMWswUndWNzlPNjVEci1LUlozaGxEZTB5aS1kY2RCRUdja0JsVnV0TUJha1laYlFYdDY0NUs5WWRCRGFkZw?oc=5\" target=\"_blank\">From Maoist bastion to ‘modern education city’: What Chhattisgarh Budget has in store for Bastar region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORlQ4Zld0NXJrZkxzU1pSNXFId2NoelcyWU5fT0x6TkJzclVQOVI1WnFubXF4Slo5VkFNeW5PcTBjOTRsdU1JaGxxV0tUOTFVRm5kR0F4ZWlaMmRnbHZHRUhhRzdmZ0d1UUNlOEFEZllVcE9mU0tScVVyS0xYZUlVVkdPMjlEWmFGdTAtd0FGa2hkVENWbzlEUkxVRlEwYXVsRUlZbFVqRFpTMndpQVJFb3QtQUh6SXBmdmEzV2x2NGlOelRMRmphX21uODZxT2Z2OGZ2NVNJbXZzV3hseU1RMWpvcELSAesBQVVfeXFMTVdaWDk0MFFHaThIRncwLXFtZDhrWkdQWlNFeU14M2cyTGE4b2JzV2ktS3J0NFFHOTJ4WWhVdExsMzZvVlRXR3l4VUlKbGdrVkI0azdzUWdfVzZfYzExeG1aY25DeTdTSThSdWs4Y3BPSWRCbEptQUQxWEViVHBoU3o1aG4zUkM5aTFGaHpSYlNkdzBTX25WYncwaUJya3lfTDdOUFQ1N0VSN1FDNmpJMWswUndWNzlPNjVEci1LUlozaGxEZTB5aS1kY2RCRUdja0JsVnV0TUJha1laYlFYdDY0NUs5WWRCRGFkZw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:14+00:00"
+  }
+ ]
+}

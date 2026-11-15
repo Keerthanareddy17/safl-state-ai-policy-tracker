@@ -1,0 +1,109 @@
+{
+ "region": "Dadra and Nagar Haveli and Daman and Diu",
+ "group": "B",
+ "query": "(\"Dadra and Nagar Haveli and Daman and Diu\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-08-15 before:2026-11-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Dadra+and+Nagar+Haveli+and+Daman+and+Diu%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-08-15+before%3A2026-11-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:30+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "HM Amit Shah chairs 28th Western Zonal Council meeting in Goa",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGxyazNpZUlkaWdKQkZqUE83Ri1yendKYTlNNW5tYkgtNU5BS2FfUzR2a3BLcWRfcnMzTDV0SUFoUU5ydkdlSHpCSVd1RkRCcVJNM1h2OWRyYVk3WnFMY3NGbC1kRFQ0YTdmQmt1cWtaSi1RWHRTbVBqRUdXYWh4ZFc2d3dMZk5ieUc0dlcySGxUZkE?oc=5\" target=\"_blank\">HM Amit Shah chairs 28th Western Zonal Council meeting in Goa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD India</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGxyazNpZUlkaWdKQkZqUE83Ri1yendKYTlNNW5tYkgtNU5BS2FfUzR2a3BLcWRfcnMzTDV0SUFoUU5ydkdlSHpCSVd1RkRCcVJNM1h2OWRyYVk3WnFMY3NGbC1kRFQ0YTdmQmt1cWtaSi1RWHRTbVBqRUdXYWh4ZFc2d3dMZk5ieUc0dlcySGxUZkE?oc=5",
+   "source_name": "DD India",
+   "source_domain": "ddindia.co.in",
+   "published_raw": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "First Kanda Express to Reach Agartala on October 18 with 440 MT of Onions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjVObExxTmZhTlZkQzBwWEJNcmVUMkpZWEhPeG1TVlduLXZaMWl1RVJtVWU5aFdWOG9Qb2xCSWxxQ1FBcXc2SVlIZ0RGZnFFd3R4R2JJUWUzdzdvb2w4MXhweGdkbXRfSHA2cmRtU09NTXRrNzJOcEpaX3pwTW11Y3NJSG1FVkhDQmNtWkJDa1BCWVpFbGpld1FRdXNnNHVh?oc=5\" target=\"_blank\">First Kanda Express to Reach Agartala on October 18 with 440 MT of Onions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNjVObExxTmZhTlZkQzBwWEJNcmVUMkpZWEhPeG1TVlduLXZaMWl1RVJtVWU5aFdWOG9Qb2xCSWxxQ1FBcXc2SVlIZ0RGZnFFd3R4R2JJUWUzdzdvb2w4MXhweGdkbXRfSHA2cmRtU09NTXRrNzJOcEpaX3pwTW11Y3NJSG1FVkhDQmNtWkJDa1BCWVpFbGpld1FRdXNnNHVh?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "India’s western region is the ‘WEST engine’ of growth: Home Minister Amit Shah",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFoSmZJTWZGeHJ1RlBRZWdGZnpGU2tsNkxlTGtvNlFmcWhVcGZ5Q2VaaHRjTnBFYkhHWG9BdlJqWGs5VnFVRUtUV3BDZDRaVkpDWWNmS3pmdGFYc0ZoenF3alJYdHVOZE1FOW1SZHdaSXMwQm1LNEJZWHhhdVROVjl6VTNxa1JYS1VadnhWX3MtVm91ek9HOUQtVlRLS0g1RGFuUmVxUHNZYWpxNFJEVTM0anNRT0NfQ2wyeHMxZG1vTGPSAdABQVVfeXFMTkEyOE12UG1OcDN0a2RQQkR6cXR4MlRJcFF3QjhydzRWLTZkVlVCWTJjay1MTTc1Zm1NQktmbGtSV1ZneWtLQkQ4WGhycjY5LVV3eXNwVnZYYmFEZEpYX2ZZR3VBTV8yUWdwZ0JjZGZDT3M5WnZxb29YR2tmR2tpVS14U2Z2T1BfaG5ZeG94SUx4TUg5OXphRy1sTWlyUTAwYkg2YUI1UFM1UUN2dkpSbTYxY3JfZ1BEWVZQa3JBVVJWbFhTQVJYTE5CT1NDN2hSNA?oc=5\" target=\"_blank\">India’s western region is the ‘WEST engine’ of growth: Home Minister Amit Shah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFoSmZJTWZGeHJ1RlBRZWdGZnpGU2tsNkxlTGtvNlFmcWhVcGZ5Q2VaaHRjTnBFYkhHWG9BdlJqWGs5VnFVRUtUV3BDZDRaVkpDWWNmS3pmdGFYc0ZoenF3alJYdHVOZE1FOW1SZHdaSXMwQm1LNEJZWHhhdVROVjl6VTNxa1JYS1VadnhWX3MtVm91ek9HOUQtVlRLS0g1RGFuUmVxUHNZYWpxNFJEVTM0anNRT0NfQ2wyeHMxZG1vTGPSAdABQVVfeXFMTkEyOE12UG1OcDN0a2RQQkR6cXR4MlRJcFF3QjhydzRWLTZkVlVCWTJjay1MTTc1Zm1NQktmbGtSV1ZneWtLQkQ4WGhycjY5LVV3eXNwVnZYYmFEZEpYX2ZZR3VBTV8yUWdwZ0JjZGZDT3M5WnZxb29YR2tmR2tpVS14U2Z2T1BfaG5ZeG94SUx4TUg5OXphRy1sTWlyUTAwYkg2YUI1UFM1UUN2dkpSbTYxY3JfZ1BEWVZQa3JBVVJWbFhTQVJYTE5CT1NDN2hSNA?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Jammu and Kashmir - Politics, Religion, Society",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE02Y1FqbGt5OFlvMk5uanNRcF84VmUxdkc3dzVRSTBOR2NMNllMYWhVNTI4emtfOXFzTEZPYUJsZnlRdjljYzJCOVpnYTlSbFoyU1dldUdvMHRQZUlwTWNCZHFWbjBkaVo2blpTTDlKOXRJNDVoM2o5Z1N1RW0yZw?oc=5\" target=\"_blank\">Jammu and Kashmir - Politics, Religion, Society</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Y1FqbGt5OFlvMk5uanNRcF84VmUxdkc3dzVRSTBOR2NMNllMYWhVNTI4emtfOXFzTEZPYUJsZnlRdjljYzJCOVpnYTlSbFoyU1dldUdvMHRQZUlwTWNCZHFWbjBkaVo2blpTTDlKOXRJNDVoM2o5Z1N1RW0yZw?oc=5",
+   "source_name": "Britannica",
+   "source_domain": "britannica.com",
+   "published_raw": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Years after NEP spoke of digital literacy, 3 of 4 govt schools still don’t have a functional desktop",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPME41am1IdTZSdl9EYy1XdjR3MGNaLVltRWQwSENBMlVfR3NNcDdHQmhheGFHOVlPVm9MVWduNFdRS3RpUUpOcW15UVJtdmVxWjh5RDRBVmNCaWJmaC1IOXB3TXJLOG42MS04ZzZxTUJqTHlSSllfTU9pWGVnM0pyckRra1Ffb3ByUnBuWG9Ud1VJREFWYmNRRGctQS1VQ1J0WndqRllYYUpsNDhoQnVmNVhDRWlkSFByeHhSUV9vQkFIRjRCVUhuYjZEaUM1YW5wci040gHoAUFVX3lxTE51eUN6bXdJNHhIbm56NmZqRzY2alBNLVdnbi0wUmJuaVRRSEQtMFQweXVBUlFGLUtGMl9WVWNLS1loYlpwZnVmQVgxWGZYMl9SSDBTVlNkd3ExMXdrTk5BNUY4TFlIUzBOdUVfR2t2S3cwSU9zUkFJQ1hZb3pRMHRNNlAzUnhKRHhyT1JkNVlQY3ptX1JlS3oyXy1Qa2NhOFFzSVlKd3Ztczh3VDJtYWRQXzVWcDBMMGtHVUNtamhkUDh4elhVSUFJQWtYbXh3N0l4Z0dqZWFCaEduS2hrYk9MdFVMdEZPb3k?oc=5\" target=\"_blank\">Years after NEP spoke of digital literacy, 3 of 4 govt schools still don’t have a functional desktop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newslaundry</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPME41am1IdTZSdl9EYy1XdjR3MGNaLVltRWQwSENBMlVfR3NNcDdHQmhheGFHOVlPVm9MVWduNFdRS3RpUUpOcW15UVJtdmVxWjh5RDRBVmNCaWJmaC1IOXB3TXJLOG42MS04ZzZxTUJqTHlSSllfTU9pWGVnM0pyckRra1Ffb3ByUnBuWG9Ud1VJREFWYmNRRGctQS1VQ1J0WndqRllYYUpsNDhoQnVmNVhDRWlkSFByeHhSUV9vQkFIRjRCVUhuYjZEaUM1YW5wci040gHoAUFVX3lxTE51eUN6bXdJNHhIbm56NmZqRzY2alBNLVdnbi0wUmJuaVRRSEQtMFQweXVBUlFGLUtGMl9WVWNLS1loYlpwZnVmQVgxWGZYMl9SSDBTVlNkd3ExMXdrTk5BNUY4TFlIUzBOdUVfR2t2S3cwSU9zUkFJQ1hZb3pRMHRNNlAzUnhKRHhyT1JkNVlQY3ptX1JlS3oyXy1Qa2NhOFFzSVlKd3Ztczh3VDJtYWRQXzVWcDBMMGtHVUNtamhkUDh4elhVSUFJQWtYbXh3N0l4Z0dqZWFCaEduS2hrYk9MdFVMdEZPb3k?oc=5",
+   "source_name": "Newslaundry",
+   "source_domain": "newslaundry.com",
+   "published_raw": "Sun, 23 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Union Home Minister and Minister of Cooperation Amit Shah chairs the 28th meeting of the Western Zonal Council in Panaji, Goa",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZVNGVUdvMEQtcWJqSWVVUFRvVjF4MlBZb3BUTDhUeThtXzBLdWxzXzcwTmJzRHRjdzhtZk1LSDcwZFlFNGgzbUlhZzNMclRrMzdXdFdsUWVxb3JPemlrZm5ZUFh4MUZDZ2JDUk81MTNraVZLN0FkNURqc0k2Y2t5X3lieDhwanhBTXh3d0FpeW0tRVhZR1hhZjZYVFFaV3djNnAwczBjVjhXUm93VkZicGxaMjJ6aHRfbHFIalBHX29JSjhycHozUlFmN1BKVUI1QXdMdVQ4TG9IcXpzSlFGNFM1M0NXbXJNX25NLQ?oc=5\" target=\"_blank\">Union Home Minister and Minister of Cooperation Amit Shah chairs the 28th meeting of the Western Zonal Council in Panaji, Goa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Education Diary</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZVNGVUdvMEQtcWJqSWVVUFRvVjF4MlBZb3BUTDhUeThtXzBLdWxzXzcwTmJzRHRjdzhtZk1LSDcwZFlFNGgzbUlhZzNMclRrMzdXdFdsUWVxb3JPemlrZm5ZUFh4MUZDZ2JDUk81MTNraVZLN0FkNURqc0k2Y2t5X3lieDhwanhBTXh3d0FpeW0tRVhZR1hhZjZYVFFaV3djNnAwczBjVjhXUm93VkZicGxaMjJ6aHRfbHFIalBHX29JSjhycHozUlFmN1BKVUI1QXdMdVQ4TG9IcXpzSlFGNFM1M0NXbXJNX25NLQ?oc=5",
+   "source_name": "India Education Diary",
+   "source_domain": "indiaeducationdiary.in",
+   "published_raw": "Tue, 08 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "MHA To Move Forward ‘Very Seriously’ On Coastal Security Over Next Two Years: Amit Shah",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEh6SlVrbUxxSllPbm1seTBEbnQ2RTFmeGZtM0hVUzFvOUcxNmJPOG5OTHpWQWJKQkxUMXY5ZWMxb1Vzd0JaWjVxOWo5bnczd0p1cnFuQ0FZcGIwR0lJR3BQUEd3S1dhOURmSFdvWDVSOWgwSW4xNXBPOTZxZU1icXRPUjlqdS1WZExPTkVSNTBqbGpMRXhZaXlBZldlVDVwM09nTVhlalE0alVfX1c2VzFfUEZCMnPSAbsBQVVfeXFMT0hFcWczYzZac2NINGR3Rm9mNDZQOXhvTEZNYUl1X1lsOEVvcXhfNzV4X1MtSnkxQThyZU1iSDZTRDlRN2JpQ1F4NGxoUDFXZnE0N0lNMExFdl9zQjJWTGp1ZEdiaTNkVUtQaGo4cFpyLXl3aWRvUDUwV0pueTB0bTZGR1FxbDltZExIZHdsQ0pISXFmWldPVU1VUlRfdzJfOWNCOGNtUV9IRUZZTWRlTC1yUkowdmhfMndFZw?oc=5\" target=\"_blank\">MHA To Move Forward ‘Very Seriously’ On Coastal Security Over Next Two Years: Amit Shah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Excelsior</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEh6SlVrbUxxSllPbm1seTBEbnQ2RTFmeGZtM0hVUzFvOUcxNmJPOG5OTHpWQWJKQkxUMXY5ZWMxb1Vzd0JaWjVxOWo5bnczd0p1cnFuQ0FZcGIwR0lJR3BQUEd3S1dhOURmSFdvWDVSOWgwSW4xNXBPOTZxZU1icXRPUjlqdS1WZExPTkVSNTBqbGpMRXhZaXlBZldlVDVwM09nTVhlalE0alVfX1c2VzFfUEZCMnPSAbsBQVVfeXFMT0hFcWczYzZac2NINGR3Rm9mNDZQOXhvTEZNYUl1X1lsOEVvcXhfNzV4X1MtSnkxQThyZU1iSDZTRDlRN2JpQ1F4NGxoUDFXZnE0N0lNMExFdl9zQjJWTGp1ZEdiaTNkVUtQaGo4cFpyLXl3aWRvUDUwV0pueTB0bTZGR1FxbDltZExIZHdsQ0pISXFmWldPVU1VUlRfdzJfOWNCOGNtUV9IRUZZTWRlTC1yUkowdmhfMndFZw?oc=5",
+   "source_name": "Daily Excelsior",
+   "source_domain": "dailyexcelsior.com",
+   "published_raw": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "VP Radhakrishnan to visit Dadra and Nagar Haveli and Daman and Diu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGdSaUtSR0ZSbnk2UXJla1QwNTNkNTFUWkN5U21uVVpWM283OE5UUWVqd1RfY0Zka0lfNVltMjdfdnZ3VGdMRXF5S2pjbUMwWE1FUmo3TzNQVmtaaE5ESklMc0RqdUtQZkVMdHFjYUduVmllb243aVdfeHRGN1hVQWxhRkFyY1g1T1lNNkNGQURyY1Nrdi1icXprMnNlblVfSDV6dkp2OEdsZGg1UXpSS19kellDSVRqRFFUNzdDYVMzcXNkNFpiVzVZeFV1X0xZQ3FNcjg5ZHFsX3FiVmNvNjAxbFY?oc=5\" target=\"_blank\">VP Radhakrishnan to visit Dadra and Nagar Haveli and Daman and Diu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGdSaUtSR0ZSbnk2UXJla1QwNTNkNTFUWkN5U21uVVpWM283OE5UUWVqd1RfY0Zka0lfNVltMjdfdnZ3VGdMRXF5S2pjbUMwWE1FUmo3TzNQVmtaaE5ESklMc0RqdUtQZkVMdHFjYUduVmllb243aVdfeHRGN1hVQWxhRkFyY1g1T1lNNkNGQURyY1Nrdi1icXprMnNlblVfSDV6dkp2OEdsZGg1UXpSS19kellDSVRqRFFUNzdDYVMzcXNkNFpiVzVZeFV1X0xZQ3FNcjg5ZHFsX3FiVmNvNjAxbFY?oc=5",
+   "source_name": "Rediff",
+   "source_domain": "rediff.com",
+   "published_raw": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Amit Shah Chairs 28th Western Zonal Council Meeting In Goa",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXhZYnJrTW50dlRVek1UUGtOaGlHaGc4d2FWTUxRRy1vbVpBOEJHOU8wRU1oc0hVQ1BDbWUyWDI4OHBCZnBlYzA2V0JrUDYwUXZJWndpRk5xZ0p2blh6V1JWUUh6Y1ZmMzNZZmZXOWFvcTdhbkxQZWJoSEZOOUEzb0pIRU1yc2FGdmNGQ2N3ckI4Q2ZRSW0yMExnVGhnaktv0gGoAUFVX3lxTE1wVHJzYzlrQXZGSzQ4dUpKNTBkakJSbDViLVY2Sk4zbkpZZXJlajllczBFY05kMWRhaERZQnNrWTVFQjdVUzZSc3g5c00tblh5WEFpYnZwT0xjdWV3bkt4d2h3NXg4TzlsVWZuRlpiY3d6Z3ZGOXp5YzNOSmRmdVNTUzFMZTFwZ0pPUHNiSk5VM25yQXZQZHowZWFnQWYzQmtaVi1rQXpEMA?oc=5\" target=\"_blank\">Amit Shah Chairs 28th Western Zonal Council Meeting In Goa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXhZYnJrTW50dlRVek1UUGtOaGlHaGc4d2FWTUxRRy1vbVpBOEJHOU8wRU1oc0hVQ1BDbWUyWDI4OHBCZnBlYzA2V0JrUDYwUXZJWndpRk5xZ0p2blh6V1JWUUh6Y1ZmMzNZZmZXOWFvcTdhbkxQZWJoSEZOOUEzb0pIRU1yc2FGdmNGQ2N3ckI4Q2ZRSW0yMExnVGhnaktv0gGoAUFVX3lxTE1wVHJzYzlrQXZGSzQ4dUpKNTBkakJSbDViLVY2Sk4zbkpZZXJlajllczBFY05kMWRhaERZQnNrWTVFQjdVUzZSc3g5c00tblh5WEFpYnZwT0xjdWV3bkt4d2h3NXg4TzlsVWZuRlpiY3d6Z3ZGOXp5YzNOSmRmdVNTUzFMZTFwZ0pPUHNiSk5VM25yQXZQZHowZWFnQWYzQmtaVi1rQXpEMA?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:30+00:00"
+  }
+ ]
+}

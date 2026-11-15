@@ -1,0 +1,197 @@
+{
+ "region": "Maharashtra",
+ "group": "B",
+ "query": "(Maharashtra OR Mumbai OR Pune) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Maharashtra+OR+Mumbai+OR+Pune%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:11+00:00",
+ "item_count": 17,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Maharashtra govt to create AI Innovation Regions across the state",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUS1zWWdhX0hnNGNQbVd0M09JbVpsMUVMNHluNndHaVZvSjcycXJRUnFseXdGSmxHbE9XdjI4UVB0dG9VdUVXSUZpV0NmNEQtT3JSUTdyc0JoM3ZJaGZib2Mwbkdma2hQQUliYjVRQmtmVkQxaFlfdHprOHNkTmVGV2VidVhGeXFaRVJOVUxsem1qdWpoZEF4YzB0SldIUm1PcWtPcG4tLXZtaGI1UGc?oc=5\" target=\"_blank\">Maharashtra govt to create AI Innovation Regions across the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUS1zWWdhX0hnNGNQbVd0M09JbVpsMUVMNHluNndHaVZvSjcycXJRUnFseXdGSmxHbE9XdjI4UVB0dG9VdUVXSUZpV0NmNEQtT3JSUTdyc0JoM3ZJaGZib2Mwbkdma2hQQUliYjVRQmtmVkQxaFlfdHprOHNkTmVGV2VidVhGeXFaRVJOVUxsem1qdWpoZEF4YzB0SldIUm1PcWtPcG4tLXZtaGI1UGc?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Fri, 29 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Union Minister Shri Ashwini Vaishnaw inaugrates Jabil’s New Advanced Manufacturing Facility & an Export Centric Data Centre Ecosystem with High Employment Potential in Pune",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1tVS1BY0xCZjZTSTRmY0lPVExKYjF2ajd6WEJiY2lJd3hhZmpjX1ZVYXNULUEzcDVvd3RuZUJSeUNZTWNZUjhDQVhscE1IS3ZZajNHc04talc4cnVCbi0wMEh3M2VVSDlpSlJST2Q4U3JOeVhoejdWa09R?oc=5\" target=\"_blank\">Union Minister Shri Ashwini Vaishnaw inaugrates Jabil’s New Advanced Manufacturing Facility & an Export Centric Data Centre Ecosystem with High Employment Potential in Pune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tVS1BY0xCZjZTSTRmY0lPVExKYjF2ajd6WEJiY2lJd3hhZmpjX1ZVYXNULUEzcDVvd3RuZUJSeUNZTWNZUjhDQVhscE1IS3ZZajNHc04talc4cnVCbi0wMEh3M2VVSDlpSlJST2Q4U3JOeVhoejdWa09R?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 18 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Union Minister Piyush Goyal inaugurates AI-powered interview preparation centre in Mumbai",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEd6WDRlMDNJdlRud3o5eHlobW1pamh5UEFmbFRPdGcwUHhVSm45Vk8wM2REc2tnbkF5MFhDMThsSXNYWGhjTUtqVFhzeHc4VzFYR01pVlJhQVVhU3dpYlVwMVh2aVlQZ1hld1d0aXF6eElxaUE4UFJHWDhaYzJ3ZkozTmI3OHJpX2ZDMmVOWlZwUHFRc3hRUGM1TDVVY2JtbUUtcG9LSzNxQXljSUw0QjkyN0NpcE82NWM1WEhqNXJKUHdzS19ab0F3c0dpQ09FV2tTbjBtTW43QVZEbVA2Z1hZTEd1djdQVXdsTUlTMNIB9AFBVV95cUxPNDJUbUFKMTYyT0hrLTRNTlJZNVpGQS1KVFN5M1V2eVAwTVNfelBwVkRIeUZXaXRfdnZSV3FCUE0xbk5xU0hNZWhHRkg4aW5rS1dqWDFBVmhtdGJtZkhhc0duekdVby1ZUVNPWC1oejQzLTIzYWw0RjBDbEh4dml5YU1VT2NwU3o3NEs1RlZxTE5xTS1IcE50WXhVQXhSRkdaYjI1eEtjSGM2ekZSVVFDOEU4cGlUeGRranFrVElwa29Ib2puUmd5N3UtUWtxeWtmb2dQZmdPYVJ6eGl5dXJOX1ZNeWdZMXNqclluRkhULWs5QWx4?oc=5\" target=\"_blank\">Union Minister Piyush Goyal inaugurates AI-powered interview preparation centre in Mumbai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEd6WDRlMDNJdlRud3o5eHlobW1pamh5UEFmbFRPdGcwUHhVSm45Vk8wM2REc2tnbkF5MFhDMThsSXNYWGhjTUtqVFhzeHc4VzFYR01pVlJhQVVhU3dpYlVwMVh2aVlQZ1hld1d0aXF6eElxaUE4UFJHWDhaYzJ3ZkozTmI3OHJpX2ZDMmVOWlZwUHFRc3hRUGM1TDVVY2JtbUUtcG9LSzNxQXljSUw0QjkyN0NpcE82NWM1WEhqNXJKUHdzS19ab0F3c0dpQ09FV2tTbjBtTW43QVZEbVA2Z1hZTEd1djdQVXdsTUlTMNIB9AFBVV95cUxPNDJUbUFKMTYyT0hrLTRNTlJZNVpGQS1KVFN5M1V2eVAwTVNfelBwVkRIeUZXaXRfdnZSV3FCUE0xbk5xU0hNZWhHRkg4aW5rS1dqWDFBVmhtdGJtZkhhc0duekdVby1ZUVNPWC1oejQzLTIzYWw0RjBDbEh4dml5YU1VT2NwU3o3NEs1RlZxTE5xTS1IcE50WXhVQXhSRkdaYjI1eEtjSGM2ekZSVVFDOEU4cGlUeGRranFrVElwa29Ib2puUmd5N3UtUWtxeWtmb2dQZmdPYVJ6eGl5dXJOX1ZNeWdZMXNqclluRkhULWs5QWx4?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Mon, 08 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Sarvam AI Takes Indus to 2,500 Maharashtra Govt Officials",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmpFNVQxLW1uNDJzcnpGZTk4MkZQMTBsVllZOFZfQzc1aVdPYWtrR3FxNFluQUNyb1VMY2U5X2ZsTGxNWkQ5a0sxR25nc0xwbEJNVFhLNUlMeDVaWE1tLU5TeEM5NmIyMzRXOHVndVZEUUFBeFpXS0hpd1JXb3VST1k3MFBHWHgyWE9jcWdCZThSZl9rMnY0MUV3?oc=5\" target=\"_blank\">Sarvam AI Takes Indus to 2,500 Maharashtra Govt Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmpFNVQxLW1uNDJzcnpGZTk4MkZQMTBsVllZOFZfQzc1aVdPYWtrR3FxNFluQUNyb1VMY2U5X2ZsTGxNWkQ5a0sxR25nc0xwbEJNVFhLNUlMeDVaWE1tLU5TeEM5NmIyMzRXOHVndVZEUUFBeFpXS0hpd1JXb3VST1k3MFBHWHgyWE9jcWdCZThSZl9rMnY0MUV3?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Maharashtra’s Beed Police launch ‘deepeye’ pilot project using AI tools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHBENmlSVzMzU254NXlhWk8yb2pkdVJhZFlHa3N4RVktTU5HbUt2TU1Tc0FDX2lGSUtST1llRlYxVkVycGtVWmppZVhfSGdPbXhlLXQxckllWmFvajc4WjdITFZoYk92Z05OX25VTnQ5a1ZzTWlTM2RyMkxtRHo1cVJ6S0FoT2VoRFNzeXEwZzhKNGloekU1RXZ4UDRqV0FPU3Z6WXlxRXhSM3N4MWctYlh2blJwZ9IBvAFBVV95cUxNYjRwUlJySHVqMVhTMkN2VmlkSzRhTW91TFpReEN5UXR2WF85NU1NaVlkNkhMZXVSc1ZBdF94UUNVSHk3Tk5YaENMaHNxVEZ5STdHQUktNmhEQy11NEE5ajdzNzBmX1hJanVrclhBMG14QjZvZk5nZ3pxYU9zSE9Xd3ZZSmQzU1NfZnlhWVViNldTblZTZ1loQXNTaVVJS3pfcmRrWHNSam55UDBYeFpLSlNhTEtXeTNGYUtEbg?oc=5\" target=\"_blank\">Maharashtra’s Beed Police launch ‘deepeye’ pilot project using AI tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHBENmlSVzMzU254NXlhWk8yb2pkdVJhZFlHa3N4RVktTU5HbUt2TU1Tc0FDX2lGSUtST1llRlYxVkVycGtVWmppZVhfSGdPbXhlLXQxckllWmFvajc4WjdITFZoYk92Z05OX25VTnQ5a1ZzTWlTM2RyMkxtRHo1cVJ6S0FoT2VoRFNzeXEwZzhKNGloekU1RXZ4UDRqV0FPU3Z6WXlxRXhSM3N4MWctYlh2blJwZ9IBvAFBVV95cUxNYjRwUlJySHVqMVhTMkN2VmlkSzRhTW91TFpReEN5UXR2WF85NU1NaVlkNkhMZXVSc1ZBdF94UUNVSHk3Tk5YaENMaHNxVEZ5STdHQUktNmhEQy11NEE5ajdzNzBmX1hJanVrclhBMG14QjZvZk5nZ3pxYU9zSE9Xd3ZZSmQzU1NfZnlhWVViNldTblZTZ1loQXNTaVVJS3pfcmRrWHNSam55UDBYeFpLSlNhTEtXeTNGYUtEbg?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "CM Devendra Fadnavis says, 'Maharashtra to develop AI-based disaster management system'",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVllFWXdiV2ZXazIzUE1kWlZSOVJ5MFlTMnhtemEzUHJxVnk2Zlk2emJKVzRVSEpYWkNrY2taQVU3X0xDdl92TTZKdGJNc0xnYVNmQ0pQZGZVNFFoUkhtZVpNaERvdkJybXhqeF9sNXFkbXJGaHptN0lGSHpiUEZMMzREUHc0emxIM1hTWmx0clZaTHd4UGtCeENsd0VQelRYTDN5WXVoR19udmE3VG5fVVBHRTRvY2dMRHc3eXhOdnAwN1NUNm1IajBpbG9EUHZ3ZjdTRWYtT2luM2Vf?oc=5\" target=\"_blank\">CM Devendra Fadnavis says, 'Maharashtra to develop AI-based disaster management system'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-Day</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVllFWXdiV2ZXazIzUE1kWlZSOVJ5MFlTMnhtemEzUHJxVnk2Zlk2emJKVzRVSEpYWkNrY2taQVU3X0xDdl92TTZKdGJNc0xnYVNmQ0pQZGZVNFFoUkhtZVpNaERvdkJybXhqeF9sNXFkbXJGaHptN0lGSHpiUEZMMzREUHc0emxIM1hTWmx0clZaTHd4UGtCeENsd0VQelRYTDN5WXVoR19udmE3VG5fVVBHRTRvY2dMRHc3eXhOdnAwN1NUNm1IajBpbG9EUHZ3ZjdTRWYtT2luM2Vf?oc=5",
+   "source_name": "Mid-Day",
+   "source_domain": "mid-day.com",
+   "published_raw": "Fri, 22 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Indo-Asian News Service",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb3JkMWRLbWlkZmJLWmhLVDl3dS1oY0x0ZlBLMDNGUDdjdkFDTDEyd1hPRXExYlhSLXZNTW9uNTVmUXc5cWthQVByY3l3X1NnZXdVQkI0by1Wc0tadFhEZDlmbTNMcnAzeUJ6RFZ6Z2RNdVpLU1ZSeERnQk50c2VzaC1BdEZkLXQ0Sk1PUHB3aVpDWktIdlFDWDhVU2dKcGNpNWRsUzRFT3NkakdIWV9sa1N2aUJ3NUo0UVJzSlNkOEhKdTByNkFPQ2JpajV1aXhRb0dmMXQzc2wwVWNEWEtSZV9YWmw0N01PM1NEb3ZRV09SRU1uMUFEV19n?oc=5\" target=\"_blank\">Indo-Asian News Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IANS</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb3JkMWRLbWlkZmJLWmhLVDl3dS1oY0x0ZlBLMDNGUDdjdkFDTDEyd1hPRXExYlhSLXZNTW9uNTVmUXc5cWthQVByY3l3X1NnZXdVQkI0by1Wc0tadFhEZDlmbTNMcnAzeUJ6RFZ6Z2RNdVpLU1ZSeERnQk50c2VzaC1BdEZkLXQ0Sk1PUHB3aVpDWktIdlFDWDhVU2dKcGNpNWRsUzRFT3NkakdIWV9sa1N2aUJ3NUo0UVJzSlNkOEhKdTByNkFPQ2JpajV1aXhRb0dmMXQzc2wwVWNEWEtSZV9YWmw0N01PM1NEb3ZRV09SRU1uMUFEV19n?oc=5",
+   "source_name": "IANS",
+   "source_domain": "ians.in",
+   "published_raw": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Maharashtra Will Deploy AI and Drones To Decode Konkan's Ancient Rock Carvings, Eyes UNESCO Tag By 2030",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1pQRnJjNEpJRVpZUGRfTjlLVnAtd3hOYmZTeGYxb011TzlyOXBveC1qaGk1RFNWS29Rc1Jpa1VTbmlBNzdQZ1VHQzBuS2hPT0cxUHBSZkpyMlVnRG9LTllEbkE2eF9Qa0JiVXpkUFRkMmhZaVI2R2ZreXljSWdaN3ZUZ3FxYlh3d2t3UWpGRGVKLXlrdHFqTTRKTWc5SUZubDdQNUhrQUU3U2kwX2RYRmhmRGlnY0hrT1RkM3VsUTgxSzZZWDc5cHVScmXSAdwBQVVfeXFMTWNEZFUwdndoaXR0ZXBhZjRkQkZlcktpWnJiUWF6ZUZIdE5yaGswQUxoNGJwX0huUFFidy1ZckhVUjdxY1U5MjlOTDRQWHR5Z3N0NE1Yallzc0NCbF9NeEgxSkw3LUJQVVBCYnB1OU9xM1ZLaTBYbHRPcUR2b3pzQUJzZ2JPLWRIbUtYUGxzZk5lZUpIMklXOHRiZVI2N0ZLVmlqSmY4TjdVRV9fdnRMMjJfVWlXWm42d1lPUVFYc1VZVkNrTXA0T3o4RVRKd3A1cmFaUzdfcURKa1ppRQ?oc=5\" target=\"_blank\">Maharashtra Will Deploy AI and Drones To Decode Konkan's Ancient Rock Carvings, Eyes UNESCO Tag By 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1pQRnJjNEpJRVpZUGRfTjlLVnAtd3hOYmZTeGYxb011TzlyOXBveC1qaGk1RFNWS29Rc1Jpa1VTbmlBNzdQZ1VHQzBuS2hPT0cxUHBSZkpyMlVnRG9LTllEbkE2eF9Qa0JiVXpkUFRkMmhZaVI2R2ZreXljSWdaN3ZUZ3FxYlh3d2t3UWpGRGVKLXlrdHFqTTRKTWc5SUZubDdQNUhrQUU3U2kwX2RYRmhmRGlnY0hrT1RkM3VsUTgxSzZZWDc5cHVScmXSAdwBQVVfeXFMTWNEZFUwdndoaXR0ZXBhZjRkQkZlcktpWnJiUWF6ZUZIdE5yaGswQUxoNGJwX0huUFFidy1ZckhVUjdxY1U5MjlOTDRQWHR5Z3N0NE1Yallzc0NCbF9NeEgxSkw3LUJQVVBCYnB1OU9xM1ZLaTBYbHRPcUR2b3pzQUJzZ2JPLWRIbUtYUGxzZk5lZUpIMklXOHRiZVI2N0ZLVmlqSmY4TjdVRV9fdnRMMjJfVWlXWm42d1lPUVFYc1VZVkNrTXA0T3o4RVRKd3A1cmFaUzdfcURKa1ppRQ?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Sat, 27 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "AI Express to launch daily Bhopal-Delhi, Bhopal-Mumbai flights from Aug 1",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0hORDFmcU43Q0tiV1QzRWg4MWUxVldZS2VkYm5uVmRWVW9KVmk5dHJZdTAzMjlRckVmUzVNSGNralp6YTItOE1yTEpvTURaZ2Z3cVJKYmpFZnktbUtZSS1iRTJnNjZPSFBYWjJVNGJoN1M2cFZ0a185WlBrWkNobkh5QlM4TFZsal9Gb1IxV0VlRDBfQWRPVFh3bzNVYXdnZThsbHhxZVZqelFodEJQTk43R0V6enVIc2RLSXU0RU5ndDBJcF9CNTlWTEtCbzFla1pyM3F5WDJ0OXYtSFlz0gHkAUFVX3lxTE9Tc3VycHk5Sk5sVXo4UDJHTXA4NmV1SnUzYms4TEdNYXRITklfSjZNdHlxaFRTVk9sMVFiZG9ycm1ISHIxMVJTRjk0VkxoTDF1OG5wUGFxVUhORDZ0RHh2RWhldU9OR211RE5QNWNmUVg1V1ZjX0N0Y1YyRnljNU1EbXZGSGFWTUd2d2dsWWMwYkQ5d0pHQkxsclRKeUVGaXhfMlhGYVVmc1AtaV9GcTlpTWxJcTRRTDNNVm43WDQ4cGQ3OFlwWTNfVVFFUlNOVTFfMktXMzZ1Y2d1Mmc1dEdUUVhyYQ?oc=5\" target=\"_blank\">AI Express to launch daily Bhopal-Delhi, Bhopal-Mumbai flights from Aug 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU0hORDFmcU43Q0tiV1QzRWg4MWUxVldZS2VkYm5uVmRWVW9KVmk5dHJZdTAzMjlRckVmUzVNSGNralp6YTItOE1yTEpvTURaZ2Z3cVJKYmpFZnktbUtZSS1iRTJnNjZPSFBYWjJVNGJoN1M2cFZ0a185WlBrWkNobkh5QlM4TFZsal9Gb1IxV0VlRDBfQWRPVFh3bzNVYXdnZThsbHhxZVZqelFodEJQTk43R0V6enVIc2RLSXU0RU5ndDBJcF9CNTlWTEtCbzFla1pyM3F5WDJ0OXYtSFlz0gHkAUFVX3lxTE9Tc3VycHk5Sk5sVXo4UDJHTXA4NmV1SnUzYms4TEdNYXRITklfSjZNdHlxaFRTVk9sMVFiZG9ycm1ISHIxMVJTRjk0VkxoTDF1OG5wUGFxVUhORDZ0RHh2RWhldU9OR211RE5QNWNmUVg1V1ZjX0N0Y1YyRnljNU1EbXZGSGFWTUd2d2dsWWMwYkQ5d0pHQkxsclRKeUVGaXhfMlhGYVVmc1AtaV9GcTlpTWxJcTRRTDNNVm43WDQ4cGQ3OFlwWTNfVVFFUlNOVTFfMktXMzZ1Y2d1Mmc1dEdUUVhyYQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Maharashtra's Vinoba platform benefits over 31 lakh government school students, says state",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnRMT0pyS3N0dHhqdFVxaFNIWFZzUUJZaFRqNzhvZk1IYmRFcnAwWk9qSkZTa2lScUNsNUFrT09TaktPdzh5a093QTBLQTg5QUZBU3VJQjhYc1FDc1J2LURSMXRKWEd1MnFHUG5lZ2VSTjkyb1VaeEZ1bkRhRlhIQVZVSnZDdmVRSTVQQVdTcHgxeHlJbEZJUGdFY0pWQWZGcTBkQnc3em1FcWZBckcxeU1EcWhMRjQtRXNEYkxWLWdib0tWaC13enZmT21VRldSNDhXOGd4cUN4VVF1WXIySTJB?oc=5\" target=\"_blank\">Maharashtra's Vinoba platform benefits over 31 lakh government school students, says state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-Day</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnRMT0pyS3N0dHhqdFVxaFNIWFZzUUJZaFRqNzhvZk1IYmRFcnAwWk9qSkZTa2lScUNsNUFrT09TaktPdzh5a093QTBLQTg5QUZBU3VJQjhYc1FDc1J2LURSMXRKWEd1MnFHUG5lZ2VSTjkyb1VaeEZ1bkRhRlhIQVZVSnZDdmVRSTVQQVdTcHgxeHlJbEZJUGdFY0pWQWZGcTBkQnc3em1FcWZBckcxeU1EcWhMRjQtRXNEYkxWLWdib0tWaC13enZmT21VRldSNDhXOGd4cUN4VVF1WXIySTJB?oc=5",
+   "source_name": "Mid-Day",
+   "source_domain": "mid-day.com",
+   "published_raw": "Sat, 01 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "BMC Clears Plan To Deploy AI, Drones And Satellites Against Mumbai's Illegal Buildings",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0RFTHl4R1Q5SE1BSlBJNVpoUTg2VG1ONVVLNXZ3U1NmYVZSTmIyX3FIbmlwU0ZWYjZfUW5IOVdhQ2ZZcHlKaE5sTW0wbDNNei1pU1VVREhhVFhJb210RTdmS2JoSTJRUFZrRjVMek9DY01WV2lVMEFZYlJzZ0VMa0RIZFAzUGF2ZUU0ME1DaFBUbGlvSnM0SW14cDFCd1M5N1Z6d0p5MzlaaTdvbk1fMFRPOUdIcE80NFA00gHLAUFVX3lxTE1UNDNybzNjQ0wyRWNaVHdsWGpHTDlEMlc4SmFCTDBIX1FyWVZBY1VEU1JXNGF2Q0pfRGpOQThEVU9xYjhfNTZEVmN3cjNnLTgyZnNrSFRYT0gyMWJKQmRuSXZRZFJTUzFpRTdLanZMVmxjRDVtazYwbUh2T0JCSnFNSG12TndpbW5wNXVrSGlBNzBFeEZkcUZSZE9vTld2dGdCcktBZmVwTmdnYk80amdMV2JBUGs2TEN5ZzVjRDlWZ2dsR2NBV1R2bUVJ?oc=5\" target=\"_blank\">BMC Clears Plan To Deploy AI, Drones And Satellites Against Mumbai's Illegal Buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0RFTHl4R1Q5SE1BSlBJNVpoUTg2VG1ONVVLNXZ3U1NmYVZSTmIyX3FIbmlwU0ZWYjZfUW5IOVdhQ2ZZcHlKaE5sTW0wbDNNei1pU1VVREhhVFhJb210RTdmS2JoSTJRUFZrRjVMek9DY01WV2lVMEFZYlJzZ0VMa0RIZFAzUGF2ZUU0ME1DaFBUbGlvSnM0SW14cDFCd1M5N1Z6d0p5MzlaaTdvbk1fMFRPOUdIcE80NFA00gHLAUFVX3lxTE1UNDNybzNjQ0wyRWNaVHdsWGpHTDlEMlc4SmFCTDBIX1FyWVZBY1VEU1JXNGF2Q0pfRGpOQThEVU9xYjhfNTZEVmN3cjNnLTgyZnNrSFRYT0gyMWJKQmRuSXZRZFJTUzFpRTdLanZMVmxjRDVtazYwbUh2T0JCSnFNSG12TndpbW5wNXVrSGlBNzBFeEZkcUZSZE9vTld2dGdCcktBZmVwTmdnYk80amdMV2JBUGs2TEN5ZzVjRDlWZ2dsR2NBV1R2bUVJ?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Mon, 20 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Police to deploy bandobast for palkhi procession, use AI tools, GPS & drones to monitor crowds",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdXYwMTlRcmQ4U1pIV05LUC03SUZNVTlVTkR2eU04a2pmcmRpTnBVejZHZC1WU1AxMFVORzFEVUZndjk0bzJNVVhlSTZRVkFQM014d0ZLOW4tbjUteXFyUTNfZ2E4bk56MkVZbVVWbGhwUmhPd3h4U19VSG9IUlQ5RWlKUno0NFlBX1FVVW1JVDc2UUFhNVBscVpRV24xZUdsYVRuNzAxSEVkTTUtb0dZRmJIWDVNV0NMaVhYMVA5TTNnSUNHTVFhNWVFcG5Vb01nZXFtZXRUcEVtY2JzU2VvaS1ZcXg0SjJISldhOF9seFBVdWtG0gH6AUFVX3lxTFBaOEJIV2FNYmlxc01VUGhZZWVmejlvOThIRC1QRE5WWU5SMWRjbEhWNGJ6MHJOSHR4TWt3ay05WWFHQjlxbWctb3FTWkNoV24zaHNxMWppc2FUNzJWUnhEQ1pDQnR6VTFFNkkzd1lPdVEzenJKWXFCWHMxa2lLWjBXbm5LUzlOTjJlZGduSjN2OHg5aW96SThnR3FkOW5KYTNzRmxKUEx3R3FLdG4zS1l6a0VJT3I4YmZfYjRZSkc0cU1lSWN6NXdDOE1sMGNsMTAzb0NOdkRub3dWVUlnbThFQ1IweFF1RmhxUk9XRWNMTTVMX3hFV0Y4MkE?oc=5\" target=\"_blank\">Police to deploy bandobast for palkhi procession, use AI tools, GPS & drones to monitor crowds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdXYwMTlRcmQ4U1pIV05LUC03SUZNVTlVTkR2eU04a2pmcmRpTnBVejZHZC1WU1AxMFVORzFEVUZndjk0bzJNVVhlSTZRVkFQM014d0ZLOW4tbjUteXFyUTNfZ2E4bk56MkVZbVVWbGhwUmhPd3h4U19VSG9IUlQ5RWlKUno0NFlBX1FVVW1JVDc2UUFhNVBscVpRV24xZUdsYVRuNzAxSEVkTTUtb0dZRmJIWDVNV0NMaVhYMVA5TTNnSUNHTVFhNWVFcG5Vb01nZXFtZXRUcEVtY2JzU2VvaS1ZcXg0SjJISldhOF9seFBVdWtG0gH6AUFVX3lxTFBaOEJIV2FNYmlxc01VUGhZZWVmejlvOThIRC1QRE5WWU5SMWRjbEhWNGJ6MHJOSHR4TWt3ay05WWFHQjlxbWctb3FTWkNoV24zaHNxMWppc2FUNzJWUnhEQ1pDQnR6VTFFNkkzd1lPdVEzenJKWXFCWHMxa2lLWjBXbm5LUzlOTjJlZGduSjN2OHg5aW96SThnR3FkOW5KYTNzRmxKUEx3R3FLdG4zS1l6a0VJT3I4YmZfYjRZSkc0cU1lSWN6NXdDOE1sMGNsMTAzb0NOdkRub3dWVUlnbThFQ1IweFF1RmhxUk9XRWNMTTVMX3hFV0Y4MkE?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 08 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Mumbai Real Estate Update: BMC Gets CM Nod To Launch AI-Powered ‘CIVIT TWIN’ Building Approval System",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1BPcVE5dTNuWWNHYVNfeFliTHU1NFdsVUtSaWtnTTNFZ3dFd005MU5hUnJaOU5ZRWRUWkVwN182X2ZaS0VrRWFfQ0FhZ2JpOFNtRmY0c1lrZUZZck5SMXB3MWZMbUlSTUFSWTZXYkxxeXgyeTlCbDNBT05BVDEzNlBZZGNHZGdjUndFR2R1bENBWkhTLWF6YUx1dTZPWWFCTTQ3TTh1UkVocm55SzFGci15V2YwZUhJblJieVNCOFJua05XWENVZDBIUno1UzA4NEFV0gHYAUFVX3lxTE9yOGJrQ2t0NktxR0FyUzVCX3k0d2M5OC0yVHlpd0RHX2QtNkRKaHZiMERUUUIyZUtDTHNmT190MEFlZURCb0NEZVJVaHN5MWlpM3ZnbkNHcndKNGd3aTdicE80b1kxQnZCcGo3VXNSd1k4aTVGaVFwN1l5cm9zMWpQT3JKRXE3aXY5RjdUQWNQcWF2ZGk5MHFpU1N5RnVWWlhMaDR0cFpLLWd1NEZHbGNPVk1xRlJkc0JqYW9mR0RIdnItRXhaOHFRSklCbW9EbllUbE92aFhodg?oc=5\" target=\"_blank\">Mumbai Real Estate Update: BMC Gets CM Nod To Launch AI-Powered ‘CIVIT TWIN’ Building Approval System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1BPcVE5dTNuWWNHYVNfeFliTHU1NFdsVUtSaWtnTTNFZ3dFd005MU5hUnJaOU5ZRWRUWkVwN182X2ZaS0VrRWFfQ0FhZ2JpOFNtRmY0c1lrZUZZck5SMXB3MWZMbUlSTUFSWTZXYkxxeXgyeTlCbDNBT05BVDEzNlBZZGNHZGdjUndFR2R1bENBWkhTLWF6YUx1dTZPWWFCTTQ3TTh1UkVocm55SzFGci15V2YwZUhJblJieVNCOFJua05XWENVZDBIUno1UzA4NEFV0gHYAUFVX3lxTE9yOGJrQ2t0NktxR0FyUzVCX3k0d2M5OC0yVHlpd0RHX2QtNkRKaHZiMERUUUIyZUtDTHNmT190MEFlZURCb0NEZVJVaHN5MWlpM3ZnbkNHcndKNGd3aTdicE80b1kxQnZCcGo3VXNSd1k4aTVGaVFwN1l5cm9zMWpQT3JKRXE3aXY5RjdUQWNQcWF2ZGk5MHFpU1N5RnVWWlhMaDR0cFpLLWd1NEZHbGNPVk1xRlJkc0JqYW9mR0RIdnItRXhaOHFRSklCbW9EbllUbE92aFhodg?oc=5",
+   "source_name": "Free Press Journal",
+   "source_domain": "freepressjournal.in",
+   "published_raw": "Wed, 27 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Mumbai Healthcare: BMC Partners With Fractal Analytics To Pilot AI-Powered Vaidya AI Across Municipal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZDhJSUZtZ2hrY3Bwbk1pMXBielpLVXV1bmQ5cG9vSndkczNNUUc0SnQtNDh6RlFKMmFtQTFRRm1zZk9oSEM0T0JkWjU5M1NoNnhrYmhLbFVGUktNY1RSOFZLUUx4R0lmN0VQbERNLWZtVU9hYWVJZVhFRjk5OF9WUV9jMTdWOW1QU1RKWnhVYWdQVFpkRWE0SEpqVTRWWl82Qlp4RENkV0N4UEhxZUc4d2JGRzFDS0pETDJTeVQzYnBETVNXX2F0cjRTUFplaFBjY3MtSTdWT2VId3NuU1o1d3ktZ9IB6AFBVV95cUxPQTdORTRldkZYR2JSZ1JXMEVqb2x3UWliOVptb0ZfbGhoNjNHTUdkRThhVGZUTkdBQjVMdC12YzlwcUU5bm1LaDRHUllBQ1hzNERrUjkzRm1TTjhINXpwWVpUSzV2Q2E3YkhGSGVCUF9kX3czbXhhVjZkYXhmTVJIU1p3Tm9heXd4NU41TjdWOXl4T213NWstb3FCdWhFT2dsNjV1RzVvcGxaU2pNc3NsY0NwUnczbGppSnZ6THBlVFNpQmwtTm9CU19zSzJhVE9fSVBLbWVHQWkzOHpaUXJOVkRnYzhidGoz?oc=5\" target=\"_blank\">Mumbai Healthcare: BMC Partners With Fractal Analytics To Pilot AI-Powered Vaidya AI Across Municipal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZDhJSUZtZ2hrY3Bwbk1pMXBielpLVXV1bmQ5cG9vSndkczNNUUc0SnQtNDh6RlFKMmFtQTFRRm1zZk9oSEM0T0JkWjU5M1NoNnhrYmhLbFVGUktNY1RSOFZLUUx4R0lmN0VQbERNLWZtVU9hYWVJZVhFRjk5OF9WUV9jMTdWOW1QU1RKWnhVYWdQVFpkRWE0SEpqVTRWWl82Qlp4RENkV0N4UEhxZUc4d2JGRzFDS0pETDJTeVQzYnBETVNXX2F0cjRTUFplaFBjY3MtSTdWT2VId3NuU1o1d3ktZ9IB6AFBVV95cUxPQTdORTRldkZYR2JSZ1JXMEVqb2x3UWliOVptb0ZfbGhoNjNHTUdkRThhVGZUTkdBQjVMdC12YzlwcUU5bm1LaDRHUllBQ1hzNERrUjkzRm1TTjhINXpwWVpUSzV2Q2E3YkhGSGVCUF9kX3czbXhhVjZkYXhmTVJIU1p3Tm9heXd4NU41TjdWOXl4T213NWstb3FCdWhFT2dsNjV1RzVvcGxaU2pNc3NsY0NwUnczbGppSnZ6THBlVFNpQmwtTm9CU19zSzJhVE9fSVBLbWVHQWkzOHpaUXJOVkRnYzhidGoz?oc=5",
+   "source_name": "Free Press Journal",
+   "source_domain": "freepressjournal.in",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Mumbai: BMC signs MoU to pilot 'Vaidya AI' at KEM, Rajawadi, and other civic hospitals",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeGs4czlid0JUR2dJbEdEWjBEYzJlQS1YeTdEdDVqemxsXzgwczBLTlhyZTRrb0ZwTDAyWldYbDhhS25UelJ0X3lHdE5oVFlsM0JZYlNlX0F3OHpQUV9ZYTJKM3gyNVhwUHQ1TlRTSzhrNzY3Y25vbGtBQXphYXRPb3dqYnNYTlJpYnRHNTJMM2F6cjVfMEFoaGJKaGxZQTl3QUlpaWN0VFIwdHcyRHFpVjNmek1QVTVWNU1BcXY5S25MTl9ycVZmU1lMX1lkUl9FNDdWNXpmYk8?oc=5\" target=\"_blank\">Mumbai: BMC signs MoU to pilot 'Vaidya AI' at KEM, Rajawadi, and other civic hospitals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-Day</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeGs4czlid0JUR2dJbEdEWjBEYzJlQS1YeTdEdDVqemxsXzgwczBLTlhyZTRrb0ZwTDAyWldYbDhhS25UelJ0X3lHdE5oVFlsM0JZYlNlX0F3OHpQUV9ZYTJKM3gyNVhwUHQ1TlRTSzhrNzY3Y25vbGtBQXphYXRPb3dqYnNYTlJpYnRHNTJMM2F6cjVfMEFoaGJKaGxZQTl3QUlpaWN0VFIwdHcyRHFpVjNmek1QVTVWNU1BcXY5S25MTl9ycVZmU1lMX1lkUl9FNDdWNXpmYk8?oc=5",
+   "source_name": "Mid-Day",
+   "source_domain": "mid-day.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Mumbai civic body hospitals to get AI and MedTech boost as minister Ashish Shelar pushes reforms",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbE5aVkEyVlpJMllCMGNIOUpJU2h4U1BqdjlSZFI2MDA0NWJ6VGdudUVnWEdMZ0VxdEtaYVI4QkNPckFUcG1UVWhHVFg2RlloelFiVUF1S3dEbTZDS0pkZVVLQnlhMUlvcHFxNFNCeUFpeFUzcjhVZUNibl9URFJtRGwtTnVQQVZGWDhuTW82bDZXZkdsUWloV1ByYUoxSndtNWN6WUM5N0llYzVlWWtwaXJGNXgzR3QwSWpEbVlFenNuTmJrUjB5QlkycVdZQ3gtejhyREdoaw?oc=5\" target=\"_blank\">Mumbai civic body hospitals to get AI and MedTech boost as minister Ashish Shelar pushes reforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-Day</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbE5aVkEyVlpJMllCMGNIOUpJU2h4U1BqdjlSZFI2MDA0NWJ6VGdudUVnWEdMZ0VxdEtaYVI4QkNPckFUcG1UVWhHVFg2RlloelFiVUF1S3dEbTZDS0pkZVVLQnlhMUlvcHFxNFNCeUFpeFUzcjhVZUNibl9URFJtRGwtTnVQQVZGWDhuTW82bDZXZkdsUWloV1ByYUoxSndtNWN6WUM5N0llYzVlWWtwaXJGNXgzR3QwSWpEbVlFenNuTmJrUjB5QlkycVdZQ3gtejhyREdoaw?oc=5",
+   "source_name": "Mid-Day",
+   "source_domain": "mid-day.com",
+   "published_raw": "Mon, 08 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "IIT Bombay alumni launch AI-powered WeatherEx platform for Mumbai forecasts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmhxOEJUT2xPVDZlQ3VnRHI0VTNIRkI2ZDZGRm1tNTN0bVVZbHI5S0w0UHkzelVLa3pGcTRtSVB1WEwzZFYzSUVBSnh1Y3FaN1l3Ri1aWjF6dUpfVTZyZm4zejN6bUlzYmlYQ3BaSVZFOHU1dDVoazZlTURhRGFWRV9pRmZDaDZ6RFI3ZkVpRTlIYzRud0xrY2FaY0tfTzhkRkFZSjJFTGI2azlPSV9uTEpEV242Tk9GaUxPN3pyaXZrU0RBZ2JGZXBGZEtzdw?oc=5\" target=\"_blank\">IIT Bombay alumni launch AI-powered WeatherEx platform for Mumbai forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-Day</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmhxOEJUT2xPVDZlQ3VnRHI0VTNIRkI2ZDZGRm1tNTN0bVVZbHI5S0w0UHkzelVLa3pGcTRtSVB1WEwzZFYzSUVBSnh1Y3FaN1l3Ri1aWjF6dUpfVTZyZm4zejN6bUlzYmlYQ3BaSVZFOHU1dDVoazZlTURhRGFWRV9pRmZDaDZ6RFI3ZkVpRTlIYzRud0xrY2FaY0tfTzhkRkFZSjJFTGI2azlPSV9uTEpEV242Tk9GaUxPN3pyaXZrU0RBZ2JGZXBGZEtzdw?oc=5",
+   "source_name": "Mid-Day",
+   "source_domain": "mid-day.com",
+   "published_raw": "Mon, 20 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:11+00:00"
+  }
+ ]
+}

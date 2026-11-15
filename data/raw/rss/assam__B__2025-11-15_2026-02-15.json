@@ -1,0 +1,131 @@
+{
+ "region": "Assam",
+ "group": "B",
+ "query": "(Assam) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Assam%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:32+00:00",
+ "item_count": 11,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "AI video of Assam CM Sarma shooting Muslims causes outrage in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhvemxKcE83dFRkNGloWjN2UFlqZDhjdWVrT3pZYWhybHVER1ZTMUVncVBfc1ZaNVBTRjVVal9sblVnVDZHMjRxRDI5OHVtLTBwZmRsZndSeXBIV3JMNHE2RDZ6ZjBmQXJDd1lMYS1VbGp6OHBUQU15eEk2cEpVYmRUVWtlWGxMbWZfc25fWVJjLTcwWTVGMlFmWmFGNm9zR0o4cGk3ZElORlXSAbABQVVfeXFMTWJ3MERlQVJveTdvSWZuaGRIYWVrQ2prYjg1M0JiSEZmZmtIeVB4LWtXVXBFaW9MN2hKX0x2bmpmV0J2XzA4Vjd4eTVJQXpvejBwSE9XVVBrS3Q1d0QxdkdjX1dpYk9MdkthaU9BYkgwcHc4QlhrdVp0Tl84dG9YOEFOanBfZnBYeUpjYXpVdXBrekMzUV8yWE5Ma0Y0SDBvSkFpSl9RcE5YU090SU8weGk?oc=5\" target=\"_blank\">AI video of Assam CM Sarma shooting Muslims causes outrage in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhvemxKcE83dFRkNGloWjN2UFlqZDhjdWVrT3pZYWhybHVER1ZTMUVncVBfc1ZaNVBTRjVVal9sblVnVDZHMjRxRDI5OHVtLTBwZmRsZndSeXBIV3JMNHE2RDZ6ZjBmQXJDd1lMYS1VbGp6OHBUQU15eEk2cEpVYmRUVWtlWGxMbWZfc25fWVJjLTcwWTVGMlFmWmFGNm9zR0o4cGk3ZElORlXSAbABQVVfeXFMTWJ3MERlQVJveTdvSWZuaGRIYWVrQ2prYjg1M0JiSEZmZmtIeVB4LWtXVXBFaW9MN2hKX0x2bmpmV0J2XzA4Vjd4eTVJQXpvejBwSE9XVVBrS3Q1d0QxdkdjX1dpYk9MdkthaU9BYkgwcHc4QlhrdVp0Tl84dG9YOEFOanBfZnBYeUpjYXpVdXBrekMzUV8yWE5Ma0Y0SDBvSkFpSl9RcE5YU090SU8weGk?oc=5",
+   "source_name": "Al Jazeera",
+   "source_domain": "aljazeera.com",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "3 Congress Leaders Arrested Over Assam Chief Minister Himanta Sarma's AI Deepfake Video",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdno4RXExMWthcDA3NnZGbnppVWExNDdYR0tocG9qVUZlbUFSSEZ0VERRRGpyR3R4RURSVGJtSDV6LTQwZ3BNV0pFdUVBWjZzdkxsUDNoSFpjV2lfdVJrTWlpX2U2d0dMdmNZR05GaFRic0VqM3pjMkhzYkw5QWpMc19oVERpUTRIV1QzTzg2U1libzUyVHNmVnVYT2FKMV9WME1DNUp6UzVEbHJQY3RtOVpRYUtPVC1BM2liZzc4cHlILXhf0gHMAUFVX3lxTE9ib0xsc3FSR2Z4bEZBUklZT2tsc0pOWkc3QldVa1pJNEhOSXUzaFZhNkJGYTZDa05HLWJYYXpOUTJ6VE4wQU9TUnNoZUttWWNVcmdxV2hJemk1OTRURjVrT2FRajJqcWV0T3VhVWxvcDlQVHFKdC1Qc0pHbmI2NXlfWnNJVW9oSFlXUWFMSXBKd3lZaGZ2ZG1KQm1TM1JnS1h4OEVYdlJIY19UR1h6ZTN6bTk4ZS1SeERLRHpLZ0JwbXNMMnVONVo4ZzY0Rw?oc=5\" target=\"_blank\">3 Congress Leaders Arrested Over Assam Chief Minister Himanta Sarma's AI Deepfake Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdno4RXExMWthcDA3NnZGbnppVWExNDdYR0tocG9qVUZlbUFSSEZ0VERRRGpyR3R4RURSVGJtSDV6LTQwZ3BNV0pFdUVBWjZzdkxsUDNoSFpjV2lfdVJrTWlpX2U2d0dMdmNZR05GaFRic0VqM3pjMkhzYkw5QWpMc19oVERpUTRIV1QzTzg2U1libzUyVHNmVnVYT2FKMV9WME1DNUp6UzVEbHJQY3RtOVpRYUtPVC1BM2liZzc4cHlILXhf0gHMAUFVX3lxTE9ib0xsc3FSR2Z4bEZBUklZT2tsc0pOWkc3QldVa1pJNEhOSXUzaFZhNkJGYTZDa05HLWJYYXpOUTJ6VE4wQU9TUnNoZUttWWNVcmdxV2hJemk1OTRURjVrT2FRajJqcWV0T3VhVWxvcDlQVHFKdC1Qc0pHbmI2NXlfWnNJVW9oSFlXUWFMSXBKd3lZaGZ2ZG1KQm1TM1JnS1h4OEVYdlJIY19UR1h6ZTN6bTk4ZS1SeERLRHpLZ0JwbXNMMnVONVo4ZzY0Rw?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Fri, 28 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "All charades dropped: Assam BJP’s AI video shows Himanta ‘shooting point-blank’ at Muslims",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJSc2c2Wnpjd2FHNDFrZHNuQ1REbjlLRk1JLTdNd19EaE5laHZmeGUydWVSSHdRa183ckt5QnIteFhxZnFaS2w4alZuMDYySFB2M3h0b2RUWXV2SktjOFAyc0JHT2J2dVdzazlkRmxXM2Q1bHFhY2Q5REllR1p3ZVh6R0dUYUlWNkt3ZTRmamNFaXBFZjNvd093WlUyejg3YXpmN2NteWpyVEhCV29j?oc=5\" target=\"_blank\">All charades dropped: Assam BJP’s AI video shows Himanta ‘shooting point-blank’ at Muslims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alt News</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJSc2c2Wnpjd2FHNDFrZHNuQ1REbjlLRk1JLTdNd19EaE5laHZmeGUydWVSSHdRa183ckt5QnIteFhxZnFaS2w4alZuMDYySFB2M3h0b2RUWXV2SktjOFAyc0JHT2J2dVdzazlkRmxXM2Q1bHFhY2Q5REllR1p3ZVh6R0dUYUlWNkt3ZTRmamNFaXBFZjNvd093WlUyejg3YXpmN2NteWpyVEhCV29j?oc=5",
+   "source_name": "Alt News",
+   "source_domain": "altnews.in",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "AI Video Showing Assam Chief Minister Targeting Muslims Sparks Political Outrage",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXlkNzNPcEh3Vk0tdDVEVHVsSzZJanYyTGlzQmgydUlOVTBBZDV5aHd6ZXBHVXl3M0l5VVVJV2RQU29oR29IOHd0c1otWVVTSWxlcDEwamo2aTFQV0c1cHAyejlwY2pOVFFFYXhVdWVQQjJ5aE9ZclM1N1pKcHFGaUdfSGJhUHJueGp2bjc2dEoxRGgzY0lLQm5iQzJqMVFXZlBoSmZJU2RXN0JHdHhreFR5Y3diZw?oc=5\" target=\"_blank\">AI Video Showing Assam Chief Minister Targeting Muslims Sparks Political Outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IslamiCity</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXlkNzNPcEh3Vk0tdDVEVHVsSzZJanYyTGlzQmgydUlOVTBBZDV5aHd6ZXBHVXl3M0l5VVVJV2RQU29oR29IOHd0c1otWVVTSWxlcDEwamo2aTFQV0c1cHAyejlwY2pOVFFFYXhVdWVQQjJ5aE9ZclM1N1pKcHFGaUdfSGJhUHJueGp2bjc2dEoxRGgzY0lLQm5iQzJqMVFXZlBoSmZJU2RXN0JHdHhreFR5Y3diZw?oc=5",
+   "source_name": "IslamiCity",
+   "source_domain": "islamicity.org",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Assam BJP posts, then deletes, AI video showing Himanta taking aim at men in skullcaps",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPeEhLQ29pTURUek1SWVBpdHlhckk3ejhaOHlPVW5kNVVsZlB2LTg3OS1OQVlsUDNRbjdQejU4WFhIb1k5UHhzZ2t5clFrRjJXamhWNVpWSU5xVnF5d3puQWJDR3JJa2lNczdSbTIxQzJpcGJhZDhVX3JMX2l3a1VNc3RqemlCQjhRbTFNTWxvSDZfMF8teWZBaTJaXzhSTks5dHh4VE16eWJ1Ym9GQ0FHZ0pLWWsxaThFVDE1YTNtbUNXS1FkYi1UcUZJdkw0bFHSAdYBQVVfeXFMT1NvMWRRTjZMOTFwRmNlZU9IX3RoaHRMMG5wMlJhak85OWhzNUFMQnc4WE1tZGJ5RHczeV9ER0NOa3VuUngwTGNmdUZuVldUbkZGcmpTTGJRSXRTYnRfczFZZlZjVHF6bFBEUVVpZ1U4V0g4ZXlsX254Nk9TbG5wZDBvd3BJMXFZdzZ3UjBoZmlsUDhUU29lXy1Wem12amoyLWpyNTEyUjl0dF9QT3UtcF9HZjhILV9FZzRDSmxJYk9tUFlERHpHUmc4X3Yxd0JMWWpKWWRIQQ?oc=5\" target=\"_blank\">Assam BJP posts, then deletes, AI video showing Himanta taking aim at men in skullcaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeEhLQ29pTURUek1SWVBpdHlhckk3ejhaOHlPVW5kNVVsZlB2LTg3OS1OQVlsUDNRbjdQejU4WFhIb1k5UHhzZ2t5clFrRjJXamhWNVpWSU5xVnF5d3puQWJDR3JJa2lNczdSbTIxQzJpcGJhZDhVX3JMX2l3a1VNc3RqemlCQjhRbTFNTWxvSDZfMF8teWZBaTJaXzhSTks5dHh4VE16eWJ1Ym9GQ0FHZ0pLWWsxaThFVDE1YTNtbUNXS1FkYi1UcUZJdkw0bFHSAdYBQVVfeXFMT1NvMWRRTjZMOTFwRmNlZU9IX3RoaHRMMG5wMlJhak85OWhzNUFMQnc4WE1tZGJ5RHczeV9ER0NOa3VuUngwTGNmdUZuVldUbkZGcmpTTGJRSXRTYnRfczFZZlZjVHF6bFBEUVVpZ1U4V0g4ZXlsX254Nk9TbG5wZDBvd3BJMXFZdzZ3UjBoZmlsUDhUU29lXy1Wem12amoyLWpyNTEyUjl0dF9QT3UtcF9HZjhILV9FZzRDSmxJYk9tUFlERHpHUmc4X3Yxd0JMWWpKWWRIQQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sun, 08 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Assam BJP deletes AI video of CM Himanta aiming rifle at Muslims after outrage",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm5oMXZXSWdGYW5BdmhpOGttMmFaSWRUTVRsQTRpWlVET1Z0OUxvRUpKQV82eVhzaC1WYjFZZ2s4empmbTRvOWxLa25vLVhuYllKN18tVy1MdFZFSnZiYnFKVldHc3JkZTZzVkhCY3dsYXd6N0lRclBodnhkUTV4RC1PbWcwcVo1d1VWMEVaV0pLTU1JYnFGY3BlNUxEeHhMSzFtNXhlNi1GdFpzVVVVNmRPcGJtd1VSRDdmTVJxZzN0MF9uQV9kedIB1gFBVV95cUxNZDNzazl4NkVKLW5US1gyNTNiR1UzdDdqU0dWeE5ZTHdEeG15ZG5KTGl1WDdndlB6OEt1Nk9TclM1RFMtYXVrSEJzLVk4cWthMXlQejBEc3ZhRXpLSmRLUzZFNXdLWWtvUkl5XzViX2c0VkpKMnFRRHl3QkpXR3BCcFlJbFEtZEhIUzZidmRzLVBTbG43V2tkUEhVMmhVeDRzWFFSZXVkZkROdW4yMi1TNVQ5ZElQY21QRlc4TzEwR3JIeVZYREpJS1J0WmhXdlBmcmVpcGRn?oc=5\" target=\"_blank\">Assam BJP deletes AI video of CM Himanta aiming rifle at Muslims after outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm5oMXZXSWdGYW5BdmhpOGttMmFaSWRUTVRsQTRpWlVET1Z0OUxvRUpKQV82eVhzaC1WYjFZZ2s4empmbTRvOWxLa25vLVhuYllKN18tVy1MdFZFSnZiYnFKVldHc3JkZTZzVkhCY3dsYXd6N0lRclBodnhkUTV4RC1PbWcwcVo1d1VWMEVaV0pLTU1JYnFGY3BlNUxEeHhMSzFtNXhlNi1GdFpzVVVVNmRPcGJtd1VSRDdmTVJxZzN0MF9uQV9kedIB1gFBVV95cUxNZDNzazl4NkVKLW5US1gyNTNiR1UzdDdqU0dWeE5ZTHdEeG15ZG5KTGl1WDdndlB6OEt1Nk9TclM1RFMtYXVrSEJzLVk4cWthMXlQejBEc3ZhRXpLSmRLUzZFNXdLWWtvUkl5XzViX2c0VkpKMnFRRHl3QkpXR3BCcFlJbFEtZEhIUzZidmRzLVBTbG43V2tkUEhVMmhVeDRzWFFSZXVkZkROdW4yMi1TNVQ5ZElQY21QRlc4TzEwR3JIeVZYREpJS1J0WmhXdlBmcmVpcGRn?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sun, 08 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Assam CM Himanta Biswa Sarma inaugurates rollout of Lord’s Mark AI patient monitoring platform in Guwahati",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPTWJnSklHMzVUVVNZejFFZUdOYmdscE9vUHlPOVFtcnBUWklrQmtRRDUxcEwtUHJ3RVIzeW80aF9zTlpoejRnbEZzMEpteFBuMFJIOUFXRnVuUzlRM1RmUTlSMVMxSUtiOFJRbHlkVlN5bmhUd1N6NzBRMG1ydDJWQ2lJMDR2ZTdVQi1aXzRhWVJjckZxQ0F6aEJNN3VHMHpFNlN1dkVxQWt1c004bUhqbGdqXzd0YkMzRG5wSFVSRXBQaGVta2ZSS2pOTXFnc3dUb3BDQXdUU1Q1T1pHd2thMjY1YnZZc29VcjRxZWJWSnpNNE5nak45MVpaTzhXdHdzODAyM2YybDNiZE10M1VJWGo2ak9IUdIBmwJBVV95cUxQbUZYSXZsWmU0bG5Gd3MtNmpMbzRUb3JLR29ObEN4b2ZiQUltaEhBbkNFVmc2Um9DcEJqdFJjeDM5OVNYNnRkOGhISV84ckw3aWJwcXZsOXk2V3NEWlhZNmUxNVZDZHhKaWxUS3dxakhQaTNmM01qMzdYcTNKMXFrMUUyT20wTjBQNUgzdHgwOW84a29SaklMaDBVQV9QS2hyQXZhbzlSY01Ednc5RUxYcm1KRHdyQ1dqX2lfc3dYQ1JnMlNoaUY3Vy1raDFIYlV6SWg2REhpcGIwb3JpSC1saDhtWmJJVTBFVnRiYmlVVUtnODBSck44T1lrNllxRVpPQUdxbjhVejIzTTI5T09RMUZSRWFfdV96Q1dn?oc=5\" target=\"_blank\">Assam CM Himanta Biswa Sarma inaugurates rollout of Lord’s Mark AI patient monitoring platform in Guwahati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTWJnSklHMzVUVVNZejFFZUdOYmdscE9vUHlPOVFtcnBUWklrQmtRRDUxcEwtUHJ3RVIzeW80aF9zTlpoejRnbEZzMEpteFBuMFJIOUFXRnVuUzlRM1RmUTlSMVMxSUtiOFJRbHlkVlN5bmhUd1N6NzBRMG1ydDJWQ2lJMDR2ZTdVQi1aXzRhWVJjckZxQ0F6aEJNN3VHMHpFNlN1dkVxQWt1c004bUhqbGdqXzd0YkMzRG5wSFVSRXBQaGVta2ZSS2pOTXFnc3dUb3BDQXdUU1Q1T1pHd2thMjY1YnZZc29VcjRxZWJWSnpNNE5nak45MVpaTzhXdHdzODAyM2YybDNiZE10M1VJWGo2ak9IUdIBmwJBVV95cUxQbUZYSXZsWmU0bG5Gd3MtNmpMbzRUb3JLR29ObEN4b2ZiQUltaEhBbkNFVmc2Um9DcEJqdFJjeDM5OVNYNnRkOGhISV84ckw3aWJwcXZsOXk2V3NEWlhZNmUxNVZDZHhKaWxUS3dxakhQaTNmM01qMzdYcTNKMXFrMUUyT20wTjBQNUgzdHgwOW84a29SaklMaDBVQV9QS2hyQXZhbzlSY01Ednc5RUxYcm1KRHdyQ1dqX2lfc3dYQ1JnMlNoaUY3Vy1raDFIYlV6SWg2REhpcGIwb3JpSC1saDhtWmJJVTBFVnRiYmlVVUtnODBSck44T1lrNllxRVpPQUdxbjhVejIzTTI5T09RMUZSRWFfdV96Q1dn?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "CM Himanta Biswa Sarma Leads Assam’s AI-based Patient Monitoring Initiative At GMCH",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTY0MmdrZTE1N0JtZ3laZTQ3TkZmZXBqOGdiMkpVclcwTzRsb0NzMko0Z3RQVnlTRkw4eVFxb2lHV2Z4TkJZc3IwN0NEV2dRaC1LdGV4VEZBMndIdXY0dnd1WmZTYUZ4alJGUV9SRTdXbnE1bEdyZ3pzNTQ1ZzdlWmtld19ZTDZXQk83eEhVbkQ4Z2N1YnBZNWZzSzd0Q3pUX3ZXSjFvbXNSOWo2TnBuQ3ZpRTk2RGY0VE5WSlBMMVl3U21Bakp2b2xpX08ya3FSTHVONTB3?oc=5\" target=\"_blank\">CM Himanta Biswa Sarma Leads Assam’s AI-based Patient Monitoring Initiative At GMCH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Healthcare World</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTY0MmdrZTE1N0JtZ3laZTQ3TkZmZXBqOGdiMkpVclcwTzRsb0NzMko0Z3RQVnlTRkw4eVFxb2lHV2Z4TkJZc3IwN0NEV2dRaC1LdGV4VEZBMndIdXY0dnd1WmZTYUZ4alJGUV9SRTdXbnE1bEdyZ3pzNTQ1ZzdlWmtld19ZTDZXQk83eEhVbkQ4Z2N1YnBZNWZzSzd0Q3pUX3ZXSjFvbXNSOWo2TnBuQ3ZpRTk2RGY0VE5WSlBMMVl3U21Bakp2b2xpX08ya3FSTHVONTB3?oc=5",
+   "source_name": "BW Healthcare World",
+   "source_domain": "bwhealthcareworld.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Assam government to hand over 992 acres to AAI for Silchar greenfield airport",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa21KeTRHYlB1SFVfNzNyRmJ2WFc1SlJjNmJsV1ZISV9KVVZHSlpGR2xqU1VNVlpfWFRLSjh1ZkJPbGNDUHJuTVJaOTJjZEViM1RVNXpNR3lqaVpJT0ZEbUsyMzlTdVF2NFF2MXdMOVJOblBWRTY4cGo3dzRkQ2lvdU9RMUNGTlJ4WGwwVDZEMTZjWW9heHNzWmRqODdkdXFhdHNneko3dTNsSXE0OU1KdlVib3gwWVNKV0t1QklZd2ZXWGpHQXZEWW9wQ2xtcFFSd1BYR2N2TC1OVGplUC1QYy1yWEszd9IB6wFBVV95cUxOMWYwX2poNUNwbjVKSjN6dmZuZDlpbUZydl9NN2Qwa3QyZlBYUjdpQTZyTUwzWjVybFdHcVFVbUczNjVfWVc2ZTRkYTlvN1hzWUlCb0p0R1Y5OGRPakVhdHRoampkM1UzUnpxXzhzbk9wMW0wOE55X2xUbXhXQ2E4TzYxRUpGSEdyQ045WFMtSnA0MXRoVGdhelotNFlDQzVhWUR5S0F4MUpfZ3oxWmZfcjhMcWlzbzhhaHFJRVZaTHNJN01ZS3Y2cVVWYnRVZVJtWXhFM2pYeE1OSUhyVWFZRDk1MDlwQzRrbUFJ?oc=5\" target=\"_blank\">Assam government to hand over 992 acres to AAI for Silchar greenfield airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Realty</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa21KeTRHYlB1SFVfNzNyRmJ2WFc1SlJjNmJsV1ZISV9KVVZHSlpGR2xqU1VNVlpfWFRLSjh1ZkJPbGNDUHJuTVJaOTJjZEViM1RVNXpNR3lqaVpJT0ZEbUsyMzlTdVF2NFF2MXdMOVJOblBWRTY4cGo3dzRkQ2lvdU9RMUNGTlJ4WGwwVDZEMTZjWW9heHNzWmRqODdkdXFhdHNneko3dTNsSXE0OU1KdlVib3gwWVNKV0t1QklZd2ZXWGpHQXZEWW9wQ2xtcFFSd1BYR2N2TC1OVGplUC1QYy1yWEszd9IB6wFBVV95cUxOMWYwX2poNUNwbjVKSjN6dmZuZDlpbUZydl9NN2Qwa3QyZlBYUjdpQTZyTUwzWjVybFdHcVFVbUczNjVfWVc2ZTRkYTlvN1hzWUlCb0p0R1Y5OGRPakVhdHRoampkM1UzUnpxXzhzbk9wMW0wOE55X2xUbXhXQ2E4TzYxRUpGSEdyQ045WFMtSnA0MXRoVGdhelotNFlDQzVhWUR5S0F4MUpfZ3oxWmZfcjhMcWlzbzhhaHFJRVZaTHNJN01ZS3Y2cVVWYnRVZVJtWXhFM2pYeE1OSUhyVWFZRDk1MDlwQzRrbUFJ?oc=5",
+   "source_name": "ET Realty",
+   "source_domain": "realty.economictimes.indiatimes.com",
+   "published_raw": "Mon, 08 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Prime Minister Modi Inaugurates Yotta’s National Data Center in Assam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTFVYkJyUm9jR3o4RDhyb2JiZmthZXVDRUYzbUFmb1RVb0VqWkhfSFBMS3dZNEpfdXhZN3dmUzY3ZE1OenRJMU1hNmNtZWhkMy0tSFp3bFBmbFo4Zm5NY2hHYlJQLTduWUtyTVh2dUNRR0x1YUtYSTZxWXdycU51WUkzcENOZ0VFcVh3c0tHZ0JadDZEODZMSkpUcTNGdHlkcWVSeldPaWJUUjJKaUY00gG8AUFVX3lxTE9TbVZQaTRYZkJjSm5ocWM2MEpBUS1EcHhfRy1PMV9BX21fTEZKWTVGWHE3QmtWRUFfQ3dqTm4xTV90VmRCaDhaNl9USzJBQ09jZVhpX2tydmtsQW9GZWVkN1dXbzhFelRwTlFBNkFlMk1TTFRjSDVOLXdJQWR1YmRLcXVYS0poMklCb0ZzS2tqNHNTOHktU2hDN1lWbk9MbUVTUElKbUJmXzg1UTJjUnpSLWY5WmRyYlNPZFNE?oc=5\" target=\"_blank\">Prime Minister Modi Inaugurates Yotta’s National Data Center in Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital terminal</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTFVYkJyUm9jR3o4RDhyb2JiZmthZXVDRUYzbUFmb1RVb0VqWkhfSFBMS3dZNEpfdXhZN3dmUzY3ZE1OenRJMU1hNmNtZWhkMy0tSFp3bFBmbFo4Zm5NY2hHYlJQLTduWUtyTVh2dUNRR0x1YUtYSTZxWXdycU51WUkzcENOZ0VFcVh3c0tHZ0JadDZEODZMSkpUcTNGdHlkcWVSeldPaWJUUjJKaUY00gG8AUFVX3lxTE9TbVZQaTRYZkJjSm5ocWM2MEpBUS1EcHhfRy1PMV9BX21fTEZKWTVGWHE3QmtWRUFfQ3dqTm4xTV90VmRCaDhaNl9USzJBQ09jZVhpX2tydmtsQW9GZWVkN1dXbzhFelRwTlFBNkFlMk1TTFRjSDVOLXdJQWR1YmRLcXVYS0poMklCb0ZzS2tqNHNTOHktU2hDN1lWbk9MbUVTUElKbUJmXzg1UTJjUnpSLWY5WmRyYlNPZFNE?oc=5",
+   "source_name": "digital terminal",
+   "source_domain": "digitalterminal.in",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Red-faced over shooting video, Assam BJP now claims post was ‘unauthorised’, sacks social media man",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVUyXzFieUoxbGEwZTVhTmFWVWlzNUYxREdtZEtVYW05MEF0V2d2NlViSmRSQ3hHS0d2b3NtX1A3XzBKZ280NWJNQlhkbnhNZzZPeGh3dzRTdzY4ZERzeEVlZ0tBek1mRGhPWnhWb2NncTlXZUpBTVZUVURWTlRyY0ZFVUlpSFgtcWhjcEtWamE0VThyY1dhbWJNcVQ1cUdXS19lNGN2UWpkMExFMUFITmljOVNtSzc0TWxQV3NSSERzNUXSAcoBQVVfeXFMTVZyLWlDYWk0Tkg3RWJ1QWluRmNqT0tBcmU3T0dNN25UTWRxUU1Xck5tMndhQzN6UUo1djlYLXFJM29FeXZ3YU9NQ1hRaGFlRUptdURBbVFlaWhBNExYUUhab19ZakJ2dG1MTXVjVExBRkZDUkRDMUlJXzNmU1RqR19yZjNtMzVfSTg3dU90RlFJd0ZySjU0MC1yb0xKQV92RUNDY3luZlRrVU56ckwyNzA0RGJHdjdTdDZ4R1RQZzdrTUJxVWI5VWFMUQ?oc=5\" target=\"_blank\">Red-faced over shooting video, Assam BJP now claims post was ‘unauthorised’, sacks social media man</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVUyXzFieUoxbGEwZTVhTmFWVWlzNUYxREdtZEtVYW05MEF0V2d2NlViSmRSQ3hHS0d2b3NtX1A3XzBKZ280NWJNQlhkbnhNZzZPeGh3dzRTdzY4ZERzeEVlZ0tBek1mRGhPWnhWb2NncTlXZUpBTVZUVURWTlRyY0ZFVUlpSFgtcWhjcEtWamE0VThyY1dhbWJNcVQ1cUdXS19lNGN2UWpkMExFMUFITmljOVNtSzc0TWxQV3NSSERzNUXSAcoBQVVfeXFMTVZyLWlDYWk0Tkg3RWJ1QWluRmNqT0tBcmU3T0dNN25UTWRxUU1Xck5tMndhQzN6UUo1djlYLXFJM29FeXZ3YU9NQ1hRaGFlRUptdURBbVFlaWhBNExYUUhab19ZakJ2dG1MTXVjVExBRkZDUkRDMUlJXzNmU1RqR19yZjNtMzVfSTg3dU90RlFJd0ZySjU0MC1yb0xKQV92RUNDY3luZlRrVU56ckwyNzA0RGJHdjdTdDZ4R1RQZzdrTUJxVWI5VWFMUQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 11 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:32+00:00"
+  }
+ ]
+}

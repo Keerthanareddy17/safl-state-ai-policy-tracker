@@ -1,0 +1,120 @@
+{
+ "region": "Puducherry",
+ "group": "B",
+ "query": "(Puducherry) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Puducherry%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:13+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Bharatiya Janata Party",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRjVnMlpPeGdfQ2kwb2hTeUlnZElJMDMyZGZYT0ZacXJjcUo3X0NLemRmaUFkNjlhcTlnVGJFeTduc3l2cXI5TGJLbFdHNXY4dkZxbG12QUlienQ1dkpwc0JUdXZJekN0MjZORkFLUV9Ud2dkZkpwRlVyRndabVZFaXlnTUpTZ1QycU9fNnlLNE1VS1phNXpwNWJJc3RyV2g5MzZkUW5iQmtlaDhWczdHb1BIdmtTZmtqWWFhOXFxWnZ6U1M3alVzNEtybUU4cjNqaEV4Rnp2Sl9LWWVRMTBaSWxTZUFDa0pwUWFfR0dTMm96VE00VnczM2FCYw?oc=5\" target=\"_blank\">Bharatiya Janata Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bharatiya Janata Party</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRjVnMlpPeGdfQ2kwb2hTeUlnZElJMDMyZGZYT0ZacXJjcUo3X0NLemRmaUFkNjlhcTlnVGJFeTduc3l2cXI5TGJLbFdHNXY4dkZxbG12QUlienQ1dkpwc0JUdXZJekN0MjZORkFLUV9Ud2dkZkpwRlVyRndabVZFaXlnTUpTZ1QycU9fNnlLNE1VS1phNXpwNWJJc3RyV2g5MzZkUW5iQmtlaDhWczdHb1BIdmtTZmtqWWFhOXFxWnZ6U1M3alVzNEtybUU4cjNqaEV4Rnp2Sl9LWWVRMTBaSWxTZUFDa0pwUWFfR0dTMm96VE00VnczM2FCYw?oc=5",
+   "source_name": "Bharatiya Janata Party",
+   "source_domain": "bjp.org",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "ECI to use AI-generated videos for voter awareness in TN, Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2tGQnhiT3l1SFMybUYtTUQ3WU5jVHl5T1BzbnE2dVFXRFNSUFpVcUZWWGlQcEk5MnEzQmhlMHlIUEVWZ0ZOQW9jRXNUbnV6UE52OGFaeFBkT2lTTlJqZlVsRl9qRzY1TmI5OFh0aDZaN09iaGRpNVF6bklwN0QzZGhmWDFFMVdvV29Cd2ZYa1U2TnFLVkdjVF9IOFV5bTdUTUdXcDZoTTdxU0ly0gG6AUFVX3lxTE1oNUxNMVZ6eGZtQmJZa0tEVjRpZjRBc1FpclJEd0w4NTRQZTRiaklyUXVjSzRxSTBHempnd3BlR3c2eUJ4Z1RIaWE3YVd3aWI3RW9TWVFGNEt4S3IwLTVtNmRSbUNNZjVNR3o5aEJSbTVQZlM5bk56dlo4NlZpT3dta1ZNQnRuWi1EZHFtTkxTQjJMYmlOSW41eDdkcGVncGQxV3A2V3ZDM0loSUxqTHNFWEVaUGtkRy1pUQ?oc=5\" target=\"_blank\">ECI to use AI-generated videos for voter awareness in TN, Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Minute</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2tGQnhiT3l1SFMybUYtTUQ3WU5jVHl5T1BzbnE2dVFXRFNSUFpVcUZWWGlQcEk5MnEzQmhlMHlIUEVWZ0ZOQW9jRXNUbnV6UE52OGFaeFBkT2lTTlJqZlVsRl9qRzY1TmI5OFh0aDZaN09iaGRpNVF6bklwN0QzZGhmWDFFMVdvV29Cd2ZYa1U2TnFLVkdjVF9IOFV5bTdUTUdXcDZoTTdxU0ly0gG6AUFVX3lxTE1oNUxNMVZ6eGZtQmJZa0tEVjRpZjRBc1FpclJEd0w4NTRQZTRiaklyUXVjSzRxSTBHempnd3BlR3c2eUJ4Z1RIaWE3YVd3aWI3RW9TWVFGNEt4S3IwLTVtNmRSbUNNZjVNR3o5aEJSbTVQZlM5bk56dlo4NlZpT3dta1ZNQnRuWi1EZHFtTkxTQjJMYmlOSW41eDdkcGVncGQxV3A2V3ZDM0loSUxqTHNFWEVaUGtkRy1pUQ?oc=5",
+   "source_name": "The News Minute",
+   "source_domain": "thenewsminute.com",
+   "published_raw": "Wed, 11 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "'Rahul Gandhi's policy is to lie, repeat': Amit Shah at BJP rally in Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmY3cWRFRVZHeWRQZHVIeURWSXRyQVBSck1BbUJ4b0ZlTnVKemh6cHBXX1pKUXFnQmZwcmZWX04ybExlNUVELTJUanNYeEw5eS1tamk3Q2dCQld1bWI3cDBOOFlEMWFYbEVkWklKcm82by0yekhoX0dKS2lncnlhQTBQSUh2dG1YNk9RNmZUWndLM2JyWlNVNnQxa0NTNnM5WW1iS3ZoQ01OUDVyVGIyT2VOeGpOdWswajRnbm9KeUg5RjDSAdABQVVfeXFMT2dDa3lmdWJ0MnFqcjZMWmJEZ0xvempmWUJNZk5zbkt0TmxNQ2hkOVVDcmhtMUdhU09VblhrVXRzUU1pTERjazNTZkU2YnJZUjVIUUZOQmRaZmZTRlFULW5yOXpjaFlhTzU5THZTUkFhY2ZRN0ctcWFSRXZ1QmtvOGpJRVdZY2hGUkdGSDBvZk9BaURKbC1TaEJ5V0dUd3RabDRwQTRicnhqNHJkTDZGN2tWakgxRV9rdG1JNnRYMl8zaW5qV0JkYkpXNmlXVUQwaw?oc=5\" target=\"_blank\">'Rahul Gandhi's policy is to lie, repeat': Amit Shah at BJP rally in Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmY3cWRFRVZHeWRQZHVIeURWSXRyQVBSck1BbUJ4b0ZlTnVKemh6cHBXX1pKUXFnQmZwcmZWX04ybExlNUVELTJUanNYeEw5eS1tamk3Q2dCQld1bWI3cDBOOFlEMWFYbEVkWklKcm82by0yekhoX0dKS2lncnlhQTBQSUh2dG1YNk9RNmZUWndLM2JyWlNVNnQxa0NTNnM5WW1iS3ZoQ01OUDVyVGIyT2VOeGpOdWswajRnbm9KeUg5RjDSAdABQVVfeXFMT2dDa3lmdWJ0MnFqcjZMWmJEZ0xvempmWUJNZk5zbkt0TmxNQ2hkOVVDcmhtMUdhU09VblhrVXRzUU1pTERjazNTZkU2YnJZUjVIUUZOQmRaZmZTRlFULW5yOXpjaFlhTzU5THZTUkFhY2ZRN0ctcWFSRXZ1QmtvOGpJRVdZY2hGUkdGSDBvZk9BaURKbC1TaEJ5V0dUd3RabDRwQTRicnhqNHJkTDZGN2tWakgxRV9rdG1JNnRYMl8zaW5qV0JkYkpXNmlXVUQwaw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Lenovo Transforms India Into Global AI Server Export Hub With Bengaluru Design And Pondicherry Manufacturing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzNXVjJ0clVrSl9NZHN2cWUwa1FaU1BHRFREQmdDWXgwM0R0NF94ajF5RDA5R3I3SFdQeEdYdk9fU0VEOF9mTDNJZVN3MTFKblNRNHVhM1ZvUThra2ZnTGF0ODZqYjRVNWFSZk50TGJTUGhZWWtSUWdKYUR5alRWS29WN3YyWUE1eW1fd1RTWmNpTUJSa1l3SXNyNVBzdmx1VUpvTW9FbEk4UnNXSlFMT0RlaEcwdURXQ0dmVjNEMWJsS3Vya0pseEJEd2YtYjlZNVdJRFAyc0xqSnPSAesBQVVfeXFMT1lRMVpkTzhBMW4yNFpRemJWMHl2RXp6cFFmSDNtbE1CT1Q0bDZ6MnZrQmNRb09zMW1Wc2Jpd3JQSHhJSFJ5cnlYcHFpOG83TjRPLXJqUWRBcmxEaERxSjY1WU05MEJHcVpXeDczOUNBRTlHbUNWZkJ6UTVZemlOakRRaEdGbThxWHBlWk5iRmlRRUttRU9ReDMxRUpiRkNOUWw4c3FJT0JXV3RyRGlQQTF1d3JyVmR4UXV6dmZZdTMyZjFFNDYwUk50a1dfN0Fhc3NnRUpTbGlKdm1aNWxzYndHUHpyekxFZTNzRQ?oc=5\" target=\"_blank\">Lenovo Transforms India Into Global AI Server Export Hub With Bengaluru Design And Pondicherry Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzNXVjJ0clVrSl9NZHN2cWUwa1FaU1BHRFREQmdDWXgwM0R0NF94ajF5RDA5R3I3SFdQeEdYdk9fU0VEOF9mTDNJZVN3MTFKblNRNHVhM1ZvUThra2ZnTGF0ODZqYjRVNWFSZk50TGJTUGhZWWtSUWdKYUR5alRWS29WN3YyWUE1eW1fd1RTWmNpTUJSa1l3SXNyNVBzdmx1VUpvTW9FbEk4UnNXSlFMT0RlaEcwdURXQ0dmVjNEMWJsS3Vya0pseEJEd2YtYjlZNVdJRFAyc0xqSnPSAesBQVVfeXFMT1lRMVpkTzhBMW4yNFpRemJWMHl2RXp6cFFmSDNtbE1CT1Q0bDZ6MnZrQmNRb09zMW1Wc2Jpd3JQSHhJSFJ5cnlYcHFpOG83TjRPLXJqUWRBcmxEaERxSjY1WU05MEJHcVpXeDczOUNBRTlHbUNWZkJ6UTVZemlOakRRaEdGbThxWHBlWk5iRmlRRUttRU9ReDMxRUpiRkNOUWw4c3FJT0JXV3RyRGlQQTF1d3JyVmR4UXV6dmZZdTMyZjFFNDYwUk50a1dfN0Fhc3NnRUpTbGlKdm1aNWxzYndHUHpyekxFZTNzRQ?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Fri, 09 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "'Govt lacks powers due to UT status': Puducherry CM Rangasamy reiterates statehood demand ahead of assemb",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNSVRpNDJXWUROZklDN2htSHN2cGZad2NFdW5sV0dKQTJIOUZsUGdmWnFpMHdla1RiMDIyUmFhbFAzLURGbGIyUHBwV1E1Q2RxcjFMdy1QbVlkNTg5aEt6QUtEY2pYNGhVd21IMkFYNV9hbkpObVlUOExGWHRPbXBhQ180bWlnVWpHNFUtUFY1S1MzMFNjamllbzFjU1ZQeEFFdWpGcWJfc01FT3Z3TXp0eGJkcXY1QnliRFlpck9VbXhyQzExaWVIbU5hX1pfbXNvek56MHVKUUREd0puNXBpZGpMTkF2NU9Zby1tbFl3eEI1NENXMFp5c0VSVlhHT1BpdmE5YtIBigJBVV95cUxPakNWMm5lUWRENHUwa2lkUFIwajZ5VzE0R1pqRWVldXpMWmJoSk9OWFpnemhUeTYwbTZ0UERrR2xpcF8zeHN1NjYxQjBRTkMySUJMOFAyOG9rTGdHdUlEUlJmbzM5X0IwNVVhcUYwODVNRXFPdmRRWG1sV0Q0cDdwLWRsZkEzYS1mSndsYXV1Nkd4eThBY0l0RmFpenhSLUZYT0tCRmtVblhsMmlLYWtJZm9xVy1vYVh4Ul9DTHZwNVZTMWZZa0ZIRTJCVXkwcE05MmtZcC0yWm1SZHVSbzg2cWdfek80MHltWEV4UnhodVFfSUY2b0JwTGxoNUtlYjdVcnd2cmN5cmcxdw?oc=5\" target=\"_blank\">'Govt lacks powers due to UT status': Puducherry CM Rangasamy reiterates statehood demand ahead of assemb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSVRpNDJXWUROZklDN2htSHN2cGZad2NFdW5sV0dKQTJIOUZsUGdmWnFpMHdla1RiMDIyUmFhbFAzLURGbGIyUHBwV1E1Q2RxcjFMdy1QbVlkNTg5aEt6QUtEY2pYNGhVd21IMkFYNV9hbkpObVlUOExGWHRPbXBhQ180bWlnVWpHNFUtUFY1S1MzMFNjamllbzFjU1ZQeEFFdWpGcWJfc01FT3Z3TXp0eGJkcXY1QnliRFlpck9VbXhyQzExaWVIbU5hX1pfbXNvek56MHVKUUREd0puNXBpZGpMTkF2NU9Zby1tbFl3eEI1NENXMFp5c0VSVlhHT1BpdmE5YtIBigJBVV95cUxPakNWMm5lUWRENHUwa2lkUFIwajZ5VzE0R1pqRWVldXpMWmJoSk9OWFpnemhUeTYwbTZ0UERrR2xpcF8zeHN1NjYxQjBRTkMySUJMOFAyOG9rTGdHdUlEUlJmbzM5X0IwNVVhcUYwODVNRXFPdmRRWG1sV0Q0cDdwLWRsZkEzYS1mSndsYXV1Nkd4eThBY0l0RmFpenhSLUZYT0tCRmtVblhsMmlLYWtJZm9xVy1vYVh4Ul9DTHZwNVZTMWZZa0ZIRTJCVXkwcE05MmtZcC0yWm1SZHVSbzg2cWdfek80MHltWEV4UnhodVFfSUY2b0JwTGxoNUtlYjdVcnd2cmN5cmcxdw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "State Assembly Elections: BJP, Congress, and Regional Powers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVBPd3FjVDdYd1dDdGlqelg5M3lJTlJJZUVoMUZPWmRUVFNfaXplMTRjWjRfNTU4R3MzUjF6R2pOR2dBdDVicGZWN2ZFV0ZFYjJFQzA1dU92RzNSMUZZYVFUblJ1QlBuWF93TWNFX29RMnJSdDYyQlRuZUhnejJFSmZhX195dVRhWTkzSEIyaUprQUlqSHFEYnVBREt2M0JoRG9NSzdKREdtMk82MDlSSEFPYWRWRmtaTjB2Y3V5ZXNnczDSAcoBQVVfeXFMTXM0b3lBeGhZUTQyXzIwektidnNSZTBLbHlDYW1pelFxX1FOdFlyVVJRMXZHYnV2bkxCVnNGN3hhekE0RFVYS2pBa040dXI5NjltUFNaUkFmMmp1Zk12NnhGTzRrTDRJejN2a0VDN0ZqT1lBVEtycHhRNEEtbXdRYktUZ2JwcWFnYTY2cFV5d0JvWTd0WXhiTkhqaHNRVVNFVXk2c19Fd2V4Szc5VUNTeVEtblBKOENaY2VfNEV3NHRBQi1OX1d0RWx0Zw?oc=5\" target=\"_blank\">State Assembly Elections: BJP, Congress, and Regional Powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVBPd3FjVDdYd1dDdGlqelg5M3lJTlJJZUVoMUZPWmRUVFNfaXplMTRjWjRfNTU4R3MzUjF6R2pOR2dBdDVicGZWN2ZFV0ZFYjJFQzA1dU92RzNSMUZZYVFUblJ1QlBuWF93TWNFX29RMnJSdDYyQlRuZUhnejJFSmZhX195dVRhWTkzSEIyaUprQUlqSHFEYnVBREt2M0JoRG9NSzdKREdtMk82MDlSSEFPYWRWRmtaTjB2Y3V5ZXNnczDSAcoBQVVfeXFMTXM0b3lBeGhZUTQyXzIwektidnNSZTBLbHlDYW1pelFxX1FOdFlyVVJRMXZHYnV2bkxCVnNGN3hhekE0RFVYS2pBa040dXI5NjltUFNaUkFmMmp1Zk12NnhGTzRrTDRJejN2a0VDN0ZqT1lBVEtycHhRNEEtbXdRYktUZ2JwcWFnYTY2cFV5d0JvWTd0WXhiTkhqaHNRVVNFVXk2c19Fd2V4Szc5VUNTeVEtblBKOENaY2VfNEV3NHRBQi1OX1d0RWx0Zw?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Don't believe DMK: Actor Vijay at Puducherry rally, first after Karur stampede",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMURhLVdpa0VRS0gtZkoxMl9FZ0VRbVFRSTlwN2RMYmc2V280Zk8yTXBDTWlEZExBSjhrdmdtamlHVFhycVA2eWlibTlEU2RheVhCV2UzQVNwYkNURmlnUU8zRU5oY1VfZ2UtM2c1WkZ6U19IeDJXWUY1RTlmV3hVbElGNUpsclhIbEJ4czBHYzlwR05nWWp2ZDFhTkU3Y0J0LXg0OWVVelJ0NjQzVE9Lc2FiNXFPSGo3YVdFeW9RRV9wTGJyRzM4am5CS1ZOLTZHQ1RGZXY1Rk95eEZ3NkJqaXh30gHnAUFVX3lxTE5FeTdfSVhLVHFuVW1IYUc4Q0hmXzdxeFhFdU9OSHlnR3ZqSDhfR2lCTFl6dDduR1N3V0pwRVVSZmFPRm1hSGFzTFJNcFJzU3pYWGtZY0djT2tKcEswa2lJb2pSLW1keVRxXzBXajY5Vi0zQ0lGYXA4bGlHN0hxUTJPWklJYVdvb001NXBfZ1diMHUwX0dRWEtKM2tiZUd6Y1Bsd2lBQ2lrS096RXNwamF1UHZETjE3S2lhM0htcy14aDlSNmxJeGRYY2NjczZDRU5LaHF4ODlseXQ5ZHVwb0ZUdy1hd3UwWQ?oc=5\" target=\"_blank\">Don't believe DMK: Actor Vijay at Puducherry rally, first after Karur stampede</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMURhLVdpa0VRS0gtZkoxMl9FZ0VRbVFRSTlwN2RMYmc2V280Zk8yTXBDTWlEZExBSjhrdmdtamlHVFhycVA2eWlibTlEU2RheVhCV2UzQVNwYkNURmlnUU8zRU5oY1VfZ2UtM2c1WkZ6U19IeDJXWUY1RTlmV3hVbElGNUpsclhIbEJ4czBHYzlwR05nWWp2ZDFhTkU3Y0J0LXg0OWVVelJ0NjQzVE9Lc2FiNXFPSGo3YVdFeW9RRV9wTGJyRzM4am5CS1ZOLTZHQ1RGZXY1Rk95eEZ3NkJqaXh30gHnAUFVX3lxTE5FeTdfSVhLVHFuVW1IYUc4Q0hmXzdxeFhFdU9OSHlnR3ZqSDhfR2lCTFl6dDduR1N3V0pwRVVSZmFPRm1hSGFzTFJNcFJzU3pYWGtZY0djT2tKcEswa2lJb2pSLW1keVRxXzBXajY5Vi0zQ0lGYXA4bGlHN0hxUTJPWklJYVdvb001NXBfZ1diMHUwX0dRWEtKM2tiZUd6Y1Bsd2lBQ2lrS096RXNwamF1UHZETjE3S2lhM0htcy14aDlSNmxJeGRYY2NjczZDRU5LaHF4ODlseXQ5ZHVwb0ZUdy1hd3UwWQ?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Puducherry’s French War Memorial: A Tribute to Fallen WWI Soldiers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTG13WTUwMVZaczRVZGpOamIwdjVpZnBfUVVWSmpOZFUydTNtYlRhd1NtRFk5VWtaMjUtSWdZUGhtNTUyWThNemwtd29OSUxkNkxvU0gtX3RQa0IxV2l6cldheXoyRGtDMTQ1Z1hsc1VaZVhLT2RjUDRSd2pRNTFFMXYwLWpXQVl3YWVfTjJBTFNMVGZlWUtUTk5iSWdwYVRvTFdnTHZfb3NSWno2N2lJVEZLOC0wQdIBuwFBVV95cUxNWG9SbXBGaXNMWkY1b005ZjNDOVM4NGRiSS1lb1NTSkV2TEtRUjBlYmlxY0hyaDY0aDBkOENseDJBVmo5bFp4djY2SUN2VGVKb1BQNDhKQ0JJaGdPTmZuRTlLQUhabW5SWG9tN2l3Q202ZE5jMU5UeVQ2aWg5Um82MER0STZCUk1BeE9fTDk1ak9CT2Y2N1JvZHpWb0ZQaF9iOGhPZ0I4WThUc1pFcnJRLUdDa3VzVUpKNU5F?oc=5\" target=\"_blank\">Puducherry’s French War Memorial: A Tribute to Fallen WWI Soldiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTG13WTUwMVZaczRVZGpOamIwdjVpZnBfUVVWSmpOZFUydTNtYlRhd1NtRFk5VWtaMjUtSWdZUGhtNTUyWThNemwtd29OSUxkNkxvU0gtX3RQa0IxV2l6cldheXoyRGtDMTQ1Z1hsc1VaZVhLT2RjUDRSd2pRNTFFMXYwLWpXQVl3YWVfTjJBTFNMVGZlWUtUTk5iSWdwYVRvTFdnTHZfb3NSWno2N2lJVEZLOC0wQdIBuwFBVV95cUxNWG9SbXBGaXNMWkY1b005ZjNDOVM4NGRiSS1lb1NTSkV2TEtRUjBlYmlxY0hyaDY0aDBkOENseDJBVmo5bFp4djY2SUN2VGVKb1BQNDhKQ0JJaGdPTmZuRTlLQUhabW5SWG9tN2l3Q202ZE5jMU5UeVQ2aWg5Um82MER0STZCUk1BeE9fTDk1ak9CT2Y2N1JvZHpWb0ZQaF9iOGhPZ0I4WThUc1pFcnJRLUdDa3VzVUpKNU5F?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "How a Puducherry Muslim’s Murugan temple became a symbol of religious harmony",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNS245NUFleDQ0T25MOUVWUm8tdnJxQWpZWVBTLXVOdUkzODlfU3BvMnFaTkkyenk4d2lKaV8zQWZZUDRSQnlRYmtxWEZqa3VKbzRHMldDbXByVUVZSm9nMmxDN21CUHRMWk1VdzNxSzgzNWI1UjNoY3NyaGxHY2FJcXMwYlpGbW1HWXhLdHN3NGxmZXdhY0VCN2QzakcwbldxMFVr?oc=5\" target=\"_blank\">How a Puducherry Muslim’s Murugan temple became a symbol of religious harmony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Federal</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS245NUFleDQ0T25MOUVWUm8tdnJxQWpZWVBTLXVOdUkzODlfU3BvMnFaTkkyenk4d2lKaV8zQWZZUDRSQnlRYmtxWEZqa3VKbzRHMldDbXByVUVZSm9nMmxDN21CUHRMWk1VdzNxSzgzNWI1UjNoY3NyaGxHY2FJcXMwYlpGbW1HWXhLdHN3NGxmZXdhY0VCN2QzakcwbldxMFVr?oc=5",
+   "source_name": "The Federal",
+   "source_domain": "thefederal.com",
+   "published_raw": "Sun, 07 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "TVK general secretary meets Puducherry CM, DGP for rally nod",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONkJjelliRVotYVlNZ2JqelhqQUVLMjhPZkhjYlVzS0RoU3dtdmRBemxvNHhtVGVlS1hnTWllWE9iTzZhZ01YVFNqbTZVMER6a2hlZXR3Nm5iY2RPcUU3eU9EekdUZWg4TzltbWdHaDg1QnZIOVEyNTB3TU9yUXp5cXBYR2ltbWlIMEExVUxZTk5KbEU4bjZMWXE0UHc4cno4Z3Y3anlSb3MtMVZfSGQ0RTFRNVI2NU9EWGk4blVkZ9IBzAFBVV95cUxQTERuTFJKN094eEw3U09fZjNiRGVCb05HVEhRVktyc3VSWTRkSzhkal91WTI5Y1ZuM1lTdWRVMEFDay1wRkNIMHEtdVRIeTdTb2hVTnQtZWd0dFNhUmZlWFcwLVVuS2FHMzFOTmdIbDE0aEV2NmFvMHBWODNwWGpvVnE1U2x1Q0ZKZktkYkNTRzZmZ1pPUXVRbUZiaXhDelBLTWZVemRBSkVCbDJxeWZCcDhHXzlLLXpoUTdQZ0hVdXNQU3FYc1JBNWV5dV8?oc=5\" target=\"_blank\">TVK general secretary meets Puducherry CM, DGP for rally nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkJjelliRVotYVlNZ2JqelhqQUVLMjhPZkhjYlVzS0RoU3dtdmRBemxvNHhtVGVlS1hnTWllWE9iTzZhZ01YVFNqbTZVMER6a2hlZXR3Nm5iY2RPcUU3eU9EekdUZWg4TzltbWdHaDg1QnZIOVEyNTB3TU9yUXp5cXBYR2ltbWlIMEExVUxZTk5KbEU4bjZMWXE0UHc4cno4Z3Y3anlSb3MtMVZfSGQ0RTFRNVI2NU9EWGk4blVkZ9IBzAFBVV95cUxQTERuTFJKN094eEw3U09fZjNiRGVCb05HVEhRVktyc3VSWTRkSzhkal91WTI5Y1ZuM1lTdWRVMEFDay1wRkNIMHEtdVRIeTdTb2hVTnQtZWd0dFNhUmZlWFcwLVVuS2FHMzFOTmdIbDE0aEV2NmFvMHBWODNwWGpvVnE1U2x1Q0ZKZktkYkNTRzZmZ1pPUXVRbUZiaXhDelBLTWZVemRBSkVCbDJxeWZCcDhHXzlLLXpoUTdQZ0hVdXNQU3FYc1JBNWV5dV8?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:13+00:00"
+  }
+ ]
+}

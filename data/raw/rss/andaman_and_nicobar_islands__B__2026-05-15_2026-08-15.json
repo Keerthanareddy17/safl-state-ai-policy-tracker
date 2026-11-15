@@ -1,0 +1,120 @@
+{
+ "region": "Andaman and Nicobar Islands",
+ "group": "B",
+ "query": "(\"Andaman and Nicobar Islands\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Andaman+and+Nicobar+Islands%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:39:50+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Island administration looking at data centre project on Nicobar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNnBLSTFWNFk3a2Z2VFN4OVVQVGtyTF9zY2hQd0QxQkZnNXBtekVIcnA0U05wWFlCbWhLZENsY0t2Q0ZHMlBseTBqNTlScHFydFY2NTVEOGdQY1pGTVhCRlVSTWo2alVSMkNlMVNUNGpTcE13dzhnbklpOWlWdEVoQ1FRdk1FS2Q1VGtUbGx5RUlDNXRfcUV5LWFrNnVMUk85RmJ6RGZMU0NJZXlRSXp5SnN3ZDJiVlNrUzFueHllaUdZQUE3anQyU0oxNHBNSjFCNldETmlSVzlJQlNWazA5NlNiSWTSAesBQVVfeXFMTmNOVHBhNXZfQS02VkxoWEV0b0hVYmtzYVBrMGdsTEtuUHo5NUYwQnNkMTNqOEIyckFKUmk2SnktYXl1eEZ1a1VzdnJvNVpwNUVyTmV2TWJ6eVAtd05iYnNxMmJoLWZpMlpxVF9HRjMxbmFJU05XYk5rdmJ0TEg1cW1MekN6dGFoT2lwcUFLcVFBblFzZzMtTHhoVXJ6VjdnSmhxemtFZDRBWnZ4UDNlUWNlVzZlWXdMNkozUnh2QkVoUHAxRnAxWXlodEYwZ2ZJWUhNLXM0Rlp3MkYxd3FtUi01cERpUEI1ZmttVQ?oc=5\" target=\"_blank\">Island administration looking at data centre project on Nicobar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNnBLSTFWNFk3a2Z2VFN4OVVQVGtyTF9zY2hQd0QxQkZnNXBtekVIcnA0U05wWFlCbWhLZENsY0t2Q0ZHMlBseTBqNTlScHFydFY2NTVEOGdQY1pGTVhCRlVSTWo2alVSMkNlMVNUNGpTcE13dzhnbklpOWlWdEVoQ1FRdk1FS2Q1VGtUbGx5RUlDNXRfcUV5LWFrNnVMUk85RmJ6RGZMU0NJZXlRSXp5SnN3ZDJiVlNrUzFueHllaUdZQUE3anQyU0oxNHBNSjFCNldETmlSVzlJQlNWazA5NlNiSWTSAesBQVVfeXFMTmNOVHBhNXZfQS02VkxoWEV0b0hVYmtzYVBrMGdsTEtuUHo5NUYwQnNkMTNqOEIyckFKUmk2SnktYXl1eEZ1a1VzdnJvNVpwNUVyTmV2TWJ6eVAtd05iYnNxMmJoLWZpMlpxVF9HRjMxbmFJU05XYk5rdmJ0TEg1cW1MekN6dGFoT2lwcUFLcVFBblFzZzMtTHhoVXJ6VjdnSmhxemtFZDRBWnZ4UDNlUWNlVzZlWXdMNkozUnh2QkVoUHAxRnAxWXlodEYwZ2ZJWUhNLXM0Rlp3MkYxd3FtUi01cERpUEI1ZmttVQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Island Administration Now Wants A Private, ‘Green’ AI Data Centre on Great Nicobar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdTFsUzJ6R1FqVmdBV1JWUVcxVnBVTDJBN1dGcXYzUzB5UVczRllWUmN0TmwwX3lFaE8yNHdlczNSSm5TWnFjaDd3RmwtVGQ2dGUxRUItYzFJYUlwTXZodDdaU1FkOWtFMzRTQTVzVXQxREl1Q3pzR0VmSVVQWTU1X2c0NFVPcVZmMjJWaG5tbE9xR0VrMHZDeXU4cTcwa3l1MUZvTE56Z1NFcWI3Uml6dUNXR2dWN0hYdVZaTNIBwgFBVV95cUxNOTNxRVE5VWlsc1psSk1Fc1dYYnF0U0g0blA0cGcyRVJlSjN5Zk9qOXdTc2pwX3pDVDNQZ3pNVGJEeFh0eUxENkJubG5mdjZTTXlac3U4bUZYaEhCa2xJN05OMmVzQzFrRmJhd1JnUXEyLTJWaklDU3EyZTQ3Z3JILWN3TUl3bnR3b1dpdWRGdm5TZDZ3bkoycDdPX05xbDNFVk1IbTFJajZKZTA1QVp0Z2daUzgta1pFaEhsb1pRRTBHdw?oc=5\" target=\"_blank\">Island Administration Now Wants A Private, ‘Green’ AI Data Centre on Great Nicobar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdTFsUzJ6R1FqVmdBV1JWUVcxVnBVTDJBN1dGcXYzUzB5UVczRllWUmN0TmwwX3lFaE8yNHdlczNSSm5TWnFjaDd3RmwtVGQ2dGUxRUItYzFJYUlwTXZodDdaU1FkOWtFMzRTQTVzVXQxREl1Q3pzR0VmSVVQWTU1X2c0NFVPcVZmMjJWaG5tbE9xR0VrMHZDeXU4cTcwa3l1MUZvTE56Z1NFcWI3Uml6dUNXR2dWN0hYdVZaTNIBwgFBVV95cUxNOTNxRVE5VWlsc1psSk1Fc1dYYnF0U0g0blA0cGcyRVJlSjN5Zk9qOXdTc2pwX3pDVDNQZ3pNVGJEeFh0eUxENkJubG5mdjZTTXlac3U4bUZYaEhCa2xJN05OMmVzQzFrRmJhd1JnUXEyLTJWaklDU3EyZTQ3Z3JILWN3TUl3bnR3b1dpdWRGdm5TZDZ3bkoycDdPX05xbDNFVk1IbTFJajZKZTA1QVp0Z2daUzgta1pFaEhsb1pRRTBHdw?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Why Modi’s Great Nicobar Project is a Recipe for Disaster",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZjczlNY2NrRjN1S1FPM2YwSHdLVlZrc2FvZ3JyVDRlRWtwMlVZekhCdWlzNjhyM3NFQzV0bWlmZXBsNmJvV0dxQXY2ejFkdHJrWTdvVU8tWG04RkFlcGpOR3hLZXFlM1NYRHh4NjEzMkdDeV9NZElkY2N6Q0ZXM3ZVVTdneDlsQ0xobU1jWG1ZbW8?oc=5\" target=\"_blank\">Why Modi’s Great Nicobar Project is a Recipe for Disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUZjczlNY2NrRjN1S1FPM2YwSHdLVlZrc2FvZ3JyVDRlRWtwMlVZekhCdWlzNjhyM3NFQzV0bWlmZXBsNmJvV0dxQXY2ejFkdHJrWTdvVU8tWG04RkFlcGpOR3hLZXFlM1NYRHh4NjEzMkdDeV9NZElkY2N6Q0ZXM3ZVVTdneDlsQ0xobU1jWG1ZbW8?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Thu, 11 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Ministry of Earth Sciences Celebrates 20th Foundation Day, Highlighting Two Decades of Scientific Excellence and National Service",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CcUNjM3NwX1VuVDBoQU14cERSeFN6eGVvTkgtSnJqbEJnS2xCVEVYQVlKYUotTVlGRzEyR193eHBSWG42VXZPbzZjb0owZmg5cmp5dklyV1VxRzNnc0lqZzJfM2E1VXdw?oc=5\" target=\"_blank\">Ministry of Earth Sciences Celebrates 20th Foundation Day, Highlighting Two Decades of Scientific Excellence and National Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CcUNjM3NwX1VuVDBoQU14cERSeFN6eGVvTkgtSnJqbEJnS2xCVEVYQVlKYUotTVlGRzEyR193eHBSWG42VXZPbzZjb0owZmg5cmp5dklyV1VxRzNnc0lqZzJfM2E1VXdw?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "It's one of the world's most isolated islands. Here come the bulldozers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPenFfWlZRcXVnaWdZa0F4T3pvMVY4a3JsYlpxdktXME52ZFppMjNNUWYzbWd4UHd4WE16OGd4LVQ4a1l6WmkxbUd0Y0ZSN21PQVB5VE1ER0pqVVNTbjJMaHFGXzROUG1VZU1ZaE5Ib0VPMHAwOWt2RUNGelFFcnJOT1VaeTN0U0lOUzgyNjJaR09jT2VkbnhnVTN5Zi0?oc=5\" target=\"_blank\">It's one of the world's most isolated islands. Here come the bulldozers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenFfWlZRcXVnaWdZa0F4T3pvMVY4a3JsYlpxdktXME52ZFppMjNNUWYzbWd4UHd4WE16OGd4LVQ4a1l6WmkxbUd0Y0ZSN21PQVB5VE1ER0pqVVNTbjJMaHFGXzROUG1VZU1ZaE5Ib0VPMHAwOWt2RUNGelFFcnJOT1VaeTN0U0lOUzgyNjJaR09jT2VkbnhnVTN5Zi0?oc=5",
+   "source_name": "NPR",
+   "source_domain": "npr.org",
+   "published_raw": "Sun, 07 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Rahul Says Great Nicobar Plan Puts ‘Greed Over Green’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNF9IN2lLUkdsRW91eGFabHd2bjJ6cXk2NTBpV2dMM2g4SmZteU5oc1RxYjFIY2xqdm0yejVWWmxnZlBiaEp0UTMxOVhNbXRRUkJyTVlfeVFNTnFvWVgzVXhiWnZuVzctUWJYY3RSbUN4bVZaT185YmFRaDNXSGRuZlpfZl9uQ3c5cW40YmRXLUFqb3B6YWNrZU9ORHVQUG5YaGxfMkpMZnRDQUVpVFRpejZCWjJYaHg2Q25aM0Fkb19qN0NPOEHSAcsBQVVfeXFMTXhGamxONFpMVmQzcHZLQ2Q1NHRKRnZUUllpemxTUDZFeWhHVEVpQ2otVDlTUERNTGRGeTBZaGJoYXJmR254UnV6SWkwQUpxSnNyXzV0UVJSRWNHMmdSTGctcE85SUM1X0pLT1EzcDFTaXpZbFVYR01KMHRyOG94M0ZuMGtUTDN5cTJmdk1OUE1WT19KUzZfNHF2LUlQNmxKLXZJSFBqR05DaldCVEZmcG5MWlF0UHpaNU1pQ3dPMmFOVGdDZ3FxRnFVX1U?oc=5\" target=\"_blank\">Rahul Says Great Nicobar Plan Puts ‘Greed Over Green’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNF9IN2lLUkdsRW91eGFabHd2bjJ6cXk2NTBpV2dMM2g4SmZteU5oc1RxYjFIY2xqdm0yejVWWmxnZlBiaEp0UTMxOVhNbXRRUkJyTVlfeVFNTnFvWVgzVXhiWnZuVzctUWJYY3RSbUN4bVZaT185YmFRaDNXSGRuZlpfZl9uQ3c5cW40YmRXLUFqb3B6YWNrZU9ORHVQUG5YaGxfMkpMZnRDQUVpVFRpejZCWjJYaHg2Q25aM0Fkb19qN0NPOEHSAcsBQVVfeXFMTXhGamxONFpMVmQzcHZLQ2Q1NHRKRnZUUllpemxTUDZFeWhHVEVpQ2otVDlTUERNTGRGeTBZaGJoYXJmR254UnV6SWkwQUpxSnNyXzV0UVJSRWNHMmdSTGctcE85SUM1X0pLT1EzcDFTaXpZbFVYR01KMHRyOG94M0ZuMGtUTDN5cTJmdk1OUE1WT19KUzZfNHF2LUlQNmxKLXZJSFBqR05DaldCVEZmcG5MWlF0UHpaNU1pQ3dPMmFOVGdDZ3FxRnFVX1U?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Rahul alleges Great Nicobar project benefits one businessman",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORHZNUkJVMDBQUDYwc3JPU0tkYUF5TlVmNk5XWW91NDEwNUlrS1ZnVGZRSDBYeU1ncC1GcDMtYWZyNWpoVmVicmIxbUd4Z3Z3Y3hSbTltSVE0VlJwajRVNkx4OGdMQ3FIMS1DRzZ0TmNWZGg3Qmg4N0pDYWhJWTZLSDlBdlVKakx1VHRRQUtqNU4ta2JWTE1Md3NXN0Uza0U0a00xY2RoMmFOZ25fZHRn?oc=5\" target=\"_blank\">Rahul alleges Great Nicobar project benefits one businessman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHZNUkJVMDBQUDYwc3JPU0tkYUF5TlVmNk5XWW91NDEwNUlrS1ZnVGZRSDBYeU1ncC1GcDMtYWZyNWpoVmVicmIxbUd4Z3Z3Y3hSbTltSVE0VlJwajRVNkx4OGdMQ3FIMS1DRzZ0TmNWZGg3Qmg4N0pDYWhJWTZLSDlBdlVKakx1VHRRQUtqNU4ta2JWTE1Md3NXN0Uza0U0a00xY2RoMmFOZ25fZHRn?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Great Nicobar: From state colonisation to megaproject",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlZiMXpZSWtkUVZmaDljcE5EVHNVVTk1cVEtekpZa0xZdm1VZ3hRdEpZb21fSWc2Q0VackRtTWNHVlVsV1dlLWZ1dV8yZnNGbG5QZHBOWHdlVXJfS2ludWU4d0NiXzRBeVRJMUxtMGNqd1RQTFRfS2xBNm5FVW16SFpLNDE2QV9taldHQUc1WGJTLVpOalJCRGFZdGQwY0todHZHV3k2VzhkeTB2TGfSAbQBQVVfeXFMUHBjbEpWSlA4TjRCaFlQQVNSSjhKR0VlbzZOcDVuZFZUcWQwVldoODVwZENvZXJFY3Z5UUVFMGlwRXh3U29iSk82QVBkWWtQYVpHUFVoTmpQM1lKU2dMazBTY1E1N08tSUd0bE9RYkZhS1BNeEtycTJvVG1ZdVlRX3pqYTJaYXB4a0pRWHhYV0RTTTJrQ29PR2Nzb2VRNGJBa2JJUjM2dVBFTXl5azV0ekg0cjFP?oc=5\" target=\"_blank\">Great Nicobar: From state colonisation to megaproject</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlZiMXpZSWtkUVZmaDljcE5EVHNVVTk1cVEtekpZa0xZdm1VZ3hRdEpZb21fSWc2Q0VackRtTWNHVlVsV1dlLWZ1dV8yZnNGbG5QZHBOWHdlVXJfS2ludWU4d0NiXzRBeVRJMUxtMGNqd1RQTFRfS2xBNm5FVW16SFpLNDE2QV9taldHQUc1WGJTLVpOalJCRGFZdGQwY0todHZHV3k2VzhkeTB2TGfSAbQBQVVfeXFMUHBjbEpWSlA4TjRCaFlQQVNSSjhKR0VlbzZOcDVuZFZUcWQwVldoODVwZENvZXJFY3Z5UUVFMGlwRXh3U29iSk82QVBkWWtQYVpHUFVoTmpQM1lKU2dMazBTY1E1N08tSUd0bE9RYkZhS1BNeEtycTJvVG1ZdVlRX3pqYTJaYXB4a0pRWHhYV0RTTTJrQ29PR2Nzb2VRNGJBa2JJUjM2dVBFTXl5azV0ekg0cjFP?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Sat, 06 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "India’s strategic move in Great Nicobar: Rs 13,000 crore airport to double strength in the Indian Ocean",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQmlsdFBkeEpXd0U4clBDeUlpX01OYnd4VTdfaU11anNIZkpDRF9Wc2d4bHZscnoyRzJ1QmJ0U3Y1SEJQOTRwM2VjbDVxa3N2eWNjaTQzQlZLaEFUblptOGdnVGZLbTRPUU9FajFKeTlQVkhMOXlrOXlLbWpqdTBTU0pHRW1aUklHemVZTTNPNmNiZlNwX0NyMklKOTdIRG5DMUZ4bnJNcFRSRnR0QUZHemx4NHV4X19LTFhnbHpfeFhGME13b0h1Q3NFSUt6WkNoY1lmSnJUS0lYWWs2NnNBcE9R0gHnAUFVX3lxTE8zQTFRWjJ2UV9EdnEzU3RKbHNDbGlDbHh3Y25xN3I5dGRoUzg2YjB1OElqUEpmQ0daemhnY2FJN0NYUVJSVFZWWW16enJVMTJjLUFWQ2Z2S1ZTMGIyZjVXVHR0dGJlSzc5VnB6RElJWWRmWVZVc05wX1RrLWNSS1V6bDFjajR6S3ZJV2NkSGdRdGctZTNyY3h6bUhRUzRVbzcta1dMR0hnbmlqRHJQVE04TjBCTUMzajM3cDVYZElMZXNIZExTOWhvZ1JsbjJGcXZ1YTc2c1pDNElVbi1ka24xRnlXNlNZaw?oc=5\" target=\"_blank\">India’s strategic move in Great Nicobar: Rs 13,000 crore airport to double strength in the Indian Ocean</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Organiser</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQmlsdFBkeEpXd0U4clBDeUlpX01OYnd4VTdfaU11anNIZkpDRF9Wc2d4bHZscnoyRzJ1QmJ0U3Y1SEJQOTRwM2VjbDVxa3N2eWNjaTQzQlZLaEFUblptOGdnVGZLbTRPUU9FajFKeTlQVkhMOXlrOXlLbWpqdTBTU0pHRW1aUklHemVZTTNPNmNiZlNwX0NyMklKOTdIRG5DMUZ4bnJNcFRSRnR0QUZHemx4NHV4X19LTFhnbHpfeFhGME13b0h1Q3NFSUt6WkNoY1lmSnJUS0lYWWs2NnNBcE9R0gHnAUFVX3lxTE8zQTFRWjJ2UV9EdnEzU3RKbHNDbGlDbHh3Y25xN3I5dGRoUzg2YjB1OElqUEpmQ0daemhnY2FJN0NYUVJSVFZWWW16enJVMTJjLUFWQ2Z2S1ZTMGIyZjVXVHR0dGJlSzc5VnB6RElJWWRmWVZVc05wX1RrLWNSS1V6bDFjajR6S3ZJV2NkSGdRdGctZTNyY3h6bUhRUzRVbzcta1dMR0hnbmlqRHJQVE04TjBCTUMzajM3cDVYZElMZXNIZExTOWhvZ1JsbjJGcXZ1YTc2c1pDNElVbi1ka24xRnlXNlNZaw?oc=5",
+   "source_name": "Organiser",
+   "source_domain": "organiser.org",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Andaman and Nicobar Islands",
+   "title": "Gyanesh Bharti named Andaman and Nicobar chief secretary after ECI stint",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmVHbE1JSkdBZTZiek5PRy1oSlM2R3RuREZUN3EwbkgxV3lTNzZpa1FmLXgwaXdrTlVBMjIzMkdpUUw4TXh6T2l0VWJzdWM3SGtmajJyUGpnN2FWQVpWR2otY2JLUWNJV3VlRWJhY3BFVkhkX0xuYzFvQkwyNlhDdS04Q2VpYnBaNWZVZ0hZVnVSYmxlLWpZaUZxU056Rk9yRGR5aHlCRGFZbWd5d3UxR2RsNzFrX3Y5SHBlUXBiS1ROX0Z6aW9uSE1yUGhPM3pTWE5Z0gHYAUFVX3lxTE44Q3VSb2RMMEZQZ045X0FTbllWSU5fWGtSbHg3YXRLa2gxY2wwYUxGZjFDR3VmNERqWmxFNTVBWlZ5eWh3aVdXMDdRckUzeTl1b3ZDd2RJUGVlUkZRcEVEakphelJiWHc5ZU5uX2Utak82dHdEWDJScy12R2piVmdtU2k1MGE2dFcweWM0VVJ2MFZTZXN5U0doZkhEYlZkZWZuUnp1TTFsX0p3QVJoWHZJWk94dWF4NVB1d0U0TFR0OE5fX3ZlT3JLMHpMTzlmSWM5Q28xcE5XRQ?oc=5\" target=\"_blank\">Gyanesh Bharti named Andaman and Nicobar chief secretary after ECI stint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmVHbE1JSkdBZTZiek5PRy1oSlM2R3RuREZUN3EwbkgxV3lTNzZpa1FmLXgwaXdrTlVBMjIzMkdpUUw4TXh6T2l0VWJzdWM3SGtmajJyUGpnN2FWQVpWR2otY2JLUWNJV3VlRWJhY3BFVkhkX0xuYzFvQkwyNlhDdS04Q2VpYnBaNWZVZ0hZVnVSYmxlLWpZaUZxU056Rk9yRGR5aHlCRGFZbWd5d3UxR2RsNzFrX3Y5SHBlUXBiS1ROX0Z6aW9uSE1yUGhPM3pTWE5Z0gHYAUFVX3lxTE44Q3VSb2RMMEZQZ045X0FTbllWSU5fWGtSbHg3YXRLa2gxY2wwYUxGZjFDR3VmNERqWmxFNTVBWlZ5eWh3aVdXMDdRckUzeTl1b3ZDd2RJUGVlUkZRcEVEakphelJiWHc5ZU5uX2Utak82dHdEWDJScy12R2piVmdtU2k1MGE2dFcweWM0VVJ2MFZTZXN5U0doZkhEYlZkZWZuUnp1TTFsX0p3QVJoWHZJWk94dWF4NVB1d0U0TFR0OE5fX3ZlT3JLMHpMTzlmSWM5Q28xcE5XRQ?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 11 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:39:50+00:00"
+  }
+ ]
+}

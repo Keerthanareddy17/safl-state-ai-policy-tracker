@@ -1,0 +1,263 @@
+{
+ "region": "Telangana",
+ "group": "B",
+ "query": "(Telangana OR Hyderabad) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Telangana+OR+Hyderabad%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:19+00:00",
+ "item_count": 23,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana and Blaize sign MoU to launch Telangana AI Innovation Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFgyaDVjOGZuV0NOTE5wcUl6U0ZlVGw4RXZVNlh3WlpVeGJWS2xKVWI3VXRhbllWZUUyM1B3NXBJR3lmNmFzQnoyUzNtYWd6enJycXZ5UzhWcHZDVVdWQjMxbVlOcUVHa2VDUnVlNVBIZWFYQndmaG5fRXdtOWJwMWxMMlpjUkYxc1VYZA?oc=5\" target=\"_blank\">Telangana and Blaize sign MoU to launch Telangana AI Innovation Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">W.Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFgyaDVjOGZuV0NOTE5wcUl6U0ZlVGw4RXZVNlh3WlpVeGJWS2xKVWI3VXRhbllWZUUyM1B3NXBJR3lmNmFzQnoyUzNtYWd6enJycXZ5UzhWcHZDVVdWQjMxbVlOcUVHa2VDUnVlNVBIZWFYQndmaG5fRXdtOWJwMWxMMlpjUkYxc1VYZA?oc=5",
+   "source_name": "W.Media",
+   "source_domain": "w.media",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Revanth to launch Telangana AI Innovation Hub at Davos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktSUmNETDZwMnVZVUxnSHFYUUxjQXZDRS1rcVc4Unl1WmFpUHZ2bUdPY2ZnNVBWYWllblYtTkF0QWphcFYxeHd4TkJXQV93WHVVUExFZnlZRE5YTHFnWXU0cC0wN0RKaHFBLVB4UGdfdzJ3YXp4OFlOM0lNQ2VNenBqY1VXY2ptZG5PdTUxQ250ZTZraUw3YU5BZXlPc2g3M3FvMlZrLVo5UkNUTVYxdllzbXZtWXhjRVRGSGZjNFB2cERhcnJocHZ2MNIB0AFBVV95cUxPbUxGRFA3al81blY2aFRBVnNxV0Uza1lYMlVrUF9KNXp5elFkTVg1RTBYNi1WYUgyWTZ4dUY0Z2o1aXhmX0xBelR0OERSenFjaFRYYk54c21UQW5xRTh0X3JyQURmME9Sam5KVVU1b0FpeWtsRU1mX0Q1VWQzdXRGSVQzYWhHQVZwX2dUU1k5QVN0XzZWeFhiZWlRUmRRUWpBdWRwUXpwVkFBQ0ZJNE1mS2J4VEVyLUF3Ql9sSGtxelpSamJRZkVKM2pnYTM4eEZK?oc=5\" target=\"_blank\">Revanth to launch Telangana AI Innovation Hub at Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktSUmNETDZwMnVZVUxnSHFYUUxjQXZDRS1rcVc4Unl1WmFpUHZ2bUdPY2ZnNVBWYWllblYtTkF0QWphcFYxeHd4TkJXQV93WHVVUExFZnlZRE5YTHFnWXU0cC0wN0RKaHFBLVB4UGdfdzJ3YXp4OFlOM0lNQ2VNenBqY1VXY2ptZG5PdTUxQ250ZTZraUw3YU5BZXlPc2g3M3FvMlZrLVo5UkNUTVYxdllzbXZtWXhjRVRGSGZjNFB2cERhcnJocHZ2MNIB0AFBVV95cUxPbUxGRFA3al81blY2aFRBVnNxV0Uza1lYMlVrUF9KNXp5elFkTVg1RTBYNi1WYUgyWTZ4dUY0Z2o1aXhmX0xBelR0OERSenFjaFRYYk54c21UQW5xRTh0X3JyQURmME9Sam5KVVU1b0FpeWtsRU1mX0Q1VWQzdXRGSVQzYWhHQVZwX2dUU1k5QVN0XzZWeFhiZWlRUmRRUWpBdWRwUXpwVkFBQ0ZJNE1mS2J4VEVyLUF3Ql9sSGtxelpSamJRZkVKM2pnYTM4eEZK?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 17 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "AI university to begin within two months: Minister Sridhar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPak9yelVneFNPTGtOQkNUR1ZTcHAySzZTZ3FkS0tjUkYxUFNkajhUbFB2WGxvbElNdm1nZ29aZ3dqcE9EVlRNUkxrcTF4MjYxanlZY0k1eU5ydmQzajJ3Y0YzNmEyRGNwN25NVE96VnV5dWtEemcySjdMTlFxOWxzdGNoa2N3QUs3RUMtU1Z4a3VpNjZjUmNDOFRUMVRCQXNlWlZZTXNNRlRQZlV0dlpfYVBuWEJWVnl0b0kw0gHIAUFVX3lxTE5NUFZBM2FhLWkxZjF2WjBZQlZneWJzRjluS0FjU1pZaXhTZkhfSW96Rl9JT20tMUt5V2RmVWNsNlVOLWFVR1FLR04zaUVZbTQ0ZlFsd0R1RTBHakFrR2VCaWdjLUdJa29pRm5WbEdYcHRNOXpBRHltVm90MlM2cHFZU1ZybEkyS1VJbGMzUUl0TXdpYlhsWFhfZU9HUEZodUlMRTV5R1JMamYwUjBfMW9RelR0ZjhyZ0k0WXhPM2p5QXVZMERSakpR?oc=5\" target=\"_blank\">AI university to begin within two months: Minister Sridhar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPak9yelVneFNPTGtOQkNUR1ZTcHAySzZTZ3FkS0tjUkYxUFNkajhUbFB2WGxvbElNdm1nZ29aZ3dqcE9EVlRNUkxrcTF4MjYxanlZY0k1eU5ydmQzajJ3Y0YzNmEyRGNwN25NVE96VnV5dWtEemcySjdMTlFxOWxzdGNoa2N3QUs3RUMtU1Z4a3VpNjZjUmNDOFRUMVRCQXNlWlZZTXNNRlRQZlV0dlpfYVBuWEJWVnl0b0kw0gHIAUFVX3lxTE5NUFZBM2FhLWkxZjF2WjBZQlZneWJzRjluS0FjU1pZaXhTZkhfSW96Rl9JT20tMUt5V2RmVWNsNlVOLWFVR1FLR04zaUVZbTQ0ZlFsd0R1RTBHakFrR2VCaWdjLUdJa29pRm5WbEdYcHRNOXpBRHltVm90MlM2cHFZU1ZybEkyS1VJbGMzUUl0TXdpYlhsWFhfZU9HUEZodUlMRTV5R1JMamYwUjBfMW9RelR0ZjhyZ0k0WXhPM2p5QXVZMERSakpR?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Top 10 CSE & AI Colleges in India for 2026 to Launch Your Career in Computer Science & Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ltRkp4d3A3Q0Z6UHA0Yl92T1NVVWdUTlo5eGRjR3Z6Vy1kcHAxR1lLc05IWFZ2X3daa1Uyd1JHNzltV0J3TG8wcnktdzl3bDZfZ2R0WWo4OV9VaUxSVmpuRFN4N2NrYmJwbXQ4RmJpZ2hDWXBBUDBDRGNmUFdGMVVCN3ZQYm1YUG1RaXZ0eWZNdDZUOHJrekFrMGRja285cjA5TTdCa0R0b2FhRUJmdG44TExNZnAwVzJ1ZVgzckpER3ZMUlpxYnVnYw?oc=5\" target=\"_blank\">Top 10 CSE & AI Colleges in India for 2026 to Launch Your Career in Computer Science & Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LPU</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ltRkp4d3A3Q0Z6UHA0Yl92T1NVVWdUTlo5eGRjR3Z6Vy1kcHAxR1lLc05IWFZ2X3daa1Uyd1JHNzltV0J3TG8wcnktdzl3bDZfZ2R0WWo4OV9VaUxSVmpuRFN4N2NrYmJwbXQ4RmJpZ2hDWXBBUDBDRGNmUFdGMVVCN3ZQYm1YUG1RaXZ0eWZNdDZUOHJrekFrMGRja285cjA5TTdCa0R0b2FhRUJmdG44TExNZnAwVzJ1ZVgzckpER3ZMUlpxYnVnYw?oc=5",
+   "source_name": "LPU",
+   "source_domain": "lpu.in",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad Police launch AI-driven system to overhaul CAR duty allocation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOREJsbW1hWE5UWXFaWWxaV2JkOEM3aHVGYWEtdE0xSko3NWlIejN5SWU5dHFiS3BSSVlmMVJLSHV0TXhvNUp1MW9xTDkwR25KX0pQeklQU1lhZy1jekVxbjRLMmlDVnFDNllWYXZxMHB6SDhETHZIU21EVmlYV1JvZFNOOU9fYjJrcTJXaW11U2RxRnZzT3gtU1dwSmR1Z1Q5RzVRU3huMjl4N0lQcGllRkhudzl2Y3BMUnh6ZmhnQU1wSWF2WFlsYzVrVGxVSHE0UzJhcWt30gHcAUFVX3lxTFBIcmFGdjJjOEg1MlhhcmlUZTNLOWdnUkxpcHhiVDlQT2dRSjlMYm5xaFc3Sk8yYmJ1eHJLSGFpTXJKZ28xZW1HazNzZHEtVUdUUzdRVVN4YmxueVl1MUZuUWZXeUt0c3Vpem8yYWplWGVqU3Y0ZVMzbHdIcF82MmtkM2tUSUNCajRKdTFEUjhqS1BXdFBKdkd1YkRHeEdiblhCNUZRVGduUjh6ejQ1ZWxwbWNxUWpIMGt4NFg3bmlORGNNV3ZIRUR1U01GdGVxdHI3bEdiZW9UMGpBeU8?oc=5\" target=\"_blank\">Hyderabad Police launch AI-driven system to overhaul CAR duty allocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOREJsbW1hWE5UWXFaWWxaV2JkOEM3aHVGYWEtdE0xSko3NWlIejN5SWU5dHFiS3BSSVlmMVJLSHV0TXhvNUp1MW9xTDkwR25KX0pQeklQU1lhZy1jekVxbjRLMmlDVnFDNllWYXZxMHB6SDhETHZIU21EVmlYV1JvZFNOOU9fYjJrcTJXaW11U2RxRnZzT3gtU1dwSmR1Z1Q5RzVRU3huMjl4N0lQcGllRkhudzl2Y3BMUnh6ZmhnQU1wSWF2WFlsYzVrVGxVSHE0UzJhcWt30gHcAUFVX3lxTFBIcmFGdjJjOEg1MlhhcmlUZTNLOWdnUkxpcHhiVDlQT2dRSjlMYm5xaFc3Sk8yYmJ1eHJLSGFpTXJKZ28xZW1HazNzZHEtVUdUUzdRVVN4YmxueVl1MUZuUWZXeUt0c3Vpem8yYWplWGVqU3Y0ZVMzbHdIcF82MmtkM2tUSUNCajRKdTFEUjhqS1BXdFBKdkd1YkRHeEdiblhCNUZRVGduUjh6ejQ1ZWxwbWNxUWpIMGt4NFg3bmlORGNNV3ZIRUR1U01GdGVxdHI3bEdiZW9UMGpBeU8?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Google, Telangana Launch Hyderabad AI Hub To Scale Startups Globally And Locally",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTgwZTBnX3Fmd1FNYnBWTi1pTjhnb1NRX01UTWNMZHdjR0dHalZTcFNuN1FHWjhNLUlBMWZEb0ZhR3ZUOW5NRTlFUFN6aExyZWE3bjVKYlVCcG5UNGEzX19yYnJ0alVTc1ItYUhVLXpkQzJMN01fQk9XLTZ4dGRGV1dfT29NbFFBQXpEWmhveXlSMU1iTjN5aDFXZmFyUFJNY3R6cmdJRVc2TC1HTEtGdWI5dktua0dwcV9HcA?oc=5\" target=\"_blank\">Google, Telangana Launch Hyderabad AI Hub To Scale Startups Globally And Locally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Disrupt</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTgwZTBnX3Fmd1FNYnBWTi1pTjhnb1NRX01UTWNMZHdjR0dHalZTcFNuN1FHWjhNLUlBMWZEb0ZhR3ZUOW5NRTlFUFN6aExyZWE3bjVKYlVCcG5UNGEzX19yYnJ0alVTc1ItYUhVLXpkQzJMN01fQk9XLTZ4dGRGV1dfT29NbFFBQXpEWmhveXlSMU1iTjN5aDFXZmFyUFJNY3R6cmdJRVc2TC1HTEtGdWI5dktua0dwcV9HcA?oc=5",
+   "source_name": "BW Disrupt",
+   "source_domain": "bwdisrupt.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "IT Minister Opens Expanded Office of Aiden AI Engineering Centre in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSnh2ZElPc1I4cV9ub1Jya0lLWVJucUZ6am5JQkFLSF9RMVg1b2hibkU2OFFCdHMtN0xlemtDZWxtWUtCZnlLLU9fa3o4NGZMNWo2OV9EV0tWY2k5NUduQ0F4M2RodFZ3LVp6bERNUjRmZWQyLVRDRmV5ZXY5VzBQOHNDbzV4alZwM3VNbGtXeDRmZFYzZUh4OG5jVXc3WldDX0k2Vy1BTHJNcm5HU3Zhck1OTlNQY3VJUVloWVl2bkt1N0hhanEwR3lJN0taRExtejE1cVFDUVR1bnPSAeABQVVfeXFMT19IY3Y0c1VoNUJaeXcxRzVwZl96UDFyNU40aTFjNjFRX3JiaWkxZGtsd2dQT2FXX3VMWjFJNVg1bzl0Q2JRYXhXSlFMcWlJdEpaaGVVTERhYkZISDAzWndNWURUV3JtSGgwYVZKUC1DNHRWS1FpVk03U2VhQW1uUnZHa1NfXy1LbWVsQU5VX1UwNU0zTHlmUXdqS0t4aFBVSG5pUUQ3RHdhSjIwb2dKbUZaVjZtcE9DTFBoSXU5R2l3ekJHdHhLc1BTTm5LMjg4NnBycGUyUVRFaUlUWUJpWWM?oc=5\" target=\"_blank\">IT Minister Opens Expanded Office of Aiden AI Engineering Centre in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSnh2ZElPc1I4cV9ub1Jya0lLWVJucUZ6am5JQkFLSF9RMVg1b2hibkU2OFFCdHMtN0xlemtDZWxtWUtCZnlLLU9fa3o4NGZMNWo2OV9EV0tWY2k5NUduQ0F4M2RodFZ3LVp6bERNUjRmZWQyLVRDRmV5ZXY5VzBQOHNDbzV4alZwM3VNbGtXeDRmZFYzZUh4OG5jVXc3WldDX0k2Vy1BTHJNcm5HU3Zhck1OTlNQY3VJUVloWVl2bkt1N0hhanEwR3lJN0taRExtejE1cVFDUVR1bnPSAeABQVVfeXFMT19IY3Y0c1VoNUJaeXcxRzVwZl96UDFyNU40aTFjNjFRX3JiaWkxZGtsd2dQT2FXX3VMWjFJNVg1bzl0Q2JRYXhXSlFMcWlJdEpaaGVVTERhYkZISDAzWndNWURUV3JtSGgwYVZKUC1DNHRWS1FpVk03U2VhQW1uUnZHa1NfXy1LbWVsQU5VX1UwNU0zTHlmUXdqS0t4aFBVSG5pUUQ3RHdhSjIwb2dKbUZaVjZtcE9DTFBoSXU5R2l3ekJHdHhLc1BTTm5LMjg4NnBycGUyUVRFaUlUWUJpWWM?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Fri, 09 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "AI health software now mandates government licence and clinical trials",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNazdaSFNGYmpISXhneTFudURYM3hqT3BJbVJhYndtSlVFX2kya0RyMmRaWUdvVm5EOFA0Vkw1V3JGVU1Hck1GU2JQTUlHbDI0SFRBSWJmRVFnSENra0RINVpCT044UVJfR211YmNtR1kwWUx4eHp4Vy1Hb2JWMmg2LTN2dmlJb25NYllDRTlIOXdpYVVJMnZ4R25XWFBhdw?oc=5\" target=\"_blank\">AI health software now mandates government licence and clinical trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazdaSFNGYmpISXhneTFudURYM3hqT3BJbVJhYndtSlVFX2kya0RyMmRaWUdvVm5EOFA0Vkw1V3JGVU1Hck1GU2JQTUlHbDI0SFRBSWJmRVFnSENra0RINVpCT044UVJfR211YmNtR1kwWUx4eHp4Vy1Hb2JWMmg2LTN2dmlJb25NYllDRTlIOXdpYVVJMnZ4R25XWFBhdw?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Mon, 26 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "PAN-IIT Alumni India to launch Hyderabad Summit 2026 on AI, Innovation, nation-building",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMEFyMGJrSGZKNF9ad2NXYTNpQjFIeXczV1VMVkJORXMyWEJ5U0VmVmwzTHdhNXo1NkM4dzhWS1BSVFk4ZWpzemd6c0JVbzRIdmktQUg0ZFhzNFNmbW1kdW80Y2RJRWVyQXY4dG1MaWVPNnRIZnVmNjBrVlltMU05Y3NpZkNsc20wVjR5V3VCQy1lR3o3RDN0SlltV0k0ek5CUV9RRUZYQUVSY0tMbnlLRW93dHVlM2x6ZkhVUkt5RDZUTFdpa0wxVlNpNWdYNjhCeVNXR3lCdlV0Sk5ZR3dkcTFPSQ?oc=5\" target=\"_blank\">PAN-IIT Alumni India to launch Hyderabad Summit 2026 on AI, Innovation, nation-building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMEFyMGJrSGZKNF9ad2NXYTNpQjFIeXczV1VMVkJORXMyWEJ5U0VmVmwzTHdhNXo1NkM4dzhWS1BSVFk4ZWpzemd6c0JVbzRIdmktQUg0ZFhzNFNmbW1kdW80Y2RJRWVyQXY4dG1MaWVPNnRIZnVmNjBrVlltMU05Y3NpZkNsc20wVjR5V3VCQy1lR3o3RDN0SlltV0k0ek5CUV9RRUZYQUVSY0tMbnlLRW93dHVlM2x6ZkhVUkt5RDZUTFdpa0wxVlNpNWdYNjhCeVNXR3lCdlV0Sk5ZR3dkcTFPSQ?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "India, Korea hospitals deploy stroke AI and more briefs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTWVuRnJHem52SENOMDZmZEFRRG9Ram1kYl9kQU8zLXNISVB6RGtBZTdxMzU4dVRLdDVqQVBqR0h4bzRDbDY0SHpnZWNlSjVlcm16aTh2b01KaVVHM09GMmhZRmtXT283STF3OEotSDY5el82WG1xZnMwaXhqQkhyOW9BZG9fbk1GZTNqMkIxcjhjZktNNDk0aFpxWVZYQQ?oc=5\" target=\"_blank\">India, Korea hospitals deploy stroke AI and more briefs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare IT News</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWVuRnJHem52SENOMDZmZEFRRG9Ram1kYl9kQU8zLXNISVB6RGtBZTdxMzU4dVRLdDVqQVBqR0h4bzRDbDY0SHpnZWNlSjVlcm16aTh2b01KaVVHM09GMmhZRmtXT283STF3OEotSDY5el82WG1xZnMwaXhqQkhyOW9BZG9fbk1GZTNqMkIxcjhjZktNNDk0aFpxWVZYQQ?oc=5",
+   "source_name": "Healthcare IT News",
+   "source_domain": "healthcareitnews.com",
+   "published_raw": "Mon, 15 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad startups launching telescope, AI-image lab to space: What will it do?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWGxfcmdSV0RJaVZJQ1E0Zmg1ZDYyeUR1XzNjdUFnMk8xNl9VTlZtSDQxVlIyR2RfbVNMS0pHZDEzX1lwUklqUDJMR19mOEFPWUdxQ1YyWWRTQ1VOT0c5eUlhY2xUbU4yYlh5elg1VWhLV0VBMlRRYmFHRHZPQ0F3Ti1lMkROY1JtbHJ5ZEZYVUpYQ056d1NaTC1PQUtOcVppM0FwY19DNExwTU8wVDZKVnZhNFFGODBCM2NkVjVvMjQ2akRsdktiQ0tocHRBVFhScW9kdmlkUVF0dlFkbzVrZTA1Tmk3RFduTmhNSXB30gHzAUFVX3lxTE8xSTdKMGQ5andzbEpScmNuQ25pdm1VVVFpNGlTbFluN2pib05LZWJjYmtOaFY4SUVCM0NRZkZKMHVtVllObHlIbk1xaTVxRzkybnpsX2FfTnVMZmlacndFTGM5elFpUC11dThZTVlBNTZEV0puODZ6ZDhvaTVoam1mZl9rWnZFX0tUeXhKY2xCbndkVFVpWV9YaS1tdmNwRWdzcTlQUnRjODQ1aTc0dElvNEZlRnBzT1lXRmtwSWh0MkpaY0pLclJLZFdza2xNVVpiZGNfSG8zbnFfMTA0MXhCZGprUDZZNVF5Qk1sREc0dHAwSQ?oc=5\" target=\"_blank\">Hyderabad startups launching telescope, AI-image lab to space: What will it do?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWGxfcmdSV0RJaVZJQ1E0Zmg1ZDYyeUR1XzNjdUFnMk8xNl9VTlZtSDQxVlIyR2RfbVNMS0pHZDEzX1lwUklqUDJMR19mOEFPWUdxQ1YyWWRTQ1VOT0c5eUlhY2xUbU4yYlh5elg1VWhLV0VBMlRRYmFHRHZPQ0F3Ti1lMkROY1JtbHJ5ZEZYVUpYQ056d1NaTC1PQUtOcVppM0FwY19DNExwTU8wVDZKVnZhNFFGODBCM2NkVjVvMjQ2akRsdktiQ0tocHRBVFhScW9kdmlkUVF0dlFkbzVrZTA1Tmk3RFduTmhNSXB30gHzAUFVX3lxTE8xSTdKMGQ5andzbEpScmNuQ25pdm1VVVFpNGlTbFluN2pib05LZWJjYmtOaFY4SUVCM0NRZkZKMHVtVllObHlIbk1xaTVxRzkybnpsX2FfTnVMZmlacndFTGM5elFpUC11dThZTVlBNTZEV0puODZ6ZDhvaTVoam1mZl9rWnZFX0tUeXhKY2xCbndkVFVpWV9YaS1tdmNwRWdzcTlQUnRjODQ1aTc0dElvNEZlRnBzT1lXRmtwSWh0MkpaY0pLclJLZFdza2xNVVpiZGNfSG8zbnFfMTA0MXhCZGprUDZZNVF5Qk1sREc0dHAwSQ?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana govt signs pact with Deakin University to establish AI CoE",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMk5VQ3ItbGhOU3N4T2tCZEZRSUcxUExaS3FLaFItRlp4bDVzZ2VJWlZVTUlQd2RHWldlQ1VFbWFjQXMtajVnbmlvalBUc1R0NXlMWlRVMUU1MDRxa2RrX3VPSGRhdEhVX2J1d2Q5S3lPcTFYWWZSSDM5a04tTG1sYXFmSWVjLUpFdnQ5MEZTZEZUVlJOdk5sMUcxbXRvQVZxMEd0LVVLY01sN1RnZnlWTVR5NkUwazNwQ09hYTJfVjNtZHhGUWd6M1VDc1dGdUtkOHpwcDlNcUFRZVNtaEHSAeMBQVVfeXFMT3RONkJjSHFaOTZObTEwSmFBQ1poZWh4OXRqdXJwRmo3Z1pKcnJ0aXg0TXF5aDRjTFpqQTlWMGxxclhnREpTUUo5ZDg0MTJHenFrSm9tRFJobUhNNEJxcUpNYng0X19hejQ2UXNKRWtUTFc4b0hLc0FaNG1sZjZXUlR3d1JuVEtwV0xOb2FGVy1xVVlpNlM0YWFBYUlMTE9zakcxZllpWTRHWGhwUnBJRlhzaWgtbFFtWUloNTFZRGRqUXVQWFhFMndVcWFhTVgySnIxNFg1RzVIZXZDYjNxWmFHVjQ?oc=5\" target=\"_blank\">Telangana govt signs pact with Deakin University to establish AI CoE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMk5VQ3ItbGhOU3N4T2tCZEZRSUcxUExaS3FLaFItRlp4bDVzZ2VJWlZVTUlQd2RHWldlQ1VFbWFjQXMtajVnbmlvalBUc1R0NXlMWlRVMUU1MDRxa2RrX3VPSGRhdEhVX2J1d2Q5S3lPcTFYWWZSSDM5a04tTG1sYXFmSWVjLUpFdnQ5MEZTZEZUVlJOdk5sMUcxbXRvQVZxMEd0LVVLY01sN1RnZnlWTVR5NkUwazNwQ09hYTJfVjNtZHhGUWd6M1VDc1dGdUtkOHpwcDlNcUFRZVNtaEHSAeMBQVVfeXFMT3RONkJjSHFaOTZObTEwSmFBQ1poZWh4OXRqdXJwRmo3Z1pKcnJ0aXg0TXF5aDRjTFpqQTlWMGxxclhnREpTUUo5ZDg0MTJHenFrSm9tRFJobUhNNEJxcUpNYng0X19hejQ2UXNKRWtUTFc4b0hLc0FaNG1sZjZXUlR3d1JuVEtwV0xOb2FGVy1xVVlpNlM0YWFBYUlMTE9zakcxZllpWTRHWGhwUnBJRlhzaWgtbFFtWUloNTFZRGRqUXVQWFhFMndVcWFhTVgySnIxNFg1RzVIZXZDYjNxWmFHVjQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 06 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "CM Revanth to Launch State’s AI Centre at Davos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmgtUUhHd0VMNDZ5X1UxMHpNZVA5TklDbTZPM0daTXNWNkJxVkdYOGdjZGdyWHdvUk5RWmVfLTY4bFlldTBTX0psQUNkdkVKakNVdEVSZ1AyX21Wb05JbVBfRnVubkFNYmZ5NHlhMk5sY1dPV2J6b3VyTEFhb0Foa194dDBqT3ZHdkZ1ZXJ0MHBzQmlNZFZvWko4al9RMFQxYnlMMGJhcUIyVDcxeDlnYmxn0gG3AUFVX3lxTE5rczJ4SWNqdkVKSi1qZ3d4Vy1pU241Wmo1SnA5UVdGaGRQejFsaEU1dXBJYm9OT3YyeTZFUEtfYUZ6SWFXWm96R3N1RFB5RFYxak9BNEhrYmdyTFlwVjhIdDl3MTY4U1ZtQ1pKSld4MWNEamVYam95bzZYTXVmOFdCNVZwTUc3ZjhyYmxHa09YSzJCZURFYWNTbURkMWNjUlRGRWUwaGdMczBYS2dndmZ2OVV1VjlDVQ?oc=5\" target=\"_blank\">CM Revanth to Launch State’s AI Centre at Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmgtUUhHd0VMNDZ5X1UxMHpNZVA5TklDbTZPM0daTXNWNkJxVkdYOGdjZGdyWHdvUk5RWmVfLTY4bFlldTBTX0psQUNkdkVKakNVdEVSZ1AyX21Wb05JbVBfRnVubkFNYmZ5NHlhMk5sY1dPV2J6b3VyTEFhb0Foa194dDBqT3ZHdkZ1ZXJ0MHBzQmlNZFZvWko4al9RMFQxYnlMMGJhcUIyVDcxeDlnYmxn0gG3AUFVX3lxTE5rczJ4SWNqdkVKSi1qZ3d4Vy1pU241Wmo1SnA5UVdGaGRQejFsaEU1dXBJYm9OT3YyeTZFUEtfYUZ6SWFXWm96R3N1RFB5RFYxak9BNEhrYmdyTFlwVjhIdDl3MTY4U1ZtQ1pKSld4MWNEamVYam95bzZYTXVmOFdCNVZwTUc3ZjhyYmxHa09YSzJCZURFYWNTbURkMWNjUlRGRWUwaGdMczBYS2dndmZ2OVV1VjlDVQ?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana Minister Vivek asks Centre to harness AI power to curb illegal mining",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFF5ZkFzM0I2dlV1ZXloazBhWnJwWmZySzNtOVVGcnlCUzdYR0VsbnJuRnhFek5HdWt6bmVYMU5fbDhiSGV5RHpUVFlrWG53UzFuNDA4Q0ZYUzY4NEJLdDdQMkZjeWs3Z18xZTZRbTl6VXNHTG0zdlYyNHJWbnpLWTBHRXkyVVZuSHBVckFQQWVpODE0MTNVN21RdU52Z3dBX01GZFZ4UmlxNmRRbTQ5V19SV0U3MW1TRGFKQVNIUzN5UThJcTNqeDVXN01FVFNpOTgzNFBHOFfSAeYBQVVfeXFMUE9tekd2Q2xEUmM1d2NSRl9QQUIxTldfdXhmd0JLTldBaTRvd19xS2l2ei1xWmdpeDRkaWZzRnNEdWJkRlVVaDd3eG4ySGVUaFJGcE5GN2VVT2Zmd3hWNlRPRzhEeW1wZGhtNUNUNGlNMzcyYWVMWENvQWZtal9BOUUxLUZ4SGRGNEZ0blFIS0Y2VFhqMkd1aTJBcVN0YjdOVVdzUjkxWGtaZjF0Nzk0SW1Ka0YzSWFZeHAydnFISENaczQ5b2FpU01ZVVpidFltTFNPVC1NUVM5RFZIWnBkOVJ6VFk2dkE?oc=5\" target=\"_blank\">Telangana Minister Vivek asks Centre to harness AI power to curb illegal mining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFF5ZkFzM0I2dlV1ZXloazBhWnJwWmZySzNtOVVGcnlCUzdYR0VsbnJuRnhFek5HdWt6bmVYMU5fbDhiSGV5RHpUVFlrWG53UzFuNDA4Q0ZYUzY4NEJLdDdQMkZjeWs3Z18xZTZRbTl6VXNHTG0zdlYyNHJWbnpLWTBHRXkyVVZuSHBVckFQQWVpODE0MTNVN21RdU52Z3dBX01GZFZ4UmlxNmRRbTQ5V19SV0U3MW1TRGFKQVNIUzN5UThJcTNqeDVXN01FVFNpOTgzNFBHOFfSAeYBQVVfeXFMUE9tekd2Q2xEUmM1d2NSRl9QQUIxTldfdXhmd0JLTldBaTRvd19xS2l2ei1xWmdpeDRkaWZzRnNEdWJkRlVVaDd3eG4ySGVUaFJGcE5GN2VVT2Zmd3hWNlRPRzhEeW1wZGhtNUNUNGlNMzcyYWVMWENvQWZtal9BOUUxLUZ4SGRGNEZ0blFIS0Y2VFhqMkd1aTJBcVN0YjdOVVdzUjkxWGtaZjF0Nzk0SW1Ka0YzSWFZeHAydnFISENaczQ5b2FpU01ZVVpidFltTFNPVC1NUVM5RFZIWnBkOVJ6VFk2dkE?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sat, 10 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Grok AI row: Govt says X reply inadequate, seeks details",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcktWUEpkc3dqVFJ1RVVZeUFvenFoaldZT2lMb1hlN2pFLUFYVTV4dXlrZTR2WXFwc1lWTDc2NmVocTZKNm1fcHp0cjBTZlFEcnJRMlF5TFc4d2xaZTVZRHZrT0xOVW5JZDVENk55QV9VNHFUTmNFbGIyZ290MGNqQ0QwUDdCVkkw?oc=5\" target=\"_blank\">Grok AI row: Govt says X reply inadequate, seeks details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcktWUEpkc3dqVFJ1RVVZeUFvenFoaldZT2lMb1hlN2pFLUFYVTV4dXlrZTR2WXFwc1lWTDc2NmVocTZKNm1fcHp0cjBTZlFEcnJRMlF5TFc4d2xaZTVZRHZrT0xOVW5JZDVENk55QV9VNHFUTmNFbGIyZ290MGNqQ0QwUDdCVkkw?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana rolls out global AI innovation entity Aikam at Davos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHo3cTV5RGNGSTRidVhmQ25pU1prd0hqWjk0SUNRTlVnN01kNlU3ZDVMTzB2UE85bGpCR3J6VVVCRkduWHhIWk1DQnByRG45TzFXeU9ST3BUQm9jQi1IS1M5QUttcnpkOEg1Wm9JSjhqQ1hvczdacWpHTVJDOGZXOGtLa2kwcThadC1OaVdqWnBKOU82Nk5pVmNjbkZYc3k4cXNYSUFoUVdnTnI4R1B2SXY2ZXQtMDMxUzBjd3lLX0Z6U3h0Q0FoUjBoNzZTbUZybmJNeVN30gHbAUFVX3lxTE9oVXhMTldmemZ5T0lnMjVXSnVTdGJFNXZxc2haeFNUaTJqemctSGJkSW52Z2xCSzdrNlRrRll3Y1lIT01taHVxMzU4UGxjM3RfeThBbTRzaDNHdnBhRVBPeFJKNmVDY0oza0FCdEwtVFo4R0FyM1hOZnJpb1o3WVhjeU0zNFpKb2ZHb1hxNGdaS0VMNVd6OUhaZ1pOSFk3bDNLMXpQVzE4TzJ6OUdkMVFvYmgwMW9oLTFtWG9jVkp2YkNqckxDdE1BVFVFQzB1QjhmQVdHLUZlV3NzOA?oc=5\" target=\"_blank\">Telangana rolls out global AI innovation entity Aikam at Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHo3cTV5RGNGSTRidVhmQ25pU1prd0hqWjk0SUNRTlVnN01kNlU3ZDVMTzB2UE85bGpCR3J6VVVCRkduWHhIWk1DQnByRG45TzFXeU9ST3BUQm9jQi1IS1M5QUttcnpkOEg1Wm9JSjhqQ1hvczdacWpHTVJDOGZXOGtLa2kwcThadC1OaVdqWnBKOU82Nk5pVmNjbkZYc3k4cXNYSUFoUVdnTnI4R1B2SXY2ZXQtMDMxUzBjd3lLX0Z6U3h0Q0FoUjBoNzZTbUZybmJNeVN30gHbAUFVX3lxTE9oVXhMTldmemZ5T0lnMjVXSnVTdGJFNXZxc2haeFNUaTJqemctSGJkSW52Z2xCSzdrNlRrRll3Y1lIT01taHVxMzU4UGxjM3RfeThBbTRzaDNHdnBhRVBPeFJKNmVDY0oza0FCdEwtVFo4R0FyM1hOZnJpb1o3WVhjeU0zNFpKb2ZHb1hxNGdaS0VMNVd6OUhaZ1pOSFk3bDNLMXpQVzE4TzJ6OUdkMVFvYmgwMW9oLTFtWG9jVkp2YkNqckxDdE1BVFVFQzB1QjhmQVdHLUZlV3NzOA?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Microsoft launches AI literacy drive for govt school teachers in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW82NnY0YnpFREhYTGNRN1lYWHlxLS1lY1ZVTTNKeElHbXlkYjdoU0VsMUxYQ3E0TWFtdnhGejhDZHJ4X0NnZkJZa1l2VmRkQXNJVnRibEowemZMbUhSbVVRcUU5cVpVSWZIbndNWHBvN1VudktUUHZJZ3VrVUpiOEl3cnRLMEJUZWpsS3hMMEwzaFBlSFhQVEJ0eW9rT1l1QUpF?oc=5\" target=\"_blank\">Microsoft launches AI literacy drive for govt school teachers in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW82NnY0YnpFREhYTGNRN1lYWHlxLS1lY1ZVTTNKeElHbXlkYjdoU0VsMUxYQ3E0TWFtdnhGejhDZHJ4X0NnZkJZa1l2VmRkQXNJVnRibEowemZMbUhSbVVRcUU5cVpVSWZIbndNWHBvN1VudktUUHZJZ3VrVUpiOEl3cnRLMEJUZWpsS3hMMEwzaFBlSFhQVEJ0eW9rT1l1QUpF?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana cops deploy AI-enabled drone policing at Medaram Jatara",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRm5QRmg3b1dlLUlnQjhscENnOGdHUHdmMUxwRkZrX3NSMFdnVmctX0ROUHgxZk9SVkQ5ZW5nQU8wV1cwQVBrZDRmc2FGd1BnczNaM3VreF8ySU9WSXRpal84YVNVdDk3T3BnNU9ZMy1zV2FVOUR5MmRrRVBRbXk0YkRfMmFZMTViNVVwWVNNMDE2Y3pSU0hTRzZfMXpWakpYalMyUnItNXNBRURNc3dnNFExNnNNVkwwQnAwQmRhQW4wYnRXcmtwV1NCWmdOQlZJLWFJX2J4d1B5QdIB3wFBVV95cUxQRHJxUFo2NEZvc29NYTVRVloxNlN3NmYxUFlkeWdiS25MeFZydnVsZ2hBTHdNS0w1dWIwckdhci1Ccm03R3BFaTg2Qy1makRTN2ZRYUt4ZFZWSGFvSEVnZGQ0dHZrZ09ZVHZuUWgwMDdycVo4ZW9tazhwN2tqYVBiUVB6akxTbjI4LThkdEtPenF1WFplUXluYTJEa25Ja3F1QjlQTWxoS0c2U21UX0syangwWTdfYm4zREhqR3dSQjhPaDlKcWMzbWRPWVNQTDZnWVVnN19mWi1abnVwSktv?oc=5\" target=\"_blank\">Telangana cops deploy AI-enabled drone policing at Medaram Jatara</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRm5QRmg3b1dlLUlnQjhscENnOGdHUHdmMUxwRkZrX3NSMFdnVmctX0ROUHgxZk9SVkQ5ZW5nQU8wV1cwQVBrZDRmc2FGd1BnczNaM3VreF8ySU9WSXRpal84YVNVdDk3T3BnNU9ZMy1zV2FVOUR5MmRrRVBRbXk0YkRfMmFZMTViNVVwWVNNMDE2Y3pSU0hTRzZfMXpWakpYalMyUnItNXNBRURNc3dnNFExNnNNVkwwQnAwQmRhQW4wYnRXcmtwV1NCWmdOQlZJLWFJX2J4d1B5QdIB3wFBVV95cUxQRHJxUFo2NEZvc29NYTVRVloxNlN3NmYxUFlkeWdiS25MeFZydnVsZ2hBTHdNS0w1dWIwckdhci1Ccm03R3BFaTg2Qy1makRTN2ZRYUt4ZFZWSGFvSEVnZGQ0dHZrZ09ZVHZuUWgwMDdycVo4ZW9tazhwN2tqYVBiUVB6akxTbjI4LThkdEtPenF1WFplUXluYTJEa25Ja3F1QjlQTWxoS0c2U21UX0syangwWTdfYm4zREhqR3dSQjhPaDlKcWMzbWRPWVNQTDZnWVVnN19mWi1abnVwSktv?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad in spotlight as TCS, TPG launch mega AI Data Centre venture",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEF3UF9TU3FBUHkzTWFIT3FvaEpTdFlqMktIQVN6RXR2ajh3S1BvVmxJcWdDLXMyMXZ3Q25BMDZpN05WM2EzcHpNTXlqcnhuYmttWFZja3hMVm9TcVRpU3RYVEwxV2RabWpiNEpGV05KdEQyLUNKaDVCZDJnb0FJbExLckVoWW9rdXN3NUxOcnl3SjFPVG9RNkpoQQ?oc=5\" target=\"_blank\">Hyderabad in spotlight as TCS, TPG launch mega AI Data Centre venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEF3UF9TU3FBUHkzTWFIT3FvaEpTdFlqMktIQVN6RXR2ajh3S1BvVmxJcWdDLXMyMXZ3Q25BMDZpN05WM2EzcHpNTXlqcnhuYmttWFZja3hMVm9TcVRpU3RYVEwxV2RabWpiNEpGV05KdEQyLUNKaDVCZDJnb0FJbExLckVoWW9rdXN3NUxOcnl3SjFPVG9RNkpoQQ?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Fri, 21 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "India launches first government-run AI clinic at GIMS Greater Noida",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUJjZ1VGTHY2Mzc2NHI5LUdiU1hzVWwtZWdubUY0SUFDQTIzVEh2V0hRQ0M1a3E2czVpNVNwSmNhZGlaRkptMF81YWFzRHY3R2JCWGZfZkRDTEpnTS1oRHM0b1Z3eWVCRzRUWlJUVmY4SEE4WElzTXktWF8waFhONXF3a1R3cFNjWXJCMHVlaUIzamt5?oc=5\" target=\"_blank\">India launches first government-run AI clinic at GIMS Greater Noida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUJjZ1VGTHY2Mzc2NHI5LUdiU1hzVWwtZWdubUY0SUFDQTIzVEh2V0hRQ0M1a3E2czVpNVNwSmNhZGlaRkptMF81YWFzRHY3R2JCWGZfZkRDTEpnTS1oRHM0b1Z3eWVCRzRUWlJUVmY4SEE4WElzTXktWF8waFhONXF3a1R3cFNjWXJCMHVlaUIzamt5?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Mon, 05 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Tata Group upbeat about investments in TG in AI Data Centres, EV mfg and related areas",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUFXSDJ0OFNIT2xlemZPVmVpcHp1Q1k0eVd5b0pnNWVGNlpTWUNFMzFzaFFqUHljMjFjVk9KN3JKWFVRYUlOODRzYUYtbkZiSHJXdXFCY0hOTnFkNDBrSlBtS1ZOdS1oZFZFQXBKTWZrUVF4TUNzNkdHOWFubkN5RXZTaThoUzZpVTFOT216Mkxhazd4NF8tZjFabFlCSlVzZWFsNlJ1LWpyY2ttLWFJOC1sV0doRkRuWjM3eWgzcmhRMHplZTI5aDNHUU5IbEowRmFmRUpfYUFoakpwdjlvWXZJV2wxVHlIUHfSAfABQVVfeXFMT0lWbXVrSVhCekhBS09aLVRnTUJhdHpFbmFkWURWNFlpQy1jMkRSUVZfVEN6Y0lTb0p4YUdibkhFY2d4QlBhenF1RG53b3lEbTgtSEZnREFuRjRZMEhMQWR2NVlSR3pDcE9QUFN4S3VjdkszYjYwNEM2OGhmTERZbVB2Q05lR0dJcHNqVy1LTEp4eFNoWmxyTkFvcWI1TVZjUGZpREdrQmw4R2o5WUpnd3pLZ2ttV2JaMC0zWmpCcGJUVERCMjloS2pPMGwwVkVrdzFVZndLWXFqS0tYNUZva1Nfc1dadno2RnBuQ0xmSE5v?oc=5\" target=\"_blank\">Tata Group upbeat about investments in TG in AI Data Centres, EV mfg and related areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUFXSDJ0OFNIT2xlemZPVmVpcHp1Q1k0eVd5b0pnNWVGNlpTWUNFMzFzaFFqUHljMjFjVk9KN3JKWFVRYUlOODRzYUYtbkZiSHJXdXFCY0hOTnFkNDBrSlBtS1ZOdS1oZFZFQXBKTWZrUVF4TUNzNkdHOWFubkN5RXZTaThoUzZpVTFOT216Mkxhazd4NF8tZjFabFlCSlVzZWFsNlJ1LWpyY2ttLWFJOC1sV0doRkRuWjM3eWgzcmhRMHplZTI5aDNHUU5IbEowRmFmRUpfYUFoakpwdjlvWXZJV2wxVHlIUHfSAfABQVVfeXFMT0lWbXVrSVhCekhBS09aLVRnTUJhdHpFbmFkWURWNFlpQy1jMkRSUVZfVEN6Y0lTb0p4YUdibkhFY2d4QlBhenF1RG53b3lEbTgtSEZnREFuRjRZMEhMQWR2NVlSR3pDcE9QUFN4S3VjdkszYjYwNEM2OGhmTERZbVB2Q05lR0dJcHNqVy1LTEp4eFNoWmxyTkFvcWI1TVZjUGZpREdrQmw4R2o5WUpnd3pLZ2ttV2JaMC0zWmpCcGJUVERCMjloS2pPMGwwVkVrdzFVZndLWXFqS0tYNUZva1Nfc1dadno2RnBuQ0xmSE5v?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad Police roll out AI-based duty allocation system",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObkE2NEIzb3ZXTkV1ZDRGZEJtYkdlNC1CYnVNU3VELXA0Y2Z0UmptR2hIZUkzTVBHZVMzUEtNS2xpcC0tdmNRTEVwQTFjd2o4NGVQVWlDZUNQV0oySkRTVzZJZngtZlVCMGx0OXF5UDE5V21VenpsQWc2ajEtODNhOUpwSnp5b0Q0a005cWNqOWJINVnSAZgBQVVfeXFMTmYxbTJ3MDhvdUtSWkJqXzhCWU0yVk5zbnNqVkdLWnhyQWxZeUliVU1aaUZXV1YtT2p3OWZQT3dxMmY5LXdIN3RlNVUyX05YVUpYWS05WlB5R2ZZbGgwb2k2YlZSNlI0TXhEWXk4YnZfSmQ0QjFuMGxiNHUwOF9tNktsd0Q2YUhDQlMtY2JyWUVDNzdtbkROLV8?oc=5\" target=\"_blank\">Hyderabad Police roll out AI-based duty allocation system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Siasat Daily</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkE2NEIzb3ZXTkV1ZDRGZEJtYkdlNC1CYnVNU3VELXA0Y2Z0UmptR2hIZUkzTVBHZVMzUEtNS2xpcC0tdmNRTEVwQTFjd2o4NGVQVWlDZUNQV0oySkRTVzZJZngtZlVCMGx0OXF5UDE5V21VenpsQWc2ajEtODNhOUpwSnp5b0Q0a005cWNqOWJINVnSAZgBQVVfeXFMTmYxbTJ3MDhvdUtSWkJqXzhCWU0yVk5zbnNqVkdLWnhyQWxZeUliVU1aaUZXV1YtT2p3OWZQT3dxMmY5LXdIN3RlNVUyX05YVUpYWS05WlB5R2ZZbGgwb2k2YlZSNlI0TXhEWXk4YnZfSmQ0QjFuMGxiNHUwOF9tNktsd0Q2YUhDQlMtY2JyWUVDNzdtbkROLV8?oc=5",
+   "source_name": "The Siasat Daily",
+   "source_domain": "siasat.com",
+   "published_raw": "Tue, 27 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "JSW Defence, US-based Shield AI launch $90-million military drone project in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa3FramhkeUpnTmdRaTlpOU55RnBMWkI3bk5tcVZEV1F2RDlYRlhMTjhyWDJabG4wSmdhMDBHYWJSX0cwbTVVa1kxT0o2TEZoa3FEcUNJWTNuT1FMaWlVdzk4WE9WYXJ6TXhHMjdRYlI4UjF5TVlHTHNQY1Z3ZmpRbFhEaDcxbjBpRkdXMGdtVzJFT1l6N2dsZEdnQXdpejNiRXNIbks0ZkdObkkzYlBlT1FFUm1WenJyX1ZNWERtYTB1ejU5TnpHX2NwUi04Q1pZdmxsMmpMeDM0R2o5MGw2cjdGUEswZ9IB6wFBVV95cUxPOE52eFZVanJVZS1uZnM4dmw2dldUV3UyNnB4RkhHbzJEOWtmR1IxRHBaOVc2M1djbmd5RGxjNTlNaVVVb1lDS2JCcnBoTjBhZ0QzcUpjTDN6RVNCVkdDbmtBSVUyRDZjdjhzN2NzUWdnLUFEbVgzYjV1b3ZwUE51bUVQVFhOOWNYS1ZCWDdOLVNqT1FFTWctNU9LLXRnMWVrX2Q2ZUFwN3o0VEE4ODYwMzRDSmZmNlF5VnRSSndsVE1uakxta2tqQmJMWFd5ZE0xanUtQ1ZMUTJZUU9GN0lpRk8tbC04OExyLXk0?oc=5\" target=\"_blank\">JSW Defence, US-based Shield AI launch $90-million military drone project in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa3FramhkeUpnTmdRaTlpOU55RnBMWkI3bk5tcVZEV1F2RDlYRlhMTjhyWDJabG4wSmdhMDBHYWJSX0cwbTVVa1kxT0o2TEZoa3FEcUNJWTNuT1FMaWlVdzk4WE9WYXJ6TXhHMjdRYlI4UjF5TVlHTHNQY1Z3ZmpRbFhEaDcxbjBpRkdXMGdtVzJFT1l6N2dsZEdnQXdpejNiRXNIbks0ZkdObkkzYlBlT1FFUm1WenJyX1ZNWERtYTB1ejU5TnpHX2NwUi04Q1pZdmxsMmpMeDM0R2o5MGw2cjdGUEswZ9IB6wFBVV95cUxPOE52eFZVanJVZS1uZnM4dmw2dldUV3UyNnB4RkhHbzJEOWtmR1IxRHBaOVc2M1djbmd5RGxjNTlNaVVVb1lDS2JCcnBoTjBhZ0QzcUpjTDN6RVNCVkdDbmtBSVUyRDZjdjhzN2NzUWdnLUFEbVgzYjV1b3ZwUE51bUVQVFhOOWNYS1ZCWDdOLVNqT1FFTWctNU9LLXRnMWVrX2Q2ZUFwN3o0VEE4ODYwMzRDSmZmNlF5VnRSSndsVE1uakxta2tqQmJMWFd5ZE0xanUtQ1ZMUTJZUU9GN0lpRk8tbC04OExyLXk0?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:19+00:00"
+  }
+ ]
+}

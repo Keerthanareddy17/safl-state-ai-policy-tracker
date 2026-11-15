@@ -1,0 +1,20 @@
+{
+ "region": "Uttarakhand",
+ "query": "(Uttarakhand) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:48:13+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Uttarakhand",
+   "title": "‘My life is an open book’: Uttarakhand minister Rekha Arya rejects husband’s Rs 210 crore corruption charge, calls AI audio ‘100% authentic’",
+   "description": "In a bold response to her husband's corruption allegations, Rekha Arya, the Women Empowerment and Child Development Minister of Uttarakhand, defends her reputation, asserting her financial records are clear and inviting a thorough investigation. Sahu's unsupp…",
+   "url": "https://timesofindia.indiatimes.com/city/dehradun/my-life-is-an-open-book-uttarakhand-minister-rekha-arya-rejects-husbands-rs-210-crore-corruption-charge-calls-ai-audio-100-authentic/articleshow/135025017.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-18T06:45:57Z",
+   "fetched_at": "2026-11-15T09:48:13+00:00"
+  }
+ ]
+}

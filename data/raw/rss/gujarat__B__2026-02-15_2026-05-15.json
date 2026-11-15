@@ -1,0 +1,109 @@
+{
+ "region": "Gujarat",
+ "group": "B",
+ "query": "(Gujarat OR Gandhinagar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Gujarat+OR+Gandhinagar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:07+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat Police launch AI-powered tool to boost NDPS investigations, prosecution",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnZFNkV0Qy14N3N2ZkJUdy1jVHdQOGI0b0dzVWNoT2RhSE5qcFdvWU83RFJzV0lPaEg2Zy04UXpYMW91OHZDUkJQVzdQSXFteVZSTVVKUV9UeExoc21iaVl6eDhLR0FaVnhVTmFkU0RIZ2lvV2VGWTdSb1VTckZOZFNia1BOTHBPRmlJbEVvSmtoVW1DUEZfQVVMcXVEVG93S0JJRjN0aHdjcEU3aHpDTXdVMkxPREJ4aHVpdF9HUWVBMTJPbkp3X0V5S3dKQ0RETGpLWk5FRUNMNDE2N0HSAeQBQVVfeXFMTjdvN3lfUXNBb29zdnFfTnpUeFhfSnJZUG1LNEV1UVprcXc2RldJRUppaFI4TExuOGRicEpHZkFYOWlQaXBXNUM2dW95LVZaNHdmT3dlYXVQUGM1ZkFjXzhib25vZXhQbFprcFEtdG1MYVpZODZEazBVbzRBczlraFJqd3hzZ2ZoWkxaUlYzalBHR3BtcnVzeW5oOUZCTFdEbElMVW1sd25BUTJwTk1xMkZobEVWSHJMUURfd0thZnEwalEyajhKN2g5Q0E5TXA5NEJYWGJXd1p6Z2VwMWFfMmY2elUx?oc=5\" target=\"_blank\">Gujarat Police launch AI-powered tool to boost NDPS investigations, prosecution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnZFNkV0Qy14N3N2ZkJUdy1jVHdQOGI0b0dzVWNoT2RhSE5qcFdvWU83RFJzV0lPaEg2Zy04UXpYMW91OHZDUkJQVzdQSXFteVZSTVVKUV9UeExoc21iaVl6eDhLR0FaVnhVTmFkU0RIZ2lvV2VGWTdSb1VTckZOZFNia1BOTHBPRmlJbEVvSmtoVW1DUEZfQVVMcXVEVG93S0JJRjN0aHdjcEU3aHpDTXdVMkxPREJ4aHVpdF9HUWVBMTJPbkp3X0V5S3dKQ0RETGpLWk5FRUNMNDE2N0HSAeQBQVVfeXFMTjdvN3lfUXNBb29zdnFfTnpUeFhfSnJZUG1LNEV1UVprcXc2RldJRUppaFI4TExuOGRicEpHZkFYOWlQaXBXNUM2dW95LVZaNHdmT3dlYXVQUGM1ZkFjXzhib25vZXhQbFprcFEtdG1MYVpZODZEazBVbzRBczlraFJqd3hzZ2ZoWkxaUlYzalBHR3BtcnVzeW5oOUZCTFdEbElMVW1sd25BUTJwTk1xMkZobEVWSHJMUURfd0thZnEwalEyajhKN2g5Q0E5TXA5NEJYWGJXd1p6Z2VwMWFfMmY2elUx?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "AI farmer revolution to begin from Jaipur: Union Minister Shri Shivraj Singh Chouhan to launch ‘Bharat-VISTAAR’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ldWZLaEUwcWVxMU5HN2VfTTBzLWZIWFJQQUg5T3gyNGRJWk9YSFd1YkNRTVdRc2Fnel9aV1VnRHpQM211TXpQd2ROdGdPcVgwU0dxUVFxeF9DMTU4ZTlPcEN5TUp0Y21K?oc=5\" target=\"_blank\">AI farmer revolution to begin from Jaipur: Union Minister Shri Shivraj Singh Chouhan to launch ‘Bharat-VISTAAR’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ldWZLaEUwcWVxMU5HN2VfTTBzLWZIWFJQQUg5T3gyNGRJWk9YSFd1YkNRTVdRc2Fnel9aV1VnRHpQM211TXpQd2ROdGdPcVgwU0dxUVFxeF9DMTU4ZTlPcEN5TUp0Y21K?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "PM shares glimpses of his address at the inauguration of Kaynes Semicon Plant at Sanand, Gujarat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNjVqQ0RYV3JpREE4ZGc0QW5Obmx2eWo3VElNWFhuNVdSdFR4NUZ0clJHWjF2TVhjSGtRWDNlX2NDbnNyZzVocXI4eTVYTEY5dWsyNXNrSDF4clFwdHU2NHRmQ2JpWnJvYmVYWVVMUlJSUTF5ZnZtdlpHOGZpYTJPVzdpZEtGWDR3WkFSZVNEZW1ZLWZCS3pFbkFENThCVGtEdzZYdmRZeHVDWkRqVnlHbjFaOFhtRDRNOHhWSkFsbGk0b3g0WUswRmpOSkJPeGFfNjBoQThR?oc=5\" target=\"_blank\">PM shares glimpses of his address at the inauguration of Kaynes Semicon Plant at Sanand, Gujarat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PM India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNjVqQ0RYV3JpREE4ZGc0QW5Obmx2eWo3VElNWFhuNVdSdFR4NUZ0clJHWjF2TVhjSGtRWDNlX2NDbnNyZzVocXI4eTVYTEY5dWsyNXNrSDF4clFwdHU2NHRmQ2JpWnJvYmVYWVVMUlJSUTF5ZnZtdlpHOGZpYTJPVzdpZEtGWDR3WkFSZVNEZW1ZLWZCS3pFbkFENThCVGtEdzZYdmRZeHVDWkRqVnlHbjFaOFhtRDRNOHhWSkFsbGk0b3g0WUswRmpOSkJPeGFfNjBoQThR?oc=5",
+   "source_name": "PM India",
+   "source_domain": "pmindia.gov.in",
+   "published_raw": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "CBDC Integration in Public Distribution System: Pilot Digital Food Coupon Initiative launched in Gujarat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMVJRZ2hjR21oZUYydzRVelJZMkhiZ1dxY09CNGhTNW9xanVpV2FVMHh1a0kwZzJEMmhsTXZROHRsV04yOFpyaFlUODRpT2pLcmJJYTJITGFXR2t0WGQ0ZUU5VzczcnNqRWNBaXZqTjQ3TEg4YmppOV9XeGNoMEwtUDJ0bW03T2tPb0hJbWFSUXN2QTlFdDYyS2hjdmRZSmloUVNLVzRyckl4Q19DOXl0aW05YTh3TWpQb015MVBQX1VoUTlsVDM4MS01d28wNVA2bU0zU3F1dl9FMmJnVHNEWGhKZw?oc=5\" target=\"_blank\">CBDC Integration in Public Distribution System: Pilot Digital Food Coupon Initiative launched in Gujarat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vision IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMVJRZ2hjR21oZUYydzRVelJZMkhiZ1dxY09CNGhTNW9xanVpV2FVMHh1a0kwZzJEMmhsTXZROHRsV04yOFpyaFlUODRpT2pLcmJJYTJITGFXR2t0WGQ0ZUU5VzczcnNqRWNBaXZqTjQ3TEg4YmppOV9XeGNoMEwtUDJ0bW03T2tPb0hJbWFSUXN2QTlFdDYyS2hjdmRZSmloUVNLVzRyckl4Q19DOXl0aW05YTh3TWpQb015MVBQX1VoUTlsVDM4MS01d28wNVA2bU0zU3F1dl9FMmJnVHNEWGhKZw?oc=5",
+   "source_name": "Vision IAS",
+   "source_domain": "visionias.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "PM inaugurates Micron Technology’s Semiconductor Assembly, Test and Packaging (ATMP) facility in Sanand, Gujarat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0I3OE9YbXIzcUxHY09jbFUtcElrcjBDVXM1RzNSSkNVU29rSDRWdnlMay1Fdno2Zmx2WFhWQUs1RXBDNm5IZnU2Y2g5ZDRwMF9GQUQ3UXBoblNjWEZBdldUdm5NT3cxRERxMnhZVUtFZzMtS2ZRYmZjZDVQMFFUQ21Md2s2ZTVVTVloWmU0TEF0Tm9WRHd0bzZRSGd4TnJYcHRSZVM1OEVyV1ZoaUh0MWk2Um15eUVWemFOdHRCX0haNU5vSWM2aEwwZnppYmd6SHpGdmw1MDQtazVnb1libmg0TlI?oc=5\" target=\"_blank\">PM inaugurates Micron Technology’s Semiconductor Assembly, Test and Packaging (ATMP) facility in Sanand, Gujarat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PM India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0I3OE9YbXIzcUxHY09jbFUtcElrcjBDVXM1RzNSSkNVU29rSDRWdnlMay1Fdno2Zmx2WFhWQUs1RXBDNm5IZnU2Y2g5ZDRwMF9GQUQ3UXBoblNjWEZBdldUdm5NT3cxRERxMnhZVUtFZzMtS2ZRYmZjZDVQMFFUQ21Md2s2ZTVVTVloWmU0TEF0Tm9WRHd0bzZRSGd4TnJYcHRSZVM1OEVyV1ZoaUh0MWk2Um15eUVWemFOdHRCX0haNU5vSWM2aEwwZnppYmd6SHpGdmw1MDQtazVnb1libmg0TlI?oc=5",
+   "source_name": "PM India",
+   "source_domain": "pmindia.gov.in",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Wipro Launches GIFT City Hub with 500-Seat Capacity for AI-Powered BFSI Services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFVKaklhLWM5ZUxlNjc5RjFkc0FzUUM0RTZVcVV4SURaWFQzUFlNZnBLbGp0cXE2QUxWUUVMVnJsT0hGZ04yeGxuQlpqd2xIRXJYcnhxdjY0OXhiNno5S2x5UjBCTDBqWHMzS3hUQVpUTnRTVWVHUmkya0F6LVk2ZVlzck1hVG51aklzLXBfLV9ESVBTR0hDbkJpZklRZU1iSTlURWVtMUNQdW0wWU5KUERtbGZXcDR4bHowb29zU3lDd3RmOFJVeFNwWTBNa3EzV1Nua2RB?oc=5\" target=\"_blank\">Wipro Launches GIFT City Hub with 500-Seat Capacity for AI-Powered BFSI Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFVKaklhLWM5ZUxlNjc5RjFkc0FzUUM0RTZVcVV4SURaWFQzUFlNZnBLbGp0cXE2QUxWUUVMVnJsT0hGZ04yeGxuQlpqd2xIRXJYcnhxdjY0OXhiNno5S2x5UjBCTDBqWHMzS3hUQVpUTnRTVWVHUmkya0F6LVk2ZVlzck1hVG51aklzLXBfLV9ESVBTR0hDbkJpZklRZU1iSTlURWVtMUNQdW0wWU5KUERtbGZXcDR4bHowb29zU3lDd3RmOFJVeFNwWTBNa3EzV1Nua2RB?oc=5",
+   "source_name": "scanx.trade",
+   "source_domain": "scanx.trade",
+   "published_raw": "Thu, 19 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "PM inaugurates the Kaynes Semicon Plant at Sanand, Gujarat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONE1jcEptVjFpSDJSX1ZSMmNjVlZFUXl0aVk1OGNfb3lyS0NkZzhXMXZSX25yRHp3dlk0Rml3N2d6TFZoSFZ6cXQyVllibldjNDZpcjM1UkVWMVBoRGtwU1U0ZmZUZmJ6VHQtdnptbEljaWtTbjJEbzI2MlkyOGFyUnJKSG5CTVV0ZHZwd1B6VlgxdkluUTdhVjR4VlRQdW1Vc0Yw?oc=5\" target=\"_blank\">PM inaugurates the Kaynes Semicon Plant at Sanand, Gujarat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PM India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONE1jcEptVjFpSDJSX1ZSMmNjVlZFUXl0aVk1OGNfb3lyS0NkZzhXMXZSX25yRHp3dlk0Rml3N2d6TFZoSFZ6cXQyVllibldjNDZpcjM1UkVWMVBoRGtwU1U0ZmZUZmJ6VHQtdnptbEljaWtTbjJEbzI2MlkyOGFyUnJKSG5CTVV0ZHZwd1B6VlgxdkluUTdhVjR4VlRQdW1Vc0Yw?oc=5",
+   "source_name": "PM India",
+   "source_domain": "pmindia.gov.in",
+   "published_raw": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat Police launch AI-powered tool to strengthen NDPS ca…",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLXNUZGtMZWdQVkZwUUhBWnpNS21rQnAwWTF1TGVneEFERkVyN2ZLV0MzRVQybGgyYmVUX214eW9wLVR1TE9RSnBJNTh2bmhzYjJkc240c2tkdjRuZ1dMZTBhbDJvNnlOY1VDLVdFa1JBSzNiWldPOVVZcWpmQnE1d2JWeEQ2UzIxMWI1VW1xalJ2VVAxTFhfNC1taGRrb1RNZ3dTOEQzNEh6ZFBSMDJIc1RTRmZrQUdRRjRCNkJGbXpVTTVVcmlaeTlJVjlpLXhRcjhJZVhLRDhIVDRNTFppLThGMlUycGM?oc=5\" target=\"_blank\">Gujarat Police launch AI-powered tool to strengthen NDPS ca…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gujarat Samachar</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLXNUZGtMZWdQVkZwUUhBWnpNS21rQnAwWTF1TGVneEFERkVyN2ZLV0MzRVQybGgyYmVUX214eW9wLVR1TE9RSnBJNTh2bmhzYjJkc240c2tkdjRuZ1dMZTBhbDJvNnlOY1VDLVdFa1JBSzNiWldPOVVZcWpmQnE1d2JWeEQ2UzIxMWI1VW1xalJ2VVAxTFhfNC1taGRrb1RNZ3dTOEQzNEh6ZFBSMDJIc1RTRmZrQUdRRjRCNkJGbXpVTTVVcmlaeTlJVjlpLXhRcjhJZVhLRDhIVDRNTFppLThGMlUycGM?oc=5",
+   "source_name": "Gujarat Samachar",
+   "source_domain": "english.gujaratsamachar.com",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Read how the Rs 100 crore GUDS initiative and AI integration are transforming government services into a \"single window\" reality",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNHdzSi0zZzNvdVBZN1o3VGdZMGdUd3NoRmx1UlRSeGZaMzF3N2J3dFBUcHNXbnRSWWNZaWNzX0xtNUlDWXY2UDhpSEI2Q0FMdno3V0RrOWVZckU2UF9VRjVzejhSUUM3ZTU5c1AzN0tNUnNtWVFya003NExHNDRtRlIydUk5SC1OWGt0NjNoQ3RSREtHUmZrMW5HTkVLWEFpSzNmcEdJQzFtSHB1NnNpQlRySXVRV0NHNVBPbF9FYnlYUmp4Uy00aWsxVVdxSUl0MXpMeVpMVzhmNWtQcG1fVkZVRTlwc0c3RFRJc29USDg?oc=5\" target=\"_blank\">Read how the Rs 100 crore GUDS initiative and AI integration are transforming government services into a \"single window\" reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpIndia</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNHdzSi0zZzNvdVBZN1o3VGdZMGdUd3NoRmx1UlRSeGZaMzF3N2J3dFBUcHNXbnRSWWNZaWNzX0xtNUlDWXY2UDhpSEI2Q0FMdno3V0RrOWVZckU2UF9VRjVzejhSUUM3ZTU5c1AzN0tNUnNtWVFya003NExHNDRtRlIydUk5SC1OWGt0NjNoQ3RSREtHUmZrMW5HTkVLWEFpSzNmcEdJQzFtSHB1NnNpQlRySXVRV0NHNVBPbF9FYnlYUmp4Uy00aWsxVVdxSUl0MXpMeVpMVzhmNWtQcG1fVkZVRTlwc0c3RFRJc29USDg?oc=5",
+   "source_name": "OpIndia",
+   "source_domain": "opindia.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:07+00:00"
+  }
+ ]
+}

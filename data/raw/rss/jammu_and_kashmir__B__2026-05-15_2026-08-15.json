@@ -1,0 +1,98 @@
+{
+ "region": "Jammu and Kashmir",
+ "group": "B",
+ "query": "(\"Jammu and Kashmir\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Jammu+and+Kashmir%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:47+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Semiconductor and AI Revolution",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGNHQzVjMS1jQXh0ZWJMMjAtWnRZOG9PTDNXT0dNYUxVbE5YTERQUUt0QVl0bS1MYk93UzZmMURNNFRraVZjNm9aTHUzOHBQU1ZhRHZRWWlmUmZGdDRpc1Brb20wTGdQVkhqdEh6NDdMTWw5X0hkWjhNY25oWG5GTUV6RXAwUQ?oc=5\" target=\"_blank\">Semiconductor and AI Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGNHQzVjMS1jQXh0ZWJMMjAtWnRZOG9PTDNXT0dNYUxVbE5YTERQUUt0QVl0bS1MYk93UzZmMURNNFRraVZjNm9aTHUzOHBQU1ZhRHZRWWlmUmZGdDRpc1Brb20wTGdQVkhqdEh6NDdMTWw5X0hkWjhNY25oWG5GTUV6RXAwUQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 13 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Kashmir’s paradox: Popularly elected government without powers of governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1VKZzdlMHh1MjNMQlg1MGVUUUp5dThhTmdzQVd4TzlKR3hPdGh1UjYwQXRLWVlUZ0ZNX3dPamc3ZmtiWExkaUxHUXF2NWdxVTdHVlhkbFJMb2E2M3NJTlJTdFdMRFJyejJwMWpMQ2N0X21CS0tmQ1FvNC1mYnlSdldyeXREdnhfU0pDdWlDeno1NkI5TThBUXZPWFdsQlhPM0HSAagBQVVfeXFMT3loUmx2TVVFWDl2VUtnazJER3FHYWMtT2NxeEdZd0RpNy1CLVVGcVdEOGQwOTdmN1VfSGxDN3hyUUJGZ1N3a3lpSEF3WFFRdVprVVdUNmxJMV9Db0xLWmJhVURFaF9xNlZFSFJieXB2UWxIZzZUb0tFTXB0d041UUN1Mk9TbDh5MnNOc1VuUnFBMUFHelQxdk8tZVpPZVA1MjFaeTVrVE5O?oc=5\" target=\"_blank\">Kashmir’s paradox: Popularly elected government without powers of governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1VKZzdlMHh1MjNMQlg1MGVUUUp5dThhTmdzQVd4TzlKR3hPdGh1UjYwQXRLWVlUZ0ZNX3dPamc3ZmtiWExkaUxHUXF2NWdxVTdHVlhkbFJMb2E2M3NJTlJTdFdMRFJyejJwMWpMQ2N0X21CS0tmQ1FvNC1mYnlSdldyeXREdnhfU0pDdWlDeno1NkI5TThBUXZPWFdsQlhPM0HSAagBQVVfeXFMT3loUmx2TVVFWDl2VUtnazJER3FHYWMtT2NxeEdZd0RpNy1CLVVGcVdEOGQwOTdmN1VfSGxDN3hyUUJGZ1N3a3lpSEF3WFFRdVprVVdUNmxJMV9Db0xLWmJhVURFaF9xNlZFSFJieXB2UWxIZzZUb0tFTXB0d041UUN1Mk9TbDh5MnNOc1VuUnFBMUFHelQxdk8tZVpPZVA1MjFaeTVrVE5O?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Jammu Kashmir Govt Schools Rise by Two As National Numbers Fall: Centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUx4LU1mVURnd1AxN1Y4Sm1Rb1k1cE1UdUtsZFZUUUE4bnZvTUtXVS11cUlOaVM1SEhlQkpxeE12dm82VzRMeU1IT3dUenM5T0c3d1ZlYmFwcnlWY3dhcTY1WmNrVEhSU2gwbFVGZEwyWkZHekU5NWEwOVZPeHNxRnJrWVk5cDlyaGdYcTM0QzB5Slp5Mi1kdDEzNERhWHJlUXMxQw?oc=5\" target=\"_blank\">Jammu Kashmir Govt Schools Rise by Two As National Numbers Fall: Centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kashmir Life</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUx4LU1mVURnd1AxN1Y4Sm1Rb1k1cE1UdUtsZFZUUUE4bnZvTUtXVS11cUlOaVM1SEhlQkpxeE12dm82VzRMeU1IT3dUenM5T0c3d1ZlYmFwcnlWY3dhcTY1WmNrVEhSU2gwbFVGZEwyWkZHekU5NWEwOVZPeHNxRnJrWVk5cDlyaGdYcTM0QzB5Slp5Mi1kdDEzNERhWHJlUXMxQw?oc=5",
+   "source_name": "Kashmir Life",
+   "source_domain": "kashmirlife.net",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "J-K: Rajouri's young entrepreneur Imran Choudhary earns global recognition for AI education startup",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxORTRfQ0JwSDVMdXJSUUNkTkd2STQzQU9XYW5xcTJ3OVdHdWViWkZjWnRtV0RNQko2S09OOHh5VjVYSDRKRENDVkJTb3o1b2pnQmVUMy1XWW0xZ0dmR01XakFjRnQxQW1YMWQxZG03cC0wQXZ5Y2F1OUZwc2l4ZmEyXzAxdmNWaWx4N2VxaE1LblBjemZlWlYzdHNSU1M1bHZLV2RJQ2JqcXFoeDFmUDdWUDY0SkJhT25ZbzVCV3BndVZDX3lLRjVsQUlxQmxkYWx5cjIzRUZkYXg3TGt3ZUlPSElEQllySVdwUm04NW9BZ0xyNEk?oc=5\" target=\"_blank\">J-K: Rajouri's young entrepreneur Imran Choudhary earns global recognition for AI education startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORTRfQ0JwSDVMdXJSUUNkTkd2STQzQU9XYW5xcTJ3OVdHdWViWkZjWnRtV0RNQko2S09OOHh5VjVYSDRKRENDVkJTb3o1b2pnQmVUMy1XWW0xZ0dmR01XakFjRnQxQW1YMWQxZG03cC0wQXZ5Y2F1OUZwc2l4ZmEyXzAxdmNWaWx4N2VxaE1LblBjemZlWlYzdHNSU1M1bHZLV2RJQ2JqcXFoeDFmUDdWUDY0SkJhT25ZbzVCV3BndVZDX3lLRjVsQUlxQmxkYWx5cjIzRUZkYXg3TGt3ZUlPSElEQllySVdwUm04NW9BZ0xyNEk?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Bihar Man Killed By Speeding Scorpio Part Of J&K Deputy Chief Minister's Convoy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0RubDc3UkM2X2lqbUlhenlIcnZBUHFfRUhwWm94Rlk2RHNtMzg1eThidjc1cFR0b21NaHFZVzNHVndtWlNEdFlVWUJoZGlmbXlCa24yaDFTZTVMXy1fekxMSmNTY2FiaGhxbmcxT2EyYUsyeERxMVJ5RDlQQWppMk1CUTQyc3FfOGhuVFg2cF9UVUZDSW1BSmpYcHdRMl8wSDRsN0d2RXI1Wm0zSHdzSVdnRdIBuwFBVV95cUxOMHJ3b1NYQk80SjNmWGlrb20wWUFrcW5oS3RfUlpLZ1h3c0JqeldXQUh2S0hkWWpxYWlmcjB5dXNObEVpSDhXTm56Nl96RVh3SjFfZEtISHF5Q2liY2NmNldQOVN2bTVoUEI3UjVoWTBGSUZYM3ZuRm5GREsxSmwySFltQlNxMmI2ZnJja0RveUoweWRCOVJZVFNTa3NTTy1qVHVFVk5wZHFfcmNqcWc2Q0E4RHVkcC1Ldzh3?oc=5\" target=\"_blank\">Bihar Man Killed By Speeding Scorpio Part Of J&amp;K Deputy Chief Minister's Convoy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0RubDc3UkM2X2lqbUlhenlIcnZBUHFfRUhwWm94Rlk2RHNtMzg1eThidjc1cFR0b21NaHFZVzNHVndtWlNEdFlVWUJoZGlmbXlCa24yaDFTZTVMXy1fekxMSmNTY2FiaGhxbmcxT2EyYUsyeERxMVJ5RDlQQWppMk1CUTQyc3FfOGhuVFg2cF9UVUZDSW1BSmpYcHdRMl8wSDRsN0d2RXI1Wm0zSHdzSVdnRdIBuwFBVV95cUxOMHJ3b1NYQk80SjNmWGlrb20wWUFrcW5oS3RfUlpLZ1h3c0JqeldXQUh2S0hkWWpxYWlmcjB5dXNObEVpSDhXTm56Nl96RVh3SjFfZEtISHF5Q2liY2NmNldQOVN2bTVoUEI3UjVoWTBGSUZYM3ZuRm5GREsxSmwySFltQlNxMmI2ZnJja0RveUoweWRCOVJZVFNTa3NTTy1qVHVFVk5wZHFfcmNqcWc2Q0E4RHVkcC1Ldzh3?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Sun, 09 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Jammu and Kashmir: 786 Trained in AI Under FutureSkills PRIME, 416 Certified",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjQ0TkdzSkNXR25rNzNQRGFhcUp6SDhYeDh3bHlnMkUxWnhOd1RDaHZqVzY2QndyOVVINVY2VmN5Nm1lNDVZcXU5ZnY0ZWI1RTI0bkhWZkpweGVhQlhlZXVqa3Q4LXZOYVVUOHlGOEpQMGtvbk5SZkpfUGpESmo0MUtSSU9MVk14cDVna3NTczhDX1RUYUc3ZzJHUnB1OXdSczF6LWpPTE1XZURtbWM1WWxHSQ?oc=5\" target=\"_blank\">Jammu and Kashmir: 786 Trained in AI Under FutureSkills PRIME, 416 Certified</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chenab Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjQ0TkdzSkNXR25rNzNQRGFhcUp6SDhYeDh3bHlnMkUxWnhOd1RDaHZqVzY2QndyOVVINVY2VmN5Nm1lNDVZcXU5ZnY0ZWI1RTI0bkhWZkpweGVhQlhlZXVqa3Q4LXZOYVVUOHlGOEpQMGtvbk5SZkpfUGpESmo0MUtSSU9MVk14cDVna3NTczhDX1RUYUc3ZzJHUnB1OXdSczF6LWpPTE1XZURtbWM1WWxHSQ?oc=5",
+   "source_name": "The Chenab Times",
+   "source_domain": "thechenabtimes.com",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "PDP-PC Row Reflects the Crisis of Regional Politics in Kashmir",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3VtT1MzZnM1TUl5b19ZR29MMFNtUlBBYlI3aXZtV0xGY3g5VXhCZTdKYkxFREZmcXUwSkEwbVVpT1BoV0ZKMDlQNUppV0gyYTNWaWRZS3RrTWtLRzd3T2o1eHdGVDRJZG5vNUl1QklwYmxTX0NudkpLRmo5UTVkTWljM3NhdUdXOUQxTjJjOWkzeFZMRU9rYTBpR3pCZGRwelhaUExsNUtBdDZreHfSAbQBQVVfeXFMTXA4LU5GWkxxS2pSTWRGVXEzLVhaaTJiVzFFUUZXdUN0UGo5WnI1Y3pNeW5odERwNUhOTVRPcWhVbEg0U0djakZkU1VROGhTS1VXdGpZVTZsRnZmQ09rVGxvUmxEakxfeV9mZDMtNS1ESzY5bkNESFZQNkEzN3JmOC1JaEpxMjFVN2g3OThJNjA3dktQVkczcVNORndBaEt6Q3VpbVNOTDE1N0tCek1CY0pLcy1p?oc=5\" target=\"_blank\">PDP-PC Row Reflects the Crisis of Regional Politics in Kashmir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3VtT1MzZnM1TUl5b19ZR29MMFNtUlBBYlI3aXZtV0xGY3g5VXhCZTdKYkxFREZmcXUwSkEwbVVpT1BoV0ZKMDlQNUppV0gyYTNWaWRZS3RrTWtLRzd3T2o1eHdGVDRJZG5vNUl1QklwYmxTX0NudkpLRmo5UTVkTWljM3NhdUdXOUQxTjJjOWkzeFZMRU9rYTBpR3pCZGRwelhaUExsNUtBdDZreHfSAbQBQVVfeXFMTXA4LU5GWkxxS2pSTWRGVXEzLVhaaTJiVzFFUUZXdUN0UGo5WnI1Y3pNeW5odERwNUhOTVRPcWhVbEg0U0djakZkU1VROGhTS1VXdGpZVTZsRnZmQ09rVGxvUmxEakxfeV9mZDMtNS1ESzY5bkNESFZQNkEzN3JmOC1JaEpxMjFVN2g3OThJNjA3dktQVkczcVNORndBaEt6Q3VpbVNOTDE1N0tCek1CY0pLcy1p?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Fri, 31 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "J&K Statehood Protest: JKNC Seeks Wider Support",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3NRV3cxUTdIRzVZeGM2UDVCVlgydkRnd0JtVDU1b0owZkhtcEJhTjhkWjYyNU1ybkhMb2ZkZ0tBWUZ5Z0lvdmY3OHlPLWlQaEIwMXAxMEVvUXo3OUdTaHp0MUJJMTRYVHdxNHpNNVU0d1dBQXZsUDJkZ2VIWklPaXB2Q1JPeTUxbzBjN0Rn0gGUAUFVX3lxTFBfVWRmZmFKZzRGZHBlOTBVV0VYbDVoYzB1RkRjM0dXbm94dHBuYTZLSVAwX2Nya2tkNnNoRXhHOEF5VmptMHMyZ2dEakdPVWZkeXRWWUNmQUE0VE9kT19lRUdUNkJ3emI0MUVMUEZJSnktd1N4UW53NklpLUNjbXhNbzk3eU1IcG1LR1JtMUs2eTZadmU?oc=5\" target=\"_blank\">J&amp;K Statehood Protest: JKNC Seeks Wider Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3NRV3cxUTdIRzVZeGM2UDVCVlgydkRnd0JtVDU1b0owZkhtcEJhTjhkWjYyNU1ybkhMb2ZkZ0tBWUZ5Z0lvdmY3OHlPLWlQaEIwMXAxMEVvUXo3OUdTaHp0MUJJMTRYVHdxNHpNNVU0d1dBQXZsUDJkZ2VIWklPaXB2Q1JPeTUxbzBjN0Rn0gGUAUFVX3lxTFBfVWRmZmFKZzRGZHBlOTBVV0VYbDVoYzB1RkRjM0dXbm94dHBuYTZLSVAwX2Nya2tkNnNoRXhHOEF5VmptMHMyZ2dEakdPVWZkeXRWWUNmQUE0VE9kT19lRUdUNkJ3emI0MUVMUEZJSnktd1N4UW53NklpLUNjbXhNbzk3eU1IcG1LR1JtMUs2eTZadmU?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:47+00:00"
+  }
+ ]
+}

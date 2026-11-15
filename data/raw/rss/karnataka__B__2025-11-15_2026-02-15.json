@@ -1,0 +1,219 @@
+{
+ "region": "Karnataka",
+ "group": "B",
+ "query": "(Karnataka OR Bengaluru) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Karnataka+OR+Bengaluru%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:34:46+00:00",
+ "item_count": 19,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka to deploy AI-based Smart Enforcement System in 60 high-risk locations across the State",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTF95QmxaaEFXaG9KSEdRRVZvM19YX1BfLWxkVDBiaEVjV2lWRkJHVzhJV2JjQV9mTUlXZGRBY0ZBenhFLTZfdVBvVEJQQ2U3RndMX280NEtWLXd0SllNOGJPNUtxUlBoMlNXZUhvRmhSRGNBYUtVcmtCMWJTeGZGQ2VCaElxTWFFRE1HdFZyOFdOMmVyYk5rWkgwTXlIQmhXRVJGcElkcWFWcEJ1cnpRNloxUlJBWndmYVczbjFjMmxCNFpUYTZxbXkzNG9QV095ZDlVUnhWVlJrUm5xWnNpbENOQ2c3VFh3WmE0Wm1YWjVkTVJrU1HSAfwBQVVfeXFMUDZfYi1GTUtuREVfLWNNTnFtbVlfcklkdS1EZnRzc2hTaXh5QW1NSktBcjBBYU5scEQyVldSOHZpd1gzNmwyOF9JT2tjbmlwWXRZWDU2aUpnODNJTm8xRDloUXlOcUJvZFlmNF9hVmdNcUMyQXhBMzlRWlU4VzNRVmQ5VjIwVFVURGp4X0o0S044Xy0yVkNfcnhzaDRTUVFtY2VMbUxXMlBHSFhrckxJbUVJckdZM0Z6dmE0OUgwZ1BBS0MwU2l5Q3BtYUl2TFFET2JOdEt0dUxmY1loVFlOVFlWd0p4Z1U2dU91M3JiTXJONmJQVGo3R1hod0NR?oc=5\" target=\"_blank\">Karnataka to deploy AI-based Smart Enforcement System in 60 high-risk locations across the State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTF95QmxaaEFXaG9KSEdRRVZvM19YX1BfLWxkVDBiaEVjV2lWRkJHVzhJV2JjQV9mTUlXZGRBY0ZBenhFLTZfdVBvVEJQQ2U3RndMX280NEtWLXd0SllNOGJPNUtxUlBoMlNXZUhvRmhSRGNBYUtVcmtCMWJTeGZGQ2VCaElxTWFFRE1HdFZyOFdOMmVyYk5rWkgwTXlIQmhXRVJGcElkcWFWcEJ1cnpRNloxUlJBWndmYVczbjFjMmxCNFpUYTZxbXkzNG9QV095ZDlVUnhWVlJrUm5xWnNpbENOQ2c3VFh3WmE0Wm1YWjVkTVJrU1HSAfwBQVVfeXFMUDZfYi1GTUtuREVfLWNNTnFtbVlfcklkdS1EZnRzc2hTaXh5QW1NSktBcjBBYU5scEQyVldSOHZpd1gzNmwyOF9JT2tjbmlwWXRZWDU2aUpnODNJTm8xRDloUXlOcUJvZFlmNF9hVmdNcUMyQXhBMzlRWlU4VzNRVmQ5VjIwVFVURGp4X0o0S044Xy0yVkNfcnhzaDRTUVFtY2VMbUxXMlBHSFhrckxJbUVJckdZM0Z6dmE0OUgwZ1BBS0MwU2l5Q3BtYUl2TFFET2JOdEt0dUxmY1loVFlOVFlWd0p4Z1U2dU91M3JiTXJONmJQVGo3R1hod0NR?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka to launch AI-ready, low-cost personal computer ‘KEO’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmprdnpuOUE3UU9DV0Zid3VLcmpyS2g3SVdyZV9hVHhkV0p6QTE4MFNMTGZIMVA1Q2VWbkY3OTNkRHA2dVhzVmVPSEVBZG5sczZXak85Y2otNnc1RXhXbFluWFpvUTBHM2dqWXpZV21sM0lrZXRNTHFNSjN2TmtTcW95Nl9ab0RyeUw3Rk1nOGszeEZqejZBTjRCbW1lUDFibDd3QWFiMWZTQkRqWW9RQmVjUjE2bEJhdlJnZ9IBwgFBVV95cUxOMS1ZQnp0NG90NWM5clBkUXlobHdHWVNCMXJac0VZT05VTWNkaDZoMmxYWUFvckRKNEVFZldjR01WaWlNUWVHTjcxbmRIdGtCeVFiek5NdkF2cEdsT3JkVC1HSU5ZckpLX0FwZk12dEwweW43blJsOFBNR1lNNDRxZHpQSnR3VzBRSFNnVjVTLVY0WS1HX0NmaWxZWk5Fa29UY3Zxb015SlRyRWYyTG1Zb0FST2RCYWZBMmtFMmR4SVZ6UQ?oc=5\" target=\"_blank\">Karnataka to launch AI-ready, low-cost personal computer ‘KEO’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmprdnpuOUE3UU9DV0Zid3VLcmpyS2g3SVdyZV9hVHhkV0p6QTE4MFNMTGZIMVA1Q2VWbkY3OTNkRHA2dVhzVmVPSEVBZG5sczZXak85Y2otNnc1RXhXbFluWFpvUTBHM2dqWXpZV21sM0lrZXRNTHFNSjN2TmtTcW95Nl9ab0RyeUw3Rk1nOGszeEZqejZBTjRCbW1lUDFibDd3QWFiMWZTQkRqWW9RQmVjUjE2bEJhdlJnZ9IBwgFBVV95cUxOMS1ZQnp0NG90NWM5clBkUXlobHdHWVNCMXJac0VZT05VTWNkaDZoMmxYWUFvckRKNEVFZldjR01WaWlNUWVHTjcxbmRIdGtCeVFiek5NdkF2cEdsT3JkVC1HSU5ZckpLX0FwZk12dEwweW43blJsOFBNR1lNNDRxZHpQSnR3VzBRSFNnVjVTLVY0WS1HX0NmaWxZWk5Fa29UY3Zxb015SlRyRWYyTG1Zb0FST2RCYWZBMmtFMmR4SVZ6UQ?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "1M1B Foundation launches green skills & applied AI centre of excellence in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFc3LWEzX0M1WThmTHhaZFJ6NEtiSEEyTTEtUVBlQUZYTjJoM0FjbWNYTzROcEYtSlJuS3NMSlJramtydXlaT1pfeHBGSWt0OUFQVFFZZk9fTTVfOGxMMDVUNk1jdFRzU2FFNWowSG1NZzBsc1NDenB4b0hZMEpDSGZqMUdoN0pDVDlQZS1ILVNOWDlQXzRsTWUzYVlScE5DTlk2Y2F1dmRxWEVwMFRmbTVyTDkxdVFTUEczN2NkTDZ4ZWdoT01hZ0pKRF9RZVBYR0tzSXpmcGF4aXZ4elc0MFk0ZHBPMWxFLUFkV2J1ZXg5dVdrb01mR21ZT2_SAYACQVVfeXFMTWd2Uk45WDNScUVlZ3RIeHpGZEk2VmZqZFhrc1JWTXdQWlZyNUFtcVhjc0NnRWxNWUFFeERtcVFJNldLQ0wwSlZqX2NuYU0xdjFtTDNDZVlZMmFYTWJacnZJQ01aLVZJMU9IWnZUTjd2RzU1Uy1CanQ3RmV6b2MzcllYVkQyVnIzX2pLYU53NURKLS1GNS1jcXBsZ2xnN3djVGRpMTFPWWNtUDNlWXlWaXUzcW9UMFF1MjNpODNPUDY3ckh5MFptYkxWcnhWWE10YTNFZzJ0aUNNODZYb0xBR2pQbzRENmNUZS04Sk9lSTlERkRrNnhmN3F2TGoxRE1tTA?oc=5\" target=\"_blank\">1M1B Foundation launches green skills & applied AI centre of excellence in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFc3LWEzX0M1WThmTHhaZFJ6NEtiSEEyTTEtUVBlQUZYTjJoM0FjbWNYTzROcEYtSlJuS3NMSlJramtydXlaT1pfeHBGSWt0OUFQVFFZZk9fTTVfOGxMMDVUNk1jdFRzU2FFNWowSG1NZzBsc1NDenB4b0hZMEpDSGZqMUdoN0pDVDlQZS1ILVNOWDlQXzRsTWUzYVlScE5DTlk2Y2F1dmRxWEVwMFRmbTVyTDkxdVFTUEczN2NkTDZ4ZWdoT01hZ0pKRF9RZVBYR0tzSXpmcGF4aXZ4elc0MFk0ZHBPMWxFLUFkV2J1ZXg5dVdrb01mR21ZT2_SAYACQVVfeXFMTWd2Uk45WDNScUVlZ3RIeHpGZEk2VmZqZFhrc1JWTXdQWlZyNUFtcVhjc0NnRWxNWUFFeERtcVFJNldLQ0wwSlZqX2NuYU0xdjFtTDNDZVlZMmFYTWJacnZJQ01aLVZJMU9IWnZUTjd2RzU1Uy1CanQ3RmV6b2MzcllYVkQyVnIzX2pLYU53NURKLS1GNS1jcXBsZ2xnN3djVGRpMTFPWWNtUDNlWXlWaXUzcW9UMFF1MjNpODNPUDY3ckh5MFptYkxWcnhWWE10YTNFZzJ0aUNNODZYb0xBR2pQbzRENmNUZS04Sk9lSTlERkRrNnhmN3F2TGoxRE1tTA?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka govt launches AI-ready KEO computer priced at Rs 18,999",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFBSQVN1ZUFUQmZQa2luZVVKdUVSOTB5ck1tNF9oOWNUUTdTZ25hc1g2UkRtR0VLUGwxT3BjLTZwR1pvQWdvY2g5RFRLSjRtZ2htYmtSVmV1ejNNdzRuZkZYYjd5LVRneEdGZnZmWmlKMXAzRGljc1NLdTJEajNBdjJtYVVlcnV4ZE5Cb2JGUnYtWWJxb0txSDRiUDdsSWlNcnU1LVRHZkFSdw?oc=5\" target=\"_blank\">Karnataka govt launches AI-ready KEO computer priced at Rs 18,999</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Federal</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFBSQVN1ZUFUQmZQa2luZVVKdUVSOTB5ck1tNF9oOWNUUTdTZ25hc1g2UkRtR0VLUGwxT3BjLTZwR1pvQWdvY2g5RFRLSjRtZ2htYmtSVmV1ejNNdzRuZkZYYjd5LVRneEdGZnZmWmlKMXAzRGljc1NLdTJEajNBdjJtYVVlcnV4ZE5Cb2JGUnYtWWJxb0txSDRiUDdsSWlNcnU1LVRHZkFSdw?oc=5",
+   "source_name": "The Federal",
+   "source_domain": "thefederal.com",
+   "published_raw": "Tue, 18 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "BJP shares AI spoof of Siddaramaiah snapping at ‘resign’ comment amid leadership row",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOODJ2ZG8zbjhIOHBJQlJydV9yNmh2cl8teU41N1Q2Qm1wVnI5d05MOXlwbUtkWUJHTDN4QU11RFpPbk9rTDFqSDNVRVdWek50T2FvQzRNa0VpbGkwMk9oOWRsbmpyLVdPZjJQcXBodXJXX3NtajRRNVJJZnd3TnBxRFVmVzRPanVlR3FoajJTSTlraWplMl95VE11eTlTRzVjRnd2cjdhZkJQNUZzVG5DQ0lId0xGMk5mVVpOb2ItdmpBdV9xMEFfQzZwVzNTTTZNSjVHSlVGcGk?oc=5\" target=\"_blank\">BJP shares AI spoof of Siddaramaiah snapping at ‘resign’ comment amid leadership row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOODJ2ZG8zbjhIOHBJQlJydV9yNmh2cl8teU41N1Q2Qm1wVnI5d05MOXlwbUtkWUJHTDN4QU11RFpPbk9rTDFqSDNVRVdWek50T2FvQzRNa0VpbGkwMk9oOWRsbmpyLVdPZjJQcXBodXJXX3NtajRRNVJJZnd3TnBxRFVmVzRPanVlR3FoajJTSTlraWplMl95VE11eTlTRzVjRnd2cjdhZkJQNUZzVG5DQ0lId0xGMk5mVVpOb2ItdmpBdV9xMEFfQzZwVzNTTTZNSjVHSlVGcGk?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Thu, 20 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Vocallabs Named Among Top 5 AI Startups in Karnataka by State Government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWVObi1jbDFuZDc0eU9CUXhZRnV3cUExTl8yRmJsRG5FUFpGX1I0YTQxNjZnS21IZF84SGsyTDlYMWxGQW9EU2RjT0dISW9QaXJQdjNPWmM5RER2ZnlnSW5XbVRyZXpUaG5PMmJkbEJUa3E5MXJSRmZOVm01VEJEd3BibEJJbEV4bWF5QXM1dExscnM1SXZyMTZqSW5nSjJ4eVBleVByX3pwV0pOZVh1cmpkQ0VHZUxHdTl1WNIBwgFBVV95cUxNeVl6N3NSYkNkcWFQUTNYdFh3VndKSU16dUZpVzgwQ09fMXNmTlJURHdOR0FnbDNXci0yYl9LbUk0V2xyMWpuZnRRVmpGaElCS21FbGtQNGdjSWIxczRNNmppOTVVZ3hJSE9WUTFmMHhnUWdjSTlubGMxNVVBb3Z4Vnc3NTlLdEszYVg5SHFNUjhUYjJsZTJOTEtCakpkVllpRE5vX3NOMW01N2ZtNUN2TDNoWDIyNWpKdHIxRVhCOC1wZw?oc=5\" target=\"_blank\">Vocallabs Named Among Top 5 AI Startups in Karnataka by State Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWVObi1jbDFuZDc0eU9CUXhZRnV3cUExTl8yRmJsRG5FUFpGX1I0YTQxNjZnS21IZF84SGsyTDlYMWxGQW9EU2RjT0dISW9QaXJQdjNPWmM5RER2ZnlnSW5XbVRyZXpUaG5PMmJkbEJUa3E5MXJSRmZOVm01VEJEd3BibEJJbEV4bWF5QXM1dExscnM1SXZyMTZqSW5nSjJ4eVBleVByX3pwV0pOZVh1cmpkQ0VHZUxHdTl1WNIBwgFBVV95cUxNeVl6N3NSYkNkcWFQUTNYdFh3VndKSU16dUZpVzgwQ09fMXNmTlJURHdOR0FnbDNXci0yYl9LbUk0V2xyMWpuZnRRVmpGaElCS21FbGtQNGdjSWIxczRNNmppOTVVZ3hJSE9WUTFmMHhnUWdjSTlubGMxNVVBb3Z4Vnc3NTlLdEszYVg5SHFNUjhUYjJsZTJOTEtCakpkVllpRE5vX3NOMW01N2ZtNUN2TDNoWDIyNWpKdHIxRVhCOC1wZw?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "The spotlight is shifting to HSR Layout as Bengaluru strengthens its deep tech credentials. With the launch of the Centre for Applied AI for Tech Solutions (CATS) at the KEONICS facility, the focus is firmly on building and deploying applied AI at scale. Backed b",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlp5YVkzWWJZVG80MV9MVDAta2hSakZYcjlzdzJEWDFGaEN1SkFKRUV3T3NUSVVDMTZVSHh5d3VCdTJ4a3QzclA1WWpLclM2SjgyZUoycS1mclp4ZkliMFNhbmc4VlN0c1JkSmxjWF9HN3lyMFFOQ1BlbUVwS1NvUl9xd19TdHJfQ0p3ckp3VXhVSzVMMk4wUjQyWDdUSXZZd2tLYnpzQ2pVal9ab3M2OFo1SnRfbU5WUzhQZVhlS1NYQkRCdHFIT2lHTU0?oc=5\" target=\"_blank\">The spotlight is shifting to HSR Layout as Bengaluru strengthens its deep tech credentials. With the launch of the Centre for Applied AI for Tech Solutions (CATS) at the KEONICS facility, the focus is firmly on building and deploying applied AI at scale. Backed b</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlp5YVkzWWJZVG80MV9MVDAta2hSakZYcjlzdzJEWDFGaEN1SkFKRUV3T3NUSVVDMTZVSHh5d3VCdTJ4a3QzclA1WWpLclM2SjgyZUoycS1mclp4ZkliMFNhbmc4VlN0c1JkSmxjWF9HN3lyMFFOQ1BlbUVwS1NvUl9xd19TdHJfQ0p3ckp3VXhVSzVMMk4wUjQyWDdUSXZZd2tLYnpzQ2pVal9ab3M2OFo1SnRfbU5WUzhQZVhlS1NYQkRCdHFIT2lHTU0?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "From agricultural land to AI City: Farmers' resistance to the Greater Bengaluru Integrated Township Project in Bidadi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR1M4TGRfTndzeG1zZUNyU0ZCWW56ajF6VW4yRDRvTS01ay1RNmREZWg5U0JFYjQyU3pSTWt1a0V6ZGFnWjRVUVNGV2NyaGE4RGR2VUloQklVS3hTbG50anpqV1JIbTdwdG96QU1KOXdxdHk5cUgtZW03aDdFbXlrRVdkMGZDYUYyTnFLcmJFY0JsTElfSHdjSUFPMTNKSXdoZmRsbV9SRFl5VE1jMFNfX0RfWXRNeUlabE15NXF3WmlWdjFNeFh1aVpERi1VMEs1dk9hMGhRZ1pPdXNBRXBZNHVjTHNFaXk1bEdKM3hFYUY?oc=5\" target=\"_blank\">From agricultural land to AI City: Farmers' resistance to the Greater Bengaluru Integrated Township Project in Bidadi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Land Conflict Watch</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR1M4TGRfTndzeG1zZUNyU0ZCWW56ajF6VW4yRDRvTS01ay1RNmREZWg5U0JFYjQyU3pSTWt1a0V6ZGFnWjRVUVNGV2NyaGE4RGR2VUloQklVS3hTbG50anpqV1JIbTdwdG96QU1KOXdxdHk5cUgtZW03aDdFbXlrRVdkMGZDYUYyTnFLcmJFY0JsTElfSHdjSUFPMTNKSXdoZmRsbV9SRFl5VE1jMFNfX0RfWXRNeUlabE15NXF3WmlWdjFNeFh1aVpERi1VMEs1dk9hMGhRZ1pPdXNBRXBZNHVjTHNFaXk1bEdKM3hFYUY?oc=5",
+   "source_name": "Land Conflict Watch",
+   "source_domain": "landconflictwatch.org",
+   "published_raw": "Thu, 12 Feb 2026 17:56:42 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka to launch own affordable AI computer: IT Minister Priyank",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0U3M3A5MGhsVnFSRnQ1MUpiT0JKQ2s1YzhHQy1GR1YyeFc1WjVRLW5PWEg3dWoyMEJhN280Zmxrbm9hTVhERUh2dnBWVjR1dndKV1ZkZVJ1NEQ4Y3A2SzNGcGpNTUJQV045Q3JrSGdOLTBWa0czYUNkLVlhSi10SkRVTFFHRldrZXdRS1otQ19ZWVB1dmdGbzFTcmFId2ZXWnpJRnBZTWY4WVBzN295ekpEdndKNWoxRXh3Um1GQ3VQdTFzOS1z0gHUAUFVX3lxTFBRdlJNdkMyNW5qeUxGNlJ1Z2xlMjBHQWFXN1BxZzRsX21LYXJaa1VZR1RsRjlWLTVGQ19Md054SXhJWTFucU5rQ21HbXRuTWRKX2Y2N1hnQ0JqTlMzUW1sdzR3cmpKQzA1Q19rRmk0T01SWmxBbmVGNkgzeWx0ZU5BME0yd1ltbjd4V25Sa2dJLUxiZnlweFY3TTdES05aR25meTViQnRiNmpBVEJ3TzVZeVVDRnJPUHpuekNVVVZCTGE3LTJiRVFkbzZEWmpucW5hUHlC?oc=5\" target=\"_blank\">Karnataka to launch own affordable AI computer: IT Minister Priyank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0U3M3A5MGhsVnFSRnQ1MUpiT0JKQ2s1YzhHQy1GR1YyeFc1WjVRLW5PWEg3dWoyMEJhN280Zmxrbm9hTVhERUh2dnBWVjR1dndKV1ZkZVJ1NEQ4Y3A2SzNGcGpNTUJQV045Q3JrSGdOLTBWa0czYUNkLVlhSi10SkRVTFFHRldrZXdRS1otQ19ZWVB1dmdGbzFTcmFId2ZXWnpJRnBZTWY4WVBzN295ekpEdndKNWoxRXh3Um1GQ3VQdTFzOS1z0gHUAUFVX3lxTFBRdlJNdkMyNW5qeUxGNlJ1Z2xlMjBHQWFXN1BxZzRsX21LYXJaa1VZR1RsRjlWLTVGQ19Md054SXhJWTFucU5rQ21HbXRuTWRKX2Y2N1hnQ0JqTlMzUW1sdzR3cmpKQzA1Q19rRmk0T01SWmxBbmVGNkgzeWx0ZU5BME0yd1ltbjd4V25Sa2dJLUxiZnlweFY3TTdES05aR25meTViQnRiNmpBVEJ3TzVZeVVDRnJPUHpuekNVVVZCTGE3LTJiRVFkbzZEWmpucW5hUHlC?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 18 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "BTS to see launch of KEO, Karnataka’s own AI-ready computer",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmthaGd5OXBBTlR4Z2FtVy1rUmQ3dGFPYVpEcDZQLUtEVjd4dkh6V251aDJja0J5N0FVelJGeUlHNjI0dURTT003NDRfQW1RREhsa0Nlck1JZERFeEM2YzNjT0t0Z2ZQYnNZWXYxcmZMd2c0dkkxQklHYVVSeXNrUmY3S0Y3N2VKaXNRUnBGSFN1STlqLXRYQmluaHhRYnI3Ni1oWjJQa3UxZERUSDJZM0oyamNMU05CWUQ0Q0gzSEZwd9IByAFBVV95cUxOZ3RZLW9vcnpIWkswdXFLSmo1Q1hIUXNDOG5BakNETkxWRE1iMm1wc201ekVPRHVhS1RvX1ROX0JZcTRBMmxQeU40MnBmTTZGemcxdVFSd1JaT181NERCaF9vLUdyQVotbGYyLVdYSTVOWk12M3loc1o0MmVfSDRsQ002ZDhLaGRPMkVfdkpmcWRoMjVZNVdlb3VVNEFjUjRJbjRWbE5FYkZaeTZNbXd6S3JYRlhVdXVvZWJLa2toVW9VVW11MzBpdQ?oc=5\" target=\"_blank\">BTS to see launch of KEO, Karnataka’s own AI-ready computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmthaGd5OXBBTlR4Z2FtVy1rUmQ3dGFPYVpEcDZQLUtEVjd4dkh6V251aDJja0J5N0FVelJGeUlHNjI0dURTT003NDRfQW1RREhsa0Nlck1JZERFeEM2YzNjT0t0Z2ZQYnNZWXYxcmZMd2c0dkkxQklHYVVSeXNrUmY3S0Y3N2VKaXNRUnBGSFN1STlqLXRYQmluaHhRYnI3Ni1oWjJQa3UxZERUSDJZM0oyamNMU05CWUQ0Q0gzSEZwd9IByAFBVV95cUxOZ3RZLW9vcnpIWkswdXFLSmo1Q1hIUXNDOG5BakNETkxWRE1iMm1wc201ekVPRHVhS1RvX1ROX0JZcTRBMmxQeU40MnBmTTZGemcxdVFSd1JaT181NERCaF9vLUdyQVotbGYyLVdYSTVOWk12M3loc1o0MmVfSDRsQ002ZDhLaGRPMkVfdkpmcWRoMjVZNVdlb3VVNEFjUjRJbjRWbE5FYkZaeTZNbXd6S3JYRlhVdXVvZWJLa2toVW9VVW11MzBpdQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Bengaluru vlogger files complaint over AI-generated obscene video; Hennur police launch manhunt",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWHV6M0JYTjZNckF2dTB4dWhudEhDWjhKQmc3NUh6YTVnMTNmMF9WYVR6V3VJZFhvSGhyMEp5NFBGbUF5dG9xSm5ONzRwQ1JTT2RkU0NyZmV0MERTX2Q0XzN1dnJQZUE0UUJmd19ieS1zVlJJX0dleFpodUc5QmJJZjE0eFVRV0dBUERLUkVKRTVoaWtPNG4xZmtscDdTLWRGZ0ZPdDFyNFlna0dHdW84V3VYZjIxejIwejh6RHhEVEtXLUhIQnpiSjZBSnZOdDg3eDlGbURHaFBqSG8yZC05MnV1M0x5WFVfM2VvTzd3?oc=5\" target=\"_blank\">Bengaluru vlogger files complaint over AI-generated obscene video; Hennur police launch manhunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWHV6M0JYTjZNckF2dTB4dWhudEhDWjhKQmc3NUh6YTVnMTNmMF9WYVR6V3VJZFhvSGhyMEp5NFBGbUF5dG9xSm5ONzRwQ1JTT2RkU0NyZmV0MERTX2Q0XzN1dnJQZUE0UUJmd19ieS1zVlJJX0dleFpodUc5QmJJZjE0eFVRV0dBUERLUkVKRTVoaWtPNG4xZmtscDdTLWRGZ0ZPdDFyNFlna0dHdW84V3VYZjIxejIwejh6RHhEVEtXLUhIQnpiSjZBSnZOdDg3eDlGbURHaFBqSG8yZC05MnV1M0x5WFVfM2VvTzd3?oc=5",
+   "source_name": "Deccan Herald",
+   "source_domain": "deccanherald.com",
+   "published_raw": "Sat, 13 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "FedEx Strengthens India’s Export Corridors with New Integrated Hub in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdG5ORW9ZZW9fM0RhMWdUMEs5UEl6bjNGa3JEaDVtT09UcVY4SVJTMjBweEtqX3ZxY09SSVd2YWxlYldFZVJBU0ZaZ01OQXk3NVhKMk5aeGJxb1V1RmhIRThYTENDYXpIWjg5ZXo2NFFWbzYtakZpdDZRTFpuUnhNUTZzelh4dkJoOWU1X0NRZkg2R1FHbXA4V0ZMbkJFVFNBU0dxUHJrX3FVaGtHdE1SRWdCemZIZkl6NTRIQlBiT0ZwQUUtLVBn?oc=5\" target=\"_blank\">FedEx Strengthens India’s Export Corridors with New Integrated Hub in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FedEx newsroom</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdG5ORW9ZZW9fM0RhMWdUMEs5UEl6bjNGa3JEaDVtT09UcVY4SVJTMjBweEtqX3ZxY09SSVd2YWxlYldFZVJBU0ZaZ01OQXk3NVhKMk5aeGJxb1V1RmhIRThYTENDYXpIWjg5ZXo2NFFWbzYtakZpdDZRTFpuUnhNUTZzelh4dkJoOWU1X0NRZkg2R1FHbXA4V0ZMbkJFVFNBU0dxUHJrX3FVaGtHdE1SRWdCemZIZkl6NTRIQlBiT0ZwQUUtLVBn?oc=5",
+   "source_name": "FedEx newsroom",
+   "source_domain": "newsroom.fedex.com",
+   "published_raw": "Wed, 03 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Cabinet clears AI-powered software to identify hate speech, misinformation and malicious campaigns",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYTZmMmpoa282NUVxcnRVODB5LTEtWXFWaEdacXU2RERNYVpIdkg3bWxjeEVadjZsblJpT1ZlR0Vtd2pYUWphcnlCeHhuc2VSNTZ3VWxEWXE4dV9ieWRVUFJJekVOMHlISkFPc3BUUFlNQURQRVJQYkFMdkJWYV9rU3NuLW1ZTW1kTl9IdHBicEwyN0d5a290d293R0pENkxOcXFrbm5BN0FsUm9sNjNTa2t3SkdpT0JnM3FXYTFoSFowelVwVFlZbjJaN0JRazdnUDBQRi1KTUo0NXdfNUhrck5XRDREOGdKV0dRMzBRM3VvZGxDZ0xMZm130gGAAkFVX3lxTE1Xei1LXzdnbFRIODk2RHpqSmpkRVlaSUZpYi1lTXRJc1N1MGw0SWV6dWJwdzViZ2NVSHZkaTdGdk5qcktmX05fNW8zUDc5b3pCV1NCeWxzMjZCNTlUZjUtOFowNXl6MHlqZnpzQVEyRW1sdVhSWnVxRmxpWjgwbTJzZDAwZjZ6cDNoR2VfOWlPUnFCSnhoUjlmTE9nN2NWeU5XckVmQ3RXY09lZnB5VzRhSXZzQUV4MTdNSU1NUDBlX1hncGI4ZzBVX1BfbTBpcnRWRklOVmxCMUtrUzNyd21wS01icTBXaGFQbDBDa2x4WFhFTEFvTjZJNGhQZ2U5b0k?oc=5\" target=\"_blank\">Cabinet clears AI-powered software to identify hate speech, misinformation and malicious campaigns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYTZmMmpoa282NUVxcnRVODB5LTEtWXFWaEdacXU2RERNYVpIdkg3bWxjeEVadjZsblJpT1ZlR0Vtd2pYUWphcnlCeHhuc2VSNTZ3VWxEWXE4dV9ieWRVUFJJekVOMHlISkFPc3BUUFlNQURQRVJQYkFMdkJWYV9rU3NuLW1ZTW1kTl9IdHBicEwyN0d5a290d293R0pENkxOcXFrbm5BN0FsUm9sNjNTa2t3SkdpT0JnM3FXYTFoSFowelVwVFlZbjJaN0JRazdnUDBQRi1KTUo0NXdfNUhrck5XRDREOGdKV0dRMzBRM3VvZGxDZ0xMZm130gGAAkFVX3lxTE1Xei1LXzdnbFRIODk2RHpqSmpkRVlaSUZpYi1lTXRJc1N1MGw0SWV6dWJwdzViZ2NVSHZkaTdGdk5qcktmX05fNW8zUDc5b3pCV1NCeWxzMjZCNTlUZjUtOFowNXl6MHlqZnpzQVEyRW1sdVhSWnVxRmxpWjgwbTJzZDAwZjZ6cDNoR2VfOWlPUnFCSnhoUjlmTE9nN2NWeU5XckVmQ3RXY09lZnB5VzRhSXZzQUV4MTdNSU1NUDBlX1hncGI4ZzBVX1BfbTBpcnRWRklOVmxCMUtrUzNyd21wS01icTBXaGFQbDBDa2x4WFhFTEFvTjZJNGhQZ2U5b0k?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Air India grounds a Dreamliner after pilot reports 'possible defect' in fuel control switch on landing in",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQZno2SkpJRnQtSTNtYnFFenZfRXl1c2N4dVdvRE1xbU9xb0Q0MTFIX1lwQ2JjTmVES0VXbWh6d21PcEN2TjQ3Q2hBcWY1S21jZElRa1AxU01TcEZyWEJ1NW9Qc1VRbUliZlFzQ29UWklEVEdDaV9yeWRHS2labjRwRDE4XzFjQmdvRmQwYnlnS1ZpS1g1d2d1enJ4ZnNsSTk1ckp0V284Q3NWLWRlUlliUVM1czF2ZDFQcHdpdEdPM3BNWGhjWmtEek40UDdNWkhFeWdLTUlILWpXWnotNXFZamcxVWhxYXdCUEV1aTliSWRqWFNaaWs1VHZRWjg2dklMeFdVNHkzSUc5TEdRc1Q0YVhxZko3cHhPME5LZUdR0gGjAkFVX3lxTE1qWDVMLTRIeDRGbzlzZlgyYk9NaEh0M0prWVhyYkVnZzNSMGFsSUlXQjdpVktyYlpIVy1nSHUycXg2YjhSYklDVWpEYXVoTHdxbFdXQ1FCUTJmY3I1bERSQzduaXZZdl9fRExQN2dzTkY2dGViZ08zNi0yUjllUHdOMHlvOGxIY05WYkZTaXN6aGxhQ0RDdEkyQTVNT1ZLUk5xTFVOcVQySzVDbS14YzNrc296SFJVa2JVb2RzOXBhWTlOem1hVV93OUk5QUQycHpTSll6ZFc4S2UyVmx4Mktxd1M1dGpKSE5zSEo0Y0xJM20yRVN1VkZjZVpoS2h2SGxLdGN2czNTRU1qYzBRUDR5QngtMG5IbkNJZkszZ1BVYWdxbw?oc=5\" target=\"_blank\">Air India grounds a Dreamliner after pilot reports 'possible defect' in fuel control switch on landing in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQZno2SkpJRnQtSTNtYnFFenZfRXl1c2N4dVdvRE1xbU9xb0Q0MTFIX1lwQ2JjTmVES0VXbWh6d21PcEN2TjQ3Q2hBcWY1S21jZElRa1AxU01TcEZyWEJ1NW9Qc1VRbUliZlFzQ29UWklEVEdDaV9yeWRHS2labjRwRDE4XzFjQmdvRmQwYnlnS1ZpS1g1d2d1enJ4ZnNsSTk1ckp0V284Q3NWLWRlUlliUVM1czF2ZDFQcHdpdEdPM3BNWGhjWmtEek40UDdNWkhFeWdLTUlILWpXWnotNXFZamcxVWhxYXdCUEV1aTliSWRqWFNaaWs1VHZRWjg2dklMeFdVNHkzSUc5TEdRc1Q0YVhxZko3cHhPME5LZUdR0gGjAkFVX3lxTE1qWDVMLTRIeDRGbzlzZlgyYk9NaEh0M0prWVhyYkVnZzNSMGFsSUlXQjdpVktyYlpIVy1nSHUycXg2YjhSYklDVWpEYXVoTHdxbFdXQ1FCUTJmY3I1bERSQzduaXZZdl9fRExQN2dzTkY2dGViZ08zNi0yUjllUHdOMHlvOGxIY05WYkZTaXN6aGxhQ0RDdEkyQTVNT1ZLUk5xTFVOcVQySzVDbS14YzNrc296SFJVa2JVb2RzOXBhWTlOem1hVV93OUk5QUQycHpTSll6ZFc4S2UyVmx4Mktxd1M1dGpKSE5zSEo0Y0xJM20yRVN1VkZjZVpoS2h2SGxLdGN2czNTRU1qYzBRUDR5QngtMG5IbkNJZkszZ1BVYWdxbw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Can KEO steal the limelight at Bengaluru Tech Summit 2025?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdFZ2R2lKeVVYQUNQX3MyWkJmX0ZBRjNDQ1ZjTmV3RzlwTms0NmNNOHlvcDhSbm9YY0xIR3hmSnZ5NldhVTh6ZHNKNWg2TmRLd1E1ZTlGT2w0SVU3Zy1kSHdXdklLeVpvRDlJSTdUc3hRbmJhdzVQc0p6T25UNTI4bTRlOHRxU3p6NjFTNFVJSUtQMVFUZnJTTEY2ZWNmQkhuamxoZHp1LVU2UEo3eG1RSXNfSTlCMUExTjJRTzhXSHZGd2RHaFUyVVU3Rlo3RVZFanpQejlYaEFvSDZER2pITVBaV0o3a0JueU1LNm05ekxyZW13WFFDUnJyTXpTUdIBhAJBVV95cUxOTnJqTG50RzVheXFFc0htb2Vhb0J5WFUxRVEzYmRmOHYwd3M4TVVBSjNZZkdrODJGQVNrZW9WeG9zQlpieDZjOXBHb2pEYzgzZFBkaTFLY2R5TVprNUl0Y1JqUHNveWtPTEJENTgzNlByUFE4bGtHcld3LXRwM1NiVHpCQ0JNRzZsRDBST1oxY0k5a3EzY21uQmN4bkJsYXM1OTh2R2hCVlR1cHQ1MFN0RHQ5SllmOHlrNGIyYWlfNnBmSW1pejM4Wlc3d3V1S3c4VGFBVWE0TkNOVUZ1aVNLdE5WcEhoa3VUTEJrUWNNYnhHUHN0ZUhfdks4XzhaSzBTWE5ldg?oc=5\" target=\"_blank\">Can KEO steal the limelight at Bengaluru Tech Summit 2025?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdFZ2R2lKeVVYQUNQX3MyWkJmX0ZBRjNDQ1ZjTmV3RzlwTms0NmNNOHlvcDhSbm9YY0xIR3hmSnZ5NldhVTh6ZHNKNWg2TmRLd1E1ZTlGT2w0SVU3Zy1kSHdXdklLeVpvRDlJSTdUc3hRbmJhdzVQc0p6T25UNTI4bTRlOHRxU3p6NjFTNFVJSUtQMVFUZnJTTEY2ZWNmQkhuamxoZHp1LVU2UEo3eG1RSXNfSTlCMUExTjJRTzhXSHZGd2RHaFUyVVU3Rlo3RVZFanpQejlYaEFvSDZER2pITVBaV0o3a0JueU1LNm05ekxyZW13WFFDUnJyTXpTUdIBhAJBVV95cUxOTnJqTG50RzVheXFFc0htb2Vhb0J5WFUxRVEzYmRmOHYwd3M4TVVBSjNZZkdrODJGQVNrZW9WeG9zQlpieDZjOXBHb2pEYzgzZFBkaTFLY2R5TVprNUl0Y1JqUHNveWtPTEJENTgzNlByUFE4bGtHcld3LXRwM1NiVHpCQ0JNRzZsRDBST1oxY0k5a3EzY21uQmN4bkJsYXM1OTh2R2hCVlR1cHQ1MFN0RHQ5SllmOHlrNGIyYWlfNnBmSW1pejM4Wlc3d3V1S3c4VGFBVWE0TkNOVUZ1aVNLdE5WcEhoa3VUTEJrUWNNYnhHUHN0ZUhfdks4XzhaSzBTWE5ldg?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Karnataka rolls out AI-driven surveillance to strengthen prison security",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVNnWGJST3Rxc3llRnJibG9URnZ0T1NPSjhNa0Z0OXV2UFJkeHFGeEIxMDB3MG52bVNDXzRiTE9zWmZlSmpyc1dIM2lzOHc2bmFsb293WGI3VlI1TW1Pd3U5Qmxnak1VU0d4Rm1uY3ZCRnFRRERNbE15Q19VaFZudDJtOHNYV2dWQ0J4OXh2azduR1lORE5JcXdMNzh2eE1sRDhudDhGaEJlUlZSMlYwY2VkX1o3M1hHZDU0cjdNTXQ1OUVHYWFCNDNtSS1QX0FxTzh1bjFrODfSAd8BQVVfeXFMTldlUnRrU2o3ZzdGbGhvNnpab3I1Tm5jcXV0MWlWOFhQLUtQbEhJVDVNZFBpRWQ2Z0F1WlZ5U2llb0paV2hEemxRTTFVNTFGcFJpTUNieFZDLXo0bHlrM0tXc1NtcWdvRzBvYXh0QUowWGtGN3lDS19VOWlRTDFmTFN0SWdkV08wMk80WnJCWE1JQ1IwVFNtcGFTVmcwT3Y1UW1GdHg3STFxY0ZhOTRXWDNUUGFncmJXbDhaZ19qMk5icGxJTmRPMWNYdjlfeWVqTmJ0al9PLWgzUnFrWTk3QQ?oc=5\" target=\"_blank\">Karnataka rolls out AI-driven surveillance to strengthen prison security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVNnWGJST3Rxc3llRnJibG9URnZ0T1NPSjhNa0Z0OXV2UFJkeHFGeEIxMDB3MG52bVNDXzRiTE9zWmZlSmpyc1dIM2lzOHc2bmFsb293WGI3VlI1TW1Pd3U5Qmxnak1VU0d4Rm1uY3ZCRnFRRERNbE15Q19VaFZudDJtOHNYV2dWQ0J4OXh2azduR1lORE5JcXdMNzh2eE1sRDhudDhGaEJlUlZSMlYwY2VkX1o3M1hHZDU0cjdNTXQ1OUVHYWFCNDNtSS1QX0FxTzh1bjFrODfSAd8BQVVfeXFMTldlUnRrU2o3ZzdGbGhvNnpab3I1Tm5jcXV0MWlWOFhQLUtQbEhJVDVNZFBpRWQ2Z0F1WlZ5U2llb0paV2hEemxRTTFVNTFGcFJpTUNieFZDLXo0bHlrM0tXc1NtcWdvRzBvYXh0QUowWGtGN3lDS19VOWlRTDFmTFN0SWdkV08wMk80WnJCWE1JQ1IwVFNtcGFTVmcwT3Y1UW1GdHg3STFxY0ZhOTRXWDNUUGFncmJXbDhaZ19qMk5icGxJTmRPMWNYdjlfeWVqTmJ0al9PLWgzUnFrWTk3QQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 31 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "AI grounds Boeing 787-8 plane after pilot reportsfuel switch malfunction",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjlUTTZJTk9PS0NsMUJyOXhYdklzajRPcy0tdnNaeWlhdzFPQ1pJd2JONUkxZVhSY2dld0ZRTGVyTGxxYmtBRkJNblNBTmVMWU9lSmxWMGsxVEgzMVY5ZHBGTnhYLU5kVmRLN01lcExCcnpLLW9RRk1iU2tmMDd2VmJtaGFieEZ5UklJQVZ1V3Q1N3FCb2diWWhVYWhnazhyWVktMzJtOXdWcUp3RFE0OG1UajdPUkRkbFYzR3M0U3UwT1ZJQXpRUmVIQk1seUxuNUNJV1NvMVRZWFXSAeIBQVVfeXFMTnJIYkZSRm9PaDlydmhULU9KdTBwa3RibUZxMV9BVGJpZkd1bEZSM3dleVFrZEY3Vnd6MVRhT3hkc0hGMG1fcElkRlo1NXFTaEhzLWFLZlB0dnZaQXRjZmJ6dXRONGdFZDd4OU52MTF6ZTRRdXNxUkx6SkIyYVowVFlSMnY1YUFfNnd0Vi0xUGplQjE4RklBLXJHN3gzbEVkbTdEZzBFcjU2M01pMV8zOEpJeTZMOVVoM1hmM05zQWFmSGxyQUJaTzVlaExscnJUclhDOWpyWDd3MW9LdkVBdXN5UQ?oc=5\" target=\"_blank\">AI grounds Boeing 787-8 plane after pilot reportsfuel switch malfunction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjlUTTZJTk9PS0NsMUJyOXhYdklzajRPcy0tdnNaeWlhdzFPQ1pJd2JONUkxZVhSY2dld0ZRTGVyTGxxYmtBRkJNblNBTmVMWU9lSmxWMGsxVEgzMVY5ZHBGTnhYLU5kVmRLN01lcExCcnpLLW9RRk1iU2tmMDd2VmJtaGFieEZ5UklJQVZ1V3Q1N3FCb2diWWhVYWhnazhyWVktMzJtOXdWcUp3RFE0OG1UajdPUkRkbFYzR3M0U3UwT1ZJQXpRUmVIQk1seUxuNUNJV1NvMVRZWFXSAeIBQVVfeXFMTnJIYkZSRm9PaDlydmhULU9KdTBwa3RibUZxMV9BVGJpZkd1bEZSM3dleVFrZEY3Vnd6MVRhT3hkc0hGMG1fcElkRlo1NXFTaEhzLWFLZlB0dnZaQXRjZmJ6dXRONGdFZDd4OU52MTF6ZTRRdXNxUkx6SkIyYVowVFlSMnY1YUFfNnd0Vi0xUGplQjE4RklBLXJHN3gzbEVkbTdEZzBFcjU2M01pMV8zOEpJeTZMOVVoM1hmM05zQWFmSGxyQUJaTzVlaExscnJUclhDOWpyWDd3MW9LdkVBdXN5UQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Govt to build AI hub in Bidali: DKS | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcVU3VDA5LU9JeS1aS2I0UFpHTGFJTkcxNVJzQVdQRnByWnRBbFQ5VFNNUjRMR1V3ZzY3UlZmWG9fbXNWMm0tNDBlWVZvbXlWU09xc1dLOFJrZ1BOQmFoQnBxelFlck1HdVJvbDhoblBIbG1HaE9CZVNPRDBuZmJRaWJNSGhkUC1WZmcwaVl1Q182bl80UjBaRmZqLTZ0QdIBowFBVV95cUxOaDFuODVWUEx4RU1sY0c2ZEM3QmNyejU4R3EzY3BockQ4WjRJdzVhek1BVWRNVGgwUkhzSTNvMU9nQUtjdVg5TGlnclVROExtWUFVRXlCajZyWm5BY2ducmRoVFg3MXk3UHRuczRuYVhGR3pQRWJGWk1ZQnhlaVZMSndETWp6MEFvTFRrTlZrYmxZNkxMSERSRlRWN0NIa2Y4MHFv?oc=5\" target=\"_blank\">Govt to build AI hub in Bidali: DKS | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcVU3VDA5LU9JeS1aS2I0UFpHTGFJTkcxNVJzQVdQRnByWnRBbFQ5VFNNUjRMR1V3ZzY3UlZmWG9fbXNWMm0tNDBlWVZvbXlWU09xc1dLOFJrZ1BOQmFoQnBxelFlck1HdVJvbDhoblBIbG1HaE9CZVNPRDBuZmJRaWJNSGhkUC1WZmcwaVl1Q182bl80UjBaRmZqLTZ0QdIBowFBVV95cUxOaDFuODVWUEx4RU1sY0c2ZEM3QmNyejU4R3EzY3BockQ4WjRJdzVhek1BVWRNVGgwUkhzSTNvMU9nQUtjdVg5TGlnclVROExtWUFVRXlCajZyWm5BY2ducmRoVFg3MXk3UHRuczRuYVhGR3pQRWJGWk1ZQnhlaVZMSndETWp6MEFvTFRrTlZrYmxZNkxMSERSRlRWN0NIa2Y4MHFv?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Wed, 19 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "After Goa Fire & Chinnaswamy Stampede, Bengaluru Police Deploy Drones, AI For Year-End Rush | Exclusive",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcUp5bENwc2VHcVVBSktCLWVyQXNPWWd2NW1PMmRhUTI5NG13X0VETG1wSklKZ3FQMGVDaUdOMFBFZzdqcFRKbnFaUnlyWmpYVDlFa1lwSDZfeVBtQ1JmMmRMTnRYR2ZzMVktNUdUUGlXak9aaXJrdU9ObEpfNVBpUkY2SDBmR2wtRU42UGJCcEJnV1l6RkdoOE1yQkxseEkwbmNxZnhaUXo4dXdjSHczUnl4enpubXhQMmpLaUVnS0lSN3d1YTRYaV9aRy1WRGdheFpYR0lRaw?oc=5\" target=\"_blank\">After Goa Fire & Chinnaswamy Stampede, Bengaluru Police Deploy Drones, AI For Year-End Rush | Exclusive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcUp5bENwc2VHcVVBSktCLWVyQXNPWWd2NW1PMmRhUTI5NG13X0VETG1wSklKZ3FQMGVDaUdOMFBFZzdqcFRKbnFaUnlyWmpYVDlFa1lwSDZfeVBtQ1JmMmRMTnRYR2ZzMVktNUdUUGlXak9aaXJrdU9ObEpfNVBpUkY2SDBmR2wtRU42UGJCcEJnV1l6RkdoOE1yQkxseEkwbmNxZnhaUXo4dXdjSHczUnl4enpubXhQMmpLaUVnS0lSN3d1YTRYaV9aRy1WRGdheFpYR0lRaw?oc=5",
+   "source_name": "News18",
+   "source_domain": "news18.com",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:46+00:00"
+  }
+ ]
+}

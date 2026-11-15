@@ -1,0 +1,109 @@
+{
+ "region": "Haryana",
+ "group": "B",
+ "query": "(Haryana) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Haryana%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:19+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana govt. launches AI-based portal to seek citizens’ suggestions on upcoming budget",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUjllQzN4Q1NEWDlNbDd4UXN4bnVfWng2UDlEOVNoVDcyTExCbU0yVy0tWWVXQjI3RDZ5MjA4MTBaa2ttbzZLcGp3alE1VGV2OFAyYjRUUjNrcHJzYU5va0VwOFRKbjNERTQ2dGdlZ3pLaERveXFOWV9YQkR1MFpzWEI5OWVib1ZGWjdlV1dzVXA5SWNSUHh1Tk9FR1dhSi14UmYweVQ1VzVvSFFCS0JHNzFLM25EdlZORXZLRkQ2Mk4yZm9RT3F1dDd3LU5KSHViZHVwajhqY3lNY2RCU3RKakp30gHoAUFVX3lxTFB2cDM1ZUw0RnJ0dG9kWUQwMmE0TXgtdm5mMzhDem42dnVxWWJaOUN3MzVWV1hCX05JZmJxRVhqaUlPM3BFUlE0Q1BqZFJaWEhjZU1GQmE2LXBkM1ktR0dxS0FDVDVVNWU3ZU4yQ2ZkbE5MNHlJZS1TMFBiNmtwTllEd0FQUnFfbzNYM2ZtbG1USE1HVy1ta0JXVUhxUkVJZFdIaVVrTHFOd1lISXY1M0lOUldINndJQXNuZDE1TkR6dm4wYWI1cUtkVEp2WlByc0ljUzd1TndTeVhBdWxUeDdjYTE4aUI2YTM?oc=5\" target=\"_blank\">Haryana govt. launches AI-based portal to seek citizens’ suggestions on upcoming budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUjllQzN4Q1NEWDlNbDd4UXN4bnVfWng2UDlEOVNoVDcyTExCbU0yVy0tWWVXQjI3RDZ5MjA4MTBaa2ttbzZLcGp3alE1VGV2OFAyYjRUUjNrcHJzYU5va0VwOFRKbjNERTQ2dGdlZ3pLaERveXFOWV9YQkR1MFpzWEI5OWVib1ZGWjdlV1dzVXA5SWNSUHh1Tk9FR1dhSi14UmYweVQ1VzVvSFFCS0JHNzFLM25EdlZORXZLRkQ2Mk4yZm9RT3F1dDd3LU5KSHViZHVwajhqY3lNY2RCU3RKakp30gHoAUFVX3lxTFB2cDM1ZUw0RnJ0dG9kWUQwMmE0TXgtdm5mMzhDem42dnVxWWJaOUN3MzVWV1hCX05JZmJxRVhqaUlPM3BFUlE0Q1BqZFJaWEhjZU1GQmE2LXBkM1ktR0dxS0FDVDVVNWU3ZU4yQ2ZkbE5MNHlJZS1TMFBiNmtwTllEd0FQUnFfbzNYM2ZtbG1USE1HVy1ta0JXVUhxUkVJZFdIaVVrTHFOd1lISXY1M0lOUldINndJQXNuZDE1TkR6dm4wYWI1cUtkVEp2WlByc0ljUzd1TndTeVhBdWxUeDdjYTE4aUI2YTM?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana to launch AI Mission with World Bank support: CM Nayab Saini",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3E2T202LVlValp5X0JXOEg3dF9UMWFWRnhMeUJHcEtMazljalFLOTJSOUxPenU0clFiZ29Kbzc1M2xMTjFiaFJqeXcyR250MEZOdzlOOWJxVEhIYWRwbHNVbFRvZzAtOGNSTU1SSGhpczl4ZWNra2RLZDJ2V2ZFYy1ubFY4T3Y2MEdOeW1CSl82RjRSajNnelNienpQY2o5cmlDak5tY9IBqwFBVV95cUxPOFBNaVpjRXR0cU8yUDZXNHU4YWh2YU9CXzFMT3NoQWtJa19Zb1poc1lIRzlfSUl4UkFoVXNVRFF6WktqMHJwcDZzQ1RyNjNBMjBIaExCcDlFMy16OWRTRWdwdWd3bTJPSHU2ZjhXb1kwUVRIdmZKNHpIZm1WWXdtZUxZWGVBN2lDb2ZGM0QzTXdUdHRlU0p1UUt1OFRMTFYwNFJTZXh6dUJ5Tmc?oc=5\" target=\"_blank\">Haryana to launch AI Mission with World Bank support: CM Nayab Saini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3E2T202LVlValp5X0JXOEg3dF9UMWFWRnhMeUJHcEtMazljalFLOTJSOUxPenU0clFiZ29Kbzc1M2xMTjFiaFJqeXcyR250MEZOdzlOOWJxVEhIYWRwbHNVbFRvZzAtOGNSTU1SSGhpczl4ZWNra2RLZDJ2V2ZFYy1ubFY4T3Y2MEdOeW1CSl82RjRSajNnelNienpQY2o5cmlDak5tY9IBqwFBVV95cUxPOFBNaVpjRXR0cU8yUDZXNHU4YWh2YU9CXzFMT3NoQWtJa19Zb1poc1lIRzlfSUl4UkFoVXNVRFF6WktqMHJwcDZzQ1RyNjNBMjBIaExCcDlFMy16OWRTRWdwdWd3bTJPSHU2ZjhXb1kwUVRIdmZKNHpIZm1WWXdtZUxZWGVBN2lDb2ZGM0QzTXdUdHRlU0p1UUt1OFRMTFYwNFJTZXh6dUJ5Tmc?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana Launches AI-Based Portal to Invite Citizen Suggestions for State Budget",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0gxa1N4UXNtRWRVOHBzcHhrbExkUUszVnlISTRkQkxsYUdKQURHWGRIclpHSldrOGREMW95TEhFT0R1UHdnUUpPaEhzYmRxX05qQ2VFb0FOTkdKNUN3Ry1BVXptWmxGOHdGancwdFprSHhzeEJMcERfUGwzOGYzWTVFSm13SXpPZTBiRlhva1VCQWV5TktidkVhYXR2X1ROZ0xlOEozWXQ2RHl4Yl9KVEFkbk5XUVhl?oc=5\" target=\"_blank\">Haryana Launches AI-Based Portal to Invite Citizen Suggestions for State Budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0gxa1N4UXNtRWRVOHBzcHhrbExkUUszVnlISTRkQkxsYUdKQURHWGRIclpHSldrOGREMW95TEhFT0R1UHdnUUpPaEhzYmRxX05qQ2VFb0FOTkdKNUN3Ry1BVXptWmxGOHdGancwdFprSHhzeEJMcERfUGwzOGYzWTVFSm13SXpPZTBiRlhva1VCQWV5TktidkVhYXR2X1ROZ0xlOEozWXQ2RHl4Yl9KVEFkbk5XUVhl?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana aims to develop Panchkula as ‘Silicon Valley of North India’: CM Saini",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWtrX2ttZ1BTd3BoTm9zY01PZGhYaEFPUmY1SWN2SDVEWXh4by1SNWFKOUtUX252UDJTVHZDQVkwVlRzXzZNMFhwdnJZaHV6ZWVPWmxfSGlmRHhzbXpQbzZQbTlIdDVQdURCMXh5QkJuVFVNWXl3RTBLWVktMDFnMXZWa09fLUkzSk1mbW1WWkJ2WW9Ec2hQM2pCdTZoTDhyZmRua3czMVdzdmNCRnMtVUFPazN6QdIBvAFBVV95cUxNSVQ5QjNkNlVJTTVMZXVvbjJDaE1uMVJGQ0lhQ3B2clNNRWR4SGpCMTJNRkhJb1RoMlBYS3FBakVzRXB3NHFMb3hhMUw4UDJFa0FIdXlPaG1MVzlxc1VFMmo0dnAwQUxoU1JlYncxZjBXSjZEQ2R5UC1JQzVlMkxyc05wSEhGRUJwQWJjcmVQOURNMXY1Tk5fM3JzLUdYMlMxR1BDenEwZTFEdnVibWhDU1Z3U3ZraENCQ0VhUA?oc=5\" target=\"_blank\">Haryana aims to develop Panchkula as ‘Silicon Valley of North India’: CM Saini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWtrX2ttZ1BTd3BoTm9zY01PZGhYaEFPUmY1SWN2SDVEWXh4by1SNWFKOUtUX252UDJTVHZDQVkwVlRzXzZNMFhwdnJZaHV6ZWVPWmxfSGlmRHhzbXpQbzZQbTlIdDVQdURCMXh5QkJuVFVNWXl3RTBLWVktMDFnMXZWa09fLUkzSk1mbW1WWkJ2WW9Ec2hQM2pCdTZoTDhyZmRua3czMVdzdmNCRnMtVUFPazN6QdIBvAFBVV95cUxNSVQ5QjNkNlVJTTVMZXVvbjJDaE1uMVJGQ0lhQ3B2clNNRWR4SGpCMTJNRkhJb1RoMlBYS3FBakVzRXB3NHFMb3hhMUw4UDJFa0FIdXlPaG1MVzlxc1VFMmo0dnAwQUxoU1JlYncxZjBXSjZEQ2R5UC1JQzVlMkxyc05wSEhGRUJwQWJjcmVQOURNMXY1Tk5fM3JzLUdYMlMxR1BDenEwZTFEdnVibWhDU1Z3U3ZraENCQ0VhUA?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sun, 01 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "CM Saini unveils Haryana AI Mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9yeHlqRXhDTVlJUGVvVDhFckVuZVJZeFFTMnZQV3U4Q3lNTDBhVTVYRnk0Z0JWb1duSTFYaHo5MmlxcDQwMXd6MjZBXzRLbjlnU1JDdWFWbDdteHp1SDdpTWdfRU1CV0NWalVsWWppZmQwcFlOZVBUME5MWkxnR0E?oc=5\" target=\"_blank\">CM Saini unveils Haryana AI Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yeHlqRXhDTVlJUGVvVDhFckVuZVJZeFFTMnZQV3U4Q3lNTDBhVTVYRnk0Z0JWb1duSTFYaHo5MmlxcDQwMXd6MjZBXzRLbjlnU1JDdWFWbDdteHp1SDdpTWdfRU1CV0NWalVsWWppZmQwcFlOZVBUME5MWkxnR0E?oc=5",
+   "source_name": "Communications Today",
+   "source_domain": "communicationstoday.co.in",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana citizens send 11,000 suggestions to govt.’s AI-based portal for State budget",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmdocVo1VlZWU2IxVTJPeDRKcjVkVVRnLUc4NFE3MGctTTFlS2tKQlJYazR4OUxSV212d2lCWHprM1VxN3lzZjRvaDlNbm5jSzF2MFltQllSZ21UcEVGQ3dlY3hNX0p3dDdMcFpYUVVQZWYyVEMzY2V4OWo0enJYVkF6eElZTmd1cnJoMjh4ejgyWkszb2pWdVZxc29rXzgydkkyYTNfaTJxNUNyc0Z1aU5wQk5nZEFPNXdrR0xyd09hTmM4eWIzRUF0M0ppak0tQV82REVMRXU1UjljUmJ0Zjh30gHoAUFVX3lxTE5zd0t1MVUtZnNUaHUwS2NVV24tdXhqdjd5ZWpwMjdsVHJob3RYQTdrZmFjM0dPRWdNekJpNk9yNTUteE9CM3JGdHhhS0lkeHVXSzNoaUotMnJsZUJkektrYWctMnBCV0Uzc3hneDN5TUNaM3pha2d1blUwR0N3TzU1ZFBxNDR1d0VyM3pwTmV1MkdyMHoyQ2dSaW15TkZPZm8tOERmLXZ1RDZmSDVSYlZIX3Z1RDNiZlRFejJLenpHWV9rdXlrTGNGSUZIdzhtY19qUlBkZm5CY01vaXgzYzBwMUNmU3E4X0E?oc=5\" target=\"_blank\">Haryana citizens send 11,000 suggestions to govt.’s AI-based portal for State budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmdocVo1VlZWU2IxVTJPeDRKcjVkVVRnLUc4NFE3MGctTTFlS2tKQlJYazR4OUxSV212d2lCWHprM1VxN3lzZjRvaDlNbm5jSzF2MFltQllSZ21UcEVGQ3dlY3hNX0p3dDdMcFpYUVVQZWYyVEMzY2V4OWo0enJYVkF6eElZTmd1cnJoMjh4ejgyWkszb2pWdVZxc29rXzgydkkyYTNfaTJxNUNyc0Z1aU5wQk5nZEFPNXdrR0xyd09hTmM4eWIzRUF0M0ppak0tQV82REVMRXU1UjljUmJ0Zjh30gHoAUFVX3lxTE5zd0t1MVUtZnNUaHUwS2NVV24tdXhqdjd5ZWpwMjdsVHJob3RYQTdrZmFjM0dPRWdNekJpNk9yNTUteE9CM3JGdHhhS0lkeHVXSzNoaUotMnJsZUJkektrYWctMnBCV0Uzc3hneDN5TUNaM3pha2d1blUwR0N3TzU1ZFBxNDR1d0VyM3pwTmV1MkdyMHoyQ2dSaW15TkZPZm8tOERmLXZ1RDZmSDVSYlZIX3Z1RDNiZlRFejJLenpHWV9rdXlrTGNGSUZIdzhtY19qUlBkZm5CY01vaXgzYzBwMUNmU3E4X0E?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "\"Then Get Out Of Here\": Minister Anil Vij, Senior Cop Argue Over Suspension",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1BKSDJLUDNKMUEybV82MW9TMndCNzloYm51Wjl2dzZNc1hKWmdTei02Z1NsTWZLTkxVT1pKZXd2RmJzcnZjZDVlWFRGRy1UMG10ZmFzbEtBbWFaNHktSE1HQjNkVnptemlPY0VMVjB5UU5OSUVLUFA5LVREdDF4Q1dyZFpVeXdudkZWVl81Q3AtYTBDYmxRZGRKbEszdVZzajF2OXZMUVNMM1czSU5IalMwZWt6ZklkdW5OX05haEc0MEZzczhtay1XWS1DSnVwSjV5MTF30gHeAUFVX3lxTE1udllZNWdDdnBsY0M0MnY0WU8zLUxHd2F2QnJ4akpGMi1lS2ZTek1iZzlzSnZXUVVJVlJkckFoNUNkMVVsSGV2LXd2VDFzaGJLdnFVT25LazFNNkwxQkJtQVRWTkhlZE15S0JfOEpyZUlPVFk4LWJ2ZlNrWFo0bnhlWEVia2NmRFlIQmo3cW9kSWZnWVYxVWR5UEYwU2VrZ1MwNW5JdWVManhZM3BfdGJmTEtJSzlqZUVsWFM1NlpBZEJZcDRULU04YlExMWJPUV96OXdCYWVUS081OTRSUQ?oc=5\" target=\"_blank\">\"Then Get Out Of Here\": Minister Anil Vij, Senior Cop Argue Over Suspension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1BKSDJLUDNKMUEybV82MW9TMndCNzloYm51Wjl2dzZNc1hKWmdTei02Z1NsTWZLTkxVT1pKZXd2RmJzcnZjZDVlWFRGRy1UMG10ZmFzbEtBbWFaNHktSE1HQjNkVnptemlPY0VMVjB5UU5OSUVLUFA5LVREdDF4Q1dyZFpVeXdudkZWVl81Q3AtYTBDYmxRZGRKbEszdVZzajF2OXZMUVNMM1czSU5IalMwZWt6ZklkdW5OX05haEc0MEZzczhtay1XWS1DSnVwSjV5MTF30gHeAUFVX3lxTE1udllZNWdDdnBsY0M0MnY0WU8zLUxHd2F2QnJ4akpGMi1lS2ZTek1iZzlzSnZXUVVJVlJkckFoNUNkMVVsSGV2LXd2VDFzaGJLdnFVT25LazFNNkwxQkJtQVRWTkhlZE15S0JfOEpyZUlPVFk4LWJ2ZlNrWFo0bnhlWEVia2NmRFlIQmo3cW9kSWZnWVYxVWR5UEYwU2VrZ1MwNW5JdWVManhZM3BfdGJmTEtJSzlqZUVsWFM1NlpBZEJZcDRULU04YlExMWJPUV96OXdCYWVUS081OTRSUQ?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "A statewide initiative: Haryana to start AI literacy drive to prevent brain drain | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmZua0NMN3ZGeG1zZXlSRzdfc1d5ODQtUWc1VDBrTmIxeFVXeUJDV3AxWjgyRUlJNmluazdQZ1dtZmtHSHhQbTZ1Z1BHajUxdDZEcE1FQVNIN1NZRnVycWZSWkd4MW5DT3hxN0ZmZkJiNGF0QzhQSldCNHp2QWJVSDUzSFhRRzBQSWRrQTBFeVFDMnNJclRmQ0h0LWxtVWYtQnIyT3Y1aEdQaFQ1QWhQel9NMGVzR0xuZEE5cDVuMUU4dlloQXJSUVB3NURNUjNPOXF6bGw0Z0MtOFFCSVdOdEsxOEhwaU9EcV9B0gHwAUFVX3lxTE9RcXNfUHdIcE13WGRhcE9hVTJsTGRPSGVlNENoMERVNWl1QzFlOVA1VEJRSDl1MUdUNjhWdkZtNWpoMVhUREhlOGtLbzFqdEpSWVgtZjlZNm0weFJNYXJDT01uZDhIM3pEenpyc29zRE4tdFd2QWliS1d4dElqSHpacVhVWTVzbEY1dVdEd3ZBeHdNODR3aFVCNXZCaDZJdnpwem5ydTAyZXN6MW9BY2RGcHdjTFYyMlhWS3ZzaFRuOHdNVE9YTnlCQVJQSnlTWmJKVWp5eVhQY0JzajdGQzhueVpiWVo5ZGN0clpFYlNLSQ?oc=5\" target=\"_blank\">A statewide initiative: Haryana to start AI literacy drive to prevent brain drain | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmZua0NMN3ZGeG1zZXlSRzdfc1d5ODQtUWc1VDBrTmIxeFVXeUJDV3AxWjgyRUlJNmluazdQZ1dtZmtHSHhQbTZ1Z1BHajUxdDZEcE1FQVNIN1NZRnVycWZSWkd4MW5DT3hxN0ZmZkJiNGF0QzhQSldCNHp2QWJVSDUzSFhRRzBQSWRrQTBFeVFDMnNJclRmQ0h0LWxtVWYtQnIyT3Y1aEdQaFQ1QWhQel9NMGVzR0xuZEE5cDVuMUU4dlloQXJSUVB3NURNUjNPOXF6bGw0Z0MtOFFCSVdOdEsxOEhwaU9EcV9B0gHwAUFVX3lxTE9RcXNfUHdIcE13WGRhcE9hVTJsTGRPSGVlNENoMERVNWl1QzFlOVA1VEJRSDl1MUdUNjhWdkZtNWpoMVhUREhlOGtLbzFqdEpSWVgtZjlZNm0weFJNYXJDT01uZDhIM3pEenpyc29zRE4tdFd2QWliS1d4dElqSHpacVhVWTVzbEY1dVdEd3ZBeHdNODR3aFVCNXZCaDZJdnpwem5ydTAyZXN6MW9BY2RGcHdjTFYyMlhWS3ZzaFRuOHdNVE9YTnlCQVJQSnlTWmJKVWp5eVhQY0JzajdGQzhueVpiWVo5ZGN0clpFYlNLSQ?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Sun, 01 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "HT Interview: Terror module bust is an example of alertness, says Haryana CM Nayab Singh Saini | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR3NpX0VFYTVkdEM5Q0pvYXhiUEVBcnJJeDkwRDloQUJQTF9BbE9vLVZjeUNLNWRXemdsT3hTbm9GLXV0amR3aUMyV3h0TjZmS1hkSjBKSHdFaERkQmJWUGo5cWoweUNkZUl6N2JsQ3dVSUpzVHJZM1h4bTk1dVQ1UXVzSWZiOXRWUDRRb3VCWkYyWDUtbGFpd3JuM1dFTFZsN0FQc0YwMGNwbEgya2wyZXVnbXJBZktWRHdZWUdmc3k1dXJTVkhoT0hFemhqQURoRlU2MHpHNnF3TkHSAeABQVVfeXFMTXpFNl9TRzYzUEU3WUc2ZVdMelcwcHJrejBhbkVoUTc4em5ITDVKajVQVkNyZUp4WDFnWktEcUpjNDBLTDlRanRnSFNLLXpNdm56YU5sSjcxNUR3QndsZ0RodXZsQW00aDN6OW9SYWlJWHRTUV9kZ18ySjZSN1FBZ1h6REtsRHhaYzdWb0tiQ2p4OUN5UjZyQWowOWNWWWpxLThsWGVPVTdHRHJGa2RhVnlscVpQcXpablZtMVVBNTFQa2hISWlUQW5jVmFGMF85bWJNYVR1ZEFzWDkxclc5YVE?oc=5\" target=\"_blank\">HT Interview: Terror module bust is an example of alertness, says Haryana CM Nayab Singh Saini | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR3NpX0VFYTVkdEM5Q0pvYXhiUEVBcnJJeDkwRDloQUJQTF9BbE9vLVZjeUNLNWRXemdsT3hTbm9GLXV0amR3aUMyV3h0TjZmS1hkSjBKSHdFaERkQmJWUGo5cWoweUNkZUl6N2JsQ3dVSUpzVHJZM1h4bTk1dVQ1UXVzSWZiOXRWUDRRb3VCWkYyWDUtbGFpd3JuM1dFTFZsN0FQc0YwMGNwbEgya2wyZXVnbXJBZktWRHdZWUdmc3k1dXJTVkhoT0hFemhqQURoRlU2MHpHNnF3TkHSAeABQVVfeXFMTXpFNl9TRzYzUEU3WUc2ZVdMelcwcHJrejBhbkVoUTc4em5ITDVKajVQVkNyZUp4WDFnWktEcUpjNDBLTDlRanRnSFNLLXpNdm56YU5sSjcxNUR3QndsZ0RodXZsQW00aDN6OW9SYWlJWHRTUV9kZ18ySjZSN1FBZ1h6REtsRHhaYzdWb0tiQ2p4OUN5UjZyQWowOWNWWWpxLThsWGVPVTdHRHJGa2RhVnlscVpQcXpablZtMVVBNTFQa2hISWlUQW5jVmFGMF85bWJNYVR1ZEFzWDkxclc5YVE?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 18 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:19+00:00"
+  }
+ ]
+}

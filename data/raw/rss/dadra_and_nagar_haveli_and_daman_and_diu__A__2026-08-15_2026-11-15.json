@@ -1,0 +1,109 @@
+{
+ "region": "Dadra and Nagar Haveli and Daman and Diu",
+ "group": "A",
+ "query": "(\"Dadra and Nagar Haveli and Daman and Diu\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-08-15 before:2026-11-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Dadra+and+Nagar+Haveli+and+Daman+and+Diu%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-08-15+before%3A2026-11-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:24+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Torrent Power cuts Bhiwandi AT&C losses to 9.1% in FY26",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3kyMjlZSFdqaXItVUh5dk9XTnI4SWZQOGltYWI3eld4RTNjNHJLMUMzRHRJVVEwbk9zVkF2SGZpeTJzYjhnMjFDRWF3c2N2Nkd5UXFaajhxcWVLaDVkOTMyVHpZUUdDM3VQWUt6ZEdhdFlPMENsWUpRdTNuTDI2TS1nZ3ZoOEM1Rm82eTN1eVktV09KbWlyUlNHN2F4YWxETlY0UDlldGxXSnd2bWIzUw?oc=5\" target=\"_blank\">Torrent Power cuts Bhiwandi AT&amp;C losses to 9.1% in FY26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Multibagg AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3kyMjlZSFdqaXItVUh5dk9XTnI4SWZQOGltYWI3eld4RTNjNHJLMUMzRHRJVVEwbk9zVkF2SGZpeTJzYjhnMjFDRWF3c2N2Nkd5UXFaajhxcWVLaDVkOTMyVHpZUUdDM3VQWUt6ZEdhdFlPMENsWUpRdTNuTDI2TS1nZ3ZoOEM1Rm82eTN1eVktV09KbWlyUlNHN2F4YWxETlY0UDlldGxXSnd2bWIzUw?oc=5",
+   "source_name": "Multibagg AI",
+   "source_domain": "multibagg.ai",
+   "published_raw": "Thu, 05 Nov 2026 09:09:41 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "VP Radhakrishnan to visit Dadra and Nagar Haveli and Daman and Diu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGdSaUtSR0ZSbnk2UXJla1QwNTNkNTFUWkN5U21uVVpWM283OE5UUWVqd1RfY0Zka0lfNVltMjdfdnZ3VGdMRXF5S2pjbUMwWE1FUmo3TzNQVmtaaE5ESklMc0RqdUtQZkVMdHFjYUduVmllb243aVdfeHRGN1hVQWxhRkFyY1g1T1lNNkNGQURyY1Nrdi1icXprMnNlblVfSDV6dkp2OEdsZGg1UXpSS19kellDSVRqRFFUNzdDYVMzcXNkNFpiVzVZeFV1X0xZQ3FNcjg5ZHFsX3FiVmNvNjAxbFY?oc=5\" target=\"_blank\">VP Radhakrishnan to visit Dadra and Nagar Haveli and Daman and Diu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSGdSaUtSR0ZSbnk2UXJla1QwNTNkNTFUWkN5U21uVVpWM283OE5UUWVqd1RfY0Zka0lfNVltMjdfdnZ3VGdMRXF5S2pjbUMwWE1FUmo3TzNQVmtaaE5ESklMc0RqdUtQZkVMdHFjYUduVmllb243aVdfeHRGN1hVQWxhRkFyY1g1T1lNNkNGQURyY1Nrdi1icXprMnNlblVfSDV6dkp2OEdsZGg1UXpSS19kellDSVRqRFFUNzdDYVMzcXNkNFpiVzVZeFV1X0xZQ3FNcjg5ZHFsX3FiVmNvNjAxbFY?oc=5",
+   "source_name": "Rediff",
+   "source_domain": "rediff.com",
+   "published_raw": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Stocks to watch for September 29: IRFC, NCC, Clean Max and more - CNBC TV18",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXJrS2J6YlhWcFdkNWJkTHMxdHR2OFFhR0sxRlNTRDRsUjlqcHl5d3RGQVhlSDNTWlIwcXJ6dUVLc29tdkY1cnJ0R3Jxb1ZMM01kdDJEeXptREVFa3F4c01leldUTUpMTmRzTjIzdVBVLXQ5Zk1CYUFTTW9aRU9GOVp6SFR5eEJHU2VVZlNJaTRNMFRyLU9pbkNDbG1HZUZJaWRFYzRZYm92ck9icktIZGtyS016WU0?oc=5\" target=\"_blank\">Stocks to watch for September 29: IRFC, NCC, Clean Max and more - CNBC TV18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXJrS2J6YlhWcFdkNWJkTHMxdHR2OFFhR0sxRlNTRDRsUjlqcHl5d3RGQVhlSDNTWlIwcXJ6dUVLc29tdkY1cnJ0R3Jxb1ZMM01kdDJEeXptREVFa3F4c01leldUTUpMTmRzTjIzdVBVLXQ5Zk1CYUFTTW9aRU9GOVp6SFR5eEJHU2VVZlNJaTRNMFRyLU9pbkNDbG1HZUZJaWRFYzRZYm92ck9icktIZGtyS016WU0?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "India’s western region is the ‘WEST engine’ of growth: Home Minister Amit Shah",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFoSmZJTWZGeHJ1RlBRZWdGZnpGU2tsNkxlTGtvNlFmcWhVcGZ5Q2VaaHRjTnBFYkhHWG9BdlJqWGs5VnFVRUtUV3BDZDRaVkpDWWNmS3pmdGFYc0ZoenF3alJYdHVOZE1FOW1SZHdaSXMwQm1LNEJZWHhhdVROVjl6VTNxa1JYS1VadnhWX3MtVm91ek9HOUQtVlRLS0g1RGFuUmVxUHNZYWpxNFJEVTM0anNRT0NfQ2wyeHMxZG1vTGPSAdABQVVfeXFMTkEyOE12UG1OcDN0a2RQQkR6cXR4MlRJcFF3QjhydzRWLTZkVlVCWTJjay1MTTc1Zm1NQktmbGtSV1ZneWtLQkQ4WGhycjY5LVV3eXNwVnZYYmFEZEpYX2ZZR3VBTV8yUWdwZ0JjZGZDT3M5WnZxb29YR2tmR2tpVS14U2Z2T1BfaG5ZeG94SUx4TUg5OXphRy1sTWlyUTAwYkg2YUI1UFM1UUN2dkpSbTYxY3JfZ1BEWVZQa3JBVVJWbFhTQVJYTE5CT1NDN2hSNA?oc=5\" target=\"_blank\">India’s western region is the ‘WEST engine’ of growth: Home Minister Amit Shah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUFoSmZJTWZGeHJ1RlBRZWdGZnpGU2tsNkxlTGtvNlFmcWhVcGZ5Q2VaaHRjTnBFYkhHWG9BdlJqWGs5VnFVRUtUV3BDZDRaVkpDWWNmS3pmdGFYc0ZoenF3alJYdHVOZE1FOW1SZHdaSXMwQm1LNEJZWHhhdVROVjl6VTNxa1JYS1VadnhWX3MtVm91ek9HOUQtVlRLS0g1RGFuUmVxUHNZYWpxNFJEVTM0anNRT0NfQ2wyeHMxZG1vTGPSAdABQVVfeXFMTkEyOE12UG1OcDN0a2RQQkR6cXR4MlRJcFF3QjhydzRWLTZkVlVCWTJjay1MTTc1Zm1NQktmbGtSV1ZneWtLQkQ4WGhycjY5LVV3eXNwVnZYYmFEZEpYX2ZZR3VBTV8yUWdwZ0JjZGZDT3M5WnZxb29YR2tmR2tpVS14U2Z2T1BfaG5ZeG94SUx4TUg5OXphRy1sTWlyUTAwYkg2YUI1UFM1UUN2dkpSbTYxY3JfZ1BEWVZQa3JBVVJWbFhTQVJYTE5CT1NDN2hSNA?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "EC announces voter roll revision in 6 states, UTs; draft lists on Nov 30, final rolls by Jan 21",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnRzSW01WkFkTmRfdEZKbEtjU0JWcnh0bVhUbTl5b3JTR3VpYXVLby1neGpWOG9uUExJdVBCSHdIS0MwZVBUaWpNeVhYMVpfOC1LNVR5Rk5YU1RvdHBfbHJPc3FuRlFRUnNicjRwNUM0MHhTUm5GVnBDbmFBWE1ub0djNElhaXJXTzBIMFFQYkExZjlKWDJQS3k0UVBNNXdjQm1JR3V3S0ZvcmRIb2dlVWhNRERCSkJWS3N4MGg5N29HRzM2OXZyYkFOWEZyQzBhSXdvUDZUNmFGVjNFbURFTdIB5gFBVV95cUxNTEUtM2ZOQWY1LXFxTDdJMG1pUllQV1Q4YVBaWGRCMHNwQlhmdm51OTZCUWFnVzVqQ0hYR2dYckJTUW1tZ09NVjJIQUpnMFptVGlPU2YtTzdrUE90QVp2aGRDVlN2TXFLZ3VzUDItQklSRlkyTkxwM2k2dlhILVZtVXRRbXlYMmdObTYwbTBkT1hmMmp4VTFoQ3BaRGhuR0E2ajI2eFI1el84UXdzbUduYzc1N3BjZ3FVeGhaNWRTRnJ5NGF6SWlfeFVYSFp2NjQ5OXROODZ1NEhnc2ZQdkRKVUFVZlAtdw?oc=5\" target=\"_blank\">EC announces voter roll revision in 6 states, UTs; draft lists on Nov 30, final rolls by Jan 21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnRzSW01WkFkTmRfdEZKbEtjU0JWcnh0bVhUbTl5b3JTR3VpYXVLby1neGpWOG9uUExJdVBCSHdIS0MwZVBUaWpNeVhYMVpfOC1LNVR5Rk5YU1RvdHBfbHJPc3FuRlFRUnNicjRwNUM0MHhTUm5GVnBDbmFBWE1ub0djNElhaXJXTzBIMFFQYkExZjlKWDJQS3k0UVBNNXdjQm1JR3V3S0ZvcmRIb2dlVWhNRERCSkJWS3N4MGg5N29HRzM2OXZyYkFOWEZyQzBhSXdvUDZUNmFGVjNFbURFTdIB5gFBVV95cUxNTEUtM2ZOQWY1LXFxTDdJMG1pUllQV1Q4YVBaWGRCMHNwQlhmdm51OTZCUWFnVzVqQ0hYR2dYckJTUW1tZ09NVjJIQUpnMFptVGlPU2YtTzdrUE90QVp2aGRDVlN2TXFLZ3VzUDItQklSRlkyTkxwM2k2dlhILVZtVXRRbXlYMmdObTYwbTBkT1hmMmp4VTFoQ3BaRGhuR0E2ajI2eFI1el84UXdzbUduYzc1N3BjZ3FVeGhaNWRTRnJ5NGF6SWlfeFVYSFp2NjQ5OXROODZ1NEhnc2ZQdkRKVUFVZlAtdw?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Thu, 05 Nov 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Jammu and Kashmir - Politics, Religion, Society",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE02Y1FqbGt5OFlvMk5uanNRcF84VmUxdkc3dzVRSTBOR2NMNllMYWhVNTI4emtfOXFzTEZPYUJsZnlRdjljYzJCOVpnYTlSbFoyU1dldUdvMHRQZUlwTWNCZHFWbjBkaVo2blpTTDlKOXRJNDVoM2o5Z1N1RW0yZw?oc=5\" target=\"_blank\">Jammu and Kashmir - Politics, Religion, Society</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Y1FqbGt5OFlvMk5uanNRcF84VmUxdkc3dzVRSTBOR2NMNllMYWhVNTI4emtfOXFzTEZPYUJsZnlRdjljYzJCOVpnYTlSbFoyU1dldUdvMHRQZUlwTWNCZHFWbjBkaVo2blpTTDlKOXRJNDVoM2o5Z1N1RW0yZw?oc=5",
+   "source_name": "Britannica",
+   "source_domain": "britannica.com",
+   "published_raw": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "A home run for workers? Daman & Diu’s SPARSH 2.0 opens more rental space",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnpjMzVjSTl6RlQ4cER6NWl4U0VxQy1Oc2xtRmFRNjZpbGtwRDVQc1h5VzZiZldQLWx0Vm9mVkZNNng3T0k3Ymh5QUVacGNjODdtM094ODVld1R1ZV9vMVBJTklZUWdMRmcyLUx4QmxkQ1pRTm5OQW5BLWk4UnF1Vm4ycnhIRngxcFFmYk1laEl3TzdnR1lBdUF6UDVRMVFHdGR1d3pEdTczb21tMTZILWpKdjZfbkVmc3c3OUdOWHdZSEtwRW9vVFZaQVZ3bkRBTW9OWWdlWmYyZkFSNDBNY9IB5gFBVV95cUxNUVZ1MmtubkVTb1hVN0JWOTZYVmZUQ3NOQnR3YTYyS1RoT3IycG9kQnB0OG9xUzdDeWVwXzg0YkJ1UmszMk8tTUg0Wkctd29tbGF6Zy04aXY4c21MUkxCMEpPT0tmazhQeThvc2xTQVI1Z2lmMGZsV0pZekpRV01BZV9kNUJYVC1KbVkycDlTVERpcUpnZzJWaXkzdG1DdXp1VmM1Um5qXzNuQ29Fai1wLVBSWGRCaXpNcXhqNDRmbXpySm9aRzBDdzN6TmV2d2N0QzRqV2o4Nl9MVmQzWnVtRWdPZ0hhZw?oc=5\" target=\"_blank\">A home run for workers? Daman & Diu’s SPARSH 2.0 opens more rental space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnpjMzVjSTl6RlQ4cER6NWl4U0VxQy1Oc2xtRmFRNjZpbGtwRDVQc1h5VzZiZldQLWx0Vm9mVkZNNng3T0k3Ymh5QUVacGNjODdtM094ODVld1R1ZV9vMVBJTklZUWdMRmcyLUx4QmxkQ1pRTm5OQW5BLWk4UnF1Vm4ycnhIRngxcFFmYk1laEl3TzdnR1lBdUF6UDVRMVFHdGR1d3pEdTczb21tMTZILWpKdjZfbkVmc3c3OUdOWHdZSEtwRW9vVFZaQVZ3bkRBTW9OWWdlWmYyZkFSNDBNY9IB5gFBVV95cUxNUVZ1MmtubkVTb1hVN0JWOTZYVmZUQ3NOQnR3YTYyS1RoT3IycG9kQnB0OG9xUzdDeWVwXzg0YkJ1UmszMk8tTUg0Wkctd29tbGF6Zy04aXY4c21MUkxCMEpPT0tmazhQeThvc2xTQVI1Z2lmMGZsV0pZekpRV01BZV9kNUJYVC1KbVkycDlTVERpcUpnZzJWaXkzdG1DdXp1VmM1Um5qXzNuQ29Fai1wLVBSWGRCaXpNcXhqNDRmbXpySm9aRzBDdzN6TmV2d2N0QzRqV2o4Nl9MVmQzWnVtRWdPZ0hhZw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 05 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Rs 2 crore luxury purchase, Rs 20 lakh tax: Mumbai car dealers who saved 14 lakh with Diu and Daman regist",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQ1o3dWRTMi1DS002VHNoRnFSN2JqN3ppM05rWnZfVWQtcDBXNm0wbmQ2RGdaeGhUR1ZmT0FDcmM5Wi10dGpMZ3FSZGszc0dwcGF3NTNnY1hTOUFPYm5DNEMxblY1cHBWNlUzeFpRZmFXNWtQblNmeTd1V000bXF6M29zMW9OVFRjakpYYzVhUHBpeTJkUjBqZ0Y1bmduME1wWnhnTmR5a2FOTnRNbDc2VWZoTVdOQXM0Um1aM1Y2Zl93S0VDTkNjTmpYLVI4Q3pwS1BTQTE1WUdKc25CSENSSTRkcjBwNldiYlNWNnY5dnJtM2lET3kwd0ZubnJDbk1zVzNtTVJ1V0JRa2lVQUFTUjZHVmFNYnhVd1JZdjNuSHlkT1hyQUpaX1JaanQ0MXliSGF1cjFEbHdpd3VRVmp0STg0WHJBdUxCcmhEUURjQ3FvMzhiQXfSAdsCQVVfeXFMTkktR0NGa2owRWROcS1DT0ltUUNUR213WWFzN18ycExHMlNVQUtqN1h2czlraFp6aDNOaDJfeGp4MlZUQXBseFFCdWxFVF9nYVZycC1FNm9hcmZuOW1aaTZHUUpVZzg0YXR5cGpoVjliVDdJTlBTN05sVW1XQmtZX3g3bGpRSTVrNTE1UVlrN1lfRWd0Sm9fTk5rU1N4RW1tRmJ4R3V1azdEci1qX0N2SzVDeXktbkpKNnpiYnlZU3NUTmhSUF9JNHQ5T053X042Vzl0SktsMDRIblc3YkRqSUVSVFZJT2QwN3pXZi1KSTg1YWtIVm5SU1VxUllUc1hOWUpRLURSNW14bkpyQmM3bV9HRWVzR2JlR0lHLXRPRWxEcjh2YlR6d0oyTDNydGxHcF9XbnRTQlVOeXFyZlFPODh5Z1pMTi1yYTRJRXl0VUJZeDJVbkdDQlo0ajQ?oc=5\" target=\"_blank\">Rs 2 crore luxury purchase, Rs 20 lakh tax: Mumbai car dealers who saved 14 lakh with Diu and Daman regist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQ1o3dWRTMi1DS002VHNoRnFSN2JqN3ppM05rWnZfVWQtcDBXNm0wbmQ2RGdaeGhUR1ZmT0FDcmM5Wi10dGpMZ3FSZGszc0dwcGF3NTNnY1hTOUFPYm5DNEMxblY1cHBWNlUzeFpRZmFXNWtQblNmeTd1V000bXF6M29zMW9OVFRjakpYYzVhUHBpeTJkUjBqZ0Y1bmduME1wWnhnTmR5a2FOTnRNbDc2VWZoTVdOQXM0Um1aM1Y2Zl93S0VDTkNjTmpYLVI4Q3pwS1BTQTE1WUdKc25CSENSSTRkcjBwNldiYlNWNnY5dnJtM2lET3kwd0ZubnJDbk1zVzNtTVJ1V0JRa2lVQUFTUjZHVmFNYnhVd1JZdjNuSHlkT1hyQUpaX1JaanQ0MXliSGF1cjFEbHdpd3VRVmp0STg0WHJBdUxCcmhEUURjQ3FvMzhiQXfSAdsCQVVfeXFMTkktR0NGa2owRWROcS1DT0ltUUNUR213WWFzN18ycExHMlNVQUtqN1h2czlraFp6aDNOaDJfeGp4MlZUQXBseFFCdWxFVF9nYVZycC1FNm9hcmZuOW1aaTZHUUpVZzg0YXR5cGpoVjliVDdJTlBTN05sVW1XQmtZX3g3bGpRSTVrNTE1UVlrN1lfRWd0Sm9fTk5rU1N4RW1tRmJ4R3V1azdEci1qX0N2SzVDeXktbkpKNnpiYnlZU3NUTmhSUF9JNHQ5T053X042Vzl0SktsMDRIblc3YkRqSUVSVFZJT2QwN3pXZi1KSTg1YWtIVm5SU1VxUllUc1hOWUpRLURSNW14bkpyQmM3bV9HRWVzR2JlR0lHLXRPRWxEcjh2YlR6d0oyTDNydGxHcF9XbnRTQlVOeXFyZlFPODh5Z1pMTi1yYTRJRXl0VUJZeDJVbkdDQlo0ajQ?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sun, 25 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Daman-Diu Bans School Donations, Curbs Unapproved Coaching Centres",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQNzRVcXJOaGplNDNkSm55d19LNUFwQ3Bpd3loZUFHZFJzMlVkYTVYdTV2UlZKaHVzN2stVEwxSHZzLWFNazF4MzduUVQtWDR0Y1BUZ2lUeTVnZ2FURDU0TXRmQWZ0MGhRNlhDZWpteHY4S2lGMHF2ZVV2V2lmcFA2c0h6RXl3SW5qd3FBeVVCYmJLcVlsa0I5S1RZSEV1UQ?oc=5\" target=\"_blank\">Daman-Diu Bans School Donations, Curbs Unapproved Coaching Centres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Blunt Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzRVcXJOaGplNDNkSm55d19LNUFwQ3Bpd3loZUFHZFJzMlVkYTVYdTV2UlZKaHVzN2stVEwxSHZzLWFNazF4MzduUVQtWDR0Y1BUZ2lUeTVnZ2FURDU0TXRmQWZ0MGhRNlhDZWpteHY4S2lGMHF2ZVV2V2lmcFA2c0h6RXl3SW5qd3FBeVVCYmJLcVlsa0I5S1RZSEV1UQ?oc=5",
+   "source_name": "The Blunt Times",
+   "source_domain": "theblunttimes.in",
+   "published_raw": "Tue, 13 Oct 2026 14:12:12 GMT",
+   "fetched_at": "2026-11-15T09:41:24+00:00"
+  }
+ ]
+}

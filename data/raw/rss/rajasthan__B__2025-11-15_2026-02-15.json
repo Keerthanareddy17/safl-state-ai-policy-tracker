@@ -1,0 +1,153 @@
+{
+ "region": "Rajasthan",
+ "group": "B",
+ "query": "(Rajasthan) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Rajasthan%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:38+00:00",
+ "item_count": 13,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan Hosts Regional AI Impact Conference, Advancing India’s Vision for Inclusive and Responsible AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1hSXV0enJzb3JJUHpiTnQ3NGc4X2dpTWR6UlMtMUF6X250T1psV1o4UFNjZXFINnJPMmJGaEswS2lPMVRiZXdCTnc1cjd2czFBeUVFd0VUQlBuRzhhTGRONUlZTm1BT1F2QkJ1RjBfSHp0VEJuVGRjbFdn?oc=5\" target=\"_blank\">Rajasthan Hosts Regional AI Impact Conference, Advancing India’s Vision for Inclusive and Responsible AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hSXV0enJzb3JJUHpiTnQ3NGc4X2dpTWR6UlMtMUF6X250T1psV1o4UFNjZXFINnJPMmJGaEswS2lPMVRiZXdCTnc1cjd2czFBeUVFd0VUQlBuRzhhTGRONUlZTm1BT1F2QkJ1RjBfSHp0VEJuVGRjbFdn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 07 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan Cabinet approves AI-ML Policy 2026, promotes ethical and responsible AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNF9xUFF4eUdsaWZ5a1dmVTcybS14UTlaSGdBRHFzN3FMWkw3N2tqV09YaDB0cWdHN3Z4YU9ZcnFsODFtbmN5WWxEUUtJZ1BvQkVieVdtZ3BDbFUtVUlJb3JlWTdWVTlQbGJlcnRUYklHMmdSSUt0OFVvUW5ZS2Q5YnRPNDU0YVk1Mi1Wc1BkRTFuTk5QOUswWjNodFlzNWdjMzNEQ2psd3FtQQ?oc=5\" target=\"_blank\">Rajasthan Cabinet approves AI-ML Policy 2026, promotes ethical and responsible AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNF9xUFF4eUdsaWZ5a1dmVTcybS14UTlaSGdBRHFzN3FMWkw3N2tqV09YaDB0cWdHN3Z4YU9ZcnFsODFtbmN5WWxEUUtJZ1BvQkVieVdtZ3BDbFUtVUlJb3JlWTdWVTlQbGJlcnRUYklHMmdSSUt0OFVvUW5ZS2Q5YnRPNDU0YVk1Mi1Wc1BkRTFuTk5QOUswWjNodFlzNWdjMzNEQ2psd3FtQQ?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan bets on AI & ML Policy 2026 to carve strategic role in India’s AI journey",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXJTVk5UQ05BTklHaHZ1M2p2UG10LTAyMUtaTlZfWGRTN2dMa1JHcVVNemxicVJfSzd5cTlPMG4taklWcU1qT2lYMG43S3VxdFE2MXYtazR1Rkp6U1ZrSnBoNWhHRUJCUnpwaDdROTdXWEd4dWVYZ1pwNVNxWjF5LWVKb3h0Zi1DcWQwczJ3QmZUamY1enhycVhVUkNRMkFVcmRWRHVVWlBCcUROcy1TaGx1dmNGYWhUUTNHdVhjdGZ5YVQwYWRWQzlYei1qUjlqQ1c40gHXAUFVX3lxTE95dWZuR1Vzb19ja3FXbDViXzQ1YUFQTW9va3ZHVEwzb3NoMVlva0VDZWtIa2J2OXE5TlVTQWZnUUtjanhlQWdxcXhKeFoxSEgyUElxdG1ZVDBOZy14RXdqNXRrS2xjR3lnLU5rcHV2clVXdkpFMFR6ZlBHRmJ6MlpTNW95NHhPTThSXzQ2cG4yWGFYa1I1LUpXeGZwSzRURW5qZU5UYm8wTXBMTk1yVnFCZll5c29qcUdiUWRXQ0ZLYXBqbW44bDVCaXVIUGZNcVBwdm54WTg4?oc=5\" target=\"_blank\">Rajasthan bets on AI & ML Policy 2026 to carve strategic role in India’s AI journey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXJTVk5UQ05BTklHaHZ1M2p2UG10LTAyMUtaTlZfWGRTN2dMa1JHcVVNemxicVJfSzd5cTlPMG4taklWcU1qT2lYMG43S3VxdFE2MXYtazR1Rkp6U1ZrSnBoNWhHRUJCUnpwaDdROTdXWEd4dWVYZ1pwNVNxWjF5LWVKb3h0Zi1DcWQwczJ3QmZUamY1enhycVhVUkNRMkFVcmRWRHVVWlBCcUROcy1TaGx1dmNGYWhUUTNHdVhjdGZ5YVQwYWRWQzlYei1qUjlqQ1c40gHXAUFVX3lxTE95dWZuR1Vzb19ja3FXbDViXzQ1YUFQTW9va3ZHVEwzb3NoMVlva0VDZWtIa2J2OXE5TlVTQWZnUUtjanhlQWdxcXhKeFoxSEgyUElxdG1ZVDBOZy14RXdqNXRrS2xjR3lnLU5rcHV2clVXdkpFMFR6ZlBHRmJ6MlpTNW95NHhPTThSXzQ2cG4yWGFYa1I1LUpXeGZwSzRURW5qZU5UYm8wTXBMTk1yVnFCZll5c29qcUdiUWRXQ0ZLYXBqbW44bDVCaXVIUGZNcVBwdm54WTg4?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 01 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Data centre with focus on e-governance, digital inclusion to be set up in Jaipur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEM4T2o0YUpWWnJVYTl5eXA0VEhmNnU5R0ZtbThaNW1ndXEydVNnRkNHM1Q4Z0trem1zcXkxNUdTWloyX1MzX0FXOTRhZDRrTG0tUl9wak00SzZaakFFSVI2MGtOd0UxLVFMc2s0amhzX1d1czhfcWVRQVJ2VnpTR3hrQk51aTdGN3loc0ZQYVhfR1VGVzRYWUY4akVYYWR2bm8tdnppcUZ0M3ExckZHaVBhbUpJbUFVUkp5OG9DSWh3SjhHaVhidHVydjNVakY1M1FESmFnMmp3LUhBdHhoSDFR0gHoAUFVX3lxTFB1ZHJhYkdpaW5lS3hzSU1lR1dZT2JiQVdFRkJhSWlOdFdFbHdSb1lzbjUtRE91U1N3YVpwdFMyMnhVMFRYS1pHTlV0clh2Q2JWSThHNFZOQXpVV2FpU0toR1Q2dXhQVDlnX2lzNG01VnhQalZaVDJaQWYwWmdkVmhiNlFRTDhmS3J1NGt6dzU0SzVXS21UX3RHX2VWclZ1SF9peFUwOHFiQVowLWt5WlFXTjZEd1E1YmU4Q3E3VU5pbmxlcjNtOUxuTzJHSS1keWxoVEphbXpPazA5THpjOTJudUN6WmhxaDQ?oc=5\" target=\"_blank\">Data centre with focus on e-governance, digital inclusion to be set up in Jaipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEM4T2o0YUpWWnJVYTl5eXA0VEhmNnU5R0ZtbThaNW1ndXEydVNnRkNHM1Q4Z0trem1zcXkxNUdTWloyX1MzX0FXOTRhZDRrTG0tUl9wak00SzZaakFFSVI2MGtOd0UxLVFMc2s0amhzX1d1czhfcWVRQVJ2VnpTR3hrQk51aTdGN3loc0ZQYVhfR1VGVzRYWUY4akVYYWR2bm8tdnppcUZ0M3ExckZHaVBhbUpJbUFVUkp5OG9DSWh3SjhHaVhidHVydjNVakY1M1FESmFnMmp3LUhBdHhoSDFR0gHoAUFVX3lxTFB1ZHJhYkdpaW5lS3hzSU1lR1dZT2JiQVdFRkJhSWlOdFdFbHdSb1lzbjUtRE91U1N3YVpwdFMyMnhVMFRYS1pHTlV0clh2Q2JWSThHNFZOQXpVV2FpU0toR1Q2dXhQVDlnX2lzNG01VnhQalZaVDJaQWYwWmdkVmhiNlFRTDhmS3J1NGt6dzU0SzVXS21UX3RHX2VWclZ1SF9peFUwOHFiQVowLWt5WlFXTjZEd1E1YmU4Q3E3VU5pbmxlcjNtOUxuTzJHSS1keWxoVEphbXpPazA5THpjOTJudUN6WmhxaDQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 07 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Ai Data Centre Focused On E Governance To Be Set Up In Jaipur - PT Pulse",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzlBS202OHA4dFBLX1h2eHZwX2ViOXJ5cjB6RjFnb0JRZTNsenlETEJ3OXhGOEdZWEZ4WEVLRXg0TngxU1AxMWtmRFRUcW1ycUdXVUV1UXBnRE40eXBBc1ljOV9QbDVDVEp4OFlCVjlOelREVjVGcDUyMUpKajMtTzVGRHVUdnBBV04xeGhjUk96ZUZSVjZkY3ZMR1J3ekpVVDZBWlU5LW9JR1llODJoU0VUOA?oc=5\" target=\"_blank\">Ai Data Centre Focused On E Governance To Be Set Up In Jaipur - PT Pulse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Projects Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzlBS202OHA4dFBLX1h2eHZwX2ViOXJ5cjB6RjFnb0JRZTNsenlETEJ3OXhGOEdZWEZ4WEVLRXg0TngxU1AxMWtmRFRUcW1ycUdXVUV1UXBnRE40eXBBc1ljOV9QbDVDVEp4OFlCVjlOelREVjVGcDUyMUpKajMtTzVGRHVUdnBBV04xeGhjUk96ZUZSVjZkY3ZMR1J3ekpVVDZBWlU5LW9JR1llODJoU0VUOA?oc=5",
+   "source_name": "Projects Today",
+   "source_domain": "projectstoday.ai",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "How Rajasthan’s AI-ML Policy 2026 aligns governance and skilling with India’s AI mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWkhIUlQ5SnZxSlVzaWJZRWhYV1lYY21WSHIzZGxxVUMybU1EODFLREV1VGdrWXVCS2NvTEJNVlFmYk1qUXZVUzN0cnUwYnEwQUcyVFR3YjBoYnF5ck1PU1gyR2h4dUN1TEFoa3doMzgtVE9tcGJlb3F0YmFYNC0wOFlmeFpmSnNTMzdPWUNjRkFDTkMyNHhOM3cyUGR6cG04RlMzTVlCOFdXdTFFUU9lWktQUENtTnc2eUdKc2N0MWZtaG01VHNwUW04VzF3dExycUNlY0ZtbG1UZjJvN1pkOUpaSdIB5wFBVV95cUxQSWo0RHhPa1RnWEZ3RnRqdEx1dkRBd1FFMTNvUm9RLTRQeWVpZzB0TU1aNFBxNEYtMnlRMWNxVVNRNHVKdmlTYmZSWVJGWHJDLVNWNzk2RXlaUVNaSmZ2TlV6U1l0Z3NidVBpTG50RTUxUHYyb0ZkOGFxT0hVTi1HMjNZcjhqR2tMTXB5a2xUdmRfVjlIbGFMZjNWZ1VYbzN4cFZ0NVNmVFVsNDBBdHN1a2R0S2FXdnY1azBHdnlkX21OUG90M1Z0Qkd6cmVoOTBmaWJQdEFRdXhZWk1RclJESC1sR1h6UTQ?oc=5\" target=\"_blank\">How Rajasthan’s AI-ML Policy 2026 aligns governance and skilling with India’s AI mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWkhIUlQ5SnZxSlVzaWJZRWhYV1lYY21WSHIzZGxxVUMybU1EODFLREV1VGdrWXVCS2NvTEJNVlFmYk1qUXZVUzN0cnUwYnEwQUcyVFR3YjBoYnF5ck1PU1gyR2h4dUN1TEFoa3doMzgtVE9tcGJlb3F0YmFYNC0wOFlmeFpmSnNTMzdPWUNjRkFDTkMyNHhOM3cyUGR6cG04RlMzTVlCOFdXdTFFUU9lWktQUENtTnc2eUdKc2N0MWZtaG01VHNwUW04VzF3dExycUNlY0ZtbG1UZjJvN1pkOUpaSdIB5wFBVV95cUxQSWo0RHhPa1RnWEZ3RnRqdEx1dkRBd1FFMTNvUm9RLTRQeWVpZzB0TU1aNFBxNEYtMnlRMWNxVVNRNHVKdmlTYmZSWVJGWHJDLVNWNzk2RXlaUVNaSmZ2TlV6U1l0Z3NidVBpTG50RTUxUHYyb0ZkOGFxT0hVTi1HMjNZcjhqR2tMTXB5a2xUdmRfVjlIbGFMZjNWZ1VYbzN4cFZ0NVNmVFVsNDBBdHN1a2R0S2FXdnY1azBHdnlkX21OUG90M1Z0Qkd6cmVoOTBmaWJQdEFRdXhZWk1RclJESC1sR1h6UTQ?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Sat, 10 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan Regional AI Impact Conference 2026 in Jaipur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWVBbTVkb0JCNGpBdHRJSENGdU9jLTAzckI2c2oxblpIRm4wb2gta3RwWUxQWFE5SUNQTnN2MWJyQVNCV2x2bEdHRFdYSkFybnd0SWppWDVLZC1sUFM1Z1hSOC0ySjhYUlJwLUp1Y1NEZnVkNVg4VVR1a1hDN2JvbWRHZDE?oc=5\" target=\"_blank\">Rajasthan Regional AI Impact Conference 2026 in Jaipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWVBbTVkb0JCNGpBdHRJSENGdU9jLTAzckI2c2oxblpIRm4wb2gta3RwWUxQWFE5SUNQTnN2MWJyQVNCV2x2bEdHRFdYSkFybnd0SWppWDVLZC1sUFM1Z1hSOC0ySjhYUlJwLUp1Y1NEZnVkNVg4VVR1a1hDN2JvbWRHZDE?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Mon, 05 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Jaipur gets major data centre project approved: Union minister says 'Bhoomi Pujan' soon; 10 lakh youth to r...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQYmw0YzZhaW9TQ3o5TUM1ZU00aHhGYUhtVWd0WlJ2aXJSbEd0MzZ4OFpLOG5wb2hBY1VfLWxpNzJ5bTlHTi1aUEt0X0thVUpuQ1dFLXFOYkgxbVEwQWFwUTFZVzRFX2hUSGJZTThlV0NVSkpFcjhMY2hodW9FZlpNVm9OY0lMZ0ZfNnBNOTVxdXJHU3lodHp5dlJTcWRoYy1OT05SbGpJY3Jjb2VxUjd2bk9FRzA4dEE2OW9HaVRIb2tDT0N1NlRBTU5Uc0tDY3ZybVF1NmFOTklXUmxtSF91WEVTSVEtWk5Udk9uZUkydWVjV3BsdzctamtnT250SXdqb0g4YVJ5WjVEcEJnZmxoaDhtQzPSAZoCQVVfeXFMTTZvZlllREZmTlpoV0tmZTNlRGU1UFlNS0dBR2N1bU5JV0hSSkpYemI1aDdzY2dHSGdXdmEwZGxvcmtzWHhZOG5zMWlqRUZwUEx4UDluRU1QUTVibWl3QTRhc21wSkRBYk44Y19zWGM4WkhFSW81dVpjYml0eG5iOENpamdXbDNXamdnc2dOZUR1UGdaVGVnUG8yVHFtQjZ3VjJ1d3BIQVRSTUE0dktQQnhaUFdFNkRsaEZOUGRQNXp4ZnIzMFRiX3pKak5pVWwyWjItOHJpbDNibDBSMWE2ZjMxRU5tdFk4cEpSOTRCTnBTamVXdG5kbjJQZ2dRRlpQUDQzYlZWZ0NRNTdWNkxKbFAycUYwaWpiYjZ3?oc=5\" target=\"_blank\">Jaipur gets major data centre project approved: Union minister says 'Bhoomi Pujan' soon; 10 lakh youth to r...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bhaskar English</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYmw0YzZhaW9TQ3o5TUM1ZU00aHhGYUhtVWd0WlJ2aXJSbEd0MzZ4OFpLOG5wb2hBY1VfLWxpNzJ5bTlHTi1aUEt0X0thVUpuQ1dFLXFOYkgxbVEwQWFwUTFZVzRFX2hUSGJZTThlV0NVSkpFcjhMY2hodW9FZlpNVm9OY0lMZ0ZfNnBNOTVxdXJHU3lodHp5dlJTcWRoYy1OT05SbGpJY3Jjb2VxUjd2bk9FRzA4dEE2OW9HaVRIb2tDT0N1NlRBTU5Uc0tDY3ZybVF1NmFOTklXUmxtSF91WEVTSVEtWk5Udk9uZUkydWVjV3BsdzctamtnT250SXdqb0g4YVJ5WjVEcEJnZmxoaDhtQzPSAZoCQVVfeXFMTTZvZlllREZmTlpoV0tmZTNlRGU1UFlNS0dBR2N1bU5JV0hSSkpYemI1aDdzY2dHSGdXdmEwZGxvcmtzWHhZOG5zMWlqRUZwUEx4UDluRU1QUTVibWl3QTRhc21wSkRBYk44Y19zWGM4WkhFSW81dVpjYml0eG5iOENpamdXbDNXamdnc2dOZUR1UGdaVGVnUG8yVHFtQjZ3VjJ1d3BIQVRSTUE0dktQQnhaUFdFNkRsaEZOUGRQNXp4ZnIzMFRiX3pKak5pVWwyWjItOHJpbDNibDBSMWE2ZjMxRU5tdFk4cEpSOTRCTnBTamVXdG5kbjJQZ2dRRlpQUDQzYlZWZ0NRNTdWNkxKbFAycUYwaWpiYjZ3?oc=5",
+   "source_name": "Bhaskar English",
+   "source_domain": "bhaskarenglish.in",
+   "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "AI Video of Sachin Pilot Talking About Being Pulled From Debate Goes Viral",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmhqNjNHVjM2NDZDbm85ckxxSXEzWlNUUzlySWFQSjZkbHJkajAzMEtPOW9ZLW1MSkNoNk55dVFYY2lENDZZb0NmdHh6VGdYTTVxTG1UZnhBRjVNT0xwSWJ3TXV1MktxOTNnODByM2ZMUEM1UFdtWGpiUDMxQ01mVjJrZEVyclFfVWxLTlQtbGZtX01MVmFrQXJ4VndsNUFtVlQxZWlTUW1OTTQ5VzJBZmNIMHZYU3lFYTcwT3BuY3pvZ1o3Z0530gHUAUFVX3lxTE1HaTQ3WFRNbWU3ZmZMVTVQTUNRR0RDam1zM0ZsMEtnLWRwUFh5SHozQ3B5NWFQSU9RSElNdHl4N0NyUGFVS3hEbUQ5TkVwTm1pQ1daUWFGN3NqSXBueGdPQ0I3bVlodWpRUk51ODdYTW5ZckxEXzlnVUQyOUl4Wm1WTWptUTkyeS1ZTFBIYTdheWxaZzF3ZzlFZElIbzBvUlR1ZWRnUUk0amRlV2lNdDRfRUZrMmJoVmVmQzVTT19NdWFuaWVhM0s4NVhyWGRPb0xrZ0hB?oc=5\" target=\"_blank\">AI Video of Sachin Pilot Talking About Being Pulled From Debate Goes Viral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quint</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmhqNjNHVjM2NDZDbm85ckxxSXEzWlNUUzlySWFQSjZkbHJkajAzMEtPOW9ZLW1MSkNoNk55dVFYY2lENDZZb0NmdHh6VGdYTTVxTG1UZnhBRjVNT0xwSWJ3TXV1MktxOTNnODByM2ZMUEM1UFdtWGpiUDMxQ01mVjJrZEVyclFfVWxLTlQtbGZtX01MVmFrQXJ4VndsNUFtVlQxZWlTUW1OTTQ5VzJBZmNIMHZYU3lFYTcwT3BuY3pvZ1o3Z0530gHUAUFVX3lxTE1HaTQ3WFRNbWU3ZmZMVTVQTUNRR0RDam1zM0ZsMEtnLWRwUFh5SHozQ3B5NWFQSU9RSElNdHl4N0NyUGFVS3hEbUQ5TkVwTm1pQ1daUWFGN3NqSXBueGdPQ0I3bVlodWpRUk51ODdYTW5ZckxEXzlnVUQyOUl4Wm1WTWptUTkyeS1ZTFBIYTdheWxaZzF3ZzlFZElIbzBvUlR1ZWRnUUk0amRlV2lNdDRfRUZrMmJoVmVmQzVTT19NdWFuaWVhM0s4NVhyWGRPb0xrZ0hB?oc=5",
+   "source_name": "The Quint",
+   "source_domain": "thequint.com",
+   "published_raw": "Fri, 05 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan CM outlines AI roadmap for Rajasthan at Regional AI Impact Conference 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVRBR1BLaGgyQ3dZNElZbGdDaXVDajQtNXNUN1VqNkVwaF9DTFJVZjJ0T3RMR0EwS0Z3S0xEOUxlS1VfLTV3c1VCczJuLTJ1clFIWm1XOFhCUzhoOG9ZYnQtX25iLXkzalBXS093VlRxbGViSGhnQTdoUk9YUHd1NzZVU2lRRUZEV3JMV0s0R3NVM2RHaDhWR3NfdXZseTRvTDhFT2ttRTlYNHE5QjY1WnF5N0VwTy1kQUc0SWxxRGdiMDhHYkRKb2R6eDkydzJXQWw3WmJsTdIB2wFBVV95cUxPTDFhYWx0MWQ5M0N4eXhJNlFxTE5LcFhhVjFjS1ZFVlFfLXQ5MV9kZ211SXdtdG9YeWd6RUZuRG1hbFo5SWtHeG9jTzMzOE1hc3hrb1c2U2NVX2FfNFF0Z04xTE05NFpWa09VUUhYdVVEVzdtMnMyejR6OEVTSXBPU2dkc25fd1FjNVRYRTAyTkh5OWl4WmUwYm5RaDVCNEhwZFF1TV9GZnEtSGRaWW00M0lQWHZWSEl3cXhrWFJtRVRMLUt3TnBRMkEyNm0wRnJjeTd1UlI1alRHRDg?oc=5\" target=\"_blank\">Rajasthan CM outlines AI roadmap for Rajasthan at Regional AI Impact Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVRBR1BLaGgyQ3dZNElZbGdDaXVDajQtNXNUN1VqNkVwaF9DTFJVZjJ0T3RMR0EwS0Z3S0xEOUxlS1VfLTV3c1VCczJuLTJ1clFIWm1XOFhCUzhoOG9ZYnQtX25iLXkzalBXS093VlRxbGViSGhnQTdoUk9YUHd1NzZVU2lRRUZEV3JMV0s0R3NVM2RHaDhWR3NfdXZseTRvTDhFT2ttRTlYNHE5QjY1WnF5N0VwTy1kQUc0SWxxRGdiMDhHYkRKb2R6eDkydzJXQWw3WmJsTdIB2wFBVV95cUxPTDFhYWx0MWQ5M0N4eXhJNlFxTE5LcFhhVjFjS1ZFVlFfLXQ5MV9kZ211SXdtdG9YeWd6RUZuRG1hbFo5SWtHeG9jTzMzOE1hc3hrb1c2U2NVX2FfNFF0Z04xTE05NFpWa09VUUhYdVVEVzdtMnMyejR6OEVTSXBPU2dkc25fd1FjNVRYRTAyTkh5OWl4WmUwYm5RaDVCNEhwZFF1TV9GZnEtSGRaWW00M0lQWHZWSEl3cXhrWFJtRVRMLUt3TnBRMkEyNm0wRnJjeTd1UlI1alRHRDg?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan hosts regional impact conference in run-up to India AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRmFVTDBRTk85R3BlVTR0OVh2em1ORWtqb1pqc1BzcHV6V2NEd1RHdjZNVFVNc1huXy1kUmVCWTRQajY2VDQ2VlZzWlZqb3hjOXdOZklfWDh5eHJENXo5bWhid1Eta2EySmdZRjE5bmNUVi1ydUpkSGFNTVFkOVhpaFE0UXh0SzFIOS03TS15blg2MlJXTE8zY1JZQXJJZ3VXMC1mYVM0dlp6NGNVbzNXZDVZb1ZjczdiVlBzSmg5Y2ZUelpTMWk1eDl0VkJyRWZIemfSAdcBQVVfeXFMUHg0V3lxZnJPckpvSDdGRHBSbjlJbTRUa1VOZXFNZ2V2eW9qTDU0WGdWNXB6Ynlzclo1cGg3eFlSVHRTU0d3ZXdqNlc4LU5ZS2VxcXV1WW4zaTJTT29LZVBoc1dkR1FSZ3ctNUJsc0dJWjJid0FzQ21PSzZjcWFUejJKZERGSFBqRHgwbzdSdlJxUXpPNllNV0drSHZSajhxWjhNZE16eDYwLVJzeGQ0VHpQdzNrSTZhZkZkdXd4S2FCN1Y0R3FkYk8ydEhyaHFMM1J3S3pQeFE?oc=5\" target=\"_blank\">Rajasthan hosts regional impact conference in run-up to India AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRmFVTDBRTk85R3BlVTR0OVh2em1ORWtqb1pqc1BzcHV6V2NEd1RHdjZNVFVNc1huXy1kUmVCWTRQajY2VDQ2VlZzWlZqb3hjOXdOZklfWDh5eHJENXo5bWhid1Eta2EySmdZRjE5bmNUVi1ydUpkSGFNTVFkOVhpaFE0UXh0SzFIOS03TS15blg2MlJXTE8zY1JZQXJJZ3VXMC1mYVM0dlp6NGNVbzNXZDVZb1ZjczdiVlBzSmg5Y2ZUelpTMWk1eDl0VkJyRWZIemfSAdcBQVVfeXFMUHg0V3lxZnJPckpvSDdGRHBSbjlJbTRUa1VOZXFNZ2V2eW9qTDU0WGdWNXB6Ynlzclo1cGg3eFlSVHRTU0d3ZXdqNlc4LU5ZS2VxcXV1WW4zaTJTT29LZVBoc1dkR1FSZ3ctNUJsc0dJWjJid0FzQ21PSzZjcWFUejJKZERGSFBqRHgwbzdSdlJxUXpPNllNV0drSHZSajhxWjhNZE16eDYwLVJzeGQ0VHpQdzNrSTZhZkZkdXd4S2FCN1Y0R3FkYk8ydEhyaHFMM1J3S3pQeFE?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Wed, 07 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan CM interacts with industry delegations ahead of Rajasthan DigiFest–TiE Global Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQlk3TWJrU0h4VURlVUg5cWkyOWEtQ3VZZnpVekFuUGtoUjNNV3huWVppaERrX0NGZ044V2lRZTdJSHF5RzZ6d3pzRTMwbVVEZ2RSQTJYQ1V4TjBVY0xrek9NWnBma0dHMHZqTkY2Vk9UYUhIYmFiOG9fSjVaeEdsdERsXzkwRk43ZU1aZXc1WkdxWk5XeFE2UjN4Y2pBSVNSNjFJazVmYVZuVURaZ0lLdzNrUkF0QnJ2b2huOG1jNWlQLVJxeW1pZXlDaEhiTVVqTUVWSDBnYmNrS0lsRkdQNHJMM25nd29reWhSTndQXzU1cnVX0gH4AUFVX3lxTE9KVTE0TENEVDZTbkVJdmdBTGV2SnNzTnRvNTBLMlVQUm5TNGtfWVI5TWxDcmwyTll3YWtOMTF2OTBrekRSdFJTajNKeUs4Vy1YMnlKM1hSUDNUREZmSGF4WmFrZHoweEFtaFBETVBVN2YtcmF6TkRZR1NHS0J5b09YbmpDY05kZDRJV0l2enIzcEVuNWhFY1lVTGl2QVV1SC1IVDJqYzU2NERLTjV3THBmUjc2NDM3MU9jbjRQOFpnajdKeHlCWjJacXloRVRLV2poS2tNZVhiSGM5ZW5hS0VFS1M4aVpjT2tvNE9aTDgyX1hoMkVaRC0y?oc=5\" target=\"_blank\">Rajasthan CM interacts with industry delegations ahead of Rajasthan DigiFest–TiE Global Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQlk3TWJrU0h4VURlVUg5cWkyOWEtQ3VZZnpVekFuUGtoUjNNV3huWVppaERrX0NGZ044V2lRZTdJSHF5RzZ6d3pzRTMwbVVEZ2RSQTJYQ1V4TjBVY0xrek9NWnBma0dHMHZqTkY2Vk9UYUhIYmFiOG9fSjVaeEdsdERsXzkwRk43ZU1aZXc1WkdxWk5XeFE2UjN4Y2pBSVNSNjFJazVmYVZuVURaZ0lLdzNrUkF0QnJ2b2huOG1jNWlQLVJxeW1pZXlDaEhiTVVqTUVWSDBnYmNrS0lsRkdQNHJMM25nd29reWhSTndQXzU1cnVX0gH4AUFVX3lxTE9KVTE0TENEVDZTbkVJdmdBTGV2SnNzTnRvNTBLMlVQUm5TNGtfWVI5TWxDcmwyTll3YWtOMTF2OTBrekRSdFJTajNKeUs4Vy1YMnlKM1hSUDNUREZmSGF4WmFrZHoweEFtaFBETVBVN2YtcmF6TkRZR1NHS0J5b09YbmpDY05kZDRJV0l2enIzcEVuNWhFY1lVTGl2QVV1SC1IVDJqYzU2NERLTjV3THBmUjc2NDM3MU9jbjRQOFpnajdKeHlCWjJacXloRVRLV2poS2tNZVhiSGM5ZW5hS0VFS1M4aVpjT2tvNE9aTDgyX1hoMkVaRC0y?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Mon, 05 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan rolls out AI-enabled ‘My Career Advisor’ app for students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVVJINjh0SmVvblVlbktxcDFHUW9fM1o4Y0dqZGxKYUZ5ZTNlQUpPaDZCczVfeDNldGlNdkNESlJxbTI3ZDd5dWU0UlVheUs4NFJ0UGU5blIxNHVLX082S3F0Rl9veXh6SWNORTh6cEVDZzJaa3NXU1lrR01JV1hqMzd0eGdkcG5MS2V6X1hLUVdFUUVnaWFaZTRsRzdMLXpXMk5ONEFxS0ZIeUx3blJBTzhiUHA3LWRINVk2Z2dDbUxuVFdjWU1VblNlRUdNdk1DVDFQS9IB2gFBVV95cUxQaVFSYjdsWnZrRmlFZUhjU3M4d2NaMlFrUTV2ZzdXZmtHc052ZXVnZWFWYVIzTG9qVVF5VWE2N1VGU1JGcnJoeXFQRDkwWFBBRHFtYnNPUkFnbWZWWGMwaVU2MEFSc1VmMlBNb1o2c1o5YXV5cTB3Um9qMmdDc1RLMDRUdmdnLVZtb2YxZFJZNWdTSnhfUFJTd1FFSm5kek90dWJrQzJBVXEwQmsxU3BSd2lMb1IyWVlkNkZudHo1dVlGYlRkVWI1eWhSOHJJRXkxem1Pc1ZJWGVsZw?oc=5\" target=\"_blank\">Rajasthan rolls out AI-enabled ‘My Career Advisor’ app for students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVVJINjh0SmVvblVlbktxcDFHUW9fM1o4Y0dqZGxKYUZ5ZTNlQUpPaDZCczVfeDNldGlNdkNESlJxbTI3ZDd5dWU0UlVheUs4NFJ0UGU5blIxNHVLX082S3F0Rl9veXh6SWNORTh6cEVDZzJaa3NXU1lrR01JV1hqMzd0eGdkcG5MS2V6X1hLUVdFUUVnaWFaZTRsRzdMLXpXMk5ONEFxS0ZIeUx3blJBTzhiUHA3LWRINVk2Z2dDbUxuVFdjWU1VblNlRUdNdk1DVDFQS9IB2gFBVV95cUxQaVFSYjdsWnZrRmlFZUhjU3M4d2NaMlFrUTV2ZzdXZmtHc052ZXVnZWFWYVIzTG9qVVF5VWE2N1VGU1JGcnJoeXFQRDkwWFBBRHFtYnNPUkFnbWZWWGMwaVU2MEFSc1VmMlBNb1o2c1o5YXV5cTB3Um9qMmdDc1RLMDRUdmdnLVZtb2YxZFJZNWdTSnhfUFJTd1FFSm5kek90dWJrQzJBVXEwQmsxU3BSd2lMb1IyWVlkNkZudHo1dVlGYlRkVWI1eWhSOHJJRXkxem1Pc1ZJWGVsZw?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:38+00:00"
+  }
+ ]
+}

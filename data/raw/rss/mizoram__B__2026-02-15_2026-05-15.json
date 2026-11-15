@@ -1,0 +1,98 @@
+{
+ "region": "Mizoram",
+ "group": "B",
+ "query": "(Mizoram) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Mizoram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:35:03+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram speaker Lalbiakzama unveils AI platform",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0VHZDN6RGZCR3lVdmlldnVrTXBNU2x6MTJCSVJ3UVZRSzFJVy1LSXpScnBSN1czbnBJcmdVTHdmVGxDS1RhRzBRcHc0U3hjZGpFM21PZDVyUHhHaEJuTlRkSmNDVFpCUE1HbkQwR2xXRHhyTW9HY2pGV1BucWVoNUxwZmJQTUZvbkJBbVBOTUluMkRxQnZqUldUQU9pNV96aUZ5WUg4X1lfRFdPclplM3dqLXRUcUFuRjdKX1ZaQmPSAcYBQVVfeXFMTTZhWDY1Y2RBSi14b0dRQkF2Wm0tUklPTVJaVmhlYVpCc0RZeVdSaEJheDkwemx6RmdCZkRSbzJZOEpOcTNGS05GZmc0cFJMU1dHaVlZTzRWQS04ejJzQkFIekQ5amFhbWNEVkxVSXp4eXJQdURJWkN4RWdEZEQ4QjBOeWsyN2g4T0c2Z0FkMVNjTzR1VmxFbmJEV05CTmZKMXBDZEtWT3V2anZFTlhLSi1ZMjJoT3hOamRXQmFHNzFjcnRxT0pR?oc=5\" target=\"_blank\">Mizoram speaker Lalbiakzama unveils AI platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0VHZDN6RGZCR3lVdmlldnVrTXBNU2x6MTJCSVJ3UVZRSzFJVy1LSXpScnBSN1czbnBJcmdVTHdmVGxDS1RhRzBRcHc0U3hjZGpFM21PZDVyUHhHaEJuTlRkSmNDVFpCUE1HbkQwR2xXRHhyTW9HY2pGV1BucWVoNUxwZmJQTUZvbkJBbVBOTUluMkRxQnZqUldUQU9pNV96aUZ5WUg4X1lfRFdPclplM3dqLXRUcUFuRjdKX1ZaQmPSAcYBQVVfeXFMTTZhWDY1Y2RBSi14b0dRQkF2Wm0tUklPTVJaVmhlYVpCc0RZeVdSaEJheDkwemx6RmdCZkRSbzJZOEpOcTNGS05GZmc0cFJMU1dHaVlZTzRWQS04ejJzQkFIekQ5amFhbWNEVkxVSXp4eXJQdURJWkN4RWdEZEQ4QjBOeWsyN2g4T0c2Z0FkMVNjTzR1VmxFbmJEV05CTmZKMXBDZEtWT3V2anZFTlhLSi1ZMjJoT3hOamRXQmFHNzFjcnRxT0pR?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 08 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Governor Addresses the Budget Session of the Ninth Legislative Assembly of Mizoram",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFNKbFkzNXhtMzdQazVsc1RXbWtOOUwzQmxBOEFHRGxZSmNlUGI3bi1sMi1sRmtVNHlQbHZYdmlvOHl3ZVZjZ09rUDhMSUFqeVNESkNVTnRITkVJS2tVeDQ3VGlNaF9mNDcyZG9oNUc0SVRrYWVpSFZCQlBGVFgtaXczamFEcUE1eWVLU3pQTDBtUnNQZmFXeEFKOUhQSnJHLUdhSmFCMS13REU5aHF3S2h6dm5IY0UxWmNwMlpLVzc3QQ?oc=5\" target=\"_blank\">Mizoram Governor Addresses the Budget Session of the Ninth Legislative Assembly of Mizoram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lok Bhavan Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFNKbFkzNXhtMzdQazVsc1RXbWtOOUwzQmxBOEFHRGxZSmNlUGI3bi1sMi1sRmtVNHlQbHZYdmlvOHl3ZVZjZ09rUDhMSUFqeVNESkNVTnRITkVJS2tVeDQ3VGlNaF9mNDcyZG9oNUc0SVRrYWVpSFZCQlBGVFgtaXczamFEcUE1eWVLU3pQTDBtUnNQZmFXeEFKOUhQSnJHLUdhSmFCMS13REU5aHF3S2h6dm5IY0UxWmNwMlpLVzc3QQ?oc=5",
+   "source_name": "Lok Bhavan Mizoram",
+   "source_domain": "rajbhavan.mizoram.gov.in",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "CYBER CRIME CHUNGCHANG ZIRHONA ‘TRAINING ON CYBER CRIME’ NEIH A NI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQR1I5dWFiS0lpRERjZkdGSjhYT2lzR2UtQlY3VHY2QWl6NGptV2NxUWlhODBjVE1sVzEydWVfQU1qX3Jrci1JM0Y2eTVleUxBdkF6Y3JKbWVlT1FNdTh2TVRHLWlkQlNEQjRDQVZPOG9qd1lpZ2NlT0cxYWlDdXg5MlBDaF83cTE3SHdKNzVOcUt2dnpBdkxHS1FFM1JvQQ?oc=5\" target=\"_blank\">CYBER CRIME CHUNGCHANG ZIRHONA ‘TRAINING ON CYBER CRIME’ NEIH A NI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1I5dWFiS0lpRERjZkdGSjhYT2lzR2UtQlY3VHY2QWl6NGptV2NxUWlhODBjVE1sVzEydWVfQU1qX3Jrci1JM0Y2eTVleUxBdkF6Y3JKbWVlT1FNdTh2TVRHLWlkQlNEQjRDQVZPOG9qd1lpZ2NlT0cxYWlDdXg5MlBDaF83cTE3SHdKNzVOcUt2dnpBdkxHS1FFM1JvQQ?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Fri, 20 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "16 deaths, 581 houses damaged in natural disasters in Mizoram last year: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSTBkcmNqSTFlNmtHVmhvd3lxX3ZKbGhpbFNEbmx0NFZzaTNUaWR2YUZxMFFaR05FVEM4bVBtaDR6eWZ0QUp5cUxvTTFHcURGZFN0RWZCcWZMUjZXd3R4dDctRkhERHNoM2YzRktpTVBCRmdhMF9KZUg0ekdFY1piLTFRcG90cE5aMmNvMjE3RmNSSm13OHJfNlVrZkNXX09sdDZUX3NxcmFjTzBUdFV1WFVXVTV2RnNYd3NCVDNCN0ZkYWs5cGpHcGdxOXBQQTNZRDdYTWFHc9IB3AFBVV95cUxNQWVHSURyZjNhb0JRcVh2YkdlcWlnaWZpaU1JcFBCc1RYV2lKUE8yakFSVmR1WUlKZVZFS2ZxenhzcFg2MUUzQ3JHX2ZhRVR2RkstNk9qN3hYaFIyUnl4SENMYU9lZkFIbmNfU0Y1RkhWSmcydVRaU1BfX0IzS0JwdGo5QXZvdVVMUnpsV2tndGtWd2FNRHpOcjc0TE9sMlg1VGY4Smw2RnB0MzczTFpRTEMzUUx6X1pqX1lrOFJRV2tBVGViUmVLT1hVZGtkN0lkdUQwblhsS1d1SEJu?oc=5\" target=\"_blank\">16 deaths, 581 houses damaged in natural disasters in Mizoram last year: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSTBkcmNqSTFlNmtHVmhvd3lxX3ZKbGhpbFNEbmx0NFZzaTNUaWR2YUZxMFFaR05FVEM4bVBtaDR6eWZ0QUp5cUxvTTFHcURGZFN0RWZCcWZMUjZXd3R4dDctRkhERHNoM2YzRktpTVBCRmdhMF9KZUg0ekdFY1piLTFRcG90cE5aMmNvMjE3RmNSSm13OHJfNlVrZkNXX09sdDZUX3NxcmFjTzBUdFV1WFVXVTV2RnNYd3NCVDNCN0ZkYWs5cGpHcGdxOXBQQTNZRDdYTWFHc9IB3AFBVV95cUxNQWVHSURyZjNhb0JRcVh2YkdlcWlnaWZpaU1JcFBCc1RYV2lKUE8yakFSVmR1WUlKZVZFS2ZxenhzcFg2MUUzQ3JHX2ZhRVR2RkstNk9qN3hYaFIyUnl4SENMYU9lZkFIbmNfU0Y1RkhWSmcydVRaU1BfX0IzS0JwdGo5QXZvdVVMUnpsV2tndGtWd2FNRHpOcjc0TE9sMlg1VGY4Smw2RnB0MzczTFpRTEMzUUx6X1pqX1lrOFJRV2tBVGViUmVLT1hVZGtkN0lkdUQwblhsS1d1SEJu?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Fri, 13 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "LUNGLEIAH HLAWHTLING TAKIN 44TH RAJYA STARIYA BAL VAIGYANIK PRADARSHANI (STATE LEVEL SCIENCE EXHIBITION) BUATSAIH A NI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkRiV2xhcXVPOGl2eEFtSmtzbVZDVWRacWs2WXo1UHVyNEYxbTB0SW1aTmJ6RG02U0JxZGp5NFhWM3ZWMDJKT3NsUkhkZThSZ3VTZ0lsaGo2anZQMFJJOG9wOEdTRkFIVDVvNUpobFg5OVQwX3lrMFNBaTlZX1kyVk15dHowcXZ0d3hMS0lnOEhhQ0RYRHIxMTRaaHJxeGx1dHhBbzRnQU53QW9fRHRJQS1aelNnRnBPT3RhVjR4RE5PZWlnVENBLUFyYzFKcVJHaUpIcFZxTEVsYUdGb1JhTVpabw?oc=5\" target=\"_blank\">LUNGLEIAH HLAWHTLING TAKIN 44TH RAJYA STARIYA BAL VAIGYANIK PRADARSHANI (STATE LEVEL SCIENCE EXHIBITION) BUATSAIH A NI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkRiV2xhcXVPOGl2eEFtSmtzbVZDVWRacWs2WXo1UHVyNEYxbTB0SW1aTmJ6RG02U0JxZGp5NFhWM3ZWMDJKT3NsUkhkZThSZ3VTZ0lsaGo2anZQMFJJOG9wOEdTRkFIVDVvNUpobFg5OVQwX3lrMFNBaTlZX1kyVk15dHowcXZ0d3hMS0lnOEhhQ0RYRHIxMTRaaHJxeGx1dHhBbzRnQU53QW9fRHRJQS1aelNnRnBPT3RhVjR4RE5PZWlnVENBLUFyYzFKcVJHaUpIcFZxTEVsYUdGb1JhTVpabw?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Fri, 08 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Centre sanctioned ₹97 crore to transform Mizoram's Sairang into world-class rail station: Mizoram CM Lald..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUx4Q211T05aWFMzR1RpS1hFeWs3NnFKdmg4ZkVBbWhfT3NhMndHWnRWZk1XczZ6cGwxZUh4cDhEc2lMQTZoVUtMNDJGYmRUcVdjcTFLdVJqV3RnWnpueGxOazU1dVduZHdfZEhCQXNjZzZzRGlMeVExRzhNUTBxQ2o1aFFTMGpTdDdadE1VZWlkakNsbG1kQ0g0bnRQNjJmLWRiY2R6cEpreFNEUk9hV1hNUDB6SjZMdXNoNnBfNmF1MTltZVppOFozaW1GYjU1SEtzb3F6YlVjY2tKLXViaWQtONIB6AFBVV95cUxQZUxTZFFKWmt3WXJ5NWxaZVM4dW1IY0JGY1o4dFpza1FWMnNKVFJsMmVFUXExQ1pXWHNtM3R6a3Vmal9PUUY1UjJrM2VNTkZSUlRacVZwaGtZU1Y2Tk81QUF0QnA2bjBxREpvSlNWZHozLXNURUl1cDkyNV93VXBXdjJIai1BZFlxa2hzeHEtcG5pVE9zQkJOUDlFWWhmdWIyVF9OSlJRdjl0ZDZ1d0NPVFlDa1pPdGpZNHBrSGN3cVFENTVhMUNFazhmXy1zeDNsRUY1cVJOaG91Q281WnRrVVNKd0dLTFlJ?oc=5\" target=\"_blank\">Centre sanctioned ₹97 crore to transform Mizoram's Sairang into world-class rail station: Mizoram CM Lald..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUx4Q211T05aWFMzR1RpS1hFeWs3NnFKdmg4ZkVBbWhfT3NhMndHWnRWZk1XczZ6cGwxZUh4cDhEc2lMQTZoVUtMNDJGYmRUcVdjcTFLdVJqV3RnWnpueGxOazU1dVduZHdfZEhCQXNjZzZzRGlMeVExRzhNUTBxQ2o1aFFTMGpTdDdadE1VZWlkakNsbG1kQ0g0bnRQNjJmLWRiY2R6cEpreFNEUk9hV1hNUDB6SjZMdXNoNnBfNmF1MTltZVppOFozaW1GYjU1SEtzb3F6YlVjY2tKLXViaWQtONIB6AFBVV95cUxQZUxTZFFKWmt3WXJ5NWxaZVM4dW1IY0JGY1o4dFpza1FWMnNKVFJsMmVFUXExQ1pXWHNtM3R6a3Vmal9PUUY1UjJrM2VNTkZSUlRacVZwaGtZU1Y2Tk81QUF0QnA2bjBxREpvSlNWZHozLXNURUl1cDkyNV93VXBXdjJIai1BZFlxa2hzeHEtcG5pVE9zQkJOUDlFWWhmdWIyVF9OSlJRdjl0ZDZ1d0NPVFlDa1pPdGpZNHBrSGN3cVFENTVhMUNFazhmXy1zeDNsRUY1cVJOaG91Q281WnRrVVNKd0dLTFlJ?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "AMC-2026, General Election Inpuahchah dan thlirhona meeting MROs, AMROs leh NOs ten an nei.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXRQYk1Teno2Yl83dVI5ZjUwdms0bmNyMDdlR0lZSkJGYWZZTDNEN2pyN3dSTlpkNkFldC14M0ZrNzB5ZG9XcjhwbldQaXNmTTZNWXF1bWZ5VjZjNndKbjNiNmt0cXJnVjNsMnJwbHYyY0VGVnJRT1ZGdEdfRFZnV0NiVmF3NGJUX1FJWGZpTGlrQWRocDdwNlMtTExLMEpCX050Rm5EXzZFb0V2akF3dmNhQmhpTzVXUnl2cVpR?oc=5\" target=\"_blank\">AMC-2026, General Election Inpuahchah dan thlirhona meeting MROs, AMROs leh NOs ten an nei.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXRQYk1Teno2Yl83dVI5ZjUwdms0bmNyMDdlR0lZSkJGYWZZTDNEN2pyN3dSTlpkNkFldC14M0ZrNzB5ZG9XcjhwbldQaXNmTTZNWXF1bWZ5VjZjNndKbjNiNmt0cXJnVjNsMnJwbHYyY0VGVnJRT1ZGdEdfRFZnV0NiVmF3NGJUX1FJWGZpTGlrQWRocDdwNlMtTExLMEpCX050Rm5EXzZFb0V2akF3dmNhQmhpTzVXUnl2cVpR?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Mon, 30 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram has 54 villages without mobile or internet signal: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmZhZFIwb01PNFRqU2lkSWUwOGJNTjFKQ2s0dDhybkVKRHdqYWphVlIybGs4ekVaUkViZ0tkRGNKWkNKTEYybmZ4T2lLZjNpYk9XZlpZN1hobkdCaWhMNG1Ra19JMWVkZm1wUzZ5aDdlaEwzTEJkM2xWb09ub01LRTU1czJvRzVVcmY1UnpLaFRYejlVZ2plMTNtQjVsbkp2V3dLZHNLZmxLcFNJbWlWLVdSdEtxNVBxejlZVk5VRElXYjNaYWYyM00teTMtYUQwbHVLbmJTN1BVQdIB3wFBVV95cUxPN185TXdCeEZPSlhBMEFINlRVeDFFbnFJYjNlMHZBVFBvVXUzNUtVdHFfZGc4Yk9Qc0dzSkUtZzhTbkxkcmw3eEp0WUU3b283dWd2UFVCb2dhQWUzNERWOFRJZFNmNGZOanFDRXlLVU80b0JCdURDSS1nNjI2MWVWS3NBd2hkNFU2dmdHMzJONXVQUDlHSFVCT2RlVy1hcS14VnMzMmltRE1Tdms5cnJ1YWlRRHdmNHQxXzZYVk9faUdLZFVabHFWNldTbndNLTlpRHdLRG5CNlJ2OG9aaXRN?oc=5\" target=\"_blank\">Mizoram has 54 villages without mobile or internet signal: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmZhZFIwb01PNFRqU2lkSWUwOGJNTjFKQ2s0dDhybkVKRHdqYWphVlIybGs4ekVaUkViZ0tkRGNKWkNKTEYybmZ4T2lLZjNpYk9XZlpZN1hobkdCaWhMNG1Ra19JMWVkZm1wUzZ5aDdlaEwzTEJkM2xWb09ub01LRTU1czJvRzVVcmY1UnpLaFRYejlVZ2plMTNtQjVsbkp2V3dLZHNLZmxLcFNJbWlWLVdSdEtxNVBxejlZVk5VRElXYjNaYWYyM00teTMtYUQwbHVLbmJTN1BVQdIB3wFBVV95cUxPN185TXdCeEZPSlhBMEFINlRVeDFFbnFJYjNlMHZBVFBvVXUzNUtVdHFfZGc4Yk9Qc0dzSkUtZzhTbkxkcmw3eEp0WUU3b283dWd2UFVCb2dhQWUzNERWOFRJZFNmNGZOanFDRXlLVU80b0JCdURDSS1nNjI2MWVWS3NBd2hkNFU2dmdHMzJONXVQUDlHSFVCT2RlVy1hcS14VnMzMmltRE1Tdms5cnJ1YWlRRHdmNHQxXzZYVk9faUdLZFVabHFWNldTbndNLTlpRHdLRG5CNlJ2OG9aaXRN?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:03+00:00"
+  }
+ ]
+}

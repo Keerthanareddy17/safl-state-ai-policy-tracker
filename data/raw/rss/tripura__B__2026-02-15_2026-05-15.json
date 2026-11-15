@@ -1,0 +1,120 @@
+{
+ "region": "Tripura",
+ "group": "B",
+ "query": "(Tripura) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Tripura%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:32+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Atal Innovation Mission launches the first State Innovation Mission (SIM) in Tripura to strengthen State-led innovation ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcjNLMHJmRFhNZm0xSG9tU3ltWmpWajYwZG0tTXVjSWdvbDdLSnZBOXhRN2podWdEeGhDUDVhZDZBakJibFRuMThfYU91VjhVWTgtR1JUZFVuamhyQjJqRno3ci00YW1UbjVtOWF0Z1FaV0tKUlhQUDF3?oc=5\" target=\"_blank\">Atal Innovation Mission launches the first State Innovation Mission (SIM) in Tripura to strengthen State-led innovation ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcjNLMHJmRFhNZm0xSG9tU3ltWmpWajYwZG0tTXVjSWdvbDdLSnZBOXhRN2podWdEeGhDUDVhZDZBakJibFRuMThfYU91VjhVWTgtR1JUZFVuamhyQjJqRno3ci00YW1UbjVtOWF0Z1FaV0tKUlhQUDF3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura to launch India’s first state AI policy; Agartala to get AI-based smart solutions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQV9iRTB5RGhpWTRDVGIzOUQ1S3BBclF3cEd4c1pmd0d6Y3N3NXdRbGxGRTBqMzhId1ZiVE0yeWh0M09MVmlfakRVVUs5NkhldTVrNXZVYmIzVk1qRmFzWUhEUW8zZG9VazZwcXpkWFpoZ1gtYUZmekx4bHZEaHpiZkRwa0FwQlk4ZWFZT1pNMHRDSzN5aUYzMVdXM1luaENxdVVkaHlTYUktZG5uUC1OQ0hHMnhKNnZQLWZ3R1NpTTlJOG8tRWJpUnpHMDdYSGhWa2wwRVpuQ2t0YVI1LWFFRW9B0gHnAUFVX3lxTFBnQTU4Vk5ZeXBWdVBOajFiRkR3SlBYSlhqYmtSeXEtQzNxYmNFRnIwRWlJN3YwdGliR0JXZmROYktPWTdGT0VvaXVDTjdKUWpYZmFpRmx2RGo4OWFLY2dfMGhIdmZtQ1hZdG02dlNKWFNWZ1FoTFRJVEotdG11azRfSFJ5NXRvWEF0X2xvb0VUNWtOdVJkXzZFV1RaeUlHT211OHZiM3prMEs0R3JzU2U3cHZmdGg1MnNHSVJhSjhVdUVhaEtFMjlaZ0stRWZnODFSeTZ3bGw4MWE5VEszbWRGY3UzNUs5OA?oc=5\" target=\"_blank\">Tripura to launch India’s first state AI policy; Agartala to get AI-based smart solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQV9iRTB5RGhpWTRDVGIzOUQ1S3BBclF3cEd4c1pmd0d6Y3N3NXdRbGxGRTBqMzhId1ZiVE0yeWh0M09MVmlfakRVVUs5NkhldTVrNXZVYmIzVk1qRmFzWUhEUW8zZG9VazZwcXpkWFpoZ1gtYUZmekx4bHZEaHpiZkRwa0FwQlk4ZWFZT1pNMHRDSzN5aUYzMVdXM1luaENxdVVkaHlTYUktZG5uUC1OQ0hHMnhKNnZQLWZ3R1NpTTlJOG8tRWJpUnpHMDdYSGhWa2wwRVpuQ2t0YVI1LWFFRW9B0gHnAUFVX3lxTFBnQTU4Vk5ZeXBWdVBOajFiRkR3SlBYSlhqYmtSeXEtQzNxYmNFRnIwRWlJN3YwdGliR0JXZmROYktPWTdGT0VvaXVDTjdKUWpYZmFpRmx2RGo4OWFLY2dfMGhIdmZtQ1hZdG02dlNKWFNWZ1FoTFRJVEotdG11azRfSFJ5NXRvWEF0X2xvb0VUNWtOdVJkXzZFV1RaeUlHT211OHZiM3prMEs0R3JzU2U3cHZmdGg1MnNHSVJhSjhVdUVhaEtFMjlaZ0stRWZnODFSeTZ3bGw4MWE5VEszbWRGY3UzNUs5OA?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura to roll out India’s 1st state-level AI policy: Saha",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBMN1NXeVJVM3hVOUd2NVNOQ1RoVEM0TDBKMUpWTWFxdjlWWlFFaHlueUV1Y0tMUlY2QkgtZnJhTkg0ZHJXdFlUcVR5WkZHWGQ5Y0dyYWZCVVotNGdONnYwbXFyb3RJdnhYaEFjM0V6aER5RGVQeEhTWWVTcEVrNUlaTmdGVFVHX28tZkZ3YUZPVjc2dERtME0ybjZoNzdqMDdpck1EajFpSVhxRU5NLXVwaXNERXBOMFcwaXJQMkI3WFJ0cWtZbHgxdmNhQdIB0wFBVV95cUxQaXg2LXJRcGxvanV0bk9XNTMxZUh6SkYwSWhGUm1IU2wxVF85Q1ZkYTEyZVhYUTBVM0NaWDQwQmstZ3FKQXoyQXo0TUpaekZWN3lkV1Jubld1alRwOVdtX3I3U1BOZzBJMmNHekt2Q0VBTENWWk1xbFpWb3c5Z3k0VDZRSnZBd0JSVDlLNUpTUFRNdXJ6M0lOYXNPWTIyUEhxY1hrWlpMVERrdWMxOXlISHduRVY2SXVsb1VhN3MxSjFoS1ptZHdETG5BSHE3V01UVGd3?oc=5\" target=\"_blank\">Tripura to roll out India’s 1st state-level AI policy: Saha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBMN1NXeVJVM3hVOUd2NVNOQ1RoVEM0TDBKMUpWTWFxdjlWWlFFaHlueUV1Y0tMUlY2QkgtZnJhTkg0ZHJXdFlUcVR5WkZHWGQ5Y0dyYWZCVVotNGdONnYwbXFyb3RJdnhYaEFjM0V6aER5RGVQeEhTWWVTcEVrNUlaTmdGVFVHX28tZkZ3YUZPVjc2dERtME0ybjZoNzdqMDdpck1EajFpSVhxRU5NLXVwaXNERXBOMFcwaXJQMkI3WFJ0cWtZbHgxdmNhQdIB0wFBVV95cUxQaXg2LXJRcGxvanV0bk9XNTMxZUh6SkYwSWhGUm1IU2wxVF85Q1ZkYTEyZVhYUTBVM0NaWDQwQmstZ3FKQXoyQXo0TUpaekZWN3lkV1Jubld1alRwOVdtX3I3U1BOZzBJMmNHekt2Q0VBTENWWk1xbFpWb3c5Z3k0VDZRSnZBd0JSVDlLNUpTUFRNdXJ6M0lOYXNPWTIyUEhxY1hrWlpMVERrdWMxOXlISHduRVY2SXVsb1VhN3MxSjFoS1ptZHdETG5BSHE3V01UVGd3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura to introduce India's first State AI Policy, announced Tripura CM Manik Saha at State Innovation Mission launch",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPWWc4Ty1uRUJPN1ZIakVUbFo2SEdKWmlpcE11ZlJSa0FMRWRoQkRpYS13T0oteVMyQmFNbEFtNDBaYTl0d2I4dVoyUHNQT1QyRTEzNUZMaHpGTURId0hvX01lV3VkbDQxTURFQXcwdzRmaVYzV0tVTF80aVJYRlVJN1E2dWk3LVppTnhaQURHTXZlaGhWQzR6M2ItMUM2UUh1ME9qWXhSa1M5WnJoREQxWDI4TWFPWWh6eWE5N3A5RU5KZVd5YXdIeFo3dUhwSEd0YW1uaTBSZk94SFoxd0J1MU44MUlhUW1SNmYxSlhtLUMyYTREVEZxRFlGRmFFeGIyY2V3Njl2dWpUaDlI?oc=5\" target=\"_blank\">Tripura to introduce India's first State AI Policy, announced Tripura CM Manik Saha at State Innovation Mission launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWWc4Ty1uRUJPN1ZIakVUbFo2SEdKWmlpcE11ZlJSa0FMRWRoQkRpYS13T0oteVMyQmFNbEFtNDBaYTl0d2I4dVoyUHNQT1QyRTEzNUZMaHpGTURId0hvX01lV3VkbDQxTURFQXcwdzRmaVYzV0tVTF80aVJYRlVJN1E2dWk3LVppTnhaQURHTXZlaGhWQzR6M2ItMUM2UUh1ME9qWXhSa1M5WnJoREQxWDI4TWFPWWh6eWE5N3A5RU5KZVd5YXdIeFo3dUhwSEd0YW1uaTBSZk94SFoxd0J1MU44MUlhUW1SNmYxSlhtLUMyYTREVEZxRFlGRmFFeGIyY2V3Njl2dWpUaDlI?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "T-Hub partners with the Government of Tripura to strengthen startup ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGhfeUkyQUpUMkFOVWY2cmtRck1iYS11ZHF6dDhlcVRoX0VjWExQOVpveGgzU0pLdS0wN18ydmRyOGpoYWtBNlIta1c0a3R1TU1uNXc4OU1qTFVQZUJKUXhFeGZIdVhkYjBZSVlnd2dLWmF5MjhMbWxjZmJHWkpVRDZTUHBqem1CNUtCdFQtWkZnY0UyeU1uM1lTaDJlajc4VGctTlZFcw?oc=5\" target=\"_blank\">T-Hub partners with the Government of Tripura to strengthen startup ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGhfeUkyQUpUMkFOVWY2cmtRck1iYS11ZHF6dDhlcVRoX0VjWExQOVpveGgzU0pLdS0wN18ydmRyOGpoYWtBNlIta1c0a3R1TU1uNXc4OU1qTFVQZUJKUXhFeGZIdVhkYjBZSVlnd2dLWmF5MjhMbWxjZmJHWkpVRDZTUHBqem1CNUtCdFQtWkZnY0UyeU1uM1lTaDJlajc4VGctTlZFcw?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura Launches First State Innovation Mission Under AIM 2.0",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTJMaVJ6SzNqQTZxLXh5WWljNzZ4THZ3UC1xWVQybXBLLTZiLUd6Y3BSSWlFcV9BdUpLXzNQU092RzdNeFFPNmd6Y2JybTR0RVRjUE1xXzljWmhyR0VYS3E1cmxvam80WmxqMXZYYXBkOHV3OGYxYXRMX1puQWdtN3dXM0xKNktMdHpEYXJn?oc=5\" target=\"_blank\">Tripura Launches First State Innovation Mission Under AIM 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTJMaVJ6SzNqQTZxLXh5WWljNzZ4THZ3UC1xWVQybXBLLTZiLUd6Y3BSSWlFcV9BdUpLXzNQU092RzdNeFFPNmd6Y2JybTR0RVRjUE1xXzljWmhyR0VYS3E1cmxvam80WmxqMXZYYXBkOHV3OGYxYXRMX1puQWdtN3dXM0xKNktMdHpEYXJn?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura SC Welfare Minister reviews development plans for Scheduled Caste Communities",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObDRpbGNSQ2JNVW5IaHVYTEdic25jcGJ2aFRsMjI3TlRCVXhBNFlvRUhUWVhTSlVFSTdDWHdONE0yNHlVZHNBOEM3UGpWY0pWbTZ0UGdwWjBNZkVlMHN4SlZ0ejYtM3BzRmpVVGtodWZSSnV4U3dSZFYtVTRvVWZKOHdxZlVCbXh4cUR1czRjdERyWWhPM2wwdXlZbW5kRHpQSEZUZksxRTAwQzluMFZCM1hwZ25Qbm5Vc0NlSWxsUzRwaVd1a3RN?oc=5\" target=\"_blank\">Tripura SC Welfare Minister reviews development plans for Scheduled Caste Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TripuraTimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObDRpbGNSQ2JNVW5IaHVYTEdic25jcGJ2aFRsMjI3TlRCVXhBNFlvRUhUWVhTSlVFSTdDWHdONE0yNHlVZHNBOEM3UGpWY0pWbTZ0UGdwWjBNZkVlMHN4SlZ0ejYtM3BzRmpVVGtodWZSSnV4U3dSZFYtVTRvVWZKOHdxZlVCbXh4cUR1czRjdERyWWhPM2wwdXlZbW5kRHpQSEZUZksxRTAwQzluMFZCM1hwZ25Qbm5Vc0NlSWxsUzRwaVd1a3RN?oc=5",
+   "source_name": "TripuraTimes.com",
+   "source_domain": "tripuratimes.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "‘Grave impropriety’: Tripura High Court slams state for blocking chief justice’s order to help stagnating staff",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXRLbVhQS25sRGk2MVdwRGI4Unp0M3ZOaklINUFhOG42YjB2ZlNIdklMTDVkRmhrcFBjcVF6dGdZVS1UdC1rUVVNUHJBTjY0UkRDc2VsOG94TWx2YldGa0ZwR055MTV2ZXo1UFdMcWxwQ2ZlMjIzdjlQZUdzSzNLRkp0dWlLYWcxa3c3ZEZRbXk5RXZURWoxSGpEVVZrX2pnSjBlM1dLSHlVNWZ4RGhTc2ln0gG4AUFVX3lxTE1HRXE0d1p2TzRMT1hyV2RuNzN6UWNHT1FseGxsOVNsY0laN1F4eFp6bW5SOUZCWTgyb2FUeVR1VC1FcklnamY2WHhyT3hvMVctcVU0M0s4SDVzVjZ3ZU1kTVp0ZzZCRnZDdGtFMDE2dGRmQ3pRR2J2VzlBaDZWQ1hLTzlIbTIzcjhXQnQycW9JNjZqZnRzYVdzVzlVSnBRWE9CY3p4cHhleFcySjRrd2lrOVNyWTVMOUI?oc=5\" target=\"_blank\">‘Grave impropriety’: Tripura High Court slams state for blocking chief justice’s order to help stagnating staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXRLbVhQS25sRGk2MVdwRGI4Unp0M3ZOaklINUFhOG42YjB2ZlNIdklMTDVkRmhrcFBjcVF6dGdZVS1UdC1rUVVNUHJBTjY0UkRDc2VsOG94TWx2YldGa0ZwR055MTV2ZXo1UFdMcWxwQ2ZlMjIzdjlQZUdzSzNLRkp0dWlLYWcxa3c3ZEZRbXk5RXZURWoxSGpEVVZrX2pnSjBlM1dLSHlVNWZ4RGhTc2ln0gG4AUFVX3lxTE1HRXE0d1p2TzRMT1hyV2RuNzN6UWNHT1FseGxsOVNsY0laN1F4eFp6bW5SOUZCWTgyb2FUeVR1VC1FcklnamY2WHhyT3hvMVctcVU0M0s4SDVzVjZ3ZU1kTVp0ZzZCRnZDdGtFMDE2dGRmQ3pRR2J2VzlBaDZWQ1hLTzlIbTIzcjhXQnQycW9JNjZqZnRzYVdzVzlVSnBRWE9CY3p4cHhleFcySjRrd2lrOVNyWTVMOUI?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 15 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura CM urges students, youths to embrace sports & studies",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZzY0RGdqODNVYkhRSUtyM2VKa25aYTVRNmFwYk5mTkpPU3h5cjVKVXdacGN0eGtYZFJHSVRreUxXdHNQczF4ZW1ZbnpyY25QWlJzUGNNX0V2RW1mT3l1cjdQS1I3M2htX3FmSmVxUTBuSTdRNWZ2ZWxwa2ViSTdGdUlwU0VrWVdGcFZhT2d3T3ZKaFRINlNZSjdVeXVXVzJRSHJEZWc5ZEhPcWNlRU1PNkpFbVBqZTU3a0VwZ3B2UWxrZTQ2anNB0gHMAUFVX3lxTE4tMjBmUUgwN1E0d1ptejU1OUh3aVZjcDZzTDdiWXE1d1R3SkRRbXQ0cDcyd000cVRjck5WYjM5bzM2VWR3ZG1JdmEyZGYzSnRhc1ZHRkJpWnpaQ2xNeVlmVW1XZ1NKdHhWV1JQc0dxOW90eFd0aUF1SFRhYVhsMGRiVzZ1eTdNVkcxY3ZtcW9GdWc4UTRkTU9YZHRxT0lXUXcxdnpSMnlpQXNiSzVuNDd1b0ZXR25FanlRRTVSTFoyQkdJWi1yZkFhV3JXVA?oc=5\" target=\"_blank\">Tripura CM urges students, youths to embrace sports & studies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZzY0RGdqODNVYkhRSUtyM2VKa25aYTVRNmFwYk5mTkpPU3h5cjVKVXdacGN0eGtYZFJHSVRreUxXdHNQczF4ZW1ZbnpyY25QWlJzUGNNX0V2RW1mT3l1cjdQS1I3M2htX3FmSmVxUTBuSTdRNWZ2ZWxwa2ViSTdGdUlwU0VrWVdGcFZhT2d3T3ZKaFRINlNZSjdVeXVXVzJRSHJEZWc5ZEhPcWNlRU1PNkpFbVBqZTU3a0VwZ3B2UWxrZTQ2anNB0gHMAUFVX3lxTE4tMjBmUUgwN1E0d1ptejU1OUh3aVZjcDZzTDdiWXE1d1R3SkRRbXQ0cDcyd000cVRjck5WYjM5bzM2VWR3ZG1JdmEyZGYzSnRhc1ZHRkJpWnpaQ2xNeVlmVW1XZ1NKdHhWV1JQc0dxOW90eFd0aUF1SFRhYVhsMGRiVzZ1eTdNVkcxY3ZtcW9GdWc4UTRkTU9YZHRxT0lXUXcxdnpSMnlpQXNiSzVuNDd1b0ZXR25FanlRRTVSTFoyQkdJWi1yZkFhV3JXVA?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura Boy Pragyat Prasun's AI Innovation promises safer, smarter farming",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWZYX3hmd0tGZWgwOVVOQ2pnU21TS3hwTVpQazE5R3dCUzYtSThPZFllOUlraEx3ZHZkVXFGcDN4QWZjT1ZoNElfNk81NWg5cnlPTzZiZGw3RGxiYkhnektlbmRIMXRWemZ1R3luR0RwalFMTkQ0aGdoZDZvY2pDanFVNVZad3NxcHNGamRkRVhhb3BBbkpxVnFNVGJBemUzbDIzM3ZSNlItTl9ReUxfajR2dVhQZw?oc=5\" target=\"_blank\">Tripura Boy Pragyat Prasun's AI Innovation promises safer, smarter farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tripuratimes</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWZYX3hmd0tGZWgwOVVOQ2pnU21TS3hwTVpQazE5R3dCUzYtSThPZFllOUlraEx3ZHZkVXFGcDN4QWZjT1ZoNElfNk81NWg5cnlPTzZiZGw3RGxiYkhnektlbmRIMXRWemZ1R3luR0RwalFMTkQ0aGdoZDZvY2pDanFVNVZad3NxcHNGamRkRVhhb3BBbkpxVnFNVGJBemUzbDIzM3ZSNlItTl9ReUxfajR2dVhQZw?oc=5",
+   "source_name": "Tripuratimes",
+   "source_domain": "tripuratimes.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:32+00:00"
+  }
+ ]
+}

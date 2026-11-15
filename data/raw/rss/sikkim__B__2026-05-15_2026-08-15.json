@@ -1,0 +1,120 @@
+{
+ "region": "Sikkim",
+ "group": "B",
+ "query": "(Sikkim) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Sikkim%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:55+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim govt rolls out AI-based permit system to boost tourism",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQanNuMDJreWRLVUsxV3JiaURIRXdpeHhqVXVDS0lROVRvR0N4TWtzYUNtanM3Rkt4dVRYVVJZZkRsRmhvckZiNDdzSHFKZk9QN281c2liSXNlZ1dnVlpVUTBtcDlWd09tSkZISmoxcXhvamNkVDRMY1ZYVktEUm9ULV9wdVFteWtyemJrTUJNWjlrc1FBTVVLN2lxelF5NGRubUxBZmIyOG1Icnl2c040c0hEY3o0eWFUQkN5ZWVn0gHDAUFVX3lxTE02TDBjZnVWRlFRRzFETGowcnU5YUhqNjZ0UWltWHBvMzJJMC1zMkZMeUx3YmxFRTZreDYzbmdzLXVSc1ZJRVdxczVkYW5zUmtlWlFkaHFkVzhSS2gtRE5QV0szMTd2NFVoTWlORnVwZHpsMUE5eXdWSlM1d0o1bHlZRGg5U1Yzb1pkaVN6Y3c2eUp3OWhPU1VSREY3VTNRVE5CdU5lR1YtOXFuOFIzN0ktRmx1RjVqRkVtYWZoNzZBVHRZMA?oc=5\" target=\"_blank\">Sikkim govt rolls out AI-based permit system to boost tourism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanNuMDJreWRLVUsxV3JiaURIRXdpeHhqVXVDS0lROVRvR0N4TWtzYUNtanM3Rkt4dVRYVVJZZkRsRmhvckZiNDdzSHFKZk9QN281c2liSXNlZ1dnVlpVUTBtcDlWd09tSkZISmoxcXhvamNkVDRMY1ZYVktEUm9ULV9wdVFteWtyemJrTUJNWjlrc1FBTVVLN2lxelF5NGRubUxBZmIyOG1Icnl2c040c0hEY3o0eWFUQkN5ZWVn0gHDAUFVX3lxTE02TDBjZnVWRlFRRzFETGowcnU5YUhqNjZ0UWltWHBvMzJJMC1zMkZMeUx3YmxFRTZreDYzbmdzLXVSc1ZJRVdxczVkYW5zUmtlWlFkaHFkVzhSS2gtRE5QV0szMTd2NFVoTWlORnVwZHpsMUE5eXdWSlM1d0o1bHlZRGg5U1Yzb1pkaVN6Y3c2eUp3OWhPU1VSREY3VTNRVE5CdU5lR1YtOXFuOFIzN0ktRmx1RjVqRkVtYWZoNzZBVHRZMA?oc=5",
+   "source_name": "The Statesman",
+   "source_domain": "thestatesman.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "MSME-DFO Gangtok Organises PM Vishwakarma One-Day Awareness Programme on Branding and Marketing at Soreng",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJV2h6QUxNY1Z5ZmN0c21DdF82ZzhhcDk3QlNVd1Q3Q2xQam9hZ0NPLWhoUm1fZEpWdjdQaTJyNUlVTHd5YzhxWVpOQy1CTWZkWWgyNlFralJDc2ctTnFCVEFMd2pTNGZC?oc=5\" target=\"_blank\">MSME-DFO Gangtok Organises PM Vishwakarma One-Day Awareness Programme on Branding and Marketing at Soreng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJV2h6QUxNY1Z5ZmN0c21DdF82ZzhhcDk3QlNVd1Q3Q2xQam9hZ0NPLWhoUm1fZEpWdjdQaTJyNUlVTHd5YzhxWVpOQy1CTWZkWWgyNlFralJDc2ctTnFCVEFMd2pTNGZC?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim to launch AI-powered single-window permit system for Nathula, North Sikkim travel",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGV3NWdzMGYyM1lLcmhidmZIUVIyWndHdk5MTVhyN0c4OVBrcmZqcGdWT3JLWjYxVEJOY2xZbzE0X0RHV3p3Y3hpbnhWLUUxeDNOWGNvSXRWQU9fSFNwLXdQWlpaZjJueDJBdUhsbDNfQXBienhvSmxRLVBPWGNObW80bUhOVTh1QWpMaVlMTmlJQWEySFRyTUNGYjVERDdoNk92cE9WMkFxQUpnXzVuNUpOVE9HUG9jdTZHVk1mcVlONEFqbWMxcUlFY01haU9iWFpCbE1tU3RyTzVXUDIwatIB5gFBVV95cUxQcklPdEJxSG1mMGl6b3dmYmJPeG9MdE1NcERVaWZ4M0FJb1d0S1ZRRnV5ZnZBR21RLTBLYVhXMDN6Z3VXRjY5UHFlaVVLT3ZFYXVrNWY2SHZnM1RxdldoS1N4c2s2VkRfM052SFVJMDFXSU4zTmhmTUdIN0VwN3pKX2pROUQ1V1RpZS1teHFEeUNmSEdReVdUUTF4b1JmMG5qWDJsb1ZKM3JxNUNpck82Qk1lVzktcVFOUGt2SlFmTm9xVXdKaXZMRFJrbmdzVG9GeTVWamMyLVpwZE0tWm9jRlRmem9JUQ?oc=5\" target=\"_blank\">Sikkim to launch AI-powered single-window permit system for Nathula, North Sikkim travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGV3NWdzMGYyM1lLcmhidmZIUVIyWndHdk5MTVhyN0c4OVBrcmZqcGdWT3JLWjYxVEJOY2xZbzE0X0RHV3p3Y3hpbnhWLUUxeDNOWGNvSXRWQU9fSFNwLXdQWlpaZjJueDJBdUhsbDNfQXBienhvSmxRLVBPWGNObW80bUhOVTh1QWpMaVlMTmlJQWEySFRyTUNGYjVERDdoNk92cE9WMkFxQUpnXzVuNUpOVE9HUG9jdTZHVk1mcVlONEFqbWMxcUlFY01haU9iWFpCbE1tU3RyTzVXUDIwatIB5gFBVV95cUxQcklPdEJxSG1mMGl6b3dmYmJPeG9MdE1NcERVaWZ4M0FJb1d0S1ZRRnV5ZnZBR21RLTBLYVhXMDN6Z3VXRjY5UHFlaVVLT3ZFYXVrNWY2SHZnM1RxdldoS1N4c2s2VkRfM052SFVJMDFXSU4zTmhmTUdIN0VwN3pKX2pROUQ1V1RpZS1teHFEeUNmSEdReVdUUTF4b1JmMG5qWDJsb1ZKM3JxNUNpck82Qk1lVzktcVFOUGt2SlFmTm9xVXdKaXZMRFJrbmdzVG9GeTVWamMyLVpwZE0tWm9jRlRmem9JUQ?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim govt tables bills to set up state medical council, amed laws for private varsities",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX3dIcHdVeHJTZXpPZ09pU1lzdjFBbi1XRGFDUVJQV2o3TUk3TC1Ra01ENDNhekp0ZEM0ZmxzczJyNlh2U01xRTNnOU9Mb3lEQlhWTzVaRThKYi0tSmpXcm9QZk1Ea2VzS0luaEp2Sk5VMDN6cEp3bkZwYUdWRE1acklTU3dFWmRuLVM2SjcxUnIzbTlfTlBUV1M2amE2MXB0MWt2Y01MWkVlUktibmJZUUwxU3VvUXFjZTJLUVNQaV9qNE05YVJiLWxhdkM3YXF0M1N0TTlmZWhpUlU0aG5uYlA5VVdPQ19UVGltQ3ZaUFMtQmMzQkNpR196RWt5eVXSAYMCQVVfeXFMTWFZWGhlR2pEdGMtTEJRQTVaNzVKMWUtei00Znk2S0lzNkNSWEFzWEhLWFU2Y2hmZTRPQ0c1aW1rVC1pb1JfbFdWbTlRT190YjAtZm1UYWNPbDFkX3ZRUHBuMGJPY0g5WkRkMlFfRDFEWUFIT0NxNk1SZXYtMVNLbnNsNlhjU2dUczNVU1ZPQjJhWTNtNTlyMlJQbU83ZnVfb2x6b1RnN3RpS1dpUXR1aHpmQXBiSXg2NzlpdTlDY0NySVFQQ01rZlJaOVpWa29kWHh2a0NMQWpNMGVBTXBHNC1iT3MwMFpXNTUwdmI0aTNiWjU1QXM2YVJSVXNGTVZRSXYwVQ?oc=5\" target=\"_blank\">Sikkim govt tables bills to set up state medical council, amed laws for private varsities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX3dIcHdVeHJTZXpPZ09pU1lzdjFBbi1XRGFDUVJQV2o3TUk3TC1Ra01ENDNhekp0ZEM0ZmxzczJyNlh2U01xRTNnOU9Mb3lEQlhWTzVaRThKYi0tSmpXcm9QZk1Ea2VzS0luaEp2Sk5VMDN6cEp3bkZwYUdWRE1acklTU3dFWmRuLVM2SjcxUnIzbTlfTlBUV1M2amE2MXB0MWt2Y01MWkVlUktibmJZUUwxU3VvUXFjZTJLUVNQaV9qNE05YVJiLWxhdkM3YXF0M1N0TTlmZWhpUlU0aG5uYlA5VVdPQ19UVGltQ3ZaUFMtQmMzQkNpR196RWt5eVXSAYMCQVVfeXFMTWFZWGhlR2pEdGMtTEJRQTVaNzVKMWUtei00Znk2S0lzNkNSWEFzWEhLWFU2Y2hmZTRPQ0c1aW1rVC1pb1JfbFdWbTlRT190YjAtZm1UYWNPbDFkX3ZRUHBuMGJPY0g5WkRkMlFfRDFEWUFIT0NxNk1SZXYtMVNLbnNsNlhjU2dUczNVU1ZPQjJhWTNtNTlyMlJQbU83ZnVfb2x6b1RnN3RpS1dpUXR1aHpmQXBiSXg2NzlpdTlDY0NySVFQQ01rZlJaOVpWa29kWHh2a0NMQWpNMGVBTXBHNC1iT3MwMFpXNTUwdmI0aTNiWjU1QXM2YVJSVXNGTVZRSXYwVQ?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "CM reviews redevelopment plans for Sikkim Government properties in New Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUpYd3kyYl83cjdpTWpqZzV6SWNnSm43c3dvTEsyOGwzNndyM0h4amxhWWRMSjVRTDFaQmVuWXRXbG02Y21oNmxZQ01zTXp0Vmg5cGNfcFR6ZndNeVFQbThScmZxb3g2NHVWVDVsT1NjN2o1anl6N3Nkc1NwUUwtMFNvSTYwMnVIOW02S1RhYzZNX180UENUV3ZlNGpLWUprN0pLVzk3ZHlnWW5QcnZEYWhyZllSNE9jOFRB?oc=5\" target=\"_blank\">CM reviews redevelopment plans for Sikkim Government properties in New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUpYd3kyYl83cjdpTWpqZzV6SWNnSm43c3dvTEsyOGwzNndyM0h4amxhWWRMSjVRTDFaQmVuWXRXbG02Y21oNmxZQ01zTXp0Vmg5cGNfcFR6ZndNeVFQbThScmZxb3g2NHVWVDVsT1NjN2o1anl6N3Nkc1NwUUwtMFNvSTYwMnVIOW02S1RhYzZNX180UENUV3ZlNGpLWUprN0pLVzk3ZHlnWW5QcnZEYWhyZllSNE9jOFRB?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim tunnel collapse due to methane gas explosion kills 25",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NOExNNl80ZGVldGVEYkN1SC1EZVViS05SN29tbHM0ZXE2VjlvaTlUN2YxZm9MekQ3Q2U4YVBKTDhDaXhFeUtnb21XSDRJVXltMzBNUUtxQXlMQQ?oc=5\" target=\"_blank\">Sikkim tunnel collapse due to methane gas explosion kills 25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NOExNNl80ZGVldGVEYkN1SC1EZVViS05SN29tbHM0ZXE2VjlvaTlUN2YxZm9MekQ3Q2U4YVBKTDhDaXhFeUtnb21XSDRJVXltMzBNUUtxQXlMQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "How a Sikkim village is planning for water security in a changing climate",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTRlLXB3NlpmR3BDVGx6MWoxZDVkVnBoai1xVlp6NkRMTWJ5b2dDVVExTXg0VE5RZDdKY2RzTkhXVjIwaWkzTjROZnpSLW55b2RPWHFCSWpsTFJoVWN1NzRmWWFYcHFOc2RoUTBJbEpMb1JTWi1DaWNjY3V1aDBWQ2t2a19XUTNCb0Z3QTdMVzlZY0xWd1JZRzdnUFM3V3M4Q1Jhc3VTMkpFZDVyN3ozTnctRElpQ210Y1dJ0gHIAUFVX3lxTFBCRmFqZmR3Q2ZPdG5KU0JjUVdPbVVSR3BvcXlSUmNlMjNCRXpRR1prMDdDdWZMZzBnM1lRMmtYOVM3RVlHTlQ1bTZVOFFUbDdvM2FxMTlkeEhFTVU0THlJdHJlVFpTSHY1Ym5VRzc2S0NwREVWUVF4OHV5RjFEQWFpdXhUY0JMV3lCRVpVd0VoR25WdnJQemdVRnlUdXFkekQ5Sklyc0V2ZUVhcXhwaWJtOTFrNjFJaGdBbzRYckk4LVdYVUV3REpQ?oc=5\" target=\"_blank\">How a Sikkim village is planning for water security in a changing climate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Down To Earth</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTRlLXB3NlpmR3BDVGx6MWoxZDVkVnBoai1xVlp6NkRMTWJ5b2dDVVExTXg0VE5RZDdKY2RzTkhXVjIwaWkzTjROZnpSLW55b2RPWHFCSWpsTFJoVWN1NzRmWWFYcHFOc2RoUTBJbEpMb1JTWi1DaWNjY3V1aDBWQ2t2a19XUTNCb0Z3QTdMVzlZY0xWd1JZRzdnUFM3V3M4Q1Jhc3VTMkpFZDVyN3ozTnctRElpQ210Y1dJ0gHIAUFVX3lxTFBCRmFqZmR3Q2ZPdG5KU0JjUVdPbVVSR3BvcXlSUmNlMjNCRXpRR1prMDdDdWZMZzBnM1lRMmtYOVM3RVlHTlQ1bTZVOFFUbDdvM2FxMTlkeEhFTVU0THlJdHJlVFpTSHY1Ym5VRzc2S0NwREVWUVF4OHV5RjFEQWFpdXhUY0JMV3lCRVpVd0VoR25WdnJQemdVRnlUdXFkekQ5Sklyc0V2ZUVhcXhwaWJtOTFrNjFJaGdBbzRYckk4LVdYVUV3REpQ?oc=5",
+   "source_name": "Down To Earth",
+   "source_domain": "downtoearth.org.in",
+   "published_raw": "Mon, 18 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim government to introduce online and integrated permit system for tourists",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGwxYmVvOURLOFVVUEdDNm96MldnVnVzS2lCQm8taFVZa1RDM25pbEpvX2FoTWNfam92VFA2ZmU5N2d1N051YlV6NFpMOXcyNHRnZGVvOXBIaHRqTy0zRFZJOTEza083M1BPYk52OXBpNU5uSVlJNk9iX1lQeXE2Tm5NWlpDZmZTaFJ3QTk2SF9rVTE0Rzk0VVVOZ2VLZVgxY1R3d1drV1NCdmFqZzNtMXc0SDl0dmFaLTl4YmQwVDBHLTNPQnZCdjhGNFNTQ042ZlhmYnZ30gHbAUFVX3lxTE5lcHhFMVhmUVpwcTJfdW1EeEN4QW5GQk9RQlNpLUxNeVJnQkVBUXBFZEFqVklYV0VnY3k2RjNFQUdUcjZsdmxiU0Q4OGNMc1NiR1liMHZXb1N1R3AxX0hxcmFKQnhWTGV0S21aLW5IRTB6Sl9pNjlZWTBLSjAtcDVGbDdjMDFYUXlqNjBSZU1ET2pzM0pSdkVrSXJ2RFZHNjFSc1JLbHNSdzh1cWN3NHhvNTdnaEdXUFo4RUdlTXVlWVdlc0xQNmFwVWprbVlxV1ZrZGwwWVlyZy1NNA?oc=5\" target=\"_blank\">Sikkim government to introduce online and integrated permit system for tourists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWGwxYmVvOURLOFVVUEdDNm96MldnVnVzS2lCQm8taFVZa1RDM25pbEpvX2FoTWNfam92VFA2ZmU5N2d1N051YlV6NFpMOXcyNHRnZGVvOXBIaHRqTy0zRFZJOTEza083M1BPYk52OXBpNU5uSVlJNk9iX1lQeXE2Tm5NWlpDZmZTaFJ3QTk2SF9rVTE0Rzk0VVVOZ2VLZVgxY1R3d1drV1NCdmFqZzNtMXc0SDl0dmFaLTl4YmQwVDBHLTNPQnZCdjhGNFNTQ042ZlhmYnZ30gHbAUFVX3lxTE5lcHhFMVhmUVpwcTJfdW1EeEN4QW5GQk9RQlNpLUxNeVJnQkVBUXBFZEFqVklYV0VnY3k2RjNFQUdUcjZsdmxiU0Q4OGNMc1NiR1liMHZXb1N1R3AxX0hxcmFKQnhWTGV0S21aLW5IRTB6Sl9pNjlZWTBLSjAtcDVGbDdjMDFYUXlqNjBSZU1ET2pzM0pSdkVrSXJ2RFZHNjFSc1JLbHNSdzh1cWN3NHhvNTdnaEdXUFo4RUdlTXVlWVdlc0xQNmFwVWprbVlxV1ZrZGwwWVlyZy1NNA?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim govt withdraws odd-even restriction on movement of private vehicles except Gangtok: Here's what the order said",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQU9Ham1remJBWFoxSDVQMFdoVnV5ampveFA4czk4SXhiQWM2VnpXN25pY1Z5TFY3S2VCMEMxUHVNZmxsWTUxNHkydW5mckdnR2tSZ1JkQzRjd29aVmtpRFVhT0VHOWlPdWdOaGZKNkhSRjR0Wm9TX0RaSkcxZTVtV2tQTDRrTHA2b2gwWXRRaE9DSkFCM0tveGVpdl91NWgySmdOZlU2YVpaeldYNTRHSWxuN0Q0eXRkZEs4SHV5SFNfNGcwRkdITk9DYkktNzdCbWRCcWtHdHVpcjlscEdFYWlpb3ppR081Rnc1MFhVamZrOFlvSE1wdjJpRdIBgAJBVV95cUxQSWJwOTlTR004UTM3dUhSU2pIU2lGTmJFVndxbUJ2VGdrbnI2N1Z6STM1eGlCT0FRbzgxdi1mSUZCMVpPQW5CVkxYbkpuTjFhOGlIS3ZjWEI3RzYxTmUwNm9qQjRPN0hxaVk5RDh2UFhtNms5eE1QM0pZU0ltWWUxUXE5OVdLNEdxMHdVMVRRdEJCc1JOYXJRTUpWSjdJWmlEN3JHNkU2UnM2b0t3bFhvNWZkektxNWprZkgwQVFwUURFNE1kVVVwWkZ6cnQ2UzZCd2FHRmN5dENRd01xaXJiTGxfZExNbUVTZlBOMS1OWElBcVJ5OEJEbnJ3Q2NNcUpy?oc=5\" target=\"_blank\">Sikkim govt withdraws odd-even restriction on movement of private vehicles except Gangtok: Here's what the order said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQU9Ham1remJBWFoxSDVQMFdoVnV5ampveFA4czk4SXhiQWM2VnpXN25pY1Z5TFY3S2VCMEMxUHVNZmxsWTUxNHkydW5mckdnR2tSZ1JkQzRjd29aVmtpRFVhT0VHOWlPdWdOaGZKNkhSRjR0Wm9TX0RaSkcxZTVtV2tQTDRrTHA2b2gwWXRRaE9DSkFCM0tveGVpdl91NWgySmdOZlU2YVpaeldYNTRHSWxuN0Q0eXRkZEs4SHV5SFNfNGcwRkdITk9DYkktNzdCbWRCcWtHdHVpcjlscEdFYWlpb3ppR081Rnc1MFhVamZrOFlvSE1wdjJpRdIBgAJBVV95cUxQSWJwOTlTR004UTM3dUhSU2pIU2lGTmJFVndxbUJ2VGdrbnI2N1Z6STM1eGlCT0FRbzgxdi1mSUZCMVpPQW5CVkxYbkpuTjFhOGlIS3ZjWEI3RzYxTmUwNm9qQjRPN0hxaVk5RDh2UFhtNms5eE1QM0pZU0ltWWUxUXE5OVdLNEdxMHdVMVRRdEJCc1JOYXJRTUpWSjdJWmlEN3JHNkU2UnM2b0t3bFhvNWZkektxNWprZkgwQVFwUURFNE1kVVVwWkZ6cnQ2UzZCd2FHRmN5dENRd01xaXJiTGxfZExNbUVTZlBOMS1OWElBcVJ5OEJEbnJ3Q2NNcUpy?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Sun, 31 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Manipur vows privacy-first approach to digital governance, AI adoption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSk02Z1k1UE5MTnNQSndLVU96dFBsa3M0Q19SQmRERkpsX3NiWkJrNG1wQV9UNFhyMFM0ZDhmblpRWHBPcTB2T2NfR0cybGpTQloxUHQ1M0ZvQTBkdXBQRHFSTUlmOEdWeVhZa2JiSExoODA3LS03a2VSYzdIX2xmRUFlS2hJc1NPa2pwRTRZbU1GRWtwQVlkbDc5bk82RkotdWlDNHBTWEJXaHE5NFd3SUI2RdIBuAFBVV95cUxPSnVsVTRGWml0VjV6UDB0eUEtRFdTUThIaUdhbUpFQ0hEbll5MlF3ZzZLQWpjLVdiSW94QVdIODdzWUFHTDBNcm1ENkduNXROMVE2eEM0MHAtT2tVWlRlQ3lRT0xwTGVEcm9ydFkxMUh5QzFDaDJPNXFiN09JRkR2T2ZRcnVYbUxiaXNnam9IcDU3WDhwekpubVd1SEZrNXRJYVFvaWk2QkdWZ3lZVnQ0Y2t4b19IaXZj?oc=5\" target=\"_blank\">Manipur vows privacy-first approach to digital governance, AI adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSk02Z1k1UE5MTnNQSndLVU96dFBsa3M0Q19SQmRERkpsX3NiWkJrNG1wQV9UNFhyMFM0ZDhmblpRWHBPcTB2T2NfR0cybGpTQloxUHQ1M0ZvQTBkdXBQRHFSTUlmOEdWeVhZa2JiSExoODA3LS03a2VSYzdIX2xmRUFlS2hJc1NPa2pwRTRZbU1GRWtwQVlkbDc5bk82RkotdWlDNHBTWEJXaHE5NFd3SUI2RdIBuAFBVV95cUxPSnVsVTRGWml0VjV6UDB0eUEtRFdTUThIaUdhbUpFQ0hEbll5MlF3ZzZLQWpjLVdiSW94QVdIODdzWUFHTDBNcm1ENkduNXROMVE2eEM0MHAtT2tVWlRlQ3lRT0xwTGVEcm9ydFkxMUh5QzFDaDJPNXFiN09JRkR2T2ZRcnVYbUxiaXNnam9IcDU3WDhwekpubVd1SEZrNXRJYVFvaWk2QkdWZ3lZVnQ0Y2t4b19IaXZj?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:55+00:00"
+  }
+ ]
+}

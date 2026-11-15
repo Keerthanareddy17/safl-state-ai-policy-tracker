@@ -1,0 +1,120 @@
+{
+ "region": "Bihar",
+ "group": "B",
+ "query": "(Bihar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Bihar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:45+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet approves six proposals focused on youth, startups and industrial growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFBKbUlfdnoySi1uTXFMSGZYSldLZmZhYzhManV4OXhyNExTa2FDLTZaTXREdUZmUmxQMU50ZVFQMDc3bVB1SjF2TjNuRHJDMUZvU25ObUFvRzQxUjEzc2gwSWxXa1h2Z0VRV0pPY2FNODhkSS1fRXlOLURfdFdTeWVMOFZGNkczVkljNFRjWG0xaEgwZ29YZ2pxSmxrSmxCMmZMdzlEWjJRcTJjOEhZ?oc=5\" target=\"_blank\">Bihar cabinet approves six proposals focused on youth, startups and industrial growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFBKbUlfdnoySi1uTXFMSGZYSldLZmZhYzhManV4OXhyNExTa2FDLTZaTXREdUZmUmxQMU50ZVFQMDc3bVB1SjF2TjNuRHJDMUZvU25ObUFvRzQxUjEzc2gwSWxXa1h2Z0VRV0pPY2FNODhkSS1fRXlOLURfdFdTeWVMOFZGNkczVkljNFRjWG0xaEgwZ29YZ2pxSmxrSmxCMmZMdzlEWjJRcTJjOEhZ?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet approves proposal to generate one crore jobs in next five years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWs3Rm5VQXZsdHpLREZPdUR2RGlVU2pzOEFvYm5PY2RSWThlMTJpOXlfYjJsak5nbDFmYUpWYlN5MGVWUTdGdnNGNTV3V3lRYzNhRHZrU1hDdTZVUER6XzdZUTB0eG8yRms0OXJtV2ZoWjkwb2FnbDZwNXMya0JMMjNGU0FrVXdjdENPWjBuM2JnTk4xSTRsQnZIcHh2RDZPTmZVTU9UQThvLVpvX1pjak0yTTJ6STdONmFKWjdNZzVXdDRFYXF30gHUAUFVX3lxTE90dlFicWJkYm5TWEZpczVYV05UemFtaVY4SzJ5VDVvMFhJM2l6V3hlWUNTZXd4TlZmcFE1WEVEOTdxeFFsbzBoRmk5OTlOZ2Q0NkFoUXJoVEhGVm9ySUc3anA0ZmFydUJNLW9ZNlNjUW9vY0d2SVVPblZ4cnc0SWs0RHNxX0xMamRFd2tsUmlDY3g1UVB6cE1fRlViaGtuM2ZWbGFOMGpkTlVvbkx3RHFoQmUyUjB5Tm9BcTZ2VVlNdkJRYl9jOXlOX0JsM3pGS0owZVNG?oc=5\" target=\"_blank\">Bihar cabinet approves proposal to generate one crore jobs in next five years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWs3Rm5VQXZsdHpLREZPdUR2RGlVU2pzOEFvYm5PY2RSWThlMTJpOXlfYjJsak5nbDFmYUpWYlN5MGVWUTdGdnNGNTV3V3lRYzNhRHZrU1hDdTZVUER6XzdZUTB0eG8yRms0OXJtV2ZoWjkwb2FnbDZwNXMya0JMMjNGU0FrVXdjdENPWjBuM2JnTk4xSTRsQnZIcHh2RDZPTmZVTU9UQThvLVpvX1pjak0yTTJ6STdONmFKWjdNZzVXdDRFYXF30gHUAUFVX3lxTE90dlFicWJkYm5TWEZpczVYV05UemFtaVY4SzJ5VDVvMFhJM2l6V3hlWUNTZXd4TlZmcFE1WEVEOTdxeFFsbzBoRmk5OTlOZ2Q0NkFoUXJoVEhGVm9ySUc3anA0ZmFydUJNLW9ZNlNjUW9vY0d2SVVPblZ4cnc0SWs0RHNxX0xMamRFd2tsUmlDY3g1UVB6cE1fRlViaGtuM2ZWbGFOMGpkTlVvbkx3RHFoQmUyUjB5Tm9BcTZ2VVlNdkJRYl9jOXlOX0JsM3pGS0owZVNG?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar: Man arrested for creating AI deepfake content of President, PM; cyber case registered in Muzaffarpur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNzRlYlhtQTdqVUVZZTlrRFViMHJxbzRReTYwRGRtQVlnWjdCUGdLMHU5NmZuSkNoaURsbGxZcE4zc2NiR2VwUVktd1Zkckxhc25NUjl0NmctMkFfLTFwN1l4NGhfUG5XZnI5NlFXRnNqeEpUdWlYdDZXQmFoTGpQeWZmLVFzRFIyZmJtX19Oc29tNVNGMWFGR3YyckVQcDJpdVlfUW5JOVhYN2IxZEp5OHl6SHdtbXNqY1ZoRk1YT1lCVVU2dmo3NHRSQXdxVmtaTXN0cDV3UzJ1UnpUZmZsNkdMaUs4cjY0U3B2ckFKcklLdlBnRkhHd2pIVkE?oc=5\" target=\"_blank\">Bihar: Man arrested for creating AI deepfake content of President, PM; cyber case registered in Muzaffarpur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNzRlYlhtQTdqVUVZZTlrRFViMHJxbzRReTYwRGRtQVlnWjdCUGdLMHU5NmZuSkNoaURsbGxZcE4zc2NiR2VwUVktd1Zkckxhc25NUjl0NmctMkFfLTFwN1l4NGhfUG5XZnI5NlFXRnNqeEpUdWlYdDZXQmFoTGpQeWZmLVFzRFIyZmJtX19Oc29tNVNGMWFGR3YyckVQcDJpdVlfUW5JOVhYN2IxZEp5OHl6SHdtbXNqY1ZoRk1YT1lCVVU2dmo3NHRSQXdxVmtaTXN0cDV3UzJ1UnpUZmZsNkdMaUs4cjY0U3B2ckFKcklLdlBnRkhHd2pIVkE?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Sat, 03 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "India: Chief Minister’s removal of woman’s hijab demands “unequivocal condemnation”",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmdXZExDNTZZOVRXenh4TGt5alVkdVNKc3lRLXdBUUhsZF9ZZ3pXYmNXNDBWWVNlZUNIVk5ORVlWdVJkQ1VNQ0xLQy0zRnVhc0pCQWt6ZVp3ek0ta3lxNElhb2JSOUJsQ2kwdFF6RnR5MWt4QVdDTG1zQ2l4Qm1Gdnd1bGVrQUJwVlZVck5MZEV4TGpxTllldHlOY3ZIQ2V3RDRjLUhmVUtGbXRxOHRXM0NKRmJIcWx4c0U1dUVIMHY5SFgy?oc=5\" target=\"_blank\">India: Chief Minister’s removal of woman’s hijab demands “unequivocal condemnation”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amnesty International</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmdXZExDNTZZOVRXenh4TGt5alVkdVNKc3lRLXdBUUhsZF9ZZ3pXYmNXNDBWWVNlZUNIVk5ORVlWdVJkQ1VNQ0xLQy0zRnVhc0pCQWt6ZVp3ek0ta3lxNElhb2JSOUJsQ2kwdFF6RnR5MWt4QVdDTG1zQ2l4Qm1Gdnd1bGVrQUJwVlZVck5MZEV4TGpxTllldHlOY3ZIQ2V3RDRjLUhmVUtGbXRxOHRXM0NKRmJIcWx4c0U1dUVIMHY5SFgy?oc=5",
+   "source_name": "Amnesty International",
+   "source_domain": "amnesty.org",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet sets target of one crore jobs, push to make State global workplace",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTdqYWxzNng1eWdsc0R3LTUxdTFEM1RJbk9CQnEyM1hxalRTUWdSRUtHOTVLRnY2cVd3eE5rMU45eVRDR1pOMzJhUnRyall3UklBN0dfYTJfaWxLLXBRaHFkMkZBRERROWFYbTJNazFlR0pEVVpKWW13cGU3UFJRQ19JYUF2dUJHbC0wTk1ONmkxSDBYQVMtTDYxRUVESjdoX3RPNlFPeWZwX05Ncl9RV3BuTmJUOFNaUDhzZWpPRkJwNFlBY1JqMG5reERaMkFZMGFfZ2VrSF9GN2tBQWF2TzMwQzNUQ2JGRlg3V0Utbm9YU01waXJFWHZHdmnSAYMCQVVfeXFMUE9IdklOUUpqVHhsX0ItZUdZaEdjaHRRTEMzazktbDNTZGZaLVBqbHZmVV9fZ2ltNkhiV29PSkt0WnNKNng2bGlVS1lSMFhjbHdXbkVhWjd3M25aSEtKS3VnLWxEblhzQXZzcEJDOWdMRW1UeERKVVNxODhWMFpGYURMWmMyNWFfUGxHNThCd2NXQnRYam9Bc3FacGd2My1yVE5hd1hfNTVHZU5lSGJORmE1ZHlUVjRRVm1MSWRTc0xjREZ2dkpsOVZsa19QY0xYcEV5UG9EcHFMZFpfSWZrYU5uUXNQc3dnM3B0WFpid3N6U0NYZHdFaEdaRE91QURlT2lvZw?oc=5\" target=\"_blank\">Bihar cabinet sets target of one crore jobs, push to make State global workplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTdqYWxzNng1eWdsc0R3LTUxdTFEM1RJbk9CQnEyM1hxalRTUWdSRUtHOTVLRnY2cVd3eE5rMU45eVRDR1pOMzJhUnRyall3UklBN0dfYTJfaWxLLXBRaHFkMkZBRERROWFYbTJNazFlR0pEVVpKWW13cGU3UFJRQ19JYUF2dUJHbC0wTk1ONmkxSDBYQVMtTDYxRUVESjdoX3RPNlFPeWZwX05Ncl9RV3BuTmJUOFNaUDhzZWpPRkJwNFlBY1JqMG5reERaMkFZMGFfZ2VrSF9GN2tBQWF2TzMwQzNUQ2JGRlg3V0Utbm9YU01waXJFWHZHdmnSAYMCQVVfeXFMUE9IdklOUUpqVHhsX0ItZUdZaEdjaHRRTEMzazktbDNTZGZaLVBqbHZmVV9fZ2ltNkhiV29PSkt0WnNKNng2bGlVS1lSMFhjbHdXbkVhWjd3M25aSEtKS3VnLWxEblhzQXZzcEJDOWdMRW1UeERKVVNxODhWMFpGYURMWmMyNWFfUGxHNThCd2NXQnRYam9Bc3FacGd2My1yVE5hd1hfNTVHZU5lSGJORmE1ZHlUVjRRVm1MSWRTc0xjREZ2dkpsOVZsa19QY0xYcEV5UG9EcHFMZFpfSWZrYU5uUXNQc3dnM3B0WFpid3N6U0NYZHdFaEdaRE91QURlT2lvZw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "An AI-generated video is shared as visuals of Modi watching Bihar CM Nitish Kumar apologising to muslims",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXJvbDhTOTBVNTlwOTVPcFJGZ0hVWmtlcDVQT3Nnd1BiMDFveGh6Y2JWU0Zuc2ZocFlMOG83dGQ5aHlpYkVWWWJUWWdDVERPOXBmMDlmbXhzeWE0aUdPdVA0cGtHWHBBeGtBUTZMd0J2WDZLZFRhT3ZQQ0ZteXdGYmZ0M0tBQWZGUTFJRDBGdDhGSTJPY3pXMTdTMUlWUEFZeFhqZ0R4eDFtdHRMNVNaTktWOGlJUk5DX00xTVBXV24?oc=5\" target=\"_blank\">An AI-generated video is shared as visuals of Modi watching Bihar CM Nitish Kumar apologising to muslims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FACTLY</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXJvbDhTOTBVNTlwOTVPcFJGZ0hVWmtlcDVQT3Nnd1BiMDFveGh6Y2JWU0Zuc2ZocFlMOG83dGQ5aHlpYkVWWWJUWWdDVERPOXBmMDlmbXhzeWE0aUdPdVA0cGtHWHBBeGtBUTZMd0J2WDZLZFRhT3ZQQ0ZteXdGYmZ0M0tBQWZGUTFJRDBGdDhGSTJPY3pXMTdTMUlWUEFZeFhqZ0R4eDFtdHRMNVNaTktWOGlJUk5DX00xTVBXV24?oc=5",
+   "source_name": "FACTLY",
+   "source_domain": "factly.in",
+   "published_raw": "Mon, 22 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar Employment Mission 2025–2030: Government Targets 1 Crore Jobs for Youth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBMOFpzeTBiZ0IwdmpVWjNqc1hva1NrVXZXOGJPSWlMT3dKcVVkcWNSTUlid1RzQkFZVjZtd3p3TnQ1Z1dlbHc1TElRcFFvSWZ6TktUWnNMUnhOeExrQjJkNTNqSnUxWXRseVdZem9QUm12RzRDem5MNTgwNTZwd1RBU3ltU0RteTh3STJ0dFE5MWE2a3MwM3diUTZWMkNGUXc2Q0JCeUZpYnFod1ZHNTJrOA?oc=5\" target=\"_blank\">Bihar Employment Mission 2025–2030: Government Targets 1 Crore Jobs for Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBMOFpzeTBiZ0IwdmpVWjNqc1hva1NrVXZXOGJPSWlMT3dKcVVkcWNSTUlid1RzQkFZVjZtd3p3TnQ1Z1dlbHc1TElRcFFvSWZ6TktUWnNMUnhOeExrQjJkNTNqSnUxWXRseVdZem9QUm12RzRDem5MNTgwNTZwd1RBU3ltU0RteTh3STJ0dFE5MWE2a3MwM3diUTZWMkNGUXc2Q0JCeUZpYnFod1ZHNTJrOA?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "adda247.com",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Swearing-in of new Bihar govt likely on Nov 20, PM Modi expected to attend",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjk2Tm5CQ0N4cHF0cFMtb0ZmOWJCc2lkWWhvRUk5LXNReWdUNmNpemFMempLQ1c5MWVkWU9OdFgwLXZqSnRhTG9HVmRwaXhHV29VR2VoMmhFWklTY0lYajVSWjVBMEEzNFdjWHVoZ09vajlHYzY1S3ROWGdBLTJWZUlRbUJwdG5DU3p6S1pOVlVtV3dyMlZTLTMxWWY3MXRBNElna0twc09GVHJjbXFFRFNnVXNmdzI2eFVNVmVTRXlUNF9JUmtWVE5FamVxMF84b2RHQtIB2gFBVV95cUxPSjM3cl9tdDJsNGJxbkFDTU44RjU5SmRta0pKRHNIZTU1ekpWYzl2OHdMcExhLTA5Vm5XamhLd2VYTVB0OHZIMlg5YkdRUXl2X21NQ040cnFyNTUycWx3UkREclB5Nll6WjlOazQtVUFLdmRsWGwxWnRUb3FQcVU1aDRFSjZuU0FUeDJwZm9oQkdLalpxdUd2enRPLXhIeU1jTnpLcEUyS3k4ODhwbWRtMXFJWUkyRGlmeDhiSHhybUx4OEdxU1lBbWtFR3BMejJaUWxMdlVDaWl4Zw?oc=5\" target=\"_blank\">Swearing-in of new Bihar govt likely on Nov 20, PM Modi expected to attend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjk2Tm5CQ0N4cHF0cFMtb0ZmOWJCc2lkWWhvRUk5LXNReWdUNmNpemFMempLQ1c5MWVkWU9OdFgwLXZqSnRhTG9HVmRwaXhHV29VR2VoMmhFWklTY0lYajVSWjVBMEEzNFdjWHVoZ09vajlHYzY1S3ROWGdBLTJWZUlRbUJwdG5DU3p6S1pOVlVtV3dyMlZTLTMxWWY3MXRBNElna0twc09GVHJjbXFFRFNnVXNmdzI2eFVNVmVTRXlUNF9JUmtWVE5FamVxMF84b2RHQtIB2gFBVV95cUxPSjM3cl9tdDJsNGJxbkFDTU44RjU5SmRta0pKRHNIZTU1ekpWYzl2OHdMcExhLTA5Vm5XamhLd2VYTVB0OHZIMlg5YkdRUXl2X21NQ040cnFyNTUycWx3UkREclB5Nll6WjlOazQtVUFLdmRsWGwxWnRUb3FQcVU1aDRFSjZuU0FUeDJwZm9oQkdLalpxdUd2enRPLXhIeU1jTnpLcEUyS3k4ODhwbWRtMXFJWUkyRGlmeDhiSHhybUx4OEdxU1lBbWtFR3BMejJaUWxMdlVDaWl4Zw?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar Govt Launches QR Code-Based Monitoring for Rural Roads Constructed Under Pradhan Mantri Gram Sadak Yojana",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjd2bmVNUllPc1BjekhKMUExYU1XNEhpZjdnRUFhWEstQms5bFhQXzhzbVZJRy15MlZZcUl0M0VJNkg1R0pROEJWcUp5QzhYeUVrZm1SS2libkdQbUVBeEZnQTF3X3F2dkZTRlJTUnZibGJ2S0tKeThra1VLSEk4Tm1sT0dMZVEwVE1Sc1FNbi1iRHNTZFVOWm5ZUmxSc1RDVW9wVmhXdTJHUlJ3YXkyMDl2UkIyZU5UcXRqN3BIeW9PaFBqNWhCNHZCX0RDb21qVFBZalFjbW1ReFdsc1NLRmp3?oc=5\" target=\"_blank\">Bihar Govt Launches QR Code-Based Monitoring for Rural Roads Constructed Under Pradhan Mantri Gram Sadak Yojana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjd2bmVNUllPc1BjekhKMUExYU1XNEhpZjdnRUFhWEstQms5bFhQXzhzbVZJRy15MlZZcUl0M0VJNkg1R0pROEJWcUp5QzhYeUVrZm1SS2libkdQbUVBeEZnQTF3X3F2dkZTRlJTUnZibGJ2S0tKeThra1VLSEk4Tm1sT0dMZVEwVE1Sc1FNbi1iRHNTZFVOWm5ZUmxSc1RDVW9wVmhXdTJHUlJ3YXkyMDl2UkIyZU5UcXRqN3BIeW9PaFBqNWhCNHZCX0RDb21qVFBZalFjbW1ReFdsc1NLRmp3?oc=5",
+   "source_name": "APAC Media",
+   "source_domain": "apacnewsnetwork.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "INTERVIEW | ‘Bihar aims to become the tech hub of eastern India’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW1ITEZCOWFwekVZQW9uN1QxdmkxQTl3YTE3QjFic2wtemU2LXNYUXlwYWRpbFZnRHhFblFscGZ4aVQtd3FQdHNSQThhZWhsckdMZkdCQjJwc3Q1SjMtNEZlMXhWUnpKaGs2aWU4bXVmNVNRTmRsSDUzNUNnbjByRVQwOENiN3AxWmpHdThMcnBTeUh2R3kxb1M2MUtSTXFpVVI2VkN3LWoxYVVnRXNsRdIBvgFBVV95cUxOdjNwdzQ2QWhLLTFOeVo5ZkE1Vl92S2lRaXdlWVdmbmJvY3JCWnFoalpfc2NqaXNjWk1YVHFZQ1JoY3hsc2JhUEloZzFxZGs0VWtyTldCWFNtdkdrMk9IMVZ5VXpoYk8xRGI2UGhfeEp0LWdsYzd5dlBnY1NHbkplR1UwREk1U0Nfd3FPM0VXUXdsd1BBS1FVS3RicWs5RXYwN2JYSXRfcGx0RHU1N0lwZFpuQTlXaFFFTUt5NElB?oc=5\" target=\"_blank\">INTERVIEW | ‘Bihar aims to become the tech hub of eastern India’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW1ITEZCOWFwekVZQW9uN1QxdmkxQTl3YTE3QjFic2wtemU2LXNYUXlwYWRpbFZnRHhFblFscGZ4aVQtd3FQdHNSQThhZWhsckdMZkdCQjJwc3Q1SjMtNEZlMXhWUnpKaGs2aWU4bXVmNVNRTmRsSDUzNUNnbjByRVQwOENiN3AxWmpHdThMcnBTeUh2R3kxb1M2MUtSTXFpVVI2VkN3LWoxYVVnRXNsRdIBvgFBVV95cUxOdjNwdzQ2QWhLLTFOeVo5ZkE1Vl92S2lRaXdlWVdmbmJvY3JCWnFoalpfc2NqaXNjWk1YVHFZQ1JoY3hsc2JhUEloZzFxZGs0VWtyTldCWFNtdkdrMk9IMVZ5VXpoYk8xRGI2UGhfeEp0LWdsYzd5dlBnY1NHbkplR1UwREk1U0Nfd3FPM0VXUXdsd1BBS1FVS3RicWs5RXYwN2JYSXRfcGx0RHU1N0lwZFpuQTlXaFFFTUt5NElB?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:45+00:00"
+  }
+ ]
+}

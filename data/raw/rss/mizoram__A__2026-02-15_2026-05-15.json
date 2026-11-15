@@ -1,0 +1,98 @@
+{
+ "region": "Mizoram",
+ "group": "A",
+ "query": "(Mizoram) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Mizoram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:34:55+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Governor Addresses the Budget Session of the Ninth Legislative Assembly of Mizoram",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFNKbFkzNXhtMzdQazVsc1RXbWtOOUwzQmxBOEFHRGxZSmNlUGI3bi1sMi1sRmtVNHlQbHZYdmlvOHl3ZVZjZ09rUDhMSUFqeVNESkNVTnRITkVJS2tVeDQ3VGlNaF9mNDcyZG9oNUc0SVRrYWVpSFZCQlBGVFgtaXczamFEcUE1eWVLU3pQTDBtUnNQZmFXeEFKOUhQSnJHLUdhSmFCMS13REU5aHF3S2h6dm5IY0UxWmNwMlpLVzc3QQ?oc=5\" target=\"_blank\">Mizoram Governor Addresses the Budget Session of the Ninth Legislative Assembly of Mizoram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lok Bhavan Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFNKbFkzNXhtMzdQazVsc1RXbWtOOUwzQmxBOEFHRGxZSmNlUGI3bi1sMi1sRmtVNHlQbHZYdmlvOHl3ZVZjZ09rUDhMSUFqeVNESkNVTnRITkVJS2tVeDQ3VGlNaF9mNDcyZG9oNUc0SVRrYWVpSFZCQlBGVFgtaXczamFEcUE1eWVLU3pQTDBtUnNQZmFXeEFKOUhQSnJHLUdhSmFCMS13REU5aHF3S2h6dm5IY0UxWmNwMlpLVzc3QQ?oc=5",
+   "source_name": "Lok Bhavan Mizoram",
+   "source_domain": "rajbhavan.mizoram.gov.in",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram speaker Lalbiakzama unveils AI platform",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0VHZDN6RGZCR3lVdmlldnVrTXBNU2x6MTJCSVJ3UVZRSzFJVy1LSXpScnBSN1czbnBJcmdVTHdmVGxDS1RhRzBRcHc0U3hjZGpFM21PZDVyUHhHaEJuTlRkSmNDVFpCUE1HbkQwR2xXRHhyTW9HY2pGV1BucWVoNUxwZmJQTUZvbkJBbVBOTUluMkRxQnZqUldUQU9pNV96aUZ5WUg4X1lfRFdPclplM3dqLXRUcUFuRjdKX1ZaQmPSAcYBQVVfeXFMTTZhWDY1Y2RBSi14b0dRQkF2Wm0tUklPTVJaVmhlYVpCc0RZeVdSaEJheDkwemx6RmdCZkRSbzJZOEpOcTNGS05GZmc0cFJMU1dHaVlZTzRWQS04ejJzQkFIekQ5amFhbWNEVkxVSXp4eXJQdURJWkN4RWdEZEQ4QjBOeWsyN2g4T0c2Z0FkMVNjTzR1VmxFbmJEV05CTmZKMXBDZEtWT3V2anZFTlhLSi1ZMjJoT3hOamRXQmFHNzFjcnRxT0pR?oc=5\" target=\"_blank\">Mizoram speaker Lalbiakzama unveils AI platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0VHZDN6RGZCR3lVdmlldnVrTXBNU2x6MTJCSVJ3UVZRSzFJVy1LSXpScnBSN1czbnBJcmdVTHdmVGxDS1RhRzBRcHc0U3hjZGpFM21PZDVyUHhHaEJuTlRkSmNDVFpCUE1HbkQwR2xXRHhyTW9HY2pGV1BucWVoNUxwZmJQTUZvbkJBbVBOTUluMkRxQnZqUldUQU9pNV96aUZ5WUg4X1lfRFdPclplM3dqLXRUcUFuRjdKX1ZaQmPSAcYBQVVfeXFMTTZhWDY1Y2RBSi14b0dRQkF2Wm0tUklPTVJaVmhlYVpCc0RZeVdSaEJheDkwemx6RmdCZkRSbzJZOEpOcTNGS05GZmc0cFJMU1dHaVlZTzRWQS04ejJzQkFIekQ5amFhbWNEVkxVSXp4eXJQdURJWkN4RWdEZEQ4QjBOeWsyN2g4T0c2Z0FkMVNjTzR1VmxFbmJEV05CTmZKMXBDZEtWT3V2anZFTlhLSi1ZMjJoT3hOamRXQmFHNzFjcnRxT0pR?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 08 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "How a Mizo-led AI app is helping nonverbal children",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkdEa0N5RkNISnNMUlZUaGRad1RpeFZsb1AxZ2UxNFljNnA0TmhkeDI5NWlxU1I5Q0hlQnQ1dzhVbUJ3V3hvVGU2TzRXSFdGLWZLRWgtQ1hvQ1AzbUdmRVM4M3p4b3U2cXB5U203RnlVRHdvNUR0ZWo3RE1EUy04LUFyUGhWdkVXNDkwYTlIQlhVZ21UeTRF?oc=5\" target=\"_blank\">How a Mizo-led AI app is helping nonverbal children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EastMojo</font>",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkdEa0N5RkNISnNMUlZUaGRad1RpeFZsb1AxZ2UxNFljNnA0TmhkeDI5NWlxU1I5Q0hlQnQ1dzhVbUJ3V3hvVGU2TzRXSFdGLWZLRWgtQ1hvQ1AzbUdmRVM4M3p4b3U2cXB5U203RnlVRHdvNUR0ZWo3RE1EUy04LUFyUGhWdkVXNDkwYTlIQlhVZ21UeTRF?oc=5",
+   "source_name": "EastMojo",
+   "source_domain": "eastmojo.com",
+   "published_raw": "Mon, 11 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram To Develop Ropeway At State's Highest Waterfall With A Budget Of Rs 34.50 Crore",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV1JVVTVqbVhnMm5RX2phOGNPYUU3T3NQM09oS0QwM1lFN3FPRFVkZGpjcXVMZ0I1MUJ2LU5BTjk2c010N1lWVzdBdXRXOF9RUGozT2hmUUp4NlY0NXNRM2J3YmhPbm1TWmpHc0NFekxFaHpQbHdiRVZjQ2lDVmducU1UU3FSX2NVVW43WG40VzM2eVowWGp0bXNaT2FSQVU1VGZSaFlkZTFMNGFENExZVWU3U05lb0w0OThoamVabXozZ9IBygFBVV95cUxPcnhvZ2pIS1k2alg3VUd1VmE1RDRtTjFPbUhucW5xYlhoQmhyNm9yLWRiUXRqUUhtbHZDTUlRQXdpdDN1RW1tcWl2NWdQQldMQnJkVVhYcXZaQVFiSjM0eWJ2RXFjdnJrUkh3c0t3T0tZTUhFamoxam4tbkJEUXRaYVRPUkpJTlAzTHdiblZXRFM1YUxfY0NSY2hlU0JnSmxTZzFBcGp2N3l6SnY3dlFLSDJIbXFnUmRmU0dKZldJdWItTl9XYTBjX1V3?oc=5\" target=\"_blank\">Mizoram To Develop Ropeway At State's Highest Waterfall With A Budget Of Rs 34.50 Crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV1JVVTVqbVhnMm5RX2phOGNPYUU3T3NQM09oS0QwM1lFN3FPRFVkZGpjcXVMZ0I1MUJ2LU5BTjk2c010N1lWVzdBdXRXOF9RUGozT2hmUUp4NlY0NXNRM2J3YmhPbm1TWmpHc0NFekxFaHpQbHdiRVZjQ2lDVmducU1UU3FSX2NVVW43WG40VzM2eVowWGp0bXNaT2FSQVU1VGZSaFlkZTFMNGFENExZVWU3U05lb0w0OThoamVabXozZ9IBygFBVV95cUxPcnhvZ2pIS1k2alg3VUd1VmE1RDRtTjFPbUhucW5xYlhoQmhyNm9yLWRiUXRqUUhtbHZDTUlRQXdpdDN1RW1tcWl2NWdQQldMQnJkVVhYcXZaQVFiSjM0eWJ2RXFjdnJrUkh3c0t3T0tZTUhFamoxam4tbkJEUXRaYVRPUkpJTlAzTHdiblZXRFM1YUxfY0NSY2hlU0JnSmxTZzFBcGp2N3l6SnY3dlFLSDJIbXFnUmRmU0dKZldJdWItTl9XYTBjX1V3?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Sat, 21 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "How the India-Myanmar Border in the Northeast is Being Misread",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOelp1Z3JhSGgtaEFhcTY3ZW5jTE0xd2ZzeHAwVnhvYnZQMUpOVlltNnVSUl9QajlnY2JibU4wYXhBNE4wejc2Um1mSjBGQUc0UU9aVnRXRktfMm5rclFTTXpHRXJNYm5vNGV4c09TRVc5X1hJV1l0Mi1ValpZUENDUUlZcnpqTXk2MXc1eWlFZ3RSTXRZYmF3UWFBTQ?oc=5\" target=\"_blank\">How the India-Myanmar Border in the Northeast is Being Misread</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelp1Z3JhSGgtaEFhcTY3ZW5jTE0xd2ZzeHAwVnhvYnZQMUpOVlltNnVSUl9QajlnY2JibU4wYXhBNE4wejc2Um1mSjBGQUc0UU9aVnRXRktfMm5rclFTTXpHRXJNYm5vNGV4c09TRVc5X1hJV1l0Mi1ValpZUENDUUlZcnpqTXk2MXc1eWlFZ3RSTXRZYmF3UWFBTQ?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Sat, 04 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Scindia Launches ₹190 Cr Mizoram Ginger Mission To Boost Farmer Income",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnlONzBFZU0zeDRQdGFpdVoySjE3Yks1ZDNuUDMxekFqMTFnRlVTTmtPV2RHa3Q1ZmRWYW9JZVl6VmQwR1RhOXJNdS1rV0FuQlRWMnAyTTItckFXR0FteThsVllRTUNkbl9BTnhKZm1sYUtzanZ2LTZnODZhS1c4b0FyMVRCLU1zMS1sb2xqcmRnVXlIM0E?oc=5\" target=\"_blank\">Scindia Launches ₹190 Cr Mizoram Ginger Mission To Boost Farmer Income</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarkaritel.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnlONzBFZU0zeDRQdGFpdVoySjE3Yks1ZDNuUDMxekFqMTFnRlVTTmtPV2RHa3Q1ZmRWYW9JZVl6VmQwR1RhOXJNdS1rV0FuQlRWMnAyTTItckFXR0FteThsVllRTUNkbl9BTnhKZm1sYUtzanZ2LTZnODZhS1c4b0FyMVRCLU1zMS1sb2xqcmRnVXlIM0E?oc=5",
+   "source_name": "Sarkaritel.com",
+   "source_domain": "sarkaritel.com",
+   "published_raw": "Thu, 14 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Centre sanctioned ₹97 crore to transform Mizoram's Sairang into world-class rail station: Mizoram CM Lald..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUx4Q211T05aWFMzR1RpS1hFeWs3NnFKdmg4ZkVBbWhfT3NhMndHWnRWZk1XczZ6cGwxZUh4cDhEc2lMQTZoVUtMNDJGYmRUcVdjcTFLdVJqV3RnWnpueGxOazU1dVduZHdfZEhCQXNjZzZzRGlMeVExRzhNUTBxQ2o1aFFTMGpTdDdadE1VZWlkakNsbG1kQ0g0bnRQNjJmLWRiY2R6cEpreFNEUk9hV1hNUDB6SjZMdXNoNnBfNmF1MTltZVppOFozaW1GYjU1SEtzb3F6YlVjY2tKLXViaWQtONIB6AFBVV95cUxQZUxTZFFKWmt3WXJ5NWxaZVM4dW1IY0JGY1o4dFpza1FWMnNKVFJsMmVFUXExQ1pXWHNtM3R6a3Vmal9PUUY1UjJrM2VNTkZSUlRacVZwaGtZU1Y2Tk81QUF0QnA2bjBxREpvSlNWZHozLXNURUl1cDkyNV93VXBXdjJIai1BZFlxa2hzeHEtcG5pVE9zQkJOUDlFWWhmdWIyVF9OSlJRdjl0ZDZ1d0NPVFlDa1pPdGpZNHBrSGN3cVFENTVhMUNFazhmXy1zeDNsRUY1cVJOaG91Q281WnRrVVNKd0dLTFlJ?oc=5\" target=\"_blank\">Centre sanctioned ₹97 crore to transform Mizoram's Sairang into world-class rail station: Mizoram CM Lald..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUx4Q211T05aWFMzR1RpS1hFeWs3NnFKdmg4ZkVBbWhfT3NhMndHWnRWZk1XczZ6cGwxZUh4cDhEc2lMQTZoVUtMNDJGYmRUcVdjcTFLdVJqV3RnWnpueGxOazU1dVduZHdfZEhCQXNjZzZzRGlMeVExRzhNUTBxQ2o1aFFTMGpTdDdadE1VZWlkakNsbG1kQ0g0bnRQNjJmLWRiY2R6cEpreFNEUk9hV1hNUDB6SjZMdXNoNnBfNmF1MTltZVppOFozaW1GYjU1SEtzb3F6YlVjY2tKLXViaWQtONIB6AFBVV95cUxQZUxTZFFKWmt3WXJ5NWxaZVM4dW1IY0JGY1o4dFpza1FWMnNKVFJsMmVFUXExQ1pXWHNtM3R6a3Vmal9PUUY1UjJrM2VNTkZSUlRacVZwaGtZU1Y2Tk81QUF0QnA2bjBxREpvSlNWZHozLXNURUl1cDkyNV93VXBXdjJIai1BZFlxa2hzeHEtcG5pVE9zQkJOUDlFWWhmdWIyVF9OSlJRdjl0ZDZ1d0NPVFlDa1pPdGpZNHBrSGN3cVFENTVhMUNFazhmXy1zeDNsRUY1cVJOaG91Q281WnRrVVNKd0dLTFlJ?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Manipur, Mizoram in focus ahead of India’s ’27 HIV control deadline",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGFwbi1RN0dzZ00ydTJFRzdxRmFfQ1lVeUN0MEtSREdxMGdQOHdRalJqLVdzMmhuRXAyWGluaHpYWmZvWEhLUkdrUVJaNC1seVRFeTR6cVRSVVBTNmpVdnRyY2FwS3IwcFNfaV81enJIWmtoLU15Z2hEYjAtX2o2NFdITFJoZGExUWNXTEhjOG9weUJ6WTFabzdVQzBZZ2tmYlJzdmFSbVU2ZkN4RllUNURtZG9MbmRydWFEUXBHbmVrbmx6ZEFiQzZhWVREZ1Vvb3FPaWFFVdIB3AFBVV95cUxQU0JQdGdjM2Y4OGM1WFNPWFl0MDc4Z002Q09pVHN1UEFCSnFkbl9YSkg1dEdnakRPV0VzZlZCdUltLVpDS1BnZUhjaGtGRUhCWE9PVmRhMGhvWXdBYnlSM2d1UmhDZVRLRWtRMXRUc3pQaWhzVElVUFBPQXppdEFldHh4TWk0dUppNTFyeTE1R0V2ajRnV2JFRGxMLXdOT1Rlc1IxQ0hWTTVfSklqUnBoVk1MbjJnWXVCb1h4cm0tcW45dWRpdVkyYmloSDd2WDBCaXpyYUI0OGZfZWFs?oc=5\" target=\"_blank\">Manipur, Mizoram in focus ahead of India’s ’27 HIV control deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGFwbi1RN0dzZ00ydTJFRzdxRmFfQ1lVeUN0MEtSREdxMGdQOHdRalJqLVdzMmhuRXAyWGluaHpYWmZvWEhLUkdrUVJaNC1seVRFeTR6cVRSVVBTNmpVdnRyY2FwS3IwcFNfaV81enJIWmtoLU15Z2hEYjAtX2o2NFdITFJoZGExUWNXTEhjOG9weUJ6WTFabzdVQzBZZ2tmYlJzdmFSbVU2ZkN4RllUNURtZG9MbmRydWFEUXBHbmVrbmx6ZEFiQzZhWVREZ1Vvb3FPaWFFVdIB3AFBVV95cUxQU0JQdGdjM2Y4OGM1WFNPWFl0MDc4Z002Q09pVHN1UEFCSnFkbl9YSkg1dEdnakRPV0VzZlZCdUltLVpDS1BnZUhjaGtGRUhCWE9PVmRhMGhvWXdBYnlSM2d1UmhDZVRLRWtRMXRUc3pQaWhzVElVUFBPQXppdEFldHh4TWk0dUppNTFyeTE1R0V2ajRnV2JFRGxMLXdOT1Rlc1IxQ0hWTTVfSklqUnBoVk1MbjJnWXVCb1h4cm0tcW45dWRpdVkyYmloSDd2WDBCaXpyYUI0OGZfZWFs?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:55+00:00"
+  }
+ ]
+}

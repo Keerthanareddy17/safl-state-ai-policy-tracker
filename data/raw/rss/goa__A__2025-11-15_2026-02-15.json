@@ -1,0 +1,120 @@
+{
+ "region": "Goa",
+ "group": "A",
+ "query": "(Goa) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Goa%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:45+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI Centre of Excellence for Healthcare established at IISc in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR256UDZmanV5MktNY0tienVzZnl0Z3VIQ3ljemRUYWhtRW95c3ZaQkI1QmFVbnR5eTlqNHNWUEM5dXJBMkxGQUpHVmE0MUZBTHpkWXpaRTdqUG9JVVZQME1fTUZYa3pVTDhIZldRN2NfOF9PTHZVSm1ueFVzbVNQc0VxTjdDZGFaZFFGYjBzWmZmUDllZ2lWV1lHbW90MHdnTm5NeGQ0VWRSd1RVeGdnMUlsOTUybEJ6RURzam8yNjVja29SN3prWndfMlhraUE5UGdyUDlhZ9IB3gFBVV95cUxQOUVfbmF6M0pVenB1dV9FQ1JIZWtKQ3hDcHMyOFYxcExKbE1yeVhTdVl3LVFuSzJJZktFZ2w1Uk1qbG1MaWNCMUhtZmFmRk4wQW5Lcm0xbHpaeGM3T3FJWlliMDZJNFF4NTJIaWlKd1FzdHlfTlNaVDZzZmRTaElBYlZvRnZBUTZlc1hvekpTRTF0MS1MNGpSZlM0MmpUOUFielM4and6SDVsNUdoRUNyaGpxaE9fM3p2dnI0Z3NJejd1Y1J5V0ttcHZtSTFVOHh0MEk2Vk45T2dlcWpYc2c?oc=5\" target=\"_blank\">AI Centre of Excellence for Healthcare established at IISc in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR256UDZmanV5MktNY0tienVzZnl0Z3VIQ3ljemRUYWhtRW95c3ZaQkI1QmFVbnR5eTlqNHNWUEM5dXJBMkxGQUpHVmE0MUZBTHpkWXpaRTdqUG9JVVZQME1fTUZYa3pVTDhIZldRN2NfOF9PTHZVSm1ueFVzbVNQc0VxTjdDZGFaZFFGYjBzWmZmUDllZ2lWV1lHbW90MHdnTm5NeGQ0VWRSd1RVeGdnMUlsOTUybEJ6RURzam8yNjVja29SN3prWndfMlhraUE5UGdyUDlhZ9IB3gFBVV95cUxQOUVfbmF6M0pVenB1dV9FQ1JIZWtKQ3hDcHMyOFYxcExKbE1yeVhTdVl3LVFuSzJJZktFZ2w1Uk1qbG1MaWNCMUhtZmFmRk4wQW5Lcm0xbHpaeGM3T3FJWlliMDZJNFF4NTJIaWlKd1FzdHlfTlNaVDZzZmRTaElBYlZvRnZBUTZlc1hvekpTRTF0MS1MNGpSZlM0MmpUOUFielM4and6SDVsNUdoRUNyaGpxaE9fM3p2dnI0Z3NJejd1Y1J5V0ttcHZtSTFVOHh0MEk2Vk45T2dlcWpYc2c?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "India Energy Week 2026 to Bring Global Energy Leadership Together in Goa: Shri Hardeep S Puri",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSVQ5aGw0QlFMN3RUU1V0d3FHZmMxczZMVGZoZFoxeGVDN3JZNVZYNUxlLXRsTG83WHo1R3BieHJjRy1sSk9HRDE3cHRjUXBaZktiSVFPU01Ga01aLXhrTlI3R2RTS3FC?oc=5\" target=\"_blank\">India Energy Week 2026 to Bring Global Energy Leadership Together in Goa: Shri Hardeep S Puri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSVQ5aGw0QlFMN3RUU1V0d3FHZmMxczZMVGZoZFoxeGVDN3JZNVZYNUxlLXRsTG83WHo1R3BieHJjRy1sSk9HRDE3cHRjUXBaZktiSVFPU01Ga01aLXhrTlI3R2RTS3FC?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Market Entry Guide for Foreign Investors",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGt5Wl9pNUxaUHBnNGYtR3VfaThjQXZ2VFIxNng3ZmJ3aHp0bTd4S0dCdHphV0Z5T0RVV3ktVVFGWWMya0g3Z2d3OGJVX1MwRWhRdUxLVE5vNjA2aEJBR05GcmhrYVdNMW9ja2s3ZjlvZnNCY2liOVRGc3hfY29MNkctalk0b0tRMlM4UUFvVGp3RFU?oc=5\" target=\"_blank\">Goa Market Entry Guide for Foreign Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Briefing</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGt5Wl9pNUxaUHBnNGYtR3VfaThjQXZ2VFIxNng3ZmJ3aHp0bTd4S0dCdHphV0Z5T0RVV3ktVVFGWWMya0g3Z2d3OGJVX1MwRWhRdUxLVE5vNjA2aEJBR05GcmhrYVdNMW9ja2s3ZjlvZnNCY2liOVRGc3hfY29MNkctalk0b0tRMlM4UUFvVGp3RFU?oc=5",
+   "source_name": "India Briefing",
+   "source_domain": "india-briefing.com",
+   "published_raw": "Wed, 10 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Global Summit on AI for Mental Health: India’s Historic Leap in Responsible AI Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQXzJhbklTT0NSWm9FT2pyT3VVTi16NU5odWVwaERyZG16YmszTXlCVVFrV1F0TENWa2R2aVBBUHBFVWJqMDBjTjlCVDlrS08tMVRCekllWEU4alE4Z2loLVVXWV8wMVlKMEIxa3hRZ0NjYXV2RGtlaUJURTV4OC1iYjdYQm9XNTdMV0xIZThtdkxOdEd1WjhxMWdmTExaQ0hkRWVQdzBxOUlNRDlRb2ZVaHhUSQ?oc=5\" target=\"_blank\">Global Summit on AI for Mental Health: India’s Historic Leap in Responsible AI Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goa Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXzJhbklTT0NSWm9FT2pyT3VVTi16NU5odWVwaERyZG16YmszTXlCVVFrV1F0TENWa2R2aVBBUHBFVWJqMDBjTjlCVDlrS08tMVRCekllWEU4alE4Z2loLVVXWV8wMVlKMEIxa3hRZ0NjYXV2RGtlaUJURTV4OC1iYjdYQm9XNTdMV0xIZThtdkxOdEd1WjhxMWdmTExaQ0hkRWVQdzBxOUlNRDlRb2ZVaHhUSQ?oc=5",
+   "source_name": "Goa Chronicle",
+   "source_domain": "goachronicle.com",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Over 1 lakh chest X-rays screened using AI in Goa; diagnosis time cut by over 50% : Health Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmxHdThvRERfVHJ0RmtGZGdSVGEtODdES2lpb2VWWDJ0NGVUUFA3YUNibUxBdHlHR3NQd1Z1LThUaUJnNi14N3didDlvQmhaSFAtaHZHbnQ3SGpyUmJUbThCdENXRndiaXJjMVYxay1Gd0dvSDhnSlRZWWdRd0o5a0JRNm9aRkdzWUhzbF95NmtSQ3N2XzlpTUlvQ1ljN0diTWhHb2M0QVltTklvVzlTYnhSWVZfNElseGtz?oc=5\" target=\"_blank\">Over 1 lakh chest X-rays screened using AI in Goa; diagnosis time cut by over 50% : Health Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitalgoa</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmxHdThvRERfVHJ0RmtGZGdSVGEtODdES2lpb2VWWDJ0NGVUUFA3YUNibUxBdHlHR3NQd1Z1LThUaUJnNi14N3didDlvQmhaSFAtaHZHbnQ3SGpyUmJUbThCdENXRndiaXJjMVYxay1Gd0dvSDhnSlRZWWdRd0o5a0JRNm9aRkdzWUhzbF95NmtSQ3N2XzlpTUlvQ1ljN0diTWhHb2M0QVltTklvVzlTYnhSWVZfNElseGtz?oc=5",
+   "source_name": "digitalgoa",
+   "source_domain": "digitalgoa.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI-system to challan vehicles sans valid docus at Goa border checkposts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVl5b2ZUaDgwRzZ3azM2djFRNFJnMXdlQVZIVTVzMGh3Z05pQ2NnNkdtdHFkc3otX2NTdGtleVFrak9Hd0l5VHAtazBiTzJxM3kxV1FPYmpsRXlobjNtWmQ5RjlRbklVUF9pT1dNT3g5SHY1WUJkM0FaMENUR2NXd25DWC1QdTNIYnpqbXBhVjdYem43dXJzVU1fQ1VKT1ZFOFZHZm1RT3JnRzc0M1hyRVBJb2psSVN4VGhmQmpwUzFubGVLUGRtYkpINldXa0o2RFJTQ3R0SE9TZ9IB3wFBVV95cUxPVllad0t5enRmQVpIanZyN2Z1MXBsSVp6dXMyMXZlNXlYeWJLdXBWa3NFOFdOVVM4TkZDUTRTMkNTVU9LQzc2dFlhbDVtaEJhVDNfSHJNTGg5bXBGTjlSUGNEWkNUQzZGaVR5Mk82ZVlBR2JBRWJ4VnZuamNEeG5ibzlqWUlaTnRLcDNvc2lpdGFwSFpOYVVzRkYyQ1ZaYlVlNC1QN1V4Z3E5ZE82YThOWmNuUmR5QWlDRTBGcHpyeHl1WlhkaVYzSTQ3Zkd2ZDd6aXFEZVI0eUhfMVltSnVv?oc=5\" target=\"_blank\">AI-system to challan vehicles sans valid docus at Goa border checkposts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVl5b2ZUaDgwRzZ3azM2djFRNFJnMXdlQVZIVTVzMGh3Z05pQ2NnNkdtdHFkc3otX2NTdGtleVFrak9Hd0l5VHAtazBiTzJxM3kxV1FPYmpsRXlobjNtWmQ5RjlRbklVUF9pT1dNT3g5SHY1WUJkM0FaMENUR2NXd25DWC1QdTNIYnpqbXBhVjdYem43dXJzVU1fQ1VKT1ZFOFZHZm1RT3JnRzc0M1hyRVBJb2psSVN4VGhmQmpwUzFubGVLUGRtYkpINldXa0o2RFJTQ3R0SE9TZ9IB3wFBVV95cUxPVllad0t5enRmQVpIanZyN2Z1MXBsSVp6dXMyMXZlNXlYeWJLdXBWa3NFOFdOVVM4TkZDUTRTMkNTVU9LQzc2dFlhbDVtaEJhVDNfSHJNTGg5bXBGTjlSUGNEWkNUQzZGaVR5Mk82ZVlBR2JBRWJ4VnZuamNEeG5ibzlqWUlaTnRLcDNvc2lpdGFwSFpOYVVzRkYyQ1ZaYlVlNC1QN1V4Z3E5ZE82YThOWmNuUmR5QWlDRTBGcHpyeHl1WlhkaVYzSTQ3Zkd2ZDd6aXFEZVI0eUhfMVltSnVv?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Showcases its Vision as India’s Creative Capital at the 28th Edition of Bengaluru Tech Summit 2025",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2ZybWRZVVNSQ2JFOGhHSkJpYUVXV0RoMzRnX3pvOFVmay1XUnJHal9MekdWNUxuRlhGamJwZGxTelJuWTJ2WXIzRWFnQkFfbHNXSnJKN1o1UTlLZVlacXpWdkJBQzk0Y0VSbWg0c20xNGU2XzYwb3M1dmZYYlpLWTF4UmRqQUx3bEhKLTBZUHZZTTBJbmsxUE91UzgwRWdGTEs3eDVtRkJXZmJ0and0YURKTkQxVXdJVlY0Mm1EV0hLMTg?oc=5\" target=\"_blank\">Goa Showcases its Vision as India’s Creative Capital at the 28th Edition of Bengaluru Tech Summit 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goa News Hub</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2ZybWRZVVNSQ2JFOGhHSkJpYUVXV0RoMzRnX3pvOFVmay1XUnJHal9MekdWNUxuRlhGamJwZGxTelJuWTJ2WXIzRWFnQkFfbHNXSnJKN1o1UTlLZVlacXpWdkJBQzk0Y0VSbWg0c20xNGU2XzYwb3M1dmZYYlpLWTF4UmRqQUx3bEhKLTBZUHZZTTBJbmsxUE91UzgwRWdGTEs3eDVtRkJXZmJ0and0YURKTkQxVXdJVlY0Mm1EV0hLMTg?oc=5",
+   "source_name": "Goa News Hub",
+   "source_domain": "goanewshub.com",
+   "published_raw": "Tue, 18 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI toll booths slap fines despite valid docus: Motorists",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm84M0dFQlFZalNJczZzTFdBOTdDei1NN2FlM3ppZ0JoTm4ydUVfdE1rZ0pNMGZNazhjX1BZNXZtR0RXUWZOenZSbk5XbVBiMTFxa2dJR0d4bng3NU1mV05xZEEzZzNtdUtYYk1sZnFDaXBBUUJXd2lDQjBjUkxMUUxRbjJqY1NJa2ZNU3hxZVJXS0R1cENRQ3VoZ2pBdnNXNmdXOS1LS1dUbEpxZUhWVU9SSmY2Ml83WVB2Nk9XUlBzbjFF0gHKAUFVX3lxTE5VMjAtR19OM2NmdWxXVW0zWFB2b1VtbXE5cVdwd1BtMGtzbEF5RW5MaDlOTkNKazl0aXI5VVBfaG4wbjN1eElGMU1GaE1YUHZ4UkdfR0wwTkFMNVE4eGVZZjZoVWNuazdBOTE1OXFXSnYxT0xLVlpDX0FCd3NDM2hjX1V1eElCeE90c3JnbkxNa2hocGVvN0tudS1Zbm1ETktiV3BOZl9SajRGUXBhTWloVEtJd2tXMGdFR0NlUnF4dW02ZDg0SEFkRXc?oc=5\" target=\"_blank\">AI toll booths slap fines despite valid docus: Motorists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm84M0dFQlFZalNJczZzTFdBOTdDei1NN2FlM3ppZ0JoTm4ydUVfdE1rZ0pNMGZNazhjX1BZNXZtR0RXUWZOenZSbk5XbVBiMTFxa2dJR0d4bng3NU1mV05xZEEzZzNtdUtYYk1sZnFDaXBBUUJXd2lDQjBjUkxMUUxRbjJqY1NJa2ZNU3hxZVJXS0R1cENRQ3VoZ2pBdnNXNmdXOS1LS1dUbEpxZUhWVU9SSmY2Ml83WVB2Nk9XUlBzbjFF0gHKAUFVX3lxTE5VMjAtR19OM2NmdWxXVW0zWFB2b1VtbXE5cVdwd1BtMGtzbEF5RW5MaDlOTkNKazl0aXI5VVBfaG4wbjN1eElGMU1GaE1YUHZ4UkdfR0wwTkFMNVE4eGVZZjZoVWNuazdBOTE1OXFXSnYxT0xLVlpDX0FCd3NDM2hjX1V1eElCeE90c3JnbkxNa2hocGVvN0tudS1Zbm1ETktiV3BOZl9SajRGUXBhTWloVEtJd2tXMGdFR0NlUnF4dW02ZDg0SEFkRXc?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 29 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Headlines Today — The Biggest Updates You Need to Know.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEdjREh1aDFEVzRLbl85YldIZHNRZmwtMF85c0E2TXB3YUZUUkhtODhWQXBUb3VBc01wUElhZDQ2MlhJRERBWm9pdkN0RmUyRlZ3Y2VEa3NocUFySDJrZzJVdmRRSGZEQ0RGSU9HeDVpMnlpaklUMV80VnBscGk5d0VTRWdZMFNVYXpqNDh1MlBKejJqZEdSbkpSQWxsTk9RNl9LSE8tWEREbW1NNnM2Ri1sMVNXU0d4OEhESXVrZndJZFlHUDE0WWVHdlZoQTdpcFHSAdcBQVVfeXFMTUtkS2JKYUhjblRQYmZGYk5FZzhkQm0tSWItSXN0dDRCSE9HRjVsYXJucmJZNkQzM3JpQlB5a21fWVJGNFV3eTJrak51QklXQnBrbmQ5NnZiYUhfQ0NybjZ5aThBM1RzRFRTdl9HcjJFOFRIek5uV0NVcjYySGJ6SmctNE8zVE1FRTdycEppQnpqU2ZCdjdZWXVqTzdDLVRRendQaTZhMkdQeXlOOGRWTzZ3WHpIb1hwVVhZZ01TdTloOEZtbUlWeVh1RFNuX0loUEw1ODJUMUE?oc=5\" target=\"_blank\">Goa Headlines Today — The Biggest Updates You Need to Know.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUEdjREh1aDFEVzRLbl85YldIZHNRZmwtMF85c0E2TXB3YUZUUkhtODhWQXBUb3VBc01wUElhZDQ2MlhJRERBWm9pdkN0RmUyRlZ3Y2VEa3NocUFySDJrZzJVdmRRSGZEQ0RGSU9HeDVpMnlpaklUMV80VnBscGk5d0VTRWdZMFNVYXpqNDh1MlBKejJqZEdSbkpSQWxsTk9RNl9LSE8tWEREbW1NNnM2Ri1sMVNXU0d4OEhESXVrZndJZFlHUDE0WWVHdlZoQTdpcFHSAdcBQVVfeXFMTUtkS2JKYUhjblRQYmZGYk5FZzhkQm0tSWItSXN0dDRCSE9HRjVsYXJucmJZNkQzM3JpQlB5a21fWVJGNFV3eTJrak51QklXQnBrbmQ5NnZiYUhfQ0NybjZ5aThBM1RzRFRTdl9HcjJFOFRIek5uV0NVcjYySGJ6SmctNE8zVE1FRTdycEppQnpqU2ZCdjdZWXVqTzdDLVRRendQaTZhMkdQeXlOOGRWTzZ3WHpIb1hwVVhZZ01TdTloOEZtbUlWeVh1RFNuX0loUEw1ODJUMUE?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 01 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI traffic signals with smart cameras at 92 locations in Goa",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGVaWWJNZlBHZ1dYQnBRUm9nUElEWlg4VFpUcHdRS1A5dUlNZHNTd00yVkR6Y2EtUHNPM0lhOFNybnhXcjJaOUJqNFVqUTlDU3JoZTRtV2xyaHF5QVY0SVV3bXVhd2hEUGdwb2VhRV9TMnZLOFA5bnEtMjVzZC1LRHl5SFdSdFMyVmdqemdJb0ZwbV9NMVl0OXg5SGhuUlljUm5NeTJ1ZzByLXdaQTRha1lGZ19QQmU4WDMtUUtVNTNSOXI1dlFOUW1XRdIB0AFBVV95cUxQc1ZOcjU1MHlicE95NUI1ZkRwZVhkczI3VGgzdUZIOGtteXlLNk5YRXBlWUthUUlfOEY2V3dubGVKd1U0MlhVSkhYSkxJRDZEUUNydmx5aXVfNFJ1UU9jLVFlSmVfNDlab0xLQXpfc0pLR3BDalcyZ3FsSzBmNXZGdFJ1STRsd0tFTjJZT0tObHdQMFUxVlZfSENPR1FCeGc0RjVXQVBPOHV4Vy03VG9hLTA1eENjSXJKVGxvSWRoMml6dzdzRWhxaXdUWmRnbC1D?oc=5\" target=\"_blank\">AI traffic signals with smart cameras at 92 locations in Goa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGVaWWJNZlBHZ1dYQnBRUm9nUElEWlg4VFpUcHdRS1A5dUlNZHNTd00yVkR6Y2EtUHNPM0lhOFNybnhXcjJaOUJqNFVqUTlDU3JoZTRtV2xyaHF5QVY0SVV3bXVhd2hEUGdwb2VhRV9TMnZLOFA5bnEtMjVzZC1LRHl5SFdSdFMyVmdqemdJb0ZwbV9NMVl0OXg5SGhuUlljUm5NeTJ1ZzByLXdaQTRha1lGZ19QQmU4WDMtUUtVNTNSOXI1dlFOUW1XRdIB0AFBVV95cUxQc1ZOcjU1MHlicE95NUI1ZkRwZVhkczI3VGgzdUZIOGtteXlLNk5YRXBlWUthUUlfOEY2V3dubGVKd1U0MlhVSkhYSkxJRDZEUUNydmx5aXVfNFJ1UU9jLVFlSmVfNDlab0xLQXpfc0pLR3BDalcyZ3FsSzBmNXZGdFJ1STRsd0tFTjJZT0tObHdQMFUxVlZfSENPR1FCeGc0RjVXQVBPOHV4Vy03VG9hLTA1eENjSXJKVGxvSWRoMml6dzdzRWhxaXdUWmRnbC1D?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 31 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:45+00:00"
+  }
+ ]
+}

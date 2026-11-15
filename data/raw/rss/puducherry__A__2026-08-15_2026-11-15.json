@@ -1,0 +1,142 @@
+{
+ "region": "Puducherry",
+ "group": "A",
+ "query": "(Puducherry) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-08-15 before:2026-11-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Puducherry%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-08-15+before%3A2026-11-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:11+00:00",
+ "item_count": 12,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Government urges Ministry of Shipping to conduct cruise market assessment in Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU3hXdHhDbkJXdVp3aEdsRVp2VUtHRnN5cmNPMkE5bUZURGk2TTJNTkI2cE92cE55c1FEYmZLYkpqTlFxaFYzOFBWMGNDaVFmTkEtSllMd0QxcWRuV0hVbFQ4bC1Zei1nRG4xNUF4b1RXSVBTOVdlRG9uTF9BTUdyYXNzampoU2ZBVndEVUs2YTJlc1FZenI0di10dzd0TkU2SGpZdDdXUC1mczZqcGlEc3ZLbVZQdmFPMzg1QVFjWFhoSmh5TVhDSXUwVTl2STBSR0taQjVGbmplSTNfVGlMckhRY3p6Nm5iTGpF0gHyAUFVX3lxTE9IdjE4MXBha3NEWUI3MFVLel81MFZuajB6NzN6elIyUmhFQV9YQ2ZsRGJWVXc0VDdEVVNJT0x0WmpkaTFGcHkwRXdHNzF4aDJndG1JVVBSZ1EySVVYQ2xwTGZpcGt3TnIxTmJtaGhPX2FLeWRMVnJxWmEzRUFQaFZKRnN5MzBWVGNETFBzQ0IzRnJfSTFvaFdwSUdySGJHbjJxTlFBTzJmc29RdUhpUXdsM3U5NUVnZ1Y1SEh4b0w0alFvLUFmd24zSC1KMVcwMlZlZEV5Q0pydU92NWFULTVwaXdMaWZDc04tb01lM2VLMkp3?oc=5\" target=\"_blank\">Government urges Ministry of Shipping to conduct cruise market assessment in Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU3hXdHhDbkJXdVp3aEdsRVp2VUtHRnN5cmNPMkE5bUZURGk2TTJNTkI2cE92cE55c1FEYmZLYkpqTlFxaFYzOFBWMGNDaVFmTkEtSllMd0QxcWRuV0hVbFQ4bC1Zei1nRG4xNUF4b1RXSVBTOVdlRG9uTF9BTUdyYXNzampoU2ZBVndEVUs2YTJlc1FZenI0di10dzd0TkU2SGpZdDdXUC1mczZqcGlEc3ZLbVZQdmFPMzg1QVFjWFhoSmh5TVhDSXUwVTl2STBSR0taQjVGbmplSTNfVGlMckhRY3p6Nm5iTGpF0gHyAUFVX3lxTE9IdjE4MXBha3NEWUI3MFVLel81MFZuajB6NzN6elIyUmhFQV9YQ2ZsRGJWVXc0VDdEVVNJT0x0WmpkaTFGcHkwRXdHNzF4aDJndG1JVVBSZ1EySVVYQ2xwTGZpcGt3TnIxTmJtaGhPX2FLeWRMVnJxWmEzRUFQaFZKRnN5MzBWVGNETFBzQ0IzRnJfSTFvaFdwSUdySGJHbjJxTlFBTzJmc29RdUhpUXdsM3U5NUVnZ1Y1SEh4b0w0alFvLUFmd24zSC1KMVcwMlZlZEV5Q0pydU92NWFULTVwaXdMaWZDc04tb01lM2VLMkp3?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Pondicherry Revs Up for Major Infra, Economic Expansion",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0lCV2czWElzY251OG1VeFZCcjM3eUVPZU9SWlJOZEhQb01EcG1nYmlEYTkzUjg3TUFjbGNEQ0hTUlhNQ1NValJCQkhzYUlOOUs2eWVUdVVhb2xaM0FVajZYcUkyRk9ueDJqY05FN2tEekRHLU1GX3huMjlTdG9nU084UGxYZjJjVmZNbXV3eXRFaDDSAZgBQVVfeXFMUEotMjJ0V2xHVEJLVDgtUXBwb1VLMXc2YXlHSUdCdGFWMnY2dHJMQU0zSTJMaHhzakQwVUprcFdVcUplUW05aXBlbUl2QW1BQlNEQlI4aHNPVUtla0JZdTRpNnlSMVVVV3JwY3Bzc3J4cU1XRlNvWWFnUzkwblIydTlSbUJLcmpFSndHWUFlTk53WE9DWHdjZ2I?oc=5\" target=\"_blank\">Pondicherry Revs Up for Major Infra, Economic Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0lCV2czWElzY251OG1VeFZCcjM3eUVPZU9SWlJOZEhQb01EcG1nYmlEYTkzUjg3TUFjbGNEQ0hTUlhNQ1NValJCQkhzYUlOOUs2eWVUdVVhb2xaM0FVajZYcUkyRk9ueDJqY05FN2tEekRHLU1GX3huMjlTdG9nU084UGxYZjJjVmZNbXV3eXRFaDDSAZgBQVVfeXFMUEotMjJ0V2xHVEJLVDgtUXBwb1VLMXc2YXlHSUdCdGFWMnY2dHJMQU0zSTJMaHhzakQwVUprcFdVcUplUW05aXBlbUl2QW1BQlNEQlI4aHNPVUtla0JZdTRpNnlSMVVVV3JwY3Bzc3J4cU1XRlNvWWFnUzkwblIydTlSbUJLcmpFSndHWUFlTk53WE9DWHdjZ2I?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Tue, 25 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "West Bengal legislative assembly election results",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBVcC1CbUdmSFpmeEw0U0RQOWJ1V3JnS2p1NGZQQURSVTZxR0tFaTQ4M0ttcFRVYk9EZG9HS25NUlVmNTl6Wk9UNlk2WFlWUG5XVHFteHNheTJzQi1kUXI2V1FCSk43ZTl4eDV6d1RsSQ?oc=5\" target=\"_blank\">West Bengal legislative assembly election results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVcC1CbUdmSFpmeEw0U0RQOWJ1V3JnS2p1NGZQQURSVTZxR0tFaTQ4M0ttcFRVYk9EZG9HS25NUlVmNTl6Wk9UNlk2WFlWUG5XVHFteHNheTJzQi1kUXI2V1FCSk43ZTl4eDV6d1RsSQ?oc=5",
+   "source_name": "Britannica",
+   "source_domain": "britannica.com",
+   "published_raw": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Cyclone Arnab: Schools closed in Tamil Nadu districts, Puducherry and Karaikal on October 26, check compl",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNVHdMaWVoY05GN1piRWVzUklwM2NENDh1RUZlME1xQmR3Mm1ZUmtmMi1EVW1mR0ZZRU02Ymx1LW85RG1XejNwaVRRRm8teWpsbm85bEZITGk5NnNlT1p6WHJqQ25pZ0gwZmEwV3ZCQk5GaVhHR04taVNESndBNTJHUW04V2l6LXVaLW5FaU1oRDEyam1TVTZKbm00Q2RyZTc1bjlJc0FLbkdxcFk2eWtMdjdfa0JIZmlBSlhveXZiY2s2MkFQZGptZDNnQXRrOGRwbUVvaEpmSnZUQnFVY3hfM1cxNHlyY3BabUZkR1JBaGZWUVFpczFfSGtubFRnUVYxdlVpQ2V4QUUtVmpYLUZOV19DalVCSWY5SVN3blpUVTDSAaYCQVVfeXFMT1UyNmNQX2JlazdHaVFfWUdLekpRalFGdzNidGtCUHBIZW91SDh6SXYzM19EdEVjdTlJa1RyN0tOd0JsbWJxdW44SVN5X0JhSEpYU0U2WnFrbkZxbnZ1WTVoZkVMd1JhSHE5eGt5NXpISmFaZTd3d0RKYmVDcERDNXNQdmJoRWJJQUFhenN0ZF9LMkhaRGduajQ4dS1uOXVTV0VlY1AwOENCRGRoWXBBU2tybUl6VDFaRFBUQ0VjS2JLSVdZZm1MNjVBX3FCUmpmTkNTcWlHVTAtdHF3R0VROHBaUjFQbV9TUWVlQWo3U1NpLVdnaTZWQjFRX0ZTMFdvQk9VejBsbEhOMUZFLUN6dFg4QzNlVVpKaGQ5NDFIM0kxV25JZlV3?oc=5\" target=\"_blank\">Cyclone Arnab: Schools closed in Tamil Nadu districts, Puducherry and Karaikal on October 26, check compl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNVHdMaWVoY05GN1piRWVzUklwM2NENDh1RUZlME1xQmR3Mm1ZUmtmMi1EVW1mR0ZZRU02Ymx1LW85RG1XejNwaVRRRm8teWpsbm85bEZITGk5NnNlT1p6WHJqQ25pZ0gwZmEwV3ZCQk5GaVhHR04taVNESndBNTJHUW04V2l6LXVaLW5FaU1oRDEyam1TVTZKbm00Q2RyZTc1bjlJc0FLbkdxcFk2eWtMdjdfa0JIZmlBSlhveXZiY2s2MkFQZGptZDNnQXRrOGRwbUVvaEpmSnZUQnFVY3hfM1cxNHlyY3BabUZkR1JBaGZWUVFpczFfSGtubFRnUVYxdlVpQ2V4QUUtVmpYLUZOV19DalVCSWY5SVN3blpUVTDSAaYCQVVfeXFMT1UyNmNQX2JlazdHaVFfWUdLekpRalFGdzNidGtCUHBIZW91SDh6SXYzM19EdEVjdTlJa1RyN0tOd0JsbWJxdW44SVN5X0JhSEpYU0U2WnFrbkZxbnZ1WTVoZkVMd1JhSHE5eGt5NXpISmFaZTd3d0RKYmVDcERDNXNQdmJoRWJJQUFhenN0ZF9LMkhaRGduajQ4dS1uOXVTV0VlY1AwOENCRGRoWXBBU2tybUl6VDFaRFBUQ0VjS2JLSVdZZm1MNjVBX3FCUmpmTkNTcWlHVTAtdHF3R0VROHBaUjFQbV9TUWVlQWo3U1NpLVdnaTZWQjFRX0ZTMFdvQk9VejBsbEhOMUZFLUN6dFg4QzNlVVpKaGQ5NDFIM0kxV25JZlV3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "8th pay commission meeting employees, pensioners in Chennai today, Puducherry tomorrow — Here's what is on the agenda",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPM3pCeDNnTm1yOXNFZjM1UnB4RkdYb0EtSjlwTTZ2SEVBcEJzb0tKTlFPLVZpZ3VxSjFhNnY3QjJNcTgzVHdIdnJGLXVBNHN6S2YyNGRZRGtMbXBtaDVKZkp2VThzQXhWeV9tSHVCOWtrVUVNOGRKVFZHczZWX0ZRTFBwMVdwaEttdU90QzdpQVVvOXp5MW1MMlhHcEhUQnFsMkthWGR0S3gyT2NBT2pqNkFQSExsN1Fld2Jmb1ZEeW93aWVCcmFJSExtMDNUTzh3bUlSemtJOW4xZFJHQ2JxZnk3Y3JINVpxMG52aTZwX0xJZGVJUWlJeHpwaF9PbU9FRlYxOWRzVDFKN1Z6WXBlSUVxdnNDMlXSAZwCQVVfeXFMT2d1bkdNNy1SeEVXNWNLcnByZG1Ra0dLUXNPRFFwZThJbUxGQ0szZHdEdG4xUDdWV21pb1lXU3NKdUVXdkVUMXBoWHh0V0dDa0NnOWpKWmQ0M0doMHRTbElRTjIzMFBJRDNfOTRPeURzUHBMNlpvRkhkNXlJd193U1oxUnhFNktLZHVmek5WdHRpeEpWTGszNFZYMk9ia3FDc2hJNmUwS0lyTUUyWEJQQ0h6M0JaSUtVS3pCUWxhY2Q5R1ROZUpiWGRtTXJvU0t6dGludjJWWld4MnM4WXJoUXFwT016aXR0M2NrQ21XTHVxSlV6cGdkRGdESXEtQnd6TmwtenJpdTAtQk95Yy1OcjU1YTBMUEU5MzVkdUc?oc=5\" target=\"_blank\">8th pay commission meeting employees, pensioners in Chennai today, Puducherry tomorrow — Here's what is on the agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPM3pCeDNnTm1yOXNFZjM1UnB4RkdYb0EtSjlwTTZ2SEVBcEJzb0tKTlFPLVZpZ3VxSjFhNnY3QjJNcTgzVHdIdnJGLXVBNHN6S2YyNGRZRGtMbXBtaDVKZkp2VThzQXhWeV9tSHVCOWtrVUVNOGRKVFZHczZWX0ZRTFBwMVdwaEttdU90QzdpQVVvOXp5MW1MMlhHcEhUQnFsMkthWGR0S3gyT2NBT2pqNkFQSExsN1Fld2Jmb1ZEeW93aWVCcmFJSExtMDNUTzh3bUlSemtJOW4xZFJHQ2JxZnk3Y3JINVpxMG52aTZwX0xJZGVJUWlJeHpwaF9PbU9FRlYxOWRzVDFKN1Z6WXBlSUVxdnNDMlXSAZwCQVVfeXFMT2d1bkdNNy1SeEVXNWNLcnByZG1Ra0dLUXNPRFFwZThJbUxGQ0szZHdEdG4xUDdWV21pb1lXU3NKdUVXdkVUMXBoWHh0V0dDa0NnOWpKWmQ0M0doMHRTbElRTjIzMFBJRDNfOTRPeURzUHBMNlpvRkhkNXlJd193U1oxUnhFNktLZHVmek5WdHRpeEpWTGszNFZYMk9ia3FDc2hJNmUwS0lyTUUyWEJQQ0h6M0JaSUtVS3pCUWxhY2Q5R1ROZUpiWGRtTXJvU0t6dGludjJWWld4MnM4WXJoUXFwT016aXR0M2NrQ21XTHVxSlV6cGdkRGdESXEtQnd6TmwtenJpdTAtQk95Yy1OcjU1YTBMUEU5MzVkdUc?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Tue, 08 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Over 800 medical seats remain vacant in Tamil Nadu and Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaE1TOVBQejdRMWFPell4UmpoaUpCR0ZSVVZ0SG9ERHJ3cC1SSGR4aXBEdjM5ZUFmQS1GVDZRbXJ2SHB0OGVZaV92b2NhVGVYbTY5X29VQkFKOFNyeXdFTHVnWjZNN2wtcV8wRWYweXZrdm9JLTlTa05qWkJ6YWFEUUs4eTY3d2pBVGlGYVVjWDh1d1VpREdzbkJYRk9IX0tLaE1lQVNsbGVDamp3bzJHSEh5U29Cc2wyUVBhelNwUFBzc0dYRVItZjU2OEx2UEFjalVCTlBpVFNYVVFKZmNLVXdSc0XSAesBQVVfeXFMT0hCTTRvZWRjdGJtcmt6UDJQaEwxYjRZcEJWelhld0ZnTTdta1JHM19aOGM5U2I1bmlHdEhwTTlhQkwzR0FXdUZpemE0YUpaeXE4UG8zWEx0V2ViZ2xkU3R3Yzk0S1JpQjdfVVJRWTRwUDhKR2RVMmZmLVA4ZW9ZeG9VbVNOTEthaDNfYTczekdrY01yQnNfbmpYN0hlV0lQNkhScFdjTk5FMUx0a201X1ZqVDloRVU3TTFhemJrcUZkUjVyRnNMbW5LZzhZRWtJX3hreHVZczhEeGF5azRmZUd3bXZLaG5ENW5MRQ?oc=5\" target=\"_blank\">Over 800 medical seats remain vacant in Tamil Nadu and Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaE1TOVBQejdRMWFPell4UmpoaUpCR0ZSVVZ0SG9ERHJ3cC1SSGR4aXBEdjM5ZUFmQS1GVDZRbXJ2SHB0OGVZaV92b2NhVGVYbTY5X29VQkFKOFNyeXdFTHVnWjZNN2wtcV8wRWYweXZrdm9JLTlTa05qWkJ6YWFEUUs4eTY3d2pBVGlGYVVjWDh1d1VpREdzbkJYRk9IX0tLaE1lQVNsbGVDamp3bzJHSEh5U29Cc2wyUVBhelNwUFBzc0dYRVItZjU2OEx2UEFjalVCTlBpVFNYVVFKZmNLVXdSc0XSAesBQVVfeXFMT0hCTTRvZWRjdGJtcmt6UDJQaEwxYjRZcEJWelhld0ZnTTdta1JHM19aOGM5U2I1bmlHdEhwTTlhQkwzR0FXdUZpemE0YUpaeXE4UG8zWEx0V2ViZ2xkU3R3Yzk0S1JpQjdfVVJRWTRwUDhKR2RVMmZmLVA4ZW9ZeG9VbVNOTEthaDNfYTczekdrY01yQnNfbmpYN0hlV0lQNkhScFdjTk5FMUx0a201X1ZqVDloRVU3TTFhemJrcUZkUjVyRnNMbW5LZzhZRWtJX3hreHVZczhEeGF5azRmZUd3bXZLaG5ENW5MRQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "TPURA vs PONDI Elite, Group C, 16 Nov 2026 Fantasy AI Predictions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWVleXBkU2RRMDhFdVdqcVIxZWZxcGIyNkRxRXUtZWR2bXlaa2FCTFZ3N2hkU25sVjNCQXVtcms1TTFlemVPQmFaOEJERXlNbmtIdk91d3RkT3kyQmNnbjdURjN1NDdTS1B0OVJOeTRUMTE3ZWJCdHhOcUltbWNSalJ6NlJlb0hIM3dqVWUzREZxSEYwZzlwTzYxRTJGb1pVdjVaMGY1aFA4eElvZW1PaUFLOA?oc=5\" target=\"_blank\">TPURA vs PONDI Elite, Group C, 16 Nov 2026 Fantasy AI Predictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI11</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWVleXBkU2RRMDhFdVdqcVIxZWZxcGIyNkRxRXUtZWR2bXlaa2FCTFZ3N2hkU25sVjNCQXVtcms1TTFlemVPQmFaOEJERXlNbmtIdk91d3RkT3kyQmNnbjdURjN1NDdTS1B0OVJOeTRUMTE3ZWJCdHhOcUltbWNSalJ6NlJlb0hIM3dqVWUzREZxSEYwZzlwTzYxRTJGb1pVdjVaMGY1aFA4eElvZW1PaUFLOA?oc=5",
+   "source_name": "AI11",
+   "source_domain": "ai11.in",
+   "published_raw": "Tue, 03 Nov 2026 16:32:55 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "ASSAM vs PONDI Elite, Group C, 18 Nov 2026 Fantasy AI Predictions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlkxSFpMenJFeTA3QlRhMlJKMENrX3BvZEpSWWNxTTRjS3pmT3VGX1dVRmdTc1RHNnJEa3BKMm55V01qekFsNHJzTUwzNnowZ3FYN2ptNzBHb21WUXRTSzl3YkpnRVA3SDIzZ3hnUHdjRXN2V045Q3NGeUNZMlhlV2Q3eUY2R21rUndhR3hTZGRQSmJ1WF9TVmNnMDNPRmhuT1JLRmhqOFNLWERxYVd3NA?oc=5\" target=\"_blank\">ASSAM vs PONDI Elite, Group C, 18 Nov 2026 Fantasy AI Predictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI11</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlkxSFpMenJFeTA3QlRhMlJKMENrX3BvZEpSWWNxTTRjS3pmT3VGX1dVRmdTc1RHNnJEa3BKMm55V01qekFsNHJzTUwzNnowZ3FYN2ptNzBHb21WUXRTSzl3YkpnRVA3SDIzZ3hnUHdjRXN2V045Q3NGeUNZMlhlV2Q3eUY2R21rUndhR3hTZGRQSmJ1WF9TVmNnMDNPRmhuT1JLRmhqOFNLWERxYVd3NA?oc=5",
+   "source_name": "AI11",
+   "source_domain": "ai11.in",
+   "published_raw": "Wed, 04 Nov 2026 03:11:33 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "RBI imposes restrictions on Puducherry Co-op Urban Bank, caps withdrawals",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN0ZmeUIwOHYxMDh6X2p4WWQ1a2s0YWZaUkJVYVgxMmlHWFZvM1czOUc1SHE2WGV1MnhXMU5VdkNRNlZIT0NXODJOWDJIZVQ0U0pVWWVOR0ppVHN2U2VXclRKUFhqTjdZMkV2TWNBWnh0TFdCaF8yaFpQU0x5OFdzX0c5YVNyRGlSQ1VDYjNXR0lHOHFaTUpsZzhrZ0V6bHI5STJnUGVSTzNPWTU3TXpWMFZDZUkzVHNUT0xXWUw0WXllalA2S21rb2t4VWNXNmg0ZTctMEF0cWpxbVpQeVQyYm1NOGw5Y2pqdGo1ZGVtNW_SAfYBQVVfeXFMTjdUeXg5M0Y3ek9ra0dnc2xSNGFiWjd3SHBNOElaLUVoOTJKVzYzNXJHTUVYUVhUT1NJREpfNTV0ekZaRDdOQkduZUxKM2lmSlVNUnVsZzRNWEI1U1hmcVhudEhkLWJUeE1KUHdNZFJxZXhYRmR4eWJuZUxMeUx0T0paUFpjd1p1ZzIySkZ5ZjZtMER3OVlnbXFVUUNLd1hwQjI1NWViTlZ5NE9zeThPcUg0VDdmS0o2NHlDWWdPdGVOQ29Gc0Y5cEZmQWtmR0F5OThMT0tPSnJzR2U4LTNYTlMtd3JaLTlIX0EyTzJlajBmbU5JZlNR?oc=5\" target=\"_blank\">RBI imposes restrictions on Puducherry Co-op Urban Bank, caps withdrawals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN0ZmeUIwOHYxMDh6X2p4WWQ1a2s0YWZaUkJVYVgxMmlHWFZvM1czOUc1SHE2WGV1MnhXMU5VdkNRNlZIT0NXODJOWDJIZVQ0U0pVWWVOR0ppVHN2U2VXclRKUFhqTjdZMkV2TWNBWnh0TFdCaF8yaFpQU0x5OFdzX0c5YVNyRGlSQ1VDYjNXR0lHOHFaTUpsZzhrZ0V6bHI5STJnUGVSTzNPWTU3TXpWMFZDZUkzVHNUT0xXWUw0WXllalA2S21rb2t4VWNXNmg0ZTctMEF0cWpxbVpQeVQyYm1NOGw5Y2pqdGo1ZGVtNW_SAfYBQVVfeXFMTjdUeXg5M0Y3ek9ra0dnc2xSNGFiWjd3SHBNOElaLUVoOTJKVzYzNXJHTUVYUVhUT1NJREpfNTV0ekZaRDdOQkduZUxKM2lmSlVNUnVsZzRNWEI1U1hmcVhudEhkLWJUeE1KUHdNZFJxZXhYRmR4eWJuZUxMeUx0T0paUFpjd1p1ZzIySkZ5ZjZtMER3OVlnbXFVUUNLd1hwQjI1NWViTlZ5NE9zeThPcUg0VDdmS0o2NHlDWWdPdGVOQ29Gc0Y5cEZmQWtmR0F5OThMT0tPSnJzR2U4LTNYTlMtd3JaLTlIX0EyTzJlajBmbU5JZlNR?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "RBI caps Puducherry co-op bank withdrawals at ₹5,000",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazlHOGNmQXIwdXJZU2lKc1l2aGVVWFlENV84aExJaG9Fd0paT3dxZ0lvWFFPLXNfbGpDX0tZcU9EYzV5VTBDa2x3Q20xLVdGM1NDM0poeG1lMVBRTGVNb00yNWxlVDZ6elZSYVRYUGFhYjVjQlk2ellKNkYtWUdHeGNsMUUwNnVlRjdsNzdYOVM2c2NraEM4SnZHeTNfOXBwYVZtY3FtWnZOZw?oc=5\" target=\"_blank\">RBI caps Puducherry co-op bank withdrawals at ₹5,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">indianpaycalculator.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazlHOGNmQXIwdXJZU2lKc1l2aGVVWFlENV84aExJaG9Fd0paT3dxZ0lvWFFPLXNfbGpDX0tZcU9EYzV5VTBDa2x3Q20xLVdGM1NDM0poeG1lMVBRTGVNb00yNWxlVDZ6elZSYVRYUGFhYjVjQlk2ellKNkYtWUdHeGNsMUUwNnVlRjdsNzdYOVM2c2NraEM4SnZHeTNfOXBwYVZtY3FtWnZOZw?oc=5",
+   "source_name": "indianpaycalculator.in",
+   "source_domain": "indianpaycalculator.in",
+   "published_raw": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "SMAT 2026: Mumbai, Punjab, Chandigarh, Puducherry register wins on opening day",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczRPcEQxdGlqV3RzUXRJWW5qa05qRVk2WG1pd0hMa0I5UEpXSUVwSHhScUVkZ0RlWHVMQXhHMHMxVUdJbnZMalVJUmlXY0pjekVoUm54QV9YazFhZk03NmF4WEUzZjRBSmo2N24yeFEyRnprd0NtZlgxbEswc0NvX05LM0hxTVdhUUVFRG03QWt4Zmw0MXVOX0o2TzF2cEJ2bkQ4VHNmLVZWd3RGNDlEaEZ0UlF6V3dm?oc=5\" target=\"_blank\">SMAT 2026: Mumbai, Punjab, Chandigarh, Puducherry register wins on opening day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hawk</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczRPcEQxdGlqV3RzUXRJWW5qa05qRVk2WG1pd0hMa0I5UEpXSUVwSHhScUVkZ0RlWHVMQXhHMHMxVUdJbnZMalVJUmlXY0pjekVoUm54QV9YazFhZk03NmF4WEUzZjRBSmo2N24yeFEyRnprd0NtZlgxbEswc0NvX05LM0hxTVdhUUVFRG03QWt4Zmw0MXVOX0o2TzF2cEJ2bkQ4VHNmLVZWd3RGNDlEaEZ0UlF6V3dm?oc=5",
+   "source_name": "The Hawk",
+   "source_domain": "thehawk.in",
+   "published_raw": "Sat, 14 Nov 2026 07:56:10 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Election Results 2026 Today, October 9: BJP, Congress, TVK or TMC? Check who is winning in Tamil Nadu, Wes",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlp2MHlxaFkwLVNWZ1BNZjk5M1F2WkZVaG90b1p6bWVnemc3ZEt6X3BEQ01IVlNjSGpsQ3BrOEt6NWJLWDJaWUJSSU5RNXpHQ2NKaHFLbEpwcGxpMjhObzhnX0ItU2ZxTGMtYmNhckFpN2s2QlZ5YWI5QldUVm1JQjhGSHBMbmFXUnZZcGMwZFlfZ1p5dWZMaVltbG9QZVQ4RXJHemVoYUdfeTNEbmpBemEwc2wxbHBQcU5ONDVOTThIRzRuUlk3b29IYjRycWhoU0wweEQ2NUVDLW5hV2hCUFlXYVJjbDh6a01zZk5mdTg0TU8xTHNoa3pLVENPUHpXNTZQZWdLN3d1aUp4azkzdHRSTU5EUnRSczROLWhZSlZYZTZycGt6aWFvUW5ib3Q2d1pBX3NJSDY3R2hj0gHCAkFVX3lxTE5yU1ZYalJvNkxybHJFdFFoMjF5ZmV1Z2hrazBCQzFxSzBvWTRoZVZXUnpTXzBkNzhLcW4xM1EyVnZuUzJMYVR0cHJEYjBja3hwTm4tcmxpZG1udTRwdzQ4UjNGMEdwVGk5bXM3Z2VpdG8ya09ENkFiZFExOS1YR2FRZ2tjN0Fsa1F5TkVEeU42dFdJaDRqN2Q0d0F2Q0poS19RUlcybTRZRk00UEQyUWhyNXMzbGJfSkVPM1lRc1lpUEJ6N0cyaVp3WEEtOHpIS3lrcFJHYWhfZlU1eVNVdF8tUGt3amhyVzc1Wjg3RklfelpCbEdrdEYwWWZMalJQckJfc1A5SGhzRlk5TXNRdnZlVHlQUVZ5b0ZyNGQ4UkdBYTBnN2xrN1RvTEdWZWJja29TWldPWXZQUnFJWTh6ZUtyRnc?oc=5\" target=\"_blank\">Election Results 2026 Today, October 9: BJP, Congress, TVK or TMC? Check who is winning in Tamil Nadu, Wes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlp2MHlxaFkwLVNWZ1BNZjk5M1F2WkZVaG90b1p6bWVnemc3ZEt6X3BEQ01IVlNjSGpsQ3BrOEt6NWJLWDJaWUJSSU5RNXpHQ2NKaHFLbEpwcGxpMjhObzhnX0ItU2ZxTGMtYmNhckFpN2s2QlZ5YWI5QldUVm1JQjhGSHBMbmFXUnZZcGMwZFlfZ1p5dWZMaVltbG9QZVQ4RXJHemVoYUdfeTNEbmpBemEwc2wxbHBQcU5ONDVOTThIRzRuUlk3b29IYjRycWhoU0wweEQ2NUVDLW5hV2hCUFlXYVJjbDh6a01zZk5mdTg0TU8xTHNoa3pLVENPUHpXNTZQZWdLN3d1aUp4azkzdHRSTU5EUnRSczROLWhZSlZYZTZycGt6aWFvUW5ib3Q2d1pBX3NJSDY3R2hj0gHCAkFVX3lxTE5yU1ZYalJvNkxybHJFdFFoMjF5ZmV1Z2hrazBCQzFxSzBvWTRoZVZXUnpTXzBkNzhLcW4xM1EyVnZuUzJMYVR0cHJEYjBja3hwTm4tcmxpZG1udTRwdzQ4UjNGMEdwVGk5bXM3Z2VpdG8ya09ENkFiZFExOS1YR2FRZ2tjN0Fsa1F5TkVEeU42dFdJaDRqN2Q0d0F2Q0poS19RUlcybTRZRk00UEQyUWhyNXMzbGJfSkVPM1lRc1lpUEJ6N0cyaVp3WEEtOHpIS3lrcFJHYWhfZlU1eVNVdF8tUGt3amhyVzc1Wjg3RklfelpCbEdrdEYwWWZMalJQckJfc1A5SGhzRlk5TXNRdnZlVHlQUVZ5b0ZyNGQ4UkdBYTBnN2xrN1RvTEdWZWJja29TWldPWXZQUnFJWTh6ZUtyRnc?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:11+00:00"
+  }
+ ]
+}

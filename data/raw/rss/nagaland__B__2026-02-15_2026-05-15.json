@@ -1,0 +1,109 @@
+{
+ "region": "Nagaland",
+ "group": "B",
+ "query": "(Nagaland) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Nagaland%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:48+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "TWO-DAY WORKSHOP ON AI IMPLEMENTATION HELD FOR GOVERNMENT OFFICIALS",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFh4VlRzN2FIVlh4b1Rja2lNVC1FaFdnZVdXbVA3OVJBYl8yT1dSeTRUZXpaZzlCOUhEa1F1X3RWNThXcmRaY3llTTJPcGpXNHo4M2FwbDBEQURKZDR6bFBnOV9FT1U3cExSV2xVOWU3bXlSbnZxOXNKU1FqcnZxbUN0VGxDZnc4VFc3b043YktPd2tQVVprb1lSZw?oc=5\" target=\"_blank\">TWO-DAY WORKSHOP ON AI IMPLEMENTATION HELD FOR GOVERNMENT OFFICIALS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIPR Nagaland</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFh4VlRzN2FIVlh4b1Rja2lNVC1FaFdnZVdXbVA3OVJBYl8yT1dSeTRUZXpaZzlCOUhEa1F1X3RWNThXcmRaY3llTTJPcGpXNHo4M2FwbDBEQURKZDR6bFBnOV9FT1U3cExSV2xVOWU3bXlSbnZxOXNKU1FqcnZxbUN0VGxDZnc4VFc3b043YktPd2tQVVprb1lSZw?oc=5",
+   "source_name": "DIPR Nagaland",
+   "source_domain": "ipr.nagaland.gov.in",
+   "published_raw": "Thu, 12 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "MSME Ministry organizes Entrepreneur Awareness Camp and Special Vendor Development Programme in Dimapur, Nagaland",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3OHA2MjFVUnFMd09HTEZDclpENHJJQUVvbTRCdHBWLVdHNEF1UFpEU05DYTJiaFRKbEliTGRGeDNySm9EbDRsejd0TEtublFOM3VvWHNhblBJSEg5aWFfSGZqU0hFNVpE?oc=5\" target=\"_blank\">MSME Ministry organizes Entrepreneur Awareness Camp and Special Vendor Development Programme in Dimapur, Nagaland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3OHA2MjFVUnFMd09HTEZDclpENHJJQUVvbTRCdHBWLVdHNEF1UFpEU05DYTJiaFRKbEliTGRGeDNySm9EbDRsejd0TEtublFOM3VvWHNhblBJSEg5aWFfSGZqU0hFNVpE?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 30 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Nagaland holds first AI-based Capacity Building Plan workshop",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXdBOU00bEFja3pfb1FKR1BmZVFQYVRaOXVmS3BHWU1Tc1U3Q0wzRzhIRW1Ib0l5RTdzNklFcVgxdngyTl9BVzlHQ2g3YTlPdDUwVXlOa2xxeFM0R2F6RVpXVDRpUjNmcndfZW0tMDRpZ0xEWThISHdwWVBKS1BqUzVzejUzRGg3UHIyTXYwcGw?oc=5\" target=\"_blank\">Nagaland holds first AI-based Capacity Building Plan workshop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nagaland Post</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXdBOU00bEFja3pfb1FKR1BmZVFQYVRaOXVmS3BHWU1Tc1U3Q0wzRzhIRW1Ib0l5RTdzNklFcVgxdngyTl9BVzlHQ2g3YTlPdDUwVXlOa2xxeFM0R2F6RVpXVDRpUjNmcndfZW0tMDRpZ0xEWThISHdwWVBKS1BqUzVzejUzRGg3UHIyTXYwcGw?oc=5",
+   "source_name": "Nagaland Post",
+   "source_domain": "nagalandpost.com",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "WORKSHOP ON CAPACITY BUILDING PLAN DEVELOPMENT USING AI TOOLS HELD AT ATI KOHIMA",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFVZN2RVaHRzNkFfbnIySVFNVXRZR3lTb0F2cnc5OEIwZDZOMkFaZ0NybElaTjNkNFUybGxObmVSZ1RMcHJ5dlE5cC1qZVhyMkZLWDB0R0hobFRDZUVQTjZ4VlUwUi1aMllBbDVzUjV0bFpkM0hVc1U5cTBWTXhrQUxlWUh5cHRXS0h2cFM2ZmFMLS1LUFdaVXM1VnZjZFZwU3BfVXVpMi1PYkdf?oc=5\" target=\"_blank\">WORKSHOP ON CAPACITY BUILDING PLAN DEVELOPMENT USING AI TOOLS HELD AT ATI KOHIMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIPR Nagaland</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFVZN2RVaHRzNkFfbnIySVFNVXRZR3lTb0F2cnc5OEIwZDZOMkFaZ0NybElaTjNkNFUybGxObmVSZ1RMcHJ5dlE5cC1qZVhyMkZLWDB0R0hobFRDZUVQTjZ4VlUwUi1aMllBbDVzUjV0bFpkM0hVc1U5cTBWTXhrQUxlWUh5cHRXS0h2cFM2ZmFMLS1LUFdaVXM1VnZjZFZwU3BfVXVpMi1PYkdf?oc=5",
+   "source_name": "DIPR Nagaland",
+   "source_domain": "ipr.nagaland.gov.in",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Ministry of Minority Affairs organizing 'Chintan Shivir' at Nalanda University, Rajgir, Bihar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1qZmlzSXh2RFlZdnljYUdrTjl6YnRmRFdYSXgtcUtoS1lUY1hDVzRTdG5HN1JMRlB4TXpMXy0wNUtlbmc0S2g1Z0dwbnNtTmMxR216ekJWaU0wemVuRWYtNUxORllMb3E4Z2RZZVBWc3NWTVIxVUtqb01R?oc=5\" target=\"_blank\">Ministry of Minority Affairs organizing 'Chintan Shivir' at Nalanda University, Rajgir, Bihar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qZmlzSXh2RFlZdnljYUdrTjl6YnRmRFdYSXgtcUtoS1lUY1hDVzRTdG5HN1JMRlB4TXpMXy0wNUtlbmc0S2g1Z0dwbnNtTmMxR216ekJWaU0wemVuRWYtNUxORllMb3E4Z2RZZVBWc3NWTVIxVUtqb01R?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "AI meets Interior Design: HomeLane debuts in Nagaland",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSF9mN1gxY3lmWGQxcUc0SW4zQzNjaEVCbWpHcXJVUk9hRkJ5WUh5M0x3NjB3enVEMDZTZjBYRnZmcDZFcHQwVG1qWE5xRV9CcFhaRm5nQ1FBb2Z0dDhiLV8zMjhjX2VkVHBrMklBUFgwWmxUTTg4Um5ReE54ZHJMaVY5Mmk0cTJ4eUE?oc=5\" target=\"_blank\">AI meets Interior Design: HomeLane debuts in Nagaland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSF9mN1gxY3lmWGQxcUc0SW4zQzNjaEVCbWpHcXJVUk9hRkJ5WUh5M0x3NjB3enVEMDZTZjBYRnZmcDZFcHQwVG1qWE5xRV9CcFhaRm5nQ1FBb2Z0dDhiLV8zMjhjX2VkVHBrMklBUFgwWmxUTTg4Um5ReE54ZHJMaVY5Mmk0cTJ4eUE?oc=5",
+   "source_name": "MorungExpress",
+   "source_domain": "morungexpress.com",
+   "published_raw": "Sun, 26 Apr 2026 11:30:39 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "GOVERNOR, AJAY KUMAR BHALLA, ADDRESSES THE EIGHTH SESSION OF THE FOURTEENTH NAGALAND LEGISLATIVE ASSEMBLY | DIPR Nagaland-Department of Information & Public Relations, Nagaland",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnd6eFVzOHdCVFZGYl9qdzBJSl9qMUdiaEpzTDFLaTM2RTA0d2lraU5BeVgtRm41MV9mcS1wal9TWHItVmo3T1prdURfZWxoVGJTbkhHeC1CcWgyLW92em1sRHNNTFBqME16dEVMZlBFYnRnYVgwMGZOc1RMZXREbGk4MEg3WVp3MC1YeDJpcU1qc0VOa1ZKZWdpaDhuV0p4UEFjdGNELUZ2UFJwaFhDbHdYT21vY3NtQ2JrVDRyemtmZHE0eGNVUEhFUkh3NTloVHQ0OHlPUnNjc0k?oc=5\" target=\"_blank\">GOVERNOR, AJAY KUMAR BHALLA, ADDRESSES THE EIGHTH SESSION OF THE FOURTEENTH NAGALAND LEGISLATIVE ASSEMBLY | DIPR Nagaland-Department of Information & Public Relations, Nagaland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIPR Nagaland</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnd6eFVzOHdCVFZGYl9qdzBJSl9qMUdiaEpzTDFLaTM2RTA0d2lraU5BeVgtRm41MV9mcS1wal9TWHItVmo3T1prdURfZWxoVGJTbkhHeC1CcWgyLW92em1sRHNNTFBqME16dEVMZlBFYnRnYVgwMGZOc1RMZXREbGk4MEg3WVp3MC1YeDJpcU1qc0VOa1ZKZWdpaDhuV0p4UEFjdGNELUZ2UFJwaFhDbHdYT21vY3NtQ2JrVDRyemtmZHE0eGNVUEhFUkh3NTloVHQ0OHlPUnNjc0k?oc=5",
+   "source_name": "DIPR Nagaland",
+   "source_domain": "ipr.nagaland.gov.in",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Uber is in the hotel business now, thanks in part to AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0pjTE5sUi1sdktZY0w2X0c1eU1IcUpOLTFRRVE0bEJBNlpGczVDNGhsMGFpa1ZzaXBmaHp3OERGdjJTZ0ItWnhqQTN3TnNuV2dxNTJmR0NvaEFCVEY5NXJiMFV5VG5XWXhiQXB1NVNjYXRQOEhWYW16YWhydVpCMW81eTh6bVgtYjl1TGhfbVNnYW8?oc=5\" target=\"_blank\">Uber is in the hotel business now, thanks in part to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0pjTE5sUi1sdktZY0w2X0c1eU1IcUpOLTFRRVE0bEJBNlpGczVDNGhsMGFpa1ZzaXBmaHp3OERGdjJTZ0ItWnhqQTN3TnNuV2dxNTJmR0NvaEFCVEY5NXJiMFV5VG5XWXhiQXB1NVNjYXRQOEhWYW16YWhydVpCMW81eTh6bVgtYjl1TGhfbVNnYW8?oc=5",
+   "source_name": "TechCrunch",
+   "source_domain": "techcrunch.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "'Didi, chopper nikal jaayega': Nagaland minister's witty response to fan during public interaction",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlBvYUlFSEFRekcwcWZvbDVKYTJSTHVvOFI1WVhXREk1X1huN0x2X0hDTUJRMVdhVjQ0aXFPLWpaNVBkWUFYWEF5dnFjUGt5QXJSY3FlT2NsRU50ZUxNcHR3RjUxb0R4N1F6NWhDcmRybTVYMDlIMnE1MVl3cDIyYTRlc3p3MVJadDFMTXFtVGczY1AtNzNPMndjU19SdmNZUHV5aFBLQXlFWlVRcXFreThFM1ZCelpLVGRmbjdDc2hCVzRhSFlJWTdWV3FReHBBVGdNSjF3ZlltUWlzWjZ3UTlpR0bSAeoBQVVfeXFMUFNYcWVBV00yaE9wYkowSW1pVjBBM1cwMjRPOG05ZWR1VTZMb09DSVBuaW84UldEdjVUV1JjSERKRTE0VmlvOFl5OVlMTFlLRHZjNnBUTkJWMjBfZ3VyTmF4aG9GNFZZNi0zTklEREY2M0NZYzhHOF92NmpCM2U0WFZzOWlJNGFuTlo2amp1amRtekNRdWZ1Nk9fb1hfQW5UWE5EdXM5YlhabnBpVkNCUGpyeVhqZWRTZHEycmw1bVZVZ3R6U3JVbV9uaTFNSzRVdE1wMUp6SkIzNExQa2dETjZnaDB4UDQyWWF3?oc=5\" target=\"_blank\">'Didi, chopper nikal jaayega': Nagaland minister's witty response to fan during public interaction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlBvYUlFSEFRekcwcWZvbDVKYTJSTHVvOFI1WVhXREk1X1huN0x2X0hDTUJRMVdhVjQ0aXFPLWpaNVBkWUFYWEF5dnFjUGt5QXJSY3FlT2NsRU50ZUxNcHR3RjUxb0R4N1F6NWhDcmRybTVYMDlIMnE1MVl3cDIyYTRlc3p3MVJadDFMTXFtVGczY1AtNzNPMndjU19SdmNZUHV5aFBLQXlFWlVRcXFreThFM1ZCelpLVGRmbjdDc2hCVzRhSFlJWTdWV3FReHBBVGdNSjF3ZlltUWlzWjZ3UTlpR0bSAeoBQVVfeXFMUFNYcWVBV00yaE9wYkowSW1pVjBBM1cwMjRPOG05ZWR1VTZMb09DSVBuaW84UldEdjVUV1JjSERKRTE0VmlvOFl5OVlMTFlLRHZjNnBUTkJWMjBfZ3VyTmF4aG9GNFZZNi0zTklEREY2M0NZYzhHOF92NmpCM2U0WFZzOWlJNGFuTlo2amp1amRtekNRdWZ1Nk9fb1hfQW5UWE5EdXM5YlhabnBpVkNCUGpyeVhqZWRTZHEycmw1bVZVZ3R6U3JVbV9uaTFNSzRVdE1wMUp6SkIzNExQa2dETjZnaDB4UDQyWWF3?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:48+00:00"
+  }
+ ]
+}

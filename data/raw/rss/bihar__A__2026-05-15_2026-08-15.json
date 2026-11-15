@@ -1,0 +1,175 @@
+{
+ "region": "Bihar",
+ "group": "A",
+ "query": "(Bihar) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Bihar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:42+00:00",
+ "item_count": 15,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Govt. to soon bring in an AI policy to transform Bihar: CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUhFYVhTeXVEU1Z5bXdJaVh1aFlzYzBKdVVKNEl3MUtiTFVfT0F0eVd1UWhpTHM2YWcyTEYtd2hHSFhXOFNDdk1wTmI2VnQwbnNuQnJzQVhvSzdyRTU1RVRVV1V6UEt6aEVoQWVTLWFMaE1ROTcwS0dPZlhsVGllTUVWVFVnejA1OGRxVVUxZU9yQThGUURLSURXZGlfb3lBY2h4My1QMnZxVHRwT01KNi1SYl92SVd6SThPZDNn0gHEAUFVX3lxTE9mc19CZGFvenBLQmpfQ25OVVpXQ3czOXRYcUpkY2ZyY21TTk44NUlqSUl0NnFPcGFqNGoxVlM0aXVCOHpCcnpaZy10VUNvZWkzYXpOT2ZvRDh1THEzbVVKSmJBZXRqd2U0V1Y0dXl3QXJmRjJ3Q1lPNDBfaGJtWnpKSEtEWWZYcl8yNjFLX0x5a3g2blF6c3h5WkpVeFUtd0dCeDFwRm5tSDZVSEVkdlZhOHBUZG5tdGNZVWkxQ19iU05NSFI?oc=5\" target=\"_blank\">Govt. to soon bring in an AI policy to transform Bihar: CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUhFYVhTeXVEU1Z5bXdJaVh1aFlzYzBKdVVKNEl3MUtiTFVfT0F0eVd1UWhpTHM2YWcyTEYtd2hHSFhXOFNDdk1wTmI2VnQwbnNuQnJzQVhvSzdyRTU1RVRVV1V6UEt6aEVoQWVTLWFMaE1ROTcwS0dPZlhsVGllTUVWVFVnejA1OGRxVVUxZU9yQThGUURLSURXZGlfb3lBY2h4My1QMnZxVHRwT01KNi1SYl92SVd6SThPZDNn0gHEAUFVX3lxTE9mc19CZGFvenBLQmpfQ25OVVpXQ3czOXRYcUpkY2ZyY21TTk44NUlqSUl0NnFPcGFqNGoxVlM0aXVCOHpCcnpaZy10VUNvZWkzYXpOT2ZvRDh1THEzbVVKSmJBZXRqd2U0V1Y0dXl3QXJmRjJ3Q1lPNDBfaGJtWnpKSEtEWWZYcl8yNjFLX0x5a3g2blF6c3h5WkpVeFUtd0dCeDFwRm5tSDZVSEVkdlZhOHBUZG5tdGNZVWkxQ19iU05NSFI?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sun, 24 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar signes MoU with Google & Microsoft, two other companies to promote AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXJZdkh4RERXdFpraDZGS2VLcVlvMl9aSHJLbnM3dUliZTVETlV2RWhtMlVJMXhZZEF5SEZyY0lXbmszckZzSUc2bV9ZMGNudUM1UTdzTEVjLWZ6aUZFNDJWOWxlSGZ1WWx1a2R5SF9LSlA5V0FnZFhHQWllUnY2a3RBajViVldjSTBMTU9yT3FQRS1lYWRVd2RtMHV1LUREanpyTVdmNUF0dnIzWC1BWjFEekZzdmJmMzBJaHNZOUZXcG82WUppdFNB0gHXAUFVX3lxTFBPUURYZW9ySmVkVy1BOFlVbHlOaUtnaHVUOFhPeUxydEE2ZUtNYXQ4Q0plcGZXSXk3RlYyRHhYMmdJdHFndkw1aWZhc0ZqX3FEYmtlV1FndzZuWF9tTEN1NFozX0NYTFg2RE8xV3Z1UEdabE5ZeW56RnljMGpXd2c1SnZ0UFI1bVFSUjNvSUtheHA5ZXp0Z1c5RTdHZHg5N2dYMVVGOFdCVkFBVHJkeURDMktUUmo1d2JvR3hiNkF0WDdfX3FsWmJ5RkVTQVB5YWRuZTVPVlM0?oc=5\" target=\"_blank\">Bihar signes MoU with Google & Microsoft, two other companies to promote AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXJZdkh4RERXdFpraDZGS2VLcVlvMl9aSHJLbnM3dUliZTVETlV2RWhtMlVJMXhZZEF5SEZyY0lXbmszckZzSUc2bV9ZMGNudUM1UTdzTEVjLWZ6aUZFNDJWOWxlSGZ1WWx1a2R5SF9LSlA5V0FnZFhHQWllUnY2a3RBajViVldjSTBMTU9yT3FQRS1lYWRVd2RtMHV1LUREanpyTVdmNUF0dnIzWC1BWjFEekZzdmJmMzBJaHNZOUZXcG82WUppdFNB0gHXAUFVX3lxTFBPUURYZW9ySmVkVy1BOFlVbHlOaUtnaHVUOFhPeUxydEE2ZUtNYXQ4Q0plcGZXSXk3RlYyRHhYMmdJdHFndkw1aWZhc0ZqX3FEYmtlV1FndzZuWF9tTEN1NFozX0NYTFg2RE8xV3Z1UEdabE5ZeW56RnljMGpXd2c1SnZ0UFI1bVFSUjNvSUtheHA5ZXp0Z1c5RTdHZHg5N2dYMVVGOFdCVkFBVHJkeURDMktUUmo1d2JvR3hiNkF0WDdfX3FsWmJ5RkVTQVB5YWRuZTVPVlM0?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 24 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar AI Summit 2026 Showcases State’s Growing Push Towards AI-Driven Innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2Y3ckpOUnVla2dqVEhqY3dpcnBaVWpTaERUMEJfSGZGLUJPLTVqOS1RVjNjcDRmblA5TVd2T2pXYlRONjZUaVNlcmZDaWxkMlRBWW1DUEFPZmtPbWlPa1R5blMtSi0xQ0tHV2tzLTlRTzFoOEVBSXdDQWZTcnpyY3BIaElIM2RYSFN1M1NaSmNtV0dxNUhhQWVjcDJ6ck1vOGFLalJIMlM?oc=5\" target=\"_blank\">Bihar AI Summit 2026 Showcases State’s Growing Push Towards AI-Driven Innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2Y3ckpOUnVla2dqVEhqY3dpcnBaVWpTaERUMEJfSGZGLUJPLTVqOS1RVjNjcDRmblA5TVd2T2pXYlRONjZUaVNlcmZDaWxkMlRBWW1DUEFPZmtPbWlPa1R5blMtSi0xQ0tHV2tzLTlRTzFoOEVBSXdDQWZTcnpyY3BIaElIM2RYSFN1M1NaSmNtV0dxNUhhQWVjcDJ6ck1vOGFLalJIMlM?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Mon, 25 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar AI Summit 2026 spotlights AI-led growth across sectors",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaE1DMFV4VTFWUDU1WUJGd1ZkbXIwMXpRNThScHM5eDlXSllCTFh4em1XQVpfVkFHVl85NjU0SzJsdmlIZGtpQXRUYWxzZHlJNXlKMDJBNDBySldaRERLVEdVU01PM0FUYjFwSGRaYVB4djBMVkJPU3lja2NGSmRCbENPWHJZcElIdE5LZU1BX25uTmVuN2VYSUxYZmNsRHlMVEx0R0lHMmhuc1hoWm9mU01MQ2JEYklaMmtELVlQeUJWXzJJemNORlAyYV9DR0pSV3NIWmRHRzJVcUZab2h4ekxtQmNEZENPZzlJ0gHwAUFVX3lxTE4wdnFlOWZUeVgyR2pUYi1qZFN0NDRUa1l1ZXZlTF9kUWEyenU4UUtjNkE5RVN4NjlxLVpOczFPd3BodDl4blBra1RSRUxwbXduVXhjd24zQzJGQjF2VmRCMmk3UVhObTVYZVd0WkxPZzQyYi1HY2wwdUV3Z2VoWHFGTV95Y0wzLUNUelJKYTVkRVVvdHgzUmZpNklKYU5NdkhDbHIxZnN2Rlk4SkdESFVUZW96bm5NTnBYNVdKSGp3eHVZYU1lWExRd1VFX0JYQmgzNk5BWFgxam1WUzFjbDlnMFF0V25zeFdwMS04OEZtSg?oc=5\" target=\"_blank\">Bihar AI Summit 2026 spotlights AI-led growth across sectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaE1DMFV4VTFWUDU1WUJGd1ZkbXIwMXpRNThScHM5eDlXSllCTFh4em1XQVpfVkFHVl85NjU0SzJsdmlIZGtpQXRUYWxzZHlJNXlKMDJBNDBySldaRERLVEdVU01PM0FUYjFwSGRaYVB4djBMVkJPU3lja2NGSmRCbENPWHJZcElIdE5LZU1BX25uTmVuN2VYSUxYZmNsRHlMVEx0R0lHMmhuc1hoWm9mU01MQ2JEYklaMmtELVlQeUJWXzJJemNORlAyYV9DR0pSV3NIWmRHRzJVcUZab2h4ekxtQmNEZENPZzlJ0gHwAUFVX3lxTE4wdnFlOWZUeVgyR2pUYi1qZFN0NDRUa1l1ZXZlTF9kUWEyenU4UUtjNkE5RVN4NjlxLVpOczFPd3BodDl4blBra1RSRUxwbXduVXhjd24zQzJGQjF2VmRCMmk3UVhObTVYZVd0WkxPZzQyYi1HY2wwdUV3Z2VoWHFGTV95Y0wzLUNUelJKYTVkRVVvdHgzUmZpNklKYU5NdkhDbHIxZnN2Rlk4SkdESFVUZW96bm5NTnBYNVdKSGp3eHVZYU1lWExRd1VFX0JYQmgzNk5BWFgxam1WUzFjbDlnMFF0V25zeFdwMS04OEZtSg?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar Government Signs MoUs with Google, Microsoft to Strengthen AI Adoption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlpDRzZVMU8yQWRRYmZGWHZnNng5ZGNyc2g1bHl1REtlMDdqM0Y5YTV6RWR1dWc3TGE0VGlYWGVRcWRSeWRLblVwT3NYVXp0a2tCRWtLVmdrVXNuc05iNjl3SV9GZGN6R0w0YTJNM3V5c3cySHJCb2JNTE5nUFNxR0trVjdVMWV6a2xGeG15czh1dWViWkx4aFROd1BNZmE3akoyTXRDdmxXbUh1VWg5WnRkTQ?oc=5\" target=\"_blank\">Bihar Government Signs MoUs with Google, Microsoft to Strengthen AI Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlpDRzZVMU8yQWRRYmZGWHZnNng5ZGNyc2g1bHl1REtlMDdqM0Y5YTV6RWR1dWc3TGE0VGlYWGVRcWRSeWRLblVwT3NYVXp0a2tCRWtLVmdrVXNuc05iNjl3SV9GZGN6R0w0YTJNM3V5c3cySHJCb2JNTE5nUFNxR0trVjdVMWV6a2xGeG15czh1dWViWkx4aFROd1BNZmE3akoyTXRDdmxXbUh1VWg5WnRkTQ?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Sat, 04 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar CM Samrat Choudhary stresses education, AI and infrastructure development to drive state's growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWUpaZWJSQ0FWSE1Gckl3bGowMWN5R2RpbVZFMm5NcjV2SW94Yl9leXhyN3VyUXdtbEhoa3BEbmliZjRxaG83RS1zVnNqT3hTSzZxSVRzQS1BR1Jma1FZOGhMNkg1ajduSDhoaW96blAzY2ZvWGVnTHQ3dnpqUlQ4aEpKdlprbWlyT0N5bE96MnJUVVMxSmstdjdQLVA2R3E0T1dEV0dpdVBmc0hKWnY4dHdiWGtQUGZnbG5fekdhWFA3RGE3aEhTTEUzYlVEUWhMd0xtWkNIelVvTWxGVWVTclBlRTA5eV9ROUJiak5tNWtva0pwNWEzeg?oc=5\" target=\"_blank\">Bihar CM Samrat Choudhary stresses education, AI and infrastructure development to drive state's growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWUpaZWJSQ0FWSE1Gckl3bGowMWN5R2RpbVZFMm5NcjV2SW94Yl9leXhyN3VyUXdtbEhoa3BEbmliZjRxaG83RS1zVnNqT3hTSzZxSVRzQS1BR1Jma1FZOGhMNkg1ajduSDhoaW96blAzY2ZvWGVnTHQ3dnpqUlQ4aEpKdlprbWlyT0N5bE96MnJUVVMxSmstdjdQLVA2R3E0T1dEV0dpdVBmc0hKWnY4dHdiWGtQUGZnbG5fekdhWFA3RGE3aEhTTEUzYlVEUWhMd0xtWkNIelVvTWxGVWVTclBlRTA5eV9ROUJiak5tNWtva0pwNWEzeg?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar Partners with Google, Microsoft, CoRover, and Sarvam AI to Accelerate AI-Driven Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2M0NG5uZ3VWRzh0cEhIa1NFSjMwVXlTdG9TcXpiSU1xWE9UX3pPTmk0cWJsSjFNVHVYcDgwTVJvVWdiVWtzOHVWc05DZWhBZU8yRF9WRG4zaU82b1NETjhJM19aOVRnWXVTREp4ZloxZXBxOUFEREg0UXhERGowRHczejJOWUxkN0hUV3hLLU45N0tDSEVYRWIwblNuNDJsS0lrc0FKc3U5RGxVMVFjNFVjWWV0Q2NXUWZ6MzRHQmh6NG14?oc=5\" target=\"_blank\">Bihar Partners with Google, Microsoft, CoRover, and Sarvam AI to Accelerate AI-Driven Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CXO Digitalpulse</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2M0NG5uZ3VWRzh0cEhIa1NFSjMwVXlTdG9TcXpiSU1xWE9UX3pPTmk0cWJsSjFNVHVYcDgwTVJvVWdiVWtzOHVWc05DZWhBZU8yRF9WRG4zaU82b1NETjhJM19aOVRnWXVTREp4ZloxZXBxOUFEREg0UXhERGowRHczejJOWUxkN0hUV3hLLU45N0tDSEVYRWIwblNuNDJsS0lrc0FKc3U5RGxVMVFjNFVjWWV0Q2NXUWZ6MzRHQmh6NG14?oc=5",
+   "source_name": "CXO Digitalpulse",
+   "source_domain": "cxodigitalpulse.com",
+   "published_raw": "Sat, 04 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar CM urges Ministers, Legislators to use AI extensively for development, outreach",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWV8xTTRNU3d6cTBCbnlKcGFxVHV6VmJxZ3ptNjQ1T3lnTWxQRGI5REVPaXNsRlZEdzR2ak9McmhPSFFFeHpKWFRGQ1dLNXBaNTRRYXEzSEtPRk5qT0ZiTUdIT1hKcmUydnJmQ2VyUUxWcXNlLWROX0FlaHBYNldkbjE0MjkybFdXQ0Y1Ui1fWkNGYUh4akF1RGIwVENXUVRna2RHNzJFTzBnajZXSGtUa0JNRFJ4dlZNZFRsbk5rYnVGSFI5RVBveUNwcVVCaGlaeS04dzBRMFhVYzdUYkVRRFZn0gHoAUFVX3lxTFBTTkJPWFcyTlp3eF8zc20zaEJITEV1NVNpLUVqSzY3aXV3dTcweFBkUXBWcmttLXg3QTU2WDhEM2ExNmF3Ml9aY0RELTNKc0VkU2tBYWZ1eF9hRUpUaEl3NUlmbW5HdVo4ak1CZU12bEpCZ05PcU9JZUpFdGlDUjdGUVB2STFYYTdwX3ZzV002dzJFQV93Y1BEWHhTbzdWa1g0TjlSOXZ3Ni1oUGdzTDRHcEItVlNfNHpDejczUF9WUlFMWHBlN2NvVlFud05BSUVRb1QwUVdOeFhSQkVGRmo1b1Fqb3BXM2U?oc=5\" target=\"_blank\">Bihar CM urges Ministers, Legislators to use AI extensively for development, outreach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWV8xTTRNU3d6cTBCbnlKcGFxVHV6VmJxZ3ptNjQ1T3lnTWxQRGI5REVPaXNsRlZEdzR2ak9McmhPSFFFeHpKWFRGQ1dLNXBaNTRRYXEzSEtPRk5qT0ZiTUdIT1hKcmUydnJmQ2VyUUxWcXNlLWROX0FlaHBYNldkbjE0MjkybFdXQ0Y1Ui1fWkNGYUh4akF1RGIwVENXUVRna2RHNzJFTzBnajZXSGtUa0JNRFJ4dlZNZFRsbk5rYnVGSFI5RVBveUNwcVVCaGlaeS04dzBRMFhVYzdUYkVRRFZn0gHoAUFVX3lxTFBTTkJPWFcyTlp3eF8zc20zaEJITEV1NVNpLUVqSzY3aXV3dTcweFBkUXBWcmttLXg3QTU2WDhEM2ExNmF3Ml9aY0RELTNKc0VkU2tBYWZ1eF9hRUpUaEl3NUlmbW5HdVo4ak1CZU12bEpCZ05PcU9JZUpFdGlDUjdGUVB2STFYYTdwX3ZzV002dzJFQV93Y1BEWHhTbzdWa1g0TjlSOXZ3Ni1oUGdzTDRHcEItVlNfNHpDejczUF9WUlFMWHBlN2NvVlFud05BSUVRb1QwUVdOeFhSQkVGRmo1b1Fqb3BXM2U?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar to Launch Dedicated AI Policy, Aims to Become India’s Next AI Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3A5N3NXQ2xqQ2tQN3Y2T21yTmZKVkxkT3hJZGxOMF9lSGN4S2ZUVUpJZjU3YU1tOUdMaEpwRWRYWnVNYm9hSGJxeEhlbFBuVzNmYktjRl9FSlBvYWhCSWpjOG5tYzdBbEstb3FMQjNkYkozT0RqMnBVdDg3eXlfekd2MVA5VUZmM2kyQ0JfMGN3X0R4aUU2Z0YxcXd2X29NemZHOG9admFrTUk?oc=5\" target=\"_blank\">Bihar to Launch Dedicated AI Policy, Aims to Become India’s Next AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3A5N3NXQ2xqQ2tQN3Y2T21yTmZKVkxkT3hJZGxOMF9lSGN4S2ZUVUpJZjU3YU1tOUdMaEpwRWRYWnVNYm9hSGJxeEhlbFBuVzNmYktjRl9FSlBvYWhCSWpjOG5tYzdBbEstb3FMQjNkYkozT0RqMnBVdDg3eXlfekd2MVA5VUZmM2kyQ0JfMGN3X0R4aUU2Z0YxcXd2X29NemZHOG9admFrTUk?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Mon, 25 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Meet Kanishka Narayan: The Bihar-Born Leader Now Shaping Britain's AI Future",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFVfNlhYSjJaWXJPTWVmZG93eDEyVlNSa3l1SkZ5UGs3TDl1MmpFN0MtNWQ1a2owc3hFa24ybWpRdkpGM29NRUR1WHVMSm85S1NFYVpJaEZfS3ZiTjBNWTg0T2NXNkxDUVlhSE9MbmxkOFhhZmd2Nm4tamJqWDRwV2MzNDlDMFI4WG5EZFR4dXFtblFnU0tUMjFvZFp0ZUhrRDVJaXE2dUd4YVc5ZUxzRtIBvgFBVV95cUxQcDlrRFRMZXIwSk1CT3pEWnE3ME9KV0c5X2tpc0pQaExlRS1GVm0wMjA1elN1Z08wNmJPNnZsaDdvcFBNNHU2MGRKZE5KTVFjVjM0M1RVWW5yN2VRWTl6QXIxZFJFN05MYXJ2YThhYjFzZlJsSnpOTjJPazN2UU9OV3VNVFFlU1BudDJkMTlrWXRBMVVnWG4xUU8wcTlHeXJDQUQycVRGOFBoWnY4UW91a3dRZHlLX0dYS3BhQXRB?oc=5\" target=\"_blank\">Meet Kanishka Narayan: The Bihar-Born Leader Now Shaping Britain's AI Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Business</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFVfNlhYSjJaWXJPTWVmZG93eDEyVlNSa3l1SkZ5UGs3TDl1MmpFN0MtNWQ1a2owc3hFa24ybWpRdkpGM29NRUR1WHVMSm85S1NFYVpJaEZfS3ZiTjBNWTg0T2NXNkxDUVlhSE9MbmxkOFhhZmd2Nm4tamJqWDRwV2MzNDlDMFI4WG5EZFR4dXFtblFnU0tUMjFvZFp0ZUhrRDVJaXE2dUd4YVc5ZUxzRtIBvgFBVV95cUxQcDlrRFRMZXIwSk1CT3pEWnE3ME9KV0c5X2tpc0pQaExlRS1GVm0wMjA1elN1Z08wNmJPNnZsaDdvcFBNNHU2MGRKZE5KTVFjVjM0M1RVWW5yN2VRWTl6QXIxZFJFN05MYXJ2YThhYjFzZlJsSnpOTjJPazN2UU9OV3VNVFFlU1BudDJkMTlrWXRBMVVnWG4xUU8wcTlHeXJDQUQycVRGOFBoWnY4UW91a3dRZHlLX0dYS3BhQXRB?oc=5",
+   "source_name": "Outlook Business",
+   "source_domain": "outlookbusiness.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "From Cloud to BiharGPT: State charts ambitious AI roadmap",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0NodGF6QnEtMGdid1FuWDV4ckVjMW1zNFVqQkN2b1llajY1RmNWeGdsNmo0QnQwdWhJMms0RnMxMEF1UWxHZkFIUEdYR05Fb2RhNHpEQWVfMFFWUjJodkdxVXdwODA0MDMwVGpqVzBHSkVnYVVPQ2xCR3hBcFlId1hTMGxZeVUxbnZ6MjBLOWNTb0FYTllTX0VrdXpLQlQ5dDVDVFRJRmdvT3RvU2NBUnlrN0JnSE9KdDlhMkRGRlpzMHNKMlN4Q9IBzgFBVV95cUxOeXNiSUVPOC1yMlNiVExPcmVuOS1uSENYUFduU2ZOQ1diNzNNbHQ3TGQ0cGxtbW1NcWhsbzlOZVRpRTRsNFRuclAzTDNQYWpVcFFLdFNGQjJ1OVRYRlZ3cmRJcGZmLTlEQklUWmdDYjRFTXBUeUZMb0FrNnhERjhydjJWbkxTTGJDY2s2MFd6RWNEenNxcUJ3X250VTdrZHVDelhFZU1DUk14djFzQXRNajhRSk4wSXdEV1JiT2hfckg0emNWeHdvWjRzR0RHUQ?oc=5\" target=\"_blank\">From Cloud to BiharGPT: State charts ambitious AI roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0NodGF6QnEtMGdid1FuWDV4ckVjMW1zNFVqQkN2b1llajY1RmNWeGdsNmo0QnQwdWhJMms0RnMxMEF1UWxHZkFIUEdYR05Fb2RhNHpEQWVfMFFWUjJodkdxVXdwODA0MDMwVGpqVzBHSkVnYVVPQ2xCR3hBcFlId1hTMGxZeVUxbnZ6MjBLOWNTb0FYTllTX0VrdXpLQlQ5dDVDVFRJRmdvT3RvU2NBUnlrN0JnSE9KdDlhMkRGRlpzMHNKMlN4Q9IBzgFBVV95cUxOeXNiSUVPOC1yMlNiVExPcmVuOS1uSENYUFduU2ZOQ1diNzNNbHQ3TGQ0cGxtbW1NcWhsbzlOZVRpRTRsNFRuclAzTDNQYWpVcFFLdFNGQjJ1OVRYRlZ3cmRJcGZmLTlEQklUWmdDYjRFTXBUeUZMb0FrNnhERjhydjJWbkxTTGJDY2s2MFd6RWNEenNxcUJ3X250VTdrZHVDelhFZU1DUk14djFzQXRNajhRSk4wSXdEV1JiT2hfckg0emNWeHdvWjRzR0RHUQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 24 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Who is Kanishka Narayan, Bihar-born MP picked as UK's AI minister in Andy Burnham's cabinet",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX0F3S0Y4Wk1ZaFVHQzd6Z3pEVnMyS3ZoZktUeHNqazFySmxaQ1E4anNjakxRcFlLU2VPOFk3WnJBYVgxR0ViOWxGZGtOMkpPZ2NTbVRsZmdJcEdVWTdZdTdsRGlsZkk1VDNQZEhmNTB6VE11cXlxeWFiRHlocXhDbUZPOEZpNGY4Y2tXV1RwWC0td3JfRFRHQ3BtbmdrRm1NTzJCYzRDZ2pNSDd0QnMyOVNhcVVUc0RuVG5CNk9kSGExZk5TRmhCQUVvb0Nmd0NyTURZblN0WGp6R1M0UVVtV1JaRDhfcFhRd256SDlhZlbSAfYBQVVfeXFMTzdVSzFPZFFQS1h5a0VtY1l2RlRONjd0Wm9HVzVXdHNBTDh3emwtbkREektIcGtiWC1CcWR0QlFqUHJKSWFodFk0TlBjRzVwSUlGUzVzU1h0LVlpSkpCcnZvb3dnU1BMdDMxai1iMUpwRC1Nako0dG9yUGx5bDVWOHEyaXJXRHg0QnE3SFFLNnpsdFVQTjMybkNPcHVIVkhmSVA0SVRZWU5kRzUyemhyMlVQRHdzTm4wVmdrVGNUX1ZVa3BHbzI1RVNKbUlBV2E3ODhUOHl3Z3A5cFR4TFVKcUZBTFRINVA3aFlhVGI2bDhmTTNabFF3?oc=5\" target=\"_blank\">Who is Kanishka Narayan, Bihar-born MP picked as UK's AI minister in Andy Burnham's cabinet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX0F3S0Y4Wk1ZaFVHQzd6Z3pEVnMyS3ZoZktUeHNqazFySmxaQ1E4anNjakxRcFlLU2VPOFk3WnJBYVgxR0ViOWxGZGtOMkpPZ2NTbVRsZmdJcEdVWTdZdTdsRGlsZkk1VDNQZEhmNTB6VE11cXlxeWFiRHlocXhDbUZPOEZpNGY4Y2tXV1RwWC0td3JfRFRHQ3BtbmdrRm1NTzJCYzRDZ2pNSDd0QnMyOVNhcVVUc0RuVG5CNk9kSGExZk5TRmhCQUVvb0Nmd0NyTURZblN0WGp6R1M0UVVtV1JaRDhfcFhRd256SDlhZlbSAfYBQVVfeXFMTzdVSzFPZFFQS1h5a0VtY1l2RlRONjd0Wm9HVzVXdHNBTDh3emwtbkREektIcGtiWC1CcWR0QlFqUHJKSWFodFk0TlBjRzVwSUlGUzVzU1h0LVlpSkpCcnZvb3dnU1BMdDMxai1iMUpwRC1Nako0dG9yUGx5bDVWOHEyaXJXRHg0QnE3SFFLNnpsdFVQTjMybkNPcHVIVkhmSVA0SVRZWU5kRzUyemhyMlVQRHdzTm4wVmdrVGNUX1ZVa3BHbzI1RVNKbUlBV2E3ODhUOHl3Z3A5cFR4TFVKcUZBTFRINVA3aFlhVGI2bDhmTTNabFF3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar CM Says State To Roll Out AI Policy To Develop Bihar As Major IT Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTJZbmJtZEt3enFvVUVZbXk5eU94QWNTTUdraTVkN3ZwU1F5NzktR19ocS1WSWdpOHZmZWI4WS1YaDJ1SnZRdlpoblZ4THlZaFZ5cE96RG4zUXE3RVNlZldtYmpqS012eFdtRV96dWFfNGFXdmNUN3JFcTdraGdrSHFUVGVUTHV3anJVV3NIZ2FVb2VlTmVmM1RDWHh6cXJiTnNIaXVxcDZlR0puRTZyR2tvTUxIbnfSAb8BQVVfeXFMUGltUzZSdGhka1FXb2RyNHVmOUtLelFFRkF5czFzbWtSdVZlaWVTYlpsbGdwTXo1SzZzM2t6NThuYUZIM3VTejN4aHN5c1VsOWNoN3p3ZlJtdU02TmVacW9jVk8wdHljdkxLaHdZVWluTHpqRWh4VHFEOXdadTgydk53YmJzQzlBQmg5OFhWcWxjVVRDXzlsYzB3Q1NrNkNkbHVxTmpOemVxNy16Q1NLc2U4SkVYZXV6cnNYQXVHNHM?oc=5\" target=\"_blank\">Bihar CM Says State To Roll Out AI Policy To Develop Bihar As Major IT Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTJZbmJtZEt3enFvVUVZbXk5eU94QWNTTUdraTVkN3ZwU1F5NzktR19ocS1WSWdpOHZmZWI4WS1YaDJ1SnZRdlpoblZ4THlZaFZ5cE96RG4zUXE3RVNlZldtYmpqS012eFdtRV96dWFfNGFXdmNUN3JFcTdraGdrSHFUVGVUTHV3anJVV3NIZ2FVb2VlTmVmM1RDWHh6cXJiTnNIaXVxcDZlR0puRTZyR2tvTUxIbnfSAb8BQVVfeXFMUGltUzZSdGhka1FXb2RyNHVmOUtLelFFRkF5czFzbWtSdVZlaWVTYlpsbGdwTXo1SzZzM2t6NThuYUZIM3VTejN4aHN5c1VsOWNoN3p3ZlJtdU02TmVacW9jVk8wdHljdkxLaHdZVWluTHpqRWh4VHFEOXdadTgydk53YmJzQzlBQmg5OFhWcWxjVVRDXzlsYzB3Q1NrNkNkbHVxTmpOemVxNy16Q1NLc2U4SkVYZXV6cnNYQXVHNHM?oc=5",
+   "source_name": "NDTV Profit",
+   "source_domain": "ndtvprofit.com",
+   "published_raw": "Sat, 23 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar to become an AI hub, state to unveil AI policy soon: Samrat Choudhary",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2RDVUlCTEdEcTJmVE5UR0YxaGdlSzBnNEl1Wm95U0tsOUpURGRpLVR0aVJFOTBIakZWdUhtNTFnMFllVUVQYjhtdXNkbzdja0s1NWQ3S3lnV3dsUTdNbzFiN3BVQnNWMDNPTFdudzhrSmNtelRPNkVxUXV1SG84VDh6ZGJKUFQ3bE4yV0JUekNTQV9XOEV2dkNrUFlzMnB0UlVkSzR4WFpLb3pDUkx3SmJHWTNyR1QzSS1DeDdMWEFUd9IBxwFBVV95cUxOc0NXem1pc0ZjTGY2M0psV3l6WWVwUnBCcm42Q2JxdW1KQ1BGdDVwTW54Ym8wOUpXbVhIdGZKX0RGOWM1aGdqdF8yd1FMcWVoYlYyQS1adXptbmtxWWhRMXJ4TndaWDhqdHdPN1QzU0JBZjFlZUVDR3lNWXJCTEVSTDdGWndaTndVOWZpeVBGSnd1X2Nja2x2N081d2MyTk1zV1VXbU9sZ2ZsYm9qeTFpelcxTzJlVUtkeEgyRUlTMDJ2ekxReVpz?oc=5\" target=\"_blank\">Bihar to become an AI hub, state to unveil AI policy soon: Samrat Choudhary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2RDVUlCTEdEcTJmVE5UR0YxaGdlSzBnNEl1Wm95U0tsOUpURGRpLVR0aVJFOTBIakZWdUhtNTFnMFllVUVQYjhtdXNkbzdja0s1NWQ3S3lnV3dsUTdNbzFiN3BVQnNWMDNPTFdudzhrSmNtelRPNkVxUXV1SG84VDh6ZGJKUFQ3bE4yV0JUekNTQV9XOEV2dkNrUFlzMnB0UlVkSzR4WFpLb3pDUkx3SmJHWTNyR1QzSS1DeDdMWEFUd9IBxwFBVV95cUxOc0NXem1pc0ZjTGY2M0psV3l6WWVwUnBCcm42Q2JxdW1KQ1BGdDVwTW54Ym8wOUpXbVhIdGZKX0RGOWM1aGdqdF8yd1FMcWVoYlYyQS1adXptbmtxWWhRMXJ4TndaWDhqdHdPN1QzU0JBZjFlZUVDR3lNWXJCTEVSTDdGWndaTndVOWZpeVBGSnd1X2Nja2x2N081d2MyTk1zV1VXbU9sZ2ZsYm9qeTFpelcxTzJlVUtkeEgyRUlTMDJ2ekxReVpz?oc=5",
+   "source_name": "The Statesman",
+   "source_domain": "thestatesman.com",
+   "published_raw": "Sat, 23 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar-born Kanishka Narayan becomes UK’s first Cabinet-level AI minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVI3emh4RjNCVkFIWER0NDhlbmUwNlNaSkpYdkpjWjlsZUxrcDZFeUEzQTlHV2N3WEFCUWFFM25SeERQMTk5c2YtS0NMazdwVWtES09aTk9FZWVqXzkwMkdzSFQ5OThBWDNBQUpBa0Z0RTQ2cl9relZxVURNMlZnazk1MUkyQU0xTUdOb0FkXzEwZFVfTVo3blFBc3pBVXY2bHUyTW9qbFlhVEJBcnhWQmc0NmNUSWFxZ0h3M0ZfQdIBxAFBVV95cUxPUGVhRUV2dExpZFJkSW9aeW53T1pXVW1tTklXU2NxdU1pUUxQcnRXTFI5bkU0Z2tFUzdTWDU1bHJteFdBVUFXQ3ZYMU9iZFpmSExKVHRLRHZQTEVfRFNhY0I1aXE1Rmo0S0JMdWhqSVFZM3hLQzE1dno2TkRWUklHdlRKR3JKczA2aGlkOEgzcnZmRXdJd1llTk9LcVNWVXJaYnZ0NjBRV3RXbEVqdmpHaXFRUmZRRHpzZUFyNWtTUEl4UjRU?oc=5\" target=\"_blank\">Bihar-born Kanishka Narayan becomes UK’s first Cabinet-level AI minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVI3emh4RjNCVkFIWER0NDhlbmUwNlNaSkpYdkpjWjlsZUxrcDZFeUEzQTlHV2N3WEFCUWFFM25SeERQMTk5c2YtS0NMazdwVWtES09aTk9FZWVqXzkwMkdzSFQ5OThBWDNBQUpBa0Z0RTQ2cl9relZxVURNMlZnazk1MUkyQU0xTUdOb0FkXzEwZFVfTVo3blFBc3pBVXY2bHUyTW9qbFlhVEJBcnhWQmc0NmNUSWFxZ0h3M0ZfQdIBxAFBVV95cUxPUGVhRUV2dExpZFJkSW9aeW53T1pXVW1tTklXU2NxdU1pUUxQcnRXTFI5bkU0Z2tFUzdTWDU1bHJteFdBVUFXQ3ZYMU9iZFpmSExKVHRLRHZQTEVfRFNhY0I1aXE1Rmo0S0JMdWhqSVFZM3hLQzE1dno2TkRWUklHdlRKR3JKczA2aGlkOEgzcnZmRXdJd1llTk9LcVNWVXJaYnZ0NjBRV3RXbEVqdmpHaXFRUmZRRHpzZUFyNWtTUEl4UjRU?oc=5",
+   "source_name": "The Statesman",
+   "source_domain": "thestatesman.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:42+00:00"
+  }
+ ]
+}

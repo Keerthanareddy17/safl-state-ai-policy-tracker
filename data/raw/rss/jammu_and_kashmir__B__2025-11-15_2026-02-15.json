@@ -1,0 +1,98 @@
+{
+ "region": "Jammu and Kashmir",
+ "group": "B",
+ "query": "(\"Jammu and Kashmir\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Jammu+and+Kashmir%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:44+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Press Note Details: Press Information Bureau",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWxkeTA5UmVyaHp1eXhYQ3MtcDZHWEtjaEdxbVVqOEphb1JPVnZhcGNZV0wyMFY5TkJRMFhmUmk4dmJQTkFmZG1KYzhxeU5KcGFJaXhWME9fVmhycGlnZmI0WE9VVjd3U1hYM00xbU54NWFpaExOUERLbEVPdHhYUE1jUlFSSjdDUVE?oc=5\" target=\"_blank\">Press Note Details: Press Information Bureau</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWxkeTA5UmVyaHp1eXhYQ3MtcDZHWEtjaEdxbVVqOEphb1JPVnZhcGNZV0wyMFY5TkJRMFhmUmk4dmJQTkFmZG1KYzhxeU5KcGFJaXhWME9fVmhycGlnZmI0WE9VVjd3U1hYM00xbU54NWFpaExOUERLbEVPdHhYUE1jUlFSSjdDUVE?oc=5",
+   "source_name": "pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "J&K Police Launches AI-Enabled Security Grid to Strengthen Internal Security",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWtHV3JwYW1RanpQdjdPZlRRSDlhTi1fSEF2emJsbXh3MnBFRTE3eWtqZzVsM1dFVUJINVNVbDZEcWN6Sk9jcHRRVmxsdGtETzlwT1dyZk1haUNhbDc4cHZhWG1Nc0szNGlkQTRuYUdyOFozZmd6ajkzQzN6TC1pUkR6OGdVT1A5S1VlcURyWVlYOEhrS184V2VNM0l2Zkk1ZVdZ?oc=5\" target=\"_blank\">J&amp;K Police Launches AI-Enabled Security Grid to Strengthen Internal Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWtHV3JwYW1RanpQdjdPZlRRSDlhTi1fSEF2emJsbXh3MnBFRTE3eWtqZzVsM1dFVUJINVNVbDZEcWN6Sk9jcHRRVmxsdGtETzlwT1dyZk1haUNhbDc4cHZhWG1Nc0szNGlkQTRuYUdyOFozZmd6ajkzQzN6TC1pUkR6OGdVT1A5S1VlcURyWVlYOEhrS184V2VNM0l2Zkk1ZVdZ?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Fri, 26 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Jammu & Kashmir Road Transport Corporation proposes procurement of 200 e-buses",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPanBsQmUtVzl1WVF6cUhGSlVLQzRuMFREaEx1M0xCamJ0MmFsQzNOWGdjYnBTNjFfbHJXQk16YjJXWGszendINVB1bVBzVE9tVmN5SHlsaEVuNXZrekJRcndWWk55R0Y2MWFpcHQ5NGRwVFZCajU0NlQ3NFhxbkR6bUZWWVZXYmloa0stSzhZVVhxdlYxbEc2SndFa0xuRjI3Z09ObjZnek95UzR5eFh5TEszY2FGOFFOU0llbjhXRUpCajM5SklKX2pCeTJKYWVYbE15NVhZSl84VFhHNzZzZ0ttVEs5T2lMQVM4cnpSazRjTUZPbmFsOE56OUVCd9IBggJBVV95cUxQYWJnWHdKME9Jam1ZYjlDOXgxWmRVbWU5M0tmYzdYZUZYVWlGNWsxWGhhVjQtRWV2S1NPdnplMmtGbld3RjRTQ0lsbjJZU2JxcE4teldKQ2xlRWhZb0xGbm1PMW51cWE3V3BsU2F2WGk0SFJfN0g3RnhKOEdhTkpJdm43ckZNT3NVZW5id3hnRmdITDkySEJKZmlaT0V1Ml9CR1NPUnJNSVAtMExRRmFweFJSNTZucEtnYXVNaVZjTk0yLWZiSXRaX3pFaGdkbWJfNmxqUVNpQnAtUmJBVVEtdmp2cklzbDY0QkxaT2dYajdHTjhnTkZJZWNEMlkydS1hdWc?oc=5\" target=\"_blank\">Jammu & Kashmir Road Transport Corporation proposes procurement of 200 e-buses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPanBsQmUtVzl1WVF6cUhGSlVLQzRuMFREaEx1M0xCamJ0MmFsQzNOWGdjYnBTNjFfbHJXQk16YjJXWGszendINVB1bVBzVE9tVmN5SHlsaEVuNXZrekJRcndWWk55R0Y2MWFpcHQ5NGRwVFZCajU0NlQ3NFhxbkR6bUZWWVZXYmloa0stSzhZVVhxdlYxbEc2SndFa0xuRjI3Z09ObjZnek95UzR5eFh5TEszY2FGOFFOU0llbjhXRUpCajM5SklKX2pCeTJKYWVYbE15NVhZSl84VFhHNzZzZ0ttVEs5T2lMQVM4cnpSazRjTUZPbmFsOE56OUVCd9IBggJBVV95cUxQYWJnWHdKME9Jam1ZYjlDOXgxWmRVbWU5M0tmYzdYZUZYVWlGNWsxWGhhVjQtRWV2S1NPdnplMmtGbld3RjRTQ0lsbjJZU2JxcE4teldKQ2xlRWhZb0xGbm1PMW51cWE3V3BsU2F2WGk0SFJfN0g3RnhKOEdhTkpJdm43ckZNT3NVZW5id3hnRmdITDkySEJKZmlaT0V1Ml9CR1NPUnJNSVAtMExRRmFweFJSNTZucEtnYXVNaVZjTk0yLWZiSXRaX3pFaGdkbWJfNmxqUVNpQnAtUmJBVVEtdmp2cklzbDY0QkxaT2dYajdHTjhnTkZJZWNEMlkydS1hdWc?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5\" target=\"_blank\">UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "J&K Intends To Fully Utilise Suspension Of Indus Water Treaty: Omar Abdullah",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxORkVxRU95T1FIeHdhajZwZW0zWTNkY3ItSkNnczdiaWRCWXpubW1YV0NlejNHckRWWnNaVFI0Rk9FRmVZWUQtTU04c0tPcFlSVWN6dmxEMHRlcTNrM3I2UnM2WUNTZnNDRk53ZmYyV0ZGanF5cWRUdV95U2hzVklWcGZieVVHbzhBYjBOcmJHejlkeG1DN2dDY2pZVGsxNVV6U3R5eUs4d0tMSmNMNFhOVTRwMzJua0FNTWtHRm5OX3kzTXNVLWJ6NW1vOWJ1VWRBcnBGN2FwQXTSAeABQVVfeXFMTW4xTXJaRDMyTkhKdGk2d0VRY3BnWEpNNGZ2TmlaQ3Axa0tQcWRENE92alVZSWM3TW9kbGNvVEx6aEtnSzRYckRlWFYzblNZSnZ1WnFYX2RUNWtxUFRlNmtrTjl3djhlbXhqblhEZEk1WnJ4SlBqYXpmU3g3OHJrWWYxZFNGSmdFbXlQbVFremtZVzdKRlI5NlNSbzNza21CUm9CTmRmbF9jdVhsLTVxbGJrLVd6NW8yMVhHa1lvUUNXc0pBcXBDV3NYRGtLSVhWalhhN3ZHVUstQzRTck5GX2Y?oc=5\" target=\"_blank\">J&amp;K Intends To Fully Utilise Suspension Of Indus Water Treaty: Omar Abdullah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORkVxRU95T1FIeHdhajZwZW0zWTNkY3ItSkNnczdiaWRCWXpubW1YV0NlejNHckRWWnNaVFI0Rk9FRmVZWUQtTU04c0tPcFlSVWN6dmxEMHRlcTNrM3I2UnM2WUNTZnNDRk53ZmYyV0ZGanF5cWRUdV95U2hzVklWcGZieVVHbzhBYjBOcmJHejlkeG1DN2dDY2pZVGsxNVV6U3R5eUs4d0tMSmNMNFhOVTRwMzJua0FNTWtHRm5OX3kzTXNVLWJ6NW1vOWJ1VWRBcnBGN2FwQXTSAeABQVVfeXFMTW4xTXJaRDMyTkhKdGk2d0VRY3BnWEpNNGZ2TmlaQ3Axa0tQcWRENE92alVZSWM3TW9kbGNvVEx6aEtnSzRYckRlWFYzblNZSnZ1WnFYX2RUNWtxUFRlNmtrTjl3djhlbXhqblhEZEk1WnJ4SlBqYXpmU3g3OHJrWWYxZFNGSmdFbXlQbVFremtZVzdKRlI5NlNSbzNza21CUm9CTmRmbF9jdVhsLTVxbGJrLVd6NW8yMVhHa1lvUUNXc0pBcXBDV3NYRGtLSVhWalhhN3ZHVUstQzRTck5GX2Y?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Capacity Building Commission Hosts 3rd Capacity Building Plans Workshop in Naya Raipur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWkMyR1VGOEtuTno3OS1hc20wR1FXd3R3Y2dvVW4zTFdZR3VMWHFNQ2cxTkFiM2Y3eVhIMkdRYUw5U2tRX2FIUjI0YTRBSG9HNWdINUlnNHhZNmNMYmpyWEJuTXpBWHdM?oc=5\" target=\"_blank\">Capacity Building Commission Hosts 3rd Capacity Building Plans Workshop in Naya Raipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWkMyR1VGOEtuTno3OS1hc20wR1FXd3R3Y2dvVW4zTFdZR3VMWHFNQ2cxTkFiM2Y3eVhIMkdRYUw5U2tRX2FIUjI0YTRBSG9HNWdINUlnNHhZNmNMYmpyWEJuTXpBWHdM?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 23 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Union Minister of State Prof. S.P. Singh Baghel Felicitates Panchayat Leaders Invited as Special Guests for Republic Day 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3E5d084dURCTEY2YUFwTXAxNEVGZzlndmlkMDVxRzl5a2kySXZGbVdoOGFyZGpSVHhWMHlSSEFFWkdha2VsQ2tHSHJ4aXBBNFZ0WVRndlZtSFgzZ2tybWJtcmxnZm1pdDZj?oc=5\" target=\"_blank\">Union Minister of State Prof. S.P. Singh Baghel Felicitates Panchayat Leaders Invited as Special Guests for Republic Day 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3E5d084dURCTEY2YUFwTXAxNEVGZzlndmlkMDVxRzl5a2kySXZGbVdoOGFyZGpSVHhWMHlSSEFFWkdha2VsQ2tHSHJ4aXBBNFZ0WVRndlZtSFgzZ2tybWJtcmxnZm1pdDZj?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Prime Minister Shri Narendra Modi interacts with students from Coimbatore, Raipur, Devmogra and Guwahati in the second episode of Pariksha Pe Charcha 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbnhEWjBBc0RET0lES2ZZQVltR1hKLXVwNm4wSVZkVFJQb3AzNkFCdXdFXzdvMzR4Wm9YZ0ltc0lySnZmelFMMzJ5ZldmYXJFTlJLNU41NFczX1RKSHlQcHJIekV3UFRJ?oc=5\" target=\"_blank\">Prime Minister Shri Narendra Modi interacts with students from Coimbatore, Raipur, Devmogra and Guwahati in the second episode of Pariksha Pe Charcha 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbnhEWjBBc0RET0lES2ZZQVltR1hKLXVwNm4wSVZkVFJQb3AzNkFCdXdFXzdvMzR4Wm9YZ0ltc0lySnZmelFMMzJ5ZldmYXJFTlJLNU41NFczX1RKSHlQcHJIekV3UFRJ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:44+00:00"
+  }
+ ]
+}

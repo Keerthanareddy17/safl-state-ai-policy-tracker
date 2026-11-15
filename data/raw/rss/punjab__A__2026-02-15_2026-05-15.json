@@ -1,0 +1,164 @@
+{
+ "region": "Punjab",
+ "group": "A",
+ "query": "(Punjab) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Punjab%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:21+00:00",
+ "item_count": 14,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab's AI-powered voice recognition system houses 'Voice Bank' with samples of known criminals, suspects",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQekdfbWJDSGRqSEVUZm1YbXpFZTNTNDM2eVhnd1JpRUtCcnYzN3A3OTZyQ0xDUnY5cGExblRUdVUyLUM0QVlGNmttZ3lrWExOQ1JxYjN1Z3dpTDI1UWFsNkRaejJxNXZfUFFYM1A5WmFhSjNDeTV4Zk9EZmxIcE0yZDJkTTFPTmJ2azFlREo4VnBCUHpaNkZ2OUFkTE9KYTQ3YzF0ZGpyMkxPdUNsTzJiWjhuWFhmNUJRV3RaV0dHcTk3cnBXOC0wWFM2clNYeVFtX3ppdDZKMG1pd1lKY25lNm5memczSVZi0gH2AUFVX3lxTE5RQkdYY25Bak9ZYTdIejJ0TUJrSUpzN2ViSXdwU3Z3aWVIN1ljNy1fSzNDcWJSOENqejFoNGVvMEotYWZVZGd6YkxwWFEtTG85cGtQcS1hLW0tRkFqQjFnS0hyTXRVcUxkeG0tUlpfVVA0LWsyN3V5QU1WQnBRMWI4RGVOSm9IZ0xqekNpMVduM1E1aUhBTDhFRV9MeG1oMVZIWEQ2aXN5cGcxZXVmVnF1aHZuWHpkUGk3aGp1T3o0X1dxMXU1TFJqaGtoc2xiMFdwUlpqbXExOVgySEJ0MTIxTUlfZFgwUHZycFYyZVRfS2RsZkJYZw?oc=5\" target=\"_blank\">Punjab's AI-powered voice recognition system houses 'Voice Bank' with samples of known criminals, suspects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQekdfbWJDSGRqSEVUZm1YbXpFZTNTNDM2eVhnd1JpRUtCcnYzN3A3OTZyQ0xDUnY5cGExblRUdVUyLUM0QVlGNmttZ3lrWExOQ1JxYjN1Z3dpTDI1UWFsNkRaejJxNXZfUFFYM1A5WmFhSjNDeTV4Zk9EZmxIcE0yZDJkTTFPTmJ2azFlREo4VnBCUHpaNkZ2OUFkTE9KYTQ3YzF0ZGpyMkxPdUNsTzJiWjhuWFhmNUJRV3RaV0dHcTk3cnBXOC0wWFM2clNYeVFtX3ppdDZKMG1pd1lKY25lNm5memczSVZi0gH2AUFVX3lxTE5RQkdYY25Bak9ZYTdIejJ0TUJrSUpzN2ViSXdwU3Z3aWVIN1ljNy1fSzNDcWJSOENqejFoNGVvMEotYWZVZGd6YkxwWFEtTG85cGtQcS1hLW0tRkFqQjFnS0hyTXRVcUxkeG0tUlpfVVA0LWsyN3V5QU1WQnBRMWI4RGVOSm9IZ0xqekNpMVduM1E1aUhBTDhFRV9MeG1oMVZIWEQ2aXN5cGcxZXVmVnF1aHZuWHpkUGk3aGp1T3o0X1dxMXU1TFJqaGtoc2xiMFdwUlpqbXExOVgySEJ0MTIxTUlfZFgwUHZycFYyZVRfS2RsZkJYZw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sat, 02 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "HC notice to Centre, Google, Meta, X over plea for regulation of AI content",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGd1ajdwVUJrUEdLSlNac053VlN5Q1BpVUVLVV9iZUtKaUZGSm1LZjVDSjJhOE1GcGJWS1NDdnBBek9fbmNwWks0SFdSNm9GNG55RnRyZWp0U2pRWWZDaVlKTlktUFJhUEc5MnJ4OTJIdExfckJ0LW9NWUhJVE9kbXFRdFVhTHAzdnNfLTBYTl9oZHlNV1hVZUZycVBXTmJRaGNFRXpZTTZPeFFMRVhuVXl6bE5mRDFFTnVMRVQwa0RuVmNQazRKN0k3ZC1wN0xVMjlYOHB3SlhvQmIySHhiSklDUmI1cVh4N0xaZ0tmNkpOMHUwdFpFRWVpM0h5eGZCM2dORjRyX3AzR2tRZUHSAZICQVVfeXFMT09UVDhqRXBFVUdJZUdhLXRFNWFMd1I0a3FYbUMwSmlMZS1NWjBQd0Q1d1dLUzd3aTV4OG10R2Y4eS1GQUh0TmlkMXNNNW9VaUltTmRaUy1tdnZzQnBVd1J3Q3FQZ0JWTE9qaG9ZeHJqbWFSMk9CUzJNMVhyWndiaF9OWFd5ZzNwWFI3eGtheTlNMFYtVFRYZ0pMUzNKa1d5UmxTaUZpMHRRYjFRSm5fT0p6dUg2cFltaHNBNzBOVVNiaGctNjRGUldMbVNHNVdyQTJwcjRrYmZKS29FNWgtOE54YmkxZ2l0dHBNRGRHNjlyXzRIdG1TdF9vaHpMZmN6SWdzeDRDQUNvMTZvdVRfRU5WQQ?oc=5\" target=\"_blank\">HC notice to Centre, Google, Meta, X over plea for regulation of AI content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETLegalWorld.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGd1ajdwVUJrUEdLSlNac053VlN5Q1BpVUVLVV9iZUtKaUZGSm1LZjVDSjJhOE1GcGJWS1NDdnBBek9fbmNwWks0SFdSNm9GNG55RnRyZWp0U2pRWWZDaVlKTlktUFJhUEc5MnJ4OTJIdExfckJ0LW9NWUhJVE9kbXFRdFVhTHAzdnNfLTBYTl9oZHlNV1hVZUZycVBXTmJRaGNFRXpZTTZPeFFMRVhuVXl6bE5mRDFFTnVMRVQwa0RuVmNQazRKN0k3ZC1wN0xVMjlYOHB3SlhvQmIySHhiSklDUmI1cVh4N0xaZ0tmNkpOMHUwdFpFRWVpM0h5eGZCM2dORjRyX3AzR2tRZUHSAZICQVVfeXFMT09UVDhqRXBFVUdJZUdhLXRFNWFMd1I0a3FYbUMwSmlMZS1NWjBQd0Q1d1dLUzd3aTV4OG10R2Y4eS1GQUh0TmlkMXNNNW9VaUltTmRaUy1tdnZzQnBVd1J3Q3FQZ0JWTE9qaG9ZeHJqbWFSMk9CUzJNMVhyWndiaF9OWFd5ZzNwWFI3eGtheTlNMFYtVFRYZ0pMUzNKa1d5UmxTaUZpMHRRYjFRSm5fT0p6dUg2cFltaHNBNzBOVVNiaGctNjRGUldMbVNHNVdyQTJwcjRrYmZKS29FNWgtOE54YmkxZ2l0dHBNRGRHNjlyXzRIdG1TdF9vaHpMZmN6SWdzeDRDQUNvMTZvdVRfRU5WQQ?oc=5",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "legal.economictimes.indiatimes.com",
+   "published_raw": "Sat, 07 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Police, IIT Ropar sign MoU to build AI system for real-time crime tracking",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQenZSOGw3bXNrM2ZVOE1tZHpxcWxIeE5ZaGlQMnhwRi1SWlczVjZRYjd1Z2FsZ0FJVFlMQld2OVg0cjNaemJKMUo0TGEwckVmVmZIaDVSUWdkLVlJM2ZmUzF4Z3cxdmxMaTZwaDdyaFJMR1c0cXRPa0hoM0xPaDJ3SGszTEV5Y3VYSGRRZFBTX01uZ3dvMG9YWnlIM0c5aFMteC0wUTlIV240TTd6c3B3MEJwbmpvdw?oc=5\" target=\"_blank\">Punjab Police, IIT Ropar sign MoU to build AI system for real-time crime tracking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial World</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenZSOGw3bXNrM2ZVOE1tZHpxcWxIeE5ZaGlQMnhwRi1SWlczVjZRYjd1Z2FsZ0FJVFlMQld2OVg0cjNaemJKMUo0TGEwckVmVmZIaDVSUWdkLVlJM2ZmUzF4Z3cxdmxMaTZwaDdyaFJMR1c0cXRPa0hoM0xPaDJ3SGszTEV5Y3VYSGRRZFBTX01uZ3dvMG9YWnlIM0c5aFMteC0wUTlIV240TTd6c3B3MEJwbmpvdw?oc=5",
+   "source_name": "The Financial World",
+   "source_domain": "thefinancialworld.com",
+   "published_raw": "Thu, 16 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "How Punjab Police is Using AI to Combat Gang Violence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWktekdiYnlPbTJzNWhjYVoxZi1MZkhFZC05Q2kxa1k5WmhTV0J4cTFLSEM0aVM0OXNPV243T1hkdVNkZU16MU4xdDZzT0xYVGhCS3o0eVgtZVZEdHc4dmRPMlMzNTRJZG42ejdhZ055RFMxN0xLNUdHdEppSkgwbUFRTXZkcGdfSE5yZ05QZGhZazBWTFBBU2hHcFFTMFNOdy1QZdIBpwFBVV95cUxORWZ3cE9jcEZWNW8zcDE2aHNIcHM1VE5YOHVMS3JJVnlwMU9KNjk4c2RVV2p6eGZLakxJTUdnbExiYU5iTnR4ZnlZVDNLRlQyZC1aY2NiR1Jac1lYRHY5Y2toQ1R6dDR6cXd1UmlOaGJ4NzZINktQcHZqSERzYnhybjJsZmVyM0FxN05wRTlTWUcyN184TmpMRGtkbTNnM1pHWGhhUklkMA?oc=5\" target=\"_blank\">How Punjab Police is Using AI to Combat Gang Violence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWktekdiYnlPbTJzNWhjYVoxZi1MZkhFZC05Q2kxa1k5WmhTV0J4cTFLSEM0aVM0OXNPV243T1hkdVNkZU16MU4xdDZzT0xYVGhCS3o0eVgtZVZEdHc4dmRPMlMzNTRJZG42ejdhZ055RFMxN0xLNUdHdEppSkgwbUFRTXZkcGdfSE5yZ05QZGhZazBWTFBBU2hHcFFTMFNOdy1QZdIBpwFBVV95cUxORWZ3cE9jcEZWNW8zcDE2aHNIcHM1VE5YOHVMS3JJVnlwMU9KNjk4c2RVV2p6eGZLakxJTUdnbExiYU5iTnR4ZnlZVDNLRlQyZC1aY2NiR1Jac1lYRHY5Y2toQ1R6dDR6cXd1UmlOaGJ4NzZINktQcHZqSERzYnhybjJsZmVyM0FxN05wRTlTWUcyN184TmpMRGtkbTNnM1pHWGhhUklkMA?oc=5",
+   "source_name": "Rediff",
+   "source_domain": "rediff.com",
+   "published_raw": "Tue, 10 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "India's PNB hikes cybersecurity spend as AI models including Anthropic’s Mythos raise risks",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEgwQ3lNNFZUWXo0WUgxLVdOZTlTdlpMNkU4WDEwNHNyMjVaWUdOWTFUTXJFU0VaMTl3N1pFczJkX0xKU1VTRi1udlA3S1R1LXJOX1V0RzZTeFUybnJ1bmgtMVpWMkxoNTYxRzV3OXk2UTdJUDRwaFhvSjktZThEYTFNTzBfaG1VRjFSc1V4ZnppOFJ0UXRLTG9XOTNlN3piVXZzbnZsVmZEOWJ4dE1Gc1FCUXpacWRlWHpKNWFUM3BNeEVZSVg0U005Q3pOcmpDWGVILUVtNUoyQU5PM2lybFEyZ2drcGhsYlUzUQ?oc=5\" target=\"_blank\">India's PNB hikes cybersecurity spend as AI models including Anthropic’s Mythos raise risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEgwQ3lNNFZUWXo0WUgxLVdOZTlTdlpMNkU4WDEwNHNyMjVaWUdOWTFUTXJFU0VaMTl3N1pFczJkX0xKU1VTRi1udlA3S1R1LXJOX1V0RzZTeFUybnJ1bmgtMVpWMkxoNTYxRzV3OXk2UTdJUDRwaFhvSjktZThEYTFNTzBfaG1VRjFSc1V4ZnppOFJ0UXRLTG9XOTNlN3piVXZzbnZsVmZEOWJ4dE1Gc1FCUXpacWRlWHpKNWFUM3BNeEVZSVg0U005Q3pOcmpDWGVILUVtNUoyQU5PM2lybFEyZ2drcGhsYlUzUQ?oc=5",
+   "source_name": "Reuters",
+   "source_domain": "reuters.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab and Haryana high court bars AI use in judgments, legal research; warns of strict action",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2lVOWRqLUEyeFl3QkFxLVhXV2NmOVlWT0tiU1JVa2FqaFowcmRhQjVSTldCMGg3aU1IU3VnWUVxdlh1NTdZMUcxT3VHVmZ1UlBabEo2TmpyMElXSGJyb3ZqTnBpNXBBZ09lZndXd0JndUN3cnVjc0tWMzVDaHFRS3NoYUpKRklsOEpDWDBubVVBb2tZT010UDJBa0V2T1FMempRVlAyd0xhZFRydFlUV1VJY2VUMFctU2E0ZVhaUDd3T0dyaS1sQ0tpRllqanBycGZpSVc1bEpDTkJKdVBOamFCVVlyQTV3OUliMlZFU1RKLXY0TXJxWNIB_gFBVV95cUxQaUZhdGJRQ21lTDRIYm5ucG40MTNpQnBUZmZZNlJYMmVIbmNub3JiMFUxQjB0ekRmMjFRaXdWckRsR2pVZVRJZzc4bHhITm02ZlU0cU1VcVhXS1NLZk0xNUlsWllhZGIwUU9OU0NnTGtEODRLanBSVFRmMXhXV0NsTUtkOTlfN19hNHppcENSZEdoYVhUOG9qOWc1eUZVT1djX0M4d1pNeXJ2bWVrZXlPaTBYaEFGbTg5X0FhRFQtVktVd0xwdlZ3Z2hpelVyQ09KSU44T09GU2RsYkpCX2d3MjQ0NWJTcnR5MzlRV3YzM2tranY4LXNkVTg2aFhTQQ?oc=5\" target=\"_blank\">Punjab and Haryana high court bars AI use in judgments, legal research; warns of strict action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2lVOWRqLUEyeFl3QkFxLVhXV2NmOVlWT0tiU1JVa2FqaFowcmRhQjVSTldCMGg3aU1IU3VnWUVxdlh1NTdZMUcxT3VHVmZ1UlBabEo2TmpyMElXSGJyb3ZqTnBpNXBBZ09lZndXd0JndUN3cnVjc0tWMzVDaHFRS3NoYUpKRklsOEpDWDBubVVBb2tZT010UDJBa0V2T1FMempRVlAyd0xhZFRydFlUV1VJY2VUMFctU2E0ZVhaUDd3T0dyaS1sQ0tpRllqanBycGZpSVc1bEpDTkJKdVBOamFCVVlyQTV3OUliMlZFU1RKLXY0TXJxWNIB_gFBVV95cUxQaUZhdGJRQ21lTDRIYm5ucG40MTNpQnBUZmZZNlJYMmVIbmNub3JiMFUxQjB0ekRmMjFRaXdWckRsR2pVZVRJZzc4bHhITm02ZlU0cU1VcVhXS1NLZk0xNUlsWllhZGIwUU9OU0NnTGtEODRLanBSVFRmMXhXV0NsTUtkOTlfN19hNHppcENSZEdoYVhUOG9qOWc1eUZVT1djX0M4d1pNeXJ2bWVrZXlPaTBYaEFGbTg5X0FhRFQtVktVd0xwdlZ3Z2hpelVyQ09KSU44T09GU2RsYkpCX2d3MjQ0NWJTcnR5MzlRV3YzM2tranY4LXNkVTg2aFhTQQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Bank of Punjab, Office of AI Sign MoU for AI Infrastructure",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGQ5Uzh2X3prOVlXTVV5U29hUlZSODNZSzhJUVRlRDFCbTJCVjhYU2xNSVV1bjN1NXZSSUp6cEpQd2tuQkV0TFdFa0s1QmMxS2otSElOTlhobUJpM1paN0R1eXpvVXlzWFpvNmdRdnhObUlLR2VRbElITVBaQ09TcXFUbkZSZkV2T2w2U1UxMA?oc=5\" target=\"_blank\">Bank of Punjab, Office of AI Sign MoU for AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Pakistan</font>",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGQ5Uzh2X3prOVlXTVV5U29hUlZSODNZSzhJUVRlRDFCbTJCVjhYU2xNSVV1bjN1NXZSSUp6cEpQd2tuQkV0TFdFa0s1QmMxS2otSElOTlhobUJpM1paN0R1eXpvVXlzWFpvNmdRdnhObUlLR2VRbElITVBaQ09TcXFUbkZSZkV2T2w2U1UxMA?oc=5",
+   "source_name": "Digital Pakistan",
+   "source_domain": "digitalpakistan.pk",
+   "published_raw": "Sat, 11 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab & Haryana High Court cautions judges against using AI for writing verdicts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNk9BalYtZnl1NUtuUU9lcWZJdXBlWEZPMUlEbklxVUZvSjV1ZmxHc2FxVHJEZVZOZmxWU2FSeW5UbWpXbm5fUjhBbW9xalVFWm9KT29QU2JMc2gyeEk3X3ZlQ1dsbzlQQlpUUUJsSldjQ20tT05iU1RUT3BYUmM1YU1LbVlTZFhtZ3BEXzIxMGZMNFJHWDNtdFFhOEpGTjZJS1hlbVE0WHBEMVhraGllbFFCbmhuVUdIUGpKcdIBwAFBVV95cUxPNHJPUS01U1BQdllDdlJ2aFRvb3NVNHZmcXdxTnk1MzlJMmVpSHQ4dXRjR1U4bGhCSVR1c0c5VExKSHVLWC00dlhfYWtIWHZ3QVFaaXpnRjNyZGFHelBMYkthb1d4Wkd3VG0zdVJHNG0wbjlXcWlJdld1UmtnRS0wcVpFZHJqbDN3SHBqMlh6ZmNZMjhtWE1RWU44cWNlZTB3djMxV1dnZEh2TXhPZHFpZmhYbVE3bFlLM19RZ1B1N1Y?oc=5\" target=\"_blank\">Punjab & Haryana High Court cautions judges against using AI for writing verdicts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNk9BalYtZnl1NUtuUU9lcWZJdXBlWEZPMUlEbklxVUZvSjV1ZmxHc2FxVHJEZVZOZmxWU2FSeW5UbWpXbm5fUjhBbW9xalVFWm9KT29QU2JMc2gyeEk3X3ZlQ1dsbzlQQlpUUUJsSldjQ20tT05iU1RUT3BYUmM1YU1LbVlTZFhtZ3BEXzIxMGZMNFJHWDNtdFFhOEpGTjZJS1hlbVE0WHBEMVhraGllbFFCbmhuVUdIUGpKcdIBwAFBVV95cUxPNHJPUS01U1BQdllDdlJ2aFRvb3NVNHZmcXdxTnk1MzlJMmVpSHQ4dXRjR1U4bGhCSVR1c0c5VExKSHVLWC00dlhfYWtIWHZ3QVFaaXpnRjNyZGFHelBMYkthb1d4Wkd3VG0zdVJHNG0wbjlXcWlJdld1UmtnRS0wcVpFZHJqbDN3SHBqMlh6ZmNZMjhtWE1RWU44cWNlZTB3djMxV1dnZEh2TXhPZHFpZmhYbVE3bFlLM19RZ1B1N1Y?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Police deploys AI-powered ‘PAIS’ to dismantle gangster networks; creates 84,000-sample ‘Voice Bank’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbUxwTXNSNTVxMjdFM2tlSnlZb1FmR19PWFJTUHNSQ0NzZElCb0ZWVWpRMUxFaXNndlFsZjRGbzFJeG8wSzcxYnFwbUx1d0NoNDFydDFSRm5DNHA4WkhlSVVKVjJZY3ZVWEotWkRMVUUybVNMUDFtX0h2dGZDbnkxbFItSUtjTXZCelg4TkYxdmZJcEpzZUdCdnY0SERJelU5cFRVb2lyZWpsNmxzd1JhTWhCWUE5d3JHSERhaHlsN0Rld3BEVkVpajJpcWlZUEc2TXlacXR6UHBXVWtSXzBRN01MbmVSUdIB6wFBVV95cUxONVUzQ2puQXk2aE9pLVp6RUh5clVKZzNTa01HbnlpT2doOVpQdnM2ZXhpbmlIZ3NhUFZJM3VFRG43amFkelV0aElOSHlrbkRrSFNGZTdmX2x0NTRyeXh5UWJLN3RORmsybFdpY3o1dlUxMGYxUVRuVGRIQjl0aHJKWF9yV1AySTl0UFRnbkZHd0o0ZVZRQ2xXNGtqZnpNOEd6dGhNakJWX0JqaXJ4MnNHbVRQQ2pubzNkcm9xZFpsdUVOYjdBaTVJQ2dBNWp6ekZuWldIWWRpaVJVbHM2aGVGdkI0QWpndjBiQlg0?oc=5\" target=\"_blank\">Punjab Police deploys AI-powered ‘PAIS’ to dismantle gangster networks; creates 84,000-sample ‘Voice Bank’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbUxwTXNSNTVxMjdFM2tlSnlZb1FmR19PWFJTUHNSQ0NzZElCb0ZWVWpRMUxFaXNndlFsZjRGbzFJeG8wSzcxYnFwbUx1d0NoNDFydDFSRm5DNHA4WkhlSVVKVjJZY3ZVWEotWkRMVUUybVNMUDFtX0h2dGZDbnkxbFItSUtjTXZCelg4TkYxdmZJcEpzZUdCdnY0SERJelU5cFRVb2lyZWpsNmxzd1JhTWhCWUE5d3JHSERhaHlsN0Rld3BEVkVpajJpcWlZUEc2TXlacXR6UHBXVWtSXzBRN01MbmVSUdIB6wFBVV95cUxONVUzQ2puQXk2aE9pLVp6RUh5clVKZzNTa01HbnlpT2doOVpQdnM2ZXhpbmlIZ3NhUFZJM3VFRG43amFkelV0aElOSHlrbkRrSFNGZTdmX2x0NTRyeXh5UWJLN3RORmsybFdpY3o1dlUxMGYxUVRuVGRIQjl0aHJKWF9yV1AySTl0UFRnbkZHd0o0ZVZRQ2xXNGtqZnpNOEd6dGhNakJWX0JqaXJ4MnNHbVRQQ2pubzNkcm9xZFpsdUVOYjdBaTVJQ2dBNWp6ekZuWldIWWRpaVJVbHM2aGVGdkI0QWpndjBiQlg0?oc=5",
+   "source_name": "The Statesman",
+   "source_domain": "thestatesman.com",
+   "published_raw": "Sat, 02 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab’s AI office, BoP sign MoU",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qck54Q0dVQlJraUxwZ0ZJajNraTBRUEVaUzFVRHNJVEhUWHZ4dGJjWHcwSzNNNkw1dzRhRDRQZmo1em1DMnpWOUFfMTF2clhGR1EwTlVJSW1OUURzQ1VXSDVybW1HLWlMcVQ5R1VZV3RqamVNaHNJcWJB0gFWQVVfeXFMT3RTSHNuenNCWFZsTmlRRUdxQ1ZTRVo2TWV0NFZpd080N2VfYlhVOXVSYndLTVFnYm1pVXBpY05TeWNueGNja1ZfYU1qa1UzSUtIQURONnc?oc=5\" target=\"_blank\">Punjab’s AI office, BoP sign MoU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Recorder</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qck54Q0dVQlJraUxwZ0ZJajNraTBRUEVaUzFVRHNJVEhUWHZ4dGJjWHcwSzNNNkw1dzRhRDRQZmo1em1DMnpWOUFfMTF2clhGR1EwTlVJSW1OUURzQ1VXSDVybW1HLWlMcVQ5R1VZV3RqamVNaHNJcWJB0gFWQVVfeXFMT3RTSHNuenNCWFZsTmlRRUdxQ1ZTRVo2TWV0NFZpd080N2VfYlhVOXVSYndLTVFnYm1pVXBpY05TeWNueGNja1ZfYU1qa1UzSUtIQURONnc?oc=5",
+   "source_name": "Business Recorder",
+   "source_domain": "brecorder.com",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab and Haryana High Court bars judicial officers from using AI tools to write judgments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1ZUUkhHX0NTYWlERnBranRiZWQ2YndMV2ZyaWRqMG1faENsY3lrMEFaRGF6bFV0NVZfcTFzcVNnVTBNZ1FQYVEzcTBHWmFvZk9MWmdIb054TFhCWmFleHVkRlk1X3ZBOW8wWE50UnFrSWZIVnpxYzZWVnFycnhqel93ZXVtMmNNQ3dCbWwxSEpjSWlNckNZd1hMRjJyZXBNZ1BpQVZRclY2ZWh0Njh0T1VpWXhtTmt1NGVRdWJnNkhHYTl2dkpwdnBpRHllZDhRdEQ1UlFJZDdwWHVTV3JQaWl4eXROdW42ZWcwS1BDNVh5SzJLYVVCUWo0d0lWd9IBgwJBVV95cUxPSUY4cm9qOWdhbVhHZ3ZSSnZzWldwVGRtLVVaYm92MVBQeW1BbW1jZ2Z1WjhUZW8xT29mNFVRM0p4UDF5TjdERDBfak5iVnpSekJVVkdhT3B4WUw5aHRlOTFKT2ozdEhfdU5HQTZnUVAzTTJBWDFiOUgtejB4V1psNmpKYU5ON0tTOEZFV0VST1ViVDRvVEpKYnlhWS16anpTemFJb1pMS0hOYk16Vy11Ymt6UGZMXzJnT0dHV3VERE1MQWM4cGFYVTRsYi1fX0trMlJENEU4Z0gwTmNuNDZiUmRhUUhkSlpVbklNRi1hZEkxVDh5NXhINHdrOG40djdOcHJn?oc=5\" target=\"_blank\">Punjab and Haryana High Court bars judicial officers from using AI tools to write judgments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1ZUUkhHX0NTYWlERnBranRiZWQ2YndMV2ZyaWRqMG1faENsY3lrMEFaRGF6bFV0NVZfcTFzcVNnVTBNZ1FQYVEzcTBHWmFvZk9MWmdIb054TFhCWmFleHVkRlk1X3ZBOW8wWE50UnFrSWZIVnpxYzZWVnFycnhqel93ZXVtMmNNQ3dCbWwxSEpjSWlNckNZd1hMRjJyZXBNZ1BpQVZRclY2ZWh0Njh0T1VpWXhtTmt1NGVRdWJnNkhHYTl2dkpwdnBpRHllZDhRdEQ1UlFJZDdwWHVTV3JQaWl4eXROdW42ZWcwS1BDNVh5SzJLYVVCUWo0d0lWd9IBgwJBVV95cUxPSUY4cm9qOWdhbVhHZ3ZSSnZzWldwVGRtLVVaYm92MVBQeW1BbW1jZ2Z1WjhUZW8xT29mNFVRM0p4UDF5TjdERDBfak5iVnpSekJVVkdhT3B4WUw5aHRlOTFKT2ozdEhfdU5HQTZnUVAzTTJBWDFiOUgtejB4V1psNmpKYU5ON0tTOEZFV0VST1ViVDRvVEpKYnlhWS16anpTemFJb1pMS0hOYk16Vy11Ymt6UGZMXzJnT0dHV3VERE1MQWM4cGFYVTRsYi1fX0trMlJENEU4Z0gwTmNuNDZiUmRhUUhkSlpVbklNRi1hZEkxVDh5NXhINHdrOG40djdOcHJn?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab AI curriculum ready",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybnY2aEswa2tXalpROFk2b0FPUjBCdl9HaldLUUtCNmlEbTF0bXZCLS1CY2piY19tMVZ2ektzc0kwcHFaR0ZYZEVsT3JhdlBySl9iUFJtVGVwSDFQQlU1TzZKMWppMC0tSUFqblYtekbSAXhBVV95cUxON1NwYkpabWxOWlFMNmFuSWJaWnhPRmY2c29tOFpqeUdzMjlWa3JjNkl5SzZUQmVGSHQ3T0ZvVl9MMUJVeUJSRnF0NHZmSHhmcG4tT1lGaU1qTV9ScmRPdGlvTVNsTzh6dEdZVWNPX2UtV01jREVmTlY?oc=5\" target=\"_blank\">Punjab AI curriculum ready</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybnY2aEswa2tXalpROFk2b0FPUjBCdl9HaldLUUtCNmlEbTF0bXZCLS1CY2piY19tMVZ2ektzc0kwcHFaR0ZYZEVsT3JhdlBySl9iUFJtVGVwSDFQQlU1TzZKMWppMC0tSUFqblYtekbSAXhBVV95cUxON1NwYkpabWxOWlFMNmFuSWJaWnhPRmY2c29tOFpqeUdzMjlWa3JjNkl5SzZUQmVGSHQ3T0ZvVl9MMUJVeUJSRnF0NHZmSHhmcG4tT1lGaU1qTV9ScmRPdGlvTVNsTzh6dEdZVWNPX2UtV01jREVmTlY?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Mon, 06 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Prof. (Dr.) Karamjeet Singh On Ethics, AI, And “Punjabi First” At Guru Nanak Dev University",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZmNPZXgxeFVNOVZOZlA5dE4xaW1IeGlBLW5EbnBCX2FSNFdlMU1pZ1YtdGxXMHN1YmpHQzU4R3kzTVFnbmE3OUZxbkZnV09OOUgxdmRHTTl6NkVOX1ZadS0ycVNrdkpuV21pMmpWOEVkcXkzdEhGQk1yMzZaWWRqcjNHeS1ZbGVoVmlGcGpzZUFhb001U08xbENNb1doLTl2OUFPNDdrdjJFdW5hdjRBNHZRZkZEcmdaSWpadU10M25pdFRFMEVsN1ltVFk2RjREYTdIT0RueUJfQdIB5wFBVV95cUxOZWpmRGpTZ3VpZlVDRXlVWUpHNjlOaGt5WjVCeXVLc3pDeVBkZ1I2ODBweWYzX1o3anZBTjBpQzhlYUp5S2plNkVHQ3R6ZGQ1V0VNVGRQU0NsSXlBSmRfeE9HVWxjLVhkaUNRNmhmdXlwN0xkQUhCbGpnZnptNU5OUEJCUE1CdENRTmgwdDlFSmtuRnY2dXRuRnQ5M0xNcjZQN05SY3VRNl8xQTNPd1NnSWZCNFRZdVIwUnlqS2JGdkNCbDYzZk5WcjNEdi1PQm8ta3B6T3EzN2t0cnBWaHVLNjNOdmx1NUE?oc=5\" target=\"_blank\">Prof. (Dr.) Karamjeet Singh On Ethics, AI, And “Punjabi First” At Guru Nanak Dev University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZmNPZXgxeFVNOVZOZlA5dE4xaW1IeGlBLW5EbnBCX2FSNFdlMU1pZ1YtdGxXMHN1YmpHQzU4R3kzTVFnbmE3OUZxbkZnV09OOUgxdmRHTTl6NkVOX1ZadS0ycVNrdkpuV21pMmpWOEVkcXkzdEhGQk1yMzZaWWRqcjNHeS1ZbGVoVmlGcGpzZUFhb001U08xbENNb1doLTl2OUFPNDdrdjJFdW5hdjRBNHZRZkZEcmdaSWpadU10M25pdFRFMEVsN1ltVFk2RjREYTdIT0RueUJfQdIB5wFBVV95cUxOZWpmRGpTZ3VpZlVDRXlVWUpHNjlOaGt5WjVCeXVLc3pDeVBkZ1I2ODBweWYzX1o3anZBTjBpQzhlYUp5S2plNkVHQ3R6ZGQ1V0VNVGRQU0NsSXlBSmRfeE9HVWxjLVhkaUNRNmhmdXlwN0xkQUhCbGpnZnptNU5OUEJCUE1CdENRTmgwdDlFSmtuRnY2dXRuRnQ5M0xNcjZQN05SY3VRNl8xQTNPd1NnSWZCNFRZdVIwUnlqS2JGdkNCbDYzZk5WcjNEdi1PQm8ta3B6T3EzN2t0cnBWaHVLNjNOdmx1NUE?oc=5",
+   "source_name": "Outlook India",
+   "source_domain": "outlookindia.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab eyes AI superiority",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWnVNd1V2QnRlQ2N4YllqbDQxaDJ5VUlKZmpBMHgwVDhEcnJoV05ZM3FwUjVuVjFtUDdXSXE5V3R6MWZ0VUw4R0VkYVVuZVhlbVJ6THdVRWdFWGpSaWVMSmxvVVl3WWhSWmkyVUdZRFDSAXhBVV95cUxNQWlYeHlJaHllVkswREczNXBXNHU0NjJLcjhGQVZvdUk4YnVpbVAxMkx6Q2hvU3BsQkJTdmd4eVFBX2JoVGlUZUl1UVk1bVMtWFpGSThRWktZT2NDcUczUnNNQzQwVzFpMW1MZEh4M3dZeEZ0b3Q4cTU?oc=5\" target=\"_blank\">Punjab eyes AI superiority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWnVNd1V2QnRlQ2N4YllqbDQxaDJ5VUlKZmpBMHgwVDhEcnJoV05ZM3FwUjVuVjFtUDdXSXE5V3R6MWZ0VUw4R0VkYVVuZVhlbVJ6THdVRWdFWGpSaWVMSmxvVVl3WWhSWmkyVUdZRFDSAXhBVV95cUxNQWlYeHlJaHllVkswREczNXBXNHU0NjJLcjhGQVZvdUk4YnVpbVAxMkx6Q2hvU3BsQkJTdmd4eVFBX2JoVGlUZUl1UVk1bVMtWFpGSThRWktZT2NDcUczUnNNQzQwVzFpMW1MZEh4M3dZeEZ0b3Q4cTU?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Fri, 13 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:21+00:00"
+  }
+ ]
+}

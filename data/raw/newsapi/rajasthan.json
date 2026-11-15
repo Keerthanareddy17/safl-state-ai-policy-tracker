@@ -1,0 +1,42 @@
+{
+ "region": "Rajasthan",
+ "query": "(Rajasthan) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:48:05+00:00",
+ "total_results": 3,
+ "item_count": 3,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Rajasthan",
+   "title": "We Were Here: When a Group of Indian Uncles Declare War on AI",
+   "description": "The robots took their jobs, so a group of Indian uncles did the only sensible thing: they declared war. “We Were Here” is a mockumentary about regular intelligence fighting back against the artificial kind. Their battle plan leans on misinformation, a pizza t…",
+   "url": "https://www.geeksaresexy.net/2026/11/02/we-were-here-when-a-group-of-indian-uncles-declare-war-on-ai/",
+   "source_name": "Geeksaresexy.net",
+   "source_domain": "geeksaresexy.net",
+   "published_raw": "2026-11-02T17:00:05Z",
+   "fetched_at": "2026-11-15T09:48:05+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Rajasthan",
+   "title": "HC grants bail to man who created AI videos of CM to scam people",
+   "description": "Madras HC grants conditional bail to Rajasthan man accused of using AI videos impersonating Tamil Nadu CM C Joseph Vijay to scam people; probe completed.",
+   "url": "https://timesofindia.indiatimes.com/city/chennai/hc-grants-bail-to-man-who-created-ai-videos-of-cm-to-scam-people/articleshow/135151722.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-23T17:18:15Z",
+   "fetched_at": "2026-11-15T09:48:05+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Rajasthan",
+   "title": "VGGS: Gujarat woos Rajasthan investors",
+   "description": "Gujarat invites Rajasthan investors to Vibrant Gujarat Global Summit 2027 in Gandhinagar, highlighting policies, infrastructure and sectors from chemicals to AI.",
+   "url": "https://timesofindia.indiatimes.com/city/ahmedabad/vggs-gujarat-woos-rajasthan-investors/articleshow/135126083.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-22T18:40:47Z",
+   "fetched_at": "2026-11-15T09:48:05+00:00"
+  }
+ ]
+}

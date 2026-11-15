@@ -1,0 +1,109 @@
+{
+ "region": "Sikkim",
+ "group": "A",
+ "query": "(Sikkim) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Sikkim%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:45+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim startup Apuphi secures German investment, valued at $4.4 million",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONWUtUWN4dlFVcHgyTEZSYm42eTIyRlotdXFDLXFuSHlHMkJZLTR5ODN3S213Q3h1N1pCSXdVWnpzQ3RqNkVQTHNEeDNWTGl5b0RrTjNhSjJHdTRjSG5ValBXOGNqQXBObDE4YnpSRGZaTjNjRHNwV1kxZmFfVjNOUWZWaEdkTUtTMkE4OHV5ZUNfUnpuQmQtX1h0b3RVdWgyT0cyb3lVbWo4SERZVTlDeg?oc=5\" target=\"_blank\">Sikkim startup Apuphi secures German investment, valued at $4.4 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWUtUWN4dlFVcHgyTEZSYm42eTIyRlotdXFDLXFuSHlHMkJZLTR5ODN3S213Q3h1N1pCSXdVWnpzQ3RqNkVQTHNEeDNWTGl5b0RrTjNhSjJHdTRjSG5ValBXOGNqQXBObDE4YnpSRGZaTjNjRHNwV1kxZmFfVjNOUWZWaEdkTUtTMkE4OHV5ZUNfUnpuQmQtX1h0b3RVdWgyT0cyb3lVbWo4SERZVTlDeg?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "MIT University Sikkim Hosts AI Tools Workshop to Enhance Students' Practical AI Knowledge",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2wza29NeWhpbzlMTGNscG9URFFaN3BqYTNuNTd1cVJtLUdQc3NVRWw3T3VpdzNjVW03RVJEdVZxbzVKUEVLTU5rSTYxZ0hoVmlmZHFWZXNpUFBRYVNqX3NmMVhxX3hLUmh2cDFIcVd3dlQtdDQ1YU1EMnhBUlRCVnpvUU9BckUyeDVyV3REZnZoZFdXSHpwdjNhVm1uUTExQ0lEaVBOV0M4dFI4WFp0VklVaGVkT2Q3R1NrTHRob3V2US1xdG1mSEw4ZEI2bGs5WVhDWndn?oc=5\" target=\"_blank\">MIT University Sikkim Hosts AI Tools Workshop to Enhance Students' Practical AI Knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2wza29NeWhpbzlMTGNscG9URFFaN3BqYTNuNTd1cVJtLUdQc3NVRWw3T3VpdzNjVW03RVJEdVZxbzVKUEVLTU5rSTYxZ0hoVmlmZHFWZXNpUFBRYVNqX3NmMVhxX3hLUmh2cDFIcVd3dlQtdDQ1YU1EMnhBUlRCVnpvUU9BckUyeDVyV3REZnZoZFdXSHpwdjNhVm1uUTExQ0lEaVBOV0M4dFI4WFp0VklVaGVkT2Q3R1NrTHRob3V2US1xdG1mSEw4ZEI2bGs5WVhDWndn?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Weather today update: Dense fog in Himachal, Chandigarh; thunderstorms with hailstorm in Bengal and Sikkim",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQVkRDNU1rek9RblpCQnRUX1l1UGhnVjhvWFJQbGZEWnVPVU5jbmFhV0J0UXZkOHFHV2dSTzU4UXZyOFF4RFo5TkNZUG1ObzlqcVpId1BNTkN4OTFoeGQtMTNJQ2VveHFHRUVWd2RKeHNjckk0ZFJhSTE0eU1MV19VNEQ1QktGcEl4TFNfQnJQczBwNi1IS2F3MjhvNDRnTkVPWGlZdENnT3ZlT1p6cTFDTVpMS3E0R2oxNGw1bGNHOGVHa2tSQWwwcmFlajJhZWRxNWd4OW9mSkxnSUd2VkFfTFdMT1NJZWpaaUVEU3ljVW5NbW9FOEIteXJEZklvdHJMNGhvZTdRUkVhT2ZKT2VDMlhtWHdOV3Jjb0xIamZ5c2NGbS1ZalBEYThONmY0ZEowTE1RVlJjeTNuaHNJNEJucUJaaVlDVy1iVkt0eXpUbzJFTWxHQXFjU01nOVRiazlMWk5QUkFZVdIB7AJBVV95cUxOOUoyUmwtTDhhay1yYnhXODJwaGxHQTdkR2N3cnZTZmFDSTU3TFFJMVNJekY4ZW0wd3hFWFptQWJuY0JXbW9QVnltOG43NzFwZU8xaENWbnh1NVpRdW9VSXZINjZJRTMtNVZKbGpHbG5nT0JSVkJEM1NiM1U3U0Zjeng2a1JIVXZINmpXQ3MzRjUwRWJ3X0NjQlQxQThua3VnZHRpbWxQLVdiZkFqa1VmYWMxcUY2LWs5T2tDa3AzOTNZRmtLQlNOZ0FIQ3pLaTRQMVlvTlluM0xhNzlIeFZfak0wdXItNEEwaXlXbHFtNzVfVTdUNm52eGZobGlLZFJZQU5aeFB3RUNkNHhHYjN2LTdLRTdMbkN3ZWdSbWd1eEVObFVmYUhZNXktX291ZmZYWHVkbl8xYzZUX3BESm9OMWlucHBCUmcxa1ptaUdJd1RMdWwycFh6a1NRX2xvUFB1SW1jWVVTeXFMMjY5?oc=5\" target=\"_blank\">Weather today update: Dense fog in Himachal, Chandigarh; thunderstorms with hailstorm in Bengal and Sikkim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQVkRDNU1rek9RblpCQnRUX1l1UGhnVjhvWFJQbGZEWnVPVU5jbmFhV0J0UXZkOHFHV2dSTzU4UXZyOFF4RFo5TkNZUG1ObzlqcVpId1BNTkN4OTFoeGQtMTNJQ2VveHFHRUVWd2RKeHNjckk0ZFJhSTE0eU1MV19VNEQ1QktGcEl4TFNfQnJQczBwNi1IS2F3MjhvNDRnTkVPWGlZdENnT3ZlT1p6cTFDTVpMS3E0R2oxNGw1bGNHOGVHa2tSQWwwcmFlajJhZWRxNWd4OW9mSkxnSUd2VkFfTFdMT1NJZWpaaUVEU3ljVW5NbW9FOEIteXJEZklvdHJMNGhvZTdRUkVhT2ZKT2VDMlhtWHdOV3Jjb0xIamZ5c2NGbS1ZalBEYThONmY0ZEowTE1RVlJjeTNuaHNJNEJucUJaaVlDVy1iVkt0eXpUbzJFTWxHQXFjU01nOVRiazlMWk5QUkFZVdIB7AJBVV95cUxOOUoyUmwtTDhhay1yYnhXODJwaGxHQTdkR2N3cnZTZmFDSTU3TFFJMVNJekY4ZW0wd3hFWFptQWJuY0JXbW9QVnltOG43NzFwZU8xaENWbnh1NVpRdW9VSXZINjZJRTMtNVZKbGpHbG5nT0JSVkJEM1NiM1U3U0Zjeng2a1JIVXZINmpXQ3MzRjUwRWJ3X0NjQlQxQThua3VnZHRpbWxQLVdiZkFqa1VmYWMxcUY2LWs5T2tDa3AzOTNZRmtLQlNOZ0FIQ3pLaTRQMVlvTlluM0xhNzlIeFZfak0wdXItNEEwaXlXbHFtNzVfVTdUNm52eGZobGlLZFJZQU5aeFB3RUNkNHhHYjN2LTdLRTdMbkN3ZWdSbWd1eEVObFVmYUhZNXktX291ZmZYWHVkbl8xYzZUX3BESm9OMWlucHBCUmcxa1ptaUdJd1RMdWwycFh6a1NRX2xvUFB1SW1jWVVTeXFMMjY5?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim cops relocate wrongly parked bike, choose kindness over challan. Internet reacts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXdESjh4T1JmUzFCYzNXN29rWjZuWS1WVXMtM1dENkNHd0EtYTZTNHRGNDBvYzdwbUx2RUc2cDVNVS03UGlnbk1NZ1Npa05kYUZEX2ZxSXFqYzNXbktkQU9pS1gwOHpLNTREYmdhU3VDQW5sNUtURktOVlVFTFhzOTEwcWd3c09sejRBdFFRMVpIbXJZLXJjOEF2WGxla3d0MFpLN0xVcFhLempGdVplWkRqZTVfR1QycTRTLWQxY3B5NTJLbHAyODRJb3pvNm1Eb1ZBWFg1QWViUdIB3wFBVV95cUxPOGtOWUo3LU1iZ01YdEl3MGMtaUh4NmRHSktNS3BRbjFtM3JuVG9KZlBnN1l2WEEwdC1mWmJRZU5VQXg4RnNZOW1jSFRhYWRyYUNsZ0IxNFBLeDZxbGI5Z3QzU1V4TjJjbFlKbmhqeDVpNmp4clFXWFBvbjFBRjJBa1ppb2I3QURld3NrcDFBRzV4OU1iYnBpOVA4NW5kbTFVTE5kcERUUWFpdDhxSU4wN2VxdmRLX1htT0ZpU21HNFRDaXVRclAzaEZoTHdaVmZIbVhBUUgxalRlMEoxWk1V?oc=5\" target=\"_blank\">Sikkim cops relocate wrongly parked bike, choose kindness over challan. Internet reacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXdESjh4T1JmUzFCYzNXN29rWjZuWS1WVXMtM1dENkNHd0EtYTZTNHRGNDBvYzdwbUx2RUc2cDVNVS03UGlnbk1NZ1Npa05kYUZEX2ZxSXFqYzNXbktkQU9pS1gwOHpLNTREYmdhU3VDQW5sNUtURktOVlVFTFhzOTEwcWd3c09sejRBdFFRMVpIbXJZLXJjOEF2WGxla3d0MFpLN0xVcFhLempGdVplWkRqZTVfR1QycTRTLWQxY3B5NTJLbHAyODRJb3pvNm1Eb1ZBWFg1QWViUdIB3wFBVV95cUxPOGtOWUo3LU1iZ01YdEl3MGMtaUh4NmRHSktNS3BRbjFtM3JuVG9KZlBnN1l2WEEwdC1mWmJRZU5VQXg4RnNZOW1jSFRhYWRyYUNsZ0IxNFBLeDZxbGI5Z3QzU1V4TjJjbFlKbmhqeDVpNmp4clFXWFBvbjFBRjJBa1ppb2I3QURld3NrcDFBRzV4OU1iYnBpOVA4NW5kbTFVTE5kcERUUWFpdDhxSU4wN2VxdmRLX1htT0ZpU21HNFRDaXVRclAzaEZoTHdaVmZIbVhBUUgxalRlMEoxWk1V?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Mon, 26 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Firmly committed to our ‘Sunaulo, Samriddha ani Samarth Sikkim’ vision: CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmZJdnNRd2tUU0UxRVJ2d2FQWUNsWm5PVTgwb001NzIxSEdiRlFHNWFyYlNvaWQtMDdJcU5HMzB0cmVFa1hwbWF2bWRsaXZNODhPLWtYOFozakg5VWJPQXdaYXNVOXNoRS1uNnRVeFlHYWUxemVPVjdRMnRXSXJrZWRDT0lPSXhSdVBOc3BDd2xnWWk3dTM1bzZTMUhRblZzSm93dU1WZUxvNUU2Qk1BaTA4OA?oc=5\" target=\"_blank\">Firmly committed to our ‘Sunaulo, Samriddha ani Samarth Sikkim’ vision: CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmZJdnNRd2tUU0UxRVJ2d2FQWUNsWm5PVTgwb001NzIxSEdiRlFHNWFyYlNvaWQtMDdJcU5HMzB0cmVFa1hwbWF2bWRsaXZNODhPLWtYOFozakg5VWJPQXdaYXNVOXNoRS1uNnRVeFlHYWUxemVPVjdRMnRXSXJrZWRDT0lPSXhSdVBOc3BDd2xnWWk3dTM1bzZTMUhRblZzSm93dU1WZUxvNUU2Qk1BaTA4OA?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Northeast gets Rs 11,486 crore rail budget push; Kokrajhar-Gelephu link in focus",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTg2YWRjZ1Q5bTBET2d0MldYNzVfRjk3OWlNNnlJWjRmNUNucGRoZm5ITURubTFjZ2trbnNOMWgzSUpoWTJwYkdYdHFIemJDbGpoR1hzWFJ0dFZQVk1aSldET0hCVzgzcmh0NTFHV1FrVXV5TmgzbXV0SEUzdGRoM2xWcXdEQnlGRHY1VFVCOEhKR09HWThHWkE2QVpINmtRWlFoODBJWE1URzRNdmFWQ3U5ZDloUmwzTlRkTmI3ONIBxAFBVV95cUxPT0k4eEJMeG1IQS1aX252YXZsYUFRMjhyTUs0T2lUTHpWMktSdUJPYmhtd3RrTU5qU1dUZ0sxa0RtVE5QdTVRMm00VmVOdkdyTjhwS3hJR3pReFpRYXhKWUNCMTc4cnRnUi1oWlN3NjNjY1U4UE1QRFVHd0d2OGJ6NmRIYmgwd3h4T0ZXLVhtdkFaMW5PQnRqc0NHeUMzbWxfNWdoN2ZPZTBfRTVhUE5pRUtEeFZKcU1hX09uLTNYNjd0WGQx?oc=5\" target=\"_blank\">Northeast gets Rs 11,486 crore rail budget push; Kokrajhar-Gelephu link in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTg2YWRjZ1Q5bTBET2d0MldYNzVfRjk3OWlNNnlJWjRmNUNucGRoZm5ITURubTFjZ2trbnNOMWgzSUpoWTJwYkdYdHFIemJDbGpoR1hzWFJ0dFZQVk1aSldET0hCVzgzcmh0NTFHV1FrVXV5TmgzbXV0SEUzdGRoM2xWcXdEQnlGRHY1VFVCOEhKR09HWThHWkE2QVpINmtRWlFoODBJWE1URzRNdmFWQ3U5ZDloUmwzTlRkTmI3ONIBxAFBVV95cUxPT0k4eEJMeG1IQS1aX252YXZsYUFRMjhyTUs0T2lUTHpWMktSdUJPYmhtd3RrTU5qU1dUZ0sxa0RtVE5QdTVRMm00VmVOdkdyTjhwS3hJR3pReFpRYXhKWUNCMTc4cnRnUi1oWlN3NjNjY1U4UE1QRFVHd0d2OGJ6NmRIYmgwd3h4T0ZXLVhtdkFaMW5PQnRqc0NHeUMzbWxfNWdoN2ZPZTBfRTVhUE5pRUtEeFZKcU1hX09uLTNYNjd0WGQx?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim's Namchi hit by Magnitude 4.0 earthquake",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3Zxb2ZmR3h3VnpzZHZsc05iQXR1dWlkeElTZ1VVU1Y5dmczM2xZQ3ZNLTNkSFptcmU2UjlxWkJkRHJvakh4a29mejlLUWVFNkJqNEc5ODl3ZktNejY3dmhySXY4Ym1HSndGTmpwcWd4ZnhkMmhZNUpKQVZnNDFqcWVMYk5SbmJtUThfVnNMdGwwRklINElyNW5BVE5YRTNjeTR6dHlTMEhuRnpnTl9fY9IBtgFBVV95cUxPaHVVS1FLbFpJOEJJeE5XUlBsY0lVc1VQN3FjenIwTnNTaHFqTFl4dzVSdXhaY1c2Mlo1Qzl6U2hWWmp6VkREdm9nYVNNZUFpSHFPdi00Y1VEUlVLQ01RcUM3VjR3czB0TmVVNGxqbmZHcDlneUpkTnM0V2M0dnNoSDFHX0pnaF9WNWFyZnFxVy14SVZCdkdreG1wLTJwYmNyeVc2R2ZiRFhqSmtkSUNGbF8tM29SQQ?oc=5\" target=\"_blank\">Sikkim's Namchi hit by Magnitude 4.0 earthquake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3Zxb2ZmR3h3VnpzZHZsc05iQXR1dWlkeElTZ1VVU1Y5dmczM2xZQ3ZNLTNkSFptcmU2UjlxWkJkRHJvakh4a29mejlLUWVFNkJqNEc5ODl3ZktNejY3dmhySXY4Ym1HSndGTmpwcWd4ZnhkMmhZNUpKQVZnNDFqcWVMYk5SbmJtUThfVnNMdGwwRklINElyNW5BVE5YRTNjeTR6dHlTMEhuRnpnTl9fY9IBtgFBVV95cUxPaHVVS1FLbFpJOEJJeE5XUlBsY0lVc1VQN3FjenIwTnNTaHFqTFl4dzVSdXhaY1c2Mlo1Qzl6U2hWWmp6VkREdm9nYVNNZUFpSHFPdi00Y1VEUlVLQ01RcUM3VjR3czB0TmVVNGxqbmZHcDlneUpkTnM0V2M0dnNoSDFHX0pnaF9WNWFyZnFxVy14SVZCdkdreG1wLTJwYmNyeVc2R2ZiRFhqSmtkSUNGbF8tM29SQQ?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim State Lottery Result: January 25, 2026, 6 PM Live - Watch Streaming Of Winners List Of Dear Vixen",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMkI1UmFXamRaNGdXUDk4VVc2bkZzOWdBVUJnX29IcVJjdmVRQ2tOMGpfVnJ1d2hHTzZmTHIzNnVjSUVMZmY1c00zbm8tYS0yY1hhRGtZYVRuQ2N3b1pRa2o1VC1xQkRHTFJTSkVGV1B4dTlOZ0x2R0VaMDZPNkN6VmYtX2xwdjBCdkZFajNTSndFTHJVbDBJTEFoRVZGNTFCOG1NS0diWC1HQ3BkSXdtamlwYkVTWDVjbGJuV3hHNDVKM3o1V2tpdHhNNm1wTlU4SENXM0twLXRBWDlhbTNkaXdpUWlURkItM2hJSVFR0gHzAUFVX3lxTE93SVJFR0JvS0JXMXUwUUJoVG5BMVBsUkIxcWpkY19rcFpTeXFPZGc3S2xVbjNGQmZvV1g2MU5GZkl5Unp5WVNYbll3XzZoRTZLLV9kWm1kZ1Fqb3ltUGlsR0d2SVZZUURxYjZTaXlCOU5pWEFuSGVqZWEwa2wzWW9obGdFTUg2YTQ1Zkc0THpiOThTYnhsN1hUdnNIelFWUkR2cVNfazUwNXNhb0NhX0NHMjRVOUo5OVVUMTBtX3VtVFFIWl9uU1NDakwyRVpMSzRvRG5SYU5ZWENIcGRtWE12OVl1Nkk1QkY0ZFIxZkVhQ1pCQQ?oc=5\" target=\"_blank\">Sikkim State Lottery Result: January 25, 2026, 6 PM Live - Watch Streaming Of Winners List Of Dear Vixen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMkI1UmFXamRaNGdXUDk4VVc2bkZzOWdBVUJnX29IcVJjdmVRQ2tOMGpfVnJ1d2hHTzZmTHIzNnVjSUVMZmY1c00zbm8tYS0yY1hhRGtZYVRuQ2N3b1pRa2o1VC1xQkRHTFJTSkVGV1B4dTlOZ0x2R0VaMDZPNkN6VmYtX2xwdjBCdkZFajNTSndFTHJVbDBJTEFoRVZGNTFCOG1NS0diWC1HQ3BkSXdtamlwYkVTWDVjbGJuV3hHNDVKM3o1V2tpdHhNNm1wTlU4SENXM0twLXRBWDlhbTNkaXdpUWlURkItM2hJSVFR0gHzAUFVX3lxTE93SVJFR0JvS0JXMXUwUUJoVG5BMVBsUkIxcWpkY19rcFpTeXFPZGc3S2xVbjNGQmZvV1g2MU5GZkl5Unp5WVNYbll3XzZoRTZLLV9kWm1kZ1Fqb3ltUGlsR0d2SVZZUURxYjZTaXlCOU5pWEFuSGVqZWEwa2wzWW9obGdFTUg2YTQ1Zkc0THpiOThTYnhsN1hUdnNIelFWUkR2cVNfazUwNXNhb0NhX0NHMjRVOUo5OVVUMTBtX3VtVFFIWl9uU1NDakwyRVpMSzRvRG5SYU5ZWENIcGRtWE12OVl1Nkk1QkY0ZFIxZkVhQ1pCQQ?oc=5",
+   "source_name": "Free Press Journal",
+   "source_domain": "freepressjournal.in",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "In temple run from Varanasi to Sikkim, faith's in fast lane",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVTVjemdNS0JpWW9MSmdZNVk2UDhob1NiOUh5eFAwX0ROclhjMVN2SGVKa25HY25EMXp0OGNCTUdvR2lmM05MWE8ybmg3eXo2dGZTak5ZY1pheWdQRzA3VG54TThpMWlHYjBPZVFsN0NrQ00wSVlQRDNyUVFMSFVrY183dEh1SVRPSTdWRDhrVGtZVHNFLUl1ZVVjdXpQRm5haGZDWkZWTFBZQkItZnVoeTVIdlNzMzlDcExDb1hoX2EycnFDUmVybXloTk80QXBQVFHSAdcBQVVfeXFMTmo4RHpLbl8xWlczV3B1ZTg5NThBVXR5SFZBTl9CWVpRRFlUR09DX1VjNExiZUR1bE5pM2lDZzJiVWtYRm1YcUtpTHU2V0lSMUcxczVnaUJqZ1ZydW1lRXhwdkJqMGItZ0R1aTNQYW1wZTR3QnZoN0prUkV0VWRCaUd6blZPMEZyTkx1bERDU3ZvY214Z2FoY2tCaWRuWjBORkVDY0o1N1hWb3ZVRTFiSTh1c21uREtXLTI4Qm51QWVwcEZSV1hhUEt3dFJnZ1JhNkw5QzA2cjQ?oc=5\" target=\"_blank\">In temple run from Varanasi to Sikkim, faith's in fast lane</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVTVjemdNS0JpWW9MSmdZNVk2UDhob1NiOUh5eFAwX0ROclhjMVN2SGVKa25HY25EMXp0OGNCTUdvR2lmM05MWE8ybmg3eXo2dGZTak5ZY1pheWdQRzA3VG54TThpMWlHYjBPZVFsN0NrQ00wSVlQRDNyUVFMSFVrY183dEh1SVRPSTdWRDhrVGtZVHNFLUl1ZVVjdXpQRm5haGZDWkZWTFBZQkItZnVoeTVIdlNzMzlDcExDb1hoX2EycnFDUmVybXloTk80QXBQVFHSAdcBQVVfeXFMTmo4RHpLbl8xWlczV3B1ZTg5NThBVXR5SFZBTl9CWVpRRFlUR09DX1VjNExiZUR1bE5pM2lDZzJiVWtYRm1YcUtpTHU2V0lSMUcxczVnaUJqZ1ZydW1lRXhwdkJqMGItZ0R1aTNQYW1wZTR3QnZoN0prUkV0VWRCaUd6blZPMEZyTkx1bERDU3ZvY214Z2FoY2tCaWRuWjBORkVDY0o1N1hWb3ZVRTFiSTh1c21uREtXLTI4Qm51QWVwcEZSV1hhUEt3dFJnZ1JhNkw5QzA2cjQ?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 03 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:45+00:00"
+  }
+ ]
+}

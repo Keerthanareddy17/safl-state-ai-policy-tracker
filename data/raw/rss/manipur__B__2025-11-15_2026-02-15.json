@@ -1,0 +1,120 @@
+{
+ "region": "Manipur",
+ "group": "B",
+ "query": "(Manipur) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Manipur%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:21+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "‘Pariksha Pe Charcha’: Tripura, Manipur students hail PM Modi’s stress-free exam message",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFV3MkMxVEJSNnM0NlNZU2c4blZsdDFaUmpmZnBBS2R1S3IzQ2hUMDM5VTUzU2RmYm9oQkRkRkNxX0d6a25GaDBlOWtJNENPQ2RGaFpxNWFfQVJ2YzVTV0NFcUlJOVJta2dNNXdBeHluQU00NWotZTFkTDEzdkVnQlRfbkJwOFFkbWxBRUtTa3BZMFlVZ1RHUkJjdUNvUnB3NzhBQkhqcU9WMHhLQXc?oc=5\" target=\"_blank\">‘Pariksha Pe Charcha’: Tripura, Manipur students hail PM Modi’s stress-free exam message</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFV3MkMxVEJSNnM0NlNZU2c4blZsdDFaUmpmZnBBS2R1S3IzQ2hUMDM5VTUzU2RmYm9oQkRkRkNxX0d6a25GaDBlOWtJNENPQ2RGaFpxNWFfQVJ2YzVTV0NFcUlJOVJta2dNNXdBeHluQU00NWotZTFkTDEzdkVnQlRfbkJwOFFkbWxBRUtTa3BZMFlVZ1RHUkJjdUNvUnB3NzhBQkhqcU9WMHhLQXc?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "In Manipur, a ‘popular’ government is back. But questions remain",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnpJS2VnenBSVzIzbW9hMy1uNWRUcTRiX0xGQmJaaHlFaGFIVWwwQndTbVdJb1ZNUzRHRnZXZnBSdWdwb3E4aDBfR1Z3RUpNa0QydDRrTTZuaU95VDM4ejc1bVNJNVlTUk8xRmZPcTlOblg2bEREWlYybkZYb09ubXAzNmFJYXdzMW1xM3JNSEhKX0x0Zmp5NHIxWlpoQzF2Z09vamdadV9tYTY20gGzAUFVX3lxTE5rSkFGemJJQlk4SGN1QlZra3p1R2l5eEczTmxVQ3VzSXJvV1lTb0g4RWVqMzNLVGpRNEF5Wmh0SXc1MWdRdVUyWVFmdGxtR2dsTmhTZ0VzaUZ0dl95M0pQSV82N3lPN1ZIdXNNWDFBWVJ4cFl0a2dXRTZzT2lUSzFMRnpKLXl3RkFqT2lYWC14UXN4Z1RERVNzVHZTanFsdzlKUEd3dHNNdHpJckZYTmJITkNj?oc=5\" target=\"_blank\">In Manipur, a ‘popular’ government is back. But questions remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnpJS2VnenBSVzIzbW9hMy1uNWRUcTRiX0xGQmJaaHlFaGFIVWwwQndTbVdJb1ZNUzRHRnZXZnBSdWdwb3E4aDBfR1Z3RUpNa0QydDRrTTZuaU95VDM4ejc1bVNJNVlTUk8xRmZPcTlOblg2bEREWlYybkZYb09ubXAzNmFJYXdzMW1xM3JNSEhKX0x0Zmp5NHIxWlpoQzF2Z09vamdadV9tYTY20gGzAUFVX3lxTE5rSkFGemJJQlk4SGN1QlZra3p1R2l5eEczTmxVQ3VzSXJvV1lTb0g4RWVqMzNLVGpRNEF5Wmh0SXc1MWdRdVUyWVFmdGxtR2dsTmhTZ0VzaUZ0dl95M0pQSV82N3lPN1ZIdXNNWDFBWVJ4cFl0a2dXRTZzT2lUSzFMRnpKLXl3RkFqT2lYWC14UXN4Z1RERVNzVHZTanFsdzlKUEd3dHNNdHpJckZYTmJITkNj?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Challenges and opportunities for the new CM of Manipur - 'Miles to go before I sleep' -",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzQtY25teHoyOWxUeVlXTUktVUI4WXJlUDZLR2VRcmZkZFlSNlRKVEc0VVBnSWFWSjMxaVBrTjlKWUVQMDNqNzIyeVA1WldFNDFyR0wwU1M2RlYycmdtSl9YNDJUNVdQZTZHMUZlMGZ3dmx5UE9ORS03MWdBTmtJUFFneDFKNWNtUFBzN2pGZGJjMDRBTFhJMUh3X1NzY0hpZFAxX1pHUjlJY3VpMWVKeks4dWNDYWlTRmk0YkxhNkN2cTdVZXNFVEdkVjk3ZXAxZEFER1h5aV82OTlKWUtqZ3ZR?oc=5\" target=\"_blank\">Challenges and opportunities for the new CM of Manipur - 'Miles to go before I sleep' -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-Pao.net</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzQtY25teHoyOWxUeVlXTUktVUI4WXJlUDZLR2VRcmZkZFlSNlRKVEc0VVBnSWFWSjMxaVBrTjlKWUVQMDNqNzIyeVA1WldFNDFyR0wwU1M2RlYycmdtSl9YNDJUNVdQZTZHMUZlMGZ3dmx5UE9ORS03MWdBTmtJUFFneDFKNWNtUFBzN2pGZGJjMDRBTFhJMUh3X1NzY0hpZFAxX1pHUjlJY3VpMWVKeks4dWNDYWlTRmk0YkxhNkN2cTdVZXNFVEdkVjk3ZXAxZEFER1h5aV82OTlKWUtqZ3ZR?oc=5",
+   "source_name": "E-Pao.net",
+   "source_domain": "e-pao.net",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Yumnam Khemchand Singh Chosen As Next Manipur Chief Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUZrWGwxMTNBOGRmTUdPQngtUXlhQmRzRVpYUWNhYXc3UlJhaS1TUXQwcWN4dk5WQVh4dWlSNkM2amdJZDJWb2JoblRxakN1UlM2ZTZha2lmWm5oN1RDQWxwZDJETkl6LWFmRWx4RWJPYUhPcG4yYnpGLXBsRUJzcnA5bUNmQV8yNjJDWGhGWkxtZG9XUEVaclVFT1DSAaoBQVVfeXFMTk9ZMHVTVGc1R19KSWZodWlmb3FHSGd5THNSTVlfTWFmemhFLUctbHpLeEZzMFNMeDl0UEFXdDVvY2tqcTVUSmMxVFVTVXBjY1haTVR6TU5EUjF0c19ZT1hFQ29PcEhUZ2l5ZzZxbFFvc3p6bVNwYkZJRFhFNFJMTWpJZ0FIcFRodkVpc3R1ODg1QnktVXlLTDloNUU5RU5ndE1PLUY1cGlKMHc?oc=5\" target=\"_blank\">Yumnam Khemchand Singh Chosen As Next Manipur Chief Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quint</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUZrWGwxMTNBOGRmTUdPQngtUXlhQmRzRVpYUWNhYXc3UlJhaS1TUXQwcWN4dk5WQVh4dWlSNkM2amdJZDJWb2JoblRxakN1UlM2ZTZha2lmWm5oN1RDQWxwZDJETkl6LWFmRWx4RWJPYUhPcG4yYnpGLXBsRUJzcnA5bUNmQV8yNjJDWGhGWkxtZG9XUEVaclVFT1DSAaoBQVVfeXFMTk9ZMHVTVGc1R19KSWZodWlmb3FHSGd5THNSTVlfTWFmemhFLUctbHpLeEZzMFNMeDl0UEFXdDVvY2tqcTVUSmMxVFVTVXBjY1haTVR6TU5EUjF0c19ZT1hFQ29PcEhUZ2l5ZzZxbFFvc3p6bVNwYkZJRFhFNFJMTWpJZ0FIcFRodkVpc3R1ODg1QnktVXlLTDloNUU5RU5ndE1PLUY1cGlKMHc?oc=5",
+   "source_name": "The Quint",
+   "source_domain": "thequint.com",
+   "published_raw": "Tue, 03 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Yumnam Khemchand Singh Sworn In As Manipur Chief Minister, Gets 2 Deputies",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT2tZbGxnN2lCYTNHZDVCM2JMeWlNOUpPS1BmRzh0cVl5OHVIX0RZTUwzaHh1YnhPT3lfU0s2b250VC1rM1hhSk93Wmx3QmFmNGtNU1gyY3N4bnhRZUViNG9XSnJRWERGU1RvbWxPQmZKTHA5NEItdG84TS1reXNkbGpSZS13SG8zM2Zvb181dkE2eTdDYnFrem50bm5fSXB0a19QQVhLd2ZPbU9BRG50Rm1MWVljVklYeF9jeGdLOWdiTUHSAcsBQVVfeXFMUDd5SmpYNlV4Mi1jZEgzaE9FekxJX200UmxzVTBXLXF4VERKeVY5TXZIMFBsakp3UndWWWUta0FESWQtSnRpRmZRRVZteG9waVNBbDVRaVFVa1dsOGdUTmV6ZkpNekg3OUVicmNjSnJjVFhfd012ZDN3NTJ4MWtMQTc3dUd5LUQyTW9EMVY2LWl5NWRyWUFzY0JHRlNEdVBKbHhVYUZyQzBmVWFzV0YtSDZLc0hWYWtMR2w0SFpPSGpiakZ4RFVzV2Etejg?oc=5\" target=\"_blank\">Yumnam Khemchand Singh Sworn In As Manipur Chief Minister, Gets 2 Deputies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT2tZbGxnN2lCYTNHZDVCM2JMeWlNOUpPS1BmRzh0cVl5OHVIX0RZTUwzaHh1YnhPT3lfU0s2b250VC1rM1hhSk93Wmx3QmFmNGtNU1gyY3N4bnhRZUViNG9XSnJRWERGU1RvbWxPQmZKTHA5NEItdG84TS1reXNkbGpSZS13SG8zM2Zvb181dkE2eTdDYnFrem50bm5fSXB0a19QQVhLd2ZPbU9BRG50Rm1MWVljVklYeF9jeGdLOWdiTUHSAcsBQVVfeXFMUDd5SmpYNlV4Mi1jZEgzaE9FekxJX200UmxzVTBXLXF4VERKeVY5TXZIMFBsakp3UndWWWUta0FESWQtSnRpRmZRRVZteG9waVNBbDVRaVFVa1dsOGdUTmV6ZkpNekg3OUVicmNjSnJjVFhfd012ZDN3NTJ4MWtMQTc3dUd5LUQyTW9EMVY2LWl5NWRyWUFzY0JHRlNEdVBKbHhVYUZyQzBmVWFzV0YtSDZLc0hWYWtMR2w0SFpPSGpiakZ4RFVzV2Etejg?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Nagaland CM calls for popular government in Manipur, Naga issue resolution",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVFoVXVFVW9MUl90eTZqeHBuVFZ1OXdpR2wwS2dzTHVrNTdyU2g5dHRhamstSWxWbndsU1RTNTlBdHFabVFkVURPLUFLRGZCSlVSZWptR0htZVJFQ09rVmZDT0dTRkVIeTFZTUN5STczc29ILWFXWTZuUmhOaGJ3SGo3c3JwNjhFeERfay1QZU1vdWFVNE5TTlZMbldjQzRwSjJJdk5uc0hYbEhUeFNOMzFjbjVmX041VVprRmdyRGdVcVA1ZHRaX1lMdkRrU3JkY3dwVDhFbnM4cWhNOG9ZRU5pcFBGaUnSAewBQVVfeXFMUFBQZkUtQ0JFUzNGbDdtTXhZTmlsaHZxanpIWTZUbE1FMGt4NC1lY1lFdHZxV2ROdGhyQlFBUE5fLXFKd1dXQ29CSzNGSnBzV2JEVnljZmE5YXVMMzF4dTJtcWtUWVBuUnp6emVGbUxfT2hCeWtOd1JXdFZ6MjRDMDVuYnE1MWRydEF3Z3g5Q2E4RnBGb1h0Yng2Um43VXdYZGJua2tTdkdxaHB2SU1IZ3ZPNGltSTFYS3pXUHI1WHpWWHY5aTByTFkzZXR5dU96aC1razRDYlYzNkV1UE1xazJVR0l2TktoeENGVHU?oc=5\" target=\"_blank\">Nagaland CM calls for popular government in Manipur, Naga issue resolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVFoVXVFVW9MUl90eTZqeHBuVFZ1OXdpR2wwS2dzTHVrNTdyU2g5dHRhamstSWxWbndsU1RTNTlBdHFabVFkVURPLUFLRGZCSlVSZWptR0htZVJFQ09rVmZDT0dTRkVIeTFZTUN5STczc29ILWFXWTZuUmhOaGJ3SGo3c3JwNjhFeERfay1QZU1vdWFVNE5TTlZMbldjQzRwSjJJdk5uc0hYbEhUeFNOMzFjbjVmX041VVprRmdyRGdVcVA1ZHRaX1lMdkRrU3JkY3dwVDhFbnM4cWhNOG9ZRU5pcFBGaUnSAewBQVVfeXFMUFBQZkUtQ0JFUzNGbDdtTXhZTmlsaHZxanpIWTZUbE1FMGt4NC1lY1lFdHZxV2ROdGhyQlFBUE5fLXFKd1dXQ29CSzNGSnBzV2JEVnljZmE5YXVMMzF4dTJtcWtUWVBuUnp6emVGbUxfT2hCeWtOd1JXdFZ6MjRDMDVuYnE1MWRydEF3Z3g5Q2E4RnBGb1h0Yng2Um43VXdYZGJua2tTdkdxaHB2SU1IZ3ZPNGltSTFYS3pXUHI1WHpWWHY5aTByTFkzZXR5dU96aC1razRDYlYzNkV1UE1xazJVR0l2TktoeENGVHU?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sun, 16 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "What is happening in Manipur? Fresh firing in Ukhrul’s Litan as violence enters third day, 21 houses torched",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2x3cUF6Mklqa2pfel9RYUhrVGd3SlBlZ0trZmFqUGZ0ZUtUU2dubWkyN1c5MWR6N2tjcGRKMlJEcHVlZ2hzQUllRGV6U0hUM3IxaDVXMTZEVVVUcGp5ZmViVUM3WE5vdVlXMlJnbFlmb283VWh5dW9ETU50NW9wZGJwVkhfTmdJTGJRaVJrQ1Q2QXlRSHZPYlk1VUt0Q19HaS1NbC1tRmZNR1A0UVVFOGR3UFNYNjl4VkhsWWhScmdkQ19jZngzY0w3VDBPckVlLWwzWGRIZURucWtpVWhkLVBaYUExWGRIZ0k0b1Q5UURHck120gH6AUFVX3lxTFB1T0dFU003bmtBMGFuTldIaXlDWHlMcTljSWpnRTItR3lHRk9MNE5tbFd4Z2hjQW9nZ0FMaWxTdHdlZHM2Wmt6dW54eGdRZjB3T3c2WmlqRTdUOGFfM0V1NDZLZnpWQ3NYdlZDcjVaVHhoVDJTemg5WC1iQ2pyOFRYazdiQ2F2MlRyMWxPWmpnbGpzQUY0Q3NTcDhrVGVRd2JXYW1zUnBINjZYbjRQOWZMMmdoTXVQaDBLaFlUMXJxaUhqcV80SFJWMm1DTXdDdUNMWTBUWmt0ZXpqajkyVmpqWmpacWNsS3JHeVNSOHZYOGJ1cEQ2Y0JFQWc?oc=5\" target=\"_blank\">What is happening in Manipur? Fresh firing in Ukhrul’s Litan as violence enters third day, 21 houses torched</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2x3cUF6Mklqa2pfel9RYUhrVGd3SlBlZ0trZmFqUGZ0ZUtUU2dubWkyN1c5MWR6N2tjcGRKMlJEcHVlZ2hzQUllRGV6U0hUM3IxaDVXMTZEVVVUcGp5ZmViVUM3WE5vdVlXMlJnbFlmb283VWh5dW9ETU50NW9wZGJwVkhfTmdJTGJRaVJrQ1Q2QXlRSHZPYlk1VUt0Q19HaS1NbC1tRmZNR1A0UVVFOGR3UFNYNjl4VkhsWWhScmdkQ19jZngzY0w3VDBPckVlLWwzWGRIZURucWtpVWhkLVBaYUExWGRIZ0k0b1Q5UURHck120gH6AUFVX3lxTFB1T0dFU003bmtBMGFuTldIaXlDWHlMcTljSWpnRTItR3lHRk9MNE5tbFd4Z2hjQW9nZ0FMaWxTdHdlZHM2Wmt6dW54eGdRZjB3T3c2WmlqRTdUOGFfM0V1NDZLZnpWQ3NYdlZDcjVaVHhoVDJTemg5WC1iQ2pyOFRYazdiQ2F2MlRyMWxPWmpnbGpzQUY0Q3NTcDhrVGVRd2JXYW1zUnBINjZYbjRQOWZMMmdoTXVQaDBLaFlUMXJxaUhqcV80SFJWMm1DTXdDdUNMWTBUWmt0ZXpqajkyVmpqWmpacWNsS3JHeVNSOHZYOGJ1cEQ2Y0JFQWc?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Yumnam Khemchand Singh takes oath as Manipur Chief Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVVEWTFoSFV0UGUwREpwVEt5amZjOW16a3IyeEM1VzN5N2tEdm1mV0RDN1Zuc2VTNFI1WUNRZ013WlZpODI0ZjZDZGFjRlFKdk1MRWFFX3lldjFqVHlPUnh1WEh2X3ZUWDVDRUQ2ZC1fTGpYLWZHWHlyZTkyNmhVUjV0em1USmdmRGlqdExMajBuc1NqYmlaQnhGeEdxVllwVW03UVZTT2UtM0Jla0k4SjQ0czQ3VXUxREtqNDZKWHRxd9IBxwFBVV95cUxOOUstTmhiQmxUNE9BUmw3S1lLN0k5NElpdXh3TzMzWmtlVWpEZGRZTkU4bzl3dUFNWlkzTmo4MFI3bDRpbXF0aFV2RjlYTlFkM2pkV2hoWmhkeGVNTUwyMy1ya0Q4dkJfdVEwMDV2aUJ6Rnp3OWVyZnNLWjh6LTBrcmtjYl9KT3dhbEtvY1JBeUZVczZWMVpqRi1Qbkt6V0tCam1QZ2dQajZQRENYZXpLMjcxc0xxZ29wN00zTFEzcVY1OGZvV0hn?oc=5\" target=\"_blank\">Yumnam Khemchand Singh takes oath as Manipur Chief Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVVEWTFoSFV0UGUwREpwVEt5amZjOW16a3IyeEM1VzN5N2tEdm1mV0RDN1Zuc2VTNFI1WUNRZ013WlZpODI0ZjZDZGFjRlFKdk1MRWFFX3lldjFqVHlPUnh1WEh2X3ZUWDVDRUQ2ZC1fTGpYLWZHWHlyZTkyNmhVUjV0em1USmdmRGlqdExMajBuc1NqYmlaQnhGeEdxVllwVW03UVZTT2UtM0Jla0k4SjQ0czQ3VXUxREtqNDZKWHRxd9IBxwFBVV95cUxOOUstTmhiQmxUNE9BUmw3S1lLN0k5NElpdXh3TzMzWmtlVWpEZGRZTkU4bzl3dUFNWlkzTmo4MFI3bDRpbXF0aFV2RjlYTlFkM2pkV2hoWmhkeGVNTUwyMy1ya0Q4dkJfdVEwMDV2aUJ6Rnp3OWVyZnNLWjh6LTBrcmtjYl9KT3dhbEtvY1JBeUZVczZWMVpqRi1Qbkt6V0tCam1QZ2dQajZQRENYZXpLMjcxc0xxZ29wN00zTFEzcVY1OGZvV0hn?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur: Minister Yumnam Khemchand Singh calls upon women to work for restoration of peace",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWdGVEtndllYUHRsWkhfbGx1d25QRHVsNEJQNGFwelFOQUU1WmJNN2R4MnZQR2tQb2xyYTJoNlI1WkxVY3d5WC1mbFgwNWN1TkpTTWcxVGo2TjE0NzlPSExlUzBReEdOT0xnR0VsT0R2Y2l4Q2puU0Z6WXlEZ2oxWVdxVjJINTdEcUY1ZmI4QlJkMTN3WWVEY0tsUkFrREhjMmo3aUZHZXRBN3MxQzhmWklEaWhJMVVRbmJqaDMwMWFtMXFQdGl3MWYyR3l4X0dtMC1vcHBRRlV3d0stdjJtSmwwX2g2MFFoSF9qWjh1cGFpZnNSeHVLcEZwWVrSAYICQVVfeXFMTWlaUDZTWjZVVjVpQU9zbkIzNkJ5MXVLbHF4dHNRV3MzOWppOUN2OUtzS1JETnVMdGtwVHVMMGFlQ0dqNUp3NGpxMHBYVkZzUTJ6dEwzT2NBMlI3SXRicG5pX2NhUm5VSHFvZENWVGppelZpMlRrVVhQU3pONmlNYnY1N0traXpVRUxZUFlwQUFPeVc0T3d0MzdYeHpHRXMwdTg1N05LTHZFaTQzMjZieDB6X3RUQ0l3eFdRRElZNGhReHlmaUIzalA4OHgyLXdKT2ViQW9SZVp3N0o2Nm1UeldjYTJxQTdNNUVGYjR4OUxnNVM4SUktRVdnRm9aNG11RjJR?oc=5\" target=\"_blank\">Manipur: Minister Yumnam Khemchand Singh calls upon women to work for restoration of peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWdGVEtndllYUHRsWkhfbGx1d25QRHVsNEJQNGFwelFOQUU1WmJNN2R4MnZQR2tQb2xyYTJoNlI1WkxVY3d5WC1mbFgwNWN1TkpTTWcxVGo2TjE0NzlPSExlUzBReEdOT0xnR0VsT0R2Y2l4Q2puU0Z6WXlEZ2oxWVdxVjJINTdEcUY1ZmI4QlJkMTN3WWVEY0tsUkFrREhjMmo3aUZHZXRBN3MxQzhmWklEaWhJMVVRbmJqaDMwMWFtMXFQdGl3MWYyR3l4X0dtMC1vcHBRRlV3d0stdjJtSmwwX2g2MFFoSF9qWjh1cGFpZnNSeHVLcEZwWVrSAYICQVVfeXFMTWlaUDZTWjZVVjVpQU9zbkIzNkJ5MXVLbHF4dHNRV3MzOWppOUN2OUtzS1JETnVMdGtwVHVMMGFlQ0dqNUp3NGpxMHBYVkZzUTJ6dEwzT2NBMlI3SXRicG5pX2NhUm5VSHFvZENWVGppelZpMlRrVVhQU3pONmlNYnY1N0traXpVRUxZUFlwQUFPeVc0T3d0MzdYeHpHRXMwdTg1N05LTHZFaTQzMjZieDB6X3RUQ0l3eFdRRElZNGhReHlmaUIzalA4OHgyLXdKT2ViQW9SZVp3N0o2Nm1UeldjYTJxQTdNNUVGYjR4OUxnNVM4SUktRVdnRm9aNG11RjJR?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur Governor Calls for High-Tech Policing to Build a Drug-Free State",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2lpSTA3NkRNcmUtMTk1NlR5YUFsdEhhZmozbms2ZEV5elVfUExueXd3ckF5US1IYkhwTldiTjZuMGNTQ0M1T01pVm9kLVR6N01uaGFVdGRYS0JOaTk2ajlKNkY5WWk2bE9wVjJ2UEl2VVFhYTI2UEd4cl9ZZUJ5Yl9wakpselFnU3UwSGVtVG1TV1VCemZGTm1WT29CVkctTVR4U2FNb1VDbHlTY3J0MW5WYzFKUdIBwwFBVV95cUxNalp6NDZ3cWN2MUpXVi1zaTNRLVNkdUpDT2FUSm9nTWFhNlUxYzJfS1FWVlV4UXVWOXc1MnpYX3JwX0ZaXzhpM2Y2dnZhMS1rTVNCbTFOOGI0ZnprSHQ3eTE4TUItdnRvU3VQR01jZGt4TnRRd3g4T01FY0dMeDQ1Q2NyRnJZbXJ4c3N5ZDhJLVNkcm9aZnlhZXkxRE9YaFZyQm1GZGNWc2pBMDlZcmtNVnVaTjZVTW1kN1FfM24tbkU5bFk?oc=5\" target=\"_blank\">Manipur Governor Calls for High-Tech Policing to Build a Drug-Free State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sentinel - of this Land, for its People</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2lpSTA3NkRNcmUtMTk1NlR5YUFsdEhhZmozbms2ZEV5elVfUExueXd3ckF5US1IYkhwTldiTjZuMGNTQ0M1T01pVm9kLVR6N01uaGFVdGRYS0JOaTk2ajlKNkY5WWk2bE9wVjJ2UEl2VVFhYTI2UEd4cl9ZZUJ5Yl9wakpselFnU3UwSGVtVG1TV1VCemZGTm1WT29CVkctTVR4U2FNb1VDbHlTY3J0MW5WYzFKUdIBwwFBVV95cUxNalp6NDZ3cWN2MUpXVi1zaTNRLVNkdUpDT2FUSm9nTWFhNlUxYzJfS1FWVlV4UXVWOXc1MnpYX3JwX0ZaXzhpM2Y2dnZhMS1rTVNCbTFOOGI0ZnprSHQ3eTE4TUItdnRvU3VQR01jZGt4TnRRd3g4T01FY0dMeDQ1Q2NyRnJZbXJ4c3N5ZDhJLVNkcm9aZnlhZXkxRE9YaFZyQm1GZGNWc2pBMDlZcmtNVnVaTjZVTW1kN1FfM24tbkU5bFk?oc=5",
+   "source_name": "The Sentinel - of this Land, for its People",
+   "source_domain": "sentinelassam.com",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:21+00:00"
+  }
+ ]
+}

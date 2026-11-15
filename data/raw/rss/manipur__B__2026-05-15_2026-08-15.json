@@ -1,0 +1,109 @@
+{
+ "region": "Manipur",
+ "group": "B",
+ "query": "(Manipur) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Manipur%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:24+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "No title",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE45TU1iQ1R0aVJ6SkNHVE9qR2lzTHRQWGxiS0NaQUVXX1ZIUlNUWVlHNnZEMG9xQUN2dklVUllqUFdaWjBVTVJLZmtqSWd5Vkwz0gFWQVVfeXFMUGh2UzFaeWZoVjlsTnlyQzVfRTY5VHl1cnpqN1Bod2FRX1NuRFNvOE0yRDFhTmJZa1V2TFJGcE1SdU5mMHBNbDdNU25rblFkYmZwenNKV0E?oc=5\" target=\"_blank\">No title</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Imphal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45TU1iQ1R0aVJ6SkNHVE9qR2lzTHRQWGxiS0NaQUVXX1ZIUlNUWVlHNnZEMG9xQUN2dklVUllqUFdaWjBVTVJLZmtqSWd5Vkwz0gFWQVVfeXFMUGh2UzFaeWZoVjlsTnlyQzVfRTY5VHl1cnpqN1Bod2FRX1NuRFNvOE0yRDFhTmJZa1V2TFJGcE1SdU5mMHBNbDdNU25rblFkYmZwenNKV0E?oc=5",
+   "source_name": "Imphal Times",
+   "source_domain": "imphaltimes.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur Govt committed to protecting citizens' privacy in digital transformation: CM Khemchand Singh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaDFzS1hDZ3BUSUxsTm9tRUdCU0lxRFBMeXJqbThmVW5GeHdJX1RtcmxJMUVNcnZfT1RZanhYMDRMTEp2bTFONVFwNzhMSXpRTHVrVktDY0huTTZzOU5rbmVNTU54OGlpeE5XX3ZibzE3THdHTEYzN0tXeHZBOURxTnZTSms2bEtIb2Q3Mkc5bUFqTG5Qb281UFBrQ2hIZVFWeWRtOFh0YlJaZ2ZUaEFReDAtNU1Md1NES1N1S0xlYnE4bFRaTjBhNzRCQ2ZuR196RUdsMmk3d1ZGVGt0SEExUVBZX2VJX19TRFI3OHRpN0XSAfYBQVVfeXFMUEFfSjlnYlpWaFJ4alB6Ykgzcmo0MTRLdldub2pHUFFaQ2d2eFRfVEhEaFJZMFUyRVFCMzlyNG90RE5WOHl1NVJOTF9ZemhRUzBlQlNWcHhzUklERFdQNGNvdHJ2ZlcyZ0hHSk1oNDRTWjU2MS1LaHNlakV2MG5iOWpBb2FMXzU5VWphUzA4MmM2Q0dPSEFQd1Bkd3NOM3pucjNqejZ3Z2oyQ1piUHltMjU3OU5VdlN3NkRkMnJ6ak1XNGlMQzFFdF9lSld2dkw1bFlNeVdtTEVJU252TjBiVXNUcVRiTDdZekVOVDhheXVTV0ttU0dR?oc=5\" target=\"_blank\">Manipur Govt committed to protecting citizens' privacy in digital transformation: CM Khemchand Singh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaDFzS1hDZ3BUSUxsTm9tRUdCU0lxRFBMeXJqbThmVW5GeHdJX1RtcmxJMUVNcnZfT1RZanhYMDRMTEp2bTFONVFwNzhMSXpRTHVrVktDY0huTTZzOU5rbmVNTU54OGlpeE5XX3ZibzE3THdHTEYzN0tXeHZBOURxTnZTSms2bEtIb2Q3Mkc5bUFqTG5Qb281UFBrQ2hIZVFWeWRtOFh0YlJaZ2ZUaEFReDAtNU1Md1NES1N1S0xlYnE4bFRaTjBhNzRCQ2ZuR196RUdsMmk3d1ZGVGt0SEExUVBZX2VJX19TRFI3OHRpN0XSAfYBQVVfeXFMUEFfSjlnYlpWaFJ4alB6Ykgzcmo0MTRLdldub2pHUFFaQ2d2eFRfVEhEaFJZMFUyRVFCMzlyNG90RE5WOHl1NVJOTF9ZemhRUzBlQlNWcHhzUklERFdQNGNvdHJ2ZlcyZ0hHSk1oNDRTWjU2MS1LaHNlakV2MG5iOWpBb2FMXzU5VWphUzA4MmM2Q0dPSEFQd1Bkd3NOM3pucjNqejZ3Z2oyQ1piUHltMjU3OU5VdlN3NkRkMnJ6ak1XNGlMQzFFdF9lSld2dkw1bFlNeVdtTEVJU252TjBiVXNUcVRiTDdZekVOVDhheXVTV0ttU0dR?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur Violence 2026: The War of Maps and Buffer Zones",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnVuZnpJUm9sMnBQSVJ5Znowd0pWWkItSXBHYnQ5dTRRNHJQRFNoTU11Sng2bWhPM2dRMW5YaGdyajJIcGUxVnFtdlNlaXhnLUJhd3huYWdBaWg4SVFzZWdWY1A0N01BajV0a2YzMGtER2UzVGZDZzVPTDVWeTF4LXRNNmxCMm9UT0tXZWZCcjRjZ3JT0gGbAUFVX3lxTFBwSHVtN2UzU29QQkZCSTlrN0NuVDlQdmVLdGpHRVZiNEZYeDBwaE5iTy0xSnd5V2xRRDdBTXAyek1adGlFdHdZOGtBeEN5QjZPdTRkR2IxNmNxOHdfaHBiaVN3S1N6SnRydS1HLWVmWGw3Z2VDWi1jZnpfRnlFcUdnWERvR3NzYkRQbVJwaVBWY1F1TmVielJPeVFN?oc=5\" target=\"_blank\">Manipur Violence 2026: The War of Maps and Buffer Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnVuZnpJUm9sMnBQSVJ5Znowd0pWWkItSXBHYnQ5dTRRNHJQRFNoTU11Sng2bWhPM2dRMW5YaGdyajJIcGUxVnFtdlNlaXhnLUJhd3huYWdBaWg4SVFzZWdWY1A0N01BajV0a2YzMGtER2UzVGZDZzVPTDVWeTF4LXRNNmxCMm9UT0tXZWZCcjRjZ3JT0gGbAUFVX3lxTFBwSHVtN2UzU29QQkZCSTlrN0NuVDlQdmVLdGpHRVZiNEZYeDBwaE5iTy0xSnd5V2xRRDdBTXAyek1adGlFdHdZOGtBeEN5QjZPdTRkR2IxNmNxOHdfaHBiaVN3S1N6SnRydS1HLWVmWGw3Z2VDWi1jZnpfRnlFcUdnWERvR3NzYkRQbVJwaVBWY1F1TmVielJPeVFN?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur minister says 'Save Manipur' slogans at CJP protest aimed at provoking youth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU3RpWDJvczBwLUJBeTZZUDZFcGYtUFVmbm4wTkt4QkFkRTJvbUloSkFoR25COVpqOFIxZG5hSEg5QTVIUW4wTnFuUjBickhBRWFYaXktYjFXRFJmSWh4R1pNRmpzQ2R0NmhBR2Rodm1xZlNfTnppel94aU1wWWREQktjS2VIOHJHWWNVRnlzX25BQ25yLTRyRFpZWGZ0NDJnMmtQT2I0cFBHSmJHUVVRU1NTRkRPV3FQel9oNWQxd3JuOGRjX1lOVXJaWG1xX29WX3ZjRHJweVVPSFpDN1NfeHRTUmxiM2FndEFrbXo2dkZuVDDSAfgBQVVfeXFMUDAxMVdDNUY0a3JLMUJBZE50cmY2MFNtYnBKZVlCR0hyZFZ4TW9jSTdqS0VGRUxiTGotOFVqa2FGUmttTEYtM25ySEd3ZjlJNWdlNkVPNjBQSDVEdkF6TUtYWWlnWFJTd3BveDRrcEJIdzVmX19IRk5CNnNIS3J3OWxfTzlycWtiX0NGZ241bnhDTFpnMHhhMzBRUTlKVF9LRjNtNzgyNENoN3cwaWJIVFl6Zm02dG1pRl9pT2pLTndVOWtWZl9DRUQzQkR0bG1sbkczd05sN1FYd1hoTEJpSkQtTXFYcGw2b1gtbUVDTm9kSHNDTjkxUVE?oc=5\" target=\"_blank\">Manipur minister says 'Save Manipur' slogans at CJP protest aimed at provoking youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU3RpWDJvczBwLUJBeTZZUDZFcGYtUFVmbm4wTkt4QkFkRTJvbUloSkFoR25COVpqOFIxZG5hSEg5QTVIUW4wTnFuUjBickhBRWFYaXktYjFXRFJmSWh4R1pNRmpzQ2R0NmhBR2Rodm1xZlNfTnppel94aU1wWWREQktjS2VIOHJHWWNVRnlzX25BQ25yLTRyRFpZWGZ0NDJnMmtQT2I0cFBHSmJHUVVRU1NTRkRPV3FQel9oNWQxd3JuOGRjX1lOVXJaWG1xX29WX3ZjRHJweVVPSFpDN1NfeHRTUmxiM2FndEFrbXo2dkZuVDDSAfgBQVVfeXFMUDAxMVdDNUY0a3JLMUJBZE50cmY2MFNtYnBKZVlCR0hyZFZ4TW9jSTdqS0VGRUxiTGotOFVqa2FGUmttTEYtM25ySEd3ZjlJNWdlNkVPNjBQSDVEdkF6TUtYWWlnWFJTd3BveDRrcEJIdzVmX19IRk5CNnNIS3J3OWxfTzlycWtiX0NGZ241bnhDTFpnMHhhMzBRUTlKVF9LRjNtNzgyNENoN3cwaWJIVFl6Zm02dG1pRl9pT2pLTndVOWtWZl9DRUQzQkR0bG1sbkczd05sN1FYd1hoTEJpSkQtTXFYcGw2b1gtbUVDTm9kSHNDTjkxUVE?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Is India Planning an Exchange of Territory With Myanmar?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWm5YSzdCTEZWU2tXa001b2FFWFZIakJTVHIwdlJxR0IzeDVPdlVrLVNrTXU4ZmwxXzlMb3B2OTdONUg4ZFVvdlpmVGs2NDM5XzJGUGJtOVV5RTVkTUZxcHJjQWM3N01jd0NBd3hON0k5eW9DelU1TnhaQWdnem92ZDVzaXJGeEs3R2szOWZmVE9RZw?oc=5\" target=\"_blank\">Is India Planning an Exchange of Territory With Myanmar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWm5YSzdCTEZWU2tXa001b2FFWFZIakJTVHIwdlJxR0IzeDVPdlVrLVNrTXU4ZmwxXzlMb3B2OTdONUg4ZFVvdlpmVGs2NDM5XzJGUGJtOVV5RTVkTUZxcHJjQWM3N01jd0NBd3hON0k5eW9DelU1TnhaQWdnem92ZDVzaXJGeEs3R2szOWZmVE9RZw?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur’s New Ethnic Faultline: Nagas, Kukis and Blockades",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaC1waGY5blhvQk1qNHdQdnpiaXlLZ2UyQTdlTXFGRERRbUZQTWFTTXhIdWpITHNvYlFaN1NpZUZ6cDBtZTVpbDhtMkdmeHI3Wlpwbk01azltM0QxYzdoVU9TN3BCdURMVVZ0TEo2RTA0TTVKb3FaMXAwRTNudnZYeFdsYk9ER3pUc0hIU2xLMWs3d9IBmAFBVV95cUxOLUg3WDFqbmstYUlyWlpGRlpKWXYtUUV4ZnU2VkZRU2VCckluZUFDN2l5U1JGMzBkckVRRW9OWHRYZE5BSWNtc19uSU5FaFBNTURvelQ5eGQyaWw4c3NYeHFIMkxZTV9LTElSY2txTzhsZ09PTzVpbGRYWkxpa1dQNkZRam83aFdpOVkxbXdJT201TXpPOFRjRw?oc=5\" target=\"_blank\">Manipur’s New Ethnic Faultline: Nagas, Kukis and Blockades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaC1waGY5blhvQk1qNHdQdnpiaXlLZ2UyQTdlTXFGRERRbUZQTWFTTXhIdWpITHNvYlFaN1NpZUZ6cDBtZTVpbDhtMkdmeHI3Wlpwbk01azltM0QxYzdoVU9TN3BCdURMVVZ0TEo2RTA0TTVKb3FaMXAwRTNudnZYeFdsYk9ER3pUc0hIU2xLMWs3d9IBmAFBVV95cUxOLUg3WDFqbmstYUlyWlpGRlpKWXYtUUV4ZnU2VkZRU2VCckluZUFDN2l5U1JGMzBkckVRRW9OWHRYZE5BSWNtc19uSU5FaFBNTURvelQ5eGQyaWw4c3NYeHFIMkxZTV9LTElSY2txTzhsZ09PTzVpbGRYWkxpa1dQNkZRam83aFdpOVkxbXdJT201TXpPOFRjRw?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur CM urges youth to stay drug-free at launch of anti-narcotics campaign",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2ZKS3JiWmUteURYbk40cW41NTY1OHlSb3pGU0NfUkdkcndtQTlURU9DRjlDWmZPSTFDbC1LYmcyQ3p4QURURXktelN1WUhMZzhvWE4za1cwb0tBU2o5d0FMSXhTcmN2dXZvbzZIbkpIeHFaV1NPNU1fTE1CaWN1QkhpTjltSVlySkd5eXRHT1VrRkZMeV8zeFEzQXlQc1FyemN6NUxDc3BsNmRIbFljdTJzenR0cFBEdjBPbWpHeDVoWkhCM0dMWEtzY3R4Y1VfNnpJR9IB2gFBVV95cUxOU09PLTFKVlhadkpFZGt3N001ME9CeGxmbWtRVXBxcS1Ta1RzU2tSTFdGRFVRX0tHTDc3UzdsVFlzR183TWEzRDBMT2JyamhDdEJMTkhFQkNsNjhqekdqeVhnejhjTWRHNlAwVXpIX1hZTXB3RC1YMlR2dDJ4TUJGczZOU1pJc1AwUDVhbGIyd2szNnlGVUpmd1pFeEFRY2F1NjJqOVhQZ2FEQjdjTFNBUlYzYzZ2c0ZaVGVVdkUyXzZFY1dhcGI0WkdaQjNEM0NISW5uR3NoNTBndw?oc=5\" target=\"_blank\">Manipur CM urges youth to stay drug-free at launch of anti-narcotics campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2ZKS3JiWmUteURYbk40cW41NTY1OHlSb3pGU0NfUkdkcndtQTlURU9DRjlDWmZPSTFDbC1LYmcyQ3p4QURURXktelN1WUhMZzhvWE4za1cwb0tBU2o5d0FMSXhTcmN2dXZvbzZIbkpIeHFaV1NPNU1fTE1CaWN1QkhpTjltSVlySkd5eXRHT1VrRkZMeV8zeFEzQXlQc1FyemN6NUxDc3BsNmRIbFljdTJzenR0cFBEdjBPbWpHeDVoWkhCM0dMWEtzY3R4Y1VfNnpJR9IB2gFBVV95cUxOU09PLTFKVlhadkpFZGt3N001ME9CeGxmbWtRVXBxcS1Ta1RzU2tSTFdGRFVRX0tHTDc3UzdsVFlzR183TWEzRDBMT2JyamhDdEJMTkhFQkNsNjhqekdqeVhnejhjTWRHNlAwVXpIX1hZTXB3RC1YMlR2dDJ4TUJGczZOU1pJc1AwUDVhbGIyd2szNnlGVUpmd1pFeEFRY2F1NjJqOVhQZ2FEQjdjTFNBUlYzYzZ2c0ZaVGVVdkUyXzZFY1dhcGI0WkdaQjNEM0NISW5uR3NoNTBndw?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Sun, 02 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur vows privacy-first approach to digital governance, AI adoption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSk02Z1k1UE5MTnNQSndLVU96dFBsa3M0Q19SQmRERkpsX3NiWkJrNG1wQV9UNFhyMFM0ZDhmblpRWHBPcTB2T2NfR0cybGpTQloxUHQ1M0ZvQTBkdXBQRHFSTUlmOEdWeVhZa2JiSExoODA3LS03a2VSYzdIX2xmRUFlS2hJc1NPa2pwRTRZbU1GRWtwQVlkbDc5bk82RkotdWlDNHBTWEJXaHE5NFd3SUI2RdIBuAFBVV95cUxPSnVsVTRGWml0VjV6UDB0eUEtRFdTUThIaUdhbUpFQ0hEbll5MlF3ZzZLQWpjLVdiSW94QVdIODdzWUFHTDBNcm1ENkduNXROMVE2eEM0MHAtT2tVWlRlQ3lRT0xwTGVEcm9ydFkxMUh5QzFDaDJPNXFiN09JRkR2T2ZRcnVYbUxiaXNnam9IcDU3WDhwekpubVd1SEZrNXRJYVFvaWk2QkdWZ3lZVnQ0Y2t4b19IaXZj?oc=5\" target=\"_blank\">Manipur vows privacy-first approach to digital governance, AI adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSk02Z1k1UE5MTnNQSndLVU96dFBsa3M0Q19SQmRERkpsX3NiWkJrNG1wQV9UNFhyMFM0ZDhmblpRWHBPcTB2T2NfR0cybGpTQloxUHQ1M0ZvQTBkdXBQRHFSTUlmOEdWeVhZa2JiSExoODA3LS03a2VSYzdIX2xmRUFlS2hJc1NPa2pwRTRZbU1GRWtwQVlkbDc5bk82RkotdWlDNHBTWEJXaHE5NFd3SUI2RdIBuAFBVV95cUxPSnVsVTRGWml0VjV6UDB0eUEtRFdTUThIaUdhbUpFQ0hEbll5MlF3ZzZLQWpjLVdiSW94QVdIODdzWUFHTDBNcm1ENkduNXROMVE2eEM0MHAtT2tVWlRlQ3lRT0xwTGVEcm9ydFkxMUh5QzFDaDJPNXFiN09JRkR2T2ZRcnVYbUxiaXNnam9IcDU3WDhwekpubVd1SEZrNXRJYVFvaWk2QkdWZ3lZVnQ0Y2t4b19IaXZj?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur government ready to conduct NRC exercise under legal framework: Home Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN184aDlIVW8xZEhoU2RWT2owbTZra3VCbDFtalFsRnFBWEdVdFdiRFgySXBRV21WT1lYWjZaYmEtWmpxU29DT1otU1ZoTzhsTkRFaEZTelU3d0czZms5Mm9tWTBIZGR1Z1JXYlNUdjZ0eC1aVk5WSlFxZEh0clBFS0w2TVBkREViSWFYMS14ZWtaVm9nczdUSTlCR1I2RUZJYWZ5TFpCcjNQQkNhQ0NmbXF0NWJ4NWZ2cWd0b0VWU1d1VEUwb3hFVXdqSVBKU2FWdTJxa3JsSzZHZFVvaHRwX3p3TdIB6AFBVV95cUxOSGdhZ05IMzlsMkY0S0hLRmFTX0hKZUVKNmNtc2MySE16VkZYSklNSVU2eGlyRVlpYUFyRWVxSXVCVjUtcmZqSF81LUQxOWVhYVd5YU05T1VFVWQ4WmZsb0pvV1p0cmc1RV9mTlF6UXNEVXBXREdBLVAtNWVEUTc0V2VWUGFFOTByRjNvLTF5ZmsxWVlFbUk0cEpXZHR0UG9PN3J6ZkF0WWlCeWxMUERielJXUkIzTGdOWXVUcWtURGhWZ0liVklmY0d2dFFJVGl3cjVCaWpUOUVicFZsX1FDQndRUW1CR0Fs?oc=5\" target=\"_blank\">Manipur government ready to conduct NRC exercise under legal framework: Home Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN184aDlIVW8xZEhoU2RWT2owbTZra3VCbDFtalFsRnFBWEdVdFdiRFgySXBRV21WT1lYWjZaYmEtWmpxU29DT1otU1ZoTzhsTkRFaEZTelU3d0czZms5Mm9tWTBIZGR1Z1JXYlNUdjZ0eC1aVk5WSlFxZEh0clBFS0w2TVBkREViSWFYMS14ZWtaVm9nczdUSTlCR1I2RUZJYWZ5TFpCcjNQQkNhQ0NmbXF0NWJ4NWZ2cWd0b0VWU1d1VEUwb3hFVXdqSVBKU2FWdTJxa3JsSzZHZFVvaHRwX3p3TdIB6AFBVV95cUxOSGdhZ05IMzlsMkY0S0hLRmFTX0hKZUVKNmNtc2MySE16VkZYSklNSVU2eGlyRVlpYUFyRWVxSXVCVjUtcmZqSF81LUQxOWVhYVd5YU05T1VFVWQ4WmZsb0pvV1p0cmc1RV9mTlF6UXNEVXBXREdBLVAtNWVEUTc0V2VWUGFFOTByRjNvLTF5ZmsxWVlFbUk0cEpXZHR0UG9PN3J6ZkF0WWlCeWxMUERielJXUkIzTGdOWXVUcWtURGhWZ0liVklmY0d2dFFJVGl3cjVCaWpUOUVicFZsX1FDQndRUW1CR0Fs?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:24+00:00"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "region": "Manipur",
+ "group": "A",
+ "query": "(Manipur) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Manipur%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:15+00:00",
+ "item_count": 4,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Future of Machine Learning (ML) in 2050",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2JVaVJqNHVQajZaNjBPQ1I0bE1zVmMwQm9nbUtfSnJQVExqMWhKZThlR3lfaW01Rm5FNWxEMHZLQVE5T1p0SFRqazZER2FldzBCUWQ3SUZMTGFaTGR3RVBTd29pUkNMWjJ6RXpQZ0xmQ2l1TzNIZzRaZ1ExN0wyeko0RW1qUdIBiwFBVV95cUxOMXFXZXFTRXJfb0tDZ1NRR19nTER6Q0NuaS00djBYZVQ1bUt4bGZmYXd0YTIyRVZWNnhEYms0WG1aa01JMjdyOWhWdjl2aW9QV2dGQjRRTVJXYUZWLVl0bEVXUmxCZlBzWlAyVmJKXzVOVFh4MzZua2lhV3VYTzhIUEgzRVBMdmNxOW5j?oc=5\" target=\"_blank\">Future of Machine Learning (ML) in 2050</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Imphal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2JVaVJqNHVQajZaNjBPQ1I0bE1zVmMwQm9nbUtfSnJQVExqMWhKZThlR3lfaW01Rm5FNWxEMHZLQVE5T1p0SFRqazZER2FldzBCUWQ3SUZMTGFaTGR3RVBTd29pUkNMWjJ6RXpQZ0xmQ2l1TzNIZzRaZ1ExN0wyeko0RW1qUdIBiwFBVV95cUxOMXFXZXFTRXJfb0tDZ1NRR19nTER6Q0NuaS00djBYZVQ1bUt4bGZmYXd0YTIyRVZWNnhEYms0WG1aa01JMjdyOWhWdjl2aW9QV2dGQjRRTVJXYUZWLVl0bEVXUmxCZlBzWlAyVmJKXzVOVFh4MzZua2lhV3VYTzhIUEgzRVBMdmNxOW5j?oc=5",
+   "source_name": "Imphal Times",
+   "source_domain": "imphaltimes.com",
+   "published_raw": "Sun, 14 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Elected govt in Manipur soon? NDA MLAs from hill state summoned to Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUS1SVHNpdmxQOER5bG42WEdGRFBlcUZzNmdSRDZRdzhCc2cyU1ZYYldzS18tc2NPMVhqcG51MHVMYzY3eXM5ZDJ1ZDdGN2tnRGVZTkdxdjdTZWtPSjlmNW5uczZ0UzljbWFCeExRaEQySENDbHY2Ni16aGpoSVNuYm5qMFJ6YjR4N1o4YWo1T01jWmx3TF9oaHBmWG02dEVhckRGLWpzZjFuTDJCNE5aMktsb0otVXNNcUFMQWRCSngzV25CU0J6ZFdhU0lFTlJLaWJMZTlB0gHbAUFVX3lxTFAtVUF2MGdvQzh2Vzg4NTk5VjdSODVRanlsSjktLVdRd1hjZWpFVnh5VS16a0YybDB0elBreUQtU0NJOFdvWnJJS2s4SkNyTlpxZ0NnTEFYYjhlSm9sNTNtRWtubHhxTUZnZTV3SlV5Uy10TmhVYWh4WWZ3TFhNMFMwbUV1bjRQZ0dNWlUxVXhDYXhTdHJzbXltcTdTblh0cEJCQmlKbWEzNUlLaUxGMGNDejI0MDF5Q2cxZ1NIbEtfcTQ1M3h0MjFwU0pRM2JtOUhXWU03VkFmSWVVdw?oc=5\" target=\"_blank\">Elected govt in Manipur soon? NDA MLAs from hill state summoned to Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUS1SVHNpdmxQOER5bG42WEdGRFBlcUZzNmdSRDZRdzhCc2cyU1ZYYldzS18tc2NPMVhqcG51MHVMYzY3eXM5ZDJ1ZDdGN2tnRGVZTkdxdjdTZWtPSjlmNW5uczZ0UzljbWFCeExRaEQySENDbHY2Ni16aGpoSVNuYm5qMFJ6YjR4N1o4YWo1T01jWmx3TF9oaHBmWG02dEVhckRGLWpzZjFuTDJCNE5aMktsb0otVXNNcUFMQWRCSngzV25CU0J6ZFdhU0lFTlJLaWJMZTlB0gHbAUFVX3lxTFAtVUF2MGdvQzh2Vzg4NTk5VjdSODVRanlsSjktLVdRd1hjZWpFVnh5VS16a0YybDB0elBreUQtU0NJOFdvWnJJS2s4SkNyTlpxZ0NnTEFYYjhlSm9sNTNtRWtubHhxTUZnZTV3SlV5Uy10TmhVYWh4WWZ3TFhNMFMwbUV1bjRQZ0dNWlUxVXhDYXhTdHJzbXltcTdTblh0cEJCQmlKbWEzNUlLaUxGMGNDejI0MDF5Q2cxZ1NIbEtfcTQ1M3h0MjFwU0pRM2JtOUhXWU03VkFmSWVVdw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Violence, shutdown in Kuki areas over MLAs joining Manipur government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEtSQ3o5Y1FieU5HZkN2c2xETW45djVyVnEyUUtzMnl1a2N3ZU9LR3FNdGpLQ19YajBZaGRWVmtwWndRdjZ2RHQ3eF9zem93Uk5GWXlFQWpFMnBhMUowNWxDWTJWdmpFMk5zc0JnSGhaLVZ6OEh4OGc4cXoxZ0tydzdYblQzZTEwVTJzT19ROHNHMk1wXzVIbnB4RFBVcjNPcWtaXzRTMGlCMzZES0FaaG5BbjUxVFRrb2pDNkhjVFA5Y2FfcmVzcTNJMkNFd9IB0wFBVV95cUxQVmpNT3Z1czJzOVJYNlNOMTExOUtfWGhraFFBVzVMdjFaU0lna0I1X1hRRktLdFVKZUY3ZnIxX01sLXhFUHVuZ3ZsNlhYbDdRdFFHV0RCZ3lQaWdtRm5sOXpGd01ITVpkY0ZNVHROZ2J2ZGtLelhXdWRNR2RnSVd1TVRNMGhJTnhveUUtUEJSUk1ycTV0UHBrWnpwZkJBRzZkS3ZUeVR4a2Q2MGNrMGNSNjBfUlR0cThWUHlTTW1TSkstbVN3MV8xMGRWX1JTV2dVWXd3?oc=5\" target=\"_blank\">Violence, shutdown in Kuki areas over MLAs joining Manipur government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEtSQ3o5Y1FieU5HZkN2c2xETW45djVyVnEyUUtzMnl1a2N3ZU9LR3FNdGpLQ19YajBZaGRWVmtwWndRdjZ2RHQ3eF9zem93Uk5GWXlFQWpFMnBhMUowNWxDWTJWdmpFMk5zc0JnSGhaLVZ6OEh4OGc4cXoxZ0tydzdYblQzZTEwVTJzT19ROHNHMk1wXzVIbnB4RFBVcjNPcWtaXzRTMGlCMzZES0FaaG5BbjUxVFRrb2pDNkhjVFA5Y2FfcmVzcTNJMkNFd9IB0wFBVV95cUxQVmpNT3Z1czJzOVJYNlNOMTExOUtfWGhraFFBVzVMdjFaU0lna0I1X1hRRktLdFVKZUY3ZnIxX01sLXhFUHVuZ3ZsNlhYbDdRdFFHV0RCZ3lQaWdtRm5sOXpGd01ITVpkY0ZNVHROZ2J2ZGtLelhXdWRNR2RnSVd1TVRNMGhJTnhveUUtUEJSUk1ycTV0UHBrWnpwZkJBRzZkS3ZUeVR4a2Q2MGNrMGNSNjBfUlR0cThWUHlTTW1TSkstbVN3MV8xMGRWX1JTV2dVWXd3?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "What is happening in Manipur? Fresh firing in Ukhrul’s Litan as violence enters third day, 21 houses torched",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2x3cUF6Mklqa2pfel9RYUhrVGd3SlBlZ0trZmFqUGZ0ZUtUU2dubWkyN1c5MWR6N2tjcGRKMlJEcHVlZ2hzQUllRGV6U0hUM3IxaDVXMTZEVVVUcGp5ZmViVUM3WE5vdVlXMlJnbFlmb283VWh5dW9ETU50NW9wZGJwVkhfTmdJTGJRaVJrQ1Q2QXlRSHZPYlk1VUt0Q19HaS1NbC1tRmZNR1A0UVVFOGR3UFNYNjl4VkhsWWhScmdkQ19jZngzY0w3VDBPckVlLWwzWGRIZURucWtpVWhkLVBaYUExWGRIZ0k0b1Q5UURHck120gH6AUFVX3lxTFB1T0dFU003bmtBMGFuTldIaXlDWHlMcTljSWpnRTItR3lHRk9MNE5tbFd4Z2hjQW9nZ0FMaWxTdHdlZHM2Wmt6dW54eGdRZjB3T3c2WmlqRTdUOGFfM0V1NDZLZnpWQ3NYdlZDcjVaVHhoVDJTemg5WC1iQ2pyOFRYazdiQ2F2MlRyMWxPWmpnbGpzQUY0Q3NTcDhrVGVRd2JXYW1zUnBINjZYbjRQOWZMMmdoTXVQaDBLaFlUMXJxaUhqcV80SFJWMm1DTXdDdUNMWTBUWmt0ZXpqajkyVmpqWmpacWNsS3JHeVNSOHZYOGJ1cEQ2Y0JFQWc?oc=5\" target=\"_blank\">What is happening in Manipur? Fresh firing in Ukhrul’s Litan as violence enters third day, 21 houses torched</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU2x3cUF6Mklqa2pfel9RYUhrVGd3SlBlZ0trZmFqUGZ0ZUtUU2dubWkyN1c5MWR6N2tjcGRKMlJEcHVlZ2hzQUllRGV6U0hUM3IxaDVXMTZEVVVUcGp5ZmViVUM3WE5vdVlXMlJnbFlmb283VWh5dW9ETU50NW9wZGJwVkhfTmdJTGJRaVJrQ1Q2QXlRSHZPYlk1VUt0Q19HaS1NbC1tRmZNR1A0UVVFOGR3UFNYNjl4VkhsWWhScmdkQ19jZngzY0w3VDBPckVlLWwzWGRIZURucWtpVWhkLVBaYUExWGRIZ0k0b1Q5UURHck120gH6AUFVX3lxTFB1T0dFU003bmtBMGFuTldIaXlDWHlMcTljSWpnRTItR3lHRk9MNE5tbFd4Z2hjQW9nZ0FMaWxTdHdlZHM2Wmt6dW54eGdRZjB3T3c2WmlqRTdUOGFfM0V1NDZLZnpWQ3NYdlZDcjVaVHhoVDJTemg5WC1iQ2pyOFRYazdiQ2F2MlRyMWxPWmpnbGpzQUY0Q3NTcDhrVGVRd2JXYW1zUnBINjZYbjRQOWZMMmdoTXVQaDBLaFlUMXJxaUhqcV80SFJWMm1DTXdDdUNMWTBUWmt0ZXpqajkyVmpqWmpacWNsS3JHeVNSOHZYOGJ1cEQ2Y0JFQWc?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:15+00:00"
+  }
+ ]
+}

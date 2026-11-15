@@ -1,0 +1,98 @@
+{
+ "region": "Uttarakhand",
+ "group": "B",
+ "query": "(Uttarakhand) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Uttarakhand%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:00+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand Governor launches AI Mission-2025 policy at Raj Bhavan",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2ZKLUhNaG8yVDRuRDRwX0tkUm5qN3owRy1Sam85bDEzZHJ2MDRnUU12dDZ1MElkSTZrWFQ4TXBKcEV6WWgtWTR1bVY4MUdjZUNaYnBTNVNkT3A3UkpnZGtwRkt1SHM2dk5ONFI0ZjQ5TzF4Tm5USEdnTjkxMWRmeE1mWjRsb25ZY1VmQkRndkE4ZURXdTZXYUdjNlRwc3I3LUN2MU4td2lpTE5qYUU1QktIeDM2M19pMFhDMDJUYkx6U3drSm5TVnhB?oc=5\" target=\"_blank\">Uttarakhand Governor launches AI Mission-2025 policy at Raj Bhavan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2ZKLUhNaG8yVDRuRDRwX0tkUm5qN3owRy1Sam85bDEzZHJ2MDRnUU12dDZ1MElkSTZrWFQ4TXBKcEV6WWgtWTR1bVY4MUdjZUNaYnBTNVNkT3A3UkpnZGtwRkt1SHM2dk5ONFI0ZjQ5TzF4Tm5USEdnTjkxMWRmeE1mWjRsb25ZY1VmQkRndkE4ZURXdTZXYUdjNlRwc3I3LUN2MU4td2lpTE5qYUU1QktIeDM2M19pMFhDMDJUYkx6U3drSm5TVnhB?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "'I'm not a spy': Ex-Uttarakhand CM Harish Rawat on AI-generated video; stages march, sits in protest near",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOSjNrSE9VRllXUkt1NWJmRFZpWDhZSGtPaU9oZjR5U3JDb2VDT0c3dDRia285M1dELUJWaUVxSnNyS1FmZWc5ZXhOZE83dWtGVXZVaWNIMEJBdmNSWE9MWTNtTGxONXg4YzJRNVlDd2haLUI2WkducGxBZ2JCMUZVUmw4aFRhWVBNSHZlVEZiUlRua3ROU0RobzdKWXNlaWZaTFZZNFU4ZDlObUlsaUx4TV9KQWRBRllSY3FDY29tR3MzVWN6b0NjYVk5Mk5zWW4wdTc4eUVKN21ienRVVHk2Nm9SS3NBOFA3YXlUaHVjZWZnU043NGNYbkw0T2xBVWtVZm0wT3gyMkFSUTJZNkdKV0RjR1jSAZoCQVVfeXFMTkFHcjlHWFZyaEkwSzc4ckZKUWpQRWNUMWJjMVBPZHBzem4wU0dndTN3aDJDd2wyaDcwQnk1RlE5WmlnWlJIZVR6MEtlNG4zdnNDbkU3NmZyX2FDQ0RuMTF5Rzg0c0FGeUdsTUlOVVdVZDNVOVVabllScTMzUjJmeW5xeGFyQkNzMzFkRG1yOGZnNFlFa1NNZzNyQTNlOHdSWDFtcGFLaVc5N3dJQ1hvLTJEeXctemROemFnUmNkalV4UExNUi1LcElqaVhsWlNlNjNXbk1qMzJOVmU2UjZ5YlN6YjQ0ZlhEMlk4VWdKQjhoZWUzSXRiaFp1X2czWnpnRnkyVHkyelJlUHlnVHBBeTc1S1M2TXRKQi1R?oc=5\" target=\"_blank\">'I'm not a spy': Ex-Uttarakhand CM Harish Rawat on AI-generated video; stages march, sits in protest near</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSjNrSE9VRllXUkt1NWJmRFZpWDhZSGtPaU9oZjR5U3JDb2VDT0c3dDRia285M1dELUJWaUVxSnNyS1FmZWc5ZXhOZE83dWtGVXZVaWNIMEJBdmNSWE9MWTNtTGxONXg4YzJRNVlDd2haLUI2WkducGxBZ2JCMUZVUmw4aFRhWVBNSHZlVEZiUlRua3ROU0RobzdKWXNlaWZaTFZZNFU4ZDlObUlsaUx4TV9KQWRBRllSY3FDY29tR3MzVWN6b0NjYVk5Mk5zWW4wdTc4eUVKN21ienRVVHk2Nm9SS3NBOFA3YXlUaHVjZWZnU043NGNYbkw0T2xBVWtVZm0wT3gyMkFSUTJZNkdKV0RjR1jSAZoCQVVfeXFMTkFHcjlHWFZyaEkwSzc4ckZKUWpQRWNUMWJjMVBPZHBzem4wU0dndTN3aDJDd2wyaDcwQnk1RlE5WmlnWlJIZVR6MEtlNG4zdnNDbkU3NmZyX2FDQ0RuMTF5Rzg0c0FGeUdsTUlOVVdVZDNVOVVabllScTMzUjJmeW5xeGFyQkNzMzFkRG1yOGZnNFlFa1NNZzNyQTNlOHdSWDFtcGFLaVc5N3dJQ1hvLTJEeXctemROemFnUmNkalV4UExNUi1LcElqaVhsWlNlNjNXbk1qMzJOVmU2UjZ5YlN6YjQ0ZlhEMlk4VWdKQjhoZWUzSXRiaFp1X2czWnpnRnkyVHkyelJlUHlnVHBBeTc1S1M2TXRKQi1R?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 26 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand Govt Eases Construction Rules To Boost Development - PT Pulse",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0xxaHYzYmF5OFhJRUZERUZjc3J2bUZ3UEN3dnNhSGw0U195Y1BxNGlGTk5ZZ0thTUR4RWJwRUFZcUJQejJmZWtzV01ZMGQ1NHRjOUdSZ1ZNUWhfd1Y1OWlqSFpWQzVwbmdqN0xtNXVmbzNUV1NXSm5vS0RkV1pidm0xSERUYnE4NHE1bVJaQkN5Y3o4SG9pbDRMN0ZyMGswUTAza080T0hTYVRId3l1YlJ3?oc=5\" target=\"_blank\">Uttarakhand Govt Eases Construction Rules To Boost Development - PT Pulse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Projects Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0xxaHYzYmF5OFhJRUZERUZjc3J2bUZ3UEN3dnNhSGw0U195Y1BxNGlGTk5ZZ0thTUR4RWJwRUFZcUJQejJmZWtzV01ZMGQ1NHRjOUdSZ1ZNUWhfd1Y1OWlqSFpWQzVwbmdqN0xtNXVmbzNUV1NXSm5vS0RkV1pidm0xSERUYnE4NHE1bVJaQkN5Y3o4SG9pbDRMN0ZyMGswUTAza080T0hTYVRId3l1YlJ3?oc=5",
+   "source_name": "Projects Today",
+   "source_domain": "projectstoday.ai",
+   "published_raw": "Thu, 11 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "FIR filed over AI video targeting Uttarakhand ex-CM Harish Rawat, BJP denies role",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkZpOF9zblZadnNtSG9ZREJRbDVrM3FpcFR6N2RYWFprN3B2SXBmN2hkaFk2cXN2cnJ1dGpWdkh4V3BTZ0RMTy00MW9ZUWJlQ2hmaGNnV1o4MkdIVGJBOGdzM09qNkR0dUlvVEZwdGQ5MDAya1Q3SlRBaDYtb3duTU1PdzR1QWJHTGt5NGRBdXY1YmdhakxMU05ld2s5aENaeVF3YV9Lbmp3bVHSAbIBQVVfeXFMTXZhZ0tHV3hyME4wWmZtYjhKaHFLald0bktlUkp3LVgtM2VGSy1UcDFwczlZSGRJZ0lKdFlXV2VLeGFoQWhfVlgxZ0liRlJYbFBsZlZnTlZiYjhUQlhBN1lLd0NFM3JmVGNLNmVOQlZSR1NmUVFKRVdoXzI1ZFNGUzVuYk9mNlJ3UDgzdGE3T3EtTDc5b2RkOWxsbmk4U3l2MWhrSXZGWmtheEpIeTMyb1ZIdw?oc=5\" target=\"_blank\">FIR filed over AI video targeting Uttarakhand ex-CM Harish Rawat, BJP denies role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkZpOF9zblZadnNtSG9ZREJRbDVrM3FpcFR6N2RYWFprN3B2SXBmN2hkaFk2cXN2cnJ1dGpWdkh4V3BTZ0RMTy00MW9ZUWJlQ2hmaGNnV1o4MkdIVGJBOGdzM09qNkR0dUlvVEZwdGQ5MDAya1Q3SlRBaDYtb3duTU1PdzR1QWJHTGt5NGRBdXY1YmdhakxMU05ld2s5aENaeVF3YV9Lbmp3bVHSAbIBQVVfeXFMTXZhZ0tHV3hyME4wWmZtYjhKaHFLald0bktlUkp3LVgtM2VGSy1UcDFwczlZSGRJZ0lKdFlXV2VLeGFoQWhfVlgxZ0liRlJYbFBsZlZnTlZiYjhUQlhBN1lLd0NFM3JmVGNLNmVOQlZSR1NmUVFKRVdoXzI1ZFNGUzVuYk9mNlJ3UDgzdGE3T3EtTDc5b2RkOWxsbmk4U3l2MWhrSXZGWmtheEpIeTMyb1ZIdw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 24 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand to set up district-wise sterilisation centres, AI alert systems to tackle rising wildlife att",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNdHI1eTdvTURzUUVQY2s4MzRwbWJ2N0g3OGV6OS1EZS1OMjQ3R1dmYVRodE5jSjc4emg3ZmxEOTRfZDJFTFkxb2RKWnFsWDZGbUpwM1VKYkp2d3ZfUUhBblRzMkhsZEVMb2RJaHdPMmdUV3dJemxOaWRlR01qSGZLMUhzNHNjdjF1TnBsZTZhRnVETUVvSWVIWDVVVmZpT2hKYlh3VGJzdW9zeDlxZXRfMzRrcGdWZV84SVdYcFVjZUtGODF4YWt3aldWSXVkYk10UTB2STJvNUh1eXJLRWxsTU0zZk5kLXQ4U3NaX0ZHVEhKaGRDY0hLdEpRc2ZQajRHSFJhRHA1RmlxcmxyNnlnamhB0gGXAkFVX3lxTE9IVkJNVGVXV0x0OE9oaVBVTlc5MXpkYXZrdFJ1R3I5TS1jXzdUTWZ5b3BxS1Q2d0dNYTV0YWJWTzJrSXFsOUhYYy1WTmR6dU5iS1ZpYWNHS2NiZUY0ZF9VN3Ezb3lEaGhnUzZacmRLWEdjeFhoXzFkMkd6QWI1dzBqZUdRcFp2VElGclRtVFhPOXNoX3F2bDRROVF6Skk0UDY3b3FkUVlWT0lTYlk2UGt6VkZEREJNbThBNGh1YUdSa01qUUJucG1Wa3RTZkh3VHlsdDNlcFFEV2RlUnAzbTR3d1lyaFpWUThRU09rbERaZ3pWOFBGOTFlVDZqd1UwOE1ydGFlMGxqaUVBeGdadzN0azNQWWRvRQ?oc=5\" target=\"_blank\">Uttarakhand to set up district-wise sterilisation centres, AI alert systems to tackle rising wildlife att</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdHI1eTdvTURzUUVQY2s4MzRwbWJ2N0g3OGV6OS1EZS1OMjQ3R1dmYVRodE5jSjc4emg3ZmxEOTRfZDJFTFkxb2RKWnFsWDZGbUpwM1VKYkp2d3ZfUUhBblRzMkhsZEVMb2RJaHdPMmdUV3dJemxOaWRlR01qSGZLMUhzNHNjdjF1TnBsZTZhRnVETUVvSWVIWDVVVmZpT2hKYlh3VGJzdW9zeDlxZXRfMzRrcGdWZV84SVdYcFVjZUtGODF4YWt3aldWSXVkYk10UTB2STJvNUh1eXJLRWxsTU0zZk5kLXQ4U3NaX0ZHVEhKaGRDY0hLdEpRc2ZQajRHSFJhRHA1RmlxcmxyNnlnamhB0gGXAkFVX3lxTE9IVkJNVGVXV0x0OE9oaVBVTlc5MXpkYXZrdFJ1R3I5TS1jXzdUTWZ5b3BxS1Q2d0dNYTV0YWJWTzJrSXFsOUhYYy1WTmR6dU5iS1ZpYWNHS2NiZUY0ZF9VN3Ezb3lEaGhnUzZacmRLWEdjeFhoXzFkMkd6QWI1dzBqZUdRcFp2VElGclRtVFhPOXNoX3F2bDRROVF6Skk0UDY3b3FkUVlWT0lTYlk2UGt6VkZEREJNbThBNGh1YUdSa01qUUJucG1Wa3RTZkh3VHlsdDNlcFFEV2RlUnAzbTR3d1lyaFpWUThRU09rbERaZ3pWOFBGOTFlVDZqd1UwOE1ydGFlMGxqaUVBeGdadzN0azNQWWRvRQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 20 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand CM flags off 'Lab on Wheels' to boost skill development",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPOU91RFlfNzlLbGVXV3dTOEFac0I0elFmc3NuYWdmTkZwTDNwbmNtMTJCMmItcFcySXVuQlVSMDdyS1ZtSDItSWk2Z3NneHpPejN2WDlzeW5hUGsxZ01scTJsUlZ5SV8tVGI4aWJtZHdFS2NBbzdUd29ELWpSQTNNVEFqanpWeUgwc2lYWWpRcG9wZnl2VklKMjA4ZUVHX0VXclpOUG1OZEJQRlM4ZzY5bDRRVkc2OU1jbEFZc2hnMmFfckxMcjM0cE5B?oc=5\" target=\"_blank\">Uttarakhand CM flags off 'Lab on Wheels' to boost skill development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOU91RFlfNzlLbGVXV3dTOEFac0I0elFmc3NuYWdmTkZwTDNwbmNtMTJCMmItcFcySXVuQlVSMDdyS1ZtSDItSWk2Z3NneHpPejN2WDlzeW5hUGsxZ01scTJsUlZ5SV8tVGI4aWJtZHdFS2NBbzdUd29ELWpSQTNNVEFqanpWeUgwc2lYWWpRcG9wZnl2VklKMjA4ZUVHX0VXclpOUG1OZEJQRlM4ZzY5bDRRVkc2OU1jbEFZc2hnMmFfckxMcjM0cE5B?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 29 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand IT Professionals Launch AI Initiative To Preserve Pahari Languages",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQmpJWUNleHJNWlhCdzQ5X2lVeFc3aG9Tcm1LMm5wSi1rM283WGtCZEw5dzlIU3hIOXZrMV85MXp0aFBzZkRtYU5KQ0w4ZVJTanRIYTRVbDZsU3ptcXJUX0R5TFc5NXdFanNLNzBYTVZxZm5Jckg0WmdSMXR5b1A4LVlTZFNpNkZoUzdNQW1IZmZid2wxMl80bFlUVVJhM3Ntc2RfVGkwNVRTR1k2V2JoMnQwVE9oLWxQYnNqUXpGZzZkSi03T3RTOXVUNEdhQdIB0wFBVV95cUxQT2VjZ1RzOW9wTm1JZ1h3cmhpNW1HOEpsUHF1cVR4bWpZLWs1NVoxQlA5em5FMDd4d3dFelJ3c2p6cy1UYVlTN2FmTVJCSlJrZEstMjdGeTdIWF92bzFsSFJBMGJZdEpQWDVSUWdxbkxMcmdoclhfMU92c3FSR0dlWVpSamgtVExsRjEzZ3ZMRnJqVWhoYXZSTEItMUplWUFNS1JNaTBITmpIR09xZW9hR2YwLXhyN0p4SnlOSE9LS3Q2U3NJU1BHMHd0WTVsSkpmSXY4?oc=5\" target=\"_blank\">Uttarakhand IT Professionals Launch AI Initiative To Preserve Pahari Languages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQmpJWUNleHJNWlhCdzQ5X2lVeFc3aG9Tcm1LMm5wSi1rM283WGtCZEw5dzlIU3hIOXZrMV85MXp0aFBzZkRtYU5KQ0w4ZVJTanRIYTRVbDZsU3ptcXJUX0R5TFc5NXdFanNLNzBYTVZxZm5Jckg0WmdSMXR5b1A4LVlTZFNpNkZoUzdNQW1IZmZid2wxMl80bFlUVVJhM3Ntc2RfVGkwNVRTR1k2V2JoMnQwVE9oLWxQYnNqUXpGZzZkSi03T3RTOXVUNEdhQdIB0wFBVV95cUxQT2VjZ1RzOW9wTm1JZ1h3cmhpNW1HOEpsUHF1cVR4bWpZLWs1NVoxQlA5em5FMDd4d3dFelJ3c2p6cy1UYVlTN2FmTVJCSlJrZEstMjdGeTdIWF92bzFsSFJBMGJZdEpQWDVSUWdxbkxMcmdoclhfMU92c3FSR0dlWVpSamgtVExsRjEzZ3ZMRnJqVWhoYXZSTEItMUplWUFNS1JNaTBITmpIR09xZW9hR2YwLXhyN0p4SnlOSE9LS3Q2U3NJU1BHMHd0WTVsSkpmSXY4?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Tue, 18 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand Govt Turns To AI To Tackle Human-Wildlife Conflict",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOclhJREIxRWtNTzFhS0FCVm9XbjU4YmtyUFo4VXpndi1uRFQwdXJOSncyWTM0b0J5QUI5ODN1YUtUd3ZMNzhOWFpaM2NtNXJTNnAwT25kSXd6M1ozNTVxcmxhcTNCamVzbUh4OE54OV9ONk1OVXNGcFMxc21LZ3Q1ZDlnNGZGZWFUMG11dkZkTWwyN0tjZWpsU3VscEtreXMyRmU2N2tzVTdfeTVpenFuOGV30gG3AUFVX3lxTE15ckFnVFoxVHJLTnNxYzNGOWlZUmRqNHg0cWFqVnU2UWhuamh2eFYtU1lXMTZJWVVrMFduZ3kxMlcyajVwRVBRN0JIUGtHaGVRb29aRGlwR204YlNqUUVKcDVSOFFvRG40QjJjVmdNZmwxdlUzemU2eUstampZaDJTQzhSaWk0ZUhjdUtDMWtkeURjM2lTWHRTUW9KMXJGREpCa0gySTJyLTZZblE5OTJnMTVscW5NTQ?oc=5\" target=\"_blank\">Uttarakhand Govt Turns To AI To Tackle Human-Wildlife Conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclhJREIxRWtNTzFhS0FCVm9XbjU4YmtyUFo4VXpndi1uRFQwdXJOSncyWTM0b0J5QUI5ODN1YUtUd3ZMNzhOWFpaM2NtNXJTNnAwT25kSXd6M1ozNTVxcmxhcTNCamVzbUh4OE54OV9ONk1OVXNGcFMxc21LZ3Q1ZDlnNGZGZWFUMG11dkZkTWwyN0tjZWpsU3VscEtreXMyRmU2N2tzVTdfeTVpenFuOGV30gG3AUFVX3lxTE15ckFnVFoxVHJLTnNxYzNGOWlZUmRqNHg0cWFqVnU2UWhuamh2eFYtU1lXMTZJWVVrMFduZ3kxMlcyajVwRVBRN0JIUGtHaGVRb29aRGlwR204YlNqUUVKcDVSOFFvRG40QjJjVmdNZmwxdlUzemU2eUstampZaDJTQzhSaWk0ZUhjdUtDMWtkeURjM2lTWHRTUW9KMXJGREpCa0gySTJyLTZZblE5OTJnMTVscW5NTQ?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Sat, 20 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:00+00:00"
+  }
+ ]
+}

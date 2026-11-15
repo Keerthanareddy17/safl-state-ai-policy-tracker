@@ -1,0 +1,109 @@
+{
+ "region": "Himachal Pradesh",
+ "group": "A",
+ "query": "(\"Himachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Himachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:25+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "President Murmu announces ‘Skill the Nation Challenge’ to Boost AI Awareness and Future-Ready Learning; Jayant Chaudhary nominates three others after completing his SOAR AI Module",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JemV2a2Y5NnhRS2ZqeG1sd0preUQ5cUVYeHRzMm5BNkRZaERJc1lMcHNRcmpteWlmTDZraWRKaUtDVnAzX0VLYXZUXzNsU2dpWDRxd3ZJeWxlZTQ3bkxzQWRBZlowSjNJ?oc=5\" target=\"_blank\">President Murmu announces ‘Skill the Nation Challenge’ to Boost AI Awareness and Future-Ready Learning; Jayant Chaudhary nominates three others after completing his SOAR AI Module</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JemV2a2Y5NnhRS2ZqeG1sd0preUQ5cUVYeHRzMm5BNkRZaERJc1lMcHNRcmpteWlmTDZraWRKaUtDVnAzX0VLYXZUXzNsU2dpWDRxd3ZJeWxlZTQ3bkxzQWRBZlowSjNJ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh CM launches 'Padhai with AI' app",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1A2U2NiSnBac3d2c2dmWjR4aDhfMmRaTDhZb0Z4UzhfS0dyY1ZWb2tKS25Ob1RrYWVpRjJob3EtZVA0NlpRYzVjSWZNTDRWMm5ranlzTURGOE9GdzVvYzhjY3dKU2FLMGJUMnZReE5pTkN1OG5mMmNFdG5YeWV0TlZJZnlMN01nUE4tZzJadFI0LThPZTBSOEJuaHRMMkEwbHA1VGZpbXNORzgxX2dBSg?oc=5\" target=\"_blank\">Himachal Pradesh CM launches 'Padhai with AI' app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1A2U2NiSnBac3d2c2dmWjR4aDhfMmRaTDhZb0Z4UzhfS0dyY1ZWb2tKS25Ob1RrYWVpRjJob3EtZVA0NlpRYzVjSWZNTDRWMm5ranlzTURGOE9GdzVvYzhjY3dKU2FLMGJUMnZReE5pTkN1OG5mMmNFdG5YeWV0TlZJZnlMN01nUE4tZzJadFI0LThPZTBSOEJuaHRMMkEwbHA1VGZpbXNORzgxX2dBSg?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal's 'Green to Gold' plan: Regulated cannabis farming to boost economy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVlBMVjNfRUx6WGJZcW1McVlfRUpER2ZhTDNlQlEzTkVyd3ZWVXgzUThzUmVoTER5eHJKMEo5UlRUUXM1NzJ3Nkt6WjVmWFM2X18zZWhFMDhlNllpRWdDd0NNUnBFM2tCNjlyLVQ4NkxGT3JvNXNWd0c3aTdoRFRYN3NyNjgtaG1rZXdkV0ZYS0dUZk1zdk9jQUhkczR0cU1vbG9rVktnZmpVdnl0THdZTi1OandsTm0zNk1xcXQtWHd5WDlDZUlQU0xsVGEyR0w4ZzJkSENQOFZEZThfX2RJcnpBMl9MM0o4MlZHSm56UjR5Z3Z30gH6AUFVX3lxTE9lVDNsRXUwSE1ZZEpXSFVKc3dPQWxEeEJKSVpUSE1hYnlobVp1bE85NFVIdHZmUDlHVzI4SGc0dERoNFcwcFBZeEJXQ0tIMmd2M0lRRDR5clhaalkwS0ctZ2UzeXI4dTV3c213SzBmbFAzLTJQZ3ZOVUpLcmhvNU1wUXhST2pfNTJTcF9jMHFveFkteGFoMkstekJEanhtb3Q0VkNILWgzZDFaYjNwTDFORXRwNU1zSDJHa0dmOUtMRzl4anpKOG42NWZNNHFZS29sRk16RzVMaFFVTDVoMUdSVXZ5OHdnUkhIdFRiS3hLbndxcXlLSDQ4b1E?oc=5\" target=\"_blank\">Himachal's 'Green to Gold' plan: Regulated cannabis farming to boost economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVlBMVjNfRUx6WGJZcW1McVlfRUpER2ZhTDNlQlEzTkVyd3ZWVXgzUThzUmVoTER5eHJKMEo5UlRUUXM1NzJ3Nkt6WjVmWFM2X18zZWhFMDhlNllpRWdDd0NNUnBFM2tCNjlyLVQ4NkxGT3JvNXNWd0c3aTdoRFRYN3NyNjgtaG1rZXdkV0ZYS0dUZk1zdk9jQUhkczR0cU1vbG9rVktnZmpVdnl0THdZTi1OandsTm0zNk1xcXQtWHd5WDlDZUlQU0xsVGEyR0w4ZzJkSENQOFZEZThfX2RJcnpBMl9MM0o4MlZHSm56UjR5Z3Z30gH6AUFVX3lxTE9lVDNsRXUwSE1ZZEpXSFVKc3dPQWxEeEJKSVpUSE1hYnlobVp1bE85NFVIdHZmUDlHVzI4SGc0dERoNFcwcFBZeEJXQ0tIMmd2M0lRRDR5clhaalkwS0ctZ2UzeXI4dTV3c213SzBmbFAzLTJQZ3ZOVUpLcmhvNU1wUXhST2pfNTJTcF9jMHFveFkteGFoMkstekJEanhtb3Q0VkNILWgzZDFaYjNwTDFORXRwNU1zSDJHa0dmOUtMRzl4anpKOG42NWZNNHFZS29sRk16RzVMaFFVTDVoMUdSVXZ5OHdnUkhIdFRiS3hLbndxcXlLSDQ4b1E?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Sat, 27 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal CM Launches ‘Padhai with AI’ Learning Initiative",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxObHRrUUw2eDhxTFhsZlo0WGtPcHN6LXJPVGdBcHN0R3BFZVBHc0dlbWZvNnl0N01waWtsZzY0bFdtLUVVejFCWnhtX2d0UFRPOUdiRGFDRlFZSHBuNzZkaDdMal9IcEJDd1dNRGZoZHotamg0ejlidjlLbjlONmNYRFUzaWZTQQ?oc=5\" target=\"_blank\">Himachal CM Launches ‘Padhai with AI’ Learning Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObHRrUUw2eDhxTFhsZlo0WGtPcHN6LXJPVGdBcHN0R3BFZVBHc0dlbWZvNnl0N01waWtsZzY0bFdtLUVVejFCWnhtX2d0UFRPOUdiRGFDRlFZSHBuNzZkaDdMal9IcEJDd1dNRGZoZHotamg0ejlidjlLbjlONmNYRFUzaWZTQQ?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh cabinet approves township near Chandigarh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbG9sMUN2RDdTSG1yamk4czlhcmN5eEViOXZfMlR4N3lDTlh1QVl2cllsbklIMmdHTkIyQkJWR2swaUtUX2tBMS1udHdfYmZQUUJZRGgwUEp4VEVybUJOdUlxSWFEZWRzb011NzktLWhrcDIxckxYdTlNdGFsaXZIVlphT1NsUnJQYVotbUwtYnZNNG1qQzhycC1nNHdUUHF3WGNvSWRDZzFtR1p1QUM3SWpNeE1fU01YQUFaV2RRcVhjN3Nx0gHKAUFVX3lxTFAyMW9iSUt1aklmSWp4ZnBhTmFzT0hYWWZRcFdGWG1BakVqaElyNFdYNHNMaW83dDN5ZlZick1qMzNxYk5zX1FiV1VqWDZEaTU2bTNfTWVnd3FLM2F2MnM2MFFfVzRBWV9PcDN0MUZOaWdUc05WVGRWZUY2Rk1lN0ZOYWg2MHliRDFxV19SVURpZUNlVG9ra05PTmZ4UVd6NkwzWHA0aUV3WE0tekd4a3pRTENVU0xnRU82U0xUbXFKR3JwaEJPX19nc0E?oc=5\" target=\"_blank\">Himachal Pradesh cabinet approves township near Chandigarh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Realty</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbG9sMUN2RDdTSG1yamk4czlhcmN5eEViOXZfMlR4N3lDTlh1QVl2cllsbklIMmdHTkIyQkJWR2swaUtUX2tBMS1udHdfYmZQUUJZRGgwUEp4VEVybUJOdUlxSWFEZWRzb011NzktLWhrcDIxckxYdTlNdGFsaXZIVlphT1NsUnJQYVotbUwtYnZNNG1qQzhycC1nNHdUUHF3WGNvSWRDZzFtR1p1QUM3SWpNeE1fU01YQUFaV2RRcVhjN3Nx0gHKAUFVX3lxTFAyMW9iSUt1aklmSWp4ZnBhTmFzT0hYWWZRcFdGWG1BakVqaElyNFdYNHNMaW83dDN5ZlZick1qMzNxYk5zX1FiV1VqWDZEaTU2bTNfTWVnd3FLM2F2MnM2MFFfVzRBWV9PcDN0MUZOaWdUc05WVGRWZUY2Rk1lN0ZOYWg2MHliRDFxV19SVURpZUNlVG9ra05PTmZ4UVd6NkwzWHA0aUV3WE0tekd4a3pRTENVU0xnRU82U0xUbXFKR3JwaEJPX19nc0E?oc=5",
+   "source_name": "ET Realty",
+   "source_domain": "realty.economictimes.indiatimes.com",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "The President of India Smt. Droupadi Murmu confers AI Certificates; calls for inclusive and future-ready AI ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4tSExHZFZMRjktX3hKbFVzTHR1eWlKYnlzZnR2d2wtTmRVSGFFXzdXbk80eXBNeTV4R2laUDlMV2hJRk9jUFJlLTEtb09UTzFLM3k5UXRYWEVjRFpHWXltbDctVkJKVlh5UEJhaWtDMk9rb2l6MjlZR3Zn?oc=5\" target=\"_blank\">The President of India Smt. Droupadi Murmu confers AI Certificates; calls for inclusive and future-ready AI ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tSExHZFZMRjktX3hKbFVzTHR1eWlKYnlzZnR2d2wtTmRVSGFFXzdXbk80eXBNeTV4R2laUDlMV2hJRk9jUFJlLTEtb09UTzFLM3k5UXRYWEVjRFpHWXltbDctVkJKVlh5UEJhaWtDMk9rb2l6MjlZR3Zn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 01 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh Education Minister Meets CM Revanth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjF3UzlLZzcwaGJ1SkU1WXI3TmV5YXlJelF3NWV3bzVUT3BZNHN6ZE9aeHVqM3doYzhkSDl3Sk84X0R2dnRpd04zakljTzN1MG1zeHJfQmk3RHNFRUNEYm0tZzlfVTkwZTY5LTJhS3FrT24xVEdHTlNTemdEa0VjMGZobDN1UWxmY1dqOWlscVpDTHd4NHA0ZTF0blpjYkRZcXA4SkE0elhSQkM5YmJ4Z29lTDVsY2t3OGfSAb8BQVVfeXFMTmxRWk5wZ3kyNlpwQUJnSnRfNGNfYlJPVTFJZ3Zkd0ZINlNBNVZqbWFKU19kS3d5aE5oOE1waTA3UTdld0ZwaEVQOFE2aW9vQkk2Y28zb1AxQnBaZVF1a1pJNjUzeVBrQmNaYjVDaWhabEJlMWhMTlE5c1pnZlI5bmRyQUdzNzhQUklDNzEzcjl6V0lqRk1Xdkg4bk5JVEhjTUJXWlFiRGNBbXFJcHRDWlh0SWotUUZOY3ZySWhDaUU?oc=5\" target=\"_blank\">Himachal Pradesh Education Minister Meets CM Revanth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjF3UzlLZzcwaGJ1SkU1WXI3TmV5YXlJelF3NWV3bzVUT3BZNHN6ZE9aeHVqM3doYzhkSDl3Sk84X0R2dnRpd04zakljTzN1MG1zeHJfQmk3RHNFRUNEYm0tZzlfVTkwZTY5LTJhS3FrT24xVEdHTlNTemdEa0VjMGZobDN1UWxmY1dqOWlscVpDTHd4NHA0ZTF0blpjYkRZcXA4SkE0elhSQkM5YmJ4Z29lTDVsY2t3OGfSAb8BQVVfeXFMTmxRWk5wZ3kyNlpwQUJnSnRfNGNfYlJPVTFJZ3Zkd0ZINlNBNVZqbWFKU19kS3d5aE5oOE1waTA3UTdld0ZwaEVQOFE2aW9vQkk2Y28zb1AxQnBaZVF1a1pJNjUzeVBrQmNaYjVDaWhabEJlMWhMTlE5c1pnZlI5bmRyQUdzNzhQUklDNzEzcjl6V0lqRk1Xdkg4bk5JVEhjTUJXWlFiRGNBbXFJcHRDWlh0SWotUUZOY3ZySWhDaUU?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Railway Budget 2026: Check state-wise allocation – which state tops the list?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUG52UmY4bnA1dTZWX1lWMktIc09aVUZJVktlX1lZaWI0WGg0aWVieHR5dm9GUWQwSWhWODVRSTVpMDFDRU43aTFGd0ZCTE4tRm5tZUhrTFZ6dlhfRlA4Rm1RRE8wajY3M09OTG04eFdTRWtaa0JIeVNtMDNLamtZeldtSmZqRUhUclRNRnc4WFV6RFNyTUtNZU5IUXdGUERxNXRocmZNa2gwWjBOSGpNaW5yQlE2Z3Iwa3RYalJrS2jSAccBQVVfeXFMTU9NV1BYQllFenpuZTQ2ZlhQbzVHZmkzRXFZX2dzV3lsYnRlTHpsSGwxTnZDZmVoN2lyWlA2RWJmdG1sY2M1bktNeHRtdkQ2Z3VSMk5kT0FYbTV2ZjBvaklNM1JoSGN1eE14SDNFOTlOSUxvYVlCeS1Ickl0QzRWTmlLcWllTy1MNVlYVjdEM2t4enVvcFMteExTS2EycGFFU0lJdWpwUFZpVGpXX3NsbU5acFhPSHZ2QjV4c2hXcTgzb19EVUdWOA?oc=5\" target=\"_blank\">Railway Budget 2026: Check state-wise allocation – which state tops the list?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUG52UmY4bnA1dTZWX1lWMktIc09aVUZJVktlX1lZaWI0WGg0aWVieHR5dm9GUWQwSWhWODVRSTVpMDFDRU43aTFGd0ZCTE4tRm5tZUhrTFZ6dlhfRlA4Rm1RRE8wajY3M09OTG04eFdTRWtaa0JIeVNtMDNLamtZeldtSmZqRUhUclRNRnc4WFV6RFNyTUtNZU5IUXdGUERxNXRocmZNa2gwWjBOSGpNaW5yQlE2Z3Iwa3RYalJrS2jSAccBQVVfeXFMTU9NV1BYQllFenpuZTQ2ZlhQbzVHZmkzRXFZX2dzV3lsYnRlTHpsSGwxTnZDZmVoN2lyWlA2RWJmdG1sY2M1bktNeHRtdkQ2Z3VSMk5kT0FYbTV2ZjBvaklNM1JoSGN1eE14SDNFOTlOSUxvYVlCeS1Ickl0QzRWTmlLcWllTy1MNVlYVjdEM2t4enVvcFMteExTS2EycGFFU0lJdWpwUFZpVGpXX3NsbU5acFhPSHZ2QjV4c2hXcTgzb19EVUdWOA?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Union Minister of State Prof. S.P. Singh Baghel Felicitates Panchayat Leaders Invited as Special Guests for Republic Day 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3E5d084dURCTEY2YUFwTXAxNEVGZzlndmlkMDVxRzl5a2kySXZGbVdoOGFyZGpSVHhWMHlSSEFFWkdha2VsQ2tHSHJ4aXBBNFZ0WVRndlZtSFgzZ2tybWJtcmxnZm1pdDZj?oc=5\" target=\"_blank\">Union Minister of State Prof. S.P. Singh Baghel Felicitates Panchayat Leaders Invited as Special Guests for Republic Day 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3E5d084dURCTEY2YUFwTXAxNEVGZzlndmlkMDVxRzl5a2kySXZGbVdoOGFyZGpSVHhWMHlSSEFFWkdha2VsQ2tHSHJ4aXBBNFZ0WVRndlZtSFgzZ2tybWJtcmxnZm1pdDZj?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:25+00:00"
+  }
+ ]
+}

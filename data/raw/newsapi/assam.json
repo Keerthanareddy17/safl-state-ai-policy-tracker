@@ -1,0 +1,20 @@
+{
+ "region": "Assam",
+ "query": "(Assam) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:28+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Assam",
+   "title": "Use AI, satellite imagery to detect encroachment: CM to forest dept",
+   "description": "Assam CM Himanta Biswa Sarma urges forest dept to use AI and satellite imagery to detect encroachment early, boost afforestation, wildlife protection, and revenue.",
+   "url": "https://timesofindia.indiatimes.com/city/guwahati/use-ai-satellite-imagery-to-detect-encroachment-cm-to-forest-dept/articleshow/135149295.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-23T15:01:30Z",
+   "fetched_at": "2026-11-15T09:47:28+00:00"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "region": "West Bengal",
+ "group": "A",
+ "query": "(\"West Bengal\" OR Kolkata) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22West+Bengal%22+OR+Kolkata%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:08+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "From London to Kolkata: Indi Setu Summit Charts a New Future for AI, Healthcare, and Collaboration",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRTI1RER6ZEVEeW5qdERCTmZZVEN4YkRtWFZfWHB6OGFKRnJMMk5ucHVKQ3A4U3prN1ZMMTZpNkFEQ2w5RWVmRF9rMnlsTDZJN1BkMnFzLW56V0IyWk5VS1N6V0N6aXo5Y0M1ZFNLdUY0ZG1RS2s4QWw5d3JyZFFrRnNPNWRQQlU4cW8zdVdmNzlYRW42Y1ZzOXd0bGc5TUltZkRzMTFmSzJfQTUtMHJfT2ZLdEd4SkhsM1MyOGh5aVdMVkZyNXk4Rm1nWWVHZXhBb2k0amNhYWI5MklLVUcydG1saXVkaHYzZ2NuMUN4SGxnbzNRTHfSAfsBQVVfeXFMUFpiRFZsYkxxR0M3aGFrQVdhQnZfcEM5dUJQZnZsTUVmaDNnUk9RQUJTaEY5QnpiQUtrV1lwa25EbjVCZUN5NHFBb2FQQ19paHFzUE01R0ZPc3FyNWhWX3YzX3VYVzltcUw4R3NwU1JKLTNxeVpMNDFrY2R4ZHVBcFRTSHRKVi1pbjUwS3RpMWk0YmNPQU5qbmdidndfTGVDY0Z6VHlfZXVaSmJFTFdxeC1rWXllcDdySndwdjkzc0N5MG1rUnk5ZzFFRV9VQ2ViOWxiaExuUVRtWlFYWFpGME5Tb2k2NWRoaHVLbGNTM0tnT0hNVlBTTDg2dEE?oc=5\" target=\"_blank\">From London to Kolkata: Indi Setu Summit Charts a New Future for AI, Healthcare, and Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET HealthWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRTI1RER6ZEVEeW5qdERCTmZZVEN4YkRtWFZfWHB6OGFKRnJMMk5ucHVKQ3A4U3prN1ZMMTZpNkFEQ2w5RWVmRF9rMnlsTDZJN1BkMnFzLW56V0IyWk5VS1N6V0N6aXo5Y0M1ZFNLdUY0ZG1RS2s4QWw5d3JyZFFrRnNPNWRQQlU4cW8zdVdmNzlYRW42Y1ZzOXd0bGc5TUltZkRzMTFmSzJfQTUtMHJfT2ZLdEd4SkhsM1MyOGh5aVdMVkZyNXk4Rm1nWWVHZXhBb2k0amNhYWI5MklLVUcydG1saXVkaHYzZ2NuMUN4SGxnbzNRTHfSAfsBQVVfeXFMUFpiRFZsYkxxR0M3aGFrQVdhQnZfcEM5dUJQZnZsTUVmaDNnUk9RQUJTaEY5QnpiQUtrV1lwa25EbjVCZUN5NHFBb2FQQ19paHFzUE01R0ZPc3FyNWhWX3YzX3VYVzltcUw4R3NwU1JKLTNxeVpMNDFrY2R4ZHVBcFRTSHRKVi1pbjUwS3RpMWk0YmNPQU5qbmdidndfTGVDY0Z6VHlfZXVaSmJFTFdxeC1rWXllcDdySndwdjkzc0N5MG1rUnk5ZzFFRV9VQ2ViOWxiaExuUVRtWlFYWFpGME5Tb2k2NWRoaHVLbGNTM0tnT0hNVlBTTDg2dEE?oc=5",
+   "source_name": "ET HealthWorld",
+   "source_domain": "health.economictimes.indiatimes.com",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "How Eastern India can lead the next GCC wave",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUVlb1VJYUdkekxYazBIOGs4RTZkRUZ0eHVHd2E1UWtGaXBMTkxnUnVod3pYd3JjZW00R3Zpa2NmbzJpcjRncDY3anl2Tk1lSnBQTGRncDZxSUxEU054Nzc5eWJrdHJDbVFDTlBSanhlV00yZDRuMzhmd2g2WWh1aWl1Ty1jSEg2akNCSjRxNWh1YzVXemI1cnRhUkp5d2tFdVlIWjBmTTAtSHNaWkV6VV9PNVZZQQ?oc=5\" target=\"_blank\">How Eastern India can lead the next GCC wave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EY</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUVlb1VJYUdkekxYazBIOGs4RTZkRUZ0eHVHd2E1UWtGaXBMTkxnUnVod3pYd3JjZW00R3Zpa2NmbzJpcjRncDY3anl2Tk1lSnBQTGRncDZxSUxEU054Nzc5eWJrdHJDbVFDTlBSanhlV00yZDRuMzhmd2g2WWh1aWl1Ty1jSEg2akNCSjRxNWh1YzVXemI1cnRhUkp5d2tFdVlIWjBmTTAtSHNaWkV6VV9PNVZZQQ?oc=5",
+   "source_name": "EY",
+   "source_domain": "ey.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal’s Birbhum Police Rolls Out AI App Samarth for Investigation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWW9paS1jNHdmWEV3ZUJScGwxTzdCb1NoSTMxYk0wZ1pYUnhleDlVVUVFbE42UURScW9IXzUwYzdKQWJtSXBLdFFOTDkyRVdQMGVLN1A4UTc3dDJjMzF4dzFqMkd6VDc4ZExKQndVM0RSXy1BTXVlZGdmWXZCSklNNEpsZUM1YjIwNDJURldkeS00T1BBQU01TjBEdG1NRXVoYWlLV1NQSl9iODQ?oc=5\" target=\"_blank\">West Bengal’s Birbhum Police Rolls Out AI App Samarth for Investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWW9paS1jNHdmWEV3ZUJScGwxTzdCb1NoSTMxYk0wZ1pYUnhleDlVVUVFbE42UURScW9IXzUwYzdKQWJtSXBLdFFOTDkyRVdQMGVLN1A4UTc3dDJjMzF4dzFqMkd6VDc4ZExKQndVM0RSXy1BTXVlZGdmWXZCSklNNEpsZUM1YjIwNDJURldkeS00T1BBQU01TjBEdG1NRXVoYWlLV1NQSl9iODQ?oc=5",
+   "source_name": "APAC Media",
+   "source_domain": "apacnewsnetwork.com",
+   "published_raw": "Mon, 24 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "US firm eyes Bengal startup JVs for AI-led transformation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFBjTjBiNkxjaG9JakVsR0J5eDZkNlZvQlhhSFgxVENzYmdIZ2l3Y053MEl2OGtyZHJTanpILUtIaGg4RFk3WUNyOTZMWUpRMUhNdmpTYU9LRko2UEstX3JmMDBaOEtrb3l2NDZmYmxaaDZISzRqVUFXRWlyTGlFQlQwYkFDeVFBOG1HNmhtMGRxRXJSODVWSWlUejVuMTBIdWx5Y1dDWVEtdDBsX01IOHFPV3NsMHlLQ1NpcV8tX1FyOTJQRVhxXy1INWjSAdIBQVVfeXFMTmRfelB0T01TTmxpUlZoM3Q5Q19wUUN0WFdKNVhrLXdsZk12RmJhS0t0T2FXUGlTVFd4OTBnckdXbHJBR3JKODFiZGMzRHhYZzZWY0ZPckJvMExQMHlFRFVkSDdrMEMxNzhhZndueVBPVFBHNEpkTWlfRmM1RjhNQTZ0ZlZRTl9FNHUydEU5Q1pCWHhFTDJjNDkzVHdic2huXzlySnVfamZBbE1uNV9JaWRjM2xnSG80Vk45VFJzemVQWGNMbzN4YmN1N2NsdmNDRzJB?oc=5\" target=\"_blank\">US firm eyes Bengal startup JVs for AI-led transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFBjTjBiNkxjaG9JakVsR0J5eDZkNlZvQlhhSFgxVENzYmdIZ2l3Y053MEl2OGtyZHJTanpILUtIaGg4RFk3WUNyOTZMWUpRMUhNdmpTYU9LRko2UEstX3JmMDBaOEtrb3l2NDZmYmxaaDZISzRqVUFXRWlyTGlFQlQwYkFDeVFBOG1HNmhtMGRxRXJSODVWSWlUejVuMTBIdWx5Y1dDWVEtdDBsX01IOHFPV3NsMHlLQ1NpcV8tX1FyOTJQRVhxXy1INWjSAdIBQVVfeXFMTmRfelB0T01TTmxpUlZoM3Q5Q19wUUN0WFdKNVhrLXdsZk12RmJhS0t0T2FXUGlTVFd4OTBnckdXbHJBR3JKODFiZGMzRHhYZzZWY0ZPckJvMExQMHlFRFVkSDdrMEMxNzhhZndueVBPVFBHNEpkTWlfRmM1RjhNQTZ0ZlZRTl9FNHUydEU5Q1pCWHhFTDJjNDkzVHdic2huXzlySnVfamZBbE1uNV9JaWRjM2xnSG80Vk45VFJzemVQWGNMbzN4YmN1N2NsdmNDRzJB?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "ICDMAI marks a milestone in AI and Data Mining innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFZTN2RmWkdtTGNMY2VERjlVYzZsa3ZnU0tFRWRlNUdhX2d2S1FIRkc3LXpacWF5OXdRUjJJeEtabk9VVXM5aVZodDU4T2dhOENXU0lKQTFtVzNIWVVoQ2gwb0lDUHlmbnZPcU5hWXpoYzAxREtQMGRZbmxmc2Yya0hwSkwyOHNWNm80eTRsMGxOSVJHLWZOcks1cjhLejRMVVhlTS11WVB4a3BTc0llc19jUEhRSmtOMkJCV1lHTW1BYjJfdk41R0dnVUrSAdIBQVVfeXFMTlV1eF9waldKR3VUOEFRa2VZQ0pFN0oxbkRuTlQ2SlpSRXFISmpIaXJJWmNINGUyX2Jwbm1wOU9lOE5FVnFwaEl4Zi00UHVHcHBaaDFydDNHb3cxZkNtNk5kd2N2Ykp6NjhGS0t1bUxfZFhlYXNPN3JTcDRtNWJ2cU5YYkFvUE5JTGtjRDRidXpUbXhhTnFRUzk2bERqMjZsWnRmMkFkSkpkTHVFS1N0N0tGTzBySXQ5QTFNNHB3Q1lCbXhFVG55Z0EzMmRfNm9qQXVR?oc=5\" target=\"_blank\">ICDMAI marks a milestone in AI and Data Mining innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFZTN2RmWkdtTGNMY2VERjlVYzZsa3ZnU0tFRWRlNUdhX2d2S1FIRkc3LXpacWF5OXdRUjJJeEtabk9VVXM5aVZodDU4T2dhOENXU0lKQTFtVzNIWVVoQ2gwb0lDUHlmbnZPcU5hWXpoYzAxREtQMGRZbmxmc2Yya0hwSkwyOHNWNm80eTRsMGxOSVJHLWZOcks1cjhLejRMVVhlTS11WVB4a3BTc0llc19jUEhRSmtOMkJCV1lHTW1BYjJfdk41R0dnVUrSAdIBQVVfeXFMTlV1eF9waldKR3VUOEFRa2VZQ0pFN0oxbkRuTlQ2SlpSRXFISmpIaXJJWmNINGUyX2Jwbm1wOU9lOE5FVnFwaEl4Zi00UHVHcHBaaDFydDNHb3cxZkNtNk5kd2N2Ykp6NjhGS0t1bUxfZFhlYXNPN3JTcDRtNWJ2cU5YYkFvUE5JTGtjRDRidXpUbXhhTnFRUzk2bERqMjZsWnRmMkFkSkpkTHVFS1N0N0tGTzBySXQ5QTFNNHB3Q1lCbXhFVG55Z0EzMmRfNm9qQXVR?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Asiatic Society uses AI to recreate 1150 AD puthi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnJ6dTB3U1BfZGxNa05YZHhrSTMwd3JBMnBZUHlpVHp3Uk45b2lNQWl0WkhRQXdXeEhwaTV6ZFVaT05uVzMyMTA0UEw5U1NseW11d1FobEhzVURwWXdCX3E5Y0pDeEZFTnhyeUJNb2o4X2R3dV93V1ItbVdkU3ZJTEpraUV6WW5pTjZzUVljZk93amdQQVhiS0prNUhEWHFxb0hmaWJzSU9WcndnUGhIazU2ODVUUFd5NTlpME8ya3EwQdIBxwFBVV95cUxQSXJ5bWtjZ2o4cWxab1B6bnpkSEV6OFNjU0xBdlQ2Q05YVU9DMms0NEJpemV2S1pjSGVYR1BOd2xZeEtaLWJJX2VrRDI0dHRmbkFuTVRCOE10VHUwTmE0amE3WlZLelpEMWRtRHllNDJJRmtkVk5DdkVWMWhQNXJnSUVUVkUwWlQ5NkhDOU9RSzFZN0V0TTc3emhoTElvRzR3MUhZbFJCTDJLd3Q2SXVKYm56MzVkMDhpY1h5M1E0WGdYVHZTX1M0?oc=5\" target=\"_blank\">Asiatic Society uses AI to recreate 1150 AD puthi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnJ6dTB3U1BfZGxNa05YZHhrSTMwd3JBMnBZUHlpVHp3Uk45b2lNQWl0WkhRQXdXeEhwaTV6ZFVaT05uVzMyMTA0UEw5U1NseW11d1FobEhzVURwWXdCX3E5Y0pDeEZFTnhyeUJNb2o4X2R3dV93V1ItbVdkU3ZJTEpraUV6WW5pTjZzUVljZk93amdQQVhiS0prNUhEWHFxb0hmaWJzSU9WcndnUGhIazU2ODVUUFd5NTlpME8ya3EwQdIBxwFBVV95cUxQSXJ5bWtjZ2o4cWxab1B6bnpkSEV6OFNjU0xBdlQ2Q05YVU9DMms0NEJpemV2S1pjSGVYR1BOd2xZeEtaLWJJX2VrRDI0dHRmbkFuTVRCOE10VHUwTmE0amE3WlZLelpEMWRtRHllNDJJRmtkVk5DdkVWMWhQNXJnSUVUVkUwWlQ5NkhDOU9RSzFZN0V0TTc3emhoTElvRzR3MUhZbFJCTDJLd3Q2SXVKYm56MzVkMDhpY1h5M1E0WGdYVHZTX1M0?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Kolkata: Andaman Earthquake, Bengal BJP Budget Push, Siliguri Varanasi Rail Link And More",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNTZ5VWlNM2hYUS1jQ1J0TTlMaXJoWEd3TS1LMml4RTAwM0czQktXSWNBb2xuU1hURXZLZmo2RXVSdktHc2xHVFBrVXJtR1IzczFXT3htaF9UN29YaEoxV3ZXS29JOGZLUENpTmJXQ1BPejBON0oxRDhaN3NPd093VWxfdFNqNE9wNElobU5ZN1Fwamk2bzF4NElGbjhpNVRsZlliQVdHbEYtblY2amMtMC0wODJ3TnV2djgzYXdJdmtzckdUN245bzdvd3B5Rk5UbVNFdnJfMjBiRnlGNEhwWm5Zdzllb1d2UTF6aGdjOEJGd3ZkdWVRX9IB_gFBVV95cUxNbGFPZW9sOUVMbWt5a2g5M2NlSVlXd19pdlZQRmpaWWFtX3NWRGUwWktjZW1sUzNNYjZYbnptVHRjcXliT05GdjFVTTZaQm43aVRKdHVYVXpSOENmb1dtazlyMkd1ay0tTDNEOU1ia0NvWF9YWURKMFNyWFcwN3dCV2ZROVZqYWpWLU9oRGJFaHBKN0RURmpFQUFGTURsbE4xNFVCZlpKS0x5eGJ0U3Qzck9Jc1lkMUpXRy1Yd3BfYV91M0lobmY2S3NPYU5icTNWUmdoSERtU0VLT2dMWVBDZE1HREp2SVdSUWVhd1ZnTjdaaHBhVlJGTDJUaDlaQQ?oc=5\" target=\"_blank\">Kolkata: Andaman Earthquake, Bengal BJP Budget Push, Siliguri Varanasi Rail Link And More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNTZ5VWlNM2hYUS1jQ1J0TTlMaXJoWEd3TS1LMml4RTAwM0czQktXSWNBb2xuU1hURXZLZmo2RXVSdktHc2xHVFBrVXJtR1IzczFXT3htaF9UN29YaEoxV3ZXS29JOGZLUENpTmJXQ1BPejBON0oxRDhaN3NPd093VWxfdFNqNE9wNElobU5ZN1Fwamk2bzF4NElGbjhpNVRsZlliQVdHbEYtblY2amMtMC0wODJ3TnV2djgzYXdJdmtzckdUN245bzdvd3B5Rk5UbVNFdnJfMjBiRnlGNEhwWm5Zdzllb1d2UTF6aGdjOEJGd3ZkdWVRX9IB_gFBVV95cUxNbGFPZW9sOUVMbWt5a2g5M2NlSVlXd19pdlZQRmpaWWFtX3NWRGUwWktjZW1sUzNNYjZYbnptVHRjcXliT05GdjFVTTZaQm43aVRKdHVYVXpSOENmb1dtazlyMkd1ay0tTDNEOU1ia0NvWF9YWURKMFNyWFcwN3dCV2ZROVZqYWpWLU9oRGJFaHBKN0RURmpFQUFGTURsbE4xNFVCZlpKS0x5eGJ0U3Qzck9Jc1lkMUpXRy1Yd3BfYV91M0lobmY2S3NPYU5icTNWUmdoSERtU0VLT2dMWVBDZE1HREp2SVdSUWVhd1ZnTjdaaHBhVlJGTDJUaDlaQQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "AI-generated mistakes plague SIR roll names",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdEpia2hsenZrQjVfNUdfbTM5d1d6M2NMcGc5QVIxTndCaW5aVW1GUkZydTZvbjkwaVBfc0VGZjlTM3MxNHVfbGd2Y3ZHdGgza1EwOGxfeUNIVG5ZVzZCWTlibi1Sc2tnallkNUhnbzJ0RHd6R2hxVlViRnJMYXNVRHdZWEktZWhSOUxvbmo0SUQzSGozdHBfLVVYTERjOHhHakYyOFVXRXp2M0JRc0NseWtSbHMtVGdOS0HSAb8BQVVfeXFMTVc0c2lDVDRJVkNqNDFSMHFTY2c2SGM4Vjl6SzI5bmRaRGhLWEQ4V215Vm5Ub1dndnlWeWJfMDZOWkhmTURnSHNQMmtDVXI3cVlZbkhyOEhUSm5sbWxRd3RsSjJCblk1S09mTlA5QnJlczBtU3FtbElwRGVVSllhajBUQW1vQ0NNSlhFYUljaGhiTWNEMGw0LVpWQ3o4Z01CZWpxNGxwM0lSMEhDWHdyYm9ydExrN21PalFJMk1LOG8?oc=5\" target=\"_blank\">AI-generated mistakes plague SIR roll names</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdEpia2hsenZrQjVfNUdfbTM5d1d6M2NMcGc5QVIxTndCaW5aVW1GUkZydTZvbjkwaVBfc0VGZjlTM3MxNHVfbGd2Y3ZHdGgza1EwOGxfeUNIVG5ZVzZCWTlibi1Sc2tnallkNUhnbzJ0RHd6R2hxVlViRnJMYXNVRHdZWEktZWhSOUxvbmo0SUQzSGozdHBfLVVYTERjOHhHakYyOFVXRXp2M0JRc0NseWtSbHMtVGdOS0HSAb8BQVVfeXFMTVc0c2lDVDRJVkNqNDFSMHFTY2c2SGM4Vjl6SzI5bmRaRGhLWEQ4V215Vm5Ub1dndnlWeWJfMDZOWkhmTURnSHNQMmtDVXI3cVlZbkhyOEhUSm5sbWxRd3RsSjJCblk1S09mTlA5QnJlczBtU3FtbElwRGVVSllhajBUQW1vQ0NNSlhFYUljaGhiTWNEMGw0LVpWQ3o4Z01CZWpxNGxwM0lSMEhDWHdyYm9ydExrN21PalFJMk1LOG8?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 20 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal to push AI, data centres under ₹30,000-crore silicon valley project",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXkxRl9rMzlaRjJIc2tSQkdWLWRBbzNYa0NKVUpjZXI0SU95Q2RvUG1NZjAybU9iS1F6YVlfYk03V0JpNENLaWFQbGtweWhUUnZIMXFwUWItR0Z6UlpKSXpUdVhYRWhEd2FZVnlpYk1FM2RHSGEzNndLYWY5ZnFsaVJCUzVTQ3lwT2d0aFZWNHNUVHdRdkdGdFlkaHBWZ2R3YnFqUUNPbEVnbm9CSDNuU2l2dFBIOXU1b0wyZTYxNW1sR3pKanBGZdIBzgFBVV95cUxQUDA3dXpOLXJRYWdfM3dDWlllMXIxWUNPd2haVnZ1T3BYWW1jNHdHSFFBeGRPWm92UlRzQnhxYTQybWhCY01pRnVySlZFdW1ia2ZhYk5mR0RSUVNneGhTeXBvQ0EwTUNYVXdsQ2d5S3AtSGZUYWlJVjFrNVJXZGk3c3M2UnkyLVNxUmVnN2hQU0hGNUV5dlh5bnY5Skh1bHZEbEtXR21wQUtyM3FsSnpZdHNtVlNDZDl3Q3JVZmFRSjZNdnJSSGo5SjN4SHFNUQ?oc=5\" target=\"_blank\">West Bengal to push AI, data centres under ₹30,000-crore silicon valley project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXkxRl9rMzlaRjJIc2tSQkdWLWRBbzNYa0NKVUpjZXI0SU95Q2RvUG1NZjAybU9iS1F6YVlfYk03V0JpNENLaWFQbGtweWhUUnZIMXFwUWItR0Z6UlpKSXpUdVhYRWhEd2FZVnlpYk1FM2RHSGEzNndLYWY5ZnFsaVJCUzVTQ3lwT2d0aFZWNHNUVHdRdkdGdFlkaHBWZ2R3YnFqUUNPbEVnbm9CSDNuU2l2dFBIOXU1b0wyZTYxNW1sR3pKanBGZdIBzgFBVV95cUxQUDA3dXpOLXJRYWdfM3dDWlllMXIxWUNPd2haVnZ1T3BYWW1jNHdHSFFBeGRPWm92UlRzQnhxYTQybWhCY01pRnVySlZFdW1ia2ZhYk5mR0RSUVNneGhTeXBvQ0EwTUNYVXdsQ2d5S3AtSGZUYWlJVjFrNVJXZGk3c3M2UnkyLVNxUmVnN2hQU0hGNUV5dlh5bnY5Skh1bHZEbEtXR21wQUtyM3FsSnpZdHNtVlNDZDl3Q3JVZmFRSjZNdnJSSGo5SjN4SHFNUQ?oc=5",
+   "source_name": "CNBC TV18",
+   "source_domain": "cnbctv18.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:08+00:00"
+  }
+ ]
+}

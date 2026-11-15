@@ -1,0 +1,120 @@
+{
+ "region": "Mizoram",
+ "group": "B",
+ "query": "(Mizoram) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Mizoram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:35:02+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "NE-SPARKS: 786 Students from Northeast Visit ISRO Centres",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnVzS3J4Rm1XM1FTV0lCNm1pdmlBQXB2b2VjQ2hlb21oYkdBNnpheFAtLXlMamw0VDU5emYzV1J3MVU5T0gzcm1qMmo4WTNRZ3ZPMVVROXZjMDFGZXd1MEVYRDdfYkFKbWhEMlllc0FCd0tvTU1aa19yNnJ4M09UN2lxb2xMQWstVDRFc0dCQWR2NFE?oc=5\" target=\"_blank\">NE-SPARKS: 786 Students from Northeast Visit ISRO Centres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnVzS3J4Rm1XM1FTV0lCNm1pdmlBQXB2b2VjQ2hlb21oYkdBNnpheFAtLXlMamw0VDU5emYzV1J3MVU5T0gzcm1qMmo4WTNRZ3ZPMVVROXZjMDFGZXd1MEVYRDdfYkFKbWhEMlllc0FCd0tvTU1aa19yNnJ4M09UN2lxb2xMQWstVDRFc0dCQWR2NFE?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Fri, 09 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram govt to establish state university at Lunglei, not Aizawl: Official",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMzM5ZUVFbGRhd3dFekRGMjE2d0RBNUpnSWZZSEdVYWtzRU53cUJCOUhqYW9QdzE1eFZ6WFBjRU40RGt0OFV0ZTVuXzJYUWpBTXFydFRnU1JnMHBnRW9PT3NUWTVKNGFhbDBSSXE2TEtUU1NKX0U0Y3k5MWF2VDRLTk00MGtHZmNOQkF6UWxLSi1Oa2FFX1hiVVJtZzc3aVVlZVZITnhRMDE0ZkVoR1NKSHlJWWUyMGprYUdHRzQtS2NJNVBlQWtlUjgzc2RRWXREcm8zVXNBOTVsd1ZyZU1rT2xlY2tWTlnSAesBQVVfeXFMUG5BMFp0aXNYTEl3Uk5QbHBYbFJMNWZNRENvWDBITzVNRkstQlZ2ek1QMVRaeWxaaEVfMXZ2MlZoWlJWdml6NzJyUjFlNW1BVjA2eU10dHNZYnJhY3M3bFNEcDVpZE5vSW5pQkFSSkZKR0hsajB2R2Uya0o1eGtvQ0RkM00tcFluVjZabWVPUEhvQ2xBOFVDNnAtSUhMcUJ5VWoyNG9fY09OQ1JYWHZhWDRiMkFicVlpemExT2YyVGtLVnk1ZjJkcjVGLWZ2WW13WTFUek5CVnBzc3hueGEwRlZOWXluWGUwbF9TVQ?oc=5\" target=\"_blank\">Mizoram govt to establish state university at Lunglei, not Aizawl: Official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMzM5ZUVFbGRhd3dFekRGMjE2d0RBNUpnSWZZSEdVYWtzRU53cUJCOUhqYW9QdzE1eFZ6WFBjRU40RGt0OFV0ZTVuXzJYUWpBTXFydFRnU1JnMHBnRW9PT3NUWTVKNGFhbDBSSXE2TEtUU1NKX0U0Y3k5MWF2VDRLTk00MGtHZmNOQkF6UWxLSi1Oa2FFX1hiVVJtZzc3aVVlZVZITnhRMDE0ZkVoR1NKSHlJWWUyMGprYUdHRzQtS2NJNVBlQWtlUjgzc2RRWXREcm8zVXNBOTVsd1ZyZU1rT2xlY2tWTlnSAesBQVVfeXFMUG5BMFp0aXNYTEl3Uk5QbHBYbFJMNWZNRENvWDBITzVNRkstQlZ2ek1QMVRaeWxaaEVfMXZ2MlZoWlJWdml6NzJyUjFlNW1BVjA2eU10dHNZYnJhY3M3bFNEcDVpZE5vSW5pQkFSSkZKR0hsajB2R2Uya0o1eGtvQ0RkM00tcFluVjZabWVPUEhvQ2xBOFVDNnAtSUhMcUJ5VWoyNG9fY09OQ1JYWHZhWDRiMkFicVlpemExT2YyVGtLVnk1ZjJkcjVGLWZ2WW13WTFUek5CVnBzc3hueGEwRlZOWXluWGUwbF9TVQ?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Fri, 19 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "MT CARMEL LEH LA MONTESSORI TE CHE THA",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLXVFdU1zaHBSWjhlR0llZ195NWNuWC1QZ29idERnRGt1Qk9BZ1hicXNMOFJpaVhrdkN5MG14UmswcHVxRFRmeFJ1YTR6ZGZVLUJKRWFDN2dIWllPMmtiRHFjUUc2dkFxdjNPc21fbERsSXkwRGJPQ3liRFgtRHUtWDRCNWFDdFZhcU82bGZtMUhQMGtaY1NrTDluQzVEeXpGZnJPdHJMWWgwa2hTYjVweVFZR0ZUQUE4MGJMdUhWSnNXRVAzbE51ZHhTSW5FX0lBQmJBSUY2T1dRbzNUUEZIalBhYVdYd2tpSlFN?oc=5\" target=\"_blank\">MT CARMEL LEH LA MONTESSORI TE CHE THA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLXVFdU1zaHBSWjhlR0llZ195NWNuWC1QZ29idERnRGt1Qk9BZ1hicXNMOFJpaVhrdkN5MG14UmswcHVxRFRmeFJ1YTR6ZGZVLUJKRWFDN2dIWllPMmtiRHFjUUc2dkFxdjNPc21fbERsSXkwRGJPQ3liRFgtRHUtWDRCNWFDdFZhcU82bGZtMUhQMGtaY1NrTDluQzVEeXpGZnJPdHJMWWgwa2hTYjVweVFZR0ZUQUE4MGJMdUhWSnNXRVAzbE51ZHhTSW5FX0lBQmJBSUY2T1dRbzNUUEZIalBhYVdYd2tpSlFN?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Mon, 19 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Foundation Stone Laid For 24 Mw Tuirini Hydro Power Project In - PT Pulse",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTAtMHlqdklCdW9BZnExRmx4dWpZSnFwbDgtWnhNZGE5YjFxdFgwSFZjdGpjQmNEOW9JOEg4UGo3RkFya1hLamNfMk5hVEZRM1RPWDZMTGxtMy1jZDF2aXpHYkt5cGhfZW9yNEpPZ2hzcUlJd2pHcWxsTjVBOUxNd216djFtYUZxV2g1ZEhfcXVxcldBenQxVFNpbzdQc0tDVEp1NUZZMFJyTjBaMTZteWN3?oc=5\" target=\"_blank\">Foundation Stone Laid For 24 Mw Tuirini Hydro Power Project In - PT Pulse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Projects Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTAtMHlqdklCdW9BZnExRmx4dWpZSnFwbDgtWnhNZGE5YjFxdFgwSFZjdGpjQmNEOW9JOEg4UGo3RkFya1hLamNfMk5hVEZRM1RPWDZMTGxtMy1jZDF2aXpHYkt5cGhfZW9yNEpPZ2hzcUlJd2pHcWxsTjVBOUxNd216djFtYUZxV2g1ZEhfcXVxcldBenQxVFNpbzdQc0tDVEp1NUZZMFJyTjBaMTZteWN3?oc=5",
+   "source_name": "Projects Today",
+   "source_domain": "projectstoday.ai",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Gets 'Ginger Capital Of India' Tag, Steps Up Production Drive",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVk9VRFk5aE9HRkRCZFY0dGt2Z1hsMFFuOEt6MnNGZzliT0NSSGN2TXA4OEJBMDRwUW1VajJTVFE0X2RNTFpXZ3AxNDhIYmVTMWdkeHVDd0NDcmJ6VzE3QmYzTmNTck5mMnRZbUpGTW9pUHRUV1JpcVl1RDNwcGxkNk9QcU5jT1pJT3J1OG5HMFF0NWpLUERpd3lTLTJ0ZldCaVHSAaoBQVVfeXFMTUc5R1I0UnNNa3NBZTIwQkVySW9TTmg0TER5MDBnc3ZuSjNiRzE1UW9xcFdFd0Ftc3ctVUEtTWNKZWU5SFNXa19oMlBPeEF1bHY4VnhKaGN6SXY2WERtbUtHMjNyYVNRNmRxYlc3SVRjeF9WSnVWR0Q1MXpkWE8xQ0xDTmtNWndDSjVhV3lkbFRkUEhKUk92VVh1ZUV0Rlo1d094UnlmQ3RkZVE?oc=5\" target=\"_blank\">Mizoram Gets 'Ginger Capital Of India' Tag, Steps Up Production Drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVk9VRFk5aE9HRkRCZFY0dGt2Z1hsMFFuOEt6MnNGZzliT0NSSGN2TXA4OEJBMDRwUW1VajJTVFE0X2RNTFpXZ3AxNDhIYmVTMWdkeHVDd0NDcmJ6VzE3QmYzTmNTck5mMnRZbUpGTW9pUHRUV1JpcVl1RDNwcGxkNk9QcU5jT1pJT3J1OG5HMFF0NWpLUERpd3lTLTJ0ZldCaVHSAaoBQVVfeXFMTUc5R1I0UnNNa3NBZTIwQkVySW9TTmg0TER5MDBnc3ZuSjNiRzE1UW9xcFdFd0Ftc3ctVUEtTWNKZWU5SFNXa19oMlBPeEF1bHY4VnhKaGN6SXY2WERtbUtHMjNyYVNRNmRxYlc3SVRjeF9WSnVWR0Q1MXpkWE8xQ0xDTmtNWndDSjVhV3lkbFRkUEhKUk92VVh1ZUV0Rlo1d094UnlmQ3RkZVE?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram Govt launches support price procurement drive for four key crops from February",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUGtRQk5TZmkwcVpId1dpRTF2dXFiX0lyNmJ6aDhncDhjWU04aWRFT1otNGctLXZRdjA0TmtEdXNxUGF0WVJLcU5ncDZXeFdfbjRKaHlrUWZLTHFIV1RWczd5MnVYX2tQWUMwUTRwalJXcDJ1X011Z1d5REVWVXo3WmllQzNpVjJ6LUJGRGxTcy1mN3c4eTdtaEFxbXZEQkd1QWVuaHVNd1c0cHZfWU1vdXdZTkZibC1keEVtXzU0MGdJZHd4amxUZTJ5bmZ5cjFCRy11VnQ2c2lCRFZLc1o1LdIB5gFBVV95cUxNOW1tOWkyT1lkSTNYbEpxUF8tMVNmb1JuRFYwcTd1eFZ3a29MTUp5U0JseTJ6V096XzJudTVsVXZaTHM0Zjg1TGEzTklKM2oxY0dTWkJyQVhjZ1Yyb2t2RUpQT3JZSGlYa2hlaUFSQ1JrX0V1Tm5LZXBfSjJtd1RVakZ1eE5YT181U2Z3SVBveUt4a0VQUXRoc1N6VkoxaVhReEhCNmhCa05BdHk0eUlheTkxb2FjMkFnY3ZnQzRRc1R4VFk3TWszZGlBN2FLcnlQX0hCcm1rYl9rMC1IQ01NY2xjRzU4QQ?oc=5\" target=\"_blank\">Mizoram Govt launches support price procurement drive for four key crops from February</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUGtRQk5TZmkwcVpId1dpRTF2dXFiX0lyNmJ6aDhncDhjWU04aWRFT1otNGctLXZRdjA0TmtEdXNxUGF0WVJLcU5ncDZXeFdfbjRKaHlrUWZLTHFIV1RWczd5MnVYX2tQWUMwUTRwalJXcDJ1X011Z1d5REVWVXo3WmllQzNpVjJ6LUJGRGxTcy1mN3c4eTdtaEFxbXZEQkd1QWVuaHVNd1c0cHZfWU1vdXdZTkZibC1keEVtXzU0MGdJZHd4amxUZTJ5bmZ5cjFCRy11VnQ2c2lCRFZLc1o1LdIB5gFBVV95cUxNOW1tOWkyT1lkSTNYbEpxUF8tMVNmb1JuRFYwcTd1eFZ3a29MTUp5U0JseTJ6V096XzJudTVsVXZaTHM0Zjg1TGEzTklKM2oxY0dTWkJyQVhjZ1Yyb2t2RUpQT3JZSGlYa2hlaUFSQ1JrX0V1Tm5LZXBfSjJtd1RVakZ1eE5YT181U2Z3SVBveUt4a0VQUXRoc1N6VkoxaVhReEhCNmhCa05BdHk0eUlheTkxb2FjMkFnY3ZnQzRRc1R4VFk3TWszZGlBN2FLcnlQX0hCcm1rYl9rMC1IQ01NY2xjRzU4QQ?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram to introduce Hindi-speaking day in schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmd2eXVkRkdPV0ZVRUhvZWF2QnM0cHFrQXVzMkRlTGNrZW1RZm1aeDF5WHhUVEN6SFNRb2txdTRfaV9DMXNXMG9Nb0U0d0dsd3lISTBUWXFMZ1BROTBXay1wQnpRZmtIUjd1Q05wWXVQejgzc2pMN3ZXcnplUXBtWjBRNTU0Y1BkcmhpODRTMU1BbE5qOUFpZ25lZUQwWjJPd285aDNPY2RUSnZzM1VyVXVUWWt1WjVwNjZKTzhZcUttazl0RklRRlFzX0_SAdABQVVfeXFMUDM5RjRBZmFWY0xrNXJ0QkxvdWVKVThicXowclBYY1djVERFQ0hmUDZlbHA2ZEh5RnpqaHBqT01ZdzFvcWtUN29xOEhVelBrRVlxZHAtN2UwbnFyYUg0U3dzcFlINllTMDRSUTlPcGdibW05anpPZlBfazE2Z1B1cXlaQ3ZadFlQeTlwMjItdWY0bkZKcnM4aktzdGRlSGpoMXk5cDQ2ZTRGellGbVNPRXBSWWc4Z01iTS1WTjQyOVVybTJjaU85ZGdaY2lNUHltaw?oc=5\" target=\"_blank\">Mizoram to introduce Hindi-speaking day in schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmd2eXVkRkdPV0ZVRUhvZWF2QnM0cHFrQXVzMkRlTGNrZW1RZm1aeDF5WHhUVEN6SFNRb2txdTRfaV9DMXNXMG9Nb0U0d0dsd3lISTBUWXFMZ1BROTBXay1wQnpRZmtIUjd1Q05wWXVQejgzc2pMN3ZXcnplUXBtWjBRNTU0Y1BkcmhpODRTMU1BbE5qOUFpZ25lZUQwWjJPd285aDNPY2RUSnZzM1VyVXVUWWt1WjVwNjZKTzhZcUttazl0RklRRlFzX0_SAdABQVVfeXFMUDM5RjRBZmFWY0xrNXJ0QkxvdWVKVThicXowclBYY1djVERFQ0hmUDZlbHA2ZEh5RnpqaHBqT01ZdzFvcWtUN29xOEhVelBrRVlxZHAtN2UwbnFyYUg0U3dzcFlINllTMDRSUTlPcGdibW05anpPZlBfazE2Z1B1cXlaQ3ZadFlQeTlwMjItdWY0bkZKcnM4aktzdGRlSGpoMXk5cDQ2ZTRGellGbVNPRXBSWWc4Z01iTS1WTjQyOVVybTJjaU85ZGdaY2lNUHltaw?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 29 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Lungleiah kum 2026 atana rulhut hlo pek runpui thawh khatna (National Deworming Day) kalpui a ni",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGV1NjZKRjJZaHRhY0VwcFZWeVBGTS1nTEFUY3dFT2RvMF9kN2c5dTYtVzFTZ2JYREx5dmd6NFpJSWRwYVRsdFZvMGVfQXM5MkYwQ1BHZkk2OG9pQVlCTHFibE9NUXM0bzhpS3o5bkFOVHYxTDB4NHpwSHZVYTVjWWpYdndjQUtCNHMwX0tiZzBvRWhWMmlhdkpiN011ZTlRRkxyNHdDTUh1alB6c09peTNrRkNqbV9GVmJVNXVlSFFiRzZ6MGc?oc=5\" target=\"_blank\">Lungleiah kum 2026 atana rulhut hlo pek runpui thawh khatna (National Deworming Day) kalpui a ni</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Government of Mizoram</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGV1NjZKRjJZaHRhY0VwcFZWeVBGTS1nTEFUY3dFT2RvMF9kN2c5dTYtVzFTZ2JYREx5dmd6NFpJSWRwYVRsdFZvMGVfQXM5MkYwQ1BHZkk2OG9pQVlCTHFibE9NUXM0bzhpS3o5bkFOVHYxTDB4NHpwSHZVYTVjWWpYdndjQUtCNHMwX0tiZzBvRWhWMmlhdkpiN011ZTlRRkxyNHdDTUh1alB6c09peTNrRkNqbV9GVmJVNXVlSFFiRzZ6MGc?oc=5",
+   "source_name": "Government of Mizoram",
+   "source_domain": "dipr.mizoram.gov.in",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "185 students awarded degrees at NIT-Mizoram's convocation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUjNJcUE1R1ZETlRWN3JFSTRleThLMXBGcFlDSlptbkZLUTZWNk9nQkhIdjlodURZcVNZLXNkdVdMejV2RXlldzhDeGFzcTdzUVk0Q2tZU0ZCNmxVWTVqSWpoMnpVMlVfVXdOVzlJX0J2TFBQNkdoTThHQ0VET292LW9TY0NwNFF2T0Zib2hIZTJ1TzNWalczT19rbE9KLU1SZXJMVnpZdVlKVU93OHNmMExvVXJaUU9Pb2NKdVIxdzJvM3hKUUdrX3FEWlJjMURs0gHUAUFVX3lxTFBPbnZQbXRKYjhLTE11OUJ6SnVybkVPaVE2cVFORmhnMEwyOGJoM3hqaVpoalA2RE8xcHVkU3ZieV9jVkxGajZZNnZyMzgxTG1qQ2ZGZHVZaHRkeTFTT3F4bG5haUlMN0JjS3ViY3Q2Mngtbkl4UFItQldkeTNiWVZ5T2VidDRKb1d4WlVJSHNxekphRWJMMGV2TTBzU1c5ZWpncmxDbnpydmcyemo3VVVUX0tLU3FOaGpMTkQyZnJCbEpnS3JtNU1Jd3FaUVIyNmRkUGhN?oc=5\" target=\"_blank\">185 students awarded degrees at NIT-Mizoram's convocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUjNJcUE1R1ZETlRWN3JFSTRleThLMXBGcFlDSlptbkZLUTZWNk9nQkhIdjlodURZcVNZLXNkdVdMejV2RXlldzhDeGFzcTdzUVk0Q2tZU0ZCNmxVWTVqSWpoMnpVMlVfVXdOVzlJX0J2TFBQNkdoTThHQ0VET292LW9TY0NwNFF2T0Zib2hIZTJ1TzNWalczT19rbE9KLU1SZXJMVnpZdVlKVU93OHNmMExvVXJaUU9Pb2NKdVIxdzJvM3hKUUdrX3FEWlJjMURs0gHUAUFVX3lxTFBPbnZQbXRKYjhLTE11OUJ6SnVybkVPaVE2cVFORmhnMEwyOGJoM3hqaVpoalA2RE8xcHVkU3ZieV9jVkxGajZZNnZyMzgxTG1qQ2ZGZHVZaHRkeTFTT3F4bG5haUlMN0JjS3ViY3Q2Mngtbkl4UFItQldkeTNiWVZ5T2VidDRKb1d4WlVJSHNxekphRWJMMGV2TTBzU1c5ZWpncmxDbnpydmcyemo3VVVUX0tLU3FOaGpMTkQyZnJCbEpnS3JtNU1Jd3FaUVIyNmRkUGhN?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 27 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram’s biggest festival Chapchar Kut to be garbage-free",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHVfM1haLUk0N0pPanFQSGRDaXBpdEtkTUFYR0h4SUlzYmx0ZlBQNXdQRmJxbmJ5cGZ5WGd2bVlVODlaUld4LTQ3bU9TSDJHT2J3STRRT3d1Y0JUSlZYUXEtWml2bHdBTnN3azdYSi1ibENWTnJUMFRCd1I4YzE1RmRHb1Y3VnNoSmFwTUd3LUhKbXB3Z1pyZVZhUGc0d1E?oc=5\" target=\"_blank\">Mizoram’s biggest festival Chapchar Kut to be garbage-free</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EastMojo</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHVfM1haLUk0N0pPanFQSGRDaXBpdEtkTUFYR0h4SUlzYmx0ZlBQNXdQRmJxbmJ5cGZ5WGd2bVlVODlaUld4LTQ3bU9TSDJHT2J3STRRT3d1Y0JUSlZYUXEtWml2bHdBTnN3azdYSi1ibENWTnJUMFRCd1I4YzE1RmRHb1Y3VnNoSmFwTUd3LUhKbXB3Z1pyZVZhUGc0d1E?oc=5",
+   "source_name": "EastMojo",
+   "source_domain": "eastmojo.com",
+   "published_raw": "Tue, 20 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:35:02+00:00"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "region": "Tripura",
+ "group": "B",
+ "query": "(Tripura) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Tripura%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:31+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Conference on “Harnessing AI and Digital Public Infrastructure (DPI) for Viksit Bharat”",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBOczRMVVRyQ1ZlYzZTTERHU1lnRlFULXVOU3MwbHVqWGIzQjR6REpLVHlyMHY3VVZ1U2I5OHk0cEdXeXlOWmxJbWRMd1lva08xeGdzTWV2ZVZVbGV5SFl2cFdPUDZUOE9QUEhLR1lITGZSWjF4T00xbkRB?oc=5\" target=\"_blank\">Conference on “Harnessing AI and Digital Public Infrastructure (DPI) for Viksit Bharat”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOczRMVVRyQ1ZlYzZTTERHU1lnRlFULXVOU3MwbHVqWGIzQjR6REpLVHlyMHY3VVZ1U2I5OHk0cEdXeXlOWmxJbWRMd1lva08xeGdzTWV2ZVZVbGV5SFl2cFdPUDZUOE9QUEhLR1lITGZSWjF4T00xbkRB?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 05 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura leads AI awareness drive ahead of India-AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkxld0ZIX3ZBQnRRR0Uxc0FuMkJvalBtZTlDdm5PTE1HUU9jektqYkN4aXVDUVNOWVdIUVc3cmc0WXZpNHlkc2dtMFlBSzJoZVNhN09IT0RaSFh3dy1LUF9NenJvWXlCZ00yODBSQWZHRmJWaG1YVzBVN3dRaUlscXhjWlgxYkI0SV9pNVZURUVBdkZfdS1hZG1TNnlQWS1tNHV5VklSYkdjYWhHQnBHTzJid0NjNEFCWE1rbDB5MW8wRjAxcXZGbkdXZlRjdw?oc=5\" target=\"_blank\">Tripura leads AI awareness drive ahead of India-AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkxld0ZIX3ZBQnRRR0Uxc0FuMkJvalBtZTlDdm5PTE1HUU9jektqYkN4aXVDUVNOWVdIUVc3cmc0WXZpNHlkc2dtMFlBSzJoZVNhN09IT0RaSFh3dy1LUF9NenJvWXlCZ00yODBSQWZHRmJWaG1YVzBVN3dRaUlscXhjWlgxYkI0SV9pNVZURUVBdkZfdS1hZG1TNnlQWS1tNHV5VklSYkdjYWhHQnBHTzJid0NjNEFCWE1rbDB5MW8wRjAxcXZGbkdXZlRjdw?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Sat, 31 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "From royal courts to AI: How Tripura is reinventing its musical instruments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWp4b013ZHBZaG5LaU93cW9WQXFMYXRiTTBza1pxcURLbTZ2ODZwTWVGZVRwUDJ3MXprZHFKZHRNSWRwMTZ2c0RfXzhFVnFUeHVocTdyZ3JfUHlZODdlaVdRYXIzNGtYLXB5TUI0Zlc3RDFtcE5nMjJ6aU1ocHg2SVRXamlFUG5sSVpWQ1dQWGpua29oQlRwRNIBnwFBVV95cUxPMjlrQ1BFVHZJaUUybmlRZUNIUjFkcHpEdHpwSTI1Y3pWY1JfcWdzcEh6X0RzVUdKUzl0TEE5OEUxYTFRUnRSdEx5WE1UbDA0RkhtZmJZc0VxeXVrYzJwbktoRll2MEdqOUk3Qk85czV3amRBbmU5X3VGQlJ0VDRKVGNhcWo3Qkg4cVhIS0E4QUhYaEF6ODNEcjBzSjdkLU0?oc=5\" target=\"_blank\">From royal courts to AI: How Tripura is reinventing its musical instruments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWp4b013ZHBZaG5LaU93cW9WQXFMYXRiTTBza1pxcURLbTZ2ODZwTWVGZVRwUDJ3MXprZHFKZHRNSWRwMTZ2c0RfXzhFVnFUeHVocTdyZ3JfUHlZODdlaVdRYXIzNGtYLXB5TUI0Zlc3RDFtcE5nMjJ6aU1ocHg2SVRXamlFUG5sSVpWQ1dQWGpua29oQlRwRNIBnwFBVV95cUxPMjlrQ1BFVHZJaUUybmlRZUNIUjFkcHpEdHpwSTI1Y3pWY1JfcWdzcEh6X0RzVUdKUzl0TEE5OEUxYTFRUnRSdEx5WE1UbDA0RkhtZmJZc0VxeXVrYzJwbktoRll2MEdqOUk3Qk85czV3amRBbmU5X3VGQlJ0VDRKVGNhcWo3Qkg4cVhIS0E4QUhYaEF6ODNEcjBzSjdkLU0?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura: Vidya Jyoti School emerges as model of holistic transformation in government education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQTVg0TkJOQkoxNUpxb0FyZTExWUtDUUNQaFNWbzdwLVZJSG1DWHBLYTVfUTdWbDYzbW53cHlGVUxCYlI2TFpMbVBQam5DYnEtLWFGMkN0ZGxETm9HZlVrNjZZUFJiUlFyMnNoTEpkUjNjQnpwUERrY3VCdUJtVlZVMmY3TWZxTUVNdnNXUURQVXZ6bFBUQVF4VTFzOUR2Mm1EckFrY3VuLVROV1h4VGNMSUZfMGtpcGJXbFVZSEI2a0QyTFFhbVVhQVBReFdFTUNNSVo2RG54WkJURnU3ZUlPZlBjUGtwaGtKeUtRSTEza1JuYk5KTENlWVd2Y1kzM2N5UnhJ0gGHAkFVX3lxTFBDckRrMmNmN0ctT3hOZVNoVTVCSGlFTEgzcld3Q09vTkNDNm1wVEVfeFFFN19ZR0VZc3VoT2wxMk85dFZod2w2Z2VKSFNyblVMYzloU0lOMWRZRjlkQ0Z6a3gyVmVBU05NSUYyeG1DeUk0UTQxLWRsdlVlendKRl9KYURTcVVoVWtQLTFEd1NPSlVPNnk1eUNsQ01ZSDJISWJjYjRiOU0yVDJYMWpYcndXSVRrX1pLQ0Z1RmJZYko0dlp3T3dRR3RCQlIwcE0ya0YwVXpBMjFUellTQjFzNGRlM1N2N2xmMjVLblBYYmJvbVBMcVlncDJyNkFjNzVBWC1fd1I2aFlJ?oc=5\" target=\"_blank\">Tripura: Vidya Jyoti School emerges as model of holistic transformation in government education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTVg0TkJOQkoxNUpxb0FyZTExWUtDUUNQaFNWbzdwLVZJSG1DWHBLYTVfUTdWbDYzbW53cHlGVUxCYlI2TFpMbVBQam5DYnEtLWFGMkN0ZGxETm9HZlVrNjZZUFJiUlFyMnNoTEpkUjNjQnpwUERrY3VCdUJtVlZVMmY3TWZxTUVNdnNXUURQVXZ6bFBUQVF4VTFzOUR2Mm1EckFrY3VuLVROV1h4VGNMSUZfMGtpcGJXbFVZSEI2a0QyTFFhbVVhQVBReFdFTUNNSVo2RG54WkJURnU3ZUlPZlBjUGtwaGtKeUtRSTEza1JuYk5KTENlWVd2Y1kzM2N5UnhJ0gGHAkFVX3lxTFBDckRrMmNmN0ctT3hOZVNoVTVCSGlFTEgzcld3Q09vTkNDNm1wVEVfeFFFN19ZR0VZc3VoT2wxMk85dFZod2w2Z2VKSFNyblVMYzloU0lOMWRZRjlkQ0Z6a3gyVmVBU05NSUYyeG1DeUk0UTQxLWRsdlVlendKRl9KYURTcVVoVWtQLTFEd1NPSlVPNnk1eUNsQ01ZSDJISWJjYjRiOU0yVDJYMWpYcndXSVRrX1pLQ0Z1RmJZYko0dlp3T3dRR3RCQlIwcE0ya0YwVXpBMjFUellTQjFzNGRlM1N2N2xmMjVLblBYYmJvbVBMcVlncDJyNkFjNzVBWC1fd1I2aFlJ?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 17 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Uttarakhand government to take stringent steps against culprits in Anjel Chakma murder: Tripura CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1IzejZRWHh0SmVkM2VZSjJHUFpqMERydFhxaWctWDE0QUlpZnNMczZTanZabzlSWVhjVzlYeUdHNk9XcWZGMV9mY25GQ2NQNGZUaXhlMEtqX1IyRWMxellfRFg1VUlFeVJ6ampma0ZkRnE0WjIyckNlNzJhWmV1bFZmWTgzV21vWFJxRXlRa1hyRVZnTlR5LUtUZ3V2SDhZX3FoaFFaS2ozLU1heFpZazhmTGlXMVZ1R1UxWFJrY2RIT1lNMGt1TDhHYXpjQVlKSm1RdXVVOUhPUm1lRExVOXhrX1B4Vk82WFlZbExfWEhIYktk0gH6AUFVX3lxTE9XNjF2VExLdTh4X2pXRm10dzhWV09ZZjNLd29HbFlocWFNZXJ0clQxTjZZNVVzTDAyc0U5Y3VyazVNYjhfR1Z5b3kxeVQzUFFWemJVSDNyZkdudlpDRmZhZThGWmVTT0xsamFXYjc2SUtiY0JsU3o5VEVablY4WlBoX0luVkxNTmZvOGl5VVA4OUpFb3ZQbkZ6QkZoVmhoVUJhU0lrQ2FPa2owYUtSbU5Rdmx6MzRTZWRpcENBLWhrV0FxRFIyQkVfT00tb0k5cHNCLWZWU3JyV2drSWNDdGpNeEJmV0JlQ1VraVZGb1NJVWtyZG0yWUxpYmc?oc=5\" target=\"_blank\">Uttarakhand government to take stringent steps against culprits in Anjel Chakma murder: Tripura CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1IzejZRWHh0SmVkM2VZSjJHUFpqMERydFhxaWctWDE0QUlpZnNMczZTanZabzlSWVhjVzlYeUdHNk9XcWZGMV9mY25GQ2NQNGZUaXhlMEtqX1IyRWMxellfRFg1VUlFeVJ6ampma0ZkRnE0WjIyckNlNzJhWmV1bFZmWTgzV21vWFJxRXlRa1hyRVZnTlR5LUtUZ3V2SDhZX3FoaFFaS2ozLU1heFpZazhmTGlXMVZ1R1UxWFJrY2RIT1lNMGt1TDhHYXpjQVlKSm1RdXVVOUhPUm1lRExVOXhrX1B4Vk82WFlZbExfWEhIYktk0gH6AUFVX3lxTE9XNjF2VExLdTh4X2pXRm10dzhWV09ZZjNLd29HbFlocWFNZXJ0clQxTjZZNVVzTDAyc0U5Y3VyazVNYjhfR1Z5b3kxeVQzUFFWemJVSDNyZkdudlpDRmZhZThGWmVTT0xsamFXYjc2SUtiY0JsU3o5VEVablY4WlBoX0luVkxNTmZvOGl5VVA4OUpFb3ZQbkZ6QkZoVmhoVUJhU0lrQ2FPa2owYUtSbU5Rdmx6MzRTZWRpcENBLWhrV0FxRFIyQkVfT00tb0k5cHNCLWZWU3JyV2drSWNDdGpNeEJmV0JlQ1VraVZGb1NJVWtyZG0yWUxpYmc?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura CM hails Union Budget 2026 as visionary roadmap for Viksit Bharat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGFhS1k2eWtMYU5LTmMtSzdEYkpXZmhESXBpVVptT2dEdks4d1pyNmY1SEJaVkFiZVgtbHY0bHVaeFRUNzZsOE5aQUwzV1BpRXIta0hiMGFsQUhjVXFRcnhZOFowLWhGaERUaW9LaUFQaXdGcFM2VWRadUxHcGxPTDRGaHV1SGhpU3M2c1E3c0g0ZGR0Uk4zMy1RWnpCcktvNUxDQnlCOFNFVjNGNmNVLXcyWk1RLVR5R2tILWNmRl9DSFJuREFVUjFUN3YzMFnSAdQBQVVfeXFMTUJkOXo2TjIwRER5dG1QblYzQmhNR29Kei1DLThiaVltZnZTT0R4WjVtRmlUVWhaZGhJUG5KMlg3TzVOaGtNNDVTTHEzcGkySy1Nb1lQYTA1eXA3SjhSNWRRVnJXVXlKRWJYNDIzeW1ZZ0E0X3NGS0hRRTd3SGNwRUhaMXZHOGIxakk2NU92czB3N3hOQ1N1VGNwaEU2YUhQUFBwNTYxQlVsYXV4b0RqZ0x1Vk1VMHBxa2RXVk13SkV5V1prZTR1NXNlOGVyZm90S1Zmb3E?oc=5\" target=\"_blank\">Tripura CM hails Union Budget 2026 as visionary roadmap for Viksit Bharat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGFhS1k2eWtMYU5LTmMtSzdEYkpXZmhESXBpVVptT2dEdks4d1pyNmY1SEJaVkFiZVgtbHY0bHVaeFRUNzZsOE5aQUwzV1BpRXIta0hiMGFsQUhjVXFRcnhZOFowLWhGaERUaW9LaUFQaXdGcFM2VWRadUxHcGxPTDRGaHV1SGhpU3M2c1E3c0g0ZGR0Uk4zMy1RWnpCcktvNUxDQnlCOFNFVjNGNmNVLXcyWk1RLVR5R2tILWNmRl9DSFJuREFVUjFUN3YzMFnSAdQBQVVfeXFMTUJkOXo2TjIwRER5dG1QblYzQmhNR29Kei1DLThiaVltZnZTT0R4WjVtRmlUVWhaZGhJUG5KMlg3TzVOaGtNNDVTTHEzcGkySy1Nb1lQYTA1eXA3SjhSNWRRVnJXVXlKRWJYNDIzeW1ZZ0E0X3NGS0hRRTd3SGNwRUhaMXZHOGIxakk2NU92czB3N3hOQ1N1VGNwaEU2YUhQUFBwNTYxQlVsYXV4b0RqZ0x1Vk1VMHBxa2RXVk13SkV5V1prZTR1NXNlOGVyZm90S1Zmb3E?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Sun, 01 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura min thanks Centre for clearing final location survey for new railway line",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQekdZZlRsNjlFM0paTzloZnFaX0FNRHROdkVjbFQzcW8yWnJkX1dXdkxIXzFkbU9mcm1pTEUxVkJ0cEQ5VGhCd2ZwZ2hxY1ZJMWlnamswdVFBWTl5UVJETlpLSXhKMi1CcFU3S3VPLU5zRHRjV1lvMEZ5eWN6cFRIVWVFTEVfbUU0VkpLTnBfbmZHNU5aVHlaSXAtdHNlS3piSndtTnBMcXBQMU5VNHNEY3VtM2lZVC01SGpfWHZSV3JxdWlXRXpYSWxGbkl2anhvY2wxbF9mamFNRXlaUzJidVFR0gHmAUFVX3lxTE03N0JiRldsT0Z3UmJGbms2WmVORUZ0UGE0Mld6UE1VUFlYb2Zua2lRaldxZ05sM1h4ZDhUa1hYUkVrcThKSGdLbk0wa2dVX1V5NVh4YktWajdnTG5OOUNKNGJVSHRaWEEydC1OeWdRRW1rVGVMRzJiM3RDSzg3UHZSYkRGTDJuSTloeWhuRFJPdUlLVFNRT2pWUl94Q0daZDBfYVFoV05mUEFPYmdCYTZZUG9JUFB6U2JWb3d1OEpSSUVPbTVrOFhJNGc3V3paMlE0T1A4cEM2S1ZYN093Znl6OTNDZ1Jn?oc=5\" target=\"_blank\">Tripura min thanks Centre for clearing final location survey for new railway line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQekdZZlRsNjlFM0paTzloZnFaX0FNRHROdkVjbFQzcW8yWnJkX1dXdkxIXzFkbU9mcm1pTEUxVkJ0cEQ5VGhCd2ZwZ2hxY1ZJMWlnamswdVFBWTl5UVJETlpLSXhKMi1CcFU3S3VPLU5zRHRjV1lvMEZ5eWN6cFRIVWVFTEVfbUU0VkpLTnBfbmZHNU5aVHlaSXAtdHNlS3piSndtTnBMcXBQMU5VNHNEY3VtM2lZVC01SGpfWHZSV3JxdWlXRXpYSWxGbkl2anhvY2wxbF9mamFNRXlaUzJidVFR0gHmAUFVX3lxTE03N0JiRldsT0Z3UmJGbms2WmVORUZ0UGE0Mld6UE1VUFlYb2Zua2lRaldxZ05sM1h4ZDhUa1hYUkVrcThKSGdLbk0wa2dVX1V5NVh4YktWajdnTG5OOUNKNGJVSHRaWEEydC1OeWdRRW1rVGVMRzJiM3RDSzg3UHZSYkRGTDJuSTloeWhuRFJPdUlLVFNRT2pWUl94Q0daZDBfYVFoV05mUEFPYmdCYTZZUG9JUFB6U2JWb3d1OEpSSUVPbTVrOFhJNGc3V3paMlE0T1A4cEM2S1ZYN093Znl6OTNDZ1Jn?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 17 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura CM Dr Manik Saha Lauds Union Budget 2026 as Roadmap to Viksit Bharat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPT00xWlo5cGNpTWVFb2VlS3FySTNCaGc1b2M4MWtoa2I2Mk9xUU9pdFRKanRtNnJoTjhXeGdXY3h0X2VucHF4TmxPZHZnMVRHUGVYTzJubTZnSUtxd0E1ZG9xZkxoby1tSENNTEx1YUdDTWRQVnpMMVplWkdxbFo5a2J1OWhSU2hVcHFQVVNUbnFGUlQtZ3pORFpsekU1V0RvYnMyR2tOOC1rajRxVG13S2hXdw?oc=5\" target=\"_blank\">Tripura CM Dr Manik Saha Lauds Union Budget 2026 as Roadmap to Viksit Bharat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT00xWlo5cGNpTWVFb2VlS3FySTNCaGc1b2M4MWtoa2I2Mk9xUU9pdFRKanRtNnJoTjhXeGdXY3h0X2VucHF4TmxPZHZnMVRHUGVYTzJubTZnSUtxd0E1ZG9xZkxoby1tSENNTEx1YUdDTWRQVnpMMVplWkdxbFo5a2J1OWhSU2hVcHFQVVNUbnFGUlQtZ3pORFpsekU1V0RvYnMyR2tOOC1rajRxVG13S2hXdw?oc=5",
+   "source_name": "Northeast Today",
+   "source_domain": "northeasttoday.in",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Rebuilding a lost gate: Tripura looks to restore a forgotten royal landmark",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblR0ZFlEbDdadDNOVXNuS29KYnlNZENROXc1VGRLTkZISEpsb2tpakxua2FSc292REtGWGM1czFLZ0phSFBKdEk1a0ZyeUw3NWpocm5lNzJTTjctODJITW1hMndzTkJNYlhfQjVJVTRIUFZ5OGxKdm5DZHZjdXpkaFpZbWkzVFl0LWMtVE9CYlhZQTAtNFFyem9GZmdPT3B0QWhGRjFPM1M4dDVSTDJZMzBTSzNvdHVwbUxZ0gHCAUFVX3lxTE01QndaZWNqMzBZU0F2eDhTZmVzbUxzUGxFM2JUMjhlazBYTVhvT05sVnE4VkQ0TnFFa3V6VnNhdUhuMlB2ck9DZmlIclBrVzZGenNCTW5jRVhLeVBiTXRVQnBXaWVfV3VSSjBISmVLM2I2ZndwOGZjWXE4ZmNBSW9BXzlfc3VlVVJoNmVaZW8ycmRxYkppN0tCLVZHenFsV1hKUF96VlkwYTZaU0lqRVpjTnI5TDNXLTAxcWpyV2hoeHZB?oc=5\" target=\"_blank\">Rebuilding a lost gate: Tripura looks to restore a forgotten royal landmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblR0ZFlEbDdadDNOVXNuS29KYnlNZENROXc1VGRLTkZISEpsb2tpakxua2FSc292REtGWGM1czFLZ0phSFBKdEk1a0ZyeUw3NWpocm5lNzJTTjctODJITW1hMndzTkJNYlhfQjVJVTRIUFZ5OGxKdm5DZHZjdXpkaFpZbWkzVFl0LWMtVE9CYlhZQTAtNFFyem9GZmdPT3B0QWhGRjFPM1M4dDVSTDJZMzBTSzNvdHVwbUxZ0gHCAUFVX3lxTE01QndaZWNqMzBZU0F2eDhTZmVzbUxzUGxFM2JUMjhlazBYTVhvT05sVnE4VkQ0TnFFa3V6VnNhdUhuMlB2ck9DZmlIclBrVzZGenNCTW5jRVhLeVBiTXRVQnBXaWVfV3VSSjBISmVLM2I2ZndwOGZjWXE4ZmNBSW9BXzlfc3VlVVJoNmVaZW8ycmRxYkppN0tCLVZHenFsV1hKUF96VlkwYTZaU0lqRVpjTnI5TDNXLTAxcWpyV2hoeHZB?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:31+00:00"
+  }
+ ]
+}

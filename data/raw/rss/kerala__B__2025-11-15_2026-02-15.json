@@ -1,0 +1,120 @@
+{
+ "region": "Kerala",
+ "group": "B",
+ "query": "(Kerala OR Thiruvananthapuram) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Kerala+OR+Thiruvananthapuram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:14+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala forest dept to launch AI-based jumbo alert",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbE41RHY2V3U2T1pUdzdEbGpHVzhUQlFvdjdsWEF6SGlBemlSenlKSU82dFJ1YlVpQzhXaVA0U2pwaXdvMXd0SWdkZFlRVnY2OWtXNEd5cmlfV1B6ZGRLMlpFZVY3eF85UjdKM0FYQmFMdDdxRFNIcnF0MnpCSGFnLUFjT0lVb3M5Zkw1aWlycWstd2dkc3Q5UVBnOWRRTWJYYTJNZVZuWFVKU1p30gG6AUFVX3lxTE1uWndUQXhBR3pXMDlNVUJJMzFtbE9WX0otNHA1clROdnFRS2ZvX0NHdnJENDBISjdNQ084bHhna1V6enN2ZUZZRWRuOUlZRk9NcTFKQ1I1S3dGS1RFaHMwQ1ZYMzlqeFpSem03aTF5cF9oa1MwQ3FCNDNteWVBamY5LTN0T3NRWEdjeGg4YVllRWQ4bjRYWWUxMjlsNnRpeVlqM09ERkF6MzZoME1ud0stcnVVTWlOYkE0dw?oc=5\" target=\"_blank\">Kerala forest dept to launch AI-based jumbo alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbE41RHY2V3U2T1pUdzdEbGpHVzhUQlFvdjdsWEF6SGlBemlSenlKSU82dFJ1YlVpQzhXaVA0U2pwaXdvMXd0SWdkZFlRVnY2OWtXNEd5cmlfV1B6ZGRLMlpFZVY3eF85UjdKM0FYQmFMdDdxRFNIcnF0MnpCSGFnLUFjT0lVb3M5Zkw1aWlycWstd2dkc3Q5UVBnOWRRTWJYYTJNZVZuWFVKU1p30gG6AUFVX3lxTE1uWndUQXhBR3pXMDlNVUJJMzFtbE9WX0otNHA1clROdnFRS2ZvX0NHdnJENDBISjdNQ084bHhna1V6enN2ZUZZRWRuOUlZRk9NcTFKQ1I1S3dGS1RFaHMwQ1ZYMzlqeFpSem03aTF5cF9oa1MwQ3FCNDNteWVBamY5LTN0T3NRWEdjeGg4YVllRWQ4bjRYWWUxMjlsNnRpeVlqM09ERkF6MzZoME1ud0stcnVVTWlOYkE0dw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "G-Spider, AI-equipped canal cleaning system, launched in Thiruvananthapuram",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzNHYTMtM1hzTlR3cE9fc20xNVBfOGFaZWpibjFHTHV6RmFxY3ZkRXljeW9SVVlDX1k0VWJJMWxTd2JEX2R2V0hZZVZLR0U4akx1Tm1YZjFIV20ybFNzX3lEVmZMOUZBLTVva3BCbTZUb3ZwZmwtY3dIYXZVdW1Ha1hqOHAxbnFwb0NEajNJdzNoaldYdWNDRkJKcE1qcVhDZ3cxeTV4TkJMSmFWVGRYZ050c2RqN0tOMGlwOWlDbkc3endxdThNV3hDZlVqc1lJbWZ6R2h30gHcAUFVX3lxTFB4YUJuU3FnV3NGSnJiaElJa2JTbjNJUVMxZFJad3l4QkpmclJ3Q0drbXBPYlRmT3hxN183RnFkZVhyQkhQN2VnTW90Z1lJN0xvSGtXZHZuV0QxSEl3WW0xcndUd1NWZlRzYXZtcWNFYWJRTFhTMmZWNzJTSUoyNmY2UjFCbzA2d1lnSmJhcFF5ZGVmLUg3a1I3RUR0c2xzODBfdC13ekxzaFVCN3F4VDgwX1VWNEo4UzI5ODFUU1hiVmlLZ3o5bWlsMk45S2tYOVI3WTFQam9vVmJYdC0?oc=5\" target=\"_blank\">G-Spider, AI-equipped canal cleaning system, launched in Thiruvananthapuram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzNHYTMtM1hzTlR3cE9fc20xNVBfOGFaZWpibjFHTHV6RmFxY3ZkRXljeW9SVVlDX1k0VWJJMWxTd2JEX2R2V0hZZVZLR0U4akx1Tm1YZjFIV20ybFNzX3lEVmZMOUZBLTVva3BCbTZUb3ZwZmwtY3dIYXZVdW1Ha1hqOHAxbnFwb0NEajNJdzNoaldYdWNDRkJKcE1qcVhDZ3cxeTV4TkJMSmFWVGRYZ050c2RqN0tOMGlwOWlDbkc3endxdThNV3hDZlVqc1lJbWZ6R2h30gHcAUFVX3lxTFB4YUJuU3FnV3NGSnJiaElJa2JTbjNJUVMxZFJad3l4QkpmclJ3Q0drbXBPYlRmT3hxN183RnFkZVhyQkhQN2VnTW90Z1lJN0xvSGtXZHZuV0QxSEl3WW0xcndUd1NWZlRzYXZtcWNFYWJRTFhTMmZWNzJTSUoyNmY2UjFCbzA2d1lnSmJhcFF5ZGVmLUg3a1I3RUR0c2xzODBfdC13ekxzaFVCN3F4VDgwX1VWNEo4UzI5ODFUU1hiVmlLZ3o5bWlsMk45S2tYOVI3WTFQam9vVmJYdC0?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "India-AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1zY2RNMFM3c0NYNDVDaXNqTVItcG1xZkw0bGkwamVzR3hYZjRlV0VQeGFES0RhTUQyYkpqVmFJOUFjODhIMWV1N0FSUXJPT25GNUxpc2VuR2wwdEhKU3A1Y0VNMjBwV0N1SnhtT3Q5VVF2RHloRGRISGdn?oc=5\" target=\"_blank\">India-AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zY2RNMFM3c0NYNDVDaXNqTVItcG1xZkw0bGkwamVzR3hYZjRlV0VQeGFES0RhTUQyYkpqVmFJOUFjODhIMWV1N0FSUXJPT25GNUxpc2VuR2wwdEhKU3A1Y0VNMjBwV0N1SnhtT3Q5VVF2RHloRGRISGdn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Global Responsible Tourism Meet 2026 | Beypore, Kerala - Responsible, Resilient & Inclusive Tourism",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQTFCQ1NBU3pGZkVlNC1TTU9lMGZaN19NbXAxNTRBdnlTWGNoMWpoSFFjUEZJcktiTmNJdEdMX3JPN19TZFU4ZWk4cFF6VkdhN1JvQkVidjBGdm9URTR1SWdKTFhPZkxQbHJZSEdDMFFfNkxCc3VPSQ?oc=5\" target=\"_blank\">Global Responsible Tourism Meet 2026 | Beypore, Kerala - Responsible, Resilient & Inclusive Tourism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kerala Tourism</font>",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQTFCQ1NBU3pGZkVlNC1TTU9lMGZaN19NbXAxNTRBdnlTWGNoMWpoSFFjUEZJcktiTmNJdEdMX3JPN19TZFU4ZWk4cFF6VkdhN1JvQkVidjBGdm9URTR1SWdKTFhPZkxQbHJZSEdDMFFfNkxCc3VPSQ?oc=5",
+   "source_name": "Kerala Tourism",
+   "source_domain": "keralatourism.org",
+   "published_raw": "Wed, 28 Jan 2026 11:27:46 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Enhancing landslide detection in Western Ghats of Kerala, India with deep learning and Explainable AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWWRvQ3ZiTGVwWlBQNUtFX01zUmRDa2tmN2tjQm1lVVpBWjhKVnBQY25UblZGY3gxZVRMQWV2LUdwcmlRU0I0dVI5c2pqNGJqVV9vdGttNXVURldURmNz?oc=5\" target=\"_blank\">Enhancing landslide detection in Western Ghats of Kerala, India with deep learning and Explainable AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWWRvQ3ZiTGVwWlBQNUtFX01zUmRDa2tmN2tjQm1lVVpBWjhKVnBQY25UblZGY3gxZVRMQWV2LUdwcmlRU0I0dVI5c2pqNGJqVV9vdGttNXVURldURmNz?oc=5",
+   "source_name": "Nature",
+   "source_domain": "nature.com",
+   "published_raw": "Mon, 29 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "UP govt steps up AI push with focus on future skills, governance and jobs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeWhES0o0LXRSbnBqVkFtblNkN2ppWkJmNlJlTXJad19xY0drZWNRRTJ4Y01hbzc5UjZJM1pQdk8xclNPWUY5SzlTRVpuR3N6LTRPVDdISEdqMS1Ibm4wb3hFQXNfVGtiR2s3bUFZd0NycXBxS2VfU2R5dHNiQXo2VnF2N3g3Z29OSUV6amxlYnB1RWxVRU9KaWFUNkRqcGZ2WXpVTVRKMnpVTjVFY3R2a28yT25TOElGRDhSamlxLXVfNmJkMmJjTEJDSkZUMzBfMENXWWtJeDl1Y1UyWHJ5NEloYkNhdWvSAesBQVVfeXFMTjF5Y2dDLTZkbXhMeWNJdjRRd3hFM0xWME1NSFRPWEd5ZGVLdk9ndkYtTzZFSFV0eUZWSnU3MFJmVHhWemk1bXdSbEIyb0RGREVmcHFuNmJxYWloT3FGS240X3BLa3prTkdoTWpiSFdUZGhzWUJYeUpWbVhwZlFGdlpocWdvX1FvaUJlaWprbjB2bEhjNEVGRm5CM2F3ZFlqS19zbVo4cmxuVUUtM3F6cmxmeWlrLW9nMjRjU1lnQmlnWGRFU3dWUUtWRHBKeVRZZmM0Uk00WWhpV3ZlbV9RU3E5Y2V3V0tEanlZZw?oc=5\" target=\"_blank\">UP govt steps up AI push with focus on future skills, governance and jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeWhES0o0LXRSbnBqVkFtblNkN2ppWkJmNlJlTXJad19xY0drZWNRRTJ4Y01hbzc5UjZJM1pQdk8xclNPWUY5SzlTRVpuR3N6LTRPVDdISEdqMS1Ibm4wb3hFQXNfVGtiR2s3bUFZd0NycXBxS2VfU2R5dHNiQXo2VnF2N3g3Z29OSUV6amxlYnB1RWxVRU9KaWFUNkRqcGZ2WXpVTVRKMnpVTjVFY3R2a28yT25TOElGRDhSamlxLXVfNmJkMmJjTEJDSkZUMzBfMENXWWtJeDl1Y1UyWHJ5NEloYkNhdWvSAesBQVVfeXFMTjF5Y2dDLTZkbXhMeWNJdjRRd3hFM0xWME1NSFRPWEd5ZGVLdk9ndkYtTzZFSFV0eUZWSnU3MFJmVHhWemk1bXdSbEIyb0RGREVmcHFuNmJxYWloT3FGS240X3BLa3prTkdoTWpiSFdUZGhzWUJYeUpWbVhwZlFGdlpocWdvX1FvaUJlaWprbjB2bEhjNEVGRm5CM2F3ZFlqS19zbVo4cmxuVUUtM3F6cmxmeWlrLW9nMjRjU1lnQmlnWGRFU3dWUUtWRHBKeVRZZmM0Uk00WWhpV3ZlbV9RU3E5Y2V3V0tEanlZZw?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "LSGD to launch AI-powered call centre ‘Smarty’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWVYQXR4VFpyeDFsS1JfVlJjTjFJMFJwcXQtWGRfM2tCZVU0cExjZGctNnhRb2lEZU5QaGlNRlRONVRjSVZQc1RMbGJ3bzNQaUFlUzJHbjhOMGROeGlXWnM5cUg4dnk2aVVPeGxWQ2x5S2dBbFlKR1JRc0E2em9GM0hMV2dJZ0NKMVhFSklBSUhGZ1hLWUY4Unh6amZ1eXlKVXR0MXhNVUxLXzUtN2FNQXBVQjZpZ9IBwwFBVV95cUxQTzB1MWFNSEFTQVpCRzE5ck5NclcxN1I4U0NRbjNRNVNrRXlUZ0xFcHZSbFQwTWNkeXcyUW9FYjVCWHd1ZzBla1R3NmNDQlNscUhoVXJuN1VHbWxubXZ0dzdlTFhFam1DLUVwVGxwdWJtRkJMRlVUTUoxV0JpM1NwTnNkaURNYnBvbURBbDJFTm1MTGZ1Mk1xSjEtUXdYWnJDUmRVLXhBY3FqUERRRnh5Q1lLRDNTQ2NEWUVKWC1BdVQ4ZGs?oc=5\" target=\"_blank\">LSGD to launch AI-powered call centre ‘Smarty’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWVYQXR4VFpyeDFsS1JfVlJjTjFJMFJwcXQtWGRfM2tCZVU0cExjZGctNnhRb2lEZU5QaGlNRlRONVRjSVZQc1RMbGJ3bzNQaUFlUzJHbjhOMGROeGlXWnM5cUg4dnk2aVVPeGxWQ2x5S2dBbFlKR1JRc0E2em9GM0hMV2dJZ0NKMVhFSklBSUhGZ1hLWUY4Unh6amZ1eXlKVXR0MXhNVUxLXzUtN2FNQXBVQjZpZ9IBwwFBVV95cUxQTzB1MWFNSEFTQVpCRzE5ck5NclcxN1I4U0NRbjNRNVNrRXlUZ0xFcHZSbFQwTWNkeXcyUW9FYjVCWHd1ZzBla1R3NmNDQlNscUhoVXJuN1VHbWxubXZ0dzdlTFhFam1DLUVwVGxwdWJtRkJMRlVUTUoxV0JpM1NwTnNkaURNYnBvbURBbDJFTm1MTGZ1Mk1xSjEtUXdYWnJDUmRVLXhBY3FqUERRRnh5Q1lLRDNTQ2NEWUVKWC1BdVQ4ZGs?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 20 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "AI-powered robotic canal cleaning system launched in Thiruvananthapuram",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2dDR3hyWWpPRUVYZ1laZmxBNXNkQ0w0S2RDdEJGZnNZRW9EaVZERFkxYlUwVWRBaFdVd01obHNjRUdtUkY0Vm1HQlAtRmdFV0NtLVJTNGtDejUwdEYtTzM3YUVtNnFoTDlRb081R0R0c2p4RGlfVHgzOG5hWXMxS01NdWpEMmZFY05iTG1mQ1JWdXlrYVdUMTFlS1dNcTRoMGdqLS12b0tkdEVpX0RjN2xLdUZZWC1ITFVTTG9R?oc=5\" target=\"_blank\">AI-powered robotic canal cleaning system launched in Thiruvananthapuram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2dDR3hyWWpPRUVYZ1laZmxBNXNkQ0w0S2RDdEJGZnNZRW9EaVZERFkxYlUwVWRBaFdVd01obHNjRUdtUkY0Vm1HQlAtRmdFV0NtLVJTNGtDejUwdEYtTzM3YUVtNnFoTDlRb081R0R0c2p4RGlfVHgzOG5hWXMxS01NdWpEMmZFY05iTG1mQ1JWdXlrYVdUMTFlS1dNcTRoMGdqLS12b0tkdEVpX0RjN2xLdUZZWC1ITFVTTG9R?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Thu, 29 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala to invest Rs 1,905 crore in Sabari rail project – check route, station list",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDl4MDhzTktYaHZ6ang1RXpjakZnOXRHNkI0UXBQalRxNFd1d1NTNU1kVlJBZUdSd3ZSOV9saGdhNE80bVpEQm96YmpCNEtNU0xzekV4YmNXOTdKUXJZV0N2eTNHMTQzZlpMNWp0SWY5UnJrSFRYT2QzSW9wemZQUnRySk04QkNER2luS0VSYVpWMWtRcmRlb0dheXhBekphdUNuTXBKVHNzb04yYWdBcFd5RGZYWDBWMXdZNjJGR0JjWW1uUmFB0gHOAUFVX3lxTE9JeFl5RG9CcWhZNmdETThxUzFnYmdIOVNubE1oY01yM0F6RjE2OTcwUjNDVkRMOE0xaDFyQzFYdUFsLUhhZ2ppWmdmOEgzWkZ1SUlqNF9COURyMGtsaHRZTkZLUWFTMGtJNm1YWjRiSk42VDNKVGZfcWRWaWhacVZZT1JGTmhXWTZHa19BOG5abi1tY2Z1czFCOGo4dmI0NGhpVl9jTkcySV9JUExDVmQ0ckljUUFfd3RBNV9hd0c3MTRBNnB6ajQ4WFNRLWN3?oc=5\" target=\"_blank\">Kerala to invest Rs 1,905 crore in Sabari rail project – check route, station list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDl4MDhzTktYaHZ6ang1RXpjakZnOXRHNkI0UXBQalRxNFd1d1NTNU1kVlJBZUdSd3ZSOV9saGdhNE80bVpEQm96YmpCNEtNU0xzekV4YmNXOTdKUXJZV0N2eTNHMTQzZlpMNWp0SWY5UnJrSFRYT2QzSW9wemZQUnRySk04QkNER2luS0VSYVpWMWtRcmRlb0dheXhBekphdUNuTXBKVHNzb04yYWdBcFd5RGZYWDBWMXdZNjJGR0JjWW1uUmFB0gHOAUFVX3lxTE9JeFl5RG9CcWhZNmdETThxUzFnYmdIOVNubE1oY01yM0F6RjE2OTcwUjNDVkRMOE0xaDFyQzFYdUFsLUhhZ2ppWmdmOEgzWkZ1SUlqNF9COURyMGtsaHRZTkZLUWFTMGtJNm1YWjRiSk42VDNKVGZfcWRWaWhacVZZT1JGTmhXWTZHa19BOG5abi1tY2Z1czFCOGo4dmI0NGhpVl9jTkcySV9JUExDVmQ0ckljUUFfd3RBNV9hd0c3MTRBNnB6ajQ4WFNRLWN3?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala police to launch AI-powered accident prediction tool this year",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ3VkN2VPTk9HdWRpS3N0c0tjUUNScGRBdy1OdW9BUTVQT2dzcjNrRVBUNXdKa3ZyRHd1YVBDWEJWV25TR0E0VGJJWUdoYnNLdlQxTUZYN1ZDWTZrcTZ0Wm1HVEQwd2gtV0tiNHpPU2I4RkUyb2c0dlFEaF9NbGV3YUd2VF9XMzNoRUFoMHJmX2hkeUR6MmlZT0hydUNhWGhRODM2NmlZS253Z3g2N18wMk1NcUpXZDRFYnZUTEhGNFRYNDlTMWdn0gHUAUFVX3lxTE04UEM3ZXpHWkZCNmZmaXJnWENudnJGa2F1YV9WSkJsWWVHYzFpTFZWaVNkMkdkUUZVQUxvbGgtQTNnUmhEb0xja3VQclVURk50MEpTbWRORHdMSmpFc2FEVjdkMzVGQzhidzNDUnpCR0lfSU1wLUswWjM0R1laMzlfOWt1eTZ4cVN2SGlJaVpmUkhXaTFva3RmbFppSm5MNy0zT1laWHJsbGdYRTlmSjk4S2gxa2NpMGVhYjFOdnRXWDVmMF9XaEg4Z1c4MnBDT3ByeHhS?oc=5\" target=\"_blank\">Kerala police to launch AI-powered accident prediction tool this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ3VkN2VPTk9HdWRpS3N0c0tjUUNScGRBdy1OdW9BUTVQT2dzcjNrRVBUNXdKa3ZyRHd1YVBDWEJWV25TR0E0VGJJWUdoYnNLdlQxTUZYN1ZDWTZrcTZ0Wm1HVEQwd2gtV0tiNHpPU2I4RkUyb2c0dlFEaF9NbGV3YUd2VF9XMzNoRUFoMHJmX2hkeUR6MmlZT0hydUNhWGhRODM2NmlZS253Z3g2N18wMk1NcUpXZDRFYnZUTEhGNFRYNDlTMWdn0gHUAUFVX3lxTE04UEM3ZXpHWkZCNmZmaXJnWENudnJGa2F1YV9WSkJsWWVHYzFpTFZWaVNkMkdkUUZVQUxvbGgtQTNnUmhEb0xja3VQclVURk50MEpTbWRORHdMSmpFc2FEVjdkMzVGQzhidzNDUnpCR0lfSU1wLUswWjM0R1laMzlfOWt1eTZ4cVN2SGlJaVpmUkhXaTFva3RmbFppSm5MNy0zT1laWHJsbGdYRTlmSjk4S2gxa2NpMGVhYjFOdnRXWDVmMF9XaEg4Z1c4MnBDT3ByeHhS?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:14+00:00"
+  }
+ ]
+}

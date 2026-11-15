@@ -1,0 +1,120 @@
+{
+ "region": "Chhattisgarh",
+ "group": "B",
+ "query": "(Chhattisgarh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chhattisgarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:12+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Akashvani Continues to Play a Vital Role for Farmers and Rural Areas: CM Shri Vishnu Deo Sai",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iYXItVHRHQzFuYzVHTkpHLVNSRlpvc3RtaUFrX3RXcmVjcFlySTYxOEFQNE80THhqaEVGOEdfT1BTd2F0c29TQnBocVU0WXJ1M2E1cEhJV01hS1B1dTJTbWlBcTV1bVJf?oc=5\" target=\"_blank\">Akashvani Continues to Play a Vital Role for Farmers and Rural Areas: CM Shri Vishnu Deo Sai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iYXItVHRHQzFuYzVHTkpHLVNSRlpvc3RtaUFrX3RXcmVjcFlySTYxOEFQNE80THhqaEVGOEdfT1BTd2F0c29TQnBocVU0WXJ1M2E1cEhJV01hS1B1dTJTbWlBcTV1bVJf?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh emerges as a national benchmark in digital governance of education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd185UkY4ZzI0UV9XdVowcjRRMzF0OUR6SjdCUFJZQzM2cWJtRWJ4MzNqVF9fWjRleXVFb0NUSURyTGpUbjVFcnlxM1ZldFVHbVI3VkZESkpQY01nS1RjN0ktWnlUbGF5YVRiTDRpTXBQelA4ODFvMy0yZU9tc0d6THRpMFR4NnFRcjZ1NndwS0V6VV8zS3BBd1dUVzFiWXYzUVNqVGc0NWpHWUM1cm9qLVJ6MlpuRkZZWGpwcmdsUVZCdEJfVXFsRElkd1dnLWltN1VudFBXVF9RSGJjM3MzbXNn0gHvAUFVX3lxTE9GcHNwZ3ZRaWJjY1R1NU1vVXNWTVZpc1lTY2dSZGkxZ1BzN1lpaE1TNExHS0x2ZC1VNjZpS3FGSnA3N1dTVnFLbTdPYlYxQTZnMmhDanZvMmFmVDJHNFJhZmZmaUZ3bEVBM0ZiQTZraWp1c2ZNTnlEMGxPNFdJVTJtQWNUT1RYZjY1YjZ0M1Vsc09uVHpWUlNQQnZVT0hCNFlJZTRuMk41SlJUMjlvR19vd3psZUlmWkJYSUUwS29UUkxHQ3Z2SDJHWDQyazRVMjBfbTNid0UyTlhqVnowaGRUa3hLVG00ODhlbkczMFg4?oc=5\" target=\"_blank\">Chhattisgarh emerges as a national benchmark in digital governance of education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd185UkY4ZzI0UV9XdVowcjRRMzF0OUR6SjdCUFJZQzM2cWJtRWJ4MzNqVF9fWjRleXVFb0NUSURyTGpUbjVFcnlxM1ZldFVHbVI3VkZESkpQY01nS1RjN0ktWnlUbGF5YVRiTDRpTXBQelA4ODFvMy0yZU9tc0d6THRpMFR4NnFRcjZ1NndwS0V6VV8zS3BBd1dUVzFiWXYzUVNqVGc0NWpHWUM1cm9qLVJ6MlpuRkZZWGpwcmdsUVZCdEJfVXFsRElkd1dnLWltN1VudFBXVF9RSGJjM3MzbXNn0gHvAUFVX3lxTE9GcHNwZ3ZRaWJjY1R1NU1vVXNWTVZpc1lTY2dSZGkxZ1BzN1lpaE1TNExHS0x2ZC1VNjZpS3FGSnA3N1dTVnFLbTdPYlYxQTZnMmhDanZvMmFmVDJHNFJhZmZmaUZ3bEVBM0ZiQTZraWp1c2ZNTnlEMGxPNFdJVTJtQWNUT1RYZjY1YjZ0M1Vsc09uVHpWUlNQQnZVT0hCNFlJZTRuMk41SlJUMjlvR19vd3psZUlmWkJYSUUwS29UUkxHQ3Z2SDJHWDQyazRVMjBfbTNid0UyTlhqVnowaGRUa3hLVG00ODhlbkczMFg4?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sun, 18 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh converts Rs 83 lakh cr investment pledges into swift on-ground action, creating 1.5 lakh jobs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSmFKTlhQWE1sVEhfSC1VR1c2UHZLYnJQNTI5d1c0U21lWHZsUEpZWFhvTkR1RXduY1JqRzJGb0hFWlVISmlJc1lfWTdJNi1ZUFhnSlIwd3NnU3dORG1VVUl3bTYwTFNFRER3cFBuU0h0Vk4xcVkyRWVYWTZLWEtvX2VUbDZ1SlQ1eWVfLUR6bnpIYWxMTFZoOEgzdVNnNU9WYmdlSlBaQWZBUllUZzJRQWZQVnRuOXVreENGUFIyNE1DYWdyVjI3VUtkSG5oSGtGWWNnR0xUUmRDazVIdU55YktGd1BwNGVIUnBqN01RNGt0dmR6eGs4ZnJ3OTM?oc=5\" target=\"_blank\">Chhattisgarh converts Rs 83 lakh cr investment pledges into swift on-ground action, creating 1.5 lakh jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSmFKTlhQWE1sVEhfSC1VR1c2UHZLYnJQNTI5d1c0U21lWHZsUEpZWFhvTkR1RXduY1JqRzJGb0hFWlVISmlJc1lfWTdJNi1ZUFhnSlIwd3NnU3dORG1VVUl3bTYwTFNFRER3cFBuU0h0Vk4xcVkyRWVYWTZLWEtvX2VUbDZ1SlQ1eWVfLUR6bnpIYWxMTFZoOEgzdVNnNU9WYmdlSlBaQWZBUllUZzJRQWZQVnRuOXVreENGUFIyNE1DYWdyVjI3VUtkSG5oSGtGWWNnR0xUUmRDazVIdU55YktGd1BwNGVIUnBqN01RNGt0dmR6eGs4ZnJ3OTM?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh cabinet approves amendments to Industrial Development Policy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2oycndDZ05PX0x3WVRudl95Y01SYVoyYXpQbXMyY25WVWFDZG9aOTdBWmVib3BVX0JLMUlqMklWdDhFa05fTG8xMUJ3Ynh2eUNSN1ZINEY2amh0bGxhMGVNLTQ0MXpxaGRXN3dQV1ltSGYxR3JSNFhkTkVOZ3dpRWxpdTFyRkw3N2JXc2tablVCOTUyNU45SC1IajV6cjllMGo5aFBoQXJvRV91eE9nR1J6dldYNVNrUDJ0ZXAyMUZxX2JYNWlwY05mUDhlekVCQnFJeUlGUEU1bkhNZEltb1pKcmpObXp1Y290eFh0bU1rZmI2cHIwbtIB_AFBVV95cUxPc3NuVkdfTXRPY09BV1ZZbW9aQnhjR2g0aFJsRkNmMk9HRXA2b3RDLTlCX2VBWkZVS2dqOXZDZ2loNjgza010dmFGN3E5MDVlX1A1WjdoVTItUUZXenVWVVh4NW5kYk5pWXBOQi1HeFNEd0d4OHRybG5DLUVNQ3QtLUs0VW1RVGZjSkRPZkRJdG5XRnFPdnJsdFp4RGxCZWw0T3I2WVJTbDhETUlzZklnaGZoVlgxdzVUNmlNRDByNnJQcm55aHUyZDBPWk9GVEFJelptOVFxblZ3amFSMFloOHF0TnFmc29aX3RmMEpKdUtmdzU0c0w5TFRkUzA?oc=5\" target=\"_blank\">Chhattisgarh cabinet approves amendments to Industrial Development Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETLegalWorld.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2oycndDZ05PX0x3WVRudl95Y01SYVoyYXpQbXMyY25WVWFDZG9aOTdBWmVib3BVX0JLMUlqMklWdDhFa05fTG8xMUJ3Ynh2eUNSN1ZINEY2amh0bGxhMGVNLTQ0MXpxaGRXN3dQV1ltSGYxR3JSNFhkTkVOZ3dpRWxpdTFyRkw3N2JXc2tablVCOTUyNU45SC1IajV6cjllMGo5aFBoQXJvRV91eE9nR1J6dldYNVNrUDJ0ZXAyMUZxX2JYNWlwY05mUDhlekVCQnFJeUlGUEU1bkhNZEltb1pKcmpObXp1Y290eFh0bU1rZmI2cHIwbtIB_AFBVV95cUxPc3NuVkdfTXRPY09BV1ZZbW9aQnhjR2g0aFJsRkNmMk9HRXA2b3RDLTlCX2VBWkZVS2dqOXZDZ2loNjgza010dmFGN3E5MDVlX1A1WjdoVTItUUZXenVWVVh4NW5kYk5pWXBOQi1HeFNEd0d4OHRybG5DLUVNQ3QtLUs0VW1RVGZjSkRPZkRJdG5XRnFPdnJsdFp4RGxCZWw0T3I2WVJTbDhETUlzZklnaGZoVlgxdzVUNmlNRDByNnJQcm55aHUyZDBPWk9GVEFJelptOVFxblZ3amFSMFloOHF0TnFmc29aX3RmMEpKdUtmdzU0c0w5TFRkUzA?oc=5",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "legal.economictimes.indiatimes.com",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh govt allots land to company for semiconductor material plant",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOXzZhV0trdzVvVmExYV9uMlliV2JNTTZZMEZaa291dnViYm16Y29UbkNLLTNVUGpPTXl4TV9CTE9wNlBFRVlvQXdDbjJxOTRwMjdGNTRCS2lLaDhETkI0TGk0cHl1WU45LW1uTzQtdkxqQ1VmTGQ5Q1VYNGQ0andWakFoQ3Zqdm1ianVNQlE2VEI4bFZJUk12a2JUMG5FZkFwZ254T1FndTBDeTBzaV9fd3FmajdPTmhxRmpBUzdoWEw0eExpWlRFdjJscThQYVJmcmVZQzFROS3SAd4BQVVfeXFMTVpDNGFGckdQREE3T3Q3bmUxdll0bnhEQ09mbjJROWJ2OGwxVEFSWlFNRDljS3JRQlc2VC03MHE2bnVLTFFOald4LS11bkNHbVMzN0UtZGdqYlBYUXk4TEhLWW5kVDE0QTUtbHNSVF9IdU93cTBWZEZGeENZRFZJNjFUZEFaeFdpMFp0Q1JJUHc0S2txdVhzSGdpOTVua0FhTFJsQTlWQjBEVUh4anplLVpuU1JLUUFyazR6Z2xSZS03Z1c4TWJ6aEtQWDZWaHVXX0hlZWlaajN4VjAxUDFR?oc=5\" target=\"_blank\">Chhattisgarh govt allots land to company for semiconductor material plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOXzZhV0trdzVvVmExYV9uMlliV2JNTTZZMEZaa291dnViYm16Y29UbkNLLTNVUGpPTXl4TV9CTE9wNlBFRVlvQXdDbjJxOTRwMjdGNTRCS2lLaDhETkI0TGk0cHl1WU45LW1uTzQtdkxqQ1VmTGQ5Q1VYNGQ0andWakFoQ3Zqdm1ianVNQlE2VEI4bFZJUk12a2JUMG5FZkFwZ254T1FndTBDeTBzaV9fd3FmajdPTmhxRmpBUzdoWEw0eExpWlRFdjJscThQYVJmcmVZQzFROS3SAd4BQVVfeXFMTVpDNGFGckdQREE3T3Q3bmUxdll0bnhEQ09mbjJROWJ2OGwxVEFSWlFNRDljS3JRQlc2VC03MHE2bnVLTFFOald4LS11bkNHbVMzN0UtZGdqYlBYUXk4TEhLWW5kVDE0QTUtbHNSVF9IdU93cTBWZEZGeENZRFZJNjFUZEFaeFdpMFp0Q1JJUHc0S2txdVhzSGdpOTVua0FhTFJsQTlWQjBEVUh4anplLVpuU1JLUUFyazR6Z2xSZS03Z1c4TWJ6aEtQWDZWaHVXX0hlZWlaajN4VjAxUDFR?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Mon, 24 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "SC Bail: Former Chhattisgarh minister Kawasi Lakhma to Stay in Odisha’s Malkangiri",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQemJtRWR3Rl9mWW16Q3RoODI0UXhvV180R3hMbFNpWExPcDAzZnZLdVQ5QUZEX1ZtOF9ac3ludk40cTRvbThxNWpNM1htVXBzVU9BcldqbW00U29namF3WTE3VkxybHBpbmZ1OWdka0pnUzlwYi1tUlhGdzJubnZfSkswWHMwQ0FNMDEyUG5YTzdsSDhSaDJKaTM3eXFkRWNUaVFsUV92eng5TE55djZoU0tuenBpOHZRZ3RYNHRmNXh0SGVQVFHSAcsBQVVfeXFMT0dOMmtocEtsdWZHQU1qN2tTN0tVbXZfUmQ4LWhfY3R0U2VtSWhwcnRTUlExRU50dTJadnUtMEdEZ1JWQXlKMk5vUXg4V2ZJUVk3RnRaMFp0ZVpQTDJLWkpjcHRfN2VOd0xKV1JQYUgyQ25vSVphVGszQ19OUXJ5dlFQdXgwN1BUWUxqeS1iWlY5Z1diUjFpMGxuNGVURDdYdmtfVmV2bGIwSEhZTEllWWQ2Wm01VVVRWXlkcTI0S3NaQ2hFU2pzcUJaQ00?oc=5\" target=\"_blank\">SC Bail: Former Chhattisgarh minister Kawasi Lakhma to Stay in Odisha’s Malkangiri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemJtRWR3Rl9mWW16Q3RoODI0UXhvV180R3hMbFNpWExPcDAzZnZLdVQ5QUZEX1ZtOF9ac3ludk40cTRvbThxNWpNM1htVXBzVU9BcldqbW00U29namF3WTE3VkxybHBpbmZ1OWdka0pnUzlwYi1tUlhGdzJubnZfSkswWHMwQ0FNMDEyUG5YTzdsSDhSaDJKaTM3eXFkRWNUaVFsUV92eng5TE55djZoU0tuenBpOHZRZ3RYNHRmNXh0SGVQVFHSAcsBQVVfeXFMT0dOMmtocEtsdWZHQU1qN2tTN0tVbXZfUmQ4LWhfY3R0U2VtSWhwcnRTUlExRU50dTJadnUtMEdEZ1JWQXlKMk5vUXg4V2ZJUVk3RnRaMFp0ZVpQTDJLWkpjcHRfN2VOd0xKV1JQYUgyQ25vSVphVGszQ19OUXJ5dlFQdXgwN1BUWUxqeS1iWlY5Z1diUjFpMGxuNGVURDdYdmtfVmV2bGIwSEhZTEllWWQ2Wm01VVVRWXlkcTI0S3NaQ2hFU2pzcUJaQ00?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Sun, 08 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Mahatari Vandan Yojana: Chhattisgarh Govt Disburses 22nd Instalment to 6.77 Million Women Beneficiaries",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDNTcm1jaXgwbEhPMFJ1MjhxUy03QWluYk5ESHd2U24wU0JWczdCUG5pb2V3R3B0QXMwQ0ZXeEN2VlEtMkFhWF9tRG9lQS1VUklzVE44ZzlBV1ZwbDUwUTlBb2xRUDZlbEUzUVFPNEFzLWplS0o0Sm5uVjVPcDh1QU1nRGlWaGRIWFViak42em1QWm9HczF2bzlLQ2FvLWdFeml1OGRnaURoTUNUVWcxUGdUZ3hnZlMyY1VPc3RUelBqNWRxQ2hSQVJIU0x6M3RK0gHeAUFVX3lxTFBEMmlOaUdWemFzRkFfUGlUSHV1YVlVOGVFdGFTOUs3a082SkpaTzU0MHNBOUs0UDVoQ2NkUUlRazYwWXN0ZXc5TWprWkhfQmtrOFppOUdnSER1aVYwSTB0b2M2R1UyQllnRmhFb0pwbTNUZmh0WFZaR1FfRzFWck01Y1NBR25FTmFLSVpmUkpybXR2S19KYUxMeEtVZUVWODlxNHdTM1kzN2s0Z19OSUxHVGhPUWtjUHBfejlQcEN2UEdRNGdSUU1wQkF1N0lTd1pzcDZHOFRCN3ZBOENzdw?oc=5\" target=\"_blank\">Mahatari Vandan Yojana: Chhattisgarh Govt Disburses 22nd Instalment to 6.77 Million Women Beneficiaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Money</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDNTcm1jaXgwbEhPMFJ1MjhxUy03QWluYk5ESHd2U24wU0JWczdCUG5pb2V3R3B0QXMwQ0ZXeEN2VlEtMkFhWF9tRG9lQS1VUklzVE44ZzlBV1ZwbDUwUTlBb2xRUDZlbEUzUVFPNEFzLWplS0o0Sm5uVjVPcDh1QU1nRGlWaGRIWFViak42em1QWm9HczF2bzlLQ2FvLWdFeml1OGRnaURoTUNUVWcxUGdUZ3hnZlMyY1VPc3RUelBqNWRxQ2hSQVJIU0x6M3RK0gHeAUFVX3lxTFBEMmlOaUdWemFzRkFfUGlUSHV1YVlVOGVFdGFTOUs3a082SkpaTzU0MHNBOUs0UDVoQ2NkUUlRazYwWXN0ZXc5TWprWkhfQmtrOFppOUdnSER1aVYwSTB0b2M2R1UyQllnRmhFb0pwbTNUZmh0WFZaR1FfRzFWck01Y1NBR25FTmFLSVpmUkpybXR2S19KYUxMeEtVZUVWODlxNHdTM1kzN2s0Z19OSUxHVGhPUWtjUHBfejlQcEN2UEdRNGdSUU1wQkF1N0lTd1pzcDZHOFRCN3ZBOENzdw?oc=5",
+   "source_name": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "published_raw": "Thu, 04 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh CM meets Railway Minister Vaishnaw; discusses strengthening rail connectivity",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVlc1ZEZueGt6Zm45UExCSlFBa3BhZmpmLXNXRTJ6TnIwSldtVW5FTjlNYjUya3Viallyd2M3MGJ6Mk1RZDFzeGV0VTdKanBTdWt6WlVScldjeDJ1a0F0WFYyQ3Y4THlFVGNvTzFUd1JnbnlEWmRfbE5pUGlrelhMdnZVSm14X3ZCd3hNOGR1Z0NHUnNQckFaZGtsMlNUZkI3T0RVQ1pYeWVqR1pJVHVRMWRqSDd1Zk5rcEFsaWFxWTd4ZXhzU0ZLdzVjX0tJY1BMUXg2NzJyOElJQ1g2QWFlNVdrTnh0VUE2?oc=5\" target=\"_blank\">Chhattisgarh CM meets Railway Minister Vaishnaw; discusses strengthening rail connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVlc1ZEZueGt6Zm45UExCSlFBa3BhZmpmLXNXRTJ6TnIwSldtVW5FTjlNYjUya3Viallyd2M3MGJ6Mk1RZDFzeGV0VTdKanBTdWt6WlVScldjeDJ1a0F0WFYyQ3Y4THlFVGNvTzFUd1JnbnlEWmRfbE5pUGlrelhMdnZVSm14X3ZCd3hNOGR1Z0NHUnNQckFaZGtsMlNUZkI3T0RVQ1pYeWVqR1pJVHVRMWRqSDd1Zk5rcEFsaWFxWTd4ZXhzU0ZLdzVjX0tJY1BMUXg2NzJyOElJQ1g2QWFlNVdrTnh0VUE2?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Centre fast-tracks new railway line projects in Chhattisgarh's Ambikapur region",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM29hcF9YRFVsMFUzRnNfOWY1dFZLUmFBdUlCelJoby1jQlU3b01oY3JaLTI0Ulg3c0pKM1RmTHBlUXFydWxHZnpRdWVsZDN2QmpSX0h1QUlZR3I4ZEhDYkdUVkpPaEMyTE9SNmxUUFZTal9CQ05jNXBSemxmQzl1b2dJREl1RHRTZVYzMEhjQVB6SDFwQWJHX2FHY2hpUU40bnRZemNJb1QtRFlINnpaUF9JckpfSnRZeG9kQkNTOWlId0ppcG1yZFRpNmJ2eVlpdWVCQ0I4bm5kZFdlc1HSAeIBQVVfeXFMT2JCRllRcFdSVWRWWW54TTc2bEJ4MkZNaGJiNnoyZ3k2eXlldzFXbjFMRFIwVmNWTDRucHh6dmZ6T1V6eXpQd21tMDJ2V1BZY1VwOEJvb0RsaF90VEtndDlncEVLbnhHYzU4ZmoxZlByMDZtNWhqVlhXY3Z1dHljbldMZDdrV0VFd2pzdVpVdmlfUXpYbWg1WldVQ2d2Y2c0cy1IMEdUd1NvUl9WdDZqUUN2emVEcVkyLU5GZzZzb0xPZWp6M2xqZ2tQUGo2VXBBSmwzb1p4SDFIMVFXeTluaFYwQQ?oc=5\" target=\"_blank\">Centre fast-tracks new railway line projects in Chhattisgarh's Ambikapur region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM29hcF9YRFVsMFUzRnNfOWY1dFZLUmFBdUlCelJoby1jQlU3b01oY3JaLTI0Ulg3c0pKM1RmTHBlUXFydWxHZnpRdWVsZDN2QmpSX0h1QUlZR3I4ZEhDYkdUVkpPaEMyTE9SNmxUUFZTal9CQ05jNXBSemxmQzl1b2dJREl1RHRTZVYzMEhjQVB6SDFwQWJHX2FHY2hpUU40bnRZemNJb1QtRFlINnpaUF9JckpfSnRZeG9kQkNTOWlId0ppcG1yZFRpNmJ2eVlpdWVCQ0I4bm5kZFdlc1HSAeIBQVVfeXFMT2JCRllRcFdSVWRWWW54TTc2bEJ4MkZNaGJiNnoyZ3k2eXlldzFXbjFMRFIwVmNWTDRucHh6dmZ6T1V6eXpQd21tMDJ2V1BZY1VwOEJvb0RsaF90VEtndDlncEVLbnhHYzU4ZmoxZlByMDZtNWhqVlhXY3Z1dHljbldMZDdrV0VFd2pzdVpVdmlfUXpYbWg1WldVQ2d2Y2c0cy1IMEdUd1NvUl9WdDZqUUN2emVEcVkyLU5GZzZzb0xPZWp6M2xqZ2tQUGo2VXBBSmwzb1p4SDFIMVFXeTluaFYwQQ?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 05 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh 'Anjor Vision 2047' a roadmap for developed state: CM Sai",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzY0d3BuU2ctaUhMRVgtOXVENjdVQ2FKdFo3MzIwbF9HX0w1V2lqNkJKNWpVNmhPbFB5c2s0TXRxXzJEUTlmSlg0T3I3RVhqUmJEYUN5WEU2bWNKTVFLUjVzN0hWWXA5MVZGT2FGalhCQVpaY3NtR05WclhQQkxNaTFxYUY0ZVNOWWVqUUpqdkxPOWJBS1FFLTZ6VXVVWmUydmw3ZmpHZE41SnU1YWJPUVZIbktfS3o3QU5FcTJ2UzZVaHd6cnA4RVgwdW8wQXJPSmUtaWpGUXYtNDltVElJ0gHjAUFVX3lxTE1JaXY5aGlObTZpQ3RPcXVkMWQ1QkRlWlc4TjNnMWpxSkEtRTNsc1ZqRXc0ZGZqMjJaaFVVOUVWTmRhbHFROWtWQ2JfblI1dGF1Qm9OSVJnQmFuWVRHaGxiQi01SmtsUl9TLWZkSEtkaVd1c1RvbUMwVFNYb2NKZmNuUVROS2FkT2RwQUlnejcxNTRMelExeXJnZjVoVnB3SmdjRHUzUzFFNkhKSEhkX3pYamxiRzF0TGJGMlh5anIxNmdwQm96LUdLN3JaWTBOSUk1SUd2bXNRRXJXTGZ2ZXRud3VN?oc=5\" target=\"_blank\">Chhattisgarh 'Anjor Vision 2047' a roadmap for developed state: CM Sai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzY0d3BuU2ctaUhMRVgtOXVENjdVQ2FKdFo3MzIwbF9HX0w1V2lqNkJKNWpVNmhPbFB5c2s0TXRxXzJEUTlmSlg0T3I3RVhqUmJEYUN5WEU2bWNKTVFLUjVzN0hWWXA5MVZGT2FGalhCQVpaY3NtR05WclhQQkxNaTFxYUY0ZVNOWWVqUUpqdkxPOWJBS1FFLTZ6VXVVWmUydmw3ZmpHZE41SnU1YWJPUVZIbktfS3o3QU5FcTJ2UzZVaHd6cnA4RVgwdW8wQXJPSmUtaWpGUXYtNDltVElJ0gHjAUFVX3lxTE1JaXY5aGlObTZpQ3RPcXVkMWQ1QkRlWlc4TjNnMWpxSkEtRTNsc1ZqRXc0ZGZqMjJaaFVVOUVWTmRhbHFROWtWQ2JfblI1dGF1Qm9OSVJnQmFuWVRHaGxiQi01SmtsUl9TLWZkSEtkaVd1c1RvbUMwVFNYb2NKZmNuUVROS2FkT2RwQUlnejcxNTRMelExeXJnZjVoVnB3SmdjRHUzUzFFNkhKSEhkX3pYamxiRzF0TGJGMlh5anIxNmdwQm96LUdLN3JaWTBOSUk1SUd2bXNRRXJXTGZ2ZXRud3VN?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Mon, 15 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:12+00:00"
+  }
+ ]
+}

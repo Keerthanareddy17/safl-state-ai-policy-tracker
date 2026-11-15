@@ -1,0 +1,120 @@
+{
+ "region": "Arunachal Pradesh",
+ "group": "B",
+ "query": "(\"Arunachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Arunachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:17+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pushes AI Education for Youth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQl9pMlNzYUhuUmdnQ3hON3FOOHJpd2hQVUE4X05nTXRISm1iOUJ4WHZrM2NXZjRVNEticXM3UHdFQngtV2YzZldndEJCSjBuN0JPcHh3dXZQVEhqa3NudWQya09jQWhRSW11UFpQSi0?oc=5\" target=\"_blank\">Arunachal Pushes AI Education for Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arunachal24</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQl9pMlNzYUhuUmdnQ3hON3FOOHJpd2hQVUE4X05nTXRISm1iOUJ4WHZrM2NXZjRVNEticXM3UHdFQngtV2YzZldndEJCSjBuN0JPcHh3dXZQVEhqa3NudWQya09jQWhRSW11UFpQSi0?oc=5",
+   "source_name": "Arunachal24",
+   "source_domain": "arunachal24.in",
+   "published_raw": "Mon, 12 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "AI courses for students, graduates launched at GHSS Kamba",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXpMeFNVYm9FUzVHR1FzQVVURnhVbDlRd0xfWmRhcmh1d1NhNGU4NERkNGdZQ3pUVS1QVy00MlNqcWQtcTdfbzdYVEZ5YkQtemxrc3dya1VXcGNEc0s2WHNaNTZLa0pFTjJHbU5ReF96bTNYUVhyOXNFX1Y1MGpZeFhnbWRwSVVxbnVVX2s1WHZXd2Zm?oc=5\" target=\"_blank\">AI courses for students, graduates launched at GHSS Kamba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXpMeFNVYm9FUzVHR1FzQVVURnhVbDlRd0xfWmRhcmh1d1NhNGU4NERkNGdZQ3pUVS1QVy00MlNqcWQtcTdfbzdYVEZ5YkQtemxrc3dya1VXcGNEc0s2WHNaNTZLa0pFTjJHbU5ReF96bTNYUVhyOXNFX1Y1MGpZeFhnbWRwSVVxbnVVX2s1WHZXd2Zm?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "VB-G Ram G Act will reshape rural employment, livelihood security in Arunachal Pradesh: CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPWDQwMXlEZGVoMjRNeUxBc1J2QmZzQ3JyQUI0Y0cxM0ZHZHdwUDluWDBQeEtKc2N3QUdxM01OYXdUSHNtY0RYY19icHdzVXBicHpRTkhZWll1OHl5LXlObWlCRUtIODI4Z1hfQ1pPZ1A3V0s1aDFtSXNqZ0xhcTd2VmxZMGtRSWpQMG0zQUNkVlFsRHItWExveGtKb2c1RlFZbEZhSEhiZ2NNNnR2NUQ5WkFWN1FCai0yX1lZSnBXbVZBSks2MGxnY0lnQUxiTEU?oc=5\" target=\"_blank\">VB-G Ram G Act will reshape rural employment, livelihood security in Arunachal Pradesh: CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eastern Sentinel</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWDQwMXlEZGVoMjRNeUxBc1J2QmZzQ3JyQUI0Y0cxM0ZHZHdwUDluWDBQeEtKc2N3QUdxM01OYXdUSHNtY0RYY19icHdzVXBicHpRTkhZWll1OHl5LXlObWlCRUtIODI4Z1hfQ1pPZ1A3V0s1aDFtSXNqZ0xhcTd2VmxZMGtRSWpQMG0zQUNkVlFsRHItWExveGtKb2c1RlFZbEZhSEhiZ2NNNnR2NUQ5WkFWN1FCai0yX1lZSnBXbVZBSks2MGxnY0lnQUxiTEU?oc=5",
+   "source_name": "Eastern Sentinel",
+   "source_domain": "easternsentinel.in",
+   "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "OnePlus and Oppo AI refuses to answer ‘Is Arunachal Pradesh a part of India?’; company responds",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdBTjZyVVZBWVRvY2NwRkQzNEtVMjZjTlZwWk1DRmc5eDV0dWhfSVl3SGRmaTB5TkxNUEkzTHlwcVl2Mzk0Zkg2S21NQktWdDNpamtLZFFtelJxZEJOazlOcUZBUGZaaUhfS1ZOQ1ZVSjBwNjFVTTN4WVBoM0JlWGJvWjRLWU5TVjRBTk5NTXp0WXNldXNGZWxTUUduMmlqVnZDdFE0WlFELUZ3VWxaNkJrcHZfWHdfSUo4emJONUtZY0FRRkRjelZXR0hZY2h5cXJEaER1T3hsUy1BMHVIM1NKdDVBMjlrbFczanJR0gHzAUFVX3lxTE9KOVlsVkpxZUkyWkdqZHlsTDhMUi1VZnZ0MF9HN3duZG9XdGd2Ti1DR0pERGVVY3ZNR2J1ck5PcWRWeDFRNzN5eGUtZDJacXUwc25VSHFfZlJuQWlkWi1jZERfb2RCLVc0U21Jd2hxRm1Dbm9LdS1ORTFBYXB1T0ktakhodE9mVVhld19rR280ZjZnU2FFTDlWLTRGcWZKem5ZY2JVSmtWQy1KcW9oOGw4U1NNUFZlN01ZNXdhNjB4MmlpOUgtZ3U1RXV1SVNRWTVubjRjN2poeklHZUxLQS03REVwWmxZTFAxZjFVZ1FPTURqMA?oc=5\" target=\"_blank\">OnePlus and Oppo AI refuses to answer ‘Is Arunachal Pradesh a part of India?’; company responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdBTjZyVVZBWVRvY2NwRkQzNEtVMjZjTlZwWk1DRmc5eDV0dWhfSVl3SGRmaTB5TkxNUEkzTHlwcVl2Mzk0Zkg2S21NQktWdDNpamtLZFFtelJxZEJOazlOcUZBUGZaaUhfS1ZOQ1ZVSjBwNjFVTTN4WVBoM0JlWGJvWjRLWU5TVjRBTk5NTXp0WXNldXNGZWxTUUduMmlqVnZDdFE0WlFELUZ3VWxaNkJrcHZfWHdfSUo4emJONUtZY0FRRkRjelZXR0hZY2h5cXJEaER1T3hsUy1BMHVIM1NKdDVBMjlrbFczanJR0gHzAUFVX3lxTE9KOVlsVkpxZUkyWkdqZHlsTDhMUi1VZnZ0MF9HN3duZG9XdGd2Ti1DR0pERGVVY3ZNR2J1ck5PcWRWeDFRNzN5eGUtZDJacXUwc25VSHFfZlJuQWlkWi1jZERfb2RCLVc0U21Jd2hxRm1Dbm9LdS1ORTFBYXB1T0ktakhodE9mVVhld19rR280ZjZnU2FFTDlWLTRGcWZKem5ZY2JVSmtWQy1KcW9oOGw4U1NNUFZlN01ZNXdhNjB4MmlpOUgtZ3U1RXV1SVNRWTVubjRjN2poeklHZUxLQS03REVwWmxZTFAxZjFVZ1FPTURqMA?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Mon, 08 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal govt to buy 40 mobile medical units under Vibrant Villages Programme",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHJMeVZPdDRYMVNyMk1qUzZQZ2ExNVozbUxzZ3FWM1hIYlJUc2p3MXZPVkxWR2JCMU01QXpiLUdkUUlDbnVMUXpuV2dDUERyd2VhaWNNNzB1Rmo0SkdaR1MyaTVwaGlvWDgtZG9QSWFkZ1ZIZFhkbVhoWk9EMW9uZGpJX0JINnBtaDQ0Q0M5bUFia2NRQ0JmS0pMdUc0c3JiQ2FUVTVzdDNZeEJWWTU3T2cwMUlVWUhuSkxjOGYxd2ZSMk9uQ0g4ZHBIWHZodFh0MWY4OERzNFVrQQ?oc=5\" target=\"_blank\">Arunachal govt to buy 40 mobile medical units under Vibrant Villages Programme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHJMeVZPdDRYMVNyMk1qUzZQZ2ExNVozbUxzZ3FWM1hIYlJUc2p3MXZPVkxWR2JCMU01QXpiLUdkUUlDbnVMUXpuV2dDUERyd2VhaWNNNzB1Rmo0SkdaR1MyaTVwaGlvWDgtZG9QSWFkZ1ZIZFhkbVhoWk9EMW9uZGpJX0JINnBtaDQ0Q0M5bUFia2NRQ0JmS0pMdUc0c3JiQ2FUVTVzdDNZeEJWWTU3T2cwMUlVWUhuSkxjOGYxd2ZSMk9uQ0g4ZHBIWHZodFh0MWY4OERzNFVrQQ?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "This viral video of CDS Anil Chauhan allegedly stating that the Indian government surrendered Arunachal Pradesh, Ladakh to China is fake",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeWRXQUpNTjd5Y3pvczZzMDFmd0JNLTFKNkwtN0JYU0w1b2JnaGZxZHo5SExONW1lcVQyNUlQN3B4Z3V5elNPOWxRSlRTb1hqYTljdmlmaHpLMzFNNGxCNVJuSXgtTWdITkJLV2pieXp3MDdIV2VPM3lYWXYxaHMxb1M0bUtXY2R4Y0hyaVZPaVpfU1ZGdk9ZckM0VWhGMHhmclJQZ1Y2eGRBUjRlQmNfLVk0am11NnNhNGlEWmpmdm1aMG5MLVYxRmlScnA1MmpRVXZpNUtCalowMGU0dGNIbFdVOTNhMzczMUE?oc=5\" target=\"_blank\">This viral video of CDS Anil Chauhan allegedly stating that the Indian government surrendered Arunachal Pradesh, Ladakh to China is fake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FACTLY</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeWRXQUpNTjd5Y3pvczZzMDFmd0JNLTFKNkwtN0JYU0w1b2JnaGZxZHo5SExONW1lcVQyNUlQN3B4Z3V5elNPOWxRSlRTb1hqYTljdmlmaHpLMzFNNGxCNVJuSXgtTWdITkJLV2pieXp3MDdIV2VPM3lYWXYxaHMxb1M0bUtXY2R4Y0hyaVZPaVpfU1ZGdk9ZckM0VWhGMHhmclJQZ1Y2eGRBUjRlQmNfLVk0am11NnNhNGlEWmpmdm1aMG5MLVYxRmlScnA1MmpRVXZpNUtCalowMGU0dGNIbFdVOTNhMzczMUE?oc=5",
+   "source_name": "FACTLY",
+   "source_domain": "factly.in",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Patel Engineering Partners with Arunachal Pradesh Government to Revive 144 MW Gongri Hydropower Project",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXRaLTI5ZGRHLTR3WHlWTFRUVGc1UjRsTjJHMmJiSXNsZjlwZkJ6YWZXVmZrQ0JUM1RYQlliZEZMRWZMVFBsU0lyRDR4dDBYb29RQ1dXRHpJc2xfckxpM0RqNm5XNFlHVUgwcmNsZzB1bG5aUDh0NTRmUzk0M0pWVHF4dE5fbkg4cnNLaHpZeW1xVTBYWVY3VmItN0xNS19pNWlBYk1KTGRXUVMtdHlSUGM5aDloWU82Y3pYOGoxblNfdUc4NG9SYmFheWV5MXRjemZv?oc=5\" target=\"_blank\">Patel Engineering Partners with Arunachal Pradesh Government to Revive 144 MW Gongri Hydropower Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Machine Maker</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXRaLTI5ZGRHLTR3WHlWTFRUVGc1UjRsTjJHMmJiSXNsZjlwZkJ6YWZXVmZrQ0JUM1RYQlliZEZMRWZMVFBsU0lyRDR4dDBYb29RQ1dXRHpJc2xfckxpM0RqNm5XNFlHVUgwcmNsZzB1bG5aUDh0NTRmUzk0M0pWVHF4dE5fbkg4cnNLaHpZeW1xVTBYWVY3VmItN0xNS19pNWlBYk1KTGRXUVMtdHlSUGM5aDloWU82Y3pYOGoxblNfdUc4NG9SYmFheWV5MXRjemZv?oc=5",
+   "source_name": "Machine Maker",
+   "source_domain": "themachinemaker.com",
+   "published_raw": "Fri, 19 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "India and China in deep water over Himalayan hydropower",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlZDd2o5TTREY0xXVWRJN0cwRDRRWS1uQ3R0ZWR0UFR5bWFLWHUtYW5kcjFJQXVEaGJzdHM3LTZuX01vczhIX2lEbTJRUUpZd2xLSE9ZOVlRQ0dnaGtmSGU2WVZnV3VEUFRYTWpubDJONi1pRXhKUnNSWnpaRzJOOFdMV1hHWWRxdklyQ1RVcHFQbDVJRUw1OA?oc=5\" target=\"_blank\">India and China in deep water over Himalayan hydropower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Asia Forum</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlZDd2o5TTREY0xXVWRJN0cwRDRRWS1uQ3R0ZWR0UFR5bWFLWHUtYW5kcjFJQXVEaGJzdHM3LTZuX01vczhIX2lEbTJRUUpZd2xLSE9ZOVlRQ0dnaGtmSGU2WVZnV3VEUFRYTWpubDJONi1pRXhKUnNSWnpaRzJOOFdMV1hHWWRxdklyQ1RVcHFQbDVJRUw1OA?oc=5",
+   "source_name": "East Asia Forum",
+   "source_domain": "eastasiaforum.org",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Mahindra launches All-New XUV 7XO in Arunachal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3JzbDlNVXV3N3NjdEI5ejJtUWZtSlJnVGh0ZFBkR2hyV1dHTFlkVEZyU0Ffc1JSb3c3ejFrTkY5eG02bFNkbjY4bF9VcHdEQ1ptSVBrVmkzU3p6VFFGeUNtN3BoeE82XzExZk9TcE5LcTFaWWctNVo4UWRMYVZsSlhNTDZtTk0?oc=5\" target=\"_blank\">Mahindra launches All-New XUV 7XO in Arunachal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3JzbDlNVXV3N3NjdEI5ejJtUWZtSlJnVGh0ZFBkR2hyV1dHTFlkVEZyU0Ffc1JSb3c3ejFrTkY5eG02bFNkbjY4bF9VcHdEQ1ptSVBrVmkzU3p6VFFGeUNtN3BoeE82XzExZk9TcE5LcTFaWWctNVo4UWRMYVZsSlhNTDZtTk0?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pradesh emerging as major power hub: CM Pema Khandu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS19sa0hhU2o5V3ZpZFNpWXZNakNsdFZybFF4V0RfN1FvaURHZDduUFFCaENWRlpGb2F3d1JoTTJHNXh1UjZjY1lFWlBYbzB2UGI2c1BPbHlKYUs5WFg3TmNnZ0hhd0ZCQnR0bEY1UjJyN29hZ216MTJ6c3JGemE1YzR0MXRLYnV5X2E0cWc4WW1hVG9PbV9ZaGdQWXY3czZSdW1hTVN5QkVNYUFST29hSlNLNWxDWm8xZUpfazZ1TnM4eXfSAcgBQVVfeXFMTUVtUERjWk5LbHRobjBmTGNIZUdCZTVKMlVRVkNDYm5CWGEyZzFfbzRJdnVQM05PeExWZVBjSkkxTjVqS2pKcFU0WTBXVlBHWnlfdFJ0UWs1YUZVYkVRRHlzNDRMWDNhemE2bEJHUnhGN0VZcVlpYUNlVW05cl96cUZnYjNsSDRwWS0teE5qS29zYVdrVkp1YWxIcHJaNXN6NTR4V0ttck1qcVpIV19uWnc2cWY5dzBhWUlrdlMtaEtCLXpLMndBQnU?oc=5\" target=\"_blank\">Arunachal Pradesh emerging as major power hub: CM Pema Khandu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS19sa0hhU2o5V3ZpZFNpWXZNakNsdFZybFF4V0RfN1FvaURHZDduUFFCaENWRlpGb2F3d1JoTTJHNXh1UjZjY1lFWlBYbzB2UGI2c1BPbHlKYUs5WFg3TmNnZ0hhd0ZCQnR0bEY1UjJyN29hZ216MTJ6c3JGemE1YzR0MXRLYnV5X2E0cWc4WW1hVG9PbV9ZaGdQWXY3czZSdW1hTVN5QkVNYUFST29hSlNLNWxDWm8xZUpfazZ1TnM4eXfSAcgBQVVfeXFMTUVtUERjWk5LbHRobjBmTGNIZUdCZTVKMlVRVkNDYm5CWGEyZzFfbzRJdnVQM05PeExWZVBjSkkxTjVqS2pKcFU0WTBXVlBHWnlfdFJ0UWs1YUZVYkVRRHlzNDRMWDNhemE2bEJHUnhGN0VZcVlpYUNlVW05cl96cUZnYjNsSDRwWS0teE5qS29zYVdrVkp1YWxIcHJaNXN6NTR4V0ttck1qcVpIV19uWnc2cWY5dzBhWUlrdlMtaEtCLXpLMndBQnU?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sat, 24 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:17+00:00"
+  }
+ ]
+}

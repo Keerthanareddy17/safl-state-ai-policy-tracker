@@ -1,0 +1,98 @@
+{
+ "region": "Uttarakhand",
+ "group": "A",
+ "query": "(Uttarakhand) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Uttarakhand%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:55+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "CM Dhami unveils Uttarakhand STI policy, focuses on education, healthcare and governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRG5FMjczdGYyU1ZLb19NMTUxRUZzUWI4NzBOWEpWa1ZsODhOSXdpNjJNX0VQUlRIa3MxV2VDNF9JMGMzaGgxVXljTURlMmwyNlBIUGI1UGR1YnBrRGhBb1l4cDNLczczcmh5VUJLU0xSYnNZNkkyQ0N1aGhLWGJjUkd1bnFQY3RDTDllY0Q1MkJMeVZLeTBPclBNWGNpcWhYZXNVZDJjeDBNZzJBN2lxMndHUmYyQzhVVHVIZ2Y5MnU0QkVnaE44UDFvYlZWYUhYZy1ISmRLV003U2w5NVVxWmpJaDh4NUFGeTFsUkh5LTJYNWZ3ejBURVJwUHfSAYICQVVfeXFMTkExX01xRHRpZGt3dU9UaDlUR2d2Nm85R0J0dUFhTzhETHNVQm02RjdxLWNNUm16WWtWX1Y0c1VkUGY1NnlLZFhaakQxVVh5OVNaclVNSGZjYnFvZ2FkRnN3RXc2TTVZa2IzZUVqZFdBaE1JM3haWVc2UkZndGVERHhvODhqNEhTSVNxSHl1aV8tRlR6bDl5VE9IcUx6dVo1MW1ObzJnRHFtT2JTemNQdGVicUpTZ25FTWtMUjNrT3dPZ1dqYUpvanNyeEoxbFdPTTF0cV9veGV4aWVoMFNOb3BFcmg5ZnZ5ME9uSERlcm0wUWNVR2w3Umh4MTV0QlNzbkNB?oc=5\" target=\"_blank\">CM Dhami unveils Uttarakhand STI policy, focuses on education, healthcare and governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRG5FMjczdGYyU1ZLb19NMTUxRUZzUWI4NzBOWEpWa1ZsODhOSXdpNjJNX0VQUlRIa3MxV2VDNF9JMGMzaGgxVXljTURlMmwyNlBIUGI1UGR1YnBrRGhBb1l4cDNLczczcmh5VUJLU0xSYnNZNkkyQ0N1aGhLWGJjUkd1bnFQY3RDTDllY0Q1MkJMeVZLeTBPclBNWGNpcWhYZXNVZDJjeDBNZzJBN2lxMndHUmYyQzhVVHVIZ2Y5MnU0QkVnaE44UDFvYlZWYUhYZy1ISmRLV003U2w5NVVxWmpJaDh4NUFGeTFsUkh5LTJYNWZ3ejBURVJwUHfSAYICQVVfeXFMTkExX01xRHRpZGt3dU9UaDlUR2d2Nm85R0J0dUFhTzhETHNVQm02RjdxLWNNUm16WWtWX1Y0c1VkUGY1NnlLZFhaakQxVVh5OVNaclVNSGZjYnFvZ2FkRnN3RXc2TTVZa2IzZUVqZFdBaE1JM3haWVc2UkZndGVERHhvODhqNEhTSVNxSHl1aV8tRlR6bDl5VE9IcUx6dVo1MW1ObzJnRHFtT2JTemNQdGVicUpTZ25FTWtMUjNrT3dPZ1dqYUpvanNyeEoxbFdPTTF0cV9veGV4aWVoMFNOb3BFcmg5ZnZ5ME9uSERlcm0wUWNVR2w3Umh4MTV0QlNzbkNB?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Devbhoomi AI Summit 2026 Positions Uttarakhand as a Global Destination for Responsible Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOEJpUEgwanp1cHdCaG01aGhOVUJwZldrazVDMUJUQjd1cXA4TGk0S3FRN2xJSVN0MFVXdEg1akVYc2lmUDFOR0JDcG5iRHBzWC1zeHhNNlA0bnJXb210UXJVUzFBUmZ3R3l1NDZkN2Y1T2U3RU1zWFA0c1hzeGNaNTNsLU1oem9hX3RJaE5FOXloRnZYeWZmR0hVbTlXaVVab3FkWjFJd3lKY05YV3hvZ3NjbzZkMmFYM0t6dEtHUlNYVGNFSUE0OEd6UHhCdUxQUUI1SHdBcDZqalBYN0R4a3AzN0g1WTFBc2lhLTVn?oc=5\" target=\"_blank\">Devbhoomi AI Summit 2026 Positions Uttarakhand as a Global Destination for Responsible Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN Presswire</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOEJpUEgwanp1cHdCaG01aGhOVUJwZldrazVDMUJUQjd1cXA4TGk0S3FRN2xJSVN0MFVXdEg1akVYc2lmUDFOR0JDcG5iRHBzWC1zeHhNNlA0bnJXb210UXJVUzFBUmZ3R3l1NDZkN2Y1T2U3RU1zWFA0c1hzeGNaNTNsLU1oem9hX3RJaE5FOXloRnZYeWZmR0hVbTlXaVVab3FkWjFJd3lKY05YV3hvZ3NjbzZkMmFYM0t6dEtHUlNYVGNFSUE0OEd6UHhCdUxQUUI1SHdBcDZqalBYN0R4a3AzN0g1WTFBc2lhLTVn?oc=5",
+   "source_name": "EIN Presswire",
+   "source_domain": "einpresswire.com",
+   "published_raw": "Sat, 01 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand Positions India for an AI-Driven Future Through Innovation Hackathon and Devbhoomi AI Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVVDcDlIOFF4Y0xwc1QzNVJqUnMyVnJXNW1qR3k3UDdaUFFJS2tHWTE4Z3A2Rmp4RVNITER3R1lLZXQwOWp6V3l0N2Frc2JjUi00OERIX3VXMlB5MFhXbkloYXlZM0ZGV2pzaXRzUzVETWpubHpNMFZMbnBGbVNmSHR1YzNJN0ZuOVp1WVZvT3ZkcmtBamtJZ1NselJCblNDTzlsRDhNd0l5cnR6aG1jcFhlaVBrZTduaVNIZS05c1oycTAxSGlfN0NHNEdpTDhpYUVSdGlYTUN6OW91MFVB?oc=5\" target=\"_blank\">Uttarakhand Positions India for an AI-Driven Future Through Innovation Hackathon and Devbhoomi AI Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUVVDcDlIOFF4Y0xwc1QzNVJqUnMyVnJXNW1qR3k3UDdaUFFJS2tHWTE4Z3A2Rmp4RVNITER3R1lLZXQwOWp6V3l0N2Frc2JjUi00OERIX3VXMlB5MFhXbkloYXlZM0ZGV2pzaXRzUzVETWpubHpNMFZMbnBGbVNmSHR1YzNJN0ZuOVp1WVZvT3ZkcmtBamtJZ1NselJCblNDTzlsRDhNd0l5cnR6aG1jcFhlaVBrZTduaVNIZS05c1oycTAxSGlfN0NHNEdpTDhpYUVSdGlYTUN6OW91MFVB?oc=5",
+   "source_name": "EIN News",
+   "source_domain": "einnews.com",
+   "published_raw": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "When PSUs, fertiliser shops, and flour mills became Uttarakhand’s ‘investors’ after global summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObjBlZHFzcjN0a2k2VWNYRTNKUkVETGQxUlBmUEI4UkhzVi0tZ2hibm5XY1RIdzhCWHpTT1lMOTM1d0pZR3lJQkhQekctd3BPSGNlWGVsaURBVHJkQzVIRERCUmo1NVNyWFQxVzhkcHJVdUtkZURraXBDMExFNnNBc1ZjWkg3ejlFWXpfZFlNUGhEQzNuc1NMRmRNd3YzRU9zRUpMeFBOVmNyWTUtX3FTQ3M1NDFsd3VPb0RPQjRWM2wxY2pUSkNGczczY9IB4AFBVV95cUxNNkF6ZmpicXc2b1dGWW05V3pCVER1NEZfa2U2aXR4TGhNeUF5TlNvN2pzbVRweDlma3ZjZXV4aG9oQWFLTElOYnhDR2N3V29yLTZzdVZzSlk1VnVHSzY2T1FldmIyNW9HS0ppVHQ4aDVpMlQ5dWdrUk9OWHhBQnU4aTc2cElaVl92Zkllcm5HaGI1eENKMmFqaGdiWjFIVHM0R0l2M0ZTVm5YV01kZmNQRjd4bGVBQTU5aVZFNzQzcDRMYkU0RkZYZ0cwTHR0ckhKZFRwOFpoTlBybmlWMGpXMg?oc=5\" target=\"_blank\">When PSUs, fertiliser shops, and flour mills became Uttarakhand’s ‘investors’ after global summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newslaundry</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObjBlZHFzcjN0a2k2VWNYRTNKUkVETGQxUlBmUEI4UkhzVi0tZ2hibm5XY1RIdzhCWHpTT1lMOTM1d0pZR3lJQkhQekctd3BPSGNlWGVsaURBVHJkQzVIRERCUmo1NVNyWFQxVzhkcHJVdUtkZURraXBDMExFNnNBc1ZjWkg3ejlFWXpfZFlNUGhEQzNuc1NMRmRNd3YzRU9zRUpMeFBOVmNyWTUtX3FTQ3M1NDFsd3VPb0RPQjRWM2wxY2pUSkNGczczY9IB4AFBVV95cUxNNkF6ZmpicXc2b1dGWW05V3pCVER1NEZfa2U2aXR4TGhNeUF5TlNvN2pzbVRweDlma3ZjZXV4aG9oQWFLTElOYnhDR2N3V29yLTZzdVZzSlk1VnVHSzY2T1FldmIyNW9HS0ppVHQ4aDVpMlQ5dWdrUk9OWHhBQnU4aTc2cElaVl92Zkllcm5HaGI1eENKMmFqaGdiWjFIVHM0R0l2M0ZTVm5YV01kZmNQRjd4bGVBQTU5aVZFNzQzcDRMYkU0RkZYZ0cwTHR0ckhKZFRwOFpoTlBybmlWMGpXMg?oc=5",
+   "source_name": "Newslaundry",
+   "source_domain": "newslaundry.com",
+   "published_raw": "Wed, 08 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "AI Voice Cloning Fraud on the Rise: Uttarakhand Cyber Cell and FCRF Issue Public Advisory",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTDJuUl84enM3UmhHSHV5dHNzbU42OGh2cHhwbjJ1bXFmMHNDQmx2T2ZvRlc1VWlOcnJrTzJ6V1YxYzM3NThfWnd5U3RGdUJyREx6cEdyaUtsU3RaQkZ5QlNCX3VxbVNweTJFOXNRckdHaExQMVpkN19sU1ZvZw?oc=5\" target=\"_blank\">AI Voice Cloning Fraud on the Rise: Uttarakhand Cyber Cell and FCRF Issue Public Advisory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTDJuUl84enM3UmhHSHV5dHNzbU42OGh2cHhwbjJ1bXFmMHNDQmx2T2ZvRlc1VWlOcnJrTzJ6V1YxYzM3NThfWnd5U3RGdUJyREx6cEdyaUtsU3RaQkZ5QlNCX3VxbVNweTJFOXNRckdHaExQMVpkN19sU1ZvZw?oc=5",
+   "source_name": "The 420.in",
+   "source_domain": "the420.in",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Doon University to roll out ‘AI for All’ courses across Uttarakhand",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbk9KQ2k3MkV3dWw2VGNoenlEXzhIMTR2Q1lUSFBmajZiaFpTZUh6aDhFeUdvMFh6V3g4V2xNeEZrVDhTWk9lOHpKQ01STUtYM1R1TU54VUZraERlRnFKQnRkdlpMY3JrNnNfNG9GS3J1Y0Y3U0RDQldSSHlzWWh2Zlp1QWx2NHIyeE5NbXlKUHBLTTVJbnhsYnpHZl9Jd2VsekMxNS1VcEtHelFEVEF5SFFUVXRMSVpPMnV3WUFsUW1wclFEUDNGVnlPcS1ZZ3RTNUpfRE8tVUvSAd4BQVVfeXFMTi1SbDJFYWR2UFVoTDNRb2loOWtHUlpESEpPOE55bE5zNnoxSXFWUGdwX1Zrd0Y3QWg5RDRITmFLMF9QSEszSmJFZlhwRk56ZkVqODRxWTBudS1vZGVCVHBBMV9mVnNXQ25KcGZtWDNzLVlXSDVyN1YwbVVQU292cDZmNElZS0hqRThTWVhSUklkMjNaTzQzdG1GclNianJhV2xVUHBKR0F6Um1zU1J6S1E3VnllRlJhRDg1RzZXMG91YThORFV2TVJ5Wk45ckU4TUJoZU9XRVhYbUJZSVlR?oc=5\" target=\"_blank\">Doon University to roll out ‘AI for All’ courses across Uttarakhand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbk9KQ2k3MkV3dWw2VGNoenlEXzhIMTR2Q1lUSFBmajZiaFpTZUh6aDhFeUdvMFh6V3g4V2xNeEZrVDhTWk9lOHpKQ01STUtYM1R1TU54VUZraERlRnFKQnRkdlpMY3JrNnNfNG9GS3J1Y0Y3U0RDQldSSHlzWWh2Zlp1QWx2NHIyeE5NbXlKUHBLTTVJbnhsYnpHZl9Jd2VsekMxNS1VcEtHelFEVEF5SFFUVXRMSVpPMnV3WUFsUW1wclFEUDNGVnlPcS1ZZ3RTNUpfRE8tVUvSAd4BQVVfeXFMTi1SbDJFYWR2UFVoTDNRb2loOWtHUlpESEpPOE55bE5zNnoxSXFWUGdwX1Zrd0Y3QWg5RDRITmFLMF9QSEszSmJFZlhwRk56ZkVqODRxWTBudS1vZGVCVHBBMV9mVnNXQ25KcGZtWDNzLVlXSDVyN1YwbVVQU292cDZmNElZS0hqRThTWVhSUklkMjNaTzQzdG1GclNianJhV2xVUHBKR0F6Um1zU1J6S1E3VnllRlJhRDg1RzZXMG91YThORFV2TVJ5Wk45ckU4TUJoZU9XRVhYbUJZSVlR?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 31 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Rs 3,350-cr MoU, 70,000 jobs: A Yogi govt AI investment deal is now under fraud cloud",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFJydnlGYzlGRjZvUVhDMEdjMGxpWDl4WXlvVWotT0RGa0ZwbUJzb1dUX3V4NG1yRkx3ZXRJbHh1cmRkWGZKWHRZVXlyc0N4THJBRVRYamU5U2ZWZnlJRUgwZ3VZYnBxZ2lMaW1yZkd1UnpnbGd4aENiRXVtbTMwcWhNVTF2QlJuSEVhYzVNS3cwX2ZlamF5ZGN3ZktlaHlMclZwY25jNXNhcDZKMUptemRnMGFDYUljQWFCOdIB0gFBVV95cUxNWV9LN3NaN3ZjVHREb2tKRTNvalhpWllqaGZVbXdhSTVYb2V1M2RkMVNpYUtqVGxxR1dJYV9kWFZfT21zUEFnTGR6UkpzeXdaeHFiWEdBLWJUd1hTaldlaldNZF9lbXhKaVY0REk3U3E5Z1JNcnpmaFcyS21GU2xxenRBOHlDWDJWRGVCS3FybEg1NVdIT18zOXNPb0xGREN3Y0dYZGZXYzZVVnJ4bnVLQXJ0Q0VYc0dEZjc0Q1hVeEpnU19iRUNhdjA2ZVVxbDJVb3c?oc=5\" target=\"_blank\">Rs 3,350-cr MoU, 70,000 jobs: A Yogi govt AI investment deal is now under fraud cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newslaundry</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFJydnlGYzlGRjZvUVhDMEdjMGxpWDl4WXlvVWotT0RGa0ZwbUJzb1dUX3V4NG1yRkx3ZXRJbHh1cmRkWGZKWHRZVXlyc0N4THJBRVRYamU5U2ZWZnlJRUgwZ3VZYnBxZ2lMaW1yZkd1UnpnbGd4aENiRXVtbTMwcWhNVTF2QlJuSEVhYzVNS3cwX2ZlamF5ZGN3ZktlaHlMclZwY25jNXNhcDZKMUptemRnMGFDYUljQWFCOdIB0gFBVV95cUxNWV9LN3NaN3ZjVHREb2tKRTNvalhpWllqaGZVbXdhSTVYb2V1M2RkMVNpYUtqVGxxR1dJYV9kWFZfT21zUEFnTGR6UkpzeXdaeHFiWEdBLWJUd1hTaldlaldNZF9lbXhKaVY0REk3U3E5Z1JNcnpmaFcyS21GU2xxenRBOHlDWDJWRGVCS3FybEg1NVdIT18zOXNPb0xGREN3Y0dYZGZXYzZVVnJ4bnVLQXJ0Q0VYc0dEZjc0Q1hVeEpnU19iRUNhdjA2ZVVxbDJVb3c?oc=5",
+   "source_name": "Newslaundry",
+   "source_domain": "newslaundry.com",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "‘AI on Wheels’ to take tech education to remote hills of Uttarakhand",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWHF6aGNiWGlpLU43UGZhemdFZ0Z2SnZvTzJIV0pLOHdZRzJKN2JleGdzcXBPNTZVbDJVUTl5WkVtRWhoaTh5NGZVV3ZhdkpPRlhxS3FGeC1lTlF3SFhFa1hHLWY5aTFFZ0V3eFJGWmJoTFp3ZjRMVHNZbzVMZ0VueHhwM19tMkxIM1FQajVXZGpKU2FXendsbGNTNGpQZnBhSDNsdDlhMG5aNDN0R1ZwY2Nwc3J6Y2owUFlDRkJQdVZGQUFnWGFqSzdCMUx2X2pOR1BCcUtxMUpGUdIB3wFBVV95cUxOQVVYZ3FvX2E2WGVaSFZPN1ppekt3dmVIcTRDU2duek02TG1pX1otcmhEMVJiYm40eFZYdzAwblBaUkhKSHRsQXJoM09EVGxLZFFCREswU21zanYwQ2RtMXFwWEdSNUt3NXVpdW5GOVNZRDU3ZlNJZmJ3YW15aDN1RlNDNUpESTFuV2hxZ0hPMzVtQWJHOVlGRExMem9zQ2pJWC0zYlpGRzh3WF9CRFBEWlFWZkJwRjdoYVZYUVJlV1BxM1B1QTFYUFBNUFc4QU9sSl9tX2JJTWpjdUN4QXNj?oc=5\" target=\"_blank\">‘AI on Wheels’ to take tech education to remote hills of Uttarakhand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWHF6aGNiWGlpLU43UGZhemdFZ0Z2SnZvTzJIV0pLOHdZRzJKN2JleGdzcXBPNTZVbDJVUTl5WkVtRWhoaTh5NGZVV3ZhdkpPRlhxS3FGeC1lTlF3SFhFa1hHLWY5aTFFZ0V3eFJGWmJoTFp3ZjRMVHNZbzVMZ0VueHhwM19tMkxIM1FQajVXZGpKU2FXendsbGNTNGpQZnBhSDNsdDlhMG5aNDN0R1ZwY2Nwc3J6Y2owUFlDRkJQdVZGQUFnWGFqSzdCMUx2X2pOR1BCcUtxMUpGUdIB3wFBVV95cUxOQVVYZ3FvX2E2WGVaSFZPN1ppekt3dmVIcTRDU2duek02TG1pX1otcmhEMVJiYm40eFZYdzAwblBaUkhKSHRsQXJoM09EVGxLZFFCREswU21zanYwQ2RtMXFwWEdSNUt3NXVpdW5GOVNZRDU3ZlNJZmJ3YW15aDN1RlNDNUpESTFuV2hxZ0hPMzVtQWJHOVlGRExMem9zQ2pJWC0zYlpGRzh3WF9CRFBEWlFWZkJwRjdoYVZYUVJlV1BxM1B1QTFYUFBNUFc4QU9sSl9tX2JJTWpjdUN4QXNj?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:55+00:00"
+  }
+ ]
+}

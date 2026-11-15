@@ -1,0 +1,109 @@
+{
+ "region": "Karnataka",
+ "group": "A",
+ "query": "(Karnataka OR Bengaluru) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Karnataka+OR+Bengaluru%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:34:37+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "AI Centre of Excellence for Healthcare established at IISc in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR256UDZmanV5MktNY0tienVzZnl0Z3VIQ3ljemRUYWhtRW95c3ZaQkI1QmFVbnR5eTlqNHNWUEM5dXJBMkxGQUpHVmE0MUZBTHpkWXpaRTdqUG9JVVZQME1fTUZYa3pVTDhIZldRN2NfOF9PTHZVSm1ueFVzbVNQc0VxTjdDZGFaZFFGYjBzWmZmUDllZ2lWV1lHbW90MHdnTm5NeGQ0VWRSd1RVeGdnMUlsOTUybEJ6RURzam8yNjVja29SN3prWndfMlhraUE5UGdyUDlhZ9IB3gFBVV95cUxQOUVfbmF6M0pVenB1dV9FQ1JIZWtKQ3hDcHMyOFYxcExKbE1yeVhTdVl3LVFuSzJJZktFZ2w1Uk1qbG1MaWNCMUhtZmFmRk4wQW5Lcm0xbHpaeGM3T3FJWlliMDZJNFF4NTJIaWlKd1FzdHlfTlNaVDZzZmRTaElBYlZvRnZBUTZlc1hvekpTRTF0MS1MNGpSZlM0MmpUOUFielM4and6SDVsNUdoRUNyaGpxaE9fM3p2dnI0Z3NJejd1Y1J5V0ttcHZtSTFVOHh0MEk2Vk45T2dlcWpYc2c?oc=5\" target=\"_blank\">AI Centre of Excellence for Healthcare established at IISc in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR256UDZmanV5MktNY0tienVzZnl0Z3VIQ3ljemRUYWhtRW95c3ZaQkI1QmFVbnR5eTlqNHNWUEM5dXJBMkxGQUpHVmE0MUZBTHpkWXpaRTdqUG9JVVZQME1fTUZYa3pVTDhIZldRN2NfOF9PTHZVSm1ueFVzbVNQc0VxTjdDZGFaZFFGYjBzWmZmUDllZ2lWV1lHbW90MHdnTm5NeGQ0VWRSd1RVeGdnMUlsOTUybEJ6RURzam8yNjVja29SN3prWndfMlhraUE5UGdyUDlhZ9IB3gFBVV95cUxQOUVfbmF6M0pVenB1dV9FQ1JIZWtKQ3hDcHMyOFYxcExKbE1yeVhTdVl3LVFuSzJJZktFZ2w1Uk1qbG1MaWNCMUhtZmFmRk4wQW5Lcm0xbHpaeGM3T3FJWlliMDZJNFF4NTJIaWlKd1FzdHlfTlNaVDZzZmRTaElBYlZvRnZBUTZlc1hvekpTRTF0MS1MNGpSZlM0MmpUOUFielM4and6SDVsNUdoRUNyaGpxaE9fM3p2dnI0Z3NJejd1Y1J5V0ttcHZtSTFVOHh0MEk2Vk45T2dlcWpYc2c?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "1M1B Foundation launches green skills & applied AI centre of excellence in Bengaluru",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFc3LWEzX0M1WThmTHhaZFJ6NEtiSEEyTTEtUVBlQUZYTjJoM0FjbWNYTzROcEYtSlJuS3NMSlJramtydXlaT1pfeHBGSWt0OUFQVFFZZk9fTTVfOGxMMDVUNk1jdFRzU2FFNWowSG1NZzBsc1NDenB4b0hZMEpDSGZqMUdoN0pDVDlQZS1ILVNOWDlQXzRsTWUzYVlScE5DTlk2Y2F1dmRxWEVwMFRmbTVyTDkxdVFTUEczN2NkTDZ4ZWdoT01hZ0pKRF9RZVBYR0tzSXpmcGF4aXZ4elc0MFk0ZHBPMWxFLUFkV2J1ZXg5dVdrb01mR21ZT2_SAYACQVVfeXFMTWd2Uk45WDNScUVlZ3RIeHpGZEk2VmZqZFhrc1JWTXdQWlZyNUFtcVhjc0NnRWxNWUFFeERtcVFJNldLQ0wwSlZqX2NuYU0xdjFtTDNDZVlZMmFYTWJacnZJQ01aLVZJMU9IWnZUTjd2RzU1Uy1CanQ3RmV6b2MzcllYVkQyVnIzX2pLYU53NURKLS1GNS1jcXBsZ2xnN3djVGRpMTFPWWNtUDNlWXlWaXUzcW9UMFF1MjNpODNPUDY3ckh5MFptYkxWcnhWWE10YTNFZzJ0aUNNODZYb0xBR2pQbzRENmNUZS04Sk9lSTlERkRrNnhmN3F2TGoxRE1tTA?oc=5\" target=\"_blank\">1M1B Foundation launches green skills & applied AI centre of excellence in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFc3LWEzX0M1WThmTHhaZFJ6NEtiSEEyTTEtUVBlQUZYTjJoM0FjbWNYTzROcEYtSlJuS3NMSlJramtydXlaT1pfeHBGSWt0OUFQVFFZZk9fTTVfOGxMMDVUNk1jdFRzU2FFNWowSG1NZzBsc1NDenB4b0hZMEpDSGZqMUdoN0pDVDlQZS1ILVNOWDlQXzRsTWUzYVlScE5DTlk2Y2F1dmRxWEVwMFRmbTVyTDkxdVFTUEczN2NkTDZ4ZWdoT01hZ0pKRF9RZVBYR0tzSXpmcGF4aXZ4elc0MFk0ZHBPMWxFLUFkV2J1ZXg5dVdrb01mR21ZT2_SAYACQVVfeXFMTWd2Uk45WDNScUVlZ3RIeHpGZEk2VmZqZFhrc1JWTXdQWlZyNUFtcVhjc0NnRWxNWUFFeERtcVFJNldLQ0wwSlZqX2NuYU0xdjFtTDNDZVlZMmFYTWJacnZJQ01aLVZJMU9IWnZUTjd2RzU1Uy1CanQ3RmV6b2MzcllYVkQyVnIzX2pLYU53NURKLS1GNS1jcXBsZ2xnN3djVGRpMTFPWWNtUDNlWXlWaXUzcW9UMFF1MjNpODNPUDY3ckh5MFptYkxWcnhWWE10YTNFZzJ0aUNNODZYb0xBR2pQbzRENmNUZS04Sk9lSTlERkRrNnhmN3F2TGoxRE1tTA?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Transforming Healthcare Delivery Through Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5\" target=\"_blank\">Transforming Healthcare Delivery Through Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "HSR Layout to host AI Centre of Excellence as IT/BT department gives nod",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMHR1VmhXQ1RJRkctdFRMbkMwSE9CdGNORnVaXzE4V2VEMWdXQkJsVjRISDIxYkdYMzFheFhXdF9RVWhENmlBeXQweTN0YUxtZVFJRG1NMEpjSV9YSzdWeUZmWDRFcXBJY29ITEVfZFpMMVVUcm1VeXlfTU9BMENfbFBUcklJYVpWdjBDY2JUbkRxNDVFbGhQR3VqZm0tNVQtcFNOQjNERHI5Q203OWlCR2NUTXBDT29HazFvWUxFZHQ2NHBiLXBjeWVuX3BYUdIB2wFBVV95cUxOS3FoMGF5UnVaWnRTLVM1aXNCS1dVVE0tRGVqNEhfWlo4V2k3VWpqdmJ3UnZpc0I1XzQtVjhCejE1b1Y2WDNrZ19DN3JISHBqZnMxS2hSWVFDeTdCNFhsZ000RUNXYnBwaTVhVnhBY3R0dlBWTmFXOHB4YndzOXZRQTFkVUJ2OEh0ZFNHTWlGV09FcElvb2Z4b3RXWHVTOHNZaURrT0c1YlhNaUhpanFTaWs1bXlpNF9UMlBQTkxIQ1J1QVdMbWpWYjR5M2RDXzFGQ1cybHF5bk8zYTQ?oc=5\" target=\"_blank\">HSR Layout to host AI Centre of Excellence as IT/BT department gives nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMHR1VmhXQ1RJRkctdFRMbkMwSE9CdGNORnVaXzE4V2VEMWdXQkJsVjRISDIxYkdYMzFheFhXdF9RVWhENmlBeXQweTN0YUxtZVFJRG1NMEpjSV9YSzdWeUZmWDRFcXBJY29ITEVfZFpMMVVUcm1VeXlfTU9BMENfbFBUcklJYVpWdjBDY2JUbkRxNDVFbGhQR3VqZm0tNVQtcFNOQjNERHI5Q203OWlCR2NUTXBDT29HazFvWUxFZHQ2NHBiLXBjeWVuX3BYUdIB2wFBVV95cUxOS3FoMGF5UnVaWnRTLVM1aXNCS1dVVE0tRGVqNEhfWlo4V2k3VWpqdmJ3UnZpc0I1XzQtVjhCejE1b1Y2WDNrZ19DN3JISHBqZnMxS2hSWVFDeTdCNFhsZ000RUNXYnBwaTVhVnhBY3R0dlBWTmFXOHB4YndzOXZRQTFkVUJ2OEh0ZFNHTWlGV09FcElvb2Z4b3RXWHVTOHNZaURrT0c1YlhNaUhpanFTaWs1bXlpNF9UMlBQTkxIQ1J1QVdMbWpWYjR5M2RDXzFGQ1cybHF5bk8zYTQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "BJP shares AI spoof of Siddaramaiah snapping at ‘resign’ comment amid leadership row",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOODJ2ZG8zbjhIOHBJQlJydV9yNmh2cl8teU41N1Q2Qm1wVnI5d05MOXlwbUtkWUJHTDN4QU11RFpPbk9rTDFqSDNVRVdWek50T2FvQzRNa0VpbGkwMk9oOWRsbmpyLVdPZjJQcXBodXJXX3NtajRRNVJJZnd3TnBxRFVmVzRPanVlR3FoajJTSTlraWplMl95VE11eTlTRzVjRnd2cjdhZkJQNUZzVG5DQ0lId0xGMk5mVVpOb2ItdmpBdV9xMEFfQzZwVzNTTTZNSjVHSlVGcGk?oc=5\" target=\"_blank\">BJP shares AI spoof of Siddaramaiah snapping at ‘resign’ comment amid leadership row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOODJ2ZG8zbjhIOHBJQlJydV9yNmh2cl8teU41N1Q2Qm1wVnI5d05MOXlwbUtkWUJHTDN4QU11RFpPbk9rTDFqSDNVRVdWek50T2FvQzRNa0VpbGkwMk9oOWRsbmpyLVdPZjJQcXBodXJXX3NtajRRNVJJZnd3TnBxRFVmVzRPanVlR3FoajJTSTlraWplMl95VE11eTlTRzVjRnd2cjdhZkJQNUZzVG5DQ0lId0xGMk5mVVpOb2ItdmpBdV9xMEFfQzZwVzNTTTZNSjVHSlVGcGk?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Thu, 20 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0pZOGpWaGlJTFZTdVhQaERNMnpScEdiNnpFa3d2dnpZdHBsbmFyaXlwRThmWldTcjJSNGNqV01OZEhLS3dpQ0N5dmg5WGZWU3d4MFlfcUpydC1paU8tZm9yRDNWbzVERTM2WWsycW43RkNROGMzWElPWUgyZmJtNXJ3bDZVZFJ0X1FCMzlmbTBYMGp4dlFaX0FrWEJaRGRqZzZ6bTZRcG80RVpGV2dfaW44Y0NHLTIzbUhrTQ?oc=5\" target=\"_blank\">OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0pZOGpWaGlJTFZTdVhQaERNMnpScEdiNnpFa3d2dnpZdHBsbmFyaXlwRThmWldTcjJSNGNqV01OZEhLS3dpQ0N5dmg5WGZWU3d4MFlfcUpydC1paU8tZm9yRDNWbzVERTM2WWsycW43RkNROGMzWElPWUgyZmJtNXJ3bDZVZFJ0X1FCMzlmbTBYMGp4dlFaX0FrWEJaRGRqZzZ6bTZRcG80RVpGV2dfaW44Y0NHLTIzbUhrTQ?oc=5",
+   "source_name": "TechCrunch",
+   "source_domain": "techcrunch.com",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Rs 9.12 Lakh Crore UP Budget 2026–27 Unveiled — What’s In Store For Roads, Industrial Corridors, MSMEs, Textiles, AI And Tourism",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUW1tTXI3VlJLQXFDaW9rbktjX0poN1BjbWgwMkY3Nl8zTDdNam9VM3NlN3FTbTFTTmdfaGg2aUZIZmd0cDdmcXlGdzZneU5kU0JEbXdRQk1KVjU2QXdKbS1iXzZIYnlBelRsRXlOXzRwa0l6dHdIZ3R4d1pCa29WQnJJUkdmWlVHRGtxU1M3bzZpWnBmUTM0R2J5TGVfNDZoUmFiYkluTHhoaC1DZTQ4VEVjd0wxdWZtNkVHMnpVODZvOTdNRktsMVg3UXo1WDVSRXVnckpkckE0TkVIRDU4bG9TSWJGdW9FalHSAfoBQVVfeXFMT2lpWHVBSU9GcERNcGtXeUlRWmFsYjh1My1LM1JScDBfUWxtQU9OZngxTEtVOGUxWm80UWtpRWxkekd0aVF5MmhMTXdSYlFnSjM3eDdGU2hIcFpxRnRWY2poZFYzT0VyUVRzMkg4R0RzOUdCNWlxRnZEeHlhU2FRMVZnMVVUX1BLYW9wbTF3X0ZPcnZQbW5wNThMZWlwYmFwUS1veUwtZmlmdTVOZFJTcWJsTGxKcFQ2bDZPU19CZnhPV0tRaU5wQldqUkc2S2J2UjJRMjFXWktwUGxoSmVFdERUXzFTS0twNmlyQTRhcHlaUmRRQUhwQ2xrdw?oc=5\" target=\"_blank\">Rs 9.12 Lakh Crore UP Budget 2026–27 Unveiled — What’s In Store For Roads, Industrial Corridors, MSMEs, Textiles, AI And Tourism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUW1tTXI3VlJLQXFDaW9rbktjX0poN1BjbWgwMkY3Nl8zTDdNam9VM3NlN3FTbTFTTmdfaGg2aUZIZmd0cDdmcXlGdzZneU5kU0JEbXdRQk1KVjU2QXdKbS1iXzZIYnlBelRsRXlOXzRwa0l6dHdIZ3R4d1pCa29WQnJJUkdmWlVHRGtxU1M3bzZpWnBmUTM0R2J5TGVfNDZoUmFiYkluTHhoaC1DZTQ4VEVjd0wxdWZtNkVHMnpVODZvOTdNRktsMVg3UXo1WDVSRXVnckpkckE0TkVIRDU4bG9TSWJGdW9FalHSAfoBQVVfeXFMT2lpWHVBSU9GcERNcGtXeUlRWmFsYjh1My1LM1JScDBfUWxtQU9OZngxTEtVOGUxWm80UWtpRWxkekd0aVF5MmhMTXdSYlFnSjM3eDdGU2hIcFpxRnRWY2poZFYzT0VyUVRzMkg4R0RzOUdCNWlxRnZEeHlhU2FRMVZnMVVUX1BLYW9wbTF3X0ZPcnZQbW5wNThMZWlwYmFwUS1veUwtZmlmdTVOZFJTcWJsTGxKcFQ2bDZPU19CZnhPV0tRaU5wQldqUkc2S2J2UjJRMjFXWktwUGxoSmVFdERUXzFTS0twNmlyQTRhcHlaUmRRQUhwQ2xrdw?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Wed, 11 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Sage Partners Augusta Labs To Accelerate Global AI Centre Of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYm9IdnZ6QkQwOHVxVkJRQmpmakhOekxhRll3anlyLTJ3aEd0NkJsN2tpQW9RcFJiUzVva1pBbWtEMWc1a3l5OWhNNEdFWFNNU25MeFJsOFcwU2FDdlF3bm9Femd5LURWbEJNZ3FTZTAzaHlGcTVBeUhWWjhhTl9scml2d2VWNHJGMU1WXzZxb3h2RUNSQnpxVQ?oc=5\" target=\"_blank\">Sage Partners Augusta Labs To Accelerate Global AI Centre Of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ascendants.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYm9IdnZ6QkQwOHVxVkJRQmpmakhOekxhRll3anlyLTJ3aEd0NkJsN2tpQW9RcFJiUzVva1pBbWtEMWc1a3l5OWhNNEdFWFNNU25MeFJsOFcwU2FDdlF3bm9Femd5LURWbEJNZ3FTZTAzaHlGcTVBeUhWWjhhTl9scml2d2VWNHJGMU1WXzZxb3h2RUNSQnpxVQ?oc=5",
+   "source_name": "ascendants.in",
+   "source_domain": "ascendants.in",
+   "published_raw": "Sat, 24 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Karnataka",
+   "title": "Bengaluru Gets Centre Of Excellence For Green Skills And Applied AI, 30,000 Students To Be Trained In Three Years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWpOR0I5UWpsUnM3R3BWSEl0QmpwV0NhOEt6Yzl4Si1XckdaNFFMaF9kaGN6bWMzMWVEeGVwUW56bVpYdjBHNGlLMGg2TExHanV6RnFXQnFzbi1XcEJpVDNGSy1MakhHbXRUUGJLVjJCMjFpNUltN21XS3AtaUI3bTdlYVhyeEFHQ0pnMThsaVpTTFhVZDZtaC1kQ2JWRG1nSmxVRl9PYkFTZmFmZ2l5S0J2QnMzd1E30gG-AUFVX3lxTFBWVDBVWjV3TktDQjRJRnlrdDNBa3IxaHhhXzkwQzVVWE5BWk1IQWZ1N0lIOEFfS3hFRDVKXzhWZ0JoUlA0LVA4UmN2Q2RITXFiaW9WaldlZ1czMVRpTmF5QWhic0RiYk51Y3BxMVVGRHlNSVUzNldXT2V4SmxVUEYwTjVIVS14TkNBRkRkN0VEeEdMdEhkRElkV2RYREdGTjh6SzlfLXdFX0NhMEhSUFl4VUJkZ1FwYUpXTFVqd0E?oc=5\" target=\"_blank\">Bengaluru Gets Centre Of Excellence For Green Skills And Applied AI, 30,000 Students To Be Trained In Three Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWpOR0I5UWpsUnM3R3BWSEl0QmpwV0NhOEt6Yzl4Si1XckdaNFFMaF9kaGN6bWMzMWVEeGVwUW56bVpYdjBHNGlLMGg2TExHanV6RnFXQnFzbi1XcEJpVDNGSy1MakhHbXRUUGJLVjJCMjFpNUltN21XS3AtaUI3bTdlYVhyeEFHQ0pnMThsaVpTTFhVZDZtaC1kQ2JWRG1nSmxVRl9PYkFTZmFmZ2l5S0J2QnMzd1E30gG-AUFVX3lxTFBWVDBVWjV3TktDQjRJRnlrdDNBa3IxaHhhXzkwQzVVWE5BWk1IQWZ1N0lIOEFfS3hFRDVKXzhWZ0JoUlA0LVA4UmN2Q2RITXFiaW9WaldlZ1czMVRpTmF5QWhic0RiYk51Y3BxMVVGRHlNSVUzNldXT2V4SmxVUEYwTjVIVS14TkNBRkRkN0VEeEdMdEhkRElkV2RYREdGTjh6SzlfLXdFX0NhMEhSUFl4VUJkZ1FwYUpXTFVqd0E?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:37+00:00"
+  }
+ ]
+}

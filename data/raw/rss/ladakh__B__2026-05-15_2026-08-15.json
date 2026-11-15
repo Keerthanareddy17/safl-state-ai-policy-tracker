@@ -1,0 +1,109 @@
+{
+ "region": "Ladakh",
+ "group": "B",
+ "query": "(Ladakh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Ladakh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:32+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "NHM UT Ladakh Conducts AI-Assisted TB Screening Camp at District Police Line, Kargil.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdERyVWp3Zl9HSEZreUJtSzVMVGFBbTNEbHVzM1hTR3c3S1JYRzQySGxYR2c0ei1uVGs3S2lCWE43b19zdmRWenI4b3E0Y1ZZejNHb1B4WUZtTFZFWTgxZnNuZzZPYnQzSllJLVg5c0tSTWJpcVNzSHNOZE4xZTBncHFZcnVXdlc2aWRPQTgwQjNubGVIZmZCMDQ4ZHZtZkgzRDZnVmVINGtDQQ?oc=5\" target=\"_blank\">NHM UT Ladakh Conducts AI-Assisted TB Screening Camp at District Police Line, Kargil.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Administration of Union Territory of Ladakh</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdERyVWp3Zl9HSEZreUJtSzVMVGFBbTNEbHVzM1hTR3c3S1JYRzQySGxYR2c0ei1uVGs3S2lCWE43b19zdmRWenI4b3E0Y1ZZejNHb1B4WUZtTFZFWTgxZnNuZzZPYnQzSllJLVg5c0tSTWJpcVNzSHNOZE4xZTBncHFZcnVXdlc2aWRPQTgwQjNubGVIZmZCMDQ4ZHZtZkgzRDZnVmVINGtDQQ?oc=5",
+   "source_name": "Administration of Union Territory of Ladakh",
+   "source_domain": "ladakh.gov.in",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Sonam Wangchuk Hunger Strike 2026: Why He Is Protesting",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxObDNfWjhWOFJyMDBqMmtjWmF3WkN0SzZjakZOYVFNZVU1OTNvbXZOUGpGczdFcnZqc3kwcEF4LXBiLVRDcTlJZnRqX1NsV25xMDVmNG1MaVRnZ3h5Mld4RUFhaFRRUEZXLUdKRzlCc1QxMHd0TERLWm1McmpUbVFnUWc4WXhOQUgyNi03dW80SmtUd9IBmAFBVV95cUxPUjcxQmF3Ni02Zm04UHc4M0duUUViTlVURXJzRW5WUFozSzVUeWtQRS1ndkpZZWh0NWZGWmtSRWh6U0FyRzRTY1d4b0ZnU2JpLUZsTHJTTEFUOWpZdlpLYWQtdEstcGF6UXdzWGpMcWhyT3hIMlVzRG1GeUNmY0pWOG5ZOFYtUFhQbzFFSnVoaEx3TmVjWHhvNw?oc=5\" target=\"_blank\">Sonam Wangchuk Hunger Strike 2026: Why He Is Protesting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObDNfWjhWOFJyMDBqMmtjWmF3WkN0SzZjakZOYVFNZVU1OTNvbXZOUGpGczdFcnZqc3kwcEF4LXBiLVRDcTlJZnRqX1NsV25xMDVmNG1MaVRnZ3h5Mld4RUFhaFRRUEZXLUdKRzlCc1QxMHd0TERLWm1McmpUbVFnUWc4WXhOQUgyNi03dW80SmtUd9IBmAFBVV95cUxPUjcxQmF3Ni02Zm04UHc4M0duUUViTlVURXJzRW5WUFozSzVUeWtQRS1ndkpZZWh0NWZGWmtSRWh6U0FyRzRTY1d4b0ZnU2JpLUZsTHJTTEFUOWpZdlpLYWQtdEstcGF6UXdzWGpMcWhyT3hIMlVzRG1GeUNmY0pWOG5ZOFYtUFhQbzFFSnVoaEx3TmVjWHhvNw?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh Set to Launch India’s First High-Altitude Wildlife Safari",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGtZaHM1ZXhRbzc3SXpFVmhmd2hGTUJ3LTFWTUllcUZNelJXWkY5RUlsd0RKQzlFSW9KZ3NPcm9xVEVUZGsybjAzNEpZRDRuSGhaNENZYmo4QXhqZFlUWnNqdFhLdFUzdFFtTF9ZNmY1Tm0tVGxOMnN3VnBpNGF4WExvazRPLVVfdEN4Sl9fQ0M3Z042SjNBaXA4M3FXcVYxeEI1T2E1S1gteEhieFk0MEN5aWd2anhidGtfMzVQOFBwZ9IBxwFBVV95cUxPNHVJclNyUlI0aHVpUUVqRDZ4aU1Ob1ZZZXl6ZlpzNGtHYkw1ekRXUGhOTjhXNDdBa1BTLTBqWEozaVdlQXZYNkpXbXBTT1E1QzFyUEdqZTBEblB1UnQ2aW0tRTRPR0ZtX2t2YklvSWRhdTZsRFZraG03TzZpaXJiZG02ekJoV3pGQk5adTlqVW91ZjNqRTNsSlYxNksyLTc4RF9hUm9TNHNOcG1KRzhOemNmZDVrd1kwdFIwczhXVmNvTWVBUDEw?oc=5\" target=\"_blank\">Ladakh Set to Launch India’s First High-Altitude Wildlife Safari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGtZaHM1ZXhRbzc3SXpFVmhmd2hGTUJ3LTFWTUllcUZNelJXWkY5RUlsd0RKQzlFSW9KZ3NPcm9xVEVUZGsybjAzNEpZRDRuSGhaNENZYmo4QXhqZFlUWnNqdFhLdFUzdFFtTF9ZNmY1Tm0tVGxOMnN3VnBpNGF4WExvazRPLVVfdEN4Sl9fQ0M3Z042SjNBaXA4M3FXcVYxeEI1T2E1S1gteEhieFk0MEN5aWd2anhidGtfMzVQOFBwZ9IBxwFBVV95cUxPNHVJclNyUlI0aHVpUUVqRDZ4aU1Ob1ZZZXl6ZlpzNGtHYkw1ekRXUGhOTjhXNDdBa1BTLTBqWEozaVdlQXZYNkpXbXBTT1E1QzFyUEdqZTBEblB1UnQ2aW0tRTRPR0ZtX2t2YklvSWRhdTZsRFZraG03TzZpaXJiZG02ekJoV3pGQk5adTlqVW91ZjNqRTNsSlYxNksyLTc4RF9hUm9TNHNOcG1KRzhOemNmZDVrd1kwdFIwczhXVmNvTWVBUDEw?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Sonam Wangchuk: The hunger striking engineer demanding Indian education reforms",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoaDUxRXVwNVp6bUM4aWhhRGpVR0pwQ29tbmZZaTZkaTk0UDhUbEdiRUV1dzc2WUt2QlNYVEU1a0tVOElvLWtIbGVrenZBZXh6dk9pdmczYm9JQQ?oc=5\" target=\"_blank\">Sonam Wangchuk: The hunger striking engineer demanding Indian education reforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoaDUxRXVwNVp6bUM4aWhhRGpVR0pwQ29tbmZZaTZkaTk0UDhUbEdiRUV1dzc2WUt2QlNYVEU1a0tVOElvLWtIbGVrenZBZXh6dk9pdmczYm9JQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Mon, 20 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "‘Maximum government, minimum governance’: Ladakh groups slam new hill councils",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXd1aDlnTzFWWjJDRTJmZkZFMW56b1h5SXhIRGRfQXM3eDdFc0NGSmdJTkwyNUJ3RGpULW5jWHNIV3RBVjJobXlhRU5HWDU2RUIzd0psdWktNHk1cW9SM21qdFRCWmdMMC1IcTd6R2Y0Z0ZBMWdoTm10YXBKNTg1c2FCUE9JUFlHbW5RY3hMUjdjWHVVWG1SMURRa1dxeHBpbFFJ0gGqAUFVX3lxTE9fMDl2SWpxVlgwaEtrZ3ZySkpCbkJnZEJFb0xWSFVrcmNUNjYyMzhKMEs5VEpiem9wVzQ3NmEwSk1aZXBTbzlHQm12MWVEMVRxMENSZ2VCbXdkU1AtQXZhTHR6NTUzTTRtUUdwRkNXTDRnai1LODJxV2RNRnZTVDhEUVpsbDZXWXhETm9XSkdmaENMZEFPZnAxUF9FOEd2QUVia3liU2dxb0p3?oc=5\" target=\"_blank\">‘Maximum government, minimum governance’: Ladakh groups slam new hill councils</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXd1aDlnTzFWWjJDRTJmZkZFMW56b1h5SXhIRGRfQXM3eDdFc0NGSmdJTkwyNUJ3RGpULW5jWHNIV3RBVjJobXlhRU5HWDU2RUIzd0psdWktNHk1cW9SM21qdFRCWmdMMC1IcTd6R2Y0Z0ZBMWdoTm10YXBKNTg1c2FCUE9JUFlHbW5RY3hMUjdjWHVVWG1SMURRa1dxeHBpbFFJ0gGqAUFVX3lxTE9fMDl2SWpxVlgwaEtrZ3ZySkpCbkJnZEJFb0xWSFVrcmNUNjYyMzhKMEs5VEpiem9wVzQ3NmEwSk1aZXBTbzlHQm12MWVEMVRxMENSZ2VCbXdkU1AtQXZhTHR6NTUzTTRtUUdwRkNXTDRnai1LODJxV2RNRnZTVDhEUVpsbDZXWXhETm9XSkdmaENMZEFPZnAxUF9FOEd2QUVia3liU2dxb0p3?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "ONGC drills second geothermal well in Ladakh, advances India's first pilot",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlRJOG92cWhmWWo1QllQcXNaalhlWUFxVmp4QXlURW15YVdpSlAxbFVxdXhKR3lpRXNfR0pPLWNwY1NRTmIteVk4ZEJNdGhuM2lMeUFWd3V0SW5UWG9VWFp2SG9aVms2UjExSkNCZllZanhicklVSElNOFJmeGM1Vk1yaHhHYXB0OHJERWlZREN1a09kTjZHQ1l6c2RYZXlYaGdrMlJVamxVS0pKdGMtTjRKT2N5OVhGV19pZnh6a05ocWpmX3Z2N1I1Tmh5OUljbFlySWpyUdIB3AFBVV95cUxQN1lNMFFqTFVHSHo4azN1TFFfUEFqZFlfZkwwR0lLYnpTTnpDVllfRXZSY2dseXdFQTFxSUU4aExoRnQ4ZHJKMU9ZM1BtckVodWJ5alVEc2xQd24tcVVmN25acjBhOWdkSHMzWjlfaHgzNWd1aGVjNW13WXgxdFZhQzg3aWh4MXhheUxVTWRublhpT2NHVnR3NTFKWEtQci0tTV96YWxZNkwtLWtyUlhqckF3N19yQWRxeVhJcTNaUGdEdGwxWUlMUlJzWnJDdjR4VWQ0eC0tMkR1blZL?oc=5\" target=\"_blank\">ONGC drills second geothermal well in Ladakh, advances India's first pilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlRJOG92cWhmWWo1QllQcXNaalhlWUFxVmp4QXlURW15YVdpSlAxbFVxdXhKR3lpRXNfR0pPLWNwY1NRTmIteVk4ZEJNdGhuM2lMeUFWd3V0SW5UWG9VWFp2SG9aVms2UjExSkNCZllZanhicklVSElNOFJmeGM1Vk1yaHhHYXB0OHJERWlZREN1a09kTjZHQ1l6c2RYZXlYaGdrMlJVamxVS0pKdGMtTjRKT2N5OVhGV19pZnh6a05ocWpmX3Z2N1I1Tmh5OUljbFlySWpyUdIB3AFBVV95cUxQN1lNMFFqTFVHSHo4azN1TFFfUEFqZFlfZkwwR0lLYnpTTnpDVllfRXZSY2dseXdFQTFxSUU4aExoRnQ4ZHJKMU9ZM1BtckVodWJ5alVEc2xQd24tcVVmN25acjBhOWdkSHMzWjlfaHgzNWd1aGVjNW13WXgxdFZhQzg3aWh4MXhheUxVTWRublhpT2NHVnR3NTFKWEtQci0tTV96YWxZNkwtLWtyUlhqckF3N19yQWRxeVhJcTNaUGdEdGwxWUlMUlJzWnJDdjR4VWQ0eC0tMkR1blZL?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Sun, 12 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Hero Xpulse 421 seen in Ladakh! Big ADV gets closer to launch",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3p0VnA4M1RzVmUzX3hkRHZaelJvYUNUUHZaX3JjRVBRaVVlU1BrYTI5QkN3cTJqWkhxOUZoaGg0SU0xZG5GTEZUMnkzZmFWR0k0MXZ2OXU5al9VQnZYdHk1RGRkUVJBQXFmSU8xNDVLTUN5RDFOd2tveVhKVGpvbnFRODNsdVgxYkZJVEkycDhNcmdlU2N5VlR6dDZibkdVNnRHNWJadXd4QTFneFZmQk91MVpCY19KbXdLMXV5T2otSTNrMHFtUnJnVWxxQdIB0wFBVV95cUxQMmxtTm1HWGtFdFoxS3ZqWW9aTGY3YnhSOFZmZkNYR1E1TU9WLXFndkV0RGJVbW1ZSVBsTTlWZG1rcFpQS2VfM1E4RWFrc0hYU2NMODhmMnVhbGNWWllpc2F5RFZJNU12MzJTQXhVY2NGVEVpZnRmc3R2Ul84N3FsSTZ5ejlIb1JVcGkxQVh1SC1lZGEwUUtfVEQ4MV8waEl1SlV6MElOcWo0ZHNIdVJvYmJ2WmxySEctZ2hHZFlWNHNsY1NjME9vVXIzRXd6UERibS00?oc=5\" target=\"_blank\">Hero Xpulse 421 seen in Ladakh! Big ADV gets closer to launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3p0VnA4M1RzVmUzX3hkRHZaelJvYUNUUHZaX3JjRVBRaVVlU1BrYTI5QkN3cTJqWkhxOUZoaGg0SU0xZG5GTEZUMnkzZmFWR0k0MXZ2OXU5al9VQnZYdHk1RGRkUVJBQXFmSU8xNDVLTUN5RDFOd2tveVhKVGpvbnFRODNsdVgxYkZJVEkycDhNcmdlU2N5VlR6dDZibkdVNnRHNWJadXd4QTFneFZmQk91MVpCY19KbXdLMXV5T2otSTNrMHFtUnJnVWxxQdIB0wFBVV95cUxQMmxtTm1HWGtFdFoxS3ZqWW9aTGY3YnhSOFZmZkNYR1E1TU9WLXFndkV0RGJVbW1ZSVBsTTlWZG1rcFpQS2VfM1E4RWFrc0hYU2NMODhmMnVhbGNWWllpc2F5RFZJNU12MzJTQXhVY2NGVEVpZnRmc3R2Ul84N3FsSTZ5ejlIb1JVcGkxQVh1SC1lZGEwUUtfVEQ4MV8waEl1SlV6MElOcWo0ZHNIdVJvYmJ2WmxySEctZ2hHZFlWNHNsY1NjME9vVXIzRXd6UERibS00?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 16 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Knowledge Nugget | Puga Valley: What does it mean to be India’s first geothermal power project?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeWpZRXRWdlpfcU5mSFhTMkNFeGRjX3IxdFlqWnpkdl91VE5rYVQ3azhjbnhDSmppU01mdUxaUUIyQnJRMzMxN3VuaUZ2bUhOMlRaUTNIdlpkQV9JLXpkTi1xc25uRGVxRTZLZmpCck5oUTNKR3phUUxta0Npamg5U3Nfbi1ueEw0QUhOX25nekE2d1lweVI3ekJycWZQM2x1NHUzbzROVDh0Y1E5SkEyd3Z0bnk1M19vMENsdW5rWUhzRkc2Zk01TEZTbG9fUXhJVUxSRExfaHJhWmEyQlhr0gHmAUFVX3lxTE1CMk1oOGhuTjZmbm0xUGFpTkJPX0c2RW1HdEMwZUdvQndNNjlOZGRTbVFuU1pMZU5ZWXdqaXpDcUYxLXE0d2I2Z2VvaVZsOHN4SWV3ajhFMHNmZWgtT3A5alJ2Q016bGJOV0otU1NyTWR3Y3JUeTg5UEw2eWk1cTBHSm02SkJnbjViLWdsQXZ0RDZmTDh3QU5JUU9Gb2MxOHgxb2hJSUNhOTBzX0JSOUJJUkJHXzRJVWRWLWZ3RFk2UDhVVGtOOTF4dWM1MzA1c1dLM3ZSaWZfcUVfVWt5aUgwZVdtT1pR?oc=5\" target=\"_blank\">Knowledge Nugget | Puga Valley: What does it mean to be India’s first geothermal power project?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeWpZRXRWdlpfcU5mSFhTMkNFeGRjX3IxdFlqWnpkdl91VE5rYVQ3azhjbnhDSmppU01mdUxaUUIyQnJRMzMxN3VuaUZ2bUhOMlRaUTNIdlpkQV9JLXpkTi1xc25uRGVxRTZLZmpCck5oUTNKR3phUUxta0Npamg5U3Nfbi1ueEw0QUhOX25nekE2d1lweVI3ekJycWZQM2x1NHUzbzROVDh0Y1E5SkEyd3Z0bnk1M19vMENsdW5rWUhzRkc2Zk01TEZTbG9fUXhJVUxSRExfaHJhWmEyQlhr0gHmAUFVX3lxTE1CMk1oOGhuTjZmbm0xUGFpTkJPX0c2RW1HdEMwZUdvQndNNjlOZGRTbVFuU1pMZU5ZWXdqaXpDcUYxLXE0d2I2Z2VvaVZsOHN4SWV3ajhFMHNmZWgtT3A5alJ2Q016bGJOV0otU1NyTWR3Y3JUeTg5UEw2eWk1cTBHSm02SkJnbjViLWdsQXZ0RDZmTDh3QU5JUU9Gb2MxOHgxb2hJSUNhOTBzX0JSOUJJUkJHXzRJVWRWLWZ3RFk2UDhVVGtOOTF4dWM1MzA1c1dLM3ZSaWZfcUVfVWt5aUgwZVdtT1pR?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh to launch India's first high-altitude wildlife safari, LG approves eco-tourism initiative",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3RxSzkwMWJwUk5mLWR6dGhQS05uWExyUUN4VVdqM1VKU3l2azZQVGZZTTkwd0QyaVEtWHR6cUtMOTJ0ZGNqSy00WkU0WktLNzd0RTFma3RGZ21TazBuazJRMWE2YVk2blpEemFsVVUwYUZ6NmZkRlVEVndlZXdYUVJINFpNb3VEOFNaUURpY2dLRG9xaXNkWUZ5UVlHYjdvUkV3X0JtcVJkOHhqWWttbWRtYXJDdkhnUUw5T254cWhVYXVBMkF1Xzl2VzRyTlpTQk1sWmpJU19zT19wdFVhNzctRjl3d2VfcW1OaHVDQnDSAfYBQVVfeXFMTzFTdFN2eC1sWmRmY3BZZFViUUg5N2JVRFdzYnZrZlZYNkVTZTBVcGgxdHRXZ3dXYktTNDJzMVJzVkE1M3p5VGVXTUlNaXljQWtMaW5od3NqQmRPb1FZM2R4OG1vRkVTVFNQckZiWDZoOFVtZ19rQkdMV1RsTi0wQVBXRmZaNGtiVEhLelJlTkF4XzR1TWRTNm5FTGVEejUtdUJUaEZ1akR4OEJlLW95QWhONDlNRzBBWU1kUnp5X05WYnFvYnNMTzM0NTJnV1htWXBjbEg2R2dhZVRnQW41bXAzVDVjZVJkOEF6T0RfdlpjTHh5RHRB?oc=5\" target=\"_blank\">Ladakh to launch India's first high-altitude wildlife safari, LG approves eco-tourism initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3RxSzkwMWJwUk5mLWR6dGhQS05uWExyUUN4VVdqM1VKU3l2azZQVGZZTTkwd0QyaVEtWHR6cUtMOTJ0ZGNqSy00WkU0WktLNzd0RTFma3RGZ21TazBuazJRMWE2YVk2blpEemFsVVUwYUZ6NmZkRlVEVndlZXdYUVJINFpNb3VEOFNaUURpY2dLRG9xaXNkWUZ5UVlHYjdvUkV3X0JtcVJkOHhqWWttbWRtYXJDdkhnUUw5T254cWhVYXVBMkF1Xzl2VzRyTlpTQk1sWmpJU19zT19wdFVhNzctRjl3d2VfcW1OaHVDQnDSAfYBQVVfeXFMTzFTdFN2eC1sWmRmY3BZZFViUUg5N2JVRFdzYnZrZlZYNkVTZTBVcGgxdHRXZ3dXYktTNDJzMVJzVkE1M3p5VGVXTUlNaXljQWtMaW5od3NqQmRPb1FZM2R4OG1vRkVTVFNQckZiWDZoOFVtZ19rQkdMV1RsTi0wQVBXRmZaNGtiVEhLelJlTkF4XzR1TWRTNm5FTGVEejUtdUJUaEZ1akR4OEJlLW95QWhONDlNRzBBWU1kUnp5X05WYnFvYnNMTzM0NTJnV1htWXBjbEg2R2dhZVRnQW41bXAzVDVjZVJkOEF6T0RfdlpjTHh5RHRB?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:32+00:00"
+  }
+ ]
+}

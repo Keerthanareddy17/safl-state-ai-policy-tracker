@@ -1,0 +1,76 @@
+{
+ "region": "Jammu and Kashmir",
+ "group": "A",
+ "query": "(\"Jammu and Kashmir\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Jammu+and+Kashmir%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:39+00:00",
+ "item_count": 6,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Guinness Record Marks India’s AI Resolve",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVVMMDVDbFlMREZIdnJNcW1QYjRrdFJEb0w1NzczRnBXd1QxeW85VXM4UkRLOUFZTEh5cG1hbTA4VE1EY2RDTkFkbmhabWh3Z3l0eVE5VTdHTERRTW11N1J5T3BIZGJuX3FPWjJ3SUppcG5FMEhDSjM4enpIWjdWa3hJNEd0cE1a?oc=5\" target=\"_blank\">Guinness Record Marks India’s AI Resolve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVVMMDVDbFlMREZIdnJNcW1QYjRrdFJEb0w1NzczRnBXd1QxeW85VXM4UkRLOUFZTEh5cG1hbTA4VE1EY2RDTkFkbmhabWh3Z3l0eVE5VTdHTERRTW11N1J5T3BIZGJuX3FPWjJ3SUppcG5FMEhDSjM4enpIWjdWa3hJNEd0cE1a?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Kashmir’s Endless Wait for Statehood – and Hope",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXR0enNWZXJJYXh0eDkyNjl3RmdjM3I5SzY4aVJreFZHY2ZVa1ZuVFlUT3pxR0VTXzhLY0lKUDhCR2pfallfUVlqUWdKbVlCeE92ejk2WmVOV0dNRjdOQTlIaUJINGtSSkRuRGUwV2MxTnQ2U2hSU2x5ZXB4SV94UWxqTQ?oc=5\" target=\"_blank\">Kashmir’s Endless Wait for Statehood – and Hope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXR0enNWZXJJYXh0eDkyNjl3RmdjM3I5SzY4aVJreFZHY2ZVa1ZuVFlUT3pxR0VTXzhLY0lKUDhCR2pfallfUVlqUWdKbVlCeE92ejk2WmVOV0dNRjdOQTlIaUJINGtSSkRuRGUwV2MxTnQ2U2hSU2x5ZXB4SV94UWxqTQ?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Sat, 14 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Solstice Data Signs ₹52,600 Crore MoU to Set Up AI Data Centre in Kerala",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxORFlVejBXMzBGUFdkaHlNbzVTSlJjLVZUNzU3R1dEc3l5WG1lV201TmRTSC1EWUhseFh3YXVHbnFobEpiME42QnZZeXo0TWx0Y3dXLVIwNm1yc014clpJZEtoLXFLRnNEaVpHczBqY2JOUjRfNW5sOFVLdzVTbUtUV2Z0cFBLRFY2Y09YMXZqLUswc2lGeWVPY0J0eUtEZ0VOWmtubVFxTnNBVHVk?oc=5\" target=\"_blank\">Solstice Data Signs ₹52,600 Crore MoU to Set Up AI Data Centre in Kerala</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFlVejBXMzBGUFdkaHlNbzVTSlJjLVZUNzU3R1dEc3l5WG1lV201TmRTSC1EWUhseFh3YXVHbnFobEpiME42QnZZeXo0TWx0Y3dXLVIwNm1yc014clpJZEtoLXFLRnNEaVpHczBqY2JOUjRfNW5sOFVLdzVTbUtUV2Z0cFBLRFY2Y09YMXZqLUswc2lGeWVPY0J0eUtEZ0VOWmtubVFxTnNBVHVk?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Tue, 17 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "India Speeding Towards TB Elimination",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB0a2IxXzFjeHd6dDZwOVhxTE9ZRHlQQmt6aEdSSUV5eGR6Z1MteDJpLWtrR2wzYTktNzc4RTFVTExDWVUzd05iNzY4NUhPNW5RS2g4UFI1aXBRSDN2MS0zQlloNGZkOW5ubm1DN2RmM0o0Nl9aYW9Kanpn?oc=5\" target=\"_blank\">India Speeding Towards TB Elimination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0a2IxXzFjeHd6dDZwOVhxTE9ZRHlQQmt6aEdSSUV5eGR6Z1MteDJpLWtrR2wzYTktNzc4RTFVTExDWVUzd05iNzY4NUhPNW5RS2g4UFI1aXBRSDN2MS0zQlloNGZkOW5ubm1DN2RmM0o0Nl9aYW9Kanpn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Features | PIB",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRXgyUUlJREhYQTY3QXFBbndwYkVFb2VfbXU1eGFtemk0S1Vhb0MwZHZ0Smpnd3pyeTdxVFNXbTFsQVRIbXhKVzI0b2pMamM4Vi1lREU4RkFtUU9TT1Ywc1BCQWtRRENY?oc=5\" target=\"_blank\">Features | PIB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRXgyUUlJREhYQTY3QXFBbndwYkVFb2VfbXU1eGFtemk0S1Vhb0MwZHZ0Smpnd3pyeTdxVFNXbTFsQVRIbXhKVzI0b2pMamM4Vi1lREU4RkFtUU9TT1Ywc1BCQWtRRENY?oc=5",
+   "source_name": "pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "AI subject under consideration in schools: Jammu and Kashmir Education Minister Sakeena Itoo",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDJCQ1U4M1Bsa3JicnAtQVZvT3pzdHVxVjRuN3loQ3NLUmtvYS1CTndhZExTYkV0NXNsZmNIRXFaZUg5Sng3dnowd2Q5ajFSak54SWIwdzc0aVRURWRjZEMtVTdZSzdmQ0FMaGJyZll6akpNSHVlX3VXTktCNEVEcG83NEhyelJWWHNvaE5B0gGSAUFVX3lxTE1Uck84Q3daWTlvSHdSTkdweXRWd3YxczNjTzRZNVpZeF92RDJ0X1hqX2QydHA2b0FnV21vaUpsR3V4TTlkSHA3YjE3OUVtb05INHF3b0xnek1wN2hhN05pdFc2QkljS0tkTjJ0ZW1jOG1QRE5neG1TbllKM0VWeVlQYkVmYmg1Wm1oZ2pZMFRrSFBR?oc=5\" target=\"_blank\">AI subject under consideration in schools: Jammu and Kashmir Education Minister Sakeena Itoo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDJCQ1U4M1Bsa3JicnAtQVZvT3pzdHVxVjRuN3loQ3NLUmtvYS1CTndhZExTYkV0NXNsZmNIRXFaZUg5Sng3dnowd2Q5ajFSak54SWIwdzc0aVRURWRjZEMtVTdZSzdmQ0FMaGJyZll6akpNSHVlX3VXTktCNEVEcG83NEhyelJWWHNvaE5B0gGSAUFVX3lxTE1Uck84Q3daWTlvSHdSTkdweXRWd3YxczNjTzRZNVpZeF92RDJ0X1hqX2QydHA2b0FnV21vaUpsR3V4TTlkSHA3YjE3OUVtb05INHF3b0xnek1wN2hhN05pdFc2QkljS0tkTjJ0ZW1jOG1QRE5neG1TbllKM0VWeVlQYkVmYmg1Wm1oZ2pZMFRrSFBR?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:39+00:00"
+  }
+ ]
+}

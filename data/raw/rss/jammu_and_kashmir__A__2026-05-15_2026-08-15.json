@@ -1,0 +1,109 @@
+{
+ "region": "Jammu and Kashmir",
+ "group": "A",
+ "query": "(\"Jammu and Kashmir\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Jammu+and+Kashmir%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:40+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "The Supreme Court Just Caught AI Faking Precedents. The Harder Problem Is What It Cannot Catch.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1uY08tWjZ6YkRtTHFOUW1iVkVFMlZWZ0duNzNwWm8ySV9ISlY2ZUJxeUpwNUdlLTdpNV9xNHNxYmplTTBSOTQ0VXFvdnN4eWxiV3R5Qk5fOUx4d2lnbkVGOG9qZ1BkR0xIN0RUTU5hNmlpMUpYWURzYg?oc=5\" target=\"_blank\">The Supreme Court Just Caught AI Faking Precedents. The Harder Problem Is What It Cannot Catch.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IMPRI Impact and Policy Research Institute</font>",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uY08tWjZ6YkRtTHFOUW1iVkVFMlZWZ0duNzNwWm8ySV9ISlY2ZUJxeUpwNUdlLTdpNV9xNHNxYmplTTBSOTQ0VXFvdnN4eWxiV3R5Qk5fOUx4d2lnbkVGOG9qZ1BkR0xIN0RUTU5hNmlpMUpYWURzYg?oc=5",
+   "source_name": "IMPRI Impact and Policy Research Institute",
+   "source_domain": "impriindia.com",
+   "published_raw": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Semiconductor and AI Revolution",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA2RzJwZ2V0b0lyVFc2UnNHUmdjLTJEVmFTNllJVGQwNHM2X3pHMUhjME8zX1FzZU5UV0hrY1lSVndib2YzVkxpVU54RjhKN25NaTdyNjBaYS1IbDU5cmFIZk1PZm9XejNTVjFtbWpDemZqUXp1MFl3?oc=5\" target=\"_blank\">Semiconductor and AI Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2RzJwZ2V0b0lyVFc2UnNHUmdjLTJEVmFTNllJVGQwNHM2X3pHMUhjME8zX1FzZU5UV0hrY1lSVndib2YzVkxpVU54RjhKN25NaTdyNjBaYS1IbDU5cmFIZk1PZm9XejNTVjFtbWpDemZqUXp1MFl3?oc=5",
+   "source_name": "pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 13 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "SC Sets Aside Orders in Jammu and Kashmir Bank Case over AI-Hallucinated Judgments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFhNYXdHOTI1QU9tY0F1YzRRdkFCS0NzZzBmbEVBSHJyUmxqSzk3Nnl5d29tS3o5TVU0dzlhX2pBX0hfY203eDF4YWFkbnA4YlhTRktnQlZNODlfVkFCNTFkcFZOOXJzOVZHTGI0TkNxVlMwaVhyMDNOSFdQVHZlQjROd0JKM1NEM3ZpalZHMlNnRTNIMW43THBrMlU5YVZQa1ZhbzBiMVJETFNDQVFKbjZWRDU?oc=5\" target=\"_blank\">SC Sets Aside Orders in Jammu and Kashmir Bank Case over AI-Hallucinated Judgments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kashmir Life</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFhNYXdHOTI1QU9tY0F1YzRRdkFCS0NzZzBmbEVBSHJyUmxqSzk3Nnl5d29tS3o5TVU0dzlhX2pBX0hfY203eDF4YWFkbnA4YlhTRktnQlZNODlfVkFCNTFkcFZOOXJzOVZHTGI0TkNxVlMwaVhyMDNOSFdQVHZlQjROd0JKM1NEM3ZpalZHMlNnRTNIMW43THBrMlU5YVZQa1ZhbzBiMVJETFNDQVFKbjZWRDU?oc=5",
+   "source_name": "Kashmir Life",
+   "source_domain": "kashmirlife.net",
+   "published_raw": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "'AI Should Aid, Not Replace Human Reasoning': Supreme Court on Fake Case Law",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFJqbUNPTHBDRVd5dkVacHFLMmhSOERuUDhnTVZIQ2xpNVBTWThyU3UxbktRSnZXX2RWbGlGeDlSQjBzM3dnbmYwX1psNFE4YUhIMmZaN09sT0JKSUxWRE9UYkFKbUZOSEl0aWpmZG9nVW9SVXgxOU81al8zQ3BYai02VzFDZmVEejJvb25QX1NpdlRQeFR1ZDJYZFlIM1FHRUY4SkxNaVY4aU5xUFN3Zl9BZnY0OU8xUDhzOTQyaFHSAcYBQVVfeXFMTnhDS3pCUnUxVF9OenB0ekZpM3RoeTRJa1ZjMnlva2tKSFBBYy1mdnVGemVoM0lnYXF3eVM5NWpZZmYxREVZcU1xajZmbHgza0FZSTcwSmZ5aDhOaXdZU2UyQzBDWXhfWDRwNGRIbElJS3pHNURaZFVHZFRJWDV5dFJwN0Q0aFZPckpPTlZUZGw3TVNVWnJaTnhMbEFOMGV4S0g1Z21BVW9BeUprampydzJ1NE5leFRXdXE4bjhidm9Sc05mNUdB?oc=5\" target=\"_blank\">'AI Should Aid, Not Replace Human Reasoning': Supreme Court on Fake Case Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LawBeat</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFJqbUNPTHBDRVd5dkVacHFLMmhSOERuUDhnTVZIQ2xpNVBTWThyU3UxbktRSnZXX2RWbGlGeDlSQjBzM3dnbmYwX1psNFE4YUhIMmZaN09sT0JKSUxWRE9UYkFKbUZOSEl0aWpmZG9nVW9SVXgxOU81al8zQ3BYai02VzFDZmVEejJvb25QX1NpdlRQeFR1ZDJYZFlIM1FHRUY4SkxNaVY4aU5xUFN3Zl9BZnY0OU8xUDhzOTQyaFHSAcYBQVVfeXFMTnhDS3pCUnUxVF9OenB0ekZpM3RoeTRJa1ZjMnlva2tKSFBBYy1mdnVGemVoM0lnYXF3eVM5NWpZZmYxREVZcU1xajZmbHgza0FZSTcwSmZ5aDhOaXdZU2UyQzBDWXhfWDRwNGRIbElJS3pHNURaZFVHZFRJWDV5dFJwN0Q0aFZPckpPTlZUZGw3TVNVWnJaTnhMbEFOMGV4S0g1Z21BVW9BeUprampydzJ1NE5leFRXdXE4bjhidm9Sc05mNUdB?oc=5",
+   "source_name": "LawBeat",
+   "source_domain": "lawbeat.in",
+   "published_raw": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Zero-Tolerance For Using AI-Generated Precedents Without Verification: Supreme Court Sets Aside NCLT,...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNT19TMjdxaXZWYjcybEs2OTBlejFaMTVuRk9ZODJHRmQzS0NRbGZzTXp2UnZDNTc4RnIxdTRvQi1VWk9PVEhIaVliamVhbnFsNFctOTFaeGhvczA1TVdoQ2tVZHBtbEI1NzItZ1gyejdTZjUxYldBaVdLY21zMDVkNFVMMU93XzV3UVpXTVp4bnZSYi1CMXNRcm02dS1IY0EyWm1aU3NOYjdhV3VKekxLakpVamtMUmV2NlNiVVFfSHNLUkZxV3lXNXRudknSAdIBQVVfeXFMUGtsTUsyWVNZQUFhb240TGk4MFU3V0hDREF0YVdHS0RTZlpTOTNXOExteHUxbEtDV1dSZFNHWklBWFhNVXZxQVcwN3pwNlc2VkFJLThERHBoS0FoaGxlNEdHOVdjTTI2cmpGQnVMRmZrNzk5VzhzbkdPZUtPZFd1aXdBRWdsaWFRRG1jc2tPdmZ4SkpZdk9RMlJNSEtJZGN4SGZreGQwRFUxX2hqR0tXdFJ2VjhIemlvOHpNZFRreVBwZ2pVcElNTVZNYms4NVhFOVhB?oc=5\" target=\"_blank\">Zero-Tolerance For Using AI-Generated Precedents Without Verification: Supreme Court Sets Aside NCLT,...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Verdictum</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT19TMjdxaXZWYjcybEs2OTBlejFaMTVuRk9ZODJHRmQzS0NRbGZzTXp2UnZDNTc4RnIxdTRvQi1VWk9PVEhIaVliamVhbnFsNFctOTFaeGhvczA1TVdoQ2tVZHBtbEI1NzItZ1gyejdTZjUxYldBaVdLY21zMDVkNFVMMU93XzV3UVpXTVp4bnZSYi1CMXNRcm02dS1IY0EyWm1aU3NOYjdhV3VKekxLakpVamtMUmV2NlNiVVFfSHNLUkZxV3lXNXRudknSAdIBQVVfeXFMUGtsTUsyWVNZQUFhb240TGk4MFU3V0hDREF0YVdHS0RTZlpTOTNXOExteHUxbEtDV1dSZFNHWklBWFhNVXZxQVcwN3pwNlc2VkFJLThERHBoS0FoaGxlNEdHOVdjTTI2cmpGQnVMRmZrNzk5VzhzbkdPZUtPZFd1aXdBRWdsaWFRRG1jc2tPdmZ4SkpZdk9RMlJNSEtJZGN4SGZreGQwRFUxX2hqR0tXdFJ2VjhIemlvOHpNZFRreVBwZ2pVcElNTVZNYms4NVhFOVhB?oc=5",
+   "source_name": "Verdictum",
+   "source_domain": "verdictum.in",
+   "published_raw": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Citing AI-Generated Fake Precedents Is Advocate Misconduct; Judgments Based On Them Are Void : Supreme...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDAtX1drRmNFVVhMYUhHblRRQjJfOFJGUGFLZW1ieTlaOVFUZ3FlNVkwZVVaMkdqMzNfd3lJU2piQkwzZERSVFNhOUJ5dFdMR2xMUDNTLTJEVnNacjY2RVREbUZPQ1c3MVlsbV9CUlNDUHJuWS1ZR191TEpod3NsOTRHR1cyWHdEUm9mclhkVWdsZXNyMGpxcjBscm12WmYweWV6OVNndjN3dnRVenpxSU4wQUtyZUxZX0YtM2JVdDU5WmlZNkQ0aXlfaXU5Nm05QW44U0JnWWxIMVUyNjZMQ3JLb9IB6AFBVV95cUxQZU9CMXBmbEYwVnpmdWdsVEtFT0x3d2xyZzAtdXA3LTVvZURrbjEyaWdMQ3lZQmFtOEkwOHVkeGN3UmZDdzBtc2daU0hTQ2F2MXg4QS1CR3ViaDdzMDZMclVlVmhoSG9jZWpwNzdLclhZV2h3X0pheXJsN25DaDFETlp3cjNfb2FfS3Z3YjdPZjBIcW5CS29BbUVVdk5TUXI1OU9nZDZDZHg3c0ZmaGpmOER6N1dHODFWYXloQ0NOS3Q1bjNTN3ZWSUhiWXlTb2RBN3NkOGpBQWZRTHlneE44UFFWYWtWUFNx?oc=5\" target=\"_blank\">Citing AI-Generated Fake Precedents Is Advocate Misconduct; Judgments Based On Them Are Void : Supreme...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Law</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDAtX1drRmNFVVhMYUhHblRRQjJfOFJGUGFLZW1ieTlaOVFUZ3FlNVkwZVVaMkdqMzNfd3lJU2piQkwzZERSVFNhOUJ5dFdMR2xMUDNTLTJEVnNacjY2RVREbUZPQ1c3MVlsbV9CUlNDUHJuWS1ZR191TEpod3NsOTRHR1cyWHdEUm9mclhkVWdsZXNyMGpxcjBscm12WmYweWV6OVNndjN3dnRVenpxSU4wQUtyZUxZX0YtM2JVdDU5WmlZNkQ0aXlfaXU5Nm05QW44U0JnWWxIMVUyNjZMQ3JLb9IB6AFBVV95cUxQZU9CMXBmbEYwVnpmdWdsVEtFT0x3d2xyZzAtdXA3LTVvZURrbjEyaWdMQ3lZQmFtOEkwOHVkeGN3UmZDdzBtc2daU0hTQ2F2MXg4QS1CR3ViaDdzMDZMclVlVmhoSG9jZWpwNzdLclhZV2h3X0pheXJsN25DaDFETlp3cjNfb2FfS3Z3YjdPZjBIcW5CS29BbUVVdk5TUXI1OU9nZDZDZHg3c0ZmaGpmOER6N1dHODFWYXloQ0NOS3Q1bjNTN3ZWSUhiWXlTb2RBN3NkOGpBQWZRTHlneE44UFFWYWtWUFNx?oc=5",
+   "source_name": "Live Law",
+   "source_domain": "livelaw.in",
+   "published_raw": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Supreme Court: Reliance on AI-Generated Fake Precedents Vitiates Adjudication; Zero Tolerance for Hallucinated Citations",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdsT2d1aFQ5MGE5UndDSkNWQVdHUFUxNHg3UlhhODJWckc3RXNVSkRBVlFxeUlsREpXY2JpMEFQSVV6UXZ2ektqNWF3QlkxbzZjVm9Kamk0Q0p3STZCWWV1cFRNeDhzOEc5eGxNRmU0ZzMtOEpvTXBhT3Y3U09oVkU4MzJkeXJBUUIyeHBjNzRTN0k2T1JOZndpV0N6ZHJtRkRGRE9DbVlUWjFaQlE?oc=5\" target=\"_blank\">Supreme Court: Reliance on AI-Generated Fake Precedents Vitiates Adjudication; Zero Tolerance for Hallucinated Citations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCC Online</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdsT2d1aFQ5MGE5UndDSkNWQVdHUFUxNHg3UlhhODJWckc3RXNVSkRBVlFxeUlsREpXY2JpMEFQSVV6UXZ2ektqNWF3QlkxbzZjVm9Kamk0Q0p3STZCWWV1cFRNeDhzOEc5eGxNRmU0ZzMtOEpvTXBhT3Y3U09oVkU4MzJkeXJBUUIyeHBjNzRTN0k2T1JOZndpV0N6ZHJtRkRGRE9DbVlUWjFaQlE?oc=5",
+   "source_name": "SCC Online",
+   "source_domain": "scconline.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Securing the Nation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1oLXJKMVBmX3ZGVG5mRjVIVGJLZ01jYWVBZEZrdFgzX3cyMWVlZmtqVm9ySExhNGVWNmx5MndOd3Nocm9yUHJ0WGRvQTluSUI3Y0hIV1RlTXlGRlh1SE5xQUhkdVhVOFF3LWlVNVZVSmxOaC02RVF6YnpLRQ?oc=5\" target=\"_blank\">Securing the Nation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oLXJKMVBmX3ZGVG5mRjVIVGJLZ01jYWVBZEZrdFgzX3cyMWVlZmtqVm9ySExhNGVWNmx5MndOd3Nocm9yUHJ0WGRvQTluSUI3Y0hIV1RlTXlGRlh1SE5xQUhkdVhVOFF3LWlVNVZVSmxOaC02RVF6YnpLRQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Supreme Court Sets Aside NCLT Judgment For Using AI-Hallucinated Citations, Asks BCI To Examine Issue",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhYYjFrMDgweGRuTjM4TThuM2JYU202ejhwOWQ2bVlBZ0RWV1A2cGp4YnFtRktBNmw5dG9ST2hCWFNUSTlYb1hLbi1SUDRRSGU2TV96bEVxOHEydTI4b2NmUHlIazlKRV9pZ3RCa1VPMmFQY05pYVNMbTZmZ3liaUNoaXFVb3BmczQySzlLa2t5WkdHWjdGTmZZaVpOMkxTdFNWZDh5dG1MTzFUQ1VmNXdEMGdQWWg2NmxEaVUxTG5KM3dCdUl6UThJenpfTHFOYUg3UUhuUnMzYmpP0gHiAUFVX3lxTFBSUHhabFprWmFieWZnM25OTmFkU2JGVFJOZFRoMHpULTBPMVNMT0NFSTVzQXNnWm9kLThfQTN0M3pQa3U4cWJrd2ZvcGN0cTB2cGVvcmpOdDlSM3FiNXBjNGIySnh1TGZ6eG5fNWF2dnhyTEFyMmN6by0yLWItSDc5TDVnbFNrc19PRlIxTVNNcjNnbXIwUFp6ZHNDTUhJaXBsbks4ejNYd3ZUSU5CeGVzTlp5V0JfdHNib0NFMlF2VGk1QzhUYWFEdG1wVXY4UnNzaGloMVk1SmhSdWZONU15blE?oc=5\" target=\"_blank\">Supreme Court Sets Aside NCLT Judgment For Using AI-Hallucinated Citations, Asks BCI To Examine Issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Law</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhYYjFrMDgweGRuTjM4TThuM2JYU202ejhwOWQ2bVlBZ0RWV1A2cGp4YnFtRktBNmw5dG9ST2hCWFNUSTlYb1hLbi1SUDRRSGU2TV96bEVxOHEydTI4b2NmUHlIazlKRV9pZ3RCa1VPMmFQY05pYVNMbTZmZ3liaUNoaXFVb3BmczQySzlLa2t5WkdHWjdGTmZZaVpOMkxTdFNWZDh5dG1MTzFUQ1VmNXdEMGdQWWg2NmxEaVUxTG5KM3dCdUl6UThJenpfTHFOYUg3UUhuUnMzYmpP0gHiAUFVX3lxTFBSUHhabFprWmFieWZnM25OTmFkU2JGVFJOZFRoMHpULTBPMVNMT0NFSTVzQXNnWm9kLThfQTN0M3pQa3U4cWJrd2ZvcGN0cTB2cGVvcmpOdDlSM3FiNXBjNGIySnh1TGZ6eG5fNWF2dnhyTEFyMmN6by0yLWItSDc5TDVnbFNrc19PRlIxTVNNcjNnbXIwUFp6ZHNDTUhJaXBsbks4ejNYd3ZUSU5CeGVzTlp5V0JfdHNib0NFMlF2VGk1QzhUYWFEdG1wVXY4UnNzaGloMVk1SmhSdWZONU15blE?oc=5",
+   "source_name": "Live Law",
+   "source_domain": "livelaw.in",
+   "published_raw": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:40+00:00"
+  }
+ ]
+}

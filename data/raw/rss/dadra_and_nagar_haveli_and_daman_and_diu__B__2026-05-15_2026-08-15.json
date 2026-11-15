@@ -1,0 +1,120 @@
+{
+ "region": "Dadra and Nagar Haveli and Daman and Diu",
+ "group": "B",
+ "query": "(\"Dadra and Nagar Haveli and Daman and Diu\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Dadra+and+Nagar+Haveli+and+Daman+and+Diu%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:28+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "As told to Parliament (August 5, 2026): INCOIS AI model forecasts El Niño to continue until February 2027 with up to 90% probability",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOZDRZcmhHWWp0dU1OUWdkZDNlX2NsQWt3OWpVcGd0RGdWQTM3ZjJfQlVrVFZOa050LTdlbEM4UTloSFVnNzJubW9fVFF0U0tqanM2Z2RDeFYzN1VfdGhqUVdYS0lrUmx5UzlEMjFkODAzdVZ2aEdQQUJrMEZ4amRMUkdib1E1ZzJSYVFuNlpPTVhyM1gxdVdZZnJsLV9kWnJRNGZyWXZuZ0pTU21Bd3psZ2FjaHJyQ0ZuLUpQRUtuWlJyd0Jjd2FWRk5pcFV6YUxINGIwTF9GV0NPdXdKYmVGT290TzAydnlndXdnek9rLTdWWENiRDFjOHU5LVJQaXJPOG5ERGFFcWZfQdIBlwJBVV95cUxOTXRCTVBMdVVuWlRsNGo5MFNjdTlGS1hDTmJuZXhPRzRhQnI2SjBnc1l0RVlOQy1hS3MyQmN3V3owdTNQd2h6UVltbVUtQzBaWTB0VmFXWnFfZ2ZUdnpWX0lwWUIzZGEtN2puMzU2bkJwV2V1QjN4LXJpZHUwcjVPTVFRaG5aR05jeEpPVkUxWWIwYVFsUmtOOUwtekVoMERPYndYQkZwXzNrTEtrb084RU5BVXpJRDFMN1hZNkJyUmlwZmFLejRJdlE0VmpFZ2VJNVh5N2ZOYS1uNWlZTnZLcDJ4YWpKUTZmemFFU3NfTUhKVGJmVTdiVG82R2F2TlZyUXl4ZEl3cGVFUDFKTHpUZWo0ZGlfeUk?oc=5\" target=\"_blank\">As told to Parliament (August 5, 2026): INCOIS AI model forecasts El Niño to continue until February 2027 with up to 90% probability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Down To Earth</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZDRZcmhHWWp0dU1OUWdkZDNlX2NsQWt3OWpVcGd0RGdWQTM3ZjJfQlVrVFZOa050LTdlbEM4UTloSFVnNzJubW9fVFF0U0tqanM2Z2RDeFYzN1VfdGhqUVdYS0lrUmx5UzlEMjFkODAzdVZ2aEdQQUJrMEZ4amRMUkdib1E1ZzJSYVFuNlpPTVhyM1gxdVdZZnJsLV9kWnJRNGZyWXZuZ0pTU21Bd3psZ2FjaHJyQ0ZuLUpQRUtuWlJyd0Jjd2FWRk5pcFV6YUxINGIwTF9GV0NPdXdKYmVGT290TzAydnlndXdnek9rLTdWWENiRDFjOHU5LVJQaXJPOG5ERGFFcWZfQdIBlwJBVV95cUxOTXRCTVBMdVVuWlRsNGo5MFNjdTlGS1hDTmJuZXhPRzRhQnI2SjBnc1l0RVlOQy1hS3MyQmN3V3owdTNQd2h6UVltbVUtQzBaWTB0VmFXWnFfZ2ZUdnpWX0lwWUIzZGEtN2puMzU2bkJwV2V1QjN4LXJpZHUwcjVPTVFRaG5aR05jeEpPVkUxWWIwYVFsUmtOOUwtekVoMERPYndYQkZwXzNrTEtrb084RU5BVXpJRDFMN1hZNkJyUmlwZmFLejRJdlE0VmpFZ2VJNVh5N2ZOYS1uNWlZTnZLcDJ4YWpKUTZmemFFU3NfTUhKVGJmVTdiVG82R2F2TlZyUXl4ZEl3cGVFUDFKTHpUZWo0ZGlfeUk?oc=5",
+   "source_name": "Down To Earth",
+   "source_domain": "downtoearth.org.in",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "I&B Ministry launches ‘Gems of India’ Challenge to discover grassroots digital creators",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3B3T3JZMngzcEZQcGpQbGVpVjVxenlVZk54SmhhbmN3NFRKaXVacHlKbFpETlVzSHowZWRmTnRNV1h3OXZBLXg4QUFtcXdnUDFoWHEycFBSZVVNZEl0ZVBxQ1FqUk1ESVdfLVVRalBpU3otMU56eXN4UTBBUmU5NFVpUDdSbmlOU1lKcDhLa0FPZEI5aHlOR0tvRTBpWW12eWE4NlVubVZQcmJjeVFOSk85ckdldw?oc=5\" target=\"_blank\">I&amp;B Ministry launches ‘Gems of India’ Challenge to discover grassroots digital creators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD India</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3B3T3JZMngzcEZQcGpQbGVpVjVxenlVZk54SmhhbmN3NFRKaXVacHlKbFpETlVzSHowZWRmTnRNV1h3OXZBLXg4QUFtcXdnUDFoWHEycFBSZVVNZEl0ZVBxQ1FqUk1ESVdfLVVRalBpU3otMU56eXN4UTBBUmU5NFVpUDdSbmlOU1lKcDhLa0FPZEI5aHlOR0tvRTBpWW12eWE4NlVubVZQcmJjeVFOSk85ckdldw?oc=5",
+   "source_name": "DD India",
+   "source_domain": "ddindia.co.in",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Daman to join India’s aviation map from June",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWV81TG50dmJ1RjNsSmp4ZDhueHEweUM5cnJfZEt4a1hzczRuaW1nbDZQVTRMeHh6T0hldzI3a0RhUk80b1FhZlNwNlRGQ0FfT2RUczUtSXNsblJ2MWRaTi1LSko5elZMRVBmMUVLZzh5RmdWTDczVVE5ajNjVVR2WDJHQkFnMFRQUmoxOVJKd2p0WEo3UlFKUGxnV2R4a1dGYzl5RVRlLUF2NDh0Y3pkQ1BLYjdNdzDSAbwBQVVfeXFMTzV3ZExjUi1UNVhyUHdXLW9SaWdkWFFVUHFiOHQyVHlwYUMzcmE1S2M2T1JuOUppd0xUOFB5LWM1ZUxLRU9QU2c3NHRJSGVYNWhYYnlhemtjZGh4NEFLd0ZFc2FmTV82QnFMQ0ZrWHBMSGxULXlaNDkzYkpTNVN4ajRDOW1sV3Ffc0VoY2xMUlQ1NFBEUng0Q1ZTX0gteVFSLUJkc3dDYVA5c3V3UEp5aERocThSZjZQRDhuNmc?oc=5\" target=\"_blank\">Daman to join India’s aviation map from June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWV81TG50dmJ1RjNsSmp4ZDhueHEweUM5cnJfZEt4a1hzczRuaW1nbDZQVTRMeHh6T0hldzI3a0RhUk80b1FhZlNwNlRGQ0FfT2RUczUtSXNsblJ2MWRaTi1LSko5elZMRVBmMUVLZzh5RmdWTDczVVE5ajNjVVR2WDJHQkFnMFRQUmoxOVJKd2p0WEo3UlFKUGxnV2R4a1dGYzl5RVRlLUF2NDh0Y3pkQ1BLYjdNdzDSAbwBQVVfeXFMTzV3ZExjUi1UNVhyUHdXLW9SaWdkWFFVUHFiOHQyVHlwYUMzcmE1S2M2T1JuOUppd0xUOFB5LWM1ZUxLRU9QU2c3NHRJSGVYNWhYYnlhemtjZGh4NEFLd0ZFc2FmTV82QnFMQ0ZrWHBMSGxULXlaNDkzYkpTNVN4ajRDOW1sV3Ffc0VoY2xMUlQ1NFBEUng0Q1ZTX0gteVFSLUJkc3dDYVA5c3V3UEp5aERocThSZjZQRDhuNmc?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 22 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "PM Modi's mega development: Rs 22,000 crore projects across Gujarat, Daman, Lakshadweep",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObHB2NTNXRWpBUWt3Vlk0RFVDM3A2Y0hkR2dGdEtid3hJQ2xTdUYzQkw0cWw1dmtLaTM0RFRhYkVnQWFzbXBLYVd0OUJ6Ty1teVZCMzRIdkxWMHJCa3Rack1ibjBzVnZWNzd1bW1iOGhJc01hdjE3czdqS2VPMFV0UWh1QmlfbnRQcktaTjI0am9ONExRTHBfeHNfQ3VERkhMZmlRYTVXdjE0QXlKNUVRTU9SRGl6X0Y4ODBIVUxrMTBnT3NNMEE?oc=5\" target=\"_blank\">PM Modi's mega development: Rs 22,000 crore projects across Gujarat, Daman, Lakshadweep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHB2NTNXRWpBUWt3Vlk0RFVDM3A2Y0hkR2dGdEtid3hJQ2xTdUYzQkw0cWw1dmtLaTM0RFRhYkVnQWFzbXBLYVd0OUJ6Ty1teVZCMzRIdkxWMHJCa3Rack1ibjBzVnZWNzd1bW1iOGhJc01hdjE3czdqS2VPMFV0UWh1QmlfbnRQcktaTjI0am9ONExRTHBfeHNfQ3VERkhMZmlRYTVXdjE0QXlKNUVRTU9SRGl6X0Y4ODBIVUxrMTBnT3NNMEE?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "MIB launches ‘Gems of India’ creator challenge with YouTube, Meta",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFc1clFoLUl3UkpkXzJiU3hKOThQRGJWdl9TelBObGIxTUM5OUtTMTdMYWpNVnAwSVpxalRWY1E5cXl5RkxLRDFEWUFaLU5IZ2Q4Q0NOYm5YM24wbkMtN2pkangwT0lMaTIwcWJPV3ZmODRFWTM5NTZnU0pUeE9hcVVBa0owRUkyaFV1VVctM3pYTndTY3ZtWnZtSjlMbmRtb0lWc0tfbHJsZ9IBqgFBVV95cUxPcFc1clFoLUl3UkpkXzJiU3hKOThQRGJWdl9TelBObGIxTUM5OUtTMTdMYWpNVnAwSVpxalRWY1E5cXl5RkxLRDFEWUFaLU5IZ2Q4Q0NOYm5YM24wbkMtN2pkangwT0lMaTIwcWJPV3ZmODRFWTM5NTZnU0pUeE9hcVVBa0owRUkyaFV1VVctM3pYTndTY3ZtWnZtSjlMbmRtb0lWc0tfbHJsZw?oc=5\" target=\"_blank\">MIB launches ‘Gems of India’ creator challenge with YouTube, Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Buzzincontent</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFc1clFoLUl3UkpkXzJiU3hKOThQRGJWdl9TelBObGIxTUM5OUtTMTdMYWpNVnAwSVpxalRWY1E5cXl5RkxLRDFEWUFaLU5IZ2Q4Q0NOYm5YM24wbkMtN2pkangwT0lMaTIwcWJPV3ZmODRFWTM5NTZnU0pUeE9hcVVBa0owRUkyaFV1VVctM3pYTndTY3ZtWnZtSjlMbmRtb0lWc0tfbHJsZ9IBqgFBVV95cUxPcFc1clFoLUl3UkpkXzJiU3hKOThQRGJWdl9TelBObGIxTUM5OUtTMTdMYWpNVnAwSVpxalRWY1E5cXl5RkxLRDFEWUFaLU5IZ2Q4Q0NOYm5YM24wbkMtN2pkangwT0lMaTIwcWJPV3ZmODRFWTM5NTZnU0pUeE9hcVVBa0owRUkyaFV1VVctM3pYTndTY3ZtWnZtSjlMbmRtb0lWc0tfbHJsZw?oc=5",
+   "source_name": "Buzzincontent",
+   "source_domain": "buzzincontent.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "MIB launches 'Gems of India' creator challenge in partnership with YouTube and Meta",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlNyMlpQaEJLTWVZSHNUZzI3eVJXaXc0ck1tUzd1S3NPMEprVktsd3o1aGlzcGxvNGY0VkcyUWNzVFVjWXN1b0RvbXNtUnllbUhldW1CNWkxVURINWFVQXdkdDJESmFpWVNRN0QybXFNTmFDNjNFRHdUVXp2YV9PY1hHZFFWTmg3WGQ5Y3Aya05Mb0dnMXg1bEFEZmltRHlWLVljT1N2Ni1FNkdtZHNCb09OajlOaGM?oc=5\" target=\"_blank\">MIB launches 'Gems of India' creator challenge in partnership with YouTube and Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adgully</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlNyMlpQaEJLTWVZSHNUZzI3eVJXaXc0ck1tUzd1S3NPMEprVktsd3o1aGlzcGxvNGY0VkcyUWNzVFVjWXN1b0RvbXNtUnllbUhldW1CNWkxVURINWFVQXdkdDJESmFpWVNRN0QybXFNTmFDNjNFRHdUVXp2YV9PY1hHZFFWTmg3WGQ5Y3Aya05Mb0dnMXg1bEFEZmltRHlWLVljT1N2Ni1FNkdtZHNCb09OajlOaGM?oc=5",
+   "source_name": "Adgully",
+   "source_domain": "adgully.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "PM Modi inaugurates, launches ₹2,970 crore projects in Daman, Lakshadweep",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1N5WXpMMnc0SHgtUFJLVE9DdjFxZDRlZ1RRY29pREFtMzhHblNJOXRqa0NaaFktYXM0TkxPWFJqcXV6cS1UNUIwLWxNTEJkWlQ4dXdfWTdkMHhlc0NLTmxUeWZQYjJ5ZWNQejFGNEttUVBDZWdJb081YVZvSHZPSnBhblQ4NVdSWDcyMlc0X1RMLUp1OVFKRkhjVFVyLXJNWWZpU1FfVW5ObUlpX2pNSFVUUi1Gbk9hU0NpTA?oc=5\" target=\"_blank\">PM Modi inaugurates, launches ₹2,970 crore projects in Daman, Lakshadweep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1N5WXpMMnc0SHgtUFJLVE9DdjFxZDRlZ1RRY29pREFtMzhHblNJOXRqa0NaaFktYXM0TkxPWFJqcXV6cS1UNUIwLWxNTEJkWlQ4dXdfWTdkMHhlc0NLTmxUeWZQYjJ5ZWNQejFGNEttUVBDZWdJb081YVZvSHZPSnBhblQ4NVdSWDcyMlc0X1RMLUp1OVFKRkhjVFVyLXJNWWZpU1FfVW5ObUlpX2pNSFVUUi1Gbk9hU0NpTA?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Rajya Sabha polls bring Belagavi into political spotlight",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaWplRzd0aTBYTXRJYWMxTDJ1NVVVT25NUFNrM3RQRHptM0JVQTlqSmtDc0pab1lEZ3hCOGlZa3puWUVCbWJVNi1rQ2gybGF4M0R0V1FTd1VUa1lHelgzNGJWVUVNTXdWSURpc2FlZ2dXYXIyaFhrS1J5dEt1OXVLWXhRQVBMU2xDUERHb216aWRHZGVQUFJwM3lJZFdvNThYVTlPVmFJNUh4SjZlcG13S1lLeFVqWUVEWVp1d0hfM2gzYjRMOWpWemNYeERwQdIB0wFBVV95cUxNY0dzYVBHVXhlVlJEWEhVRXRteHdlZFFSc3dKaFBqVlp2ME5GQW9NZWIwNmdGLUFqYmVMa0RwbDh5Q1RKQlc5YWZpdnBvRDVGSG52bDJkai0wMjlGV3kxaE1tY3E1cUFFZW92RnNMRGR4bFNCa1hEN25NbnZMU2J1aXNaSjRWMmZjQ1hVZUhFcGk4elhDbHBGb0Zqa1Q0OVk0bGltaGpEWXZjbm1sT3dpd1hoOE1VT2k3QVh2NzRFN1R3WXJveUM2XzRkNHE1LTBZSVNV?oc=5\" target=\"_blank\">Rajya Sabha polls bring Belagavi into political spotlight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaWplRzd0aTBYTXRJYWMxTDJ1NVVVT25NUFNrM3RQRHptM0JVQTlqSmtDc0pab1lEZ3hCOGlZa3puWUVCbWJVNi1rQ2gybGF4M0R0V1FTd1VUa1lHelgzNGJWVUVNTXdWSURpc2FlZ2dXYXIyaFhrS1J5dEt1OXVLWXhRQVBMU2xDUERHb216aWRHZGVQUFJwM3lJZFdvNThYVTlPVmFJNUh4SjZlcG13S1lLeFVqWUVEWVp1d0hfM2gzYjRMOWpWemNYeERwQdIB0wFBVV95cUxNY0dzYVBHVXhlVlJEWEhVRXRteHdlZFFSc3dKaFBqVlp2ME5GQW9NZWIwNmdGLUFqYmVMa0RwbDh5Q1RKQlc5YWZpdnBvRDVGSG52bDJkai0wMjlGV3kxaE1tY3E1cUFFZW92RnNMRGR4bFNCa1hEN25NbnZMU2J1aXNaSjRWMmZjQ1hVZUhFcGk4elhDbHBGb0Zqa1Q0OVk0bGltaGpEWXZjbm1sT3dpd1hoOE1VT2k3QVh2NzRFN1R3WXJveUM2XzRkNHE1LTBZSVNV?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 18 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "PM Modi unveils ₹2,970 crore development package for Daman and Diu, inaugurates airport and hospital",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRHUyeWg2Y0RQVENSaHotb3F6ZmpxdTVySkxudXRQTmZJY0oxellCZ29RQTBkeWp6MUdxMXd2YjZXdFl5SVFJbXBXdXowSTctYzJFR0dTNDhKMHk1elM3MWh3a0pKTi11RnpYdWwyVDJ5bTZlUXFJeHhSTlV2enhoejczYU9tTE5ueVhuVHRNTUtLT1BKVnM1Mnp5YldMX0Z0VWc4QjFwUWtUYTg3alhBLVZWN2Y1QVptRkF6RkhEbHA1Q3dyOVZfRjBRUVZEWTZxaUtfbVpfYlZ5LVFjYnItby1nSS1HemM?oc=5\" target=\"_blank\">PM Modi unveils ₹2,970 crore development package for Daman and Diu, inaugurates airport and hospital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRHUyeWg2Y0RQVENSaHotb3F6ZmpxdTVySkxudXRQTmZJY0oxellCZ29RQTBkeWp6MUdxMXd2YjZXdFl5SVFJbXBXdXowSTctYzJFR0dTNDhKMHk1elM3MWh3a0pKTi11RnpYdWwyVDJ5bTZlUXFJeHhSTlV2enhoejczYU9tTE5ueVhuVHRNTUtLT1BKVnM1Mnp5YldMX0Z0VWc4QjFwUWtUYTg3alhBLVZWN2Y1QVptRkF6RkhEbHA1Q3dyOVZfRjBRUVZEWTZxaUtfbVpfYlZ5LVFjYnItby1nSS1HemM?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Tue, 09 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "PM Modi to attend G7 Summit in France next week: Possible meeting with Trump, bilateral talks with Macron on agenda",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1VpZVNIZEhpQkJ6S1g0RTlKV3VXV3RwZDNod0ZWZG9LQlhMZjg1M1hLbEtMU2Njd1BfMHh4enZkQVQ2RUw0QnZqcFNCc0NPUklTVFFiVHNiclNYZ0VWRkZDZm5PWGRqNGVGbFNpX2preHJxY0hfTmNTTzdFaDR3eHNOYzFvM2hnN1hicFFBdl9wUGNVdGNjUlhnQk1NVjVUd2p5VVFDZWlEYmZNOGR5Ym9kVFJZV3hYN1ZyMFZ3SnRjclpOb1JWaUNjLVZaODVjTUkwcURMV3N1U3diS3NiV2p2Qk9tWjNMZGd1bG9HR3g3d9IB9wFBVV95cUxPOUhkNkVmbFRPaDJPeDlXaVFhZE95MmRRc0RUWlpzUTlWMmRLSkU2Qk5oODVtNVBqaTVSTXpkbldJRW9FcEZZa1Y4RkFTamFpamg3Yndza1JqTkxUZkM4TWtGR291NVdHTEpyeWtvUjJNNG0tMndBaWtrMk1tU1VBZF9NelN0R3YtTm1WbExHcXlZRHc0QmNUd1V2MXZjTG1RSzItUFFrZzlVZG9Id1p6TVEyVTVlWjRSMlI1UFNNUDFGdVhlTjhFdDZmcVBoNk1hNnlNWmhieDVWVGpzRTJvOWVxZE51S0F3dlg5ekpIcXl2clZLS2Ew?oc=5\" target=\"_blank\">PM Modi to attend G7 Summit in France next week: Possible meeting with Trump, bilateral talks with Macron on agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1VpZVNIZEhpQkJ6S1g0RTlKV3VXV3RwZDNod0ZWZG9LQlhMZjg1M1hLbEtMU2Njd1BfMHh4enZkQVQ2RUw0QnZqcFNCc0NPUklTVFFiVHNiclNYZ0VWRkZDZm5PWGRqNGVGbFNpX2preHJxY0hfTmNTTzdFaDR3eHNOYzFvM2hnN1hicFFBdl9wUGNVdGNjUlhnQk1NVjVUd2p5VVFDZWlEYmZNOGR5Ym9kVFJZV3hYN1ZyMFZ3SnRjclpOb1JWaUNjLVZaODVjTUkwcURMV3N1U3diS3NiV2p2Qk9tWjNMZGd1bG9HR3g3d9IB9wFBVV95cUxPOUhkNkVmbFRPaDJPeDlXaVFhZE95MmRRc0RUWlpzUTlWMmRLSkU2Qk5oODVtNVBqaTVSTXpkbldJRW9FcEZZa1Y4RkFTamFpamg3Yndza1JqTkxUZkM4TWtGR291NVdHTEpyeWtvUjJNNG0tMndBaWtrMk1tU1VBZF9NelN0R3YtTm1WbExHcXlZRHc0QmNUd1V2MXZjTG1RSzItUFFrZzlVZG9Id1p6TVEyVTVlWjRSMlI1UFNNUDFGdVhlTjhFdDZmcVBoNk1hNnlNWmhieDVWVGpzRTJvOWVxZE51S0F3dlg5ekpIcXl2clZLS2Ew?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:28+00:00"
+  }
+ ]
+}

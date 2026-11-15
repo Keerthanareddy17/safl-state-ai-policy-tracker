@@ -1,0 +1,120 @@
+{
+ "region": "Odisha",
+ "group": "B",
+ "query": "(Odisha OR Bhubaneswar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Odisha+OR+Bhubaneswar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:00+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha Government keen to use AI in governance for public benefit: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFU1X1RaeldlQzRRWTJ1THJaVGtPVXB2RDRfbWl3QmZGYmg1V1JFVlgyODJTMkJMblNZMjlGdmJkaGYySENXNndfRFdOYjdXOWx0b01pazJpM0p0RTVxVy1senRjdHZUeml4ZFVRTDN4enhodFVfVWR0dWdCOVhNQUZZWjVFV3ZGM0toSEdFM2lvclQxN0l3ZDFyYlA3R2tUZkMtNE9CYmhtQnIxMHNpd0xwYU9pYXc2ZHFsUUJiMmo0Wm81SkZDNQ?oc=5\" target=\"_blank\">Odisha Government keen to use AI in governance for public benefit: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SOA | SIKSHA 'O' ANUSANDHAN</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFU1X1RaeldlQzRRWTJ1THJaVGtPVXB2RDRfbWl3QmZGYmg1V1JFVlgyODJTMkJMblNZMjlGdmJkaGYySENXNndfRFdOYjdXOWx0b01pazJpM0p0RTVxVy1senRjdHZUeml4ZFVRTDN4enhodFVfVWR0dWdCOVhNQUZZWjVFV3ZGM0toSEdFM2lvclQxN0l3ZDFyYlA3R2tUZkMtNE9CYmhtQnIxMHNpd0xwYU9pYXc2ZHFsUUJiMmo0Wm81SkZDNQ?oc=5",
+   "source_name": "SOA | SIKSHA 'O' ANUSANDHAN",
+   "source_domain": "soa.ac.in",
+   "published_raw": "Fri, 19 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Sovereign AI partnerships with Indian states",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE42UjRpMFoxWmVuVE5wMDBESGlMLU1MRFNVS0VHcTJkeEx6YmwwOXNQakZLN1EzTGVDVEJmbkdRZ1pEVzU1dHZQRF95VlB3QW5iT3NmbllQMUNkMFBsRFdIY25GWlUtS2RGV3Fv?oc=5\" target=\"_blank\">Sovereign AI partnerships with Indian states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarvam AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42UjRpMFoxWmVuVE5wMDBESGlMLU1MRFNVS0VHcTJkeEx6YmwwOXNQakZLN1EzTGVDVEJmbkdRZ1pEVzU1dHZQRF95VlB3QW5iT3NmbllQMUNkMFBsRFdIY25GWlUtS2RGV3Fv?oc=5",
+   "source_name": "Sarvam AI",
+   "source_domain": "sarvam.ai",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha government to set up AI classrooms in over 5,000 schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzVRUy1aM0xZcTFCbnVzSGt2NDd2d0FqWVY2MmlYcHdIMjNRQktRS25lMkpzWV9LYnU2bm1xakVwdFkzc0hfTHBJMmhYVmtTUE40X0RuWXBQYjNCMlRBRUM1S3ZYakxNdmh4ZzdvWElYZnV0TjVOblZfandrZE1HWExnSENQRlpJWlZMY1EySFBhbkREaW5hWFVHMWhaTENuOGdQd2l3UkpyN0tocktzTmE4WUJjM1hsRlNIcUJR0gHLAUFVX3lxTE1VQ2J4Zk1CNWhIaGx4TW1pc1NJTEtwZEk5QURrNHNMMmxTOU9ZMFhLcHd2TVNFWG15VHBuelRMOVpNVm43QS1aaXdReXRTNUhiN2RKejFvSW9JNmctZFlDQ1ZTU1JzcEJpeGp1NmE1bkxHYnYzbTRZOVhGMjVRU044VTVjQ01sR01CMW5sWDc1c0lxYWJMbDhpLTk2aEhyd2hjcWhySW5EV0Y5OUptTnZSUWxTTDgzWjF0cy1DRTVHcTlMVk9tSHdTbFNF?oc=5\" target=\"_blank\">Odisha government to set up AI classrooms in over 5,000 schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzVRUy1aM0xZcTFCbnVzSGt2NDd2d0FqWVY2MmlYcHdIMjNRQktRS25lMkpzWV9LYnU2bm1xakVwdFkzc0hfTHBJMmhYVmtTUE40X0RuWXBQYjNCMlRBRUM1S3ZYakxNdmh4ZzdvWElYZnV0TjVOblZfandrZE1HWExnSENQRlpJWlZMY1EySFBhbkREaW5hWFVHMWhaTENuOGdQd2l3UkpyN0tocktzTmE4WUJjM1hsRlNIcUJR0gHLAUFVX3lxTE1VQ2J4Zk1CNWhIaGx4TW1pc1NJTEtwZEk5QURrNHNMMmxTOU9ZMFhLcHd2TVNFWG15VHBuelRMOVpNVm43QS1aaXdReXRTNUhiN2RKejFvSW9JNmctZFlDQ1ZTU1JzcEJpeGp1NmE1bkxHYnYzbTRZOVhGMjVRU044VTVjQ01sR01CMW5sWDc1c0lxYWJMbDhpLTk2aEhyd2hjcWhySW5EV0Y5OUptTnZSUWxTTDgzWjF0cy1DRTVHcTlMVk9tSHdTbFNF?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 26 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha’s Black Swan Summit Aims to Position State as Global Hub for AI, FinTech, and InsurTech",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXVWdFB4RGhnalNOR1ZEc1lNN3F6RmNCQ1cwbzdXMTU3Tm5EdnJJRDZPcHJYTnBLZmY1QVFDYjRLQmM3Y2dwb1lhbTd1a1pPTUxwX2Z2TnY2dkEyU0Nub1FWejBHYklEZ08wakxNNnByTWtrSkxsZ0g2QWpXTVk4N2FRM1cwMFFCUTNaQ183NmRmVTdHR191M1JaTGZaTC1mXzB0c2ZLc3dOR210RVJBaHEwaU9lUHUt?oc=5\" target=\"_blank\">Odisha’s Black Swan Summit Aims to Position State as Global Hub for AI, FinTech, and InsurTech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXVWdFB4RGhnalNOR1ZEc1lNN3F6RmNCQ1cwbzdXMTU3Tm5EdnJJRDZPcHJYTnBLZmY1QVFDYjRLQmM3Y2dwb1lhbTd1a1pPTUxwX2Z2TnY2dkEyU0Nub1FWejBHYklEZ08wakxNNnByTWtrSkxsZ0g2QWpXTVk4N2FRM1cwMFFCUTNaQ183NmRmVTdHR191M1JaTGZaTC1mXzB0c2ZLc3dOR210RVJBaHEwaU9lUHUt?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "PRESIDENT OF INDIA LAUNCHES #SKILLTHENATION AI CHALLENGE AND VIRTUALLY INAUGURATES IGNOU REGIONAL CENTRE AND SKILL CENTRE AT RAIRANGPUR, ODISHA",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE90NmE0VlFyRmQ0MlFySHlsQklfUWxucUdfZi1KTjlDcXVmZE5TWmRSS05aVXJ4QzZiSENuXzN1WXBiVF9JcUVaQlJnSDhuc2ppdjZTZ1NPMXlpeldqWC0wbE5EVFc5LXJL?oc=5\" target=\"_blank\">PRESIDENT OF INDIA LAUNCHES #SKILLTHENATION AI CHALLENGE AND VIRTUALLY INAUGURATES IGNOU REGIONAL CENTRE AND SKILL CENTRE AT RAIRANGPUR, ODISHA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90NmE0VlFyRmQ0MlFySHlsQklfUWxucUdfZi1KTjlDcXVmZE5TWmRSS05aVXJ4QzZiSENuXzN1WXBiVF9JcUVaQlJnSDhuc2ppdjZTZ1NPMXlpeldqWC0wbE5EVFc5LXJL?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 01 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Singapore to help Odisha transform into India’s next FinTech, AI, GCC hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFdURnhXU3hqb2RSVVRwZ1FydTBON21zOHo0YW1QaEdwZDJqbF8zVlA3X2d4SDdtQUFVcTVlM0FPUWNIRld4NDduU1FwcmJWbHFPWWtjUUd4d1B6dTlMaXhSLVhtQXM4dXpaakxlTGRtN2tnNjNERTYxRnNKa09EeHBjR2VURlRCTmtiQnplX1JJZm45cTFvbmJEelFOMExjaHRRRldOQ2xDSXB6a3VjTjJUQzhqOGc5QkJBV1RJekdPd9IByAFBVV95cUxNakQ3anlPWTJkWjVJeW8tYllRV0l5MkhrSXUyVFNYdVBiS0lHekhXc0N2dk1raFBxdEU3bVBpem1YQU9JcWl3MmNLYnBJT0FqNXF5NW02ekc5LTdpSm5CRU9OOEF0VVh3ZTNPLVhhX1NBYkMtTmliWl9zYWtZSDA4VXIwX2VscUl4NGExSTgxVEtqOWVLaEZEa2M3YVVwbFdhcmJlN1kzQXdHLVhJbldYSmFlNWI3SXo5aG40REdpckJ6ZF9fdm15MQ?oc=5\" target=\"_blank\">Singapore to help Odisha transform into India’s next FinTech, AI, GCC hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFdURnhXU3hqb2RSVVRwZ1FydTBON21zOHo0YW1QaEdwZDJqbF8zVlA3X2d4SDdtQUFVcTVlM0FPUWNIRld4NDduU1FwcmJWbHFPWWtjUUd4d1B6dTlMaXhSLVhtQXM4dXpaakxlTGRtN2tnNjNERTYxRnNKa09EeHBjR2VURlRCTmtiQnplX1JJZm45cTFvbmJEelFOMExjaHRRRldOQ2xDSXB6a3VjTjJUQzhqOGc5QkJBV1RJekdPd9IByAFBVV95cUxNakQ3anlPWTJkWjVJeW8tYllRV0l5MkhrSXUyVFNYdVBiS0lHekhXc0N2dk1raFBxdEU3bVBpem1YQU9JcWl3MmNLYnBJT0FqNXF5NW02ekc5LTdpSm5CRU9OOEF0VVh3ZTNPLVhhX1NBYkMtTmliWl9zYWtZSDA4VXIwX2VscUl4NGExSTgxVEtqOWVLaEZEa2M3YVVwbFdhcmJlN1kzQXdHLVhJbldYSmFlNWI3SXo5aG40REdpckJ6ZF9fdm15MQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha govt to establish AI as platform for service delivery",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXBqb3lhNm1WT19JemVEbHoxN05LUGllY2VQWG9jZUJHa2M1MlJEOGV0d3hOaEIyVGlRa1k4QXhXd3FiSVpNM2gtb3hPbGNSRmJBdEYtd1g3SDBhT3ZkRUZ5OFlJeE05Y3h5Mnp2OFctSnVxQlRJZGVIU3VpbUxrVWV6TklBWjFhNEdnNlI1YmF4b09VU1Z0TmFzUmJJbGhMT2JLYXQzc01ZY3loY3R0Q0ZPa09WS1JnTGlV0gHIAUFVX3lxTFBWMUtUcGFMejRCZHM5bDZwTXJWaF9xcV9nQ1luSWZnR1RqUmJaYUQxSUlwczVfclo4QlVxTEFrQmtnSlVYZldPVGt4M3ZELU9qVWJyNUp6Tlh3NnFwQ3hEWUlqS19BYkJyUjE2cFMtbHdiX1c5R0pFNXZBSkxQeVZHYTBCcTB1amVoanpRMmppTElILWREOFYzX09zeUtYZlRNN2ZTZFpQWE43aTNKT3JWbzBMZi1rTFpqRHpUYmlWaktkbWk2LUU1?oc=5\" target=\"_blank\">Odisha govt to establish AI as platform for service delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXBqb3lhNm1WT19JemVEbHoxN05LUGllY2VQWG9jZUJHa2M1MlJEOGV0d3hOaEIyVGlRa1k4QXhXd3FiSVpNM2gtb3hPbGNSRmJBdEYtd1g3SDBhT3ZkRUZ5OFlJeE05Y3h5Mnp2OFctSnVxQlRJZGVIU3VpbUxrVWV6TklBWjFhNEdnNlI1YmF4b09VU1Z0TmFzUmJJbGhMT2JLYXQzc01ZY3loY3R0Q0ZPa09WS1JnTGlV0gHIAUFVX3lxTFBWMUtUcGFMejRCZHM5bDZwTXJWaF9xcV9nQ1luSWZnR1RqUmJaYUQxSUlwczVfclo4QlVxTEFrQmtnSlVYZldPVGt4M3ZELU9qVWJyNUp6Tlh3NnFwQ3hEWUlqS19BYkJyUjE2cFMtbHdiX1c5R0pFNXZBSkxQeVZHYTBCcTB1amVoanpRMmppTElILWREOFYzX09zeUtYZlRNN2ZTZFpQWE43aTNKT3JWbzBMZi1rTFpqRHpUYmlWaktkbWk2LUU1?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha Government Partners with OpenAI to Boost AI Skills and Responsible Adoption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUVTWEptWEcyYmF0Z0tiaHJWbFVxd1VmcTFMREh4WGVyakNMZGR0ckhtX0lITGhIZmkxRHprcGMtMzRXNGFOYTFpNW1NYXY4R21WcVZJbFh5c2VJa1paSFZDVXdKcVpYdVdvQTIzQTQzaU9FOGxCdU5CdHRQWEdfNA?oc=5\" target=\"_blank\">Odisha Government Partners with OpenAI to Boost AI Skills and Responsible Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OdishaPlus</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUVTWEptWEcyYmF0Z0tiaHJWbFVxd1VmcTFMREh4WGVyakNMZGR0ckhtX0lITGhIZmkxRHprcGMtMzRXNGFOYTFpNW1NYXY4R21WcVZJbFh5c2VJa1paSFZDVXdKcVpYdVdvQTIzQTQzaU9FOGxCdU5CdHRQWEdfNA?oc=5",
+   "source_name": "OdishaPlus",
+   "source_domain": "odisha.plus",
+   "published_raw": "Sat, 20 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "President Murmu inaugurates IGNOU regional and skill centre in Odisha’s Rairangpur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWnlvSnMwV2JxQTNERzlISkxnR2ZQM25Xd3pDOVpzZ2JwcW9LRkhpM2dpZEdEUmdicldKS2xyOWh6SHMzbk5jX1prdDJOUDBQNFF0ZmZIWlUyVHBPVzNWTTRQRFMwZnJQeXNmMkhlbFVUNUFFYXFXZU1LY0JENHJzMjRrWU43aG9KazJ5Nm1WZzVPRjlqMXl0R3NucnJRWk5DNUNRMnhWSENsWEE3YUtWeVhpLVQzbGVSTjN6dmtYc3VYczRZOFF4WnNWYzlTR2VmdkE5SFdLMTI1bUcyYlhlVFh2cThWQdIB6wFBVV95cUxPOFhSMjhBTWV0SS1Vd0tBaFFYNmFiaGx2LUhtZlNPYnpiQUoxY3MwdnZTNkpjcHNSenByM2RObzlGNGFpbC02NW1ibEdydko0VXJWUXQtd1lDLTQ4OFlJbDlVYkZQV2lYNDU0dDF6ZDJSSENTd3pILWlkY3BvSWY2VGZoVF96Y1V1WWZSUEpPS3kzSVBqNWMtTUVXWGJiT3kwTUEtbXppSTJ2OTFVcDNkMktJR3B0V3lGWnlmaHR2dFdKck1zcC1ndEMwUlFYeXR4Y2NfeXFSYjU4NHFTNG9PNlEyNHhRMTgxZThJ?oc=5\" target=\"_blank\">President Murmu inaugurates IGNOU regional and skill centre in Odisha’s Rairangpur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Careers360</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWnlvSnMwV2JxQTNERzlISkxnR2ZQM25Xd3pDOVpzZ2JwcW9LRkhpM2dpZEdEUmdicldKS2xyOWh6SHMzbk5jX1prdDJOUDBQNFF0ZmZIWlUyVHBPVzNWTTRQRFMwZnJQeXNmMkhlbFVUNUFFYXFXZU1LY0JENHJzMjRrWU43aG9KazJ5Nm1WZzVPRjlqMXl0R3NucnJRWk5DNUNRMnhWSENsWEE3YUtWeVhpLVQzbGVSTjN6dmtYc3VYczRZOFF4WnNWYzlTR2VmdkE5SFdLMTI1bUcyYlhlVFh2cThWQdIB6wFBVV95cUxPOFhSMjhBTWV0SS1Vd0tBaFFYNmFiaGx2LUhtZlNPYnpiQUoxY3MwdnZTNkpjcHNSenByM2RObzlGNGFpbC02NW1ibEdydko0VXJWUXQtd1lDLTQ4OFlJbDlVYkZQV2lYNDU0dDF6ZDJSSENTd3pILWlkY3BvSWY2VGZoVF96Y1V1WWZSUEpPS3kzSVBqNWMtTUVXWGJiT3kwTUEtbXppSTJ2OTFVcDNkMktJR3B0V3lGWnlmaHR2dFdKck1zcC1ndEMwUlFYeXR4Y2NfeXFSYjU4NHFTNG9PNlEyNHhRMTgxZThJ?oc=5",
+   "source_name": "Careers360",
+   "source_domain": "news.careers360.com",
+   "published_raw": "Thu, 01 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha is the standout gainer in Union Budget 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDhicm1MMVpoWU1HRW9KSnhNakVsYjNTTDF5blFmZHltOUxsVktXaVFnZGg3M1R3Ujd3NkhSazl4N0l1S3g2UUw0ZFpmN3JXYWtPR1RocWw0MUxHSjVwaFBBa1lDMTRBblROaUNraWVpX2FMVU1fX3ZRa0ltTHRfN01JazhDRmtkbFZOTHhiRlN0Mi1NcDhFakdqbFFKWFh2ZkNLeTVsWDVpbkd1YXfSAbsBQVVfeXFMT2tkMzlGVk1yLXhSM1VCUjNjbGpIQ2c3VUtKaU02cnZVbGxzWV9lR0tKaHhjRVIwNGNEdU51ODRHdFhEcmI5d3VGNFB4dG9SdHVJQjdlWFdHRHhqOHhnYzJHRDR5c01hVUhHWmRjZjBWX19zTTFFcE5UX3luLXJPR1lqYXBnOTZsSnRxQzhzajNxbUhLNzMxZEREeWdvU3lnQTU3TFZqSWhJMWFIVV9VT0RIRF91U3pRWGZ5Zw?oc=5\" target=\"_blank\">Odisha is the standout gainer in Union Budget 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDhicm1MMVpoWU1HRW9KSnhNakVsYjNTTDF5blFmZHltOUxsVktXaVFnZGg3M1R3Ujd3NkhSazl4N0l1S3g2UUw0ZFpmN3JXYWtPR1RocWw0MUxHSjVwaFBBa1lDMTRBblROaUNraWVpX2FMVU1fX3ZRa0ltTHRfN01JazhDRmtkbFZOTHhiRlN0Mi1NcDhFakdqbFFKWFh2ZkNLeTVsWDVpbkd1YXfSAbsBQVVfeXFMT2tkMzlGVk1yLXhSM1VCUjNjbGpIQ2c3VUtKaU02cnZVbGxzWV9lR0tKaHhjRVIwNGNEdU51ODRHdFhEcmI5d3VGNFB4dG9SdHVJQjdlWFdHRHhqOHhnYzJHRDR5c01hVUhHWmRjZjBWX19zTTFFcE5UX3luLXJPR1lqYXBnOTZsSnRxQzhzajNxbUhLNzMxZEREeWdvU3lnQTU3TFZqSWhJMWFIVV9VT0RIRF91U3pRWGZ5Zw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "region": "Manipur",
+ "group": "A",
+ "query": "(Manipur) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Manipur%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:16+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur's AI turn : Governance, classrooms and security enter a new phase",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSGFBNmx1RzZmR1dlYlBJVTJENjJkQWw4Vi1NUzBYY3RfanZyTExsMFk2VUtsSFpZT2JPeXlLbU1JVmxPTWgyTERnQ0I5VlRUMGlJTkZ0aDVOaTM5RjdobkNzanprdFVlb2pGeG1hWUZNRlhfUzZjdGFZdkp1bU1abUxET3R0bVlVSWh4NUlWNTBaaGpOR2ZjdUpQZUM5RHlGVTI0OHJ6RFNXazZoZVZLRWwwOEVTUmxqWm5Uc2hrRHpTWlJxaTFRNDY0NGxacTh6UC1iS2pKNFEyYzF2bW5GSzBlc2RyZ0dpdi1WMQ?oc=5\" target=\"_blank\">Manipur's AI turn : Governance, classrooms and security enter a new phase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-Pao.net</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSGFBNmx1RzZmR1dlYlBJVTJENjJkQWw4Vi1NUzBYY3RfanZyTExsMFk2VUtsSFpZT2JPeXlLbU1JVmxPTWgyTERnQ0I5VlRUMGlJTkZ0aDVOaTM5RjdobkNzanprdFVlb2pGeG1hWUZNRlhfUzZjdGFZdkp1bU1abUxET3R0bVlVSWh4NUlWNTBaaGpOR2ZjdUpQZUM5RHlGVTI0OHJ6RFNXazZoZVZLRWwwOEVTUmxqWm5Uc2hrRHpTWlJxaTFRNDY0NGxacTh6UC1iS2pKNFEyYzF2bW5GSzBlc2RyZ0dpdi1WMQ?oc=5",
+   "source_name": "E-Pao.net",
+   "source_domain": "e-pao.net",
+   "published_raw": "Wed, 18 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur: Can a new chief minister bring peace to the troubled state?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YN1VwYU5pRmNwTWxkNnoxNVhINXdKaFVsSFplWF9yZEFGS0tDQXpxS3VsRWc0QjlrOFhGcjc2Skk0Q0dyUElNdmlWV3NNbzBMa3g3M0VHTXQ1QQ?oc=5\" target=\"_blank\">Manipur: Can a new chief minister bring peace to the troubled state?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YN1VwYU5pRmNwTWxkNnoxNVhINXdKaFVsSFplWF9yZEFGS0tDQXpxS3VsRWc0QjlrOFhGcjc2Skk0Q0dyUElNdmlWV3NNbzBMa3g3M0VHTXQ1QQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur, Mizoram in focus ahead of India’s ’27 HIV control deadline",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGFwbi1RN0dzZ00ydTJFRzdxRmFfQ1lVeUN0MEtSREdxMGdQOHdRalJqLVdzMmhuRXAyWGluaHpYWmZvWEhLUkdrUVJaNC1seVRFeTR6cVRSVVBTNmpVdnRyY2FwS3IwcFNfaV81enJIWmtoLU15Z2hEYjAtX2o2NFdITFJoZGExUWNXTEhjOG9weUJ6WTFabzdVQzBZZ2tmYlJzdmFSbVU2ZkN4RllUNURtZG9MbmRydWFEUXBHbmVrbmx6ZEFiQzZhWVREZ1Vvb3FPaWFFVdIB3AFBVV95cUxQU0JQdGdjM2Y4OGM1WFNPWFl0MDc4Z002Q09pVHN1UEFCSnFkbl9YSkg1dEdnakRPV0VzZlZCdUltLVpDS1BnZUhjaGtGRUhCWE9PVmRhMGhvWXdBYnlSM2d1UmhDZVRLRWtRMXRUc3pQaWhzVElVUFBPQXppdEFldHh4TWk0dUppNTFyeTE1R0V2ajRnV2JFRGxMLXdOT1Rlc1IxQ0hWTTVfSklqUnBoVk1MbjJnWXVCb1h4cm0tcW45dWRpdVkyYmloSDd2WDBCaXpyYUI0OGZfZWFs?oc=5\" target=\"_blank\">Manipur, Mizoram in focus ahead of India’s ’27 HIV control deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGFwbi1RN0dzZ00ydTJFRzdxRmFfQ1lVeUN0MEtSREdxMGdQOHdRalJqLVdzMmhuRXAyWGluaHpYWmZvWEhLUkdrUVJaNC1seVRFeTR6cVRSVVBTNmpVdnRyY2FwS3IwcFNfaV81enJIWmtoLU15Z2hEYjAtX2o2NFdITFJoZGExUWNXTEhjOG9weUJ6WTFabzdVQzBZZ2tmYlJzdmFSbVU2ZkN4RllUNURtZG9MbmRydWFEUXBHbmVrbmx6ZEFiQzZhWVREZ1Vvb3FPaWFFVdIB3AFBVV95cUxQU0JQdGdjM2Y4OGM1WFNPWFl0MDc4Z002Q09pVHN1UEFCSnFkbl9YSkg1dEdnakRPV0VzZlZCdUltLVpDS1BnZUhjaGtGRUhCWE9PVmRhMGhvWXdBYnlSM2d1UmhDZVRLRWtRMXRUc3pQaWhzVElVUFBPQXppdEFldHh4TWk0dUppNTFyeTE1R0V2ajRnV2JFRGxMLXdOT1Rlc1IxQ0hWTTVfSklqUnBoVk1MbjJnWXVCb1h4cm0tcW45dWRpdVkyYmloSDd2WDBCaXpyYUI0OGZfZWFs?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Manipur inquiry committee head Justice Ajay Lamba resigns, former SC judge B S Chauhan to take over",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdUNRa0htR0JDQlladm1DZ0ZCOUFKN3VjeFR5akF4bzVWVnRSZ1h1ZjdGREhhNlg5c2N5V3RLSXZWdzB3eXlTOXFReV9PcVNvdGF1ZlpQc0ZhbUdiX3p0aVltcGZDUnJJSEVEM203ZVJxaWxPNGV6OE5qbktrbXcwaWpDd1NGM2MzM3dCVGdyQVdJQkhaanhNaFBqOG1kZ2lxbS1mREhYd29iY1lfZmpsaEZIaGQzX05NNUN2SzhIVWkyU0dFZWd6UUpvLXVoVTcwUXZlcll1Z21TVUZRdERKLVRR0gHoAUFVX3lxTE1QRDBpWXFUMUdiSW4zUjNlOTZJZTVtdTZyZUk3SE1XLVFlRGhQSG9IcEhwNEQyQVgteW5PNXYzYmFHd1dERUd0TUVPY0JpTVRnbF9YcHZQNXEtR1lseWtDM3I1d1ZOY052WTNTaHBzSno1MERxaUF2d1RXam5SeUo4U05FeW9yT2IzcENWcjNmUy00YXNvUm84YU4wcXFFMTVOOWxRa1dOclNGRXFhS3NkZ1IwakJhUU5aeTR5TWlDTExzQ0M5UmFMNGZGVk5lZXBPY1hyV1BzNkE2OEZOZVRBaVA1SFV2aEI?oc=5\" target=\"_blank\">Manipur inquiry committee head Justice Ajay Lamba resigns, former SC judge B S Chauhan to take over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdUNRa0htR0JDQlladm1DZ0ZCOUFKN3VjeFR5akF4bzVWVnRSZ1h1ZjdGREhhNlg5c2N5V3RLSXZWdzB3eXlTOXFReV9PcVNvdGF1ZlpQc0ZhbUdiX3p0aVltcGZDUnJJSEVEM203ZVJxaWxPNGV6OE5qbktrbXcwaWpDd1NGM2MzM3dCVGdyQVdJQkhaanhNaFBqOG1kZ2lxbS1mREhYd29iY1lfZmpsaEZIaGQzX05NNUN2SzhIVWkyU0dFZWd6UUpvLXVoVTcwUXZlcll1Z21TVUZRdERKLVRR0gHoAUFVX3lxTE1QRDBpWXFUMUdiSW4zUjNlOTZJZTVtdTZyZUk3SE1XLVFlRGhQSG9IcEhwNEQyQVgteW5PNXYzYmFHd1dERUd0TUVPY0JpTVRnbF9YcHZQNXEtR1lseWtDM3I1d1ZOY052WTNTaHBzSno1MERxaUF2d1RXam5SeUo4U05FeW9yT2IzcENWcjNmUy00YXNvUm84YU4wcXFFMTVOOWxRa1dOclNGRXFhS3NkZ1IwakJhUU5aeTR5TWlDTExzQ0M5UmFMNGZGVk5lZXBPY1hyV1BzNkE2OEZOZVRBaVA1SFV2aEI?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Colonial policy and practice in Manipur - Part 5 -",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUy15ZDVPalVMcUR0dno5enVjRzJSbmNlYmVhT0dWNThnbk9hZjVwQjBwaGRQbnppejViUUsxSy14Z1RZTjNKZ1pCU3JORksyNUJJWjlHUFJkSzVQQWY3YUd0OXhZcmFqMEh2Y1B2cUJKRlBIcTM2WnFybDBRT1NvRHdiZmZiN1M0QzN2ZVM4R2pEcTd2THZadFgwN2JhdExEQXB0c1g5SndFaTM0X0FhcU5GX1FLTHVuWUpZZWVrbjZIQXpaS0U5WkVtQmdwSzI4ZzcteWs4VkloT0Zo?oc=5\" target=\"_blank\">Colonial policy and practice in Manipur - Part 5 -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E-Pao.net</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUy15ZDVPalVMcUR0dno5enVjRzJSbmNlYmVhT0dWNThnbk9hZjVwQjBwaGRQbnppejViUUsxSy14Z1RZTjNKZ1pCU3JORksyNUJJWjlHUFJkSzVQQWY3YUd0OXhZcmFqMEh2Y1B2cUJKRlBIcTM2WnFybDBRT1NvRHdiZmZiN1M0QzN2ZVM4R2pEcTd2THZadFgwN2JhdExEQXB0c1g5SndFaTM0X0FhcU5GX1FLTHVuWUpZZWVrbjZIQXpaS0U5WkVtQmdwSzI4ZzcteWs4VkloT0Zo?oc=5",
+   "source_name": "E-Pao.net",
+   "source_domain": "e-pao.net",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Inside the world's only floating national park",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5ZHhCVXdid0VWR09NOUdRSUFVaEdibE9GQ3BPWGlwOG5OajJUUVdzekxuMjNmbnhrcjRLZHJoNnZhT2J4RWp5eV9FTkpyemZpbUJXTU1xdVc?oc=5\" target=\"_blank\">Inside the world's only floating national park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5ZHhCVXdid0VWR09NOUdRSUFVaEdibE9GQ3BPWGlwOG5OajJUUVdzekxuMjNmbnhrcjRLZHJoNnZhT2J4RWp5eV9FTkpyemZpbUJXTU1xdVc?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Tue, 21 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Bank holidays in March 2026: Complete state-wise list with festival dates—Check full schedule",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3EzckwtSDVCNUZKSzh4Q2tQYS1KQTVOaVd6SWxnU2h2NHppVGtEdk5SMlBtNmZGOWV4UFo0blIxWHN0TXJMWUthdUdNSnMzRFdXdnBXbktUcXlTMlQtRHJMdHFsOWUwVDVVaklJbE5XbU9MaVRSM2hMZVZoUUpVV3I0b3dvUFFIQkZOMkdVQXBsYUN5WFB4SWFFWXVMZXV2OFJsenJVYm9nMzZBSHlJWFRaVFJBOTVQR1NIZTBXcm5MTXBiOGd4aUN1ZkhRSDlpMTdaNGhJV1R6cjdNLWtMbGxhWVZWNzYzVlo5WjdrTGszUDEzd0R5WVlDaUI1UnN2S3c3bUlCNzfSAY4CQVVfeXFMUE51SjdYQlJMZ1h2SDhLS3BULWpGVnJTcnYxa1hfSDhWMDg1WHBxS3FMMmtFTF9ESWk3a2RvRFZUcUk2Rld5NU1qMDJHV0huVGp1TjJYV25JU3g2a2ZDcHROZk1maFFoUWVfMldIODlWRHlSMjAybmQ3dUplUU1zNWRMa1NXazc0aGFQWXpxclNLcFpRSVkycnE0VUJVXzBSVURYODZwLU5PUlJVUlg1MVg0S3l2TWNYLVJVelNQbGx3V1dLY0wyN2tqSUFfWEg5aUFUVm5qNENONGt0MG8xWHVJc2QzTzF5VXE1R2hOTzUwM1JOQVlRYTJIYVhjQV9zZm96VklZYjFiNXYzNERn?oc=5\" target=\"_blank\">Bank holidays in March 2026: Complete state-wise list with festival dates—Check full schedule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3EzckwtSDVCNUZKSzh4Q2tQYS1KQTVOaVd6SWxnU2h2NHppVGtEdk5SMlBtNmZGOWV4UFo0blIxWHN0TXJMWUthdUdNSnMzRFdXdnBXbktUcXlTMlQtRHJMdHFsOWUwVDVVaklJbE5XbU9MaVRSM2hMZVZoUUpVV3I0b3dvUFFIQkZOMkdVQXBsYUN5WFB4SWFFWXVMZXV2OFJsenJVYm9nMzZBSHlJWFRaVFJBOTVQR1NIZTBXcm5MTXBiOGd4aUN1ZkhRSDlpMTdaNGhJV1R6cjdNLWtMbGxhWVZWNzYzVlo5WjdrTGszUDEzd0R5WVlDaUI1UnN2S3c3bUlCNzfSAY4CQVVfeXFMUE51SjdYQlJMZ1h2SDhLS3BULWpGVnJTcnYxa1hfSDhWMDg1WHBxS3FMMmtFTF9ESWk3a2RvRFZUcUk2Rld5NU1qMDJHV0huVGp1TjJYV25JU3g2a2ZDcHROZk1maFFoUWVfMldIODlWRHlSMjAybmQ3dUplUU1zNWRMa1NXazc0aGFQWXpxclNLcFpRSVkycnE0VUJVXzBSVURYODZwLU5PUlJVUlg1MVg0S3l2TWNYLVJVelNQbGx3V1dLY0wyN2tqSUFfWEg5aUFUVm5qNENONGt0MG8xWHVJc2QzTzF5VXE1R2hOTzUwM1JOQVlRYTJIYVhjQV9zZm96VklZYjFiNXYzNERn?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Three-day Naga shutdown paralyses Manipur hill districts amid valley unrest",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZElrZ253em1lUldfM1BZOHlONndMamVTbGdJbXc4ZktQYVphemlWS08zazlQV1UtZDBYakRjZXBMRVhEMmUySGlUWDdYX3ZyRkh2ZFYxcTgwQThoandfSlAyTkViSzdvS2lzVnBzRFdkaUhtT2otY0Nad3FFWUwtTWlSd29mTUt5WEZnNUVYSWRaV3laeGNZcTlnZjZoZ3Y0UnZiRXIxMEJxMVh1NGNwcU9pSm0xSzR2Vkl2ZTUxX3dCWGsyYnhRNEJ3TFBDdHV3XzZkVWZwMNIB3AFBVV95cUxOSFduVmxtNk1YTFJSV1hCMm1pOGJtcmlxczVhZXBXcVVQc19WUDByUTBHR2U3akFJN0ZxVF9EWmU1ZHJVVnY1TFFjQTdaV0Ntbl85OWNBdmRCdl9iRHI3S19sSEZoRkI2NXdfYXB2cWlicnZ6cHI2aFRjUHNCb3ZJYkFaeGloanN1eFFnNHlqXzlXQ09MNlk5X05TcEkzUVFuNFR4eklqY2lhNGdGUnNtRGROTWQ0WGtsTUl2UE1SM2Vkb0NnQmZyVnl3UXYyWDZCSFJVWjhtZDNqQ3BV?oc=5\" target=\"_blank\">Three-day Naga shutdown paralyses Manipur hill districts amid valley unrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZElrZ253em1lUldfM1BZOHlONndMamVTbGdJbXc4ZktQYVphemlWS08zazlQV1UtZDBYakRjZXBMRVhEMmUySGlUWDdYX3ZyRkh2ZFYxcTgwQThoandfSlAyTkViSzdvS2lzVnBzRFdkaUhtT2otY0Nad3FFWUwtTWlSd29mTUt5WEZnNUVYSWRaV3laeGNZcTlnZjZoZ3Y0UnZiRXIxMEJxMVh1NGNwcU9pSm0xSzR2Vkl2ZTUxX3dCWGsyYnhRNEJ3TFBDdHV3XzZkVWZwMNIB3AFBVV95cUxOSFduVmxtNk1YTFJSV1hCMm1pOGJtcmlxczVhZXBXcVVQc19WUDByUTBHR2U3akFJN0ZxVF9EWmU1ZHJVVnY1TFFjQTdaV0Ntbl85OWNBdmRCdl9iRHI3S19sSEZoRkI2NXdfYXB2cWlicnZ6cHI2aFRjUHNCb3ZJYkFaeGloanN1eFFnNHlqXzlXQ09MNlk5X05TcEkzUVFuNFR4eklqY2lhNGdGUnNtRGROTWQ0WGtsTUl2UE1SM2Vkb0NnQmZyVnl3UXYyWDZCSFJVWjhtZDNqQ3BV?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 21 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Operation Sindoor hero Rizwan Malik: Meet Manipur pilot who flew India’s most daring strike mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQalEtd3JFSkl0QWp2RDVNX2NLZW1XTG5sZW9Wc2E1Z2tSR0tOLTVmU0oya28tdlV2WjRSZ1V0ZGc1VkM5a3BwUGQ1bzgtZ0FyaEFRNXZaRS1MOEtLbFVyaW9zRDJUdG9WREhBeGZCOEM4LS1DeW1WZWlqNEpfVjJQM0VvaU9UX0t3OXZ3OFhIb1ZSdzFRUXlCSXlKOVY1NEZsZ1dIMmg0XzRxSC1zT2k0eDJKcTB6VkdHTnJOdXk2TUxQS3lPNlYzNlpZXzlVV1h6Z2VwRUh5VjNFb3JJNUJRZE1KcVp3RU5kZzU3dNIB8gFBVV95cUxPWGxmUG8tUEVmQmFDaXhCV09iZ2ZqUWw2ajNhbjZJc3I4U0ZHaHExMGV6R3JKaERYTEd2d19lMkVSS0s2Z1dGMEVhU282WThVSmowMlA4TGlmejJnQkdrdVlfZlR5TUFZTVVGZTdXbzE0ZXZvMkNpVzR5V3hsNUhfUkhPUUUzMS1YcEdDZzdDTmREV2s5dmFQOVRRQ3J6d2w5UHkzbTFqbFNDMFlzZzFJUXUyYlEtZnFEekdzWnctRUNnVEJya3B4eGNZYW9MTXgyUlR3cHh3M1kzWjZRaWxmREJfNWVVNFZBNGhyOHVEVXI1Zw?oc=5\" target=\"_blank\">Operation Sindoor hero Rizwan Malik: Meet Manipur pilot who flew India’s most daring strike mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQalEtd3JFSkl0QWp2RDVNX2NLZW1XTG5sZW9Wc2E1Z2tSR0tOLTVmU0oya28tdlV2WjRSZ1V0ZGc1VkM5a3BwUGQ1bzgtZ0FyaEFRNXZaRS1MOEtLbFVyaW9zRDJUdG9WREhBeGZCOEM4LS1DeW1WZWlqNEpfVjJQM0VvaU9UX0t3OXZ3OFhIb1ZSdzFRUXlCSXlKOVY1NEZsZ1dIMmg0XzRxSC1zT2k0eDJKcTB6VkdHTnJOdXk2TUxQS3lPNlYzNlpZXzlVV1h6Z2VwRUh5VjNFb3JJNUJRZE1KcVp3RU5kZzU3dNIB8gFBVV95cUxPWGxmUG8tUEVmQmFDaXhCV09iZ2ZqUWw2ajNhbjZJc3I4U0ZHaHExMGV6R3JKaERYTEd2d19lMkVSS0s2Z1dGMEVhU282WThVSmowMlA4TGlmejJnQkdrdVlfZlR5TUFZTVVGZTdXbzE0ZXZvMkNpVzR5V3hsNUhfUkhPUUUzMS1YcEdDZzdDTmREV2s5dmFQOVRRQ3J6d2w5UHkzbTFqbFNDMFlzZzFJUXUyYlEtZnFEekdzWnctRUNnVEJya3B4eGNZYW9MTXgyUlR3cHh3M1kzWjZRaWxmREJfNWVVNFZBNGhyOHVEVXI1Zw?oc=5",
+   "source_name": "Business Today",
+   "source_domain": "businesstoday.in",
+   "published_raw": "Thu, 07 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Manipur",
+   "title": "Fact Check: Manipur has not issued a separate ₹500 currency, a fake claim",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1FKNmJPZFFMLU9uSVR2UjlqeXJxNlRYMXhFV1J5dC1HcWtfUlZ1UjJyalUyeURKUE1HUkxTT2tQdEctVFZhV3BSczJvdkRsRWJSSWxibnhaVWlfVk9Ed1lqMFhQZHlkV0lPSjBQNFZFSFNNUnNBWXpRcWNxUk9EcFdRNGw2bk55VzBLZVNlY1R6QUF0bERhN2x4Y09XY2VjRnllclVNZl9YQnFTX0lUTXFR?oc=5\" target=\"_blank\">Fact Check: Manipur has not issued a separate ₹500 currency, a fake claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DFRAC ORG</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1FKNmJPZFFMLU9uSVR2UjlqeXJxNlRYMXhFV1J5dC1HcWtfUlZ1UjJyalUyeURKUE1HUkxTT2tQdEctVFZhV3BSczJvdkRsRWJSSWxibnhaVWlfVk9Ed1lqMFhQZHlkV0lPSjBQNFZFSFNNUnNBWXpRcWNxUk9EcFdRNGw2bk55VzBLZVNlY1R6QUF0bERhN2x4Y09XY2VjRnllclVNZl9YQnFTX0lUTXFR?oc=5",
+   "source_name": "DFRAC ORG",
+   "source_domain": "dfrac.org",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:16+00:00"
+  }
+ ]
+}

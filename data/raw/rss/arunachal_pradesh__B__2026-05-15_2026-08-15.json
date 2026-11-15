@@ -1,0 +1,109 @@
+{
+ "region": "Arunachal Pradesh",
+ "group": "B",
+ "query": "(\"Arunachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Arunachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:20+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pradesh Signs MoU with NIT for AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3N4YVNxQUdzWGt4NTFweUNwSXdHQ2V2eFpWaC1reTJVRi02YkdfZ1I4R1dmNjRiYXFGcllXaVhHX1NvYXNVaTF5NHJ4cVoxb0haekViNU5YNnV0Z092cFNQeGd3ckhHQ19aYmpDUjZUcUZqQ1pDSm44ejVDRVluY2Ixa0RKZEM5REhiZ0s4Q2k1Zw?oc=5\" target=\"_blank\">Arunachal Pradesh Signs MoU with NIT for AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arunachal24</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3N4YVNxQUdzWGt4NTFweUNwSXdHQ2V2eFpWaC1reTJVRi02YkdfZ1I4R1dmNjRiYXFGcllXaVhHX1NvYXNVaTF5NHJ4cVoxb0haekViNU5YNnV0Z092cFNQeGd3ckhHQ19aYmpDUjZUcUZqQ1pDSm44ejVDRVluY2Ixa0RKZEM5REhiZ0s4Q2k1Zw?oc=5",
+   "source_name": "Arunachal24",
+   "source_domain": "arunachal24.in",
+   "published_raw": "Mon, 08 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pradesh: Why the Forest Rights Act Matters",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXd4aHg2alQtRV9OaXBVTGxfaUI3MnpySVlYZEtDMUZTbDVJcjFkNDdpWnpUX0ZOcUR6WGt1Z3Vkb3ltMzBmcDMzckJ5RGtUeWJ1M01rTFpQWXNSM21zdXNHSTBUaXNLT3JhZU9lYnQyYVJKVzYyRFNuTXhqZzlGRzFHdjZYcnBpV0lDenAyU0VXOHlpUTJhdmdvU1Q5Q3RaR0FJUm9kTTZYZm4yVVhhal8xLVd5cnJsV3czazk1UmpQTTTSAcoBQVVfeXFMTWhUZDY5bjBTSlM5WXcwZnNXaGdORmlmTkhTQi1CTmdxTm1HTUFMQ0hNdTFuSDVwNElaZXFCYTFuMzlPbWVFUkNCSUI0V19vcXQzRmkweWVLdU1HdTAzMURvN1ZWN19Wa25SWFN2MG41Z2VLb3J1ODZVd0cxMXJvR0tzS2xnWW1rWUs4VWpCX3RuVVh4RGZoM3hRaVRyel9Ed21reFFxVzRZN05xa2tWME9VSzFtVUx4QTNMU0pjMU9aWlFYdDhndTAwQQ?oc=5\" target=\"_blank\">Arunachal Pradesh: Why the Forest Rights Act Matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXd4aHg2alQtRV9OaXBVTGxfaUI3MnpySVlYZEtDMUZTbDVJcjFkNDdpWnpUX0ZOcUR6WGt1Z3Vkb3ltMzBmcDMzckJ5RGtUeWJ1M01rTFpQWXNSM21zdXNHSTBUaXNLT3JhZU9lYnQyYVJKVzYyRFNuTXhqZzlGRzFHdjZYcnBpV0lDenAyU0VXOHlpUTJhdmdvU1Q5Q3RaR0FJUm9kTTZYZm4yVVhhal8xLVd5cnJsV3czazk1UmpQTTTSAcoBQVVfeXFMTWhUZDY5bjBTSlM5WXcwZnNXaGdORmlmTkhTQi1CTmdxTm1HTUFMQ0hNdTFuSDVwNElaZXFCYTFuMzlPbWVFUkNCSUI0V19vcXQzRmkweWVLdU1HdTAzMURvN1ZWN19Wa25SWFN2MG41Z2VLb3J1ODZVd0cxMXJvR0tzS2xnWW1rWUs4VWpCX3RuVVh4RGZoM3hRaVRyel9Ed21reFFxVzRZN05xa2tWME9VSzFtVUx4QTNMU0pjMU9aWlFYdDhndTAwQQ?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal CM urges NE universities to become 'problem-solving institutions'",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWEZTRUZna05Rb01rTV9ISDk5U0ZmZlUyOVRyYi0yd21lNkJFczhwYjdnZm5iWjNmU2owV1FJMFVkSUdhR1hPdGh1MEMtdWxoMHF2WC1CQUZBclM2YTJWVG1MbUNQUEs3eloxbDd4XzBHc2daNV91OGNRTDZlQTJzRXZpRkk2QkN0V0t6VF92SVFkOE0tb3BpMThxblA0NEJPUmhUOGF2blJEQ2dWaU95RnhNcXBmaFUzam0zU0xxUVE4SDQweWo4YUdUczd0M1FVT25FckxKN1JyZU5TWWwwTmdVQXo3QdIB6wFBVV95cUxOV1VEVjZDM01UMnVFZ2lpN3d5TXA2SUk0ZWlmb0pZTkdkRTMySW5LWG1FSmtCLVU0azlVemdwMXJ2WWZ4Rnc3NXgway1DUlZOU2pkZzRxTW9GbjdJQmdzTGF4aHpscjBaZElfckQ1Yk5nSEU5cG1uRk1odjRzM0NCcVNCOHlYNjFXWDVBcHp5aE5waWcxX0FpVTJjWXE2YU9LY2RnU3VrWmM3WjhkVWFDSk1wN2NSWjJBbWQxYTRXZ0dFTWQzbDJqRjFtZ3dEUDY5WU5GUUJrUE9yRmJYb29YSmhrNU90VGhFWjQ4?oc=5\" target=\"_blank\">Arunachal CM urges NE universities to become 'problem-solving institutions'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWEZTRUZna05Rb01rTV9ISDk5U0ZmZlUyOVRyYi0yd21lNkJFczhwYjdnZm5iWjNmU2owV1FJMFVkSUdhR1hPdGh1MEMtdWxoMHF2WC1CQUZBclM2YTJWVG1MbUNQUEs3eloxbDd4XzBHc2daNV91OGNRTDZlQTJzRXZpRkk2QkN0V0t6VF92SVFkOE0tb3BpMThxblA0NEJPUmhUOGF2blJEQ2dWaU95RnhNcXBmaFUzam0zU0xxUVE4SDQweWo4YUdUczd0M1FVT25FckxKN1JyZU5TWWwwTmdVQXo3QdIB6wFBVV95cUxOV1VEVjZDM01UMnVFZ2lpN3d5TXA2SUk0ZWlmb0pZTkdkRTMySW5LWG1FSmtCLVU0azlVemdwMXJ2WWZ4Rnc3NXgway1DUlZOU2pkZzRxTW9GbjdJQmdzTGF4aHpscjBaZElfckQ1Yk5nSEU5cG1uRk1odjRzM0NCcVNCOHlYNjFXWDVBcHp5aE5waWcxX0FpVTJjWXE2YU9LY2RnU3VrWmM3WjhkVWFDSk1wN2NSWjJBbWQxYTRXZ0dFTWQzbDJqRjFtZ3dEUDY5WU5GUUJrUE9yRmJYb29YSmhrNU90VGhFWjQ4?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Tue, 11 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal signs MoU to establish AI Centre of Excellence at NIT",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2IwUTBMUHMzbmItX1JZTXdCYnFVbnNLblRHT19OOWpUX3BSQmEtMHR3T1N6b0dnN3Y4OEZRTmN4VG0xeTJhNGtTLWFqMFdTYzF5c19ERzJnSXdqRUo0cXd0MkU0cWFSWFNWZDM1Z2lSSWhVREJwT1loenJkaTlvOXNZRi1YTzdSZzR1U3FleGQwMVRVdmVGTzd5WGZuZEwyQUVBUS1FR1lGWVZwSzNTU0ZRZmFGLVB2QVdHMkcyTWkzUVJCVnEtczRVQk5lb03SAdQBQVVfeXFMUEJXcWxVQ1hFSjlmYWRvN29pZm43MHcwTUJuYnh3cnVWN2loOU1Rc1ZOLWZUbllQUHNjbGhoT3FjUVVoc1o0aUNrdmdYRnpFTU9EMGdFbE8zeG9JSDBzV1FLbnJkOFV4WWdRQklHWEhrSVcyUDBkeElGb1dhNmV3WjhORm1MTktMZ0p6TXRvYk9rMkZfY1JsTU1NWkdldUQ3TndtUHdBNkg0SzE3S1dNTWdWcjNUdDc3UkU1V0ZRYURTRW5yMzZxZFdiaVdRSDVUd1pMTE8?oc=5\" target=\"_blank\">Arunachal signs MoU to establish AI Centre of Excellence at NIT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2IwUTBMUHMzbmItX1JZTXdCYnFVbnNLblRHT19OOWpUX3BSQmEtMHR3T1N6b0dnN3Y4OEZRTmN4VG0xeTJhNGtTLWFqMFdTYzF5c19ERzJnSXdqRUo0cXd0MkU0cWFSWFNWZDM1Z2lSSWhVREJwT1loenJkaTlvOXNZRi1YTzdSZzR1U3FleGQwMVRVdmVGTzd5WGZuZEwyQUVBUS1FR1lGWVZwSzNTU0ZRZmFGLVB2QVdHMkcyTWkzUVJCVnEtczRVQk5lb03SAdQBQVVfeXFMUEJXcWxVQ1hFSjlmYWRvN29pZm43MHcwTUJuYnh3cnVWN2loOU1Rc1ZOLWZUbllQUHNjbGhoT3FjUVVoc1o0aUNrdmdYRnpFTU9EMGdFbE8zeG9JSDBzV1FLbnJkOFV4WWdRQklHWEhrSVcyUDBkeElGb1dhNmV3WjhORm1MTktMZ0p6TXRvYk9rMkZfY1JsTU1NWkdldUQ3TndtUHdBNkg0SzE3S1dNTWdWcjNUdDc3UkU1V0ZRYURTRW5yMzZxZFdiaVdRSDVUd1pMTE8?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Mon, 08 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Laghu Udyog Bharati forms Arunachal state unit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFZUU3RlWjl6Nk15R2d0ZFhsSWo0emZZQ0dTX2tmTGs0R3VITjF2TUhxb2pkbXptbkN1RWM4RTRBcVBnOS1pSU51aEZqaW9YbGtJMTZ1UHdfNjlkZlVOZDM5dDdDVHQwZzd6TDNXNF81U0d0LTRnZ1A1ckZwRVhvYy14a3FSeGM?oc=5\" target=\"_blank\">Laghu Udyog Bharati forms Arunachal state unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFZUU3RlWjl6Nk15R2d0ZFhsSWo0emZZQ0dTX2tmTGs0R3VITjF2TUhxb2pkbXptbkN1RWM4RTRBcVBnOS1pSU51aEZqaW9YbGtJMTZ1UHdfNjlkZlVOZDM5dDdDVHQwZzd6TDNXNF81U0d0LTRnZ1A1ckZwRVhvYy14a3FSeGM?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Sun, 21 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pradesh Cabinet approves Rs 7,834 crore for 4 major schemes; 20% reservation for retired Agnivee",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNSGNQYTlJa2NQY3BXVkZUZldja2NMUnZVSkR1b3BBTF9DbmhuNTlzdW5DcVFwNVItOVZaaUVrQktycGNPbDg5dkk3eU5QRGdtc1FnMFV6OVlTeTYtdW1tVjJUMkVjQ0paMFBGVWo2bFkxcUJPN3FUM1BXbVo0cFl6OEZJSFVwSGtmLUFNMnJNc2RRNmxpOUlhengyemZVSjJWUWdoVTlCWEp1RUowd05RdHRxNTBiLWFudVkwYW16cXZ3ZS1LNzVfQmVYWWlGM1BUcU9LX0lTc08yQ29lNTRETUUxcFhHb05JT2hKeTRIcmJGQ2tER0dGeEZEUFg5YUlZaDROLW8tUFoxcG5NREczOHJVRXjSAZoCQVVfeXFMUHR0SE9jb0pHVk0wREJIQVA1emRIelNYWU5Pd2M3akV3ekNXNWVOTnhaNng3VXQxTGloN0hzeG5QbDlLSjVTWU5FQm5FdUN1Q0dOVzE0QkhRdmVJM0pzMkZEaXRLRGRwQzB3SnJ5bnBiNHRxU1dDcVB3NDJBOFdOSGRIYVRsUUVpWlVvd2VrTUl2ZnBMTEd3Y3Foc0hmX0NMZ21HeVpyUXU5YUFrZnp5bTZXM09wZU0xT3B0aUc0VWtpN0QyNkVJbUtDTTlhamU2WGxIMnFVOWdDYTU0U2IzLVlJUS1rRzZ4ZHFBMUZxS0Q1Q2s3aU1nY1lCeU1fRDVmZjZRNUUyZGlGZk41WDl0aXY1bVpPdldseUtB?oc=5\" target=\"_blank\">Arunachal Pradesh Cabinet approves Rs 7,834 crore for 4 major schemes; 20% reservation for retired Agnivee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSGNQYTlJa2NQY3BXVkZUZldja2NMUnZVSkR1b3BBTF9DbmhuNTlzdW5DcVFwNVItOVZaaUVrQktycGNPbDg5dkk3eU5QRGdtc1FnMFV6OVlTeTYtdW1tVjJUMkVjQ0paMFBGVWo2bFkxcUJPN3FUM1BXbVo0cFl6OEZJSFVwSGtmLUFNMnJNc2RRNmxpOUlhengyemZVSjJWUWdoVTlCWEp1RUowd05RdHRxNTBiLWFudVkwYW16cXZ3ZS1LNzVfQmVYWWlGM1BUcU9LX0lTc08yQ29lNTRETUUxcFhHb05JT2hKeTRIcmJGQ2tER0dGeEZEUFg5YUlZaDROLW8tUFoxcG5NREczOHJVRXjSAZoCQVVfeXFMUHR0SE9jb0pHVk0wREJIQVA1emRIelNYWU5Pd2M3akV3ekNXNWVOTnhaNng3VXQxTGloN0hzeG5QbDlLSjVTWU5FQm5FdUN1Q0dOVzE0QkhRdmVJM0pzMkZEaXRLRGRwQzB3SnJ5bnBiNHRxU1dDcVB3NDJBOFdOSGRIYVRsUUVpWlVvd2VrTUl2ZnBMTEd3Y3Foc0hmX0NMZ21HeVpyUXU5YUFrZnp5bTZXM09wZU0xT3B0aUc0VWtpN0QyNkVJbUtDTTlhamU2WGxIMnFVOWdDYTU0U2IzLVlJUS1rRzZ4ZHFBMUZxS0Q1Q2s3aU1nY1lCeU1fRDVmZjZRNUUyZGlGZk41WDl0aXY1bVpPdldseUtB?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sat, 18 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Centre approves 17 road projects worth ₹611 crore for Arunachal Pradesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXdvWGc3dmFfa0tMeGVZR25QLXB5a25qS3NCTTgxaEczaFNvTVF5R2UtUE1zRGhfclFfQS1fbTRRd3JkVUpuY0pnMkpFZTVQMzVhelhpOFowRUN0Q1N1ZGNERUJtcDBERUE0UEVLYW1CQUIxTlBiVzVTTXpobjMwVlRVd1FtQmh0UnRSUmduQVNZa2hMVUYxdjFmeW5aWERaQ2VmbXExUGhRZ25odWJscVVzV2E3TzRyN0hWelR4S25mR2FGWU02Qllkc2p1RnRTSzR1TmRlYlhBWnhy0gHiAUFVX3lxTE13cklPWUlIMDJ0cTl2WTJBaXZFaFYwSUU2bERfZjhBb1RjTEcxaFBRTFNYTzBWRHRjcE1WR19LMmRjMk5tb3huMHAyZFl1RVdxdkhhOFZfX0hoWkFIS0ZyVlBka010Sk42dHRjREw2anNDRUZXLXY2MWNIa2RJc3FKT2Zwa0tRSDVfa3gwS3ZxNjdRU0JOTXRuRi1fbklhdE43YXRINXg5RHZXY2lJOTN0MDhkRFdlRHowMzBZcmx1YV9BY2ktSXJ2c2VyekdFT0syUTV6d2wtc25ISHI5N3N6Y0E?oc=5\" target=\"_blank\">Centre approves 17 road projects worth ₹611 crore for Arunachal Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXdvWGc3dmFfa0tMeGVZR25QLXB5a25qS3NCTTgxaEczaFNvTVF5R2UtUE1zRGhfclFfQS1fbTRRd3JkVUpuY0pnMkpFZTVQMzVhelhpOFowRUN0Q1N1ZGNERUJtcDBERUE0UEVLYW1CQUIxTlBiVzVTTXpobjMwVlRVd1FtQmh0UnRSUmduQVNZa2hMVUYxdjFmeW5aWERaQ2VmbXExUGhRZ25odWJscVVzV2E3TzRyN0hWelR4S25mR2FGWU02Qllkc2p1RnRTSzR1TmRlYlhBWnhy0gHiAUFVX3lxTE13cklPWUlIMDJ0cTl2WTJBaXZFaFYwSUU2bERfZjhBb1RjTEcxaFBRTFNYTzBWRHRjcE1WR19LMmRjMk5tb3huMHAyZFl1RVdxdkhhOFZfX0hoWkFIS0ZyVlBka010Sk42dHRjREw2anNDRUZXLXY2MWNIa2RJc3FKT2Zwa0tRSDVfa3gwS3ZxNjdRU0JOTXRuRi1fbklhdE43YXRINXg5RHZXY2lJOTN0MDhkRFdlRHowMzBZcmx1YV9BY2ktSXJ2c2VyekdFT0syUTV6d2wtc25ISHI5N3N6Y0E?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Sat, 11 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pradesh State Transport Services backbone of connectivity: Deputy CM Mein",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUTRKTExJeEE0RkRsNnFFYVJsZ1czVS1TYlYtYmo3b185UU53dy1GNE9vNm0temloaDR3VWNvQV9xZGF6TWV5Zm5lNkxDVXVJYWVpeG9DLWt1dmw3VlFsYUJtMi1OQ2hNTnR1MWRUWjFEc1BDSjBXOVdSN3FoN1k0X1RtZHNCdk9DUmh1Q3g3SUVPdm1xbFhCVU1VUXNZMjl3Tm9JT0trXzFPcml3T29rTDZpNE9iS0t4RVVQbmhqTGlsV3VXWUNBYlg4djQ0LTRtREk3aFVVZXNZckdLX1d3eWRIaHBVeUJ0eU1YQzlPcXc4ZWfSAfcBQVVfeXFMTUZRbnZXdVdCRGVkcTE1bDRFT2QtRkgzZ3czZ2lJSi1Tcmc0b0ZYbXYwd0k1azRCRlJRSGpUWDVhNFRrLXNFZ2dzenMyQmM2NDVITVFQbUhxMVAxWlhoZ1RvUUlyS3pHNG5LbkpVcGVESzdLWWlTU1BqUEx6S0syeEJYaWhYelBUeG9faEdncXJyTTdqYW5vWlA2UWt1dEEwVWRCQTMtNGJRNTVmOHoxd1dxZFNKMlV2RUxKX1dBUUtaSk0xQ1VXSXQyVE5feDJNUWE2ZkZINm5WRVdWYWVFTEpoOVA2NmotbUxnUkg2cEd3R1ZBQ1ZpYw?oc=5\" target=\"_blank\">Arunachal Pradesh State Transport Services backbone of connectivity: Deputy CM Mein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUTRKTExJeEE0RkRsNnFFYVJsZ1czVS1TYlYtYmo3b185UU53dy1GNE9vNm0temloaDR3VWNvQV9xZGF6TWV5Zm5lNkxDVXVJYWVpeG9DLWt1dmw3VlFsYUJtMi1OQ2hNTnR1MWRUWjFEc1BDSjBXOVdSN3FoN1k0X1RtZHNCdk9DUmh1Q3g3SUVPdm1xbFhCVU1VUXNZMjl3Tm9JT0trXzFPcml3T29rTDZpNE9iS0t4RVVQbmhqTGlsV3VXWUNBYlg4djQ0LTRtREk3aFVVZXNZckdLX1d3eWRIaHBVeUJ0eU1YQzlPcXc4ZWfSAfcBQVVfeXFMTUZRbnZXdVdCRGVkcTE1bDRFT2QtRkgzZ3czZ2lJSi1Tcmc0b0ZYbXYwd0k1azRCRlJRSGpUWDVhNFRrLXNFZ2dzenMyQmM2NDVITVFQbUhxMVAxWlhoZ1RvUUlyS3pHNG5LbkpVcGVESzdLWWlTU1BqUEx6S0syeEJYaWhYelBUeG9faEdncXJyTTdqYW5vWlA2UWt1dEEwVWRCQTMtNGJRNTVmOHoxd1dxZFNKMlV2RUxKX1dBUUtaSk0xQ1VXSXQyVE5feDJNUWE2ZkZINm5WRVdWYWVFTEpoOVA2NmotbUxnUkg2cEd3R1ZBQ1ZpYw?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Sun, 31 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Rare Himalayan bee recorded in India for first time in Arunachal’s Tawang",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW5KVnFYQXhEaFdXcENTWDRWRExld20yV3hOSVRUcXVJRzlSRXJJQ041U3dUQmVENzhxQTlCM19fR2xnTEtGcUNVeWNVWW8wMXBqVHdvbk5ac3BOYmM0dDNwRW9MMFEwSXhUSmxQZ0djLWpnNDEydWhkQVJpbGhNRlROY0dkVFBXVDZrWWNLb0VkcnFNaDlvRFdCQlg4cjVKa0JPcUZ4Y3lSNndGZE1pQWNQMnF0WGfSAbwBQVVfeXFMTV8zb0ZxUmVzWkdUMWhpQ29WS0pmd3lJOS0zaUtXLTliWkR3WExEWmpwRC1LWW9ROC1MYmNadVVjY1p2ZUxsUDJzcWpwbUprcUxBVzdNQ3RiZXlqY0h5Y1JlaFRXUVFDODdadEZMZ2JncmNqeEVWZ1hDQzZIQnNHdTNuWDQwNWhjZHVBaUI4LU1UUGNKRTEwRFZHV2ppWURtcGhGbllXeDdFTmphdnZtSTFnSW9yZEx4dWs3UEc?oc=5\" target=\"_blank\">Rare Himalayan bee recorded in India for first time in Arunachal’s Tawang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW5KVnFYQXhEaFdXcENTWDRWRExld20yV3hOSVRUcXVJRzlSRXJJQ041U3dUQmVENzhxQTlCM19fR2xnTEtGcUNVeWNVWW8wMXBqVHdvbk5ac3BOYmM0dDNwRW9MMFEwSXhUSmxQZ0djLWpnNDEydWhkQVJpbGhNRlROY0dkVFBXVDZrWWNLb0VkcnFNaDlvRFdCQlg4cjVKa0JPcUZ4Y3lSNndGZE1pQWNQMnF0WGfSAbwBQVVfeXFMTV8zb0ZxUmVzWkdUMWhpQ29WS0pmd3lJOS0zaUtXLTliWkR3WExEWmpwRC1LWW9ROC1MYmNadVVjY1p2ZUxsUDJzcWpwbUprcUxBVzdNQ3RiZXlqY0h5Y1JlaFRXUVFDODdadEZMZ2JncmNqeEVWZ1hDQzZIQnNHdTNuWDQwNWhjZHVBaUI4LU1UUGNKRTEwRFZHV2ppWURtcGhGbllXeDdFTmphdnZtSTFnSW9yZEx4dWs3UEc?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Tue, 11 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:20+00:00"
+  }
+ ]
+}

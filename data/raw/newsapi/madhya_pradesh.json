@@ -1,0 +1,20 @@
+{
+ "region": "Madhya Pradesh",
+ "query": "(\"Madhya Pradesh\") AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:52+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Madhya Pradesh",
+   "title": "India-based Spintronics AI weighs GaN chip fab in Madhya Pradesh",
+   "description": "Hyderabad-based Spintronics AI Semiconductors said on October 27 that it is evaluating the feasibility of establishing a gallium nitride (GaN) semiconductor fabrication facility at Vikram Udyogapuri in Ujjain, Madhya Pradesh, with a total proposed investment …",
+   "url": "https://www.digitimes.com/news/a20261028VL221/gan-fab-investment-technology-development.html",
+   "source_name": "Digitimes",
+   "source_domain": "digitimes.com",
+   "published_raw": "2026-10-28T03:09:56Z",
+   "fetched_at": "2026-11-15T09:47:52+00:00"
+  }
+ ]
+}

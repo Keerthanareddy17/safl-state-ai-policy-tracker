@@ -1,0 +1,98 @@
+{
+ "region": "Odisha",
+ "group": "B",
+ "query": "(Odisha OR Bhubaneswar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Odisha+OR+Bhubaneswar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:01+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Groundbreaking of India’s First Advanced 3D Semiconductor Packaging Unit in Odisha; Major Boost to AI, 5G and Defence Tech",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SXBlNURRb3JONHU4R3FjVWt6NzRxcEc2TndxS0hCWDFhWEREaE5jQUE1THd0N2JKMk1ZTk9IN21CMmlGdnEySnFZMDVwZTM3UGtQU3dyS1pheGR4MERObmhMWkFuZkRv?oc=5\" target=\"_blank\">Groundbreaking of India’s First Advanced 3D Semiconductor Packaging Unit in Odisha; Major Boost to AI, 5G and Defence Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SXBlNURRb3JONHU4R3FjVWt6NzRxcEc2TndxS0hCWDFhWEREaE5jQUE1THd0N2JKMk1ZTk9IN21CMmlGdnEySnFZMDVwZTM3UGtQU3dyS1pheGR4MERObmhMWkFuZkRv?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "ICAR Institutes across the Country Host Live Webcast of Bharat-VISTAAR Launch, Reinforcing Digital Transformation in Agriculture | ICAR",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEJhd3pmLTVwSnJtR2E0WkJ2M1pHOTgzTXVoMU8zRVJpRWZ5R0N0ZldHTGx4TFdFQy00Wk1KN2ppUUJCMFd3NHY2dDRKXzZiMzlEaDFmTndxNzV1dEctd3FTMHNLT09zSlJsTkh5Wnl3UXVXQlBmSk9ZMVpxd1JOcERhNS02a3pObFlXZ3lOSW15ZDZlWHBST3M2ZE1RdGJvNGVyLXBfd2FTMHBhZEw1TTdKbw?oc=5\" target=\"_blank\">ICAR Institutes across the Country Host Live Webcast of Bharat-VISTAAR Launch, Reinforcing Digital Transformation in Agriculture | ICAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Council Of Agricultural Research</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEJhd3pmLTVwSnJtR2E0WkJ2M1pHOTgzTXVoMU8zRVJpRWZ5R0N0ZldHTGx4TFdFQy00Wk1KN2ppUUJCMFd3NHY2dDRKXzZiMzlEaDFmTndxNzV1dEctd3FTMHNLT09zSlJsTkh5Wnl3UXVXQlBmSk9ZMVpxd1JOcERhNS02a3pObFlXZ3lOSW15ZDZlWHBST3M2ZE1RdGJvNGVyLXBfd2FTMHBhZEw1TTdKbw?oc=5",
+   "source_name": "Indian Council Of Agricultural Research",
+   "source_domain": "icar.org.in",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "\"India Is Poised To Leapfrog,\" Sarvam Founder Pratyush Kumar On AI Potential & Odisha Govt’s Support",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3h6aW56ZkZNdnhfV3BVUE8zN2xYYzBmNlV6V3BRZ0ZXTXNIVlozaUk5ejFYUDZENEJ4c1hVS01teTFUYWxuVEU5bWRPbzFjRlJTeTE2cm1oWnczc3AyaU90aktOeGU0MTBCZ1JwYm1NZFN0YVFrSFVWSWswRXdDWUtackVTd24wR0VsLTJkc1Z5MGNKM29zei1hNVpUMDdfZ2Z1NGcwcVd0NW5uWUgyQTUxc2NGQ0kxcW4tS2NXTUhndmNYbllNcUpsTE8xZE1qRXc?oc=5\" target=\"_blank\">\"India Is Poised To Leapfrog,\" Sarvam Founder Pratyush Kumar On AI Potential & Odisha Govt’s Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Disrupt</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3h6aW56ZkZNdnhfV3BVUE8zN2xYYzBmNlV6V3BRZ0ZXTXNIVlozaUk5ejFYUDZENEJ4c1hVS01teTFUYWxuVEU5bWRPbzFjRlJTeTE2cm1oWnczc3AyaU90aktOeGU0MTBCZ1JwYm1NZFN0YVFrSFVWSWswRXdDWUtackVTd24wR0VsLTJkc1Z5MGNKM29zei1hNVpUMDdfZ2Z1NGcwcVd0NW5uWUgyQTUxc2NGQ0kxcW4tS2NXTUhndmNYbllNcUpsTE8xZE1qRXc?oc=5",
+   "source_name": "BW Disrupt",
+   "source_domain": "bwdisrupt.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Sarvam AI Powering a Made-in-India AI Revolution",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE10c1E1SDRGTFBrb1poMnNoYjNTdG1xdzg4Zk4wb05seW5lYVdMdWFFdEVndWFwSVhWNDlqek1pRHJMcVAtcVlZczNLMGd4WEY2S21qXzhtTW5ia0htR0V4SS1LdHZjYm40?oc=5\" target=\"_blank\">Sarvam AI Powering a Made-in-India AI Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10c1E1SDRGTFBrb1poMnNoYjNTdG1xdzg4Zk4wb05seW5lYVdMdWFFdEVndWFwSVhWNDlqek1pRHJMcVAtcVlZczNLMGd4WEY2S21qXzhtTW5ia0htR0V4SS1LdHZjYm40?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha: Ten killed in trauma centre ICU fire in Cuttack",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WnlEMzRNM2tDY1YtVUEzakxfLWpUVFNlSG1HeEtXTEFDY3lCcnFyOXI5SEZBSVp4MXNPNWJkb3ZoS3dTRmlUMmR5WEhlZjlGNzdXME1nalRGdw?oc=5\" target=\"_blank\">Odisha: Ten killed in trauma centre ICU fire in Cuttack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WnlEMzRNM2tDY1YtVUEzakxfLWpUVFNlSG1HeEtXTEFDY3lCcnFyOXI5SEZBSVp4MXNPNWJkb3ZoS3dTRmlUMmR5WEhlZjlGNzdXME1nalRGdw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Mon, 16 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "AIIMS Bhubaneswar and NAMS Organise Regional CME on Organ Transplantation and Artificial Intelligence in Healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bVFXV2R1M1FmMEtaX3RNWEZnN0VKS0lDVXBTb2NuUU9MT1dxZzg1aHVXdUI4VEhQZFpEMGxYa19ya0JBRFlNd0hoZlVwY3NhNkRqRkNyd2xFVUVZTTFBNFJMTXllUEc3?oc=5\" target=\"_blank\">AIIMS Bhubaneswar and NAMS Organise Regional CME on Organ Transplantation and Artificial Intelligence in Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bVFXV2R1M1FmMEtaX3RNWEZnN0VKS0lDVXBTb2NuUU9MT1dxZzg1aHVXdUI4VEhQZFpEMGxYa19ya0JBRFlNd0hoZlVwY3NhNkRqRkNyd2xFVUVZTTFBNFJMTXllUEc3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 30 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Luminous Infoways Marks 26 Years of Innovation, Launches AI Platform ‘Doc 360’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQS19hb0lkUEdEQjFwVG9oa180N3ZQRlloaWVhSnJqSUVZN21QYVZlMWgwS3RHdjVjamFTX3ItYzVkbFFhZFZuY0dvX2w1bEpjeXlnYmZkZWZ0QWo4LVpXeU5YbVpvN0lFYk9MS3pETi1LUkF2NmlOeWhHT0hFT0YzekdLaF9GZlUyUHRXam1R?oc=5\" target=\"_blank\">Luminous Infoways Marks 26 Years of Innovation, Launches AI Platform ‘Doc 360’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OdishaPlus</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS19hb0lkUEdEQjFwVG9oa180N3ZQRlloaWVhSnJqSUVZN21QYVZlMWgwS3RHdjVjamFTX3ItYzVkbFFhZFZuY0dvX2w1bEpjeXlnYmZkZWZ0QWo4LVpXeU5YbVpvN0lFYk9MS3pETi1LUkF2NmlOeWhHT0hFT0YzekdLaF9GZlUyUHRXam1R?oc=5",
+   "source_name": "OdishaPlus",
+   "source_domain": "odisha.plus",
+   "published_raw": "Mon, 20 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Department of School Education and Literacy organised National Conference on UDISE+ from 27th February to 28th February, 2026 in Bhubaneswar, Odisha",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qRGlRTUR5N240bWZZdjY0MlpFdVphOGdCUGFvd0RmZHJydUtQMXRxUnpoUVhlbEg5djBrcUpnTnpfdldhSjJGYl9Xd3Jtb0MzNklYNmJZOERpdlp3VDk4WTJGWVRlZ3NN?oc=5\" target=\"_blank\">Department of School Education and Literacy organised National Conference on UDISE+ from 27th February to 28th February, 2026 in Bhubaneswar, Odisha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qRGlRTUR5N240bWZZdjY0MlpFdVphOGdCUGFvd0RmZHJydUtQMXRxUnpoUVhlbEg5djBrcUpnTnpfdldhSjJGYl9Xd3Jtb0MzNklYNmJZOERpdlp3VDk4WTJGWVRlZ3NN?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:01+00:00"
+  }
+ ]
+}

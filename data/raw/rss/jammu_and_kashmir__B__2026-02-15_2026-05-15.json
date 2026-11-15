@@ -1,0 +1,98 @@
+{
+ "region": "Jammu and Kashmir",
+ "group": "B",
+ "query": "(\"Jammu and Kashmir\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Jammu+and+Kashmir%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:45+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "PIB Jammu Organises Media Workshop on AI Impact Summit 2026; also Conducts Training Session on Use of AI for Journalists",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qX2lrM2drRElFZTJrV09DdVJVcUFnaUJjVnlzbXUzMmliTEFCNG1aYnU4alItdFhFdHJNZnRuckkwR1k5M0VDRjNPN1cyWEFGQWpCc2s1YmdTX3hTMDdQZWIwSlg2QXF5?oc=5\" target=\"_blank\">PIB Jammu Organises Media Workshop on AI Impact Summit 2026; also Conducts Training Session on Use of AI for Journalists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qX2lrM2drRElFZTJrV09DdVJVcUFnaUJjVnlzbXUzMmliTEFCNG1aYnU4alItdFhFdHJNZnRuckkwR1k5M0VDRjNPN1cyWEFGQWpCc2s1YmdTX3hTMDdQZWIwSlg2QXF5?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 12 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Jammu Kashmir Gets MeitY Nod for AI Centre of Excellence at IIT Jammu, Boost to Tech Ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTBYMHdva3ZKTFIxcEU1cmZWYU52b1RuaEoxUTlFSXNuemwyaUdVOGN5VWtMRS1RM2JwaFRadlEteWgxT0p1bnVBUVVsNVZZZ1dzeTM0d3pCNFAzc1M3MGN1YzFKUlJyREJlcDFWWjBOOGRTQVpkSVROUjJsMEI2WXpBaGNWeXRnR044NTk2eExqOEdLMnlfUDBOLWZwc3lzMUtIUDdtamFsWDJIOXo0U09KVEJDdlhYTVJRazIwQ1pTQVU?oc=5\" target=\"_blank\">Jammu Kashmir Gets MeitY Nod for AI Centre of Excellence at IIT Jammu, Boost to Tech Ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kashmir Life</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTBYMHdva3ZKTFIxcEU1cmZWYU52b1RuaEoxUTlFSXNuemwyaUdVOGN5VWtMRS1RM2JwaFRadlEteWgxT0p1bnVBUVVsNVZZZ1dzeTM0d3pCNFAzc1M3MGN1YzFKUlJyREJlcDFWWjBOOGRTQVpkSVROUjJsMEI2WXpBaGNWeXRnR044NTk2eExqOEdLMnlfUDBOLWZwc3lzMUtIUDdtamFsWDJIOXo0U09KVEJDdlhYTVJRazIwQ1pTQVU?oc=5",
+   "source_name": "Kashmir Life",
+   "source_domain": "kashmirlife.net",
+   "published_raw": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Kashmir’s Endless Wait for Statehood – and Hope",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXR0enNWZXJJYXh0eDkyNjl3RmdjM3I5SzY4aVJreFZHY2ZVa1ZuVFlUT3pxR0VTXzhLY0lKUDhCR2pfallfUVlqUWdKbVlCeE92ejk2WmVOV0dNRjdOQTlIaUJINGtSSkRuRGUwV2MxTnQ2U2hSU2x5ZXB4SV94UWxqTQ?oc=5\" target=\"_blank\">Kashmir’s Endless Wait for Statehood – and Hope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXR0enNWZXJJYXh0eDkyNjl3RmdjM3I5SzY4aVJreFZHY2ZVa1ZuVFlUT3pxR0VTXzhLY0lKUDhCR2pfallfUVlqUWdKbVlCeE92ejk2WmVOV0dNRjdOQTlIaUJINGtSSkRuRGUwV2MxTnQ2U2hSU2x5ZXB4SV94UWxqTQ?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Sat, 14 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Tourism in J&K on revival path, says govt; assembly data shows slump in 2025 numbers after Pahalgam attac",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQOWthalRYMU1QTXdESTRzVlVnY2tZZ3NwYXd5ZThDWk45bUtRUk4tZ3J0ZnQwazlKejZHRUttWlgzcmhKaEdOT005YnV5SVp2S1NxZHZKbFdLemVBNjk1a294ZzZTUjBYcnlLbWhFeU5GM3NuS0NiaTVBX2R5UFM0Sk1FNGdCQkpIa1RUQkhhekRLRG9mQ0dwTWprTVJwQmRGNXJBQWo5RjB6d1VTWjR2YmZpNTdvUml6NU5VRFFfbkRGRjl0VWRKcmhBZ01lbWtNM2tCbF8yTEJTdGdvM3JJRnBSS2lEWWNQMmdlVGFEWHgyUU10eE5CZHlYQTZXaXVI0gGGAkFVX3lxTFBneFlIUTluVVhlUDhGTGk2X212dGNLYWsxZjU1bTlNSm1NSkhneWxxQUZQRTI0akJpTkdQSUZlM19SLUtuRjZyY2R6cEFvQ0ctQ2ljN3RGaUtoLVhGelUxS1l0N0c4US12SnFpbVhFSlJ3ODAzRHBzUTJ1V09PLXY1NnFKZm5NWlhMbXZ1eFJlMzgwTnJmQWVOeTV1Z25YVlZheG02NUJxOGswUW45SkducFBKQzJpUm42UDhRbTVmZEJvX0hTVU5RMnY0WEtJOHVhLXlPS1p4LXZhWW9NdW1VY185WUt5OXdiSW5oSzhSMWNya3BOV21jNFVDZ3VqYXVtWGJidFE?oc=5\" target=\"_blank\">Tourism in J&amp;K on revival path, says govt; assembly data shows slump in 2025 numbers after Pahalgam attac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOWthalRYMU1QTXdESTRzVlVnY2tZZ3NwYXd5ZThDWk45bUtRUk4tZ3J0ZnQwazlKejZHRUttWlgzcmhKaEdOT005YnV5SVp2S1NxZHZKbFdLemVBNjk1a294ZzZTUjBYcnlLbWhFeU5GM3NuS0NiaTVBX2R5UFM0Sk1FNGdCQkpIa1RUQkhhekRLRG9mQ0dwTWprTVJwQmRGNXJBQWo5RjB6d1VTWjR2YmZpNTdvUml6NU5VRFFfbkRGRjl0VWRKcmhBZ01lbWtNM2tCbF8yTEJTdGdvM3JJRnBSS2lEWWNQMmdlVGFEWHgyUU10eE5CZHlYQTZXaXVI0gGGAkFVX3lxTFBneFlIUTluVVhlUDhGTGk2X212dGNLYWsxZjU1bTlNSm1NSkhneWxxQUZQRTI0akJpTkdQSUZlM19SLUtuRjZyY2R6cEFvQ0ctQ2ljN3RGaUtoLVhGelUxS1l0N0c4US12SnFpbVhFSlJ3ODAzRHBzUTJ1V09PLXY1NnFKZm5NWlhMbXZ1eFJlMzgwTnJmQWVOeTV1Z25YVlZheG02NUJxOGswUW45SkducFBKQzJpUm42UDhRbTVmZEJvX0hTVU5RMnY0WEtJOHVhLXlPS1p4LXZhWW9NdW1VY185WUt5OXdiSW5oSzhSMWNya3BOV21jNFVDZ3VqYXVtWGJidFE?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "M.A.N.A.V.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnJPc2xvNGlkU2JNUVFadFgwcGFtU3ctQ2gyRE5XQ25PNkJlT2ZNMlVXWkd6dlNmSnh0a2V1Qy1RcmM1XzBZcDQxcnRYVGxlNURNUmNKRFk2dUE3c05BWHFQRG9VU3dFVkNxSjdCTWlMTjBsWnE5dHFqR1o0LUl4WVJpLVhENWFS?oc=5\" target=\"_blank\">M.A.N.A.V.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnJPc2xvNGlkU2JNUVFadFgwcGFtU3ctQ2gyRE5XQ25PNkJlT2ZNMlVXWkd6dlNmSnh0a2V1Qy1RcmM1XzBZcDQxcnRYVGxlNURNUmNKRFk2dUE3c05BWHFQRG9VU3dFVkNxSjdCTWlMTjBsWnE5dHFqR1o0LUl4WVJpLVhENWFS?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Press Note Details: Press Information Bureau",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPalRtTzcwLWdVcVl3MFJIUENNZFN5b1pIX0pFd3pLb0VDME1idEdpb2hER0ZCcFVnM2ZtWkVqVGJfRXk2a2Zpdmp2VzRFVjRNVTVFRzBuZVF0WnE0Q1d3RURPd2tRX2dIbW5NWThnQUV3VzdZcWxwSFlTdldWV0dnajlwbE10MnltYUE?oc=5\" target=\"_blank\">Press Note Details: Press Information Bureau</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalRtTzcwLWdVcVl3MFJIUENNZFN5b1pIX0pFd3pLb0VDME1idEdpb2hER0ZCcFVnM2ZtWkVqVGJfRXk2a2Zpdmp2VzRFVjRNVTVFRzBuZVF0WnE0Q1d3RURPd2tRX2dIbW5NWThnQUV3VzdZcWxwSFlTdldWV0dnajlwbE10MnltYUE?oc=5",
+   "source_name": "pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "J&K's debt at Rs 1.37 lakh cr for FY25 to be offset by increased GSDP: Abdullah",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFZWal9jMEpZN1BtWTV0Y05sZjFJLVJPQU9qQmo2X1pILWNIcGgzRGF6SGN3d3hTa2JYck0xcDljOTRsc1hlNHJZa1VMNGt4MklMY25tNTBtUUg1d2syVUlnQmNmRUFhYzNqUEcyNWExbGJ0UnpDamhuakpqMVFmMkxwT1hVNzlNUWRoMjhydklTSGtfaUd0NXdlYWhVeHJ5UF8wZDZGOFdKbGdlN3YzRzYxVjRoTWhNbV9jTm9uczZhQlZodlRZVDFBX2Q3QdIB0wFBVV95cUxQUzdubVN1TjR5SUZpZmplVE1GNUhmNzhnc293Qm9zZjFMd010TG1sNmExQ2dkeHZkV3lPM1c2M1lFMzYyZFFOb1JONXFVcnlrekp0M1J2eFNKMUdJeHFmRmFhdHhGWGZNYjE2MGh3eHYtcVdTYjBZeGRfNWxSRkFxU0tBcGJoMUNJT283TXQyNnh0eXVRQ0RzUndTWUFQVXJOc2lQckcySUFzMnI2WU03WHhndTNGN2MwNF9UQW1YWjJLQ18wUU9tb2E3T1FMalRzUi1j?oc=5\" target=\"_blank\">J&amp;K's debt at Rs 1.37 lakh cr for FY25 to be offset by increased GSDP: Abdullah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bfsi.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFZWal9jMEpZN1BtWTV0Y05sZjFJLVJPQU9qQmo2X1pILWNIcGgzRGF6SGN3d3hTa2JYck0xcDljOTRsc1hlNHJZa1VMNGt4MklMY25tNTBtUUg1d2syVUlnQmNmRUFhYzNqUEcyNWExbGJ0UnpDamhuakpqMVFmMkxwT1hVNzlNUWRoMjhydklTSGtfaUd0NXdlYWhVeHJ5UF8wZDZGOFdKbGdlN3YzRzYxVjRoTWhNbV9jTm9uczZhQlZodlRZVDFBX2Q3QdIB0wFBVV95cUxQUzdubVN1TjR5SUZpZmplVE1GNUhmNzhnc293Qm9zZjFMd010TG1sNmExQ2dkeHZkV3lPM1c2M1lFMzYyZFFOb1JONXFVcnlrekp0M1J2eFNKMUdJeHFmRmFhdHhGWGZNYjE2MGh3eHYtcVdTYjBZeGRfNWxSRkFxU0tBcGJoMUNJT283TXQyNnh0eXVRQ0RzUndTWUFQVXJOc2lQckcySUFzMnI2WU03WHhndTNGN2MwNF9UQW1YWjJLQ18wUU9tb2E3T1FMalRzUi1j?oc=5",
+   "source_name": "bfsi.economictimes.indiatimes.com",
+   "source_domain": "bfsi.economictimes.indiatimes.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "AI subject under consideration in schools: Jammu and Kashmir Education Minister Sakeena Itoo",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDJCQ1U4M1Bsa3JicnAtQVZvT3pzdHVxVjRuN3loQ3NLUmtvYS1CTndhZExTYkV0NXNsZmNIRXFaZUg5Sng3dnowd2Q5ajFSak54SWIwdzc0aVRURWRjZEMtVTdZSzdmQ0FMaGJyZll6akpNSHVlX3VXTktCNEVEcG83NEhyelJWWHNvaE5B0gGSAUFVX3lxTE1Uck84Q3daWTlvSHdSTkdweXRWd3YxczNjTzRZNVpZeF92RDJ0X1hqX2QydHA2b0FnV21vaUpsR3V4TTlkSHA3YjE3OUVtb05INHF3b0xnek1wN2hhN05pdFc2QkljS0tkTjJ0ZW1jOG1QRE5neG1TbllKM0VWeVlQYkVmYmg1Wm1oZ2pZMFRrSFBR?oc=5\" target=\"_blank\">AI subject under consideration in schools: Jammu and Kashmir Education Minister Sakeena Itoo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDJCQ1U4M1Bsa3JicnAtQVZvT3pzdHVxVjRuN3loQ3NLUmtvYS1CTndhZExTYkV0NXNsZmNIRXFaZUg5Sng3dnowd2Q5ajFSak54SWIwdzc0aVRURWRjZEMtVTdZSzdmQ0FMaGJyZll6akpNSHVlX3VXTktCNEVEcG83NEhyelJWWHNvaE5B0gGSAUFVX3lxTE1Uck84Q3daWTlvSHdSTkdweXRWd3YxczNjTzRZNVpZeF92RDJ0X1hqX2QydHA2b0FnV21vaUpsR3V4TTlkSHA3YjE3OUVtb05INHF3b0xnek1wN2hhN05pdFc2QkljS0tkTjJ0ZW1jOG1QRE5neG1TbllKM0VWeVlQYkVmYmg1Wm1oZ2pZMFRrSFBR?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:45+00:00"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "region": "Bihar",
+ "group": "A",
+ "query": "(Bihar) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Bihar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:39+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet approves six proposals focused on youth, startups and industrial growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFBKbUlfdnoySi1uTXFMSGZYSldLZmZhYzhManV4OXhyNExTa2FDLTZaTXREdUZmUmxQMU50ZVFQMDc3bVB1SjF2TjNuRHJDMUZvU25ObUFvRzQxUjEzc2gwSWxXa1h2Z0VRV0pPY2FNODhkSS1fRXlOLURfdFdTeWVMOFZGNkczVkljNFRjWG0xaEgwZ29YZ2pxSmxrSmxCMmZMdzlEWjJRcTJjOEhZ?oc=5\" target=\"_blank\">Bihar cabinet approves six proposals focused on youth, startups and industrial growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFBKbUlfdnoySi1uTXFMSGZYSldLZmZhYzhManV4OXhyNExTa2FDLTZaTXREdUZmUmxQMU50ZVFQMDc3bVB1SjF2TjNuRHJDMUZvU25ObUFvRzQxUjEzc2gwSWxXa1h2Z0VRV0pPY2FNODhkSS1fRXlOLURfdFdTeWVMOFZGNkczVkljNFRjWG0xaEgwZ29YZ2pxSmxrSmxCMmZMdzlEWjJRcTJjOEhZ?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet clears tech-hub push, satellite townships",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUg3b3YtS3IySExSUnhLS2tkeDU1aFhFTjJ2WXJpb3o4WGJ3WVREM0R0NDRqVEYwX3BSb1VQSThTSXo3d3pZbk5hQTA5UUNvV0tLbERQYVVodzdfa045OS1hU3JnaUczSXA5dXRQRDVvSjd1M1Bva29MSEJKcFpZcjFXOGd2cEtESTRFcjNRenlqLVF6WGUxY1A3cENEdUpIUzd1REQ1UnRKd3dtbUViVFM4NkVzUDVWbVpuSDRvaWVLZUEyUEHSAcsBQVVfeXFMTlBjRWNIR1hLMWo4VFgwVlY0QXJjZGhILTVJeXJNM1ozTTJsTU52SFlzdmRwVVdjdmNoWk9Ob1p1d2d2QWRPR2JPX2IyM0pyOGtkN3otQS1kMFFRRW9IalRRTk5Ka1JZNVlzZkhrTlN1Mm1oNnBWWDloOUJMU00xYnE5TjBsLU10SndaSGZIcm9YTHlGOUg1eV9WSFhZejZucHRKZURSU0lZZUYySFYxeHRhdlIxVTlIUjRZeXpGaHQ0RnlKVVlKb1FxRU0?oc=5\" target=\"_blank\">Bihar cabinet clears tech-hub push, satellite townships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUg3b3YtS3IySExSUnhLS2tkeDU1aFhFTjJ2WXJpb3o4WGJ3WVREM0R0NDRqVEYwX3BSb1VQSThTSXo3d3pZbk5hQTA5UUNvV0tLbERQYVVodzdfa045OS1hU3JnaUczSXA5dXRQRDVvSjd1M1Bva29MSEJKcFpZcjFXOGd2cEtESTRFcjNRenlqLVF6WGUxY1A3cENEdUpIUzd1REQ1UnRKd3dtbUViVFM4NkVzUDVWbVpuSDRvaWVLZUEyUEHSAcsBQVVfeXFMTlBjRWNIR1hLMWo4VFgwVlY0QXJjZGhILTVJeXJNM1ozTTJsTU52SFlzdmRwVVdjdmNoWk9Ob1p1d2d2QWRPR2JPX2IyM0pyOGtkN3otQS1kMFFRRW9IalRRTk5Ka1JZNVlzZkhrTlN1Mm1oNnBWWDloOUJMU00xYnE5TjBsLU10SndaSGZIcm9YTHlGOUg1eV9WSFhZejZucHRKZURSU0lZZUYySFYxeHRhdlIxVTlIUjRZeXpGaHQ0RnlKVVlKb1FxRU0?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "INTERVIEW | ‘Bihar aims to become the tech hub of eastern India’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW1ITEZCOWFwekVZQW9uN1QxdmkxQTl3YTE3QjFic2wtemU2LXNYUXlwYWRpbFZnRHhFblFscGZ4aVQtd3FQdHNSQThhZWhsckdMZkdCQjJwc3Q1SjMtNEZlMXhWUnpKaGs2aWU4bXVmNVNRTmRsSDUzNUNnbjByRVQwOENiN3AxWmpHdThMcnBTeUh2R3kxb1M2MUtSTXFpVVI2VkN3LWoxYVVnRXNsRdIBvgFBVV95cUxOdjNwdzQ2QWhLLTFOeVo5ZkE1Vl92S2lRaXdlWVdmbmJvY3JCWnFoalpfc2NqaXNjWk1YVHFZQ1JoY3hsc2JhUEloZzFxZGs0VWtyTldCWFNtdkdrMk9IMVZ5VXpoYk8xRGI2UGhfeEp0LWdsYzd5dlBnY1NHbkplR1UwREk1U0Nfd3FPM0VXUXdsd1BBS1FVS3RicWs5RXYwN2JYSXRfcGx0RHU1N0lwZFpuQTlXaFFFTUt5NElB?oc=5\" target=\"_blank\">INTERVIEW | ‘Bihar aims to become the tech hub of eastern India’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW1ITEZCOWFwekVZQW9uN1QxdmkxQTl3YTE3QjFic2wtemU2LXNYUXlwYWRpbFZnRHhFblFscGZ4aVQtd3FQdHNSQThhZWhsckdMZkdCQjJwc3Q1SjMtNEZlMXhWUnpKaGs2aWU4bXVmNVNRTmRsSDUzNUNnbjByRVQwOENiN3AxWmpHdThMcnBTeUh2R3kxb1M2MUtSTXFpVVI2VkN3LWoxYVVnRXNsRdIBvgFBVV95cUxOdjNwdzQ2QWhLLTFOeVo5ZkE1Vl92S2lRaXdlWVdmbmJvY3JCWnFoalpfc2NqaXNjWk1YVHFZQ1JoY3hsc2JhUEloZzFxZGs0VWtyTldCWFNtdkdrMk9IMVZ5VXpoYk8xRGI2UGhfeEp0LWdsYzd5dlBnY1NHbkplR1UwREk1U0Nfd3FPM0VXUXdsd1BBS1FVS3RicWs5RXYwN2JYSXRfcGx0RHU1N0lwZFpuQTlXaFFFTUt5NElB?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "AI that serves all: Reviving the spirit of Nalanda for a planetary commons",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjB0NzdpLWp6TlVrSnRSMHJ6YkNLU1Jkak5Uc19aeUNZczBQQ203WjI2RS13RW9UckRBMHVKQ3lxOHBpZVJDU3pVamlncHFUcDRubGJvOHcyeUFLbXJlX3VweEVwdzViTjUxR0NoWUZIZ1UwVlBsQjFacU45OGQ4clRFLV9Ec2xMM01RYTVYdG9ReVZP?oc=5\" target=\"_blank\">AI that serves all: Reviving the spirit of Nalanda for a planetary commons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Economic Forum</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjB0NzdpLWp6TlVrSnRSMHJ6YkNLU1Jkak5Uc19aeUNZczBQQ203WjI2RS13RW9UckRBMHVKQ3lxOHBpZVJDU3pVamlncHFUcDRubGJvOHcyeUFLbXJlX3VweEVwdzViTjUxR0NoWUZIZ1UwVlBsQjFacU45OGQ4clRFLV9Ec2xMM01RYTVYdG9ReVZP?oc=5",
+   "source_name": "World Economic Forum",
+   "source_domain": "weforum.org",
+   "published_raw": "Sun, 11 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar Employment Mission 2025–2030: Government Targets 1 Crore Jobs for Youth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBMOFpzeTBiZ0IwdmpVWjNqc1hva1NrVXZXOGJPSWlMT3dKcVVkcWNSTUlid1RzQkFZVjZtd3p3TnQ1Z1dlbHc1TElRcFFvSWZ6TktUWnNMUnhOeExrQjJkNTNqSnUxWXRseVdZem9QUm12RzRDem5MNTgwNTZwd1RBU3ltU0RteTh3STJ0dFE5MWE2a3MwM3diUTZWMkNGUXc2Q0JCeUZpYnFod1ZHNTJrOA?oc=5\" target=\"_blank\">Bihar Employment Mission 2025–2030: Government Targets 1 Crore Jobs for Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBMOFpzeTBiZ0IwdmpVWjNqc1hva1NrVXZXOGJPSWlMT3dKcVVkcWNSTUlid1RzQkFZVjZtd3p3TnQ1Z1dlbHc1TElRcFFvSWZ6TktUWnNMUnhOeExrQjJkNTNqSnUxWXRseVdZem9QUm12RzRDem5MNTgwNTZwd1RBU3ltU0RteTh3STJ0dFE5MWE2a3MwM3diUTZWMkNGUXc2Q0JCeUZpYnFod1ZHNTJrOA?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "adda247.com",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet sets target of one crore jobs, push to make State global workplace",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTdqYWxzNng1eWdsc0R3LTUxdTFEM1RJbk9CQnEyM1hxalRTUWdSRUtHOTVLRnY2cVd3eE5rMU45eVRDR1pOMzJhUnRyall3UklBN0dfYTJfaWxLLXBRaHFkMkZBRERROWFYbTJNazFlR0pEVVpKWW13cGU3UFJRQ19JYUF2dUJHbC0wTk1ONmkxSDBYQVMtTDYxRUVESjdoX3RPNlFPeWZwX05Ncl9RV3BuTmJUOFNaUDhzZWpPRkJwNFlBY1JqMG5reERaMkFZMGFfZ2VrSF9GN2tBQWF2TzMwQzNUQ2JGRlg3V0Utbm9YU01waXJFWHZHdmnSAYMCQVVfeXFMUE9IdklOUUpqVHhsX0ItZUdZaEdjaHRRTEMzazktbDNTZGZaLVBqbHZmVV9fZ2ltNkhiV29PSkt0WnNKNng2bGlVS1lSMFhjbHdXbkVhWjd3M25aSEtKS3VnLWxEblhzQXZzcEJDOWdMRW1UeERKVVNxODhWMFpGYURMWmMyNWFfUGxHNThCd2NXQnRYam9Bc3FacGd2My1yVE5hd1hfNTVHZU5lSGJORmE1ZHlUVjRRVm1MSWRTc0xjREZ2dkpsOVZsa19QY0xYcEV5UG9EcHFMZFpfSWZrYU5uUXNQc3dnM3B0WFpid3N6U0NYZHdFaEdaRE91QURlT2lvZw?oc=5\" target=\"_blank\">Bihar cabinet sets target of one crore jobs, push to make State global workplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTdqYWxzNng1eWdsc0R3LTUxdTFEM1RJbk9CQnEyM1hxalRTUWdSRUtHOTVLRnY2cVd3eE5rMU45eVRDR1pOMzJhUnRyall3UklBN0dfYTJfaWxLLXBRaHFkMkZBRERROWFYbTJNazFlR0pEVVpKWW13cGU3UFJRQ19JYUF2dUJHbC0wTk1ONmkxSDBYQVMtTDYxRUVESjdoX3RPNlFPeWZwX05Ncl9RV3BuTmJUOFNaUDhzZWpPRkJwNFlBY1JqMG5reERaMkFZMGFfZ2VrSF9GN2tBQWF2TzMwQzNUQ2JGRlg3V0Utbm9YU01waXJFWHZHdmnSAYMCQVVfeXFMUE9IdklOUUpqVHhsX0ItZUdZaEdjaHRRTEMzazktbDNTZGZaLVBqbHZmVV9fZ2ltNkhiV29PSkt0WnNKNng2bGlVS1lSMFhjbHdXbkVhWjd3M25aSEtKS3VnLWxEblhzQXZzcEJDOWdMRW1UeERKVVNxODhWMFpGYURMWmMyNWFfUGxHNThCd2NXQnRYam9Bc3FacGd2My1yVE5hd1hfNTVHZU5lSGJORmE1ZHlUVjRRVm1MSWRTc0xjREZ2dkpsOVZsa19QY0xYcEV5UG9EcHFMZFpfSWZrYU5uUXNQc3dnM3B0WFpid3N6U0NYZHdFaEdaRE91QURlT2lvZw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar cabinet approves proposal to generate one crore jobs in next five years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWs3Rm5VQXZsdHpLREZPdUR2RGlVU2pzOEFvYm5PY2RSWThlMTJpOXlfYjJsak5nbDFmYUpWYlN5MGVWUTdGdnNGNTV3V3lRYzNhRHZrU1hDdTZVUER6XzdZUTB0eG8yRms0OXJtV2ZoWjkwb2FnbDZwNXMya0JMMjNGU0FrVXdjdENPWjBuM2JnTk4xSTRsQnZIcHh2RDZPTmZVTU9UQThvLVpvX1pjak0yTTJ6STdONmFKWjdNZzVXdDRFYXF30gHUAUFVX3lxTE90dlFicWJkYm5TWEZpczVYV05UemFtaVY4SzJ5VDVvMFhJM2l6V3hlWUNTZXd4TlZmcFE1WEVEOTdxeFFsbzBoRmk5OTlOZ2Q0NkFoUXJoVEhGVm9ySUc3anA0ZmFydUJNLW9ZNlNjUW9vY0d2SVVPblZ4cnc0SWs0RHNxX0xMamRFd2tsUmlDY3g1UVB6cE1fRlViaGtuM2ZWbGFOMGpkTlVvbkx3RHFoQmUyUjB5Tm9BcTZ2VVlNdkJRYl9jOXlOX0JsM3pGS0owZVNG?oc=5\" target=\"_blank\">Bihar cabinet approves proposal to generate one crore jobs in next five years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWs3Rm5VQXZsdHpLREZPdUR2RGlVU2pzOEFvYm5PY2RSWThlMTJpOXlfYjJsak5nbDFmYUpWYlN5MGVWUTdGdnNGNTV3V3lRYzNhRHZrU1hDdTZVUER6XzdZUTB0eG8yRms0OXJtV2ZoWjkwb2FnbDZwNXMya0JMMjNGU0FrVXdjdENPWjBuM2JnTk4xSTRsQnZIcHh2RDZPTmZVTU9UQThvLVpvX1pjak0yTTJ6STdONmFKWjdNZzVXdDRFYXF30gHUAUFVX3lxTE90dlFicWJkYm5TWEZpczVYV05UemFtaVY4SzJ5VDVvMFhJM2l6V3hlWUNTZXd4TlZmcFE1WEVEOTdxeFFsbzBoRmk5OTlOZ2Q0NkFoUXJoVEhGVm9ySUc3anA0ZmFydUJNLW9ZNlNjUW9vY0d2SVVPblZ4cnc0SWs0RHNxX0xMamRFd2tsUmlDY3g1UVB6cE1fRlViaGtuM2ZWbGFOMGpkTlVvbkx3RHFoQmUyUjB5Tm9BcTZ2VVlNdkJRYl9jOXlOX0JsM3pGS0owZVNG?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 25 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar seeks special package for industries, flood-control support",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWt6NlkwcEVSYmNjS1NyWWpFSmZjTTEyMHY0S2s5bEdjcGtnbEpZREFnRGllQ3dwWlk2VHd2ZnRqSGl5ZjJFMEJ0aGNrUHlsREFxMG1TeFYyb29jbU43TFNCWmVUU1NvSWI4eUN6WExOaURicDFCcVNfZGczMGJHeVMyNk81di1jMDlDakRlMkVBVVR2cDcxWjJUVXpWSGFsdzhPZTl5cjNYaFdfc0RGMHZmMEzSAbsBQVVfeXFMTVdORlVKZ1EzUDRWcmU4M0ZJOVdhMURxQTFxYWRqbVVVaXBmVzBVRkpDRkp1dGx5SVZjZ2lGUTNOMDExakxXelR2YW5hTHVuM1FfQ1hMWmFnVVE5WGJuUHB4bW5DWV9ITjVrUzlPQU90VHJSNDZUbEVPeVhNb21vazByby1LXzhHTDMwSVFfNFhoQXJkRlpkVEFoOGY3cGxBQU5uempqNlktRVduMUlTWEVGb0l2a0k3TWtEVQ?oc=5\" target=\"_blank\">Bihar seeks special package for industries, flood-control support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWt6NlkwcEVSYmNjS1NyWWpFSmZjTTEyMHY0S2s5bEdjcGtnbEpZREFnRGllQ3dwWlk2VHd2ZnRqSGl5ZjJFMEJ0aGNrUHlsREFxMG1TeFYyb29jbU43TFNCWmVUU1NvSWI4eUN6WExOaURicDFCcVNfZGczMGJHeVMyNk81di1jMDlDakRlMkVBVVR2cDcxWjJUVXpWSGFsdzhPZTl5cjNYaFdfc0RGMHZmMEzSAbsBQVVfeXFMTVdORlVKZ1EzUDRWcmU4M0ZJOVdhMURxQTFxYWRqbVVVaXBmVzBVRkpDRkp1dGx5SVZjZ2lGUTNOMDExakxXelR2YW5hTHVuM1FfQ1hMWmFnVVE5WGJuUHB4bW5DWV9ITjVrUzlPQU90VHJSNDZUbEVPeVhNb21vazByby1LXzhHTDMwSVFfNFhoQXJkRlpkVEFoOGY3cGxBQU5uempqNlktRVduMUlTWEVGb0l2a0k3TWtEVQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sat, 31 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Man Arrested in Bihar for Circulating AI-Generated Deepfake Videos of National Leaders",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcFpvMFl5OHViNXNJa0pZUjMzODNMdC0wM2Y0eVlnZHQ3LU52ZlJTZnlMNjhrQ055MEcxQ0k4Wk5mS05qbGlmX0NhLXVWRkwtdnpGcHNaRQ?oc=5\" target=\"_blank\">Man Arrested in Bihar for Circulating AI-Generated Deepfake Videos of National Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OECD AI Policy Observatory</font>",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcFpvMFl5OHViNXNJa0pZUjMzODNMdC0wM2Y0eVlnZHQ3LU52ZlJTZnlMNjhrQ055MEcxQ0k4Wk5mS05qbGlmX0NhLXVWRkwtdnpGcHNaRQ?oc=5",
+   "source_name": "OECD AI Policy Observatory",
+   "source_domain": "oecd.ai",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Bihar",
+   "title": "Bihar poised for major industrial growth, says chief secretary Pratyaya Amrit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONUN2X2VjZS1vWlV4ZWs5MDNoelpqS0U2U0w4LTJTOUhiQkxtUzhRTlV1TGRlX1h6bkxvdjB0WU90WXJaOW1aV1hNMmdTYTNNMXdXQXpMR0FkRmhtV21KaFZ0VVZNaWEyR0ExMkExOUItcndnZGVEOUk3OHgxS094REQ0VFJnY3l0dUpaak9DekRNc2QxT2NqZTA5bjFVS2JEN1NEVzJlaEVPSDdsZ2Etcm0tcEN3NVNXdWV1STBOaTUwRHZVWGfSAdMBQVVfeXFMUE5MV1FQTWlGV3p2Si1JRklqODZySTZGWXp2Y1hPRjR2cVc3WWQ2bTd0cEFPRjFXc09zaWk1cDNnaXNVOVNYZmtvQ2JBdzdScWw0azFLNXN0Q0ktRWdMMlBQaS10RHNRd0lzR1BWQVJoWEE3U1Z1WWFHeExlYk80cWtRX3RBRThLQXRLZ3c0aUhCdXYzSDhBc3NGODRLcV9Ub2daZlYwdkNabEZUUTBXd1gxS0w0MTY5ZUU2cjJRRWJueEhQTWF5aEEySlNMRF9xd3g2MA?oc=5\" target=\"_blank\">Bihar poised for major industrial growth, says chief secretary Pratyaya Amrit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUN2X2VjZS1vWlV4ZWs5MDNoelpqS0U2U0w4LTJTOUhiQkxtUzhRTlV1TGRlX1h6bkxvdjB0WU90WXJaOW1aV1hNMmdTYTNNMXdXQXpMR0FkRmhtV21KaFZ0VVZNaWEyR0ExMkExOUItcndnZGVEOUk3OHgxS094REQ0VFJnY3l0dUpaak9DekRNc2QxT2NqZTA5bjFVS2JEN1NEVzJlaEVPSDdsZ2Etcm0tcEN3NVNXdWV1STBOaTUwRHZVWGfSAdMBQVVfeXFMUE5MV1FQTWlGV3p2Si1JRklqODZySTZGWXp2Y1hPRjR2cVc3WWQ2bTd0cEFPRjFXc09zaWk1cDNnaXNVOVNYZmtvQ2JBdzdScWw0azFLNXN0Q0ktRWdMMlBQaS10RHNRd0lzR1BWQVJoWEE3U1Z1WWFHeExlYk80cWtRX3RBRThLQXRLZ3c0aUhCdXYzSDhBc3NGODRLcV9Ub2daZlYwdkNabEZUUTBXd1gxS0w0MTY5ZUU2cjJRRWJueEhQTWF5aEEySlNMRF9xd3g2MA?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 27 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:39+00:00"
+  }
+ ]
+}

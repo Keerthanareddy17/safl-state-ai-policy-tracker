@@ -1,0 +1,20 @@
+{
+ "region": "Jammu and Kashmir",
+ "query": "(\"Jammu and Kashmir\") AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:42+00:00",
+ "total_results": 1,
+ "item_count": 1,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Jammu and Kashmir",
+   "title": "J&K universities get six months to roll out ‘Design Your Degree’ programme; LG Manoj Sinha calls for higher education reforms",
+   "description": "Jammu and Kashmir Lieutenant Governor Manoj Sinha has set a six-month deadline for universities in the Union Territory to introduce the Design Your Degree programme. At a high-level Higher Education Council meeting, he stressed outcome-based reforms, better r…",
+   "url": "https://timesofindia.indiatimes.com/education/news/jk-universities-get-six-months-to-roll-out-design-your-degree-programme-lg-manoj-sinha-calls-for-higher-education-reforms/articleshow/135574643.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-05T13:19:07Z",
+   "fetched_at": "2026-11-15T09:47:42+00:00"
+  }
+ ]
+}

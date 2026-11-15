@@ -1,0 +1,98 @@
+{
+ "region": "Chandigarh",
+ "group": "B",
+ "query": "(Chandigarh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chandigarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:59+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Press Note Details: Press Information Bureau",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmI5bUxROGhCWHJudjRTV1N0bXNkcWNkaGd2QTQzWmNrZFdXcnhwQzVjSU5MbjNnZXlldEtqUFFpVEZZZTdtVVFCSWYxY1UycVU1WDJQdmdyVzNTQjNFcUV1SXV1enUzQXdxdF8xN3M2TklfVWNZMjZKUlBaN1h5WDBYcFM1ZHNnT2Fz?oc=5\" target=\"_blank\">Press Note Details: Press Information Bureau</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmI5bUxROGhCWHJudjRTV1N0bXNkcWNkaGd2QTQzWmNrZFdXcnhwQzVjSU5MbjNnZXlldEtqUFFpVEZZZTdtVVFCSWYxY1UycVU1WDJQdmdyVzNTQjNFcUV1SXV1enUzQXdxdF8xN3M2TklfVWNZMjZKUlBaN1h5WDBYcFM1ZHNnT2Fz?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Many innovations carried out to make Chandigarh railway station world-class: Railway Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcU9XalB0b2J3THhmTlI3bHVIQkJVbUltV1JQdlYzeGZOOUlyNDFHTy1OaXlNakNPSHI1bVBpcXFzRmc5NGFQOUszZVJPSkZJaEl4eVVtY2RMTFJVU0h1YmlNazlTemc1ZmoxT2ZlR2ZEV1BfdFI4eFZrSlRMSEZPMFU0Q1ZNa0NwcEk3N1NLZFhYOVJSZ3c1WXRsU3ZOSVFtTGh0dHdrTjRlZWtXQzluTGlSb0Q3b3I2RHlkM1F5YnMycmlYejg1RFk2OHgtMzJJOHE5N00wZUVLOUEtbXl2bXBNSDBtdU5aWFHSAe8BQVVfeXFMTWxROU9xWUtNUnU4SjgwbXU3YkR2b0tkUVpfNFQ0d1RqNFBHNXd6d1lLQzkxOUw2OWwwSXJ6SnRBMlBoc2dxem5QWFo0dklxemREMlNldVczYU04bXpPbnpmVkR3QjE5STZ5dG00RmMwSUlmX0pMNmhNSWJXUDJZOTVTdmFzM1dYNU1fMkI0Y1pENUY5aXpwMGtnT3A2QThrVnJhc1JpeUpxdzhkVTlERjdFTUVueVdtUndXREtVQ1d6bWtsNEVpb1lPWWxaMEY1M3EtMzFaN3dneTVzRmFBZVBSWGVHZVFhcm5UaDhnTVE?oc=5\" target=\"_blank\">Many innovations carried out to make Chandigarh railway station world-class: Railway Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcU9XalB0b2J3THhmTlI3bHVIQkJVbUltV1JQdlYzeGZOOUlyNDFHTy1OaXlNakNPSHI1bVBpcXFzRmc5NGFQOUszZVJPSkZJaEl4eVVtY2RMTFJVU0h1YmlNazlTemc1ZmoxT2ZlR2ZEV1BfdFI4eFZrSlRMSEZPMFU0Q1ZNa0NwcEk3N1NLZFhYOVJSZ3c1WXRsU3ZOSVFtTGh0dHdrTjRlZWtXQzluTGlSb0Q3b3I2RHlkM1F5YnMycmlYejg1RFk2OHgtMzJJOHE5N00wZUVLOUEtbXl2bXBNSDBtdU5aWFHSAe8BQVVfeXFMTWxROU9xWUtNUnU4SjgwbXU3YkR2b0tkUVpfNFQ0d1RqNFBHNXd6d1lLQzkxOUw2OWwwSXJ6SnRBMlBoc2dxem5QWFo0dklxemREMlNldVczYU04bXpPbnpmVkR3QjE5STZ5dG00RmMwSUlmX0pMNmhNSWJXUDJZOTVTdmFzM1dYNU1fMkI0Y1pENUY5aXpwMGtnT3A2QThrVnJhc1JpeUpxdzhkVTlERjdFTUVueVdtUndXREtVQ1d6bWtsNEVpb1lPWWxaMEY1M3EtMzFaN3dneTVzRmFBZVBSWGVHZVFhcm5UaDhnTVE?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Sat, 29 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Redington and AWS Launch Cloud and AI Bus Yatra to Power Digital Growth Across India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHg1SlZycmd3NzlpOUU0a0M1azZKaFNMVFRyZXZjTWJTemJNdDFXcFV4VlhwczUzTVJKc25WVFZVS3FGSVlEREZOT2FwcTRXTE5uNjcwTzhqUW9PVHBNd0Y3Tm1kNjM3LXo0dFFqbXpkaW1rSGZfa3Buejh3d1pQQmstRXFwV09BMXNoUHRTcVBNNUd4Nl94b0xBZ1h0eHdtR0NkSjZqaG1vZU9hQThEM0hlUQ?oc=5\" target=\"_blank\">Redington and AWS Launch Cloud and AI Bus Yatra to Power Digital Growth Across India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisinfotech</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHg1SlZycmd3NzlpOUU0a0M1azZKaFNMVFRyZXZjTWJTemJNdDFXcFV4VlhwczUzTVJKc25WVFZVS3FGSVlEREZOT2FwcTRXTE5uNjcwTzhqUW9PVHBNd0Y3Tm1kNjM3LXo0dFFqbXpkaW1rSGZfa3Buejh3d1pQQmstRXFwV09BMXNoUHRTcVBNNUd4Nl94b0xBZ1h0eHdtR0NkSjZqaG1vZU9hQThEM0hlUQ?oc=5",
+   "source_name": "Bisinfotech",
+   "source_domain": "bisinfotech.com",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Punjab launches AI-driven career guidance in govt schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDI0bkh6cExKRTVHb1BJQXhhVDlMTUdkT3Q1dWMyWDdFREd6aUMxbWVDaUdybHFPcnFCRkNDY3hLTDB1UGZLX2hhczB1TjhPMHVYRTQxeEJfcElfX1UzblFNRFp3Rmk1dVNzd1NHTVNOYmdYcjVPOEs0N3huUUdpbnhDWS10dDdIM3BqRi1WWXViM054a3dCcXdSNFl6QTNvNFlQaUJoODV4U3A3WENUTlNkMEpkTWJjaEtKUHdhdFFibnU5YU45bGxTclJBNGo1VkHSAdcBQVVfeXFMUE1TcHJva0pCRldtclVFRjBFaVFrWEZyUFdiem8yblV2eWEwTTFwa2JjeVNWX1JPYXZpT0RVUzMtX0plbUFRcmxGYktsNlhETzBoRW9ISVkyaXFGVjYwUjUwc3FHdnRwdW9SOHp2WGhzNW16WTZDSWZmbXZZTlVMRjBkMHVLeVpmV2FxeXluTnhtRWdTQlBXMVNqSXc1UWtCbHppS3hTbjR4QTcyZjdwY3loUFYxNjhFWXBacFRzcGVUeGlvNm1oQlZPeUJ1TzBERTBHQ1Qxems?oc=5\" target=\"_blank\">Punjab launches AI-driven career guidance in govt schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDI0bkh6cExKRTVHb1BJQXhhVDlMTUdkT3Q1dWMyWDdFREd6aUMxbWVDaUdybHFPcnFCRkNDY3hLTDB1UGZLX2hhczB1TjhPMHVYRTQxeEJfcElfX1UzblFNRFp3Rmk1dVNzd1NHTVNOYmdYcjVPOEs0N3huUUdpbnhDWS10dDdIM3BqRi1WWXViM054a3dCcXdSNFl6QTNvNFlQaUJoODV4U3A3WENUTlNkMEpkTWJjaEtKUHdhdFFibnU5YU45bGxTclJBNGo1VkHSAdcBQVVfeXFMUE1TcHJva0pCRldtclVFRjBFaVFrWEZyUFdiem8yblV2eWEwTTFwa2JjeVNWX1JPYXZpT0RVUzMtX0plbUFRcmxGYktsNlhETzBoRW9ISVkyaXFGVjYwUjUwc3FHdnRwdW9SOHp2WGhzNW16WTZDSWZmbXZZTlVMRjBkMHVLeVpmV2FxeXluTnhtRWdTQlBXMVNqSXc1UWtCbHppS3hTbjR4QTcyZjdwY3loUFYxNjhFWXBacFRzcGVUeGlvNm1oQlZPeUJ1TzBERTBHQ1Qxems?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Mon, 22 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Centre wrote off Rs 9.87 lakh crore corporate loans and only 1.67 lakh crore Agri loans",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUl3NTc4aHZaaUpHUlZrUVJMWkxaZ3c0Tjd4RTVDWGJhQ2g0anlSZHlNcTNlMTVXUVNfYlRINHFfYnNYOENqajdDSE5xbXZaZ09CblVGcEFMb1JnbkM5RmtFejFKUTE4ZF84R0FIU25ObDZpSXVLM0s2MUlLQmYwUVVfOTdRQWxadk0tbF9sVFVSeENNLThMWDJqNHp6Z2RKQUgzT0l3TVFnSzk3cXJRMkUwQ1lEZnQzbmVyc0ZNVFhnd9IByAFBVV95cUxOcnVwM2tudVVuakhnME9hMUgtY2hsY1E1eC1Bb3poVUthSmEwVF9FMnVzUlpfSHUyWjFYRVR6cjdtcDR5MjNtM1BjdGlwN3JHc1JUaHBNQjJYUWtsSDFoaWJNNmNyUGlDTy1rSEpkWE5OWEY0UHZyOTJLbjlWdlZFQy1ZMWs3R1BWQmg0Q1hxelhHb2tUWllkSEtLa0ZOb09Wb0drY1VKdGNCVVdkVDBLMnRxQ3E1dllNaElOWnlKSVIxRmJBTzRKQg?oc=5\" target=\"_blank\">Centre wrote off Rs 9.87 lakh crore corporate loans and only 1.67 lakh crore Agri loans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUl3NTc4aHZaaUpHUlZrUVJMWkxaZ3c0Tjd4RTVDWGJhQ2g0anlSZHlNcTNlMTVXUVNfYlRINHFfYnNYOENqajdDSE5xbXZaZ09CblVGcEFMb1JnbkM5RmtFejFKUTE4ZF84R0FIU25ObDZpSXVLM0s2MUlLQmYwUVVfOTdRQWxadk0tbF9sVFVSeENNLThMWDJqNHp6Z2RKQUgzT0l3TVFnSzk3cXJRMkUwQ1lEZnQzbmVyc0ZNVFhnd9IByAFBVV95cUxOcnVwM2tudVVuakhnME9hMUgtY2hsY1E1eC1Bb3poVUthSmEwVF9FMnVzUlpfSHUyWjFYRVR6cjdtcDR5MjNtM1BjdGlwN3JHc1JUaHBNQjJYUWtsSDFoaWJNNmNyUGlDTy1rSEpkWE5OWEY0UHZyOTJLbjlWdlZFQy1ZMWs3R1BWQmg0Q1hxelhHb2tUWllkSEtLa0ZOb09Wb0drY1VKdGNCVVdkVDBLMnRxQ3E1dllNaElOWnlKSVIxRmJBTzRKQg?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh to pilot e-rupee use for food subsidy distribution under PDS",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeTA3Q19oRjI3RG82UGpfRF9WMEhnRXpQV1BuWEQ0UHVVTGEzTUowMjFnWU5lRmNQUUJDV2dYLWo4SW5Gb3RUNkx2ZFljaFVEckdkMmt6YnA2NTUzY3VDQzZKblljVHhzMndIeHdBRFhTSHJlUXU4MFd2OEFBeEhPX1pfNFprajh1VzlWeTVPby1BSVRYSHNwQWRiajFOODFzRUZRRDloaHhqZVhlMjZzYUxPMDFvd2RhbFFJWU1PaVY4SzRtQkJaUkg5Z3E5MXItSWljZy1feGd4VWF0R2tDMzB1b9IB6AFBVV95cUxNMkxDNFJtNVJWTjZ6c0xkcVdFV0JpeHlZZXVaMWdnUVpFc3BlaThiNDlMaFNEV0d3TzhEQVdnbXlhSmNjbGpZYzNoZVdFSmJTRGJJVW9CbkljRlQyUEtEVW1yUkN2b2pTWkxmT0NDaC1yaEJnNXRhNEV1Y2ktdkNVb19VZVpxaTZ2YnhYdlJWNTJrQWR4alRFQmFhU2hRX0l0VFQ3YU5aNkRNRmwxS0Y4UGtNQVpDa1lSWGx0QU9RTWJyWThSTk5hUEVRejRDNTBFa3lyVHljb2lrT1BieVkzMDlLSWJ4NkRK?oc=5\" target=\"_blank\">Chandigarh to pilot e-rupee use for food subsidy distribution under PDS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeTA3Q19oRjI3RG82UGpfRF9WMEhnRXpQV1BuWEQ0UHVVTGEzTUowMjFnWU5lRmNQUUJDV2dYLWo4SW5Gb3RUNkx2ZFljaFVEckdkMmt6YnA2NTUzY3VDQzZKblljVHhzMndIeHdBRFhTSHJlUXU4MFd2OEFBeEhPX1pfNFprajh1VzlWeTVPby1BSVRYSHNwQWRiajFOODFzRUZRRDloaHhqZVhlMjZzYUxPMDFvd2RhbFFJWU1PaVY4SzRtQkJaUkg5Z3E5MXItSWljZy1feGd4VWF0R2tDMzB1b9IB6AFBVV95cUxNMkxDNFJtNVJWTjZ6c0xkcVdFV0JpeHlZZXVaMWdnUVpFc3BlaThiNDlMaFNEV0d3TzhEQVdnbXlhSmNjbGpZYzNoZVdFSmJTRGJJVW9CbkljRlQyUEtEVW1yUkN2b2pTWkxmT0NDaC1yaEJnNXRhNEV1Y2ktdkNVb19VZVpxaTZ2YnhYdlJWNTJrQWR4alRFQmFhU2hRX0l0VFQ3YU5aNkRNRmwxS0Y4UGtNQVpDa1lSWGx0QU9RTWJyWThSTk5hUEVRejRDNTBFa3lyVHljb2lrT1BieVkzMDlLSWJ4NkRK?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "UAE AI minister Omar Sultan Al Olama warns humans: ‘Only broad skills can keep you relevant in the age of",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQZ3RLR0pjNm9NYVVkRWNvTWZoTmMzWDF1X0FuemJQS21pRzViY1hjcTJjcFgxMmtwaVBIWnA0VU5WNXlRajBEOVl0aWkzOFMwSFQtb1d4OUJmdU5kUDFhdDRBSlp4SkF5QXdLaEEyNm4wbENYT0dOMXl0LXBLOU1hcFRweGJsR2cxM3ZRb2taZVJ2SGxlbVBQb0R1TzVaM28wWDkwckJ6alkycmxpZlhGYnVIenhwUGRWU1VUeFliNkJjQWg2clBURGF3eFJNdVE5a1RUUElqSlBGVzI4U2xYbEdGZGJad3FNYXRTNVlrMURYcjl6TXoxQWUyQURRTnhQQldmWFZMX3FlcDdmcjBoVDBNTUtFR2cw0gGeAkFVX3lxTE1yRHctNWg3VkRFNHI3M25iaWVDTUVQTGtyWTVaaDZTVUt4T0xBMzJmMnM5U21fQS1HNjZ3M3pyQXdVZThLRUhuY1BoemRRQ2ZlSHJVLW5wZkpDM2hLZDY5bnM3NV90V18xTWtIdzRhZVVpOVhpT19lZWhVb1pKQTJoQ09tNHR5LUw1ZFlTMmpuamNxR2hBQjE4NXpWS0xoUVlsYkNFNDJ0cVZ0UHpQUEo2c0k5RnVuVjhZY0sxTGtCNno4TXM4OURHcDBQallGcnRUa1FoVmRuaDBtaFB6WUVqcXlnam15cW5FNkNZdWlsbEhyN0J0SHk5WWZEci1kSlNRbEtTajJicXpwWEtiU0hhSG1kSE5wUXdWWHZYSEE?oc=5\" target=\"_blank\">UAE AI minister Omar Sultan Al Olama warns humans: ‘Only broad skills can keep you relevant in the age of</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZ3RLR0pjNm9NYVVkRWNvTWZoTmMzWDF1X0FuemJQS21pRzViY1hjcTJjcFgxMmtwaVBIWnA0VU5WNXlRajBEOVl0aWkzOFMwSFQtb1d4OUJmdU5kUDFhdDRBSlp4SkF5QXdLaEEyNm4wbENYT0dOMXl0LXBLOU1hcFRweGJsR2cxM3ZRb2taZVJ2SGxlbVBQb0R1TzVaM28wWDkwckJ6alkycmxpZlhGYnVIenhwUGRWU1VUeFliNkJjQWg2clBURGF3eFJNdVE5a1RUUElqSlBGVzI4U2xYbEdGZGJad3FNYXRTNVlrMURYcjl6TXoxQWUyQURRTnhQQldmWFZMX3FlcDdmcjBoVDBNTUtFR2cw0gGeAkFVX3lxTE1yRHctNWg3VkRFNHI3M25iaWVDTUVQTGtyWTVaaDZTVUt4T0xBMzJmMnM5U21fQS1HNjZ3M3pyQXdVZThLRUhuY1BoemRRQ2ZlSHJVLW5wZkpDM2hLZDY5bnM3NV90V18xTWtIdzRhZVVpOVhpT19lZWhVb1pKQTJoQ09tNHR5LUw1ZFlTMmpuamNxR2hBQjE4NXpWS0xoUVlsYkNFNDJ0cVZ0UHpQUEo2c0k5RnVuVjhZY0sxTGtCNno4TXM4OURHcDBQallGcnRUa1FoVmRuaDBtaFB6WUVqcXlnam15cW5FNkNZdWlsbEhyN0J0SHk5WWZEci1kSlNRbEtTajJicXpwWEtiU0hhSG1kSE5wUXdWWHZYSEE?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "CM Saini unveils AI Mission, new incentives for Haryana startups | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMllBazV3REkzdE04VnFyS2dkUGxLNFlQRzdvcGM4QnhrNEhaM244U21LUTVHNERsOGhscERqUVQ5ZXRkU3dmaFNEUDg2Q0hUd1c5akYtV2t6R00yNHZsckUtay1FR0ROVXZqdGo5WTNCSzlaQkhpWjhxaWZMUjlJYmFMWnNMUDUtdDM3cUpXeGVsYXkxZTJQd3NVMnFRNTlpUmRyVTZBRHYyRTZGek04MGFSRm1aTFVPcjVwVlRXdnllZ3ZHcmZXNk9mUGV6aF9kbWfSAdcBQVVfeXFMTTZhZzlnek5ucHZWOFJTQ2tKVWlsRVhsM20wUlZjVVpkMEpKRnU0enBMQVpCNXByRlFWM3dSZy1Heks3UEpMNGlSMkNZZmtHSVptN0FUNlZGVjgwZzhueU5xRkNjeFhMaW1pdjNRWkpXd01DZVFBaFFDZDh0ZW1mNWQ4QXB3TndaSXY3ZlNRS0JvOFcwRHlBa0dYTWJIVVI3VVlfR2dua3haNWtURTNDcVFjaEtKZ3NrZUFqMDFjaUxGOEgzNkFMb0NLamZkb25kZmF6V0FMRUU?oc=5\" target=\"_blank\">CM Saini unveils AI Mission, new incentives for Haryana startups | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMllBazV3REkzdE04VnFyS2dkUGxLNFlQRzdvcGM4QnhrNEhaM244U21LUTVHNERsOGhscERqUVQ5ZXRkU3dmaFNEUDg2Q0hUd1c5akYtV2t6R00yNHZsckUtay1FR0ROVXZqdGo5WTNCSzlaQkhpWjhxaWZMUjlJYmFMWnNMUDUtdDM3cUpXeGVsYXkxZTJQd3NVMnFRNTlpUmRyVTZBRHYyRTZGek04MGFSRm1aTFVPcjVwVlRXdnllZ3ZHcmZXNk9mUGV6aF9kbWfSAdcBQVVfeXFMTTZhZzlnek5ucHZWOFJTQ2tKVWlsRVhsM20wUlZjVVpkMEpKRnU0enBMQVpCNXByRlFWM3dSZy1Heks3UEpMNGlSMkNZZmtHSVptN0FUNlZGVjgwZzhueU5xRkNjeFhMaW1pdjNRWkpXd01DZVFBaFFDZDh0ZW1mNWQ4QXB3TndaSXY3ZlNRS0JvOFcwRHlBa0dYTWJIVVI3VVlfR2dua3haNWtURTNDcVFjaEtKZ3NrZUFqMDFjaUxGOEgzNkFMb0NLamZkb25kZmF6V0FMRUU?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:59+00:00"
+  }
+ ]
+}

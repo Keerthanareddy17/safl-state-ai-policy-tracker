@@ -1,0 +1,109 @@
+{
+ "region": "West Bengal",
+ "group": "B",
+ "query": "(\"West Bengal\" OR Kolkata) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22West+Bengal%22+OR+Kolkata%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:15+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "St Xavier’s College to launch MSc in artificial intelligence in 2028",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGI0SF9Tam5WQnVZY3lveHFVandiZmtpTmhVRHFrT1ZtbzRuT00yQVM4RnBfU2g2Q0FDMVg3MEd6NW4wTWg1dWNOZncxeHdnN0Y4cWJHelBWQTBOdWFoNThJYkdrNXgxaldMeE9GVU5OUXJyYnBWNHhzcGREWEJpdkl0WnJFSWRkN2FJN2FVbkNKOVBSZERvOXJUaWx3aUotWm95ZFRhd2pRdDZGcmpyUWV4ZkNfaGxCVlRmNU1PcklicHJFbDRKcVBMZFh6NWRz0gHWAUFVX3lxTE9NbjFqTm94dl9DZmdCaU55OUtqTGZnck5hYW82MHFGV2h4dHlGMk1Xdm5YMFhPeFp0RGhlRTUwWEpOejJnV05PZV9wZHhxMlFjaFNhR2tPMzl0UkxOcXJBdHp6dXRKamdZaFpiN05LMmt4RGlfUVhFSjU2YUdwMk0wdWt5MlpBejA5SlZkd0JZcHlORFhpaGJnV0p2UUNVUlBGaXZ3N1pWZGVVR2dTOWRTQmpQTE1RWDVobF80dG02blNfZVVPMmw1VTRpQlZzMnZyMmpiQ1E?oc=5\" target=\"_blank\">St Xavier’s College to launch MSc in artificial intelligence in 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGI0SF9Tam5WQnVZY3lveHFVandiZmtpTmhVRHFrT1ZtbzRuT00yQVM4RnBfU2g2Q0FDMVg3MEd6NW4wTWg1dWNOZncxeHdnN0Y4cWJHelBWQTBOdWFoNThJYkdrNXgxaldMeE9GVU5OUXJyYnBWNHhzcGREWEJpdkl0WnJFSWRkN2FJN2FVbkNKOVBSZERvOXJUaWx3aUotWm95ZFRhd2pRdDZGcmpyUWV4ZkNfaGxCVlRmNU1PcklicHJFbDRKcVBMZFh6NWRz0gHWAUFVX3lxTE9NbjFqTm94dl9DZmdCaU55OUtqTGZnck5hYW82MHFGV2h4dHlGMk1Xdm5YMFhPeFp0RGhlRTUwWEpOejJnV05PZV9wZHhxMlFjaFNhR2tPMzl0UkxOcXJBdHp6dXRKamdZaFpiN05LMmt4RGlfUVhFSjU2YUdwMk0wdWt5MlpBejA5SlZkd0JZcHlORFhpaGJnV0p2UUNVUlBGaXZ3N1pWZGVVR2dTOWRTQmpQTE1RWDVobF80dG02blNfZVVPMmw1VTRpQlZzMnZyMmpiQ1E?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "SIR a huge scam using AI, alleges Mamata",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPck9KbWpHanBjRGs1ZUp0T0dLeHczZXdUY1ZyVkQ3VV9sVDZDaEowSVhKbjFTdXh0OFpubFN5MF9LckVEOEd3OU5VZWVGcXFXWHFDWS12bTZ2b1VYbWk3NWlxc3NxejRhSGpPN3NXdkZOVVFwUW5VeGVNLXp1WGs4RV9aNHNEeEJwM2tyR3NFVklUaEctVDJYb2RlLW9tbDNacThGYkd0RdIBrgFBVV95cUxNS2JCSmhmV1ItVzF0dXRzTnhaNkM1a1p4TFJZaFdlOEtHN2ROVDIzWHhYdW9LVXhnSGg5YVRLenpER1RuM2czV2ItM1FMWGhraUNNb1dpWVg0eXpxYlpMSlNmZjVueVRBRkdPSzAzN00za3RnbmJ6S1djbVJWMDdPRGZKN0E3eTNjREMxV2VwQXFabVFzeWhOUnIyLVp1UnNxbVB5T0MyZmVTcDJzWHc?oc=5\" target=\"_blank\">SIR a huge scam using AI, alleges Mamata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPck9KbWpHanBjRGs1ZUp0T0dLeHczZXdUY1ZyVkQ3VV9sVDZDaEowSVhKbjFTdXh0OFpubFN5MF9LckVEOEd3OU5VZWVGcXFXWHFDWS12bTZ2b1VYbWk3NWlxc3NxejRhSGpPN3NXdkZOVVFwUW5VeGVNLXp1WGs4RV9aNHNEeEJwM2tyR3NFVklUaEctVDJYb2RlLW9tbDNacThGYkd0RdIBrgFBVV95cUxNS2JCSmhmV1ItVzF0dXRzTnhaNkM1a1p4TFJZaFdlOEtHN2ROVDIzWHhYdW9LVXhnSGg5YVRLenpER1RuM2czV2ItM1FMWGhraUNNb1dpWVg0eXpxYlpMSlNmZjVueVRBRkdPSzAzN00za3RnbmJ6S1djbVJWMDdPRGZKN0E3eTNjREMxV2VwQXFabVFzeWhOUnIyLVp1UnNxbVB5T0MyZmVTcDJzWHc?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Lack of receipts, AI-induced errors: Mamata Banerjee writes to CEC again to highlight issues with SIR in Bengal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTdiZUswYkRCWE1YZlV2V3l2SGxrdTdTd1V3MjFpTTBpNTljNlB1RHVkaENEOHVQd3QyMHZYdnVzQnIxQ2cwRDB5cDlTc2x5VHZjODB2YVpYQ2RMdVhrSXFGRkFsYVVMWm5jb2luSml1Qi1VdnhqcHY2WWxfdzJ3VGNDdnZrOVVkZnEwY0ZkVVJ0YXBxcUJRdkRkbnhjYkk1S1dsTTJmQzQ1Q1p6Y29WRmhTbzkwaVllNl9Ublc3bznSAccBQVVfeXFMT1N4TmFOMU9Ib0J2dWI2YXhPOERDZmJQTjFybUVrUC1rdG1JSVY2YlZGVG42bWhmdHplZmFqUGtXSzR2NGpSaEc4NnZwTUxfdllrek1CTTg5S3l0b2dkSzVkLU5Ccy1zT2p5ZVNDUG5GTmVNT3htRkVEckJ4N1J3TkFTTnpkdmM0TUdmUG82QmFxa0FsaWxCNEduRWxsR3VfbHVLQW9GNnlQWnZ0MS1ub05HTDIyRXZJeUZtZXNJZjJ2TTNfYmE1MA?oc=5\" target=\"_blank\">Lack of receipts, AI-induced errors: Mamata Banerjee writes to CEC again to highlight issues with SIR in Bengal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTdiZUswYkRCWE1YZlV2V3l2SGxrdTdTd1V3MjFpTTBpNTljNlB1RHVkaENEOHVQd3QyMHZYdnVzQnIxQ2cwRDB5cDlTc2x5VHZjODB2YVpYQ2RMdVhrSXFGRkFsYVVMWm5jb2luSml1Qi1VdnhqcHY2WWxfdzJ3VGNDdnZrOVVkZnEwY0ZkVVJ0YXBxcUJRdkRkbnhjYkk1S1dsTTJmQzQ1Q1p6Y29WRmhTbzkwaVllNl9Ublc3bznSAccBQVVfeXFMT1N4TmFOMU9Ib0J2dWI2YXhPOERDZmJQTjFybUVrUC1rdG1JSVY2YlZGVG42bWhmdHplZmFqUGtXSzR2NGpSaEc4NnZwTUxfdllrek1CTTg5S3l0b2dkSzVkLU5Ccy1zT2p5ZVNDUG5GTmVNT3htRkVEckJ4N1J3TkFTTnpkdmM0TUdmUG82QmFxa0FsaWxCNEduRWxsR3VfbHVLQW9GNnlQWnZ0MS1ub05HTDIyRXZJeUZtZXNJZjJ2TTNfYmE1MA?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 12 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Believe it or not: This AI minister is expecting... 83 AI kids",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYVhjVVd1ZjE2WkhiaXl4ODNJNGt3emR3SzJLWnZJdVpZRkgtT2p6VTB4d21RNUZtY3QxM1lDeHhVTktVN2VVQWw5ZnFPNVhycXFSOXdlaEdJdzZHTWRhR3dKWTN3dHc4ZkhlUmE4WWdSOVVQTEVLRW9aNFpIWU9TQWFMTjF2UlUtZTdkaDFGU3BadHU5eWF1NThRYzFHSmNMMGswVzlpbGR6dGI1dDg4SkpzcDhmSWxEUWpBSWpIT1lkVlg1WUFjNG5UUlNXSnlqcGpfYzNqUGhoRVN4NkRsaDBlSdIB6AFBVV95cUxNT0cwcWg2dndmVlVmU1ZqMEdWWDhZWDBtTTgxXzR4VTZFaG5Kd1NrR1RGTWNFMUZwNWl4UjBXeFB6bGJvRlYxVEI1TWNkeE1wYXZwOWc0SjRtbklXRUtBeDNoM2dPdmNwY1U0UDBVNDZ5cGZPOUlqUjRyYUdXX1BoZTN5X0R3LVRKQkRuR2JwZzZySlZ5RTNmcjhpZXRUSHNMV0FNckVPbENkX0hIZ25fem5tZHl0b29teUFnaHBnYjY1NVdXSjhuaHh1V3Bkald0WGYtNFBobDhOellCRllQVnZZcGFaaEVm?oc=5\" target=\"_blank\">Believe it or not: This AI minister is expecting... 83 AI kids</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYVhjVVd1ZjE2WkhiaXl4ODNJNGt3emR3SzJLWnZJdVpZRkgtT2p6VTB4d21RNUZtY3QxM1lDeHhVTktVN2VVQWw5ZnFPNVhycXFSOXdlaEdJdzZHTWRhR3dKWTN3dHc4ZkhlUmE4WWdSOVVQTEVLRW9aNFpIWU9TQWFMTjF2UlUtZTdkaDFGU3BadHU5eWF1NThRYzFHSmNMMGswVzlpbGR6dGI1dDg4SkpzcDhmSWxEUWpBSWpIT1lkVlg1WUFjNG5UUlNXSnlqcGpfYzNqUGhoRVN4NkRsaDBlSdIB6AFBVV95cUxNT0cwcWg2dndmVlVmU1ZqMEdWWDhZWDBtTTgxXzR4VTZFaG5Kd1NrR1RGTWNFMUZwNWl4UjBXeFB6bGJvRlYxVEI1TWNkeE1wYXZwOWc0SjRtbklXRUtBeDNoM2dPdmNwY1U0UDBVNDZ5cGZPOUlqUjRyYUdXX1BoZTN5X0R3LVRKQkRuR2JwZzZySlZ5RTNmcjhpZXRUSHNMV0FNckVPbENkX0hIZ25fem5tZHl0b29teUFnaHBnYjY1NVdXSjhuaHh1V3Bkald0WGYtNFBobDhOellCRllQVnZZcGFaaEVm?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "AI-generated video shared to falsely claim 'Bangladeshis living in Kolkata declared they will rule West Bengal'; details inside",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ2dPVWQ0aGJuVzA5TjNjZWxvRTVCWldQd3hmX2ZnLTFZOGdMTDlBZzVWYzBtaDdYc2JLNjc0eFNTXzFiUlEzX05fSUtDaHA5LTNBVXUzRGFFajNsUHQ3WDhlX2NkVlNvbm9oR2FKVlVMNm1VdC02eVozZC1SQjREWHlDVWJrQ3ltNE1TcU9WaFk3SnZENmswaTFmWmhsZU1VWlhkZnVvU1ZZQkZuWDd2Mk54YnNqSDZKSzBQaldiajk1ZDdINHc2NTJaSVdTQ3ZOVnhWLUpZQjd3NnFQbVFfV3dRcXptNEtVMm54emFmQ1AtT3I3OVJCT1QwNC1ZaHFZbnJpNXkxN043c1BBbHlpQQ?oc=5\" target=\"_blank\">AI-generated video shared to falsely claim 'Bangladeshis living in Kolkata declared they will rule West Bengal'; details inside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Press Trust of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ2dPVWQ0aGJuVzA5TjNjZWxvRTVCWldQd3hmX2ZnLTFZOGdMTDlBZzVWYzBtaDdYc2JLNjc0eFNTXzFiUlEzX05fSUtDaHA5LTNBVXUzRGFFajNsUHQ3WDhlX2NkVlNvbm9oR2FKVlVMNm1VdC02eVozZC1SQjREWHlDVWJrQ3ltNE1TcU9WaFk3SnZENmswaTFmWmhsZU1VWlhkZnVvU1ZZQkZuWDd2Mk54YnNqSDZKSzBQaldiajk1ZDdINHc2NTJaSVdTQ3ZOVnhWLUpZQjd3NnFQbVFfV3dRcXptNEtVMm54emFmQ1AtT3I3OVJCT1QwNC1ZaHFZbnJpNXkxN043c1BBbHlpQQ?oc=5",
+   "source_name": "Press Trust of India",
+   "source_domain": "ptinews.com",
+   "published_raw": "Thu, 11 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "SIR being conducted using AI, says Bengal CM Mamata: ‘Poor being tortured ahead of polls’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnRqd1dvTDZDX3haMDM3cWZKLTQ3VVpKOTc2YXZLZV9TZzg1dGVfcExQcU9HY2pwd05uX2kybTMwbTZhSjdZbncwSGVjSEc1NVVuTXpjUXVVZmZqNVZoYWczd21RUEZwRnBNTC1Ib3o1Y3ZoMmVHQ0FFUmJCNGFIT0FtSlA3ekV5SGpsREJUcVBmTGNJTWFZbnFEMUh3amxOVVMxMW5EQUxJNEJrUXBhZmFmOWF4XzFsdzZNSkR2M1ZPZ9IByAFBVV95cUxONHJzTWxONGdVYzRwVWtwNWNqTnFiYlJnMGtEV20wQVF3MUwwVmtmQnp2dmE3d2lSSU9NWGRWNmNzOVZOSnJ2bzBXU283SDYzejlhanRSUXM1YnBFVTN1MzRWdWNpWEp6c1JMV2xiZ3I5YzBscnpMSF9SMUJoZkY4R2dxNzBnYzAzcmwwSGdDR1BYUTRueWluSjN5aVJ1ckQwNDdqdTY2X29mVEZZUk05QTR2ZGVNMTFaTDF6cGpXMDVpZmNtUTM1SQ?oc=5\" target=\"_blank\">SIR being conducted using AI, says Bengal CM Mamata: ‘Poor being tortured ahead of polls’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnRqd1dvTDZDX3haMDM3cWZKLTQ3VVpKOTc2YXZLZV9TZzg1dGVfcExQcU9HY2pwd05uX2kybTMwbTZhSjdZbncwSGVjSEc1NVVuTXpjUXVVZmZqNVZoYWczd21RUEZwRnBNTC1Ib3o1Y3ZoMmVHQ0FFUmJCNGFIT0FtSlA3ekV5SGpsREJUcVBmTGNJTWFZbnFEMUh3amxOVVMxMW5EQUxJNEJrUXBhZmFmOWF4XzFsdzZNSkR2M1ZPZ9IByAFBVV95cUxONHJzTWxONGdVYzRwVWtwNWNqTnFiYlJnMGtEV20wQVF3MUwwVmtmQnp2dmE3d2lSSU9NWGRWNmNzOVZOSnJ2bzBXU283SDYzejlhanRSUXM1YnBFVTN1MzRWdWNpWEp6c1JMV2xiZ3I5YzBscnpMSF9SMUJoZkY4R2dxNzBnYzAzcmwwSGdDR1BYUTRueWluSjN5aVJ1ckQwNDdqdTY2X29mVEZZUk05QTR2ZGVNMTFaTDF6cGpXMDVpZmNtUTM1SQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "BJP IT cell sitting in EC, using AI to delete voters’ names, says Mamata",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTN5RGtOZGQwQi1lX09IVmczTG9xbER4UVZ5Vy0zejZCc2pMZzdBUjVlUEh4VzNDMWNtRElDeWl4OGJYTWxSamVEdkJhS0pYWUQ3R20wRXJLdWgtWHN1VllLRGllNExqa3ItbGtGWWdZOHdNUUp5UlhTRk5YV0tuWkZ1UWZNem9yMWdnblBmYkhZX2o2OXhjQnpjUG9oS01UVGh6UU1XZERhVENIaGJlRjdnSmliQkFY0gG_AUFVX3lxTE42cHl0Zm9yNUZRNUNIX1ZnM3l4UW5sbTNEYUVURzdod0V0SzRtWTIwUGxVYmxjei1lQ1czN182SEhaeHMxbHpuQTFKVFZyd3lBQmJSenBvRXpMcmN2b3VBVVB6VnFnbzl0SmtNZTJvc2lvTjBnQkZ1cVRORmFjQnpuYVppZzNXdEZmbk9tRXd2MUJZSjdZWkQ5SEU5MndDdkFQZjg5Q3BxbzBJMGJwUm1YYTg5bXQ0aFpPYXJEcF9z?oc=5\" target=\"_blank\">BJP IT cell sitting in EC, using AI to delete voters’ names, says Mamata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTN5RGtOZGQwQi1lX09IVmczTG9xbER4UVZ5Vy0zejZCc2pMZzdBUjVlUEh4VzNDMWNtRElDeWl4OGJYTWxSamVEdkJhS0pYWUQ3R20wRXJLdWgtWHN1VllLRGllNExqa3ItbGtGWWdZOHdNUUp5UlhTRk5YV0tuWkZ1UWZNem9yMWdnblBmYkhZX2o2OXhjQnpjUG9oS01UVGh6UU1XZERhVENIaGJlRjdnSmliQkFY0gG_AUFVX3lxTE42cHl0Zm9yNUZRNUNIX1ZnM3l4UW5sbTNEYUVURzdod0V0SzRtWTIwUGxVYmxjei1lQ1czN182SEhaeHMxbHpuQTFKVFZyd3lBQmJSenBvRXpMcmN2b3VBVVB6VnFnbzl0SmtNZTJvc2lvTjBnQkZ1cVRORmFjQnpuYVppZzNXdEZmbk9tRXd2MUJZSjdZWkQ5SEU5MndDdkFQZjg5Q3BxbzBJMGJwUm1YYTg5bXQ0aFpPYXJEcF9z?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "‘EC used BJP-devised AI tools’: Mamata Banerjee alleges discrepancies in West Bengal voter roll deletions | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcDFZczNWMTMwc1dvOGhNVEotdFZzdWI5eDc0cmp0U0JhUUVvUmZobzJReEIzU2tjR3hoLXIzZ3N3bHNnMmRxSWt5VFNkZy02WkdTS2FNNy1ZTDJiMmNsQUNabU9pX3ByNTk0QTVIU1RhMENSdUVNRmhqekRtekhvajl4ZWdQRHZmTVc2UTRVR2h1TElGdEJ1aHMxU2I1LTROQ0VfUkFhZ05JejlzRkRtQ2RrdktxaEtFYnNRVk5ZSl9sR1ZVZmNac2pTTnFxM1pOUmstTllrSUM3QngwOXAzUjB2QXhOemlwYlZ1RlY3OXotYm9aR2M3ONIB_gFBVV95cUxQcTNHN1F4eG1aSC0wVlY0elNmeWVRcjRlQ2pmY2U5OG93NHlpaU50QnBoZlNCUm91Q0xQZ3E1UU9BWHgxQkRJbDJQbXlUTzBqZU9ITUlkQndTVE42Tk1ydEUzVHBCV1RxOTVkYWk1Z0ZGbk9vaDl1V0RndHZpQmljd3I5ekZ0UmFZWVZ4cHFKSWJGTHNacVVzbVNxZlZNSGJiOENXMzRMWWdYV3AwOXZESjE4N2Z1ZU1pNmtlYXBZZXY5cm5leGw5Unl0dzlGQ2sxMEgwb0FxUFNjbW1aLThmNV91MDd1M1hvTGFwSl9aeU5iMVBBalNqcFFpdlJadw?oc=5\" target=\"_blank\">‘EC used BJP-devised AI tools’: Mamata Banerjee alleges discrepancies in West Bengal voter roll deletions | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcDFZczNWMTMwc1dvOGhNVEotdFZzdWI5eDc0cmp0U0JhUUVvUmZobzJReEIzU2tjR3hoLXIzZ3N3bHNnMmRxSWt5VFNkZy02WkdTS2FNNy1ZTDJiMmNsQUNabU9pX3ByNTk0QTVIU1RhMENSdUVNRmhqekRtekhvajl4ZWdQRHZmTVc2UTRVR2h1TElGdEJ1aHMxU2I1LTROQ0VfUkFhZ05JejlzRkRtQ2RrdktxaEtFYnNRVk5ZSl9sR1ZVZmNac2pTTnFxM1pOUmstTllrSUM3QngwOXAzUjB2QXhOemlwYlZ1RlY3OXotYm9aR2M3ONIB_gFBVV95cUxQcTNHN1F4eG1aSC0wVlY0elNmeWVRcjRlQ2pmY2U5OG93NHlpaU50QnBoZlNCUm91Q0xQZ3E1UU9BWHgxQkRJbDJQbXlUTzBqZU9ITUlkQndTVE42Tk1ydEUzVHBCV1RxOTVkYWk1Z0ZGbk9vaDl1V0RndHZpQmljd3I5ekZ0UmFZWVZ4cHFKSWJGTHNacVVzbVNxZlZNSGJiOENXMzRMWWdYV3AwOXZESjE4N2Z1ZU1pNmtlYXBZZXY5cm5leGw5Unl0dzlGQ2sxMEgwb0FxUFNjbW1aLThmNV91MDd1M1hvTGFwSl9aeU5iMVBBalNqcFFpdlJadw?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Deletion of 54 lakh voters 'illegal, unethical', done using AI: West Bengal Chief Minister Mamata Banerjee",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQTERoaFM1d1V3bDRqNEhjNnhOWnE3bHdzZ3J1WWstQ3pmUy1tY3A0b2lDNXBtWlo3bm5oWEZDM0RsQ1hiT0ZBSzRlNWp6WmNXODF5N2dlUG1yOGc5TjFUX0Rib1dwbXktQjhsWV81TW51OWlaU01TakdoNndxdkN5ZlFXLV9tQ1dBUm8wN3hHMG81NDNzWWtjMUtyNUpsUzB3Zm9zLWVKS1hIaDhaRjgzcS1vLUJKT2JmOThWWDR3bnE0bGNzanppOWJFTXNiMzJtWlhib2xCSVg4d1JZbnhIM0diVm0xOUtyV1gzMk9RTnFfVV9fLVBNLVd3emE5VTR5T0U4dnFBYkI3alRq0gGSAkFVX3lxTFBVS3UyU2dodUV6XzlVRXJpMW1oenh1b1lPY3lpUENQcHRsMkxveUpzdlZwOHBZT19CSTJlUnYxZFJ4am5HUGJnWTI4dmxfUTd2MldYaExXTV9WaXNkcnJTOE5HRElrTlVzMVQ2ZjlYTUpWV2ZlMjdxdU5FdWJ6T0NOSGE0VjJBSTRPR25qdEVBbzBnQ0x2bVJqV0pfaFNydFFER3RKTW9PdkpJM3I0emhxSmd1WGlqbHlSVVpzLWRKeXdKMm1FMTZVTnYwNzhsZ0VjMkN2bXU1VTh4VUpNSG5XaGh4MUpVUW8xWXZ5MElEdkR4al9qWko5VUU4cU5fS0MzS3lSX3BsY1BiSWhwYklxbEE?oc=5\" target=\"_blank\">Deletion of 54 lakh voters 'illegal, unethical', done using AI: West Bengal Chief Minister Mamata Banerjee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTERoaFM1d1V3bDRqNEhjNnhOWnE3bHdzZ3J1WWstQ3pmUy1tY3A0b2lDNXBtWlo3bm5oWEZDM0RsQ1hiT0ZBSzRlNWp6WmNXODF5N2dlUG1yOGc5TjFUX0Rib1dwbXktQjhsWV81TW51OWlaU01TakdoNndxdkN5ZlFXLV9tQ1dBUm8wN3hHMG81NDNzWWtjMUtyNUpsUzB3Zm9zLWVKS1hIaDhaRjgzcS1vLUJKT2JmOThWWDR3bnE0bGNzanppOWJFTXNiMzJtWlhib2xCSVg4d1JZbnhIM0diVm0xOUtyV1gzMk9RTnFfVV9fLVBNLVd3emE5VTR5T0U4dnFBYkI3alRq0gGSAkFVX3lxTFBVS3UyU2dodUV6XzlVRXJpMW1oenh1b1lPY3lpUENQcHRsMkxveUpzdlZwOHBZT19CSTJlUnYxZFJ4am5HUGJnWTI4dmxfUTd2MldYaExXTV9WaXNkcnJTOE5HRElrTlVzMVQ2ZjlYTUpWV2ZlMjdxdU5FdWJ6T0NOSGE0VjJBSTRPR25qdEVBbzBnQ0x2bVJqV0pfaFNydFFER3RKTW9PdkpJM3I0emhxSmd1WGlqbHlSVVpzLWRKeXdKMm1FMTZVTnYwNzhsZ0VjMkN2bXU1VTh4VUpNSG5XaGh4MUpVUW8xWXZ5MElEdkR4al9qWko5VUU4cU5fS0MzS3lSX3BsY1BiSWhwYklxbEE?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:15+00:00"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "region": "Telangana",
+ "group": "A",
+ "query": "(Telangana OR Hyderabad) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Telangana+OR+Hyderabad%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:14+00:00",
+ "item_count": 12,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana to establish India's first Green Pharma focused Applied AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXYxVmwwbTlOQ1ExSFdWeWhGTHJjRmw5SWRFVHBIMFktNVQ0Mi1JLVRkY25Bc3VhSjNjVmtxTF95LWZIcDBNaFhJOVVNTUNuR1hoRUNaYjgyWk5tdzJubzZ3MGxfV1NWTG5idWI5dGR6LXZNX253YjBXUW9fWEJIVGk4ZTVuU1NXVTFHUm9kR3p0NURFdEZLMTY2eUoyeUtTc0ctSVBzRGJIV255cFZaN2F4M1pwcWRDdE5uOV9VYTZaTTNBVEF0bjhiejEydXctVWxuNVBwYw?oc=5\" target=\"_blank\">Telangana to establish India's first Green Pharma focused Applied AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpectrum India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXYxVmwwbTlOQ1ExSFdWeWhGTHJjRmw5SWRFVHBIMFktNVQ0Mi1JLVRkY25Bc3VhSjNjVmtxTF95LWZIcDBNaFhJOVVNTUNuR1hoRUNaYjgyWk5tdzJubzZ3MGxfV1NWTG5idWI5dGR6LXZNX253YjBXUW9fWEJIVGk4ZTVuU1NXVTFHUm9kR3p0NURFdEZLMTY2eUoyeUtTc0ctSVBzRGJIV255cFZaN2F4M1pwcWRDdE5uOV9VYTZaTTNBVEF0bjhiejEydXctVWxuNVBwYw?oc=5",
+   "source_name": "BioSpectrum India",
+   "source_domain": "biospectrumindia.com",
+   "published_raw": "Sun, 19 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "C-DOT, IIT Hyderabad Launch Centre of Excellence for 6G, AI and Quantum Communications",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9FVjU4WFJGb0RJOEF3SWJlZzkyeGdwZWItZHFzYzJwRFVuSzJvcUY1SXVnY2pPM0VPSEZ2TVJXc3ppQkg5TmRnaGpfbmhzdUFaZmQ0WGJHMXpXVzV4MGMtY1hiTzA3QUpxX1NFX0JPald4NDFGN0sxYUVfRnRxdw?oc=5\" target=\"_blank\">C-DOT, IIT Hyderabad Launch Centre of Excellence for 6G, AI and Quantum Communications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarkaritel.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FVjU4WFJGb0RJOEF3SWJlZzkyeGdwZWItZHFzYzJwRFVuSzJvcUY1SXVnY2pPM0VPSEZ2TVJXc3ppQkg5TmRnaGpfbmhzdUFaZmQ0WGJHMXpXVzV4MGMtY1hiTzA3QUpxX1NFX0JPald4NDFGN0sxYUVfRnRxdw?oc=5",
+   "source_name": "Sarkaritel.com",
+   "source_domain": "sarkaritel.com",
+   "published_raw": "Wed, 24 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "BharathCloud launches AI-ready sovereign cloud center in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnVtd0l4cWFSRV84bTdzZkJNZDdrc2ROb2FZYV9pT2hORFpuSXliekZqX0ZyX2NDNnlVV2dkRTgtWmZQTElhTU54Ul9wOGJrdlBseVp0Nl9CN2liZVBDRUFINm5uTy12MlEyemF4TURBU3FzQml2bHJWX3BWVVVKVlhwTkk4eEkyN0dNendIaVpvUzR3bUNRb01ndmdIVVJiTUZIVms4aF9TVTVKZUNnR3UtZGZPWjRmLW41WjFXOWU3b05JY2VuRDVIVHJ6OVVBRWhaOWl2a2ZobUFLdmV2T9IB5gFBVV95cUxQb1o5bHhjdmZFbUNEcG1nMkUxTVNGcWtVRmZXSTBqTXhkdGIxZVZGNF9TZTM5OWRTUElNT29DdWVaM29NVnJPd1A3ejAzUDdjbGxacWs2MF9icGZ4OHp2NE52eXd6Y1JHNGt4ZkxyNE1VeDFWdEJZMkoyeWo1UWhncTFjY1o5NmloQkZZS3hUY3ZOYzd4clN0bWRZbnpybFZJblJuTF9WRjNGLTFlOHBacGNLU3AxUVc3Q0FOTXF4dGR5a1BRdjFmT0tMVWdfMXJRM0dfRkRoUkhKbVlrMV8teHIxOWVGZw?oc=5\" target=\"_blank\">BharathCloud launches AI-ready sovereign cloud center in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnVtd0l4cWFSRV84bTdzZkJNZDdrc2ROb2FZYV9pT2hORFpuSXliekZqX0ZyX2NDNnlVV2dkRTgtWmZQTElhTU54Ul9wOGJrdlBseVp0Nl9CN2liZVBDRUFINm5uTy12MlEyemF4TURBU3FzQml2bHJWX3BWVVVKVlhwTkk4eEkyN0dNendIaVpvUzR3bUNRb01ndmdIVVJiTUZIVms4aF9TVTVKZUNnR3UtZGZPWjRmLW41WjFXOWU3b05JY2VuRDVIVHJ6OVVBRWhaOWl2a2ZobUFLdmV2T9IB5gFBVV95cUxQb1o5bHhjdmZFbUNEcG1nMkUxTVNGcWtVRmZXSTBqTXhkdGIxZVZGNF9TZTM5OWRTUElNT29DdWVaM29NVnJPd1A3ejAzUDdjbGxacWs2MF9icGZ4OHp2NE52eXd6Y1JHNGt4ZkxyNE1VeDFWdEJZMkoyeWo1UWhncTFjY1o5NmloQkZZS3hUY3ZOYzd4clN0bWRZbnpybFZJblJuTF9WRjNGLTFlOHBacGNLU3AxUVc3Q0FOTXF4dGR5a1BRdjFmT0tMVWdfMXJRM0dfRkRoUkhKbVlrMV8teHIxOWVGZw?oc=5",
+   "source_name": "ET Datacenters",
+   "source_domain": "datacenters.economictimes.indiatimes.com",
+   "published_raw": "Sat, 16 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad to get India’s first Green Skills and Applied AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFAxam1RZm5TWk9Rc2NHeU5pdEladldlOURMcGRGS3FkOHhVWXBVeEE2ZGEzRVpNWkJfOVByTUMzdWNqRkhOV3REeDRUOEw1aHBESVk5a0ViWjZ1U2o2UHRTNHNDTDA5V2dwR0dueEJNZ1YzVjlJcHl4U09wRjRic01jTDQ5Sy1uSlkzZmlUQTU0d256MG16QzhiUVQzQkpLZmI1a1Jpdnc?oc=5\" target=\"_blank\">Hyderabad to get India’s first Green Skills and Applied AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFAxam1RZm5TWk9Rc2NHeU5pdEladldlOURMcGRGS3FkOHhVWXBVeEE2ZGEzRVpNWkJfOVByTUMzdWNqRkhOV3REeDRUOEw1aHBESVk5a0ViWjZ1U2o2UHRTNHNDTDA5V2dwR0dueEJNZ1YzVjlJcHl4U09wRjRic01jTDQ5Sy1uSlkzZmlUQTU0d256MG16QzhiUVQzQkpLZmI1a1Jpdnc?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad Startup Cosmoserve to Test Robotic Satellite Capture Aboard Skyroot Rocket",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0ZKUXZhLTFpd2kxWFEySFZpMGwyMEw4YWZBM1NpRDRZSnJ6UkVJaWVXb0R5UlRWMkxHRi1QOV9iNUN5UnZNcll6U1hvZUtWZHVGc3hDQk9OX3pGX04wMkIybWswU19pdUZZdzdQdE9vRmRSMzlEMVFWc3BQaDhIT2dZRHBhcUQtWFBtcndMMzNqOGN1Y21pU2Q0azB0Nmc4ZHJjXzF1YlV3eFZXSmFtM19IUFJpVG52R3FlYUw1UQ?oc=5\" target=\"_blank\">Hyderabad Startup Cosmoserve to Test Robotic Satellite Capture Aboard Skyroot Rocket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0ZKUXZhLTFpd2kxWFEySFZpMGwyMEw4YWZBM1NpRDRZSnJ6UkVJaWVXb0R5UlRWMkxHRi1QOV9iNUN5UnZNcll6U1hvZUtWZHVGc3hDQk9OX3pGX04wMkIybWswU19pdUZZdzdQdE9vRmRSMzlEMVFWc3BQaDhIT2dZRHBhcUQtWFBtcndMMzNqOGN1Y21pU2Q0azB0Nmc4ZHJjXzF1YlV3eFZXSmFtM19IUFJpVG52R3FlYUw1UQ?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Mon, 06 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad emerging as major AI-data centre hub with $10-20 billion investments in pipeline: Official",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUlpMWcyTUM5UXJsYURIRlB2b2lQbkI0YWZJWjRMcTdEc3o0Uks3MmVTQ0JZSHVhTV9oeGNHdUp3eXRaWHE3YXNhNjFSaUZuZHlpZ2tCMGJnTmVNelVGQTM0LXI3WmdhN3czVXpCaU51cHN0WWh5UG53cTJvbVNpWkFhWUczdmhJM0ZEZGRUSktlYnZLWW1UdDFtWi1Mby1aZy05NENlYnBDRFVTdmh3aUFuUm90Y21qN0RrN2FVZTA5UHlw0gHKAUFVX3lxTE9xWW5KMDI5U25IV2w4YWphVE82Zlg0c3NjenZmZGlOYlZkLXZjQVg1RG9ZOThSNlhCSExFd1lhQmZFU2lVQkFIU3RjZVI1aVAtSzlFQ1ZNRkdCMElpWExHSkRSSDhtNG5kSVBOV3YwM2dZanBzM3BvQTU1OWRWaWRRRXdEVWRmX0NUd3RCVnFnbHNLVi1hQTF4X1B2N2FkQ2pnT05BdzUzQWR4RzEyZDdWSWxzS1dZMkZ2UFpXbE9vNjVDOGRxV1ZqVEE?oc=5\" target=\"_blank\">Hyderabad emerging as major AI-data centre hub with $10-20 billion investments in pipeline: Official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Telecom</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUlpMWcyTUM5UXJsYURIRlB2b2lQbkI0YWZJWjRMcTdEc3o0Uks3MmVTQ0JZSHVhTV9oeGNHdUp3eXRaWHE3YXNhNjFSaUZuZHlpZ2tCMGJnTmVNelVGQTM0LXI3WmdhN3czVXpCaU51cHN0WWh5UG53cTJvbVNpWkFhWUczdmhJM0ZEZGRUSktlYnZLWW1UdDFtWi1Mby1aZy05NENlYnBDRFVTdmh3aUFuUm90Y21qN0RrN2FVZTA5UHlw0gHKAUFVX3lxTE9xWW5KMDI5U25IV2w4YWphVE82Zlg0c3NjenZmZGlOYlZkLXZjQVg1RG9ZOThSNlhCSExFd1lhQmZFU2lVQkFIU3RjZVI1aVAtSzlFQ1ZNRkdCMElpWExHSkRSSDhtNG5kSVBOV3YwM2dZanBzM3BvQTU1OWRWaWRRRXdEVWRmX0NUd3RCVnFnbHNLVi1hQTF4X1B2N2FkQ2pnT05BdzUzQWR4RzEyZDdWSWxzS1dZMkZ2UFpXbE9vNjVDOGRxV1ZqVEE?oc=5",
+   "source_name": "ET Telecom",
+   "source_domain": "telecom.economictimes.indiatimes.com",
+   "published_raw": "Fri, 29 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "AWS to expand data centre operations in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTjJ2T1JUVlpmd3ZKVS1mN2FrVUo4NGVfaDRrajd4Q1I0bjFUNmw2a3NjbDNWdlR4d0VVMnhWMV9iNXVvTnJ6cTBQTWFmWWU4UW04MEFuSk5yZGNSODBLUFFLMi1za1pBanIyLTdB?oc=5\" target=\"_blank\">AWS to expand data centre operations in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon India</font>",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTjJ2T1JUVlpmd3ZKVS1mN2FrVUo4NGVfaDRrajd4Q1I0bjFUNmw2a3NjbDNWdlR4d0VVMnhWMV9iNXVvTnJ6cTBQTWFmWWU4UW04MEFuSk5yZGNSODBLUFFLMi1za1pBanIyLTdB?oc=5",
+   "source_name": "About Amazon India",
+   "source_domain": "aboutamazon.in",
+   "published_raw": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Tamil Nadu to set up AI and innovation city ‘Arivagam’ under Revised Budget 2026-27",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXdNTm9ZWFRBVjVYTmVGZFk5RnExY2R2NGpIeElVSTZUSV9WX0hhNUNzTHlQbFJoWDdGczZWZnBNSlhWVW9iWTRzbzZHc2g0cV9tQWFvRThRNlBocTNscThZRVFuRVhLMEFfNzBsenlHZmJ4N1hSSmRiT0dpRl9SY2M2eFpyaUlLOFJPR1FOVDBlQXJrWW9BUnR0SXhRWVBzdEcxemFZTktyd0J2?oc=5\" target=\"_blank\">Tamil Nadu to set up AI and innovation city ‘Arivagam’ under Revised Budget 2026-27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXdNTm9ZWFRBVjVYTmVGZFk5RnExY2R2NGpIeElVSTZUSV9WX0hhNUNzTHlQbFJoWDdGczZWZnBNSlhWVW9iWTRzbzZHc2g0cV9tQWFvRThRNlBocTNscThZRVFuRVhLMEFfNzBsenlHZmJ4N1hSSmRiT0dpRl9SY2M2eFpyaUlLOFJPR1FOVDBlQXJrWW9BUnR0SXhRWVBzdEcxemFZTktyd0J2?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Tamil Nadu unveils first Agriculture Budget with focus on AI, soil and farm growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEpMLWdKaWREVlZhTFV3dktGR0tLRmE5TjFndFBhUUgxcGFYQ3VCaFNFVlVuOEU1MjdfR2R2UDR1RXQ2TW9ZM21LQmo2MC1fNk9yRHBHcHdnbDYtTzIxNU1JaVRXcThqaW5qZlJoRG9xVHAtMHF2U2I4YTNVMzdjUERZUEJ3RWRJSGVPNzNULXIyZ1c2NV9CNFo3YlA1dGVGUmRkNzNteG9SdlMx?oc=5\" target=\"_blank\">Tamil Nadu unveils first Agriculture Budget with focus on AI, soil and farm growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEpMLWdKaWREVlZhTFV3dktGR0tLRmE5TjFndFBhUUgxcGFYQ3VCaFNFVlVuOEU1MjdfR2R2UDR1RXQ2TW9ZM21LQmo2MC1fNk9yRHBHcHdnbDYtTzIxNU1JaVRXcThqaW5qZlJoRG9xVHAtMHF2U2I4YTNVMzdjUERZUEJ3RWRJSGVPNzNULXIyZ1c2NV9CNFo3YlA1dGVGUmRkNzNteG9SdlMx?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "UoH, Apollo University expand partnership for AI-driven healthcare research",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOG1RSC02U0Nxc2xSRkFNVkpZaDhISGZqLVp1bkItb0drUnNJUXQ4d2dYeGl0MFZwejlwQmxrQjB3YThMOTU5OGVsM3RVRGlJSTNKMWNQQ3F6bHQ4cVo1UG9JdUxoMld1STZpOTRzalBHcXpnb0Rsd2JlMzZPdnhSa0E2OTZUS2hnUmV3SU5nNjdNVXI0TXU4MUJCUUZuLTNTX0RV?oc=5\" target=\"_blank\">UoH, Apollo University expand partnership for AI-driven healthcare research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOG1RSC02U0Nxc2xSRkFNVkpZaDhISGZqLVp1bkItb0drUnNJUXQ4d2dYeGl0MFZwejlwQmxrQjB3YThMOTU5OGVsM3RVRGlJSTNKMWNQQ3F6bHQ4cVo1UG9JdUxoMld1STZpOTRzalBHcXpnb0Rsd2JlMzZPdnhSa0E2OTZUS2hnUmV3SU5nNjdNVXI0TXU4MUJCUUZuLTNTX0RV?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Nitin Gadkari moves Bombay HC against AI deepfakes over E20 policy allegations",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1ItSTRwMzloZDdUZlRKTmZ4THVlMXdobEYtZDZxclcydmhJOF9URU83MF9iUlU0M1FLdUppZjU0UGs0c1VOUU11Nm03NkRBYmFKd3dpWWpuQU5MZ2tCQWVVRnc2eHp5ak5seUNYRnhKOFgxSG0xSFNqakwzZzZ0Wm9iODRWWklqRGZmbXJKek8wUGxQQnNoMTRtOGVEeWhrdWw4YnZmWDI?oc=5\" target=\"_blank\">Nitin Gadkari moves Bombay HC against AI deepfakes over E20 policy allegations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1ItSTRwMzloZDdUZlRKTmZ4THVlMXdobEYtZDZxclcydmhJOF9URU83MF9iUlU0M1FLdUppZjU0UGs0c1VOUU11Nm03NkRBYmFKd3dpWWpuQU5MZ2tCQWVVRnc2eHp5ak5seUNYRnhKOFgxSG0xSFNqakwzZzZ0Wm9iODRWWklqRGZmbXJKek8wUGxQQnNoMTRtOGVEeWhrdWw4YnZmWDI?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana police to launch AI-powered ‘Tech Team’, Marvel-style task force for smart policing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzBxU1diMk95YTZLYnZ3SEhyMjRhQ2JWOGxKdjluRDhrSHlLdFllTnZZcmpWME5FODUxWnNodWJCb01aNHBoemJNeFVNTDZvNmhLSVQycFZaeDRVZUxNS2VtakViUU1kcHJaSHNLaUwtUG42OUdVV2d1ZngxVEJuRFhHSG9qbjdxSVpRRXVLVy1YdWc5Z19KMzFsczZSRk56OE92WGxUVlRZcXdpc05LNmh5SGhNZUNQbmN4TmpQQ25SdWt3QWd3cHdB?oc=5\" target=\"_blank\">Telangana police to launch AI-powered ‘Tech Team’, Marvel-style task force for smart policing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsMeter</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzBxU1diMk95YTZLYnZ3SEhyMjRhQ2JWOGxKdjluRDhrSHlLdFllTnZZcmpWME5FODUxWnNodWJCb01aNHBoemJNeFVNTDZvNmhLSVQycFZaeDRVZUxNS2VtakViUU1kcHJaSHNLaUwtUG42OUdVV2d1ZngxVEJuRFhHSG9qbjdxSVpRRXVLVy1YdWc5Z19KMzFsczZSRk56OE92WGxUVlRZcXdpc05LNmh5SGhNZUNQbmN4TmpQQ25SdWt3QWd3cHdB?oc=5",
+   "source_name": "NewsMeter",
+   "source_domain": "newsmeter.in",
+   "published_raw": "Sat, 23 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:14+00:00"
+  }
+ ]
+}

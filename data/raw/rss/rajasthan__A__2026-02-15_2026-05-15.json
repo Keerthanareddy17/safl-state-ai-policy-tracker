@@ -1,0 +1,120 @@
+{
+ "region": "Rajasthan",
+ "group": "A",
+ "query": "(Rajasthan) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Rajasthan%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:33+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "How AI helped promote community-led development in Rajasthan",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWFYQjNJcnBVU1ZuMjZRNFluUmpZLW9ScEQwRmtsamU2enhTRmd2ZFZFQXQ2NUkycUdVZkcwWmhMRFdmNFdQaDVMQ2NpM2F3eTRUSmdWdUZPM2NFZVJqWXZobVZJNTQxa0lLWlRVaS1VWHlwemJWN1h3ZUNiZU9SZ0FMY3VJUEF3X2R2Skxzbk1rY200OEVJQjVSR1o1RnozUXJ1RHphUjJhZXhRZTRxdm9XcWlUN3JCQ2R1anN0c1lLc1g5V2d2dzBDMHRlOTYwTHBn0gHaAUFVX3lxTFAtMXliQ0JpUEU5UUVsT1F1TEhzcWxtd0xwV1hsZ1l4eUxUXzNFdGxGREM0cUk4eElVOXFPWmxFaldQSWZDaUNyRVdZNThCMHJOR0txYkMtYnE0ajNxOFh5WUl2LTdQTndSb0dpakhUcmJNTU9HQ1RpUDNiMkZ0UzBFeEUwUU5QeC12WVlqbWd2WHl2YWYzRUQxdmlGeWJjdHUwaWx0RkJZQ0ZNMG1Od0NFYXBYdkF4b3lKX2JOR29IdjVqMTVtX1QxdVp1cndiMVhjQ1J4eDBYTVFB?oc=5\" target=\"_blank\">How AI helped promote community-led development in Rajasthan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWFYQjNJcnBVU1ZuMjZRNFluUmpZLW9ScEQwRmtsamU2enhTRmd2ZFZFQXQ2NUkycUdVZkcwWmhMRFdmNFdQaDVMQ2NpM2F3eTRUSmdWdUZPM2NFZVJqWXZobVZJNTQxa0lLWlRVaS1VWHlwemJWN1h3ZUNiZU9SZ0FMY3VJUEF3X2R2Skxzbk1rY200OEVJQjVSR1o1RnozUXJ1RHphUjJhZXhRZTRxdm9XcWlUN3JCQ2R1anN0c1lLc1g5V2d2dzBDMHRlOTYwTHBn0gHaAUFVX3lxTFAtMXliQ0JpUEU5UUVsT1F1TEhzcWxtd0xwV1hsZ1l4eUxUXzNFdGxGREM0cUk4eElVOXFPWmxFaldQSWZDaUNyRVdZNThCMHJOR0txYkMtYnE0ajNxOFh5WUl2LTdQTndSb0dpakhUcmJNTU9HQ1RpUDNiMkZ0UzBFeEUwUU5QeC12WVlqbWd2WHl2YWYzRUQxdmlGeWJjdHUwaWx0RkJZQ0ZNMG1Od0NFYXBYdkF4b3lKX2JOR29IdjVqMTVtX1QxdVp1cndiMVhjQ1J4eDBYTVFB?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Mon, 27 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "AI farmer revolution to begin from Jaipur: Union Minister Shri Shivraj Singh Chouhan to launch ‘Bharat-VISTAAR’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9NNU1aamt2VkxhN0RuYUR6bDZYanFKd0dDSmpFNDRmVnctajdXOXF1MGtFcGpoM19DVHc4MVVxd1BfRWNhd1NUbzNrT1VmU1duVE5HWmp2VG5wYllNMnN3Um1qT1ctaUt0M0E1eXhTRkkzMkVMZWx5eHRR?oc=5\" target=\"_blank\">AI farmer revolution to begin from Jaipur: Union Minister Shri Shivraj Singh Chouhan to launch ‘Bharat-VISTAAR’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NNU1aamt2VkxhN0RuYUR6bDZYanFKd0dDSmpFNDRmVnctajdXOXF1MGtFcGpoM19DVHc4MVVxd1BfRWNhd1NUbzNrT1VmU1duVE5HWmp2VG5wYllNMnN3Um1qT1ctaUt0M0E1eXhTRkkzMkVMZWx5eHRR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan SOG Deploys AI To Uncover Exam Impersonation Network",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjBTemZ1S1N4eVZiak5Takc5azNkb3F4SS1GREVWZ0tmc1g2RWdadTlidHZDS0JBeWktdnRNT0lwbk03b2N2cWc4U0hMdDJtV21JdHZxM1g2RVdXRHVxSklCaEowb3RDdFZwblp3R2IyUXd1LXZVVnVnVWY1R1kwYw?oc=5\" target=\"_blank\">Rajasthan SOG Deploys AI To Uncover Exam Impersonation Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjBTemZ1S1N4eVZiak5Takc5azNkb3F4SS1GREVWZ0tmc1g2RWdadTlidHZDS0JBeWktdnRNT0lwbk03b2N2cWc4U0hMdDJtV21JdHZxM1g2RVdXRHVxSklCaEowb3RDdFZwblp3R2IyUXd1LXZVVnVnVWY1R1kwYw?oc=5",
+   "source_name": "The 420.in",
+   "source_domain": "the420.in",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan govt to set up ₹2,000 crore fund for school infrastructure",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0owdU1OUjRlenJJWnl2RVJucjVybGRCM1RHSEthT3plUmhmSTAwS0lIUmx0bHhyR3VPWF84d1RIdFpTMnVvZ1dpajJ5aE1qMEpKVHJjUUJQQjJvYjZsZlFwZXlCRXVhSnBpaXFabEllRV96UWtUUTVzeUFwRkh1UnVoajFKTEVfQkh1cEVHenBHZEpiSEFQT0Q3dXhxalNaaUhOc0JGNmIyMUFTeDUtTkZtWm1XRXVlN2VVMjlHRkV0S29FSXBndTlpcHfSAdIBQVVfeXFMTmtvTUtGTGNXTlVrQ0tJQXRIeXlNaFAyN0k0XzFRTVZzdFhlV1pEYUhLRzBnUnZTTDlEbzJtYXU3dFh0cnRNLW1aVTBPR25DYzlRNjFmaFdaRmEwTHl0R0dfNEEySXFnWUMwZFB2SktpNlV4VVFUYUc3Vm5iVEc4N0VfcE9oYldhMDM2NENRdnhaNmFFSnZ3X1RsMGdLOFVfMHRiaG9ZSEwzYTFSOGlONVFxdFlHNlM5VFZqMVhsNHVCaS1NRms1UVRNejlvMWpGOFVB?oc=5\" target=\"_blank\">Rajasthan govt to set up ₹2,000 crore fund for school infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0owdU1OUjRlenJJWnl2RVJucjVybGRCM1RHSEthT3plUmhmSTAwS0lIUmx0bHhyR3VPWF84d1RIdFpTMnVvZ1dpajJ5aE1qMEpKVHJjUUJQQjJvYjZsZlFwZXlCRXVhSnBpaXFabEllRV96UWtUUTVzeUFwRkh1UnVoajFKTEVfQkh1cEVHenBHZEpiSEFQT0Q3dXhxalNaaUhOc0JGNmIyMUFTeDUtTkZtWm1XRXVlN2VVMjlHRkV0S29FSXBndTlpcHfSAdIBQVVfeXFMTmtvTUtGTGNXTlVrQ0tJQXRIeXlNaFAyN0k0XzFRTVZzdFhlV1pEYUhLRzBnUnZTTDlEbzJtYXU3dFh0cnRNLW1aVTBPR25DYzlRNjFmaFdaRmEwTHl0R0dfNEEySXFnWUMwZFB2SktpNlV4VVFUYUc3Vm5iVEc4N0VfcE9oYldhMDM2NENRdnhaNmFFSnZ3X1RsMGdLOFVfMHRiaG9ZSEwzYTFSOGlONVFxdFlHNlM5VFZqMVhsNHVCaS1NRms1UVRNejlvMWpGOFVB?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan targets 200 GCCs, 1.5 lakh jobs in five years: Chief Secretary V Srinivas",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVHM2tnUzh3d2h4dTN0MmJGRTBYaGltYnZKWHRyTjg5OHRnM29sNjZreXdGNlIzOUpFR1NYVGpicG5KZWVMdDV3dkRjUHN3S0Z4a1ZnYUxQdUJXNnVCU0o5eFJIMXJhdl9hbG53V19WeFFFLS1YSjNBT2tERThEWFcyVy16aUM0VEtPa0RpMDcydjdQQzdmZmNycTRoUlJKMGZWUi0tVHJybFJlN005N3VKak5kTVMwTEpiS0hYRG1lN2hCc2E1bUtWYWRaRkIzLXY3VTRoSGRsbGszVEZjVzR30gHnAUFVX3lxTE9hV1ZuT0pkNzB0ZTlDc0dTLW1iVm85S3J2QXQtX3A3RWU5Vi0yWC0tdFVEaThpOEJJZmxNZ19lWnM0U3ItLTJHempUTlZ0Qy1QSjN3WHNOMnZURFpVZE1zT1dZQUc1YVJ2M3hZUEE1bGE2RTkxS1pjckhkQk9RQm42R1J0N2ljVXZrMXJubjdoM1RkN3NrUVZmeWxOMktXWHBkb3V1aGpqN0VzeTJJVDNpdHNzdnhJWmlWTUJLbVlDcTdxQnJFc2tGeHktMFF5LWp0MTNzeE5mMmlnWHpqYVg2Q0phVWQwRQ?oc=5\" target=\"_blank\">Rajasthan targets 200 GCCs, 1.5 lakh jobs in five years: Chief Secretary V Srinivas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVHM2tnUzh3d2h4dTN0MmJGRTBYaGltYnZKWHRyTjg5OHRnM29sNjZreXdGNlIzOUpFR1NYVGpicG5KZWVMdDV3dkRjUHN3S0Z4a1ZnYUxQdUJXNnVCU0o5eFJIMXJhdl9hbG53V19WeFFFLS1YSjNBT2tERThEWFcyVy16aUM0VEtPa0RpMDcydjdQQzdmZmNycTRoUlJKMGZWUi0tVHJybFJlN005N3VKak5kTVMwTEpiS0hYRG1lN2hCc2E1bUtWYWRaRkIzLXY3VTRoSGRsbGszVEZjVzR30gHnAUFVX3lxTE9hV1ZuT0pkNzB0ZTlDc0dTLW1iVm85S3J2QXQtX3A3RWU5Vi0yWC0tdFVEaThpOEJJZmxNZ19lWnM0U3ItLTJHempUTlZ0Qy1QSjN3WHNOMnZURFpVZE1zT1dZQUc1YVJ2M3hZUEE1bGE2RTkxS1pjckhkQk9RQm42R1J0N2ljVXZrMXJubjdoM1RkN3NrUVZmeWxOMktXWHBkb3V1aGpqN0VzeTJJVDNpdHNzdnhJWmlWTUJLbVlDcTdxQnJFc2tGeHktMFF5LWp0MTNzeE5mMmlnWHpqYVg2Q0phVWQwRQ?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan opens door for private and PPP-led industrial parks under new policy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQa044Wm42NTZmOHpJdkRFY0s4ZFBBWEJZUV8yYTRBVzRyYnc3Zk90aXhVT0JibWRsWEFaS1VqRDlTa043R3pady1yN3FudjJUWWV4NUNfdEZCVGVpTm1Yb3piTW45M3NpV2JKY3BEVjdzMXd5MV8xR1RvSmI4VVhmcEtRcnhBWXlacWFmLWVOelgtYkpzQmF0eVQ5XzFiM3RxNjRlYXlYYVZnQnJMNGV2bXdwUVRSOHVERUd2OTdfSVo5Yi0zTGc?oc=5\" target=\"_blank\">Rajasthan opens door for private and PPP-led industrial parks under new policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People Matters - HR News</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa044Wm42NTZmOHpJdkRFY0s4ZFBBWEJZUV8yYTRBVzRyYnc3Zk90aXhVT0JibWRsWEFaS1VqRDlTa043R3pady1yN3FudjJUWWV4NUNfdEZCVGVpTm1Yb3piTW45M3NpV2JKY3BEVjdzMXd5MV8xR1RvSmI4VVhmcEtRcnhBWXlacWFmLWVOelgtYkpzQmF0eVQ5XzFiM3RxNjRlYXlYYVZnQnJMNGV2bXdwUVRSOHVERUd2OTdfSVo5Yi0zTGc?oc=5",
+   "source_name": "People Matters - HR News",
+   "source_domain": "peoplematters.in",
+   "published_raw": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "AI-Edited Food Photos Cost 36 Rajasthan Police Trainees Their Training",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGU5Y1ZJektWQ3RVbER4MmQxS1owNFlyUExXVV8yZTNiUnU0REVfeE8wN2N1UnNSb2NDYTVjMFA3VjFRY1VveF9WdlRJanVncXBsMmhDVzliNGpkV3lUVEtKZHBEbTdzeEFIZlFfS1ZUYTFjVTNjRV9jLUY1X3FMbG11ZlBQQlNYRTQwYTRR?oc=5\" target=\"_blank\">AI-Edited Food Photos Cost 36 Rajasthan Police Trainees Their Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGU5Y1ZJektWQ3RVbER4MmQxS1owNFlyUExXVV8yZTNiUnU0REVfeE8wN2N1UnNSb2NDYTVjMFA3VjFRY1VveF9WdlRJanVncXBsMmhDVzliNGpkV3lUVEtKZHBEbTdzeEFIZlFfS1ZUYTFjVTNjRV9jLUY1X3FMbG11ZlBQQlNYRTQwYTRR?oc=5",
+   "source_name": "The 420.in",
+   "source_domain": "the420.in",
+   "published_raw": "Sat, 14 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "'Boy vs girl' budget: Rajasthan BJP MLA's sexist remark sparks row; he asks 'what is wrong?'",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOME1FQURfczhoclFNbjhYWV9KVnE1LVlVN1dfdExEUVpHZ1lqeVZHcm5FRkNBZzA0WmtfbDltQTBfYURwblVrTzBiTlFpaHVFeWR5RHF3UENjRS1kM3JWT210WWRIaEZRUXBhcVN4eGNlRThSaXNzdnlEVUdQMmlZSXJYWW1KT25jMnZjV2JhUlNQVXJBNm5ZbW5vYk9VZVh0QUFTeWJYNk5rNDhlelg5TDBNS2M5dFpfcG5yVHNlUl9xMkxDWnBQbUU1MENSTEx1MnlwUVIyLUNjQdIB3wFBVV95cUxQMDBmNUltNm1vWmpndmYxVno0TEFpbzdSQzNXbUJIMXd4ZnJuR1dsczZ3Y3dqemJTT3BvXzBPZUw1eDM2THRxbU5zN3VoUEVvb1p2amFSMW9MNzFKRzJodTVrdmxSZ25mTTIxYXJqUWNHSnVrbW5HM0NUZW1uOGxXblV0S1BJb3B4YlQyQ2ZoSFpOT3h4a1R4UEtUQTVFbl9HbFNLZ3B4dVFKVUNMS1kyNkR1eDB2bjE5ckZsdHdBZnVuWktndzF1QXJvR0lFNjAxVkMtX29TdG9iRElGRllj?oc=5\" target=\"_blank\">'Boy vs girl' budget: Rajasthan BJP MLA's sexist remark sparks row; he asks 'what is wrong?'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOME1FQURfczhoclFNbjhYWV9KVnE1LVlVN1dfdExEUVpHZ1lqeVZHcm5FRkNBZzA0WmtfbDltQTBfYURwblVrTzBiTlFpaHVFeWR5RHF3UENjRS1kM3JWT210WWRIaEZRUXBhcVN4eGNlRThSaXNzdnlEVUdQMmlZSXJYWW1KT25jMnZjV2JhUlNQVXJBNm5ZbW5vYk9VZVh0QUFTeWJYNk5rNDhlelg5TDBNS2M5dFpfcG5yVHNlUl9xMkxDWnBQbUU1MENSTEx1MnlwUVIyLUNjQdIB3wFBVV95cUxQMDBmNUltNm1vWmpndmYxVno0TEFpbzdSQzNXbUJIMXd4ZnJuR1dsczZ3Y3dqemJTT3BvXzBPZUw1eDM2THRxbU5zN3VoUEVvb1p2amFSMW9MNzFKRzJodTVrdmxSZ25mTTIxYXJqUWNHSnVrbW5HM0NUZW1uOGxXblV0S1BJb3B4YlQyQ2ZoSFpOT3h4a1R4UEtUQTVFbl9HbFNLZ3B4dVFKVUNMS1kyNkR1eDB2bjE5ckZsdHdBZnVuWktndzF1QXJvR0lFNjAxVkMtX29TdG9iRElGRllj?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "Rajasthan MLA Bahadur Singh Koli compares BJP budget to ‘son’, Congress's budget to ‘daughter’, row erupt",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOEw0OWpUOVRvUWx6UkRzQW44WURKYS1Lb3pJcGJkcnJ2a3RwcVhMOFNVbHJPbHNTODFRdS0tR3Y1WFRiTzFyMEQzWnF3N2tZMzdhaE5nc20yeVQtdE5jVWxWUjU0dmt1LU9pcTZpQWpocW00ZDVsUXlNTUFoaTVNX2Q5NW1xang1ZFItcDA1aE5QRlQ0VG1RclFQRzl5VGs0Ri1vM1drZUNDNUFVRkNnLXFBMlNGanlKY0NiWG9POUU4WEtZdzltZXhTTWtjLW5ST2fSAdcBQVVfeXFMTThLVnotY1JqUF85bzVMX0dxbUJTVkFFeXN3bl8yOTFkZkd5RkVucnBRMVFSZWhoU3hpMUpmVHFYNUxuNkFSNmdFdGJCcmk2VElscGxDYjlpWHU1azY3U3MzT3ZxZTcyOFNNZ2tGX1hxZGFvVEtvNWJTVDdiZnFXS1pQRkZLRDF2YnptMnBPaDk5U2d1M2UtM3lBTTFzSzF3XzdRM0trUUttdjU0dUVfZHNBUm1IM0hoeDFRc2F5ekdzOFRQTnFwbUxfQXptWUR2V19KS2UxeG8?oc=5\" target=\"_blank\">Rajasthan MLA Bahadur Singh Koli compares BJP budget to ‘son’, Congress's budget to ‘daughter’, row erupt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOEw0OWpUOVRvUWx6UkRzQW44WURKYS1Lb3pJcGJkcnJ2a3RwcVhMOFNVbHJPbHNTODFRdS0tR3Y1WFRiTzFyMEQzWnF3N2tZMzdhaE5nc20yeVQtdE5jVWxWUjU0dmt1LU9pcTZpQWpocW00ZDVsUXlNTUFoaTVNX2Q5NW1xang1ZFItcDA1aE5QRlQ0VG1RclFQRzl5VGs0Ri1vM1drZUNDNUFVRkNnLXFBMlNGanlKY0NiWG9POUU4WEtZdzltZXhTTWtjLW5ST2fSAdcBQVVfeXFMTThLVnotY1JqUF85bzVMX0dxbUJTVkFFeXN3bl8yOTFkZkd5RkVucnBRMVFSZWhoU3hpMUpmVHFYNUxuNkFSNmdFdGJCcmk2VElscGxDYjlpWHU1azY3U3MzT3ZxZTcyOFNNZ2tGX1hxZGFvVEtvNWJTVDdiZnFXS1pQRkZLRDF2YnptMnBPaDk5U2d1M2UtM3lBTTFzSzF3XzdRM0trUUttdjU0dUVfZHNBUm1IM0hoeDFRc2F5ekdzOFRQTnFwbUxfQXptWUR2V19KS2UxeG8?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Rajasthan",
+   "title": "SOG launches AI tool against exam fraud: Software scans 50 lakh students, compiles profiles of over 2,000 s...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWVLcWRtd0YxQUoyYVZzVzEybnlmbk1KTThKZ0VUNlQ3a3o2ejc5OV9UbFdQOWViTVZEbVJiVDhjQkc5Q1JibV96Vk1kUUpYdlZyRGxoUWtDRW5kNnBVcFVfazU1M3ZDWWVLcXc3MmNnZ2ZfbVR2Y2kwaTBldVZybURGblNqRmRZaW94dW85Wno4MlEwQTluTWRxZG9aaXNnMWgzYjhVR250MHpmaUZHX2VzeWdmTzdR0gG-AUFVX3lxTE9kdThzZkxva3ktUXBHLWNtWDdpa1NqbnhLb0ZqbUlUV3Y1STBuT2FiTUN5MG1iSXFxbkxROEtfbVEzRENzcXNrMTBKX2lkZER1M3FjMl9qcFZ6TlhSQWlNWW94d2dzckpYWDJMVDVlVFAtTVM4eFlBVmVtS0p2ZEs5R3dmSnUyMEYxS0VjQVBuTGxHNUFqNUJMendWamhIMXE3emhMdGtRajZ2bDk0U3FmdDRKcU81U3R5allOV0E?oc=5\" target=\"_blank\">SOG launches AI tool against exam fraud: Software scans 50 lakh students, compiles profiles of over 2,000 s...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bhaskar English</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWVLcWRtd0YxQUoyYVZzVzEybnlmbk1KTThKZ0VUNlQ3a3o2ejc5OV9UbFdQOWViTVZEbVJiVDhjQkc5Q1JibV96Vk1kUUpYdlZyRGxoUWtDRW5kNnBVcFVfazU1M3ZDWWVLcXc3MmNnZ2ZfbVR2Y2kwaTBldVZybURGblNqRmRZaW94dW85Wno4MlEwQTluTWRxZG9aaXNnMWgzYjhVR250MHpmaUZHX2VzeWdmTzdR0gG-AUFVX3lxTE9kdThzZkxva3ktUXBHLWNtWDdpa1NqbnhLb0ZqbUlUV3Y1STBuT2FiTUN5MG1iSXFxbkxROEtfbVEzRENzcXNrMTBKX2lkZER1M3FjMl9qcFZ6TlhSQWlNWW94d2dzckpYWDJMVDVlVFAtTVM4eFlBVmVtS0p2ZEs5R3dmSnUyMEYxS0VjQVBuTGxHNUFqNUJMendWamhIMXE3emhMdGtRajZ2bDk0U3FmdDRKcU81U3R5allOV0E?oc=5",
+   "source_name": "Bhaskar English",
+   "source_domain": "bhaskarenglish.in",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:33+00:00"
+  }
+ ]
+}

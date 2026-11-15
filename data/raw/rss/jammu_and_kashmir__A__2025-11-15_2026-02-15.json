@@ -1,0 +1,109 @@
+{
+ "region": "Jammu and Kashmir",
+ "group": "A",
+ "query": "(\"Jammu and Kashmir\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Jammu+and+Kashmir%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:37+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Press Note Details: Press Information Bureau",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWxkeTA5UmVyaHp1eXhYQ3MtcDZHWEtjaEdxbVVqOEphb1JPVnZhcGNZV0wyMFY5TkJRMFhmUmk4dmJQTkFmZG1KYzhxeU5KcGFJaXhWME9fVmhycGlnZmI0WE9VVjd3U1hYM00xbU54NWFpaExOUERLbEVPdHhYUE1jUlFSSjdDUVE?oc=5\" target=\"_blank\">Press Note Details: Press Information Bureau</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWxkeTA5UmVyaHp1eXhYQ3MtcDZHWEtjaEdxbVVqOEphb1JPVnZhcGNZV0wyMFY5TkJRMFhmUmk4dmJQTkFmZG1KYzhxeU5KcGFJaXhWME9fVmhycGlnZmI0WE9VVjd3U1hYM00xbU54NWFpaExOUERLbEVPdHhYUE1jUlFSSjdDUVE?oc=5",
+   "source_name": "pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "J&K Police Launches AI-Enabled Security Grid to Strengthen Internal Security",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWtHV3JwYW1RanpQdjdPZlRRSDlhTi1fSEF2emJsbXh3MnBFRTE3eWtqZzVsM1dFVUJINVNVbDZEcWN6Sk9jcHRRVmxsdGtETzlwT1dyZk1haUNhbDc4cHZhWG1Nc0szNGlkQTRuYUdyOFozZmd6ajkzQzN6TC1pUkR6OGdVT1A5S1VlcURyWVlYOEhrS184V2VNM0l2Zkk1ZVdZ?oc=5\" target=\"_blank\">J&amp;K Police Launches AI-Enabled Security Grid to Strengthen Internal Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWtHV3JwYW1RanpQdjdPZlRRSDlhTi1fSEF2emJsbXh3MnBFRTE3eWtqZzVsM1dFVUJINVNVbDZEcWN6Sk9jcHRRVmxsdGtETzlwT1dyZk1haUNhbDc4cHZhWG1Nc0szNGlkQTRuYUdyOFozZmd6ajkzQzN6TC1pUkR6OGdVT1A5S1VlcURyWVlYOEhrS184V2VNM0l2Zkk1ZVdZ?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Fri, 26 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "AIIMS-Jammu proposes traumatology institute, centre for AI in healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmNsc1V2Qk9UX015Y0kyMzdSd1lXOXlCMTY0aTR0SkxjT282R05ndFk0WENzTDJFb3MxMFJiWFhUSnIzallaMXl5ZVFJcFJGOFNxWjVxSXRfeExLMDYtbXpJM0IzeE82MEN3bjFqdVRwb0s2OXl4bjVaOU1BSmpvVFpqMk1UVm1Cc09Ua0pfSkdnM3o5Y3hJcnR3eEJoNE96ZS10YTNwVkRJcUtBMExkcGJ3b01VWHNLVGVueDk0RGdvaHRiQ0c2ZDJqWlBIZjBOQkxQaHlqONIB3AFBVV95cUxQd0JIN3VNWHhZM1EwbXpKVS1qVFAzMEFYQXd5Q09wNTRxVkNPRHVqbldLaEZGMGxVUUMtQnF1WE5BZW5PNFotRHFkMklyS25yU2d2cjk0VzJEMTlldUFTS1RYamVYWkVtWElVbkJhTzhoYXAwcXVJRml0NHZlZjZsUUNweG1RTXVTRGN6UHpSX2pJTlliS0R0T3J0bVFKaWJJc3NVY3BpRDFHMGs4NFlFZUFCTlRBZ2VaQ085VnlwandaZE00bmFEQVpIcmZ2RVM4ZGp2RDJpZ01FS3hy?oc=5\" target=\"_blank\">AIIMS-Jammu proposes traumatology institute, centre for AI in healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET HealthWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmNsc1V2Qk9UX015Y0kyMzdSd1lXOXlCMTY0aTR0SkxjT282R05ndFk0WENzTDJFb3MxMFJiWFhUSnIzallaMXl5ZVFJcFJGOFNxWjVxSXRfeExLMDYtbXpJM0IzeE82MEN3bjFqdVRwb0s2OXl4bjVaOU1BSmpvVFpqMk1UVm1Cc09Ua0pfSkdnM3o5Y3hJcnR3eEJoNE96ZS10YTNwVkRJcUtBMExkcGJ3b01VWHNLVGVueDk0RGdvaHRiQ0c2ZDJqWlBIZjBOQkxQaHlqONIB3AFBVV95cUxQd0JIN3VNWHhZM1EwbXpKVS1qVFAzMEFYQXd5Q09wNTRxVkNPRHVqbldLaEZGMGxVUUMtQnF1WE5BZW5PNFotRHFkMklyS25yU2d2cjk0VzJEMTlldUFTS1RYamVYWkVtWElVbkJhTzhoYXAwcXVJRml0NHZlZjZsUUNweG1RTXVTRGN6UHpSX2pJTlliS0R0T3J0bVFKaWJJc3NVY3BpRDFHMGs4NFlFZUFCTlRBZ2VaQ085VnlwandaZE00bmFEQVpIcmZ2RVM4ZGp2RDJpZ01FS3hy?oc=5",
+   "source_name": "ET HealthWorld",
+   "source_domain": "health.economictimes.indiatimes.com",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5\" target=\"_blank\">UP Govt Signs $25 Billion MoU with AM Green to Set Up 1 GW AI Data Centre in Greater Noida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lqVzcyNFBsdTBIM2JpX09lTFdFTE4xWmMzUThSQlBOajF6Y0RWMk9xM0JYTTZwNDJpZENXYzk0QktIejN6WDBTbFRLSXp0RS1kOTIwaUloLWVQc21TVzBQX3VJdnI3MDRIU20tdk00NlNvU1FpbVBJVHl3WVhNVWI4RC1tOThZVnkybWlNbFZVNU80bTY2S1hfeGd1MFNiWW11aXI2Mk1xOTRGUE9qUl9iLTNwazR1QUJTZ3ZaWFhIUlpzZHc?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "State Legislation Roundup November 2025 | Tenancy Reform in Jammu & Kashmir, Gujarat's Judicial Service Rules, Haryana ends 'Couple Case' Policy, Punjab's Proclamation Rules, Ladakh's Factories Amendment & Beyond",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRW1CaVozcmFxZUZBc0I1cm5DdlBSdFE0SHJlVjJZVjhzOHNzUUVrLVVFQ2JMMnVQY1hDTXdZcWExeUYyTF9HNzNURXFhM3lxM3FRb1drUnAtUVZ3Q0gxWEhLV0g4SkduazhvQmJrNUJKS0VlNVdNU0FhU3lWYVRzYU9tVWk1NVJBd04wbzF0R3Rxd1c2MzlLUWFoSQ?oc=5\" target=\"_blank\">State Legislation Roundup November 2025 | Tenancy Reform in Jammu & Kashmir, Gujarat's Judicial Service Rules, Haryana ends 'Couple Case' Policy, Punjab's Proclamation Rules, Ladakh's Factories Amendment & Beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCC Online</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRW1CaVozcmFxZUZBc0I1cm5DdlBSdFE0SHJlVjJZVjhzOHNzUUVrLVVFQ2JMMnVQY1hDTXdZcWExeUYyTF9HNzNURXFhM3lxM3FRb1drUnAtUVZ3Q0gxWEhLV0g4SkduazhvQmJrNUJKS0VlNVdNU0FhU3lWYVRzYU9tVWk1NVJBd04wbzF0R3Rxd1c2MzlLUWFoSQ?oc=5",
+   "source_name": "SCC Online",
+   "source_domain": "scconline.com",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "India’s Defense Budget Jumps 15 Percent",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE10N3dmR2JhT2d3LU5tRUt5MnhoN2JKY1BhZS04aHJRc2hpUjh6a0xuLWw0RlZER2VhRThnNFZXenhFRHBVMzNfZ0NhbzRGaEdhd2IzeDFpRnVWWU5TZ1RjeEd0cHpUQkNReGR3d1VxRU1vdzhsakZycF9fQQ?oc=5\" target=\"_blank\">India’s Defense Budget Jumps 15 Percent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10N3dmR2JhT2d3LU5tRUt5MnhoN2JKY1BhZS04aHJRc2hpUjh6a0xuLWw0RlZER2VhRThnNFZXenhFRHBVMzNfZ0NhbzRGaEdhd2IzeDFpRnVWWU5TZ1RjeEd0cHpUQkNReGR3d1VxRU1vdzhsakZycF9fQQ?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Exchange of MoU between Digital India Corporation (IndiaAI) and Uttar Pradesh Development Systems Corporation Limited (UPDESCO), Lucknow, to strengthen the AI ecosystem in Uttar Pradesh under the IndiaAI Mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwWFpfVHJWMEJVcTR5X3NNNG0zMUE3Z0REclJCeW1MRDhWa1JHbHZkWmo1aXktY2E1UEpjSUNodzZPTGlaNlQwYUd0Y21JRlFtT1R4dkFvVl9ob0xGVXU4ekdBN29tQjB0MGlGN0ROYnR4U05jTDRJeVFHMFpkQQ?oc=5\" target=\"_blank\">Exchange of MoU between Digital India Corporation (IndiaAI) and Uttar Pradesh Development Systems Corporation Limited (UPDESCO), Lucknow, to strengthen the AI ecosystem in Uttar Pradesh under the IndiaAI Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwWFpfVHJWMEJVcTR5X3NNNG0zMUE3Z0REclJCeW1MRDhWa1JHbHZkWmo1aXktY2E1UEpjSUNodzZPTGlaNlQwYUd0Y21JRlFtT1R4dkFvVl9ob0xGVXU4ekdBN29tQjB0MGlGN0ROYnR4U05jTDRJeVFHMFpkQQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 12 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Budget 2026 Sows AI Support for Farmers Through Bharat Vistar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnlCUUs3TnItWmx1VWNpWjIzelRTT3JPMlVMWXZlbzFLUnpSalhMYVJrZ1kyV1FsWkJ1YVYwN0tuUURYczhOb1Bmb2dFa2xqaHlPYmg0dFFaNDdMcDRtUDMya3JpeWVIOV96a2ItTXZYOHFyZkI3dXFNSXNWOUJuMEM4RzR5dVRrZnFyNWVPTE1XdGh1MGhYN0thVUppTVpVV1dBVFIzNNIBrwFBVV95cUxPdG9wU0FiUnNxbkVjOUdza0NOMTg3eFVxbEpwWXN0Q1drOGdDZzdjaE5OeGg4UGctMmpsWEFGWkNieUhua2tUS1dzU2lidDNyRV9zZGdDVTBONkVuR3V2ZWF2UDFfREoyMGd2NVhHejRCUjd3eWRhTEhzaVlDdlQzM1hPWG0wbkRzaFdTNUQyRWQ1Njh5SzB2R1dXZlRiSmhTMXk3U1EzcWRhck1Way1F?oc=5\" target=\"_blank\">Budget 2026 Sows AI Support for Farmers Through Bharat Vistar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tractor Junction</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnlCUUs3TnItWmx1VWNpWjIzelRTT3JPMlVMWXZlbzFLUnpSalhMYVJrZ1kyV1FsWkJ1YVYwN0tuUURYczhOb1Bmb2dFa2xqaHlPYmg0dFFaNDdMcDRtUDMya3JpeWVIOV96a2ItTXZYOHFyZkI3dXFNSXNWOUJuMEM4RzR5dVRrZnFyNWVPTE1XdGh1MGhYN0thVUppTVpVV1dBVFIzNNIBrwFBVV95cUxPdG9wU0FiUnNxbkVjOUdza0NOMTg3eFVxbEpwWXN0Q1drOGdDZzdjaE5OeGg4UGctMmpsWEFGWkNieUhua2tUS1dzU2lidDNyRV9zZGdDVTBONkVuR3V2ZWF2UDFfREoyMGd2NVhHejRCUjd3eWRhTEhzaVlDdlQzM1hPWG0wbkRzaFdTNUQyRWQ1Njh5SzB2R1dXZlRiSmhTMXk3U1EzcWRhck1Way1F?oc=5",
+   "source_name": "Tractor Junction",
+   "source_domain": "tractorjunction.com",
+   "published_raw": "Sun, 01 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jammu and Kashmir",
+   "title": "Capacity Building Commission Hosts 3rd Capacity Building Plans Workshop in Naya Raipur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWkMyR1VGOEtuTno3OS1hc20wR1FXd3R3Y2dvVW4zTFdZR3VMWHFNQ2cxTkFiM2Y3eVhIMkdRYUw5U2tRX2FIUjI0YTRBSG9HNWdINUlnNHhZNmNMYmpyWEJuTXpBWHdM?oc=5\" target=\"_blank\">Capacity Building Commission Hosts 3rd Capacity Building Plans Workshop in Naya Raipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWkMyR1VGOEtuTno3OS1hc20wR1FXd3R3Y2dvVW4zTFdZR3VMWHFNQ2cxTkFiM2Y3eVhIMkdRYUw5U2tRX2FIUjI0YTRBSG9HNWdINUlnNHhZNmNMYmpyWEJuTXpBWHdM?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 23 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:37+00:00"
+  }
+ ]
+}

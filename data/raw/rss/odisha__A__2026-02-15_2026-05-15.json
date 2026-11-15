@@ -1,0 +1,109 @@
+{
+ "region": "Odisha",
+ "group": "A",
+ "query": "(Odisha OR Bhubaneswar) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Odisha+OR+Bhubaneswar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:55+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha unveils AI roadmap, to set up mission and labs across institutes",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZGxVVnI4WXN6MXRXaHZBTTRWUG9pTzN4SGJkVHNPc3RaMGtUNVpXUkIxdUhvSENJRFBtVkV2YzZwcHlYd2E5S3JoRmthbFh3MUZ0UmxsZVJ3cUxSbWlIUEFjUk9QeHQ1ZzBqNDF4Qm5CWVlmQjlzYUluVTBOUmFhQUxmTU9rUWdBUXo3YTRQcHZYZ29paEJ5YmhvbFdRdElUUzJXZE5SUDJsTjdJdmlfM0l6MUVHQTVBT2hmUlQ5U2xUTlBqX1ViVnU3TU92R1nSAdQBQVVfeXFMUDJsTm5RanVNUGZKN0tUdmFrb0hoQUhWZjdEQTdQeFVjdGp4RWh4dUZEWER1S0dNUVFYLU5SbDQ2dUFXUVBvOGNwR1pFRUlvcGlkOVU1RWJ2Uy1iaTNWRUZxLW1URlNrV0JPWWJKd1RMR2hXMWpndWdEcUtmYUNONmVwS2RmM3VvZ0NRZktPblAyMXFiejBTTmhWSUQ4YndHTTR5Y1VSS1JYbTR5V2NQNWlpNk5LcmZKQXU5bEd3RmdJZnV0cFItSFUySElsa0NtRXJneTA?oc=5\" target=\"_blank\">Odisha unveils AI roadmap, to set up mission and labs across institutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZGxVVnI4WXN6MXRXaHZBTTRWUG9pTzN4SGJkVHNPc3RaMGtUNVpXUkIxdUhvSENJRFBtVkV2YzZwcHlYd2E5S3JoRmthbFh3MUZ0UmxsZVJ3cUxSbWlIUEFjUk9QeHQ1ZzBqNDF4Qm5CWVlmQjlzYUluVTBOUmFhQUxmTU9rUWdBUXo3YTRQcHZYZ29paEJ5YmhvbFdRdElUUzJXZE5SUDJsTjdJdmlfM0l6MUVHQTVBT2hmUlQ5U2xUTlBqX1ViVnU3TU92R1nSAdQBQVVfeXFMUDJsTm5RanVNUGZKN0tUdmFrb0hoQUhWZjdEQTdQeFVjdGp4RWh4dUZEWER1S0dNUVFYLU5SbDQ2dUFXUVBvOGNwR1pFRUlvcGlkOVU1RWJ2Uy1iaTNWRUZxLW1URlNrV0JPWWJKd1RMR2hXMWpndWdEcUtmYUNONmVwS2RmM3VvZ0NRZktPblAyMXFiejBTTmhWSUQ4YndHTTR5Y1VSS1JYbTR5V2NQNWlpNk5LcmZKQXU5bEd3RmdJZnV0cFItSFUySElsa0NtRXJneTA?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Thu, 19 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "AIIMS Bhubaneswar and NAMS Organise Regional CME on Organ Transplantation and Artificial Intelligence in Healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bVFXV2R1M1FmMEtaX3RNWEZnN0VKS0lDVXBTb2NuUU9MT1dxZzg1aHVXdUI4VEhQZFpEMGxYa19ya0JBRFlNd0hoZlVwY3NhNkRqRkNyd2xFVUVZTTFBNFJMTXllUEc3?oc=5\" target=\"_blank\">AIIMS Bhubaneswar and NAMS Organise Regional CME on Organ Transplantation and Artificial Intelligence in Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53bVFXV2R1M1FmMEtaX3RNWEZnN0VKS0lDVXBTb2NuUU9MT1dxZzg1aHVXdUI4VEhQZFpEMGxYa19ya0JBRFlNd0hoZlVwY3NhNkRqRkNyd2xFVUVZTTFBNFJMTXllUEc3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 30 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "AIIMS-Bhubaneswar to get regional centre of excellence for organ transplantation & AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN3JsVDkwWWRrRHRxa2tLRENzYjVxRDBpM01yZkcwMFlRb2l4VURzdmxGSFhWMHhrZXlKMjMwZXkzUFQyZ2poWDByTThrTnpaOEV4RmJWT0kwQ19pQTZpa252VS1IMUpDU3hiUUZqWmxQcGdjQjRqazN0a2hWbzYyUGgyUjZrVS1nOG5ZV196MV93aG5KaHpQYjV1QzBRbWlDYkR6Z1VOYkh0WHpwRnZIXzQyQTZPVHRFay1BUlk5cnpKa0pFQTRvN1R6UDVyUW9CT1hfUnJJY0kwQWZhd1FBbdIB7gFBVV95cUxONVBabEJNSDNNTWVBR3ZWeXV1aGJIOXVITFZuWEZHWkxJaEFxRE56QlllZm1VTHIwSjIyUWFldzVQa0NBU2N2NFNjdjNGZWJjbFhYT09rVzY2LVdDV3lINjdVYTRxVXBmVG9mYmZuR0Y4R05Ic2dZTjdJYUhnRzBUNExCRVJ1bG5HTV9XVlVDaWYwZHBPWm9sdm15bkxfV050aDNDTllPNmRIOG81V2N2RFZ4QllHdTNCcWdUZE44R2VnaEhDWTBGRHZYSm85UlRLYk44RnBzb2dodlFvVzlFVUVoZ1R2dkFkUDFxSHBn?oc=5\" target=\"_blank\">AIIMS-Bhubaneswar to get regional centre of excellence for organ transplantation & AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN3JsVDkwWWRrRHRxa2tLRENzYjVxRDBpM01yZkcwMFlRb2l4VURzdmxGSFhWMHhrZXlKMjMwZXkzUFQyZ2poWDByTThrTnpaOEV4RmJWT0kwQ19pQTZpa252VS1IMUpDU3hiUUZqWmxQcGdjQjRqazN0a2hWbzYyUGgyUjZrVS1nOG5ZV196MV93aG5KaHpQYjV1QzBRbWlDYkR6Z1VOYkh0WHpwRnZIXzQyQTZPVHRFay1BUlk5cnpKa0pFQTRvN1R6UDVyUW9CT1hfUnJJY0kwQWZhd1FBbdIB7gFBVV95cUxONVBabEJNSDNNTWVBR3ZWeXV1aGJIOXVITFZuWEZHWkxJaEFxRE56QlllZm1VTHIwSjIyUWFldzVQa0NBU2N2NFNjdjNGZWJjbFhYT09rVzY2LVdDV3lINjdVYTRxVXBmVG9mYmZuR0Y4R05Ic2dZTjdJYUhnRzBUNExCRVJ1bG5HTV9XVlVDaWYwZHBPWm9sdm15bkxfV050aDNDTllPNmRIOG81V2N2RFZ4QllHdTNCcWdUZE44R2VnaEhDWTBGRHZYSm85UlRLYk44RnBzb2dodlFvVzlFVUVoZ1R2dkFkUDFxSHBn?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "\"India Is Poised To Leapfrog,\" Sarvam Founder Pratyush Kumar On AI Potential & Odisha Govt’s Support",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3h6aW56ZkZNdnhfV3BVUE8zN2xYYzBmNlV6V3BRZ0ZXTXNIVlozaUk5ejFYUDZENEJ4c1hVS01teTFUYWxuVEU5bWRPbzFjRlJTeTE2cm1oWnczc3AyaU90aktOeGU0MTBCZ1JwYm1NZFN0YVFrSFVWSWswRXdDWUtackVTd24wR0VsLTJkc1Z5MGNKM29zei1hNVpUMDdfZ2Z1NGcwcVd0NW5uWUgyQTUxc2NGQ0kxcW4tS2NXTUhndmNYbllNcUpsTE8xZE1qRXc?oc=5\" target=\"_blank\">\"India Is Poised To Leapfrog,\" Sarvam Founder Pratyush Kumar On AI Potential & Odisha Govt’s Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Disrupt</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3h6aW56ZkZNdnhfV3BVUE8zN2xYYzBmNlV6V3BRZ0ZXTXNIVlozaUk5ejFYUDZENEJ4c1hVS01teTFUYWxuVEU5bWRPbzFjRlJTeTE2cm1oWnczc3AyaU90aktOeGU0MTBCZ1JwYm1NZFN0YVFrSFVWSWswRXdDWUtackVTd24wR0VsLTJkc1Z5MGNKM29zei1hNVpUMDdfZ2Z1NGcwcVd0NW5uWUgyQTUxc2NGQ0kxcW4tS2NXTUhndmNYbllNcUpsTE8xZE1qRXc?oc=5",
+   "source_name": "BW Disrupt",
+   "source_domain": "bwdisrupt.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha Showcases AI Leadership at India AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTd0aklmeVN3ZDhzTXZNVFlIell4WnIwQzV1M01Zam1IN0MxZ0twVmNHTEJxcVItbTBCS010bkNXOFdBVnczMi1GQ0Z2RHBCZlVfYkRQcnNpaFFua2V0Q0NXR1E5WnJENVQ1T2lNQnppWF9vMzFBRldhaXBqMGJ5U1VTTQ?oc=5\" target=\"_blank\">Odisha Showcases AI Leadership at India AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OdishaPlus</font>",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTd0aklmeVN3ZDhzTXZNVFlIell4WnIwQzV1M01Zam1IN0MxZ0twVmNHTEJxcVItbTBCS010bkNXOFdBVnczMi1GQ0Z2RHBCZlVfYkRQcnNpaFFua2V0Q0NXR1E5WnJENVQ1T2lNQnppWF9vMzFBRldhaXBqMGJ5U1VTTQ?oc=5",
+   "source_name": "OdishaPlus",
+   "source_domain": "odisha.plus",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "IIM Sambalpur, MCL join hands to train 500 officers in AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkhTUlhZTHZ3UENtdFFsenBIRlR1UnJvWVJydWdYX0szb21DTHpIcmY3ZGxFWmRtS0tpTzgyMVZDd09GZU9ZVUV4OEgwRlE4bXdkN2ZDZWhvRGd4SlVfSUVGSnZxTmE0bTVzdTRpNFRraExzd3EwQWpLYmc4dzljaUpLYUVxRmFLU3k4eEFLNmkxc2I2R0hYbHVETUx5MkVKSWk0VUk0VEIxckZYOWY4ZDN5bzlrXzZtcDIxQUd1UkxGUkF0ZTJWeXNKeGNTVzlP0gHWAUFVX3lxTE9SazVfY3VtYzB1SWhhWXY5YWI1S19OYVRWQ21zV0NwOHBWbzhEaEdYTFg5R3l4SHdtcTdnVGR5bE03Mk1ENGx0Tkp3Rl93M010OFU3U3dqMjYzbTNOX2tzaVF0YmVQOWVqdEx2bGNKSFhOTG54N2xlak1KalFvNlQ3QTIyZ3pCVU53T1dsM0dkYzY4V0lMUXlMdF9UaFFZQ3Q3WXIzN3lzaU1zT1JHUEotRDdNazVxQWYwdXliREVGdXVqOW0yZHR3M25wVGVxTTFsUGdFV2c?oc=5\" target=\"_blank\">IIM Sambalpur, MCL join hands to train 500 officers in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkhTUlhZTHZ3UENtdFFsenBIRlR1UnJvWVJydWdYX0szb21DTHpIcmY3ZGxFWmRtS0tpTzgyMVZDd09GZU9ZVUV4OEgwRlE4bXdkN2ZDZWhvRGd4SlVfSUVGSnZxTmE0bTVzdTRpNFRraExzd3EwQWpLYmc4dzljaUpLYUVxRmFLU3k4eEFLNmkxc2I2R0hYbHVETUx5MkVKSWk0VUk0VEIxckZYOWY4ZDN5bzlrXzZtcDIxQUd1UkxGUkF0ZTJWeXNKeGNTVzlP0gHWAUFVX3lxTE9SazVfY3VtYzB1SWhhWXY5YWI1S19OYVRWQ21zV0NwOHBWbzhEaEdYTFg5R3l4SHdtcTdnVGR5bE03Mk1ENGx0Tkp3Rl93M010OFU3U3dqMjYzbTNOX2tzaVF0YmVQOWVqdEx2bGNKSFhOTG54N2xlak1KalFvNlQ3QTIyZ3pCVU53T1dsM0dkYzY4V0lMUXlMdF9UaFFZQ3Q3WXIzN3lzaU1zT1JHUEotRDdNazVxQWYwdXliREVGdXVqOW0yZHR3M25wVGVxTTFsUGdFV2c?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 10 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Groundbreaking of India’s First Advanced 3D Semiconductor Packaging Unit in Odisha; Major Boost to AI, 5G and Defence Tech",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SXBlNURRb3JONHU4R3FjVWt6NzRxcEc2TndxS0hCWDFhWEREaE5jQUE1THd0N2JKMk1ZTk9IN21CMmlGdnEySnFZMDVwZTM3UGtQU3dyS1pheGR4MERObmhMWkFuZkRv?oc=5\" target=\"_blank\">Groundbreaking of India’s First Advanced 3D Semiconductor Packaging Unit in Odisha; Major Boost to AI, 5G and Defence Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SXBlNURRb3JONHU4R3FjVWt6NzRxcEc2TndxS0hCWDFhWEREaE5jQUE1THd0N2JKMk1ZTk9IN21CMmlGdnEySnFZMDVwZTM3UGtQU3dyS1pheGR4MERObmhMWkFuZkRv?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Lexathon 2026 by NLU Odisha | Tech Law Conclave",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObTQ2VHhVNEN5ZTNWODVKTHVMNzhpUE8yZUhqTzg0X3N5bmg0LWNoNDlSaUx4WUZXU1hYekVkeDdCNzVibWthTmhlSTlwdHNXendEVTVSLUJ3RldMb2Q3cmxKTk9EdGphN3d0VFZHV1lKcGdLTVhxSHVna2p6SnlUQUNNbXFlLXA2Wl9Od1BnR0E2SGQ5?oc=5\" target=\"_blank\">Lexathon 2026 by NLU Odisha | Tech Law Conclave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCC Online</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTQ2VHhVNEN5ZTNWODVKTHVMNzhpUE8yZUhqTzg0X3N5bmg0LWNoNDlSaUx4WUZXU1hYekVkeDdCNzVibWthTmhlSTlwdHNXendEVTVSLUJ3RldMb2Q3cmxKTk9EdGphN3d0VFZHV1lKcGdLTVhxSHVna2p6SnlUQUNNbXFlLXA2Wl9Od1BnR0E2SGQ5?oc=5",
+   "source_name": "SCC Online",
+   "source_domain": "scconline.com",
+   "published_raw": "Wed, 22 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "People, Infra And AI: Odisha’s Big-Ticket Budget For 2026-27",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0dTb2ctYWFsQktpVHl5bV9Hd3R1MHBBZS1TSTVSTWc3YVhqR0NqNHJvdEJtYmtVZldJYzI4VjJIeVlRdU1NQWY3dWJ5dTVUQXZXa3RPRm5VZGZKX2pna1dKTHVUTXBkREdOWEdwbDMwUHkyanE2V0hyaFdMQTVZUXVWQXpPVm43ekF6MW1aLURJWEw3dzVCNA?oc=5\" target=\"_blank\">People, Infra And AI: Odisha’s Big-Ticket Budget For 2026-27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ommcom News</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0dTb2ctYWFsQktpVHl5bV9Hd3R1MHBBZS1TSTVSTWc3YVhqR0NqNHJvdEJtYmtVZldJYzI4VjJIeVlRdU1NQWY3dWJ5dTVUQXZXa3RPRm5VZGZKX2pna1dKTHVUTXBkREdOWEdwbDMwUHkyanE2V0hyaFdMQTVZUXVWQXpPVm43ekF6MW1aLURJWEw3dzVCNA?oc=5",
+   "source_name": "Ommcom News",
+   "source_domain": "ommcomnews.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:55+00:00"
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "region": "Kerala",
+ "group": "B",
+ "query": "(Kerala OR Thiruvananthapuram) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Kerala+OR+Thiruvananthapuram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:17+00:00",
+ "item_count": 23,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "CPM's Isaac questions AI use in Kerala government's finance white paper, seeks clarification",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWhDMG9hLTdQNGtzZkhTTHhobEdZNmp0eHRqZzhvQnAyQkdGbjQzRUNnUHZTQURNM2JyVGI1c1RzWUFvZUJrQWs5Y0FBRnc5MTI2c1hhU1ZIMTEtbEMyX0NyM29MZUZpcUVPMUVackRRQ244WmN6UVhlNWdROUhJX0NfeTZtYzY4MU9GWUFYLXJyWWlxb2RTU19HNmp2SzF0c3hQYmJudkhHQXU0UzQ0bkx1MWJYREhtbGk1TVJycFVMQjZxd0Q0bkVNWlpjeHI2YnNaTHJ2bWRvVk5YTUZHczJB0gHvAUFVX3lxTE5wcDFEc2tNXy1Wakc0Snp1d2VmTlZ5bTltdnZLLTcyaGlncHA3THc4UXFNSFlkT0paSXNZWjFOYlpVMmlaUUZncmZ0TDhWbzdRT1hfSjFBSHdMeDFWbDhYbHM5WEk4ZV94MmdRLXpaaDZDNkoySTkwdjIzazB6TGhwMU9xMEVabHpnX2lsYVd1WXVibmd6bTBGN0ZOMUo4bFUzVjN2cDNaYzY2bUpPVGJIMnpmVGlTRWh6YWRvRFRjVVMyMTZldTZienZ6WWNMb09vUGpxVzF0T3Q3REFlUHRJNzV4SDVVNU1KRUo5TWlV?oc=5\" target=\"_blank\">CPM's Isaac questions AI use in Kerala government's finance white paper, seeks clarification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWhDMG9hLTdQNGtzZkhTTHhobEdZNmp0eHRqZzhvQnAyQkdGbjQzRUNnUHZTQURNM2JyVGI1c1RzWUFvZUJrQWs5Y0FBRnc5MTI2c1hhU1ZIMTEtbEMyX0NyM29MZUZpcUVPMUVackRRQ244WmN6UVhlNWdROUhJX0NfeTZtYzY4MU9GWUFYLXJyWWlxb2RTU19HNmp2SzF0c3hQYmJudkhHQXU0UzQ0bkx1MWJYREhtbGk1TVJycFVMQjZxd0Q0bkVNWlpjeHI2YnNaTHJ2bWRvVk5YTUZHczJB0gHvAUFVX3lxTE5wcDFEc2tNXy1Wakc0Snp1d2VmTlZ5bTltdnZLLTcyaGlncHA3THc4UXFNSFlkT0paSXNZWjFOYlpVMmlaUUZncmZ0TDhWbzdRT1hfSjFBSHdMeDFWbDhYbHM5WEk4ZV94MmdRLXpaaDZDNkoySTkwdjIzazB6TGhwMU9xMEVabHpnX2lsYVd1WXVibmd6bTBGN0ZOMUo4bFUzVjN2cDNaYzY2bUpPVGJIMnpmVGlTRWh6YWRvRFRjVVMyMTZldTZienZ6WWNMb09vUGpxVzF0T3Q3REFlUHRJNzV4SDVVNU1KRUo5TWlV?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sat, 06 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala to use AI tools in governance, says CM Satheesan",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNelhvTGQ1TE1nNjlPNWc1S1ZrMS1hTjFhRm5nMEpwMTFrZ0QyLTRlc295d2FjWHNxalZjSkxTYWlzY0xpUjN0WkRmZ2ZlaW02SDlDWXhpS1VuaXhwSHJHT29JYkFGaDdfTzN1VnFBd2VRelV5MzFtYUVUMUFjZXJ2dUdXSDFWcURQaTFBNTJLbkVkSHVuNFh5SWxxblVIdmJ4ajNwU2ZHRXFWYTJSQW5WMmVvQ0xjT0xUaVlTSk1PZzlyaHREemFZ0gHMAUFVX3lxTE5ZVHU2LXczRmdhQS1zU0pRMWV0dkpkOWlsZG1BTU1xS0EycWpzY0NVaEJoenRuUkhQMVBGTmdLM1FHRlE0WDZSVkNDU2dGOTF4YTBNRDMtYkRNYlRzOFZnUW03V1NnWk54aUI1SENEcmFrSWdMNDg4UjJNWFB2bFBlUkE3b1YwaXZGSXkxemp4VUhEWlRQOEh4b1pPcnowQTZsYVZ6WXhoM1o3X2RxV21odUxpLWtaVjFPTkNlS1BETGRhcXBtX3hOUHpKYg?oc=5\" target=\"_blank\">Kerala to use AI tools in governance, says CM Satheesan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelhvTGQ1TE1nNjlPNWc1S1ZrMS1hTjFhRm5nMEpwMTFrZ0QyLTRlc295d2FjWHNxalZjSkxTYWlzY0xpUjN0WkRmZ2ZlaW02SDlDWXhpS1VuaXhwSHJHT29JYkFGaDdfTzN1VnFBd2VRelV5MzFtYUVUMUFjZXJ2dUdXSDFWcURQaTFBNTJLbkVkSHVuNFh5SWxxblVIdmJ4ajNwU2ZHRXFWYTJSQW5WMmVvQ0xjT0xUaVlTSk1PZzlyaHREemFZ0gHMAUFVX3lxTE5ZVHU2LXczRmdhQS1zU0pRMWV0dkpkOWlsZG1BTU1xS0EycWpzY0NVaEJoenRuUkhQMVBGTmdLM1FHRlE0WDZSVkNDU2dGOTF4YTBNRDMtYkRNYlRzOFZnUW03V1NnWk54aUI1SENEcmFrSWdMNDg4UjJNWFB2bFBlUkE3b1YwaXZGSXkxemp4VUhEWlRQOEh4b1pPcnowQTZsYVZ6WXhoM1o3X2RxV21odUxpLWtaVjFPTkNlS1BETGRhcXBtX3hOUHpKYg?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Wed, 10 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Launches AI-Led Governance Initiative 2026: Key Platforms",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2FIWWJxaFhIS2hfUTN2dl9kQ25YdHQ2UlhhVEVqTE5Ub0tyWmNXdWpBeWMzU2ptdHgyWGZUaHk2LXo5dl8taTd4aGRfX0EwVHBhQ0VQbzVEbzBEa0lNaUNTMTdXa1A2MkxNbHNRLW9qUXZPdWp1SWJIQ2lCX1dXdUlWM1ZtSWFzd0QwS1lQUnowM1RTbmtORFpvRnVaaGp5QWZseHFnWGRDTW5vV0Rn?oc=5\" target=\"_blank\">Kerala Launches AI-Led Governance Initiative 2026: Key Platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utkarsh Classes</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2FIWWJxaFhIS2hfUTN2dl9kQ25YdHQ2UlhhVEVqTE5Ub0tyWmNXdWpBeWMzU2ptdHgyWGZUaHk2LXo5dl8taTd4aGRfX0EwVHBhQ0VQbzVEbzBEa0lNaUNTMTdXa1A2MkxNbHNRLW9qUXZPdWp1SWJIQ2lCX1dXdUlWM1ZtSWFzd0QwS1lQUnowM1RTbmtORFpvRnVaaGp5QWZseHFnWGRDTW5vV0Rn?oc=5",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "utkarsh.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "AI to openup greater opportunities: Higher Education Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2ZTTUh0SGRaSWY3TzBNLTdWUVFjT09xRUpEa0QwSTBIZm4wWHBuZXNneFQ3X0VRTEZ2NXRIU3VrVGxJUkR3bTZKTmRjVXlFa1VIUjRncVBFUFFVelZ3MS1faTZhQlRfZE9HcThhUmFseGpvamlfSTdqVy1VVG5RQ2l5U3dRcjZScUtha3Vjb292YmtUdzlMNzBQV09naXVPU0paR2FzakdxWkZSXy1QUkIwZ3QzZklDN0NkeXg0V0RHdFVv0gHLAUFVX3lxTE96cWhIWTdzREQ2MnNEVGJ0VWg2Y0ZYcV9EX1RFdncwVlh2cERXRExfTUJRbGZ3ei1ySWlEV3ZlWDVDNWR3clZqVDhJQXc0eEkxSFpFWHkyc2U3WW8tN0R6ZENDSF92S1EyRzYtNXMyeE1KWTM0M3piV3M0WXBYTWo0V202X1hfX3dRNVVraEcxUk1jd2xibl9zSzFkWUtKc0Z3NGJRVGdIWkI5aHdhM1MtaDktZ1pmMEhUd2RnY0JvQmpLQmdEVFZta0Rn?oc=5\" target=\"_blank\">AI to openup greater opportunities: Higher Education Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2ZTTUh0SGRaSWY3TzBNLTdWUVFjT09xRUpEa0QwSTBIZm4wWHBuZXNneFQ3X0VRTEZ2NXRIU3VrVGxJUkR3bTZKTmRjVXlFa1VIUjRncVBFUFFVelZ3MS1faTZhQlRfZE9HcThhUmFseGpvamlfSTdqVy1VVG5RQ2l5U3dRcjZScUtha3Vjb292YmtUdzlMNzBQV09naXVPU0paR2FzakdxWkZSXy1QUkIwZ3QzZklDN0NkeXg0V0RHdFVv0gHLAUFVX3lxTE96cWhIWTdzREQ2MnNEVGJ0VWg2Y0ZYcV9EX1RFdncwVlh2cERXRExfTUJRbGZ3ei1ySWlEV3ZlWDVDNWR3clZqVDhJQXc0eEkxSFpFWHkyc2U3WW8tN0R6ZENDSF92S1EyRzYtNXMyeE1KWTM0M3piV3M0WXBYTWo0V202X1hfX3dRNVVraEcxUk1jd2xibl9zSzFkWUtKc0Z3NGJRVGdIWkI5aHdhM1MtaDktZ1pmMEhUd2RnY0JvQmpLQmdEVFZta0Rn?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sun, 14 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Cabinet Portfolio Allocation 2026: Ministers, Departments & First AI Portfolio in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTktwMThXX3psTlFKSUJMR0ZNcVNiTVNtVEVYWTRvdE9lNU9fN044S090bmZPOEo1VnphV0ZZY2tIRTZ3bC1xdEFuMUNCOU1lY29nWFNuME81aEt5YUxjZzJPMmt5WTdCN3o4STVvYWNxYWctbGpvTEJsVGNic01DcUFPeDNDRkZfQ2h5MDJuYnpKcWxUVnF4OHJYNnhWTXppN0E?oc=5\" target=\"_blank\">Kerala Cabinet Portfolio Allocation 2026: Ministers, Departments & First AI Portfolio in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCC Online</font>",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTktwMThXX3psTlFKSUJMR0ZNcVNiTVNtVEVYWTRvdE9lNU9fN044S090bmZPOEo1VnphV0ZZY2tIRTZ3bC1xdEFuMUNCOU1lY29nWFNuME81aEt5YUxjZzJPMmt5WTdCN3o4STVvYWNxYWctbGpvTEJsVGNic01DcUFPeDNDRkZfQ2h5MDJuYnpKcWxUVnF4OHJYNnhWTXppN0E?oc=5",
+   "source_name": "SCC Online",
+   "source_domain": "scconline.com",
+   "published_raw": "Mon, 25 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala govt forms first-ever AI Ministry; PK Kunhalikutty gets charge",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTWZHcDJrOUZITTZIM21Cd3RvUm5BUHc4VWczNnV4Zmt3TG96aHdpOWs0U2FLOEZHYmg1dFBnUnNLOThhNUFndWZna0lURVZDbUFrWjI1YVRPRzVYeDdFbzJtYnoyRG82SHdReFdZR0ZENkdyb3BVN2M4d3QwN3JyUmp4R29QdVlodTZwdDZGRjI3c1RsUUxIcGFoUUgtVlE4SXpEM2NBVUYydENwa0wtWkRZZWJBYTd6QjNNajdvZ2FDaUZPYnIwdkp6X1ptQdIB0wFBVV95cUxNelphQm5GM2JXSUFEMjh0ZnBoekNJX004S0l2Zzg2Z1lMUW1kRUM2Z3J1enFhckw3QlZsUkV2MF9Ua3l5ZW00TllfRlhnaDIzOVczY00zRlhKTHZ5Y3BaZUF4RUVGbkdUaVViMXBsWUZ2TkUtRVZCcWNyTVRvT21tSjMyeTdZTWJOb1V2YmpYMWxESE5aUm95RGMzcjFUTTNSdWpBRkVpRFcxR19KTkNBc245cnF5cDJhdnZ0c2dnbFZIMVR3T0pNc1AyQ3prZEhOVFhr?oc=5\" target=\"_blank\">Kerala govt forms first-ever AI Ministry; PK Kunhalikutty gets charge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTWZHcDJrOUZITTZIM21Cd3RvUm5BUHc4VWczNnV4Zmt3TG96aHdpOWs0U2FLOEZHYmg1dFBnUnNLOThhNUFndWZna0lURVZDbUFrWjI1YVRPRzVYeDdFbzJtYnoyRG82SHdReFdZR0ZENkdyb3BVN2M4d3QwN3JyUmp4R29QdVlodTZwdDZGRjI3c1RsUUxIcGFoUUgtVlE4SXpEM2NBVUYydENwa0wtWkRZZWJBYTd6QjNNajdvZ2FDaUZPYnIwdkp6X1ptQdIB0wFBVV95cUxNelphQm5GM2JXSUFEMjh0ZnBoekNJX004S0l2Zzg2Z1lMUW1kRUM2Z3J1enFhckw3QlZsUkV2MF9Ua3l5ZW00TllfRlhnaDIzOVczY00zRlhKTHZ5Y3BaZUF4RUVGbkdUaVViMXBsWUZ2TkUtRVZCcWNyTVRvT21tSjMyeTdZTWJOb1V2YmpYMWxESE5aUm95RGMzcjFUTTNSdWpBRkVpRFcxR19KTkNBc245cnF5cDJhdnZ0c2dnbFZIMVR3T0pNc1AyQ3prZEhOVFhr?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "A minister for AI in Satheesan’s Cabinet: The new Kerala ministers and their portfolios",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk1wa0RjdWpNdnNsRU5MUGRhZWUzWWg2Slg5TGNYV2s5RTAyamRmaWw0S1IzMzRncnJ6TGlveDAwQzZvTlR3dGR6QVVFbGFQRzJiblJUQmF1Zlh3ZHd5VmZraXBwNkdCa014SmZ3czZkTDZnaXJRdXQwVFhCNjN1RVIteEE2bEpDbllfTTRBNUQzWm5yTEtxOFY5SzVLdTFhRzd2Nkdtcw?oc=5\" target=\"_blank\">A minister for AI in Satheesan’s Cabinet: The new Kerala ministers and their portfolios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South First</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk1wa0RjdWpNdnNsRU5MUGRhZWUzWWg2Slg5TGNYV2s5RTAyamRmaWw0S1IzMzRncnJ6TGlveDAwQzZvTlR3dGR6QVVFbGFQRzJiblJUQmF1Zlh3ZHd5VmZraXBwNkdCa014SmZ3czZkTDZnaXJRdXQwVFhCNjN1RVIteEE2bEpDbllfTTRBNUQzWm5yTEtxOFY5SzVLdTFhRzd2Nkdtcw?oc=5",
+   "source_name": "The South First",
+   "source_domain": "thesouthfirst.com",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Government of Kerala Partners with SAS to Strengthen Social Welfare Schemes Delivery using Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUo5b0RQeVhNblhVWktiN1M3YndXczgzb0YwdkJnRVUwZktNWGk5WGQwRHBfMjZEcktxVjY4N0dyUGZydGIySWtlbldVSk91bUhXZ1ZFVU9UUm5XU3RaS0lLaTg2cG1CY3Zia0VTVXdYZXdZdVVsSVNnMmpBc1V4OXlseV84TlVVZEswSnJJd2pBSGpiQVlycHlvNlliTS1tOGVadEZtZDNDWkFOdFF3LUdIeDhRTmwtZm9GYTc1UC1RcnlpUU80TVg2amlaa2ROUVZrdjZlVVVQZnVEal9SMXl6b2lCYlhZ0gHuAUFVX3lxTE1XelZIb29LVy11SmFuX2QtdmtrZWhpQ0p0N2VwZVFWYmdsTzhjSmdNZm1lRU1qcGFtRjF2YUFoSUZoUnJEUHh3SzhpbmNsTF9YeTNUN0FIanZZbEdidGF5MmN3bnV0TGJqUDBqNjRCUnc0TktsWW9GdkgxME5uc0tNVHRvajRLYm9MVXEwdHllQXlxbW0teXNJanNDSGoxV2pCdHNqUnE3MHBJSXh0bkwtWG9vR1hFYlVUM0MwanFLcF9ZbDQ2bkFXcjNjSHdjTXAxWHdpWk8zd2dlNEc1MEJHc3F0TkVNRGZZek9ENWc?oc=5\" target=\"_blank\">Government of Kerala Partners with SAS to Strengthen Social Welfare Schemes Delivery using Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUo5b0RQeVhNblhVWktiN1M3YndXczgzb0YwdkJnRVUwZktNWGk5WGQwRHBfMjZEcktxVjY4N0dyUGZydGIySWtlbldVSk91bUhXZ1ZFVU9UUm5XU3RaS0lLaTg2cG1CY3Zia0VTVXdYZXdZdVVsSVNnMmpBc1V4OXlseV84TlVVZEswSnJJd2pBSGpiQVlycHlvNlliTS1tOGVadEZtZDNDWkFOdFF3LUdIeDhRTmwtZm9GYTc1UC1RcnlpUU80TVg2amlaa2ROUVZrdjZlVVVQZnVEal9SMXl6b2lCYlhZ0gHuAUFVX3lxTE1XelZIb29LVy11SmFuX2QtdmtrZWhpQ0p0N2VwZVFWYmdsTzhjSmdNZm1lRU1qcGFtRjF2YUFoSUZoUnJEUHh3SzhpbmNsTF9YeTNUN0FIanZZbEdidGF5MmN3bnV0TGJqUDBqNjRCUnc0TktsWW9GdkgxME5uc0tNVHRvajRLYm9MVXEwdHllQXlxbW0teXNJanNDSGoxV2pCdHNqUnE3MHBJSXh0bkwtWG9vR1hFYlVUM0MwanFLcF9ZbDQ2bkFXcjNjSHdjTXAxWHdpWk8zd2dlNEc1MEJHc3F0TkVNRGZZek9ENWc?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "After Kerala, Tamil Nadu also gets dedicated Ministry for Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmhZNDB6QW5VRnd0S0M1RmJ6NUFhOWlTSVlHNU1BVGZSRm5talhiLUxFYmV3eXIzUFJNVllBdzE3M2tTUDBJbDZWT3E0RUttS05vOUZxNE1nRTBBQ0N5XzVOeFF5TV8tdUIxWTJxdktuV0p5VVZNeDdlY2xmMFpzWjIzRXI2cElJOG1CazBSSTBUMFE4T0UwTGliMktMdFhrZlRIUUtPRGlCYl9pZWlOaHV1NUJFWmMxSGwyY0JHbTJWSzNGM2JTY05MMk5EaFnSAdQBQVVfeXFMUE9OaGdqcmxjZVZKMEpkdzZUaGVfWWt0OEdLSEl0bzg4VW9vNXFHOVgydnNTVjg1Zi1qdFAtM0g2YWdaYzNBMEsyUjZfUG8xckhoc20yWnNwc3ByX3RCMENmYUpiRm9SalpUamoxY0tDQ3pYdXNIcEZzQ2lTaFV1RUh2ellLczltdXBINEtZTkRrVnM2dTJmd0pIclVqbGlWajFMXzQ0cHRDcmtkR1RFVkgzNTI4bVcwOHRhYWJwNmM3LW1MYkswUUltc2JnZHNfOGlibGc?oc=5\" target=\"_blank\">After Kerala, Tamil Nadu also gets dedicated Ministry for Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmhZNDB6QW5VRnd0S0M1RmJ6NUFhOWlTSVlHNU1BVGZSRm5talhiLUxFYmV3eXIzUFJNVllBdzE3M2tTUDBJbDZWT3E0RUttS05vOUZxNE1nRTBBQ0N5XzVOeFF5TV8tdUIxWTJxdktuV0p5VVZNeDdlY2xmMFpzWjIzRXI2cElJOG1CazBSSTBUMFE4T0UwTGliMktMdFhrZlRIUUtPRGlCYl9pZWlOaHV1NUJFWmMxSGwyY0JHbTJWSzNGM2JTY05MMk5EaFnSAdQBQVVfeXFMUE9OaGdqcmxjZVZKMEpkdzZUaGVfWWt0OEdLSEl0bzg4VW9vNXFHOVgydnNTVjg1Zi1qdFAtM0g2YWdaYzNBMEsyUjZfUG8xckhoc20yWnNwc3ByX3RCMENmYUpiRm9SalpUamoxY0tDQ3pYdXNIcEZzQ2lTaFV1RUh2ellLczltdXBINEtZTkRrVnM2dTJmd0pIclVqbGlWajFMXzQ0cHRDcmtkR1RFVkgzNTI4bVcwOHRhYWJwNmM3LW1MYkswUUltc2JnZHNfOGlibGc?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "After Kerala, Tamil Nadu also gets minister of AI, TVK assigns portfolio to R. Kumar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONXpqMHRRRDhrakNmVUVDUUJUV3ZXeml2cFZNWmh6Uno5OUhoQjh6MUYyTjhrVFVLcjlLU0RUbWhwc29FdG1GMjJFN2ZHV3FrME9BUUJsWXpsSmNkRGpoQ1J1a2RKekhseEZQTWppU3FLZjkzWGYzWDNTOEhZYzhyRlJqemM0ZzRvcjAxdEhJWS0xNDRZVDJ6aGJncUJIQXp1Qk5HUUVHdXEydGc3N3Uwa3RDM0ItTDJ6dWR3ZnpFN2hOcXcyVFc3X1Rzd9IB0AFBVV95cUxOaWtraEV4UnJILWQ3TnZkR3o0aTFENVRNQjRjWnFFR0hCWjFsdEE4M1NBTzFqZGNhY2tsdXBSZHBwWlcwNVBuTjhHMU1kWW9VUEhCZWNLOGI2MjR3V0hNY3ZfalBLUmpnTDFZMTkxb0p6UFVQS05yakNZQmQ2ekNaX0lNREZ4QjFUSlBxclNaX1NIUURVQWwxUmMzQ2xVcHBUbEFEaG5JMl9BZ1NweDNXQTJ6U0lMMXYxNU1PU3BfblpHM0JfMXBqQzhsaVlodXd3?oc=5\" target=\"_blank\">After Kerala, Tamil Nadu also gets minister of AI, TVK assigns portfolio to R. Kumar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONXpqMHRRRDhrakNmVUVDUUJUV3ZXeml2cFZNWmh6Uno5OUhoQjh6MUYyTjhrVFVLcjlLU0RUbWhwc29FdG1GMjJFN2ZHV3FrME9BUUJsWXpsSmNkRGpoQ1J1a2RKekhseEZQTWppU3FLZjkzWGYzWDNTOEhZYzhyRlJqemM0ZzRvcjAxdEhJWS0xNDRZVDJ6aGJncUJIQXp1Qk5HUUVHdXEydGc3N3Uwa3RDM0ItTDJ6dWR3ZnpFN2hOcXcyVFc3X1Rzd9IB0AFBVV95cUxOaWtraEV4UnJILWQ3TnZkR3o0aTFENVRNQjRjWnFFR0hCWjFsdEE4M1NBTzFqZGNhY2tsdXBSZHBwWlcwNVBuTjhHMU1kWW9VUEhCZWNLOGI2MjR3V0hNY3ZfalBLUmpnTDFZMTkxb0p6UFVQS05yakNZQmQ2ekNaX0lNREZ4QjFUSlBxclNaX1NIUURVQWwxUmMzQ2xVcHBUbEFEaG5JMl9BZ1NweDNXQTJ6U0lMMXYxNU1PU3BfblpHM0JfMXBqQzhsaVlodXd3?oc=5",
+   "source_name": "The Week",
+   "source_domain": "theweek.in",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala first state in India to appoints Artificial Intelligence minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVV9kTDVPZFdlelpXZkhqcGFKNnZmN3JMOF9XOGV1ZVBJYmtlSGY4dGlBNk5QQlFieXNVaUM3RXFnaXNMZlJXV3AyUGtxbm9XZmRJbnM5VktLY093TVBPRFpLa1hIellyMnJiaWUzbW04NHN0SUQ2WlV2b1otZFM0STFoVUMzSUJtSWFVckY1OEJSdGlSeUhuSmhVa3pteVl0RWstVTJRMGhnc0NuYTZ0eUc4UQ?oc=5\" target=\"_blank\">Kerala first state in India to appoints Artificial Intelligence minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVV9kTDVPZFdlelpXZkhqcGFKNnZmN3JMOF9XOGV1ZVBJYmtlSGY4dGlBNk5QQlFieXNVaUM3RXFnaXNMZlJXV3AyUGtxbm9XZmRJbnM5VktLY093TVBPRFpLa1hIellyMnJiaWUzbW04NHN0SUQ2WlV2b1otZFM0STFoVUMzSUJtSWFVckY1OEJSdGlSeUhuSmhVa3pteVl0RWstVTJRMGhnc0NuYTZ0eUc4UQ?oc=5",
+   "source_name": "Gulf Today",
+   "source_domain": "gulftoday.ae",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "'AI cameras good, reduced accident deaths': Transport Minister tells Assembly, echoes LDF govt's claims on Safe Kerala project",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQeXdOVDVDdFlZV3FUblYzZnN3RS1jUzFUcnhTT0NYTHZfbk5jN2ROdmxKQkQ0emVQUlBMeFRoVllRSU5qWEU1M2FYanJtNVhmX05ERm0zZTQ3bXJiTURLXzhaMWVBWlh6R2M3QmkwZjk4YmhOYk4wRVhZMmJVcElTYkVmaGVZTlpjRFpWWFg5OTd0MWIyWEVKcno2MWhlWHRyd1BSdFl3c0xhSlM1YVl1aS1xOV9YZG0ySXlSQjd3RE96bkZ3Ny1pbFlSNnFqYnhBb2RYUzdUcUhtNmdRakE3UTlhcUlWcVhNVnlRZHNjYWdjaHBOMkx1dTBZOFRoVGxO?oc=5\" target=\"_blank\">'AI cameras good, reduced accident deaths': Transport Minister tells Assembly, echoes LDF govt's claims on Safe Kerala project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onmanorama</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeXdOVDVDdFlZV3FUblYzZnN3RS1jUzFUcnhTT0NYTHZfbk5jN2ROdmxKQkQ0emVQUlBMeFRoVllRSU5qWEU1M2FYanJtNVhmX05ERm0zZTQ3bXJiTURLXzhaMWVBWlh6R2M3QmkwZjk4YmhOYk4wRVhZMmJVcElTYkVmaGVZTlpjRFpWWFg5OTd0MWIyWEVKcno2MWhlWHRyd1BSdFl3c0xhSlM1YVl1aS1xOV9YZG0ySXlSQjd3RE96bkZ3Ny1pbFlSNnFqYnhBb2RYUzdUcUhtNmdRakE3UTlhcUlWcVhNVnlRZHNjYWdjaHBOMkx1dTBZOFRoVGxO?oc=5",
+   "source_name": "Onmanorama",
+   "source_domain": "onmanorama.com",
+   "published_raw": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "No AI used to prepare White Paper, only 'human intelligence': Kerala minister Joseph",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNldsZndVaWpCUUUzbGlPcWt5cUgxbnZBU016bG5NN3lFU0ZRSmNvenltUFFURldfaDNONjNXZXZaWV83eHAxcU13d3I3TndaUGsyeEdYclFzR1JjTXM3WXdxX19hWkkyZ3FGNXNZRzNLV1J5N1VqOENYQ0Jnd1p3WFg2OEpGZTJPS3pEaGNqREVlaXR6Ym9WeGhJTjBBZXBZdnh1d1R4WE5FU2hqYmFNdUNZbGZRcFMtRUhQNDdmZGIySUxnbVpIa3NaT2ZmbHJtVEp0N19IZDRkUWN0d1JVWF9B0gHnAUFVX3lxTE1PRnNjS0hlWmxtdy05TktKS0pQaE1sWk1XVFgyaVpDNXFtNTRoOUU3WlhPbnlUeWdELUdyQ0FnNDgzZ2dtaEtXODh5UWxMRnlNQk5vb3RWUjhDalJJSGUxSU54Q2Nub3g3U1pSQXE0SzVUTU9FVGplVTZhcEF1ck1NZ0g5aUd1dV9LcncwRzQ1MVBvdXdKWVpZOVQtbUVwc2MxWkhKZXBHRlRWLUdlODRxT1l1UEozVkhDSHZoQkN3TFVLb1ZzWHVBdUlFdnAxcllSX1ZBUkZOYkw3U1FkSjZ2NVRET0NPbw?oc=5\" target=\"_blank\">No AI used to prepare White Paper, only 'human intelligence': Kerala minister Joseph</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNldsZndVaWpCUUUzbGlPcWt5cUgxbnZBU016bG5NN3lFU0ZRSmNvenltUFFURldfaDNONjNXZXZaWV83eHAxcU13d3I3TndaUGsyeEdYclFzR1JjTXM3WXdxX19hWkkyZ3FGNXNZRzNLV1J5N1VqOENYQ0Jnd1p3WFg2OEpGZTJPS3pEaGNqREVlaXR6Ym9WeGhJTjBBZXBZdnh1d1R4WE5FU2hqYmFNdUNZbGZRcFMtRUhQNDdmZGIySUxnbVpIa3NaT2ZmbHJtVEp0N19IZDRkUWN0d1JVWF9B0gHnAUFVX3lxTE1PRnNjS0hlWmxtdy05TktKS0pQaE1sWk1XVFgyaVpDNXFtNTRoOUU3WlhPbnlUeWdELUdyQ0FnNDgzZ2dtaEtXODh5UWxMRnlNQk5vb3RWUjhDalJJSGUxSU54Q2Nub3g3U1pSQXE0SzVUTU9FVGplVTZhcEF1ck1NZ0g5aUd1dV9LcncwRzQ1MVBvdXdKWVpZOVQtbUVwc2MxWkhKZXBHRlRWLUdlODRxT1l1UEozVkhDSHZoQkN3TFVLb1ZzWHVBdUlFdnAxcllSX1ZBUkZOYkw3U1FkSjZ2NVRET0NPbw?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Sun, 07 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala start-up unveils first AI system-on-chip",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3hyNDg0UlVjRGE2ZGhwLXpyczk1WDFSMkdhQnQ4N1B6M3VJT1ZlNWJUSUhxd0RXYnFHOWZtWW1FNWcweHUtQXA1RlRYS2pUNElkdGtVSFVDdFE5eDZEYVNIb2ZCWFlRWi1ONzhIb2dHMmx3RlZYcjNiVXJDdE9hRklST29wc2ZJc1pONjFjSmM1a0FlLVoycHVjMEY3UFVFbHVBZExGc3hObTZVbklR0gG2AUFVX3lxTFBIZEF3NklHbWJiTnNSNXNFWVBRby1kYlVlRWcwWXVDTUdZaXBmQ0NELVZzMjdHa0t4S3BGTGZFVkNQLThQQk1SWTJLX2RyMlRQRWhSYUJTeDhFNG5oOGRNVkdQZnRqUlVpeWNTQzNnTjVrVjdjdVlXemg3UklFUHVMQUlHRFNacWlXOXN0V3BteUVXNlFqMWxaaENDSmVWZk1TMmZUazluUUlBRWJDMjZHUnNSZi1B?oc=5\" target=\"_blank\">Kerala start-up unveils first AI system-on-chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3hyNDg0UlVjRGE2ZGhwLXpyczk1WDFSMkdhQnQ4N1B6M3VJT1ZlNWJUSUhxd0RXYnFHOWZtWW1FNWcweHUtQXA1RlRYS2pUNElkdGtVSFVDdFE5eDZEYVNIb2ZCWFlRWi1ONzhIb2dHMmx3RlZYcjNiVXJDdE9hRklST29wc2ZJc1pONjFjSmM1a0FlLVoycHVjMEY3UFVFbHVBZExGc3hObTZVbklR0gG2AUFVX3lxTFBIZEF3NklHbWJiTnNSNXNFWVBRby1kYlVlRWcwWXVDTUdZaXBmQ0NELVZzMjdHa0t4S3BGTGZFVkNQLThQQk1SWTJLX2RyMlRQRWhSYUJTeDhFNG5oOGRNVkdQZnRqUlVpeWNTQzNnTjVrVjdjdVlXemg3UklFUHVMQUlHRFNacWlXOXN0V3BteUVXNlFqMWxaaENDSmVWZk1TMmZUazluUUlBRWJDMjZHUnNSZi1B?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 30 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Indian states are appointing AI Ministers. But do they matter?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2s1dXVfNzB0Wm00d2lZeXJWemRsSnM2R08ySEZfNXVYNjlVblU1VEtvQmhuTDhmdHhiS1VWM29tRUdUbVlIajJ3U0tCWlBPMWdDWWczcmdUbk9RbEROTTNRT1MwamNoUDlqdzdGUmR3bjByT182Mjl5aVEtS0lNcUZ6Rm41aUo0RDhWa3BkZEdnTTJxaC1rcE1GX3IxQXAxZWg2eG1LOFJlSFZ3OEdqZVkxZURlWmpSX2RrMTJ5NFNoT3ZZSy1rak5NbUQ4Mjda0gHWAUFVX3lxTE50aE5XbGtOS1FRaW5wRWZiYWE2RXlJYkFiZXZVdEQ4LUREYk1XLVZOTFRobXQyX2NFNlFWYkpHUXFWTHNhYS0tTjMzMjd2VDAtbWJmNGlXVC1yLVczb0Y0Vm5ORmRIREFYeDNRa2JhTEo5SjlqYWtYTDkxR3lPOWhOM3c4emxkZTlkUDhSbWt4QlIwYXJ4VUxjN3Y5ekM0b2pzeVdvMTRyVVRLU2luMkdrSVZldi1zSEN4c2hOcDh4RXFoUE9FTG5ZSTRxV3E3bUpuTHhpM1E?oc=5\" target=\"_blank\">Indian states are appointing AI Ministers. But do they matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2s1dXVfNzB0Wm00d2lZeXJWemRsSnM2R08ySEZfNXVYNjlVblU1VEtvQmhuTDhmdHhiS1VWM29tRUdUbVlIajJ3U0tCWlBPMWdDWWczcmdUbk9RbEROTTNRT1MwamNoUDlqdzdGUmR3bjByT182Mjl5aVEtS0lNcUZ6Rm41aUo0RDhWa3BkZEdnTTJxaC1rcE1GX3IxQXAxZWg2eG1LOFJlSFZ3OEdqZVkxZURlWmpSX2RrMTJ5NFNoT3ZZSy1rak5NbUQ4Mjda0gHWAUFVX3lxTE50aE5XbGtOS1FRaW5wRWZiYWE2RXlJYkFiZXZVdEQ4LUREYk1XLVZOTFRobXQyX2NFNlFWYkpHUXFWTHNhYS0tTjMzMjd2VDAtbWJmNGlXVC1yLVczb0Y0Vm5ORmRIREFYeDNRa2JhTEo5SjlqYWtYTDkxR3lPOWhOM3c4emxkZTlkUDhSbWt4QlIwYXJ4VUxjN3Y5ekM0b2pzeVdvMTRyVVRLU2luMkdrSVZldi1zSEN4c2hOcDh4RXFoUE9FTG5ZSTRxV3E3bUpuTHhpM1E?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Sat, 06 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala will be made national AI hub, says CM Satheesan",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3lYLV9VcTlCdHhLOEN3Y3dudUFQRWZKSm5TVjJJRDRmR2JSaE5aR3Rrc3JDd3puN0dvalN3eEN2VVJ2LVJZMnpMMHBJWUxxSm1uNzg1dW45WjkwUnFXTFpxRUE2a1hNekNpV2NIeU1sZXR6bXQyVy1FV1lWNDM1UXZoRGdyMDhvS3RDZkJfbEU2dGpvc1lROVVVOVhUcG9Pa3hid3l4Q0RjS250S0F3UGFB0gG_AUFVX3lxTE1DaHF0b09PYlo2NFdvMTRZVDlYQWxzX0cxRkJxeEtOWXZOTjY4UzFPV2hGY2NiVVk2djBCRHh4OEZDa1lPeTdJZWR2ZFlzRWMyQmZscGZvTjRiOTN5emYyWVptX2VPcHpsMnhYU3Y5TWpGNDhGTFRnamdrVU5GVjhRTm11elNNdjBhbi0yX1dhSFJVdnZCVFdpWVBZMm9La3dpVzFfWlhBTC1KM25IN3c4bUtYY21xTUdSbjhINFE4?oc=5\" target=\"_blank\">Kerala will be made national AI hub, says CM Satheesan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3lYLV9VcTlCdHhLOEN3Y3dudUFQRWZKSm5TVjJJRDRmR2JSaE5aR3Rrc3JDd3puN0dvalN3eEN2VVJ2LVJZMnpMMHBJWUxxSm1uNzg1dW45WjkwUnFXTFpxRUE2a1hNekNpV2NIeU1sZXR6bXQyVy1FV1lWNDM1UXZoRGdyMDhvS3RDZkJfbEU2dGpvc1lROVVVOVhUcG9Pa3hid3l4Q0RjS250S0F3UGFB0gG_AUFVX3lxTE1DaHF0b09PYlo2NFdvMTRZVDlYQWxzX0cxRkJxeEtOWXZOTjY4UzFPV2hGY2NiVVk2djBCRHh4OEZDa1lPeTdJZWR2ZFlzRWMyQmZscGZvTjRiOTN5emYyWVptX2VPcHpsMnhYU3Y5TWpGNDhGTFRnamdrVU5GVjhRTm11elNNdjBhbi0yX1dhSFJVdnZCVFdpWVBZMm9La3dpVzFfWlhBTC1KM25IN3c4bUtYY21xTUdSbjhINFE4?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala to roll out AI-based disaster warning system, pilot to begin in Pathanamthitta: Satheesan",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhGMktocTdldGZpd2IyR2dVYW43QTE2eEZNblhiSU9vUkh2NHl0d2U5Z2pXeTFwZVdrb21BNG1ZOUVRc2UwTVNITHVHU2FrQ0UtT0VjNm9jMHp3UFVoU1VfV1NQRlZSSGtHVWwzTG9YNnRuY2xyZFhUOTRfS01KOXpmX240N0JWRGlzaV9FVdIBlAFBVV95cUxPUHRheEZFUUdXNXpwN3BhVmVGVWFBN243UEVpRE5fOHp0WjVpVnh6VWRySVgya25ZT3BOWWM3NWgydDViTldLZFVKYXlfQWJqVzBNOHd4clNqaUZ3NGk0Yi1tMUdLWHpQLTdOUHlaT1hPQW0xRjlEQUNTcVBBSmRHeEM5alkyVDJTSlY1ZVkyY1dsVjRq?oc=5\" target=\"_blank\">Kerala to roll out AI-based disaster warning system, pilot to begin in Pathanamthitta: Satheesan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onmanorama</font>",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhGMktocTdldGZpd2IyR2dVYW43QTE2eEZNblhiSU9vUkh2NHl0d2U5Z2pXeTFwZVdrb21BNG1ZOUVRc2UwTVNITHVHU2FrQ0UtT0VjNm9jMHp3UFVoU1VfV1NQRlZSSGtHVWwzTG9YNnRuY2xyZFhUOTRfS01KOXpmX240N0JWRGlzaV9FVdIBlAFBVV95cUxPUHRheEZFUUdXNXpwN3BhVmVGVWFBN243UEVpRE5fOHp0WjVpVnh6VWRySVgya25ZT3BOWWM3NWgydDViTldLZFVKYXlfQWJqVzBNOHd4clNqaUZ3NGk0Yi1tMUdLWHpQLTdOUHlaT1hPQW0xRjlEQUNTcVBBSmRHeEM5alkyVDJTSlY1ZVkyY1dsVjRq?oc=5",
+   "source_name": "Onmanorama",
+   "source_domain": "onmanorama.com",
+   "published_raw": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "AI-ERA project to make Ernakulam Kerala's first AI-literate govt district",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZTZta0pBYXNkRi1BTTZVemtocGxSQm1qalZ5Q1IyWlZkQnFBYTdUWGhMS2JLZ3JRaTdXcVRXNXZuckJhd05tUkFDZGxOc1R4aVRVLTlVNUNRZEt0LUJmZUhrbEpfaEFwbVlESk52OVNiSlQ0MTVZZWV6a3VUNFdPR05UZjhIZ2lpcTJNNDdFMWJxUnNGQV9OYkg4MXRHVzRjYTBmZnM3ZFFMbkh1VTFCVFlHWEpHdFBTY21CNTBTV0MwTU1wOWl3ck1vZlhIUFnSAc8BQVVfeXFMUGU2bWtKQWFzZEYtQU02VXpraHBsUkJtampWeUNSMlpWZEJxQWE3VFhoTEtiS2dyUWk3V3FUVzV2bnJCYXdObVJBQ2RsTnNUeGlUVS05VTVDUWRLdC1CZmVIa2xKX2hBcG1ZREpOdjlTYkpUNDE1WWVlemt1VDRXT0dOVGY4SGdpaXEyTTQ3RTFicVJzRkFfTmJIODF0R1c0Y2EwZmZzN2RRTG5IdVUxQlRZR1hKR3RQU2NtQjUwU1dDME1NcDlpd3JNb2ZYSFBZ?oc=5\" target=\"_blank\">AI-ERA project to make Ernakulam Kerala's first AI-literate govt district</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onmanorama</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZTZta0pBYXNkRi1BTTZVemtocGxSQm1qalZ5Q1IyWlZkQnFBYTdUWGhMS2JLZ3JRaTdXcVRXNXZuckJhd05tUkFDZGxOc1R4aVRVLTlVNUNRZEt0LUJmZUhrbEpfaEFwbVlESk52OVNiSlQ0MTVZZWV6a3VUNFdPR05UZjhIZ2lpcTJNNDdFMWJxUnNGQV9OYkg4MXRHVzRjYTBmZnM3ZFFMbkh1VTFCVFlHWEpHdFBTY21CNTBTV0MwTU1wOWl3ck1vZlhIUFnSAc8BQVVfeXFMUGU2bWtKQWFzZEYtQU02VXpraHBsUkJtampWeUNSMlpWZEJxQWE3VFhoTEtiS2dyUWk3V3FUVzV2bnJCYXdObVJBQ2RsTnNUeGlUVS05VTVDUWRLdC1CZmVIa2xKX2hBcG1ZREpOdjlTYkpUNDE1WWVlemt1VDRXT0dOVGY4SGdpaXEyTTQ3RTFicVJzRkFfTmJIODF0R1c0Y2EwZmZzN2RRTG5IdVUxQlRZR1hKR3RQU2NtQjUwU1dDME1NcDlpd3JNb2ZYSFBZ?oc=5",
+   "source_name": "Onmanorama",
+   "source_domain": "onmanorama.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Launches India's First Dedicated Cabinet-Level AI Portfolio Under New UDF Government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWx3NkFiaDg0eGZMQVdJU3BCa1k5blY1aG1mSjdHcS03aV9ERFZvTE14SmRkc3BpWUpXTWZfSzd2RzFOTnBTVUItZDUyTXd1dHQwNXFNWmwxakw0VUJMQXYzR1p2dXlpRGtDeW5OOHJoTlAwbFRzdVNhbEdROGNGdGl3RHU5NHhwQV9tSnF6d1pEZEhITnQxQWU5MlRhRXczZHlHbHVEODY3U3VPYTA5N1VrNmFNcy04TjYyV203cS15R0tX?oc=5\" target=\"_blank\">Kerala Launches India's First Dedicated Cabinet-Level AI Portfolio Under New UDF Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWx3NkFiaDg0eGZMQVdJU3BCa1k5blY1aG1mSjdHcS03aV9ERFZvTE14SmRkc3BpWUpXTWZfSzd2RzFOTnBTVUItZDUyTXd1dHQwNXFNWmwxakw0VUJMQXYzR1p2dXlpRGtDeW5OOHJoTlAwbFRzdVNhbEdROGNGdGl3RHU5NHhwQV9tSnF6d1pEZEhITnQxQWU5MlRhRXczZHlHbHVEODY3U3VPYTA5N1VrNmFNcy04TjYyV203cS15R0tX?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Government Rebrands 'IT Park' To 'Kerala Tech', Recasts IT Sector For AI-Driven Growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQXzRsWjJXNjE3LTlQaWhqdUdmTzRWMVNPLWQ5al9VSnVodjhEb0dBdUdnYmRBWkxxNlpTb1NXOTlteVFjdWlMMUdrdWNWdjBXeURqVDM5VGpMV2FIalV4UkRuaVl0RXA0ck8yaGxEaEhXeHhnVEJJZU5odEh4M0diNnh3cGhsRDhHTWhQYUZlNDRnOHpsbllCWUsxeGZSdEdUX1hhd1F1ampQOElvR3FRMlUzNFM5TDRkb2U5eEVGdVpYMTRDNnVjUGRGUVo1Q2PSAdQBQVVfeXFMUHA3THRCQ3hkaFR3TmRlaDFQMXZmUUx0Ty1ldDZTN0xOMjVqZUdoa0plSmNfeUpKNHJDSktNMkdDSlpDZkZJMTg0NXlDUXZqOEIzMmZpZzBmTmNJLXNVOWxyNnNOUEl1dlVUN0h2M0pEMHo5R2ZZaW54RmxPOGJGZ19NZ1NHZURzTkx6bE9ZQm9pRXFQV043Uk9CX2RfdmdjNU9PX3l6Y0lyc1BpOGU4M3ZubmRsd0QwY0MwNk1nTEZVdUFfeVBWUFVQdkltX1V4VTVMNk8?oc=5\" target=\"_blank\">Kerala Government Rebrands 'IT Park' To 'Kerala Tech', Recasts IT Sector For AI-Driven Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXzRsWjJXNjE3LTlQaWhqdUdmTzRWMVNPLWQ5al9VSnVodjhEb0dBdUdnYmRBWkxxNlpTb1NXOTlteVFjdWlMMUdrdWNWdjBXeURqVDM5VGpMV2FIalV4UkRuaVl0RXA0ck8yaGxEaEhXeHhnVEJJZU5odEh4M0diNnh3cGhsRDhHTWhQYUZlNDRnOHpsbllCWUsxeGZSdEdUX1hhd1F1ampQOElvR3FRMlUzNFM5TDRkb2U5eEVGdVpYMTRDNnVjUGRGUVo1Q2PSAdQBQVVfeXFMUHA3THRCQ3hkaFR3TmRlaDFQMXZmUUx0Ty1ldDZTN0xOMjVqZUdoa0plSmNfeUpKNHJDSktNMkdDSlpDZkZJMTg0NXlDUXZqOEIzMmZpZzBmTmNJLXNVOWxyNnNOUEl1dlVUN0h2M0pEMHo5R2ZZaW54RmxPOGJGZ19NZ1NHZURzTkx6bE9ZQm9pRXFQV043Uk9CX2RfdmdjNU9PX3l6Y0lyc1BpOGU4M3ZubmRsd0QwY0MwNk1nTEZVdUFfeVBWUFVQdkltX1V4VTVMNk8?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Gets India's First AI Minister, Tamil Nadu May Be Next: What Will They Do?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3lWVWxpYXNSQlhYZjFzWVFzNTM0M0tOYkJvOU0tOVp0bDZXamZ0Sm4zNU4wV3ZpV1JBbEUxeDkxcmRBWENmMS1fZjExYVJkVkVJWFFGSGxUSjhSMDRpMWJBN25IX3pXNTNJeWZGY0xONDFUY185VnVDWjBicWs3UU55RUVhbExWTkpTbktiaXlnTGw1cW5jNjVGRzhGQmU4Ml9naVFLeHdKUzJJSnlZNHpVN0V6NHk3cUxXQmljS3BuUnNTVW1yNEJpUdIB0AFBVV95cUxNOXJtRTMzM1Q5UndHbzJfYVY0bGUtbUFsUjdtY0JIX0dkV3ZYaUdXa3NvdEc5NVlNVU1mOVZCREpaZUVZclhqaDdTal9iMFYzMGRPMHhHLTZoNS1ocFN2MU9xZEFqSE16clJtN0NLbmxjVXJrT1RscUlWbGJhaXVJNE8yRFVDb1JMeVVyTTZubFpVTnl4WjlKbzRqOTVNS0tCX0s0Sm9RMXVvNXNQQk5TZV92RXF1NE1MUHBkUGV5UmVuS2pQZFV4V3JLZmNrQlFO?oc=5\" target=\"_blank\">Kerala Gets India's First AI Minister, Tamil Nadu May Be Next: What Will They Do?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3lWVWxpYXNSQlhYZjFzWVFzNTM0M0tOYkJvOU0tOVp0bDZXamZ0Sm4zNU4wV3ZpV1JBbEUxeDkxcmRBWENmMS1fZjExYVJkVkVJWFFGSGxUSjhSMDRpMWJBN25IX3pXNTNJeWZGY0xONDFUY185VnVDWjBicWs3UU55RUVhbExWTkpTbktiaXlnTGw1cW5jNjVGRzhGQmU4Ml9naVFLeHdKUzJJSnlZNHpVN0V6NHk3cUxXQmljS3BuUnNTVW1yNEJpUdIB0AFBVV95cUxNOXJtRTMzM1Q5UndHbzJfYVY0bGUtbUFsUjdtY0JIX0dkV3ZYaUdXa3NvdEc5NVlNVU1mOVZCREpaZUVZclhqaDdTal9iMFYzMGRPMHhHLTZoNS1ocFN2MU9xZEFqSE16clJtN0NLbmxjVXJrT1RscUlWbGJhaXVJNE8yRFVDb1JMeVVyTTZubFpVTnl4WjlKbzRqOTVNS0tCX0s0Sm9RMXVvNXNQQk5TZV92RXF1NE1MUHBkUGV5UmVuS2pQZFV4V3JLZmNrQlFO?oc=5",
+   "source_name": "News18",
+   "source_domain": "news18.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Project Zero: Kerala to deploy AI, cyber units, and mobile apps in massive anti-graft push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlA4Yk1LMThtZWQ4bXVKQnpDZVh2WXdtQlFZWWtJcHZnejlnRUJzUzdOendpR0ZyYkpINF94YzRBT2hVZFpLM1R6QU5kcndxWTJnY2RUUnoxd3pyUHB5ZzFKVF9ZNldrSFNHelRWNklaNk9KeFNSQU9iNDBoc3ozQy02LTBNcy1Gcmt3cUNsWENRdFdiNjlnR1JLb0RVN2txZUE2cmJUTTcwUEh6d1VkWnlsZzE3TmxYbVZZUUFhQjRsbXlEaUtrLS10WVltSFFGa0kzSzNB?oc=5\" target=\"_blank\">Project Zero: Kerala to deploy AI, cyber units, and mobile apps in massive anti-graft push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kerala Kaumudi</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlA4Yk1LMThtZWQ4bXVKQnpDZVh2WXdtQlFZWWtJcHZnejlnRUJzUzdOendpR0ZyYkpINF94YzRBT2hVZFpLM1R6QU5kcndxWTJnY2RUUnoxd3pyUHB5ZzFKVF9ZNldrSFNHelRWNklaNk9KeFNSQU9iNDBoc3ozQy02LTBNcy1Gcmt3cUNsWENRdFdiNjlnR1JLb0RVN2txZUE2cmJUTTcwUEh6d1VkWnlsZzE3TmxYbVZZUUFhQjRsbXlEaUtrLS10WVltSFFGa0kzSzNB?oc=5",
+   "source_name": "Kerala Kaumudi",
+   "source_domain": "keralakaumudi.com",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Transport dept to launch AI powered ticketing system for KSRTC",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGtBZGQyeTBDQkJQWDVIR2NIQmEyQ0lmT2lIUHRoQ1ZsSDVKdHhpd1JoeEZvMzNnMS1vWERxd3cyLURSMld0NDRWMTNKMG1mWWY0YTRwUUJxUjZzMllPMERVQ3BlUkF3Vjd0dXVWY2dISnhDUlFRdElSbHpzTEFkeGFqWGFISXlYN3l0V080YXJ5M2_SAZMBQVVfeXFMTlhrQWRkMnkwQ0JCUFg1SEdjSEJhMkNJZk9pSFB0aENWbEg1SnR4aXdSaHhGbzMzZzEtb1hEcXd3Mi1EUjJXdDQ0VjEzSjBtZllmNGE0cFFCcVI2czJZTzBEVUNwZVJBd1Y3dHV1VmNnSEp4Q1JRUXRJUmx6c0xBZHhhalhhSEl5WDd5dFdPNGFyeTNv?oc=5\" target=\"_blank\">Kerala Transport dept to launch AI powered ticketing system for KSRTC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onmanorama</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGtBZGQyeTBDQkJQWDVIR2NIQmEyQ0lmT2lIUHRoQ1ZsSDVKdHhpd1JoeEZvMzNnMS1vWERxd3cyLURSMld0NDRWMTNKMG1mWWY0YTRwUUJxUjZzMllPMERVQ3BlUkF3Vjd0dXVWY2dISnhDUlFRdElSbHpzTEFkeGFqWGFISXlYN3l0V080YXJ5M2_SAZMBQVVfeXFMTlhrQWRkMnkwQ0JCUFg1SEdjSEJhMkNJZk9pSFB0aENWbEg1SnR4aXdSaHhGbzMzZzEtb1hEcXd3Mi1EUjJXdDQ0VjEzSjBtZllmNGE0cFFCcVI2czJZTzBEVUNwZVJBd1Y3dHV1VmNnSEp4Q1JRUXRJUmx6c0xBZHhhalhhSEl5WDd5dFdPNGFyeTNv?oc=5",
+   "source_name": "Onmanorama",
+   "source_domain": "onmanorama.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:17+00:00"
+  }
+ ]
+}

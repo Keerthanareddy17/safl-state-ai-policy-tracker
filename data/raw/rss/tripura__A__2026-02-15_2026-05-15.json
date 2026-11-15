@@ -1,0 +1,120 @@
+{
+ "region": "Tripura",
+ "group": "A",
+ "query": "(Tripura) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Tripura%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:26+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Atal Innovation Mission launches the first State Innovation Mission (SIM) in Tripura to strengthen State-led innovation ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcjNLMHJmRFhNZm0xSG9tU3ltWmpWajYwZG0tTXVjSWdvbDdLSnZBOXhRN2podWdEeGhDUDVhZDZBakJibFRuMThfYU91VjhVWTgtR1JUZFVuamhyQjJqRno3ci00YW1UbjVtOWF0Z1FaV0tKUlhQUDF3?oc=5\" target=\"_blank\">Atal Innovation Mission launches the first State Innovation Mission (SIM) in Tripura to strengthen State-led innovation ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcjNLMHJmRFhNZm0xSG9tU3ltWmpWajYwZG0tTXVjSWdvbDdLSnZBOXhRN2podWdEeGhDUDVhZDZBakJibFRuMThfYU91VjhVWTgtR1JUZFVuamhyQjJqRno3ci00YW1UbjVtOWF0Z1FaV0tKUlhQUDF3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura to launch India’s first state AI policy; Agartala to get AI-based smart solutions",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQV9iRTB5RGhpWTRDVGIzOUQ1S3BBclF3cEd4c1pmd0d6Y3N3NXdRbGxGRTBqMzhId1ZiVE0yeWh0M09MVmlfakRVVUs5NkhldTVrNXZVYmIzVk1qRmFzWUhEUW8zZG9VazZwcXpkWFpoZ1gtYUZmekx4bHZEaHpiZkRwa0FwQlk4ZWFZT1pNMHRDSzN5aUYzMVdXM1luaENxdVVkaHlTYUktZG5uUC1OQ0hHMnhKNnZQLWZ3R1NpTTlJOG8tRWJpUnpHMDdYSGhWa2wwRVpuQ2t0YVI1LWFFRW9B0gHnAUFVX3lxTFBnQTU4Vk5ZeXBWdVBOajFiRkR3SlBYSlhqYmtSeXEtQzNxYmNFRnIwRWlJN3YwdGliR0JXZmROYktPWTdGT0VvaXVDTjdKUWpYZmFpRmx2RGo4OWFLY2dfMGhIdmZtQ1hZdG02dlNKWFNWZ1FoTFRJVEotdG11azRfSFJ5NXRvWEF0X2xvb0VUNWtOdVJkXzZFV1RaeUlHT211OHZiM3prMEs0R3JzU2U3cHZmdGg1MnNHSVJhSjhVdUVhaEtFMjlaZ0stRWZnODFSeTZ3bGw4MWE5VEszbWRGY3UzNUs5OA?oc=5\" target=\"_blank\">Tripura to launch India’s first state AI policy; Agartala to get AI-based smart solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQV9iRTB5RGhpWTRDVGIzOUQ1S3BBclF3cEd4c1pmd0d6Y3N3NXdRbGxGRTBqMzhId1ZiVE0yeWh0M09MVmlfakRVVUs5NkhldTVrNXZVYmIzVk1qRmFzWUhEUW8zZG9VazZwcXpkWFpoZ1gtYUZmekx4bHZEaHpiZkRwa0FwQlk4ZWFZT1pNMHRDSzN5aUYzMVdXM1luaENxdVVkaHlTYUktZG5uUC1OQ0hHMnhKNnZQLWZ3R1NpTTlJOG8tRWJpUnpHMDdYSGhWa2wwRVpuQ2t0YVI1LWFFRW9B0gHnAUFVX3lxTFBnQTU4Vk5ZeXBWdVBOajFiRkR3SlBYSlhqYmtSeXEtQzNxYmNFRnIwRWlJN3YwdGliR0JXZmROYktPWTdGT0VvaXVDTjdKUWpYZmFpRmx2RGo4OWFLY2dfMGhIdmZtQ1hZdG02dlNKWFNWZ1FoTFRJVEotdG11azRfSFJ5NXRvWEF0X2xvb0VUNWtOdVJkXzZFV1RaeUlHT211OHZiM3prMEs0R3JzU2U3cHZmdGg1MnNHSVJhSjhVdUVhaEtFMjlaZ0stRWZnODFSeTZ3bGw4MWE5VEszbWRGY3UzNUs5OA?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura to introduce India's first State AI Policy, announced Tripura CM Manik Saha at State Innovation Mission launch",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPWWc4Ty1uRUJPN1ZIakVUbFo2SEdKWmlpcE11ZlJSa0FMRWRoQkRpYS13T0oteVMyQmFNbEFtNDBaYTl0d2I4dVoyUHNQT1QyRTEzNUZMaHpGTURId0hvX01lV3VkbDQxTURFQXcwdzRmaVYzV0tVTF80aVJYRlVJN1E2dWk3LVppTnhaQURHTXZlaGhWQzR6M2ItMUM2UUh1ME9qWXhSa1M5WnJoREQxWDI4TWFPWWh6eWE5N3A5RU5KZVd5YXdIeFo3dUhwSEd0YW1uaTBSZk94SFoxd0J1MU44MUlhUW1SNmYxSlhtLUMyYTREVEZxRFlGRmFFeGIyY2V3Njl2dWpUaDlI?oc=5\" target=\"_blank\">Tripura to introduce India's first State AI Policy, announced Tripura CM Manik Saha at State Innovation Mission launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWWc4Ty1uRUJPN1ZIakVUbFo2SEdKWmlpcE11ZlJSa0FMRWRoQkRpYS13T0oteVMyQmFNbEFtNDBaYTl0d2I4dVoyUHNQT1QyRTEzNUZMaHpGTURId0hvX01lV3VkbDQxTURFQXcwdzRmaVYzV0tVTF80aVJYRlVJN1E2dWk3LVppTnhaQURHTXZlaGhWQzR6M2ItMUM2UUh1ME9qWXhSa1M5WnJoREQxWDI4TWFPWWh6eWE5N3A5RU5KZVd5YXdIeFo3dUhwSEd0YW1uaTBSZk94SFoxd0J1MU44MUlhUW1SNmYxSlhtLUMyYTREVEZxRFlGRmFFeGIyY2V3Njl2dWpUaDlI?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura to roll out India’s 1st state-level AI policy: Saha",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBMN1NXeVJVM3hVOUd2NVNOQ1RoVEM0TDBKMUpWTWFxdjlWWlFFaHlueUV1Y0tMUlY2QkgtZnJhTkg0ZHJXdFlUcVR5WkZHWGQ5Y0dyYWZCVVotNGdONnYwbXFyb3RJdnhYaEFjM0V6aER5RGVQeEhTWWVTcEVrNUlaTmdGVFVHX28tZkZ3YUZPVjc2dERtME0ybjZoNzdqMDdpck1EajFpSVhxRU5NLXVwaXNERXBOMFcwaXJQMkI3WFJ0cWtZbHgxdmNhQdIB0wFBVV95cUxQaXg2LXJRcGxvanV0bk9XNTMxZUh6SkYwSWhGUm1IU2wxVF85Q1ZkYTEyZVhYUTBVM0NaWDQwQmstZ3FKQXoyQXo0TUpaekZWN3lkV1Jubld1alRwOVdtX3I3U1BOZzBJMmNHekt2Q0VBTENWWk1xbFpWb3c5Z3k0VDZRSnZBd0JSVDlLNUpTUFRNdXJ6M0lOYXNPWTIyUEhxY1hrWlpMVERrdWMxOXlISHduRVY2SXVsb1VhN3MxSjFoS1ptZHdETG5BSHE3V01UVGd3?oc=5\" target=\"_blank\">Tripura to roll out India’s 1st state-level AI policy: Saha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMjBMN1NXeVJVM3hVOUd2NVNOQ1RoVEM0TDBKMUpWTWFxdjlWWlFFaHlueUV1Y0tMUlY2QkgtZnJhTkg0ZHJXdFlUcVR5WkZHWGQ5Y0dyYWZCVVotNGdONnYwbXFyb3RJdnhYaEFjM0V6aER5RGVQeEhTWWVTcEVrNUlaTmdGVFVHX28tZkZ3YUZPVjc2dERtME0ybjZoNzdqMDdpck1EajFpSVhxRU5NLXVwaXNERXBOMFcwaXJQMkI3WFJ0cWtZbHgxdmNhQdIB0wFBVV95cUxQaXg2LXJRcGxvanV0bk9XNTMxZUh6SkYwSWhGUm1IU2wxVF85Q1ZkYTEyZVhYUTBVM0NaWDQwQmstZ3FKQXoyQXo0TUpaekZWN3lkV1Jubld1alRwOVdtX3I3U1BOZzBJMmNHekt2Q0VBTENWWk1xbFpWb3c5Z3k0VDZRSnZBd0JSVDlLNUpTUFRNdXJ6M0lOYXNPWTIyUEhxY1hrWlpMVERrdWMxOXlISHduRVY2SXVsb1VhN3MxSjFoS1ptZHdETG5BSHE3V01UVGd3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura Launches First State Innovation Mission Under AIM 2.0",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTJMaVJ6SzNqQTZxLXh5WWljNzZ4THZ3UC1xWVQybXBLLTZiLUd6Y3BSSWlFcV9BdUpLXzNQU092RzdNeFFPNmd6Y2JybTR0RVRjUE1xXzljWmhyR0VYS3E1cmxvam80WmxqMXZYYXBkOHV3OGYxYXRMX1puQWdtN3dXM0xKNktMdHpEYXJn?oc=5\" target=\"_blank\">Tripura Launches First State Innovation Mission Under AIM 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTJMaVJ6SzNqQTZxLXh5WWljNzZ4THZ3UC1xWVQybXBLLTZiLUd6Y3BSSWlFcV9BdUpLXzNQU092RzdNeFFPNmd6Y2JybTR0RVRjUE1xXzljWmhyR0VYS3E1cmxvam80WmxqMXZYYXBkOHV3OGYxYXRMX1puQWdtN3dXM0xKNktMdHpEYXJn?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "NITI Aayog’s AIM Launches First State Innovation Mission In Tripura",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUpucW1uS0tWYkp0SzI1cXF6SXBnM0hjd1J5NVVQck9PWmVDZDRHOS1vZGdKb0tNWFJsQkR6MjhxLUxaa2FCLVlwY2VxVHVpOW85ajBOUWxQOTktdVhKSHpDQkdaV2hYU1UydzNoTy1BQmZPQ3A5UVJWUUNwZ0l2d19SQ0gzUVp6NGc2OEhOOW5VUmVrYnR0SjV3SWZyVVN4Yjlfa3VlTzVVd1puZm95dWtmZG12UzdxV1FRbA?oc=5\" target=\"_blank\">NITI Aayog’s AIM Launches First State Innovation Mission In Tripura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KNN India</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcUpucW1uS0tWYkp0SzI1cXF6SXBnM0hjd1J5NVVQck9PWmVDZDRHOS1vZGdKb0tNWFJsQkR6MjhxLUxaa2FCLVlwY2VxVHVpOW85ajBOUWxQOTktdVhKSHpDQkdaV2hYU1UydzNoTy1BQmZPQ3A5UVJWUUNwZ0l2d19SQ0gzUVp6NGc2OEhOOW5VUmVrYnR0SjV3SWZyVVN4Yjlfa3VlTzVVd1puZm95dWtmZG12UzdxV1FRbA?oc=5",
+   "source_name": "KNN India",
+   "source_domain": "knnindia.co.in",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "“When States Innovate, India Accelerates”: Dr Jitendra Singh Launches India’s First State Innovation Mission (SIM) in Tripura",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tM212Z1pKelBnTEdZVng1ZW9jYjczMklyYk5GNkhoTWpZZkYyLUZpRmpyRkw4NWFEQzFMU0poTUNLdE4wZ0FBQnZ5OU82NzdpQ05PdUo5YzY1Y05BRkJsT0RLejljOVRf?oc=5\" target=\"_blank\">“When States Innovate, India Accelerates”: Dr Jitendra Singh Launches India’s First State Innovation Mission (SIM) in Tripura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tM212Z1pKelBnTEdZVng1ZW9jYjczMklyYk5GNkhoTWpZZkYyLUZpRmpyRkw4NWFEQzFMU0poTUNLdE4wZ0FBQnZ5OU82NzdpQ05PdUo5YzY1Y05BRkJsT0RLejljOVRf?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Atal Innovation Mission launches Tripura State Innovation Mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmx5b05tQzBmYUVoM3V1M0ZUajBtTzI5V0U5LVlmZ29YNHc1UW1hS2R5YmJZaUVyWl8zTE9oSVhNcUo5RlJrODJQWEozYXpEa3FTUExjbDFpN1g5TjRuejE1eVNSNWpPa0RmeTFkOVhkWTYtdzJvc2JLZlY2b09ySWxDOXI5SFBwVE1jWFVJZ0p3ZldiRUwwbVVfWTRydTBnM1d2VkxnNWsyZFVlRXA1YVFTYm9SNTNBSzMwN2tDMXhBMDI4RVRwbF93eERURnQ4MjI4?oc=5\" target=\"_blank\">Atal Innovation Mission launches Tripura State Innovation Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmx5b05tQzBmYUVoM3V1M0ZUajBtTzI5V0U5LVlmZ29YNHc1UW1hS2R5YmJZaUVyWl8zTE9oSVhNcUo5RlJrODJQWEozYXpEa3FTUExjbDFpN1g5TjRuejE1eVNSNWpPa0RmeTFkOVhkWTYtdzJvc2JLZlY2b09ySWxDOXI5SFBwVE1jWFVJZ0p3ZldiRUwwbVVfWTRydTBnM1d2VkxnNWsyZFVlRXA1YVFTYm9SNTNBSzMwN2tDMXhBMDI4RVRwbF93eERURnQ4MjI4?oc=5",
+   "source_name": "Construction World",
+   "source_domain": "constructionworld.in",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura FM unveils Rs 34,212 crore tax-free budget for FY 2026–27",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnJzMTlXMHVUUU95VnRZNUZycl9pQmlmbFEtcFZaODh3aGtxc3BhVGI4dlFuMlNoeC04em9ydmZUWFdieVd5SWhDLUpUcnlLSXlNTjJqSVlKdVhzVmdoM2JPRWdRNkVhNXFjSFpRTGN1ZUJhcHJMU0o2QzZkTjlpd1R4ZDFWV3pMT3plSUJwT3djZGE2ZWlyYVFLSXNhc0pvRlpzeUxTS2JRd1d4SmJBdEtMLURuUGZ0SUdyUk84dFVYc0JNaV9B0gHMAUFVX3lxTFAycF81Zk95Qnp4c2hIMnZQNmhZUk1fcGVtQ2tKeng3eDlGQmxDS3lxN3NKem4tMkM2QkRGTXowRWxwY3VQWlJnX1BUX3JFUnplVk9zVmtRV2V2Q0xyWC1JNFRBVmxmQTVCbjJCdGQyT1ZHbXVVVUhsVUtzWW9XNUhtSHBnSWpoaTFSY2dKd0t4bTcxSDBoM0FBdkdaVkRWM3VNOGF4ZE1LaGpJSFBLdDNnRUpLLTY1LWFJQ1hpa1cxWlhzSERleW5vNlNxaQ?oc=5\" target=\"_blank\">Tripura FM unveils Rs 34,212 crore tax-free budget for FY 2026–27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnJzMTlXMHVUUU95VnRZNUZycl9pQmlmbFEtcFZaODh3aGtxc3BhVGI4dlFuMlNoeC04em9ydmZUWFdieVd5SWhDLUpUcnlLSXlNTjJqSVlKdVhzVmdoM2JPRWdRNkVhNXFjSFpRTGN1ZUJhcHJMU0o2QzZkTjlpd1R4ZDFWV3pMT3plSUJwT3djZGE2ZWlyYVFLSXNhc0pvRlpzeUxTS2JRd1d4SmJBdEtMLURuUGZ0SUdyUk84dFVYc0JNaV9B0gHMAUFVX3lxTFAycF81Zk95Qnp4c2hIMnZQNmhZUk1fcGVtQ2tKeng3eDlGQmxDS3lxN3NKem4tMkM2QkRGTXowRWxwY3VQWlJnX1BUX3JFUnplVk9zVmtRV2V2Q0xyWC1JNFRBVmxmQTVCbjJCdGQyT1ZHbXVVVUhsVUtzWW9XNUhtSHBnSWpoaTFSY2dKd0t4bTcxSDBoM0FBdkdaVkRWM3VNOGF4ZE1LaGpJSFBLdDNnRUpLLTY1LWFJQ1hpa1cxWlhzSERleW5vNlNxaQ?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Mon, 16 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tripura",
+   "title": "Tripura leads nationwide Karmayogi 'Sadhana Saptah'; participation crosses 80,000",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbUp0M0VPV0hUUjdiZ2NqVzZLSHRBM2JSSUxnWmJXMUlPTWhIRTVOUkdST2dqTDF0VlJldkpBZV96cTRUZjczTGN0dUlvRGt1NDhOdEhtU0ZWSzIwN1B1NkJ6OE1HSm1GMllLSWsyWXpOWUhPdWhkSVVrNmdtQlJyOWNvRDFWVXdXRk95ZUxtZlRKd08zalpBRm9CRjUxeUJaMFg1eUtaRFNya3VwU2VFV1BUcFdfdWk3Z3psTjZyMTdxbHdNb0tpU3pXY1RXU3dpSFczelIwelU?oc=5\" target=\"_blank\">Tripura leads nationwide Karmayogi 'Sadhana Saptah'; participation crosses 80,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbUp0M0VPV0hUUjdiZ2NqVzZLSHRBM2JSSUxnWmJXMUlPTWhIRTVOUkdST2dqTDF0VlJldkpBZV96cTRUZjczTGN0dUlvRGt1NDhOdEhtU0ZWSzIwN1B1NkJ6OE1HSm1GMllLSWsyWXpOWUhPdWhkSVVrNmdtQlJyOWNvRDFWVXdXRk95ZUxtZlRKd08zalpBRm9CRjUxeUJaMFg1eUtaRFNya3VwU2VFV1BUcFdfdWk3Z3psTjZyMTdxbHdNb0tpU3pXY1RXU3dpSFczelIwelU?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:26+00:00"
+  }
+ ]
+}

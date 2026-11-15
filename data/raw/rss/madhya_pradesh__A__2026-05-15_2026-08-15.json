@@ -1,0 +1,120 @@
+{
+ "region": "Madhya Pradesh",
+ "group": "A",
+ "query": "(\"Madhya Pradesh\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Madhya+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:51+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh’s first Centre of Excellence for AI & machine learning to begin at DAVV by Jan 2027",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNURoYVBnMkwyTXZZcEM2OEtLY0ZOYTRPSUhLVUdKdjQ5aWZCNFdoWloxOERXUTFHcGxmWW5ocU1WRjRjMV9vRnk3VnVWbzIwbk1STktIRDE2a2FWQXE4Ri1uSTkxRDdZNmh5VlFlQUZBLUc5S280VUN3dDdVa2dpWWpoZG5kU0dvOEZISkp4SGM5VUdyN2pxczExTmxXZjhkcHZtX19vX09NX0p6Zl9ycjlVMUxaVEJvREFsRlJSSkU3enVydWhISDhqbVNZVGpDMUx6WFVGWV9RZnRHdkVyRDlkam5La0hNX3ZHdUlUb0MwTEVtVnZEODFrWGRxQdIBgwJBVV95cUxPQUNXUFBFS2tHbmxIVVJBdGFiSDQ5bEp2SHhUVnoyVU54eUZ3em4tZjM5UXB1MloxaF9hVUJJQmQzeE9qMDh4WEZjTVI4b2F4ZVRCY1NaNnZpVVMyUG9QMlMyS0M0dmRaemF3cjJ5TXFNTFI3Wm05Nm5aWmtOSktIV3JudU1lSGR6Z0sxUGdtSm1MdmhMUGJ1OVByTUNZZFJuc0kwVC1XYW55cTVQYUNwMjdrRlo1OFg3eVV6NDE1bml1WGNVbG5OOHlfZldidHR4MzhwQU4tSHpqMmdXMmp2OUFMZ091d1NWMFFWOXNvQlg4aG1wTDhxV25WWTA4Q2NQS3RV?oc=5\" target=\"_blank\">Madhya Pradesh’s first Centre of Excellence for AI & machine learning to begin at DAVV by Jan 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNURoYVBnMkwyTXZZcEM2OEtLY0ZOYTRPSUhLVUdKdjQ5aWZCNFdoWloxOERXUTFHcGxmWW5ocU1WRjRjMV9vRnk3VnVWbzIwbk1STktIRDE2a2FWQXE4Ri1uSTkxRDdZNmh5VlFlQUZBLUc5S280VUN3dDdVa2dpWWpoZG5kU0dvOEZISkp4SGM5VUdyN2pxczExTmxXZjhkcHZtX19vX09NX0p6Zl9ycjlVMUxaVEJvREFsRlJSSkU3enVydWhISDhqbVNZVGpDMUx6WFVGWV9RZnRHdkVyRDlkam5La0hNX3ZHdUlUb0MwTEVtVnZEODFrWGRxQdIBgwJBVV95cUxPQUNXUFBFS2tHbmxIVVJBdGFiSDQ5bEp2SHhUVnoyVU54eUZ3em4tZjM5UXB1MloxaF9hVUJJQmQzeE9qMDh4WEZjTVI4b2F4ZVRCY1NaNnZpVVMyUG9QMlMyS0M0dmRaemF3cjJ5TXFNTFI3Wm05Nm5aWmtOSktIV3JudU1lSGR6Z0sxUGdtSm1MdmhMUGJ1OVByTUNZZFJuc0kwVC1XYW55cTVQYUNwMjdrRlo1OFg3eVV6NDE1bml1WGNVbG5OOHlfZldidHR4MzhwQU4tSHpqMmdXMmp2OUFMZ091d1NWMFFWOXNvQlg4aG1wTDhxV25WWTA4Q2NQS3RV?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 13 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5\" target=\"_blank\">Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "DoT signs MoU with MP for India's first Telecom Manufacturing Zone",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVVvVldrMm5UZ19kNm1FczlTZG95TG5tNGQ1cDFzdlJZR3RqOU8tWlUtbV80NWJ6ZkZoQzJ6TzV1TlY1WU9VZlVWUjUzejNYci1zMHg3c05NWGZLb040NmRxT3hjSHRFMU9mUGl6cXpvSFkwWXZYNVhFZ3VNb3dET3Q1dVNwbU9zbXJHU0Y0VDVTQm9Rdk1WUXJsQVoxdk5XXzJYNzRTSlVOVXR2aXVmVGRCVG5ua1VWZHlGT0I1ZUQtbGNJdkZlNVRNb9IB0AFBVV95cUxNRS1qZzdMRG5WTU93SXdnQVpxUXBST01RTUg2SVdzamI5U2RKem1rVUEyUklpR3g0NHVud3ZtanYtVUt5RTJKUVlEeGo0TGhDdFdHYlFXUDRra0lxTmdxSmZvdnhWekdMbFhlclpRTi1zUFJYVUE2RU9vZURfM2FwSGZSZ1dzRG5LbWd2Si16Nk5nYmt6bDFpM1puQzh4empQZmVheklhS0dyQ0RFbmtLS2lXSnBESDBfZGdmNnJJbXJrM1g3YUxLRU5pZl91ZVV6?oc=5\" target=\"_blank\">DoT signs MoU with MP for India's first Telecom Manufacturing Zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVVvVldrMm5UZ19kNm1FczlTZG95TG5tNGQ1cDFzdlJZR3RqOU8tWlUtbV80NWJ6ZkZoQzJ6TzV1TlY1WU9VZlVWUjUzejNYci1zMHg3c05NWGZLb040NmRxT3hjSHRFMU9mUGl6cXpvSFkwWXZYNVhFZ3VNb3dET3Q1dVNwbU9zbXJHU0Y0VDVTQm9Rdk1WUXJsQVoxdk5XXzJYNzRTSlVOVXR2aXVmVGRCVG5ua1VWZHlGT0I1ZUQtbGNJdkZlNVRNb9IB0AFBVV95cUxNRS1qZzdMRG5WTU93SXdnQVpxUXBST01RTUg2SVdzamI5U2RKem1rVUEyUklpR3g0NHVud3ZtanYtVUt5RTJKUVlEeGo0TGhDdFdHYlFXUDRra0lxTmdxSmZvdnhWekdMbFhlclpRTi1zUFJYVUE2RU9vZURfM2FwSGZSZ1dzRG5LbWd2Si16Nk5nYmt6bDFpM1puQzh4empQZmVheklhS0dyQ0RFbmtLS2lXSnBESDBfZGdmNnJJbXJrM1g3YUxLRU5pZl91ZVV6?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Thu, 30 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh, Paras Semiconductors Plan ₹6,200 Crore OSAT Facility",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeENuTllLN3lEeXA4d3E3a1JPSFZvRGtFVmpnWDVsR3g3eDdicTF0SjZVcU83RDRxR1JTend3Rm5qRUtvVXE2YUR3MGItMkp6dHd2bUkyeFNGNkY5SFA5cHpVbDNqRTFTRlJwcXBsaTBVdXJ4R3pONGJ2WXZBeERoM3JHTXh2TDVSMXlNUzdZZkFlU29WWWN5MWtQQ2JlZjhNSjE2eW9vR1N0UV9KSHk5LVM0R3lNeE1fakxDTVJPMXdWUmRZdGhRVjJpU0NnajNSdTVLSEMyUVg0TFl0dEY2TFBCNXVwYUUwVHfSAe8BQVVfeXFMUHRPa2xJSkhPU1dRc0xxTnUwUXFZSklVMDFlNllhLUwtdWVVUWtfVno3d0FmTVJBVDVaNldFTU1GaHBQSVotYlE2UkpIcXptRjRmLW82U1IwZzlXdzdjTTBwU3JqM0hHUGl6R0IySUJNMkotWUNVc0RvNGg4d2h0QVh1ZXlNRVVkcTNTT1pRU2dIbmRQeFl4dkhoeTRRcG5lUmVLOElXVVR0R29jRUdJZE1EbGlCbjNCS2VvVEQxWE9MVkVfRjJKeHF2a0hIUjVKYXAtUmo5amRnTF9icTlWY21kQ3lJb2JLRGpYZ1BPb2M?oc=5\" target=\"_blank\">Madhya Pradesh, Paras Semiconductors Plan ₹6,200 Crore OSAT Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeENuTllLN3lEeXA4d3E3a1JPSFZvRGtFVmpnWDVsR3g3eDdicTF0SjZVcU83RDRxR1JTend3Rm5qRUtvVXE2YUR3MGItMkp6dHd2bUkyeFNGNkY5SFA5cHpVbDNqRTFTRlJwcXBsaTBVdXJ4R3pONGJ2WXZBeERoM3JHTXh2TDVSMXlNUzdZZkFlU29WWWN5MWtQQ2JlZjhNSjE2eW9vR1N0UV9KSHk5LVM0R3lNeE1fakxDTVJPMXdWUmRZdGhRVjJpU0NnajNSdTVLSEMyUVg0TFl0dEY2TFBCNXVwYUUwVHfSAe8BQVVfeXFMUHRPa2xJSkhPU1dRc0xxTnUwUXFZSklVMDFlNllhLUwtdWVVUWtfVno3d0FmTVJBVDVaNldFTU1GaHBQSVotYlE2UkpIcXptRjRmLW82U1IwZzlXdzdjTTBwU3JqM0hHUGl6R0IySUJNMkotWUNVc0RvNGg4d2h0QVh1ZXlNRVVkcTNTT1pRU2dIbmRQeFl4dkhoeTRRcG5lUmVLOElXVVR0R29jRUdJZE1EbGlCbjNCS2VvVEQxWE9MVkVfRjJKeHF2a0hIUjVKYXAtUmo5amRnTF9icTlWY21kQ3lJb2JLRGpYZ1BPb2M?oc=5",
+   "source_name": "ET Datacenters",
+   "source_domain": "datacenters.economictimes.indiatimes.com",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "IIT (BHU) signs MoU with Madhya Pradesh Higher Education Department to strengthen science and technology edu..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNNTJNTmJRN0d1MXA5Ym9BQzR0eW5sZ1dyM2d2eXJfMVA0ejc4dW1jQWxjNWhyS1c1VUczY0pNRFpyMXF1bjVfWWpxUW9kTWt3NnNRUTZPNlFYMmc2Wk00M2FZc2lyTlA3Q3F4clhmbk5Ba1hBSmpoSnZjbkhYTU9TdjFQajlPU3pUaGxsT3lianVXbmlJRHRkUDRwYU1ZM2lkMk90aWJOYVhON1EtZHhOdlFQaXZBYnkwOGNHLVJFNEpqUEJCVmZMTkwxSHI0UUhuS19PT25ZV21LSW1MbGR1TGxTc3o1TVg3VUp0dzFJVlJ4empJM01ZSmpRTlRWZlB0czIwSFVWelE1TlRQVDRvWEhudEwycmx6ZmZF0gGfAkFVX3lxTFAtZXFfRlZCS0dMQVNWN2I5TnpSQVVyWlRWVzFYZWlObkpHYkFrVHBHdy0yRUNyaWt5LTJSUGlRYmR3QjluNy0zQlBiNkNLbVZsa3R5TWRYT0ktaThEMnRMX3lnWElDOHg2dEpDOThYdUFISGo2cUwwOFJwM211N1FhSldfUEItV3lQMXNsUzB0WFFQY3B3bVlkZGpDeWdsUERSSUFfOHpYWXVvMUk5QXIyZXB2Z282NHFVYVRlSDU5eUhxaVFqTWI4MlhXV1QySGdrSTBHd0NqTXpGWTM0YmdtU29WM1JTVHR6RFdZQld0MzRZbGM4VXZQazlDRWM4ckxIOG5pS1RidDdrSTVldzY1bzJiS3Y2V3hWSWlmajJz?oc=5\" target=\"_blank\">IIT (BHU) signs MoU with Madhya Pradesh Higher Education Department to strengthen science and technology edu..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNTJNTmJRN0d1MXA5Ym9BQzR0eW5sZ1dyM2d2eXJfMVA0ejc4dW1jQWxjNWhyS1c1VUczY0pNRFpyMXF1bjVfWWpxUW9kTWt3NnNRUTZPNlFYMmc2Wk00M2FZc2lyTlA3Q3F4clhmbk5Ba1hBSmpoSnZjbkhYTU9TdjFQajlPU3pUaGxsT3lianVXbmlJRHRkUDRwYU1ZM2lkMk90aWJOYVhON1EtZHhOdlFQaXZBYnkwOGNHLVJFNEpqUEJCVmZMTkwxSHI0UUhuS19PT25ZV21LSW1MbGR1TGxTc3o1TVg3VUp0dzFJVlJ4empJM01ZSmpRTlRWZlB0czIwSFVWelE1TlRQVDRvWEhudEwycmx6ZmZF0gGfAkFVX3lxTFAtZXFfRlZCS0dMQVNWN2I5TnpSQVVyWlRWVzFYZWlObkpHYkFrVHBHdy0yRUNyaWt5LTJSUGlRYmR3QjluNy0zQlBiNkNLbVZsa3R5TWRYT0ktaThEMnRMX3lnWElDOHg2dEpDOThYdUFISGo2cUwwOFJwM211N1FhSldfUEItV3lQMXNsUzB0WFFQY3B3bVlkZGpDeWdsUERSSUFfOHpYWXVvMUk5QXIyZXB2Z282NHFVYVRlSDU5eUhxaVFqTWI4MlhXV1QySGdrSTBHd0NqTXpGWTM0YmdtU29WM1JTVHR6RFdZQld0MzRZbGM4VXZQazlDRWM4ckxIOG5pS1RidDdrSTVldzY1bzJiS3Y2V3hWSWlmajJz?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "AI to Power Simhastha 2028 as Madhya Pradesh Partners with Google Cloud India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk1zdTdMcjhyb3RoY1doanotODFzYVVoV0VpemhzRkxNX0N5R1dibDZMX0k3N0lqb2Nya0s4RnQ3SUk1VkVvRjFOdnltX3NuRm1JU25tUkZ5c3MxSDk4WkhZdFhVUzlGdkxtbnY2UGljZjdvakk1OFRnanYwVmpkbDVDNjk4YmZGS1RCZFRUc2pySTBQcG94VFF4dmhOXzJjODduVVpjcmZRT0toYUVQaWRDMA?oc=5\" target=\"_blank\">AI to Power Simhastha 2028 as Madhya Pradesh Partners with Google Cloud India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk1zdTdMcjhyb3RoY1doanotODFzYVVoV0VpemhzRkxNX0N5R1dibDZMX0k3N0lqb2Nya0s4RnQ3SUk1VkVvRjFOdnltX3NuRm1JU25tUkZ5c3MxSDk4WkhZdFhVUzlGdkxtbnY2UGljZjdvakk1OFRnanYwVmpkbDVDNjk4YmZGS1RCZFRUc2pySTBQcG94VFF4dmhOXzJjODduVVpjcmZRT0toYUVQaWRDMA?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "MP draws investment proposals worth over ₹40,000 cr across GCC, chip and data centre sectors at Tech Growt..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUQ1VS1ra3V3Zjg4ZUV3bXFwTDhTazhQTGNWdWZWTnVtV1B3aG95QUF1TWpEU20wbWN5YlVpeVN1Zi1Fb2oxQ0lYeTBaaGhBdWdhWXVNMUs2NlE1Tzh6MHNYYkk1YVlOajRNUExQUTVZZi1kMy15NUM2S0hpOWk1LWJSYzVrdXhScGZldHFhWVdtX3NGSUh5NXFTZG1TTUg1WXBDR3UxVEJGRmZ5MWE4UmJsVGtmc1FGdnJGakdCVFkxME9oZDUxVGxVOENKTndxTVQwQmQwU1lEbWtZQXEtT1lMcXl4NEx3WmfSAe8BQVVfeXFMT2syZTVnWEVrRUFvUVRSbE5Lbzd0ZHR5M20xSmNiLXJuQXFVbFFteUtEYjNXZkdYT2JjbGY3bWhESmlDek5YN1Nza1JTcEE3Z3ROX1ZWMTZick5weXNtZmlpV2F4SnNzTmUxWGIyb285Y2JoOUF1cUtGU0w5c0wwcVU5UzBfSUhOOW1McU1EenhQU0Y2emdwWEZyaVpDOE1HRUY5UlpROXBlcWE5eExrUFJsU0x0dTR1emd1alpOZnRQZ3FJSjJNZlU2ZExReTlNaHRuWUZHTkt6Ym1sc3JjQXQtaXhpdGZBWFRsZTRXSlE?oc=5\" target=\"_blank\">MP draws investment proposals worth over ₹40,000 cr across GCC, chip and data centre sectors at Tech Growt..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUQ1VS1ra3V3Zjg4ZUV3bXFwTDhTazhQTGNWdWZWTnVtV1B3aG95QUF1TWpEU20wbWN5YlVpeVN1Zi1Fb2oxQ0lYeTBaaGhBdWdhWXVNMUs2NlE1Tzh6MHNYYkk1YVlOajRNUExQUTVZZi1kMy15NUM2S0hpOWk1LWJSYzVrdXhScGZldHFhWVdtX3NGSUh5NXFTZG1TTUg1WXBDR3UxVEJGRmZ5MWE4UmJsVGtmc1FGdnJGakdCVFkxME9oZDUxVGxVOENKTndxTVQwQmQwU1lEbWtZQXEtT1lMcXl4NEx3WmfSAe8BQVVfeXFMT2syZTVnWEVrRUFvUVRSbE5Lbzd0ZHR5M20xSmNiLXJuQXFVbFFteUtEYjNXZkdYT2JjbGY3bWhESmlDek5YN1Nza1JTcEE3Z3ROX1ZWMTZick5weXNtZmlpV2F4SnNzTmUxWGIyb285Y2JoOUF1cUtGU0w5c0wwcVU5UzBfSUhOOW1McU1EenhQU0Y2emdwWEZyaVpDOE1HRUY5UlpROXBlcWE5eExrUFJsU0x0dTR1emd1alpOZnRQZ3FJSjJNZlU2ZExReTlNaHRuWUZHTkt6Ym1sc3JjQXQtaXhpdGZBWFRsZTRXSlE?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "MP govt, Paras Semiconductors sign MoU for ₹6,200 crore OSAT facility on Ujjain–Indore corridor",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzdTTUo2Q2NfSWRWcnNtd3VHLXljR0hObHJ1Tl9VNng4UnRWcTFKQ2ZpLXhHbWVza2dGYndpUnZLRG9QOVFpeUhfSVVGSV9uSXRtLThuMC1na2VjVEhyVHREdWhQc0w1WWVVMUo3WG5LdXBHOFRhMTVHVXRTSWRyUGFaS2dzVUQxLWNPRkJ0X2lUYnBGUHJUS0hwMjFCS3JBTDRMZm5WOHE3V3VRdzdEaDdxYWpfWTd2LW1kV054LUp5dFVBRzgwVFRxSGxwbjJsWVZfUXFGemVFRGJ2VHpraUtJVVMxbFB4dktidXZrT1dyX3Bv0gH6AUFVX3lxTFA4c3p0eEFTX0h1T0h5RF9vTnlQMktNd1JKZVQyTTlTSG1CaDFBQXoyczhMLUZKRjlMRklGckRqVU5RTVN4emZVS3R3dVVxNjhYSFpUeTJpMGxfcHVBVEVPTGtRUGFYNllUTkoycUU5UHcxWmY2VWliWjRZWkxpT1E4ZlRtU1BIRDBhOEZRaXQ5d015Rjd2MHZnTmRRTC03MC1KTkJqZ1RqQldFdFRJSkdNUUw4bENWd29udXdNWXFjMmtCWWdKOHNCTm1rYVIyNHR1RjQyRTdTVkNITVhUT0lkRnVyb0dVWGtwWlc2aXczVnpLd3VpWG1ENVE?oc=5\" target=\"_blank\">MP govt, Paras Semiconductors sign MoU for ₹6,200 crore OSAT facility on Ujjain–Indore corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzdTTUo2Q2NfSWRWcnNtd3VHLXljR0hObHJ1Tl9VNng4UnRWcTFKQ2ZpLXhHbWVza2dGYndpUnZLRG9QOVFpeUhfSVVGSV9uSXRtLThuMC1na2VjVEhyVHREdWhQc0w1WWVVMUo3WG5LdXBHOFRhMTVHVXRTSWRyUGFaS2dzVUQxLWNPRkJ0X2lUYnBGUHJUS0hwMjFCS3JBTDRMZm5WOHE3V3VRdzdEaDdxYWpfWTd2LW1kV054LUp5dFVBRzgwVFRxSGxwbjJsWVZfUXFGemVFRGJ2VHpraUtJVVMxbFB4dktidXZrT1dyX3Bv0gH6AUFVX3lxTFA4c3p0eEFTX0h1T0h5RF9vTnlQMktNd1JKZVQyTTlTSG1CaDFBQXoyczhMLUZKRjlMRklGckRqVU5RTVN4emZVS3R3dVVxNjhYSFpUeTJpMGxfcHVBVEVPTGtRUGFYNllUTkoycUU5UHcxWmY2VWliWjRZWkxpT1E4ZlRtU1BIRDBhOEZRaXQ5d015Rjd2MHZnTmRRTC03MC1KTkJqZ1RqQldFdFRJSkdNUUw4bENWd29udXdNWXFjMmtCWWdKOHNCTm1rYVIyNHR1RjQyRTdTVkNITVhUT0lkRnVyb0dVWGtwWlc2aXczVnpLd3VpWG1ENVE?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Paras Semiconductors to invest ₹6,200 for greenfield OSAT facility in Madhya Pradesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ0k4N0ZUNEFyN0tNSVZZcUt4M044dEd0R1FJbXlwZEdWMy1aNHpUYnZ2aGMyU3pSU1NSTzk5MVFiQUFvRjVTREkwa2FXTHB5ckF4eGpQbXBHajRBeGtrQVR2UG5MdTRPTGZnSm55V0R6LUtKMkRkNXM5WUROeHg0Rl80N2x6RzFwcTdSUXpUZnpmOFFGSkY0U2pzMXFWeFFlRTU2YkdvcHNmYXhIM250Yk80UXVfU1dfeWVabWtLbnJTLWtiYlI1M2hvSk9NZEtFQmZ0RnFwblJtRVVZdUZsT2p3VlVxY096b2fSAe8BQVVfeXFMUFVDYnA0ZXh1eVFneG5hRFZ4WmdoWlNHcy1SMWxHQ04yeC10X2pkZzEyRE5xLU90R191NDQ2ZW9KUFBiU1BIcm9GaXJhV1B1bFBpTmRqYXR4UU9fUEtvSllFbVQ5ZXNzbDN4a2FtQmc4VmwwZllZOUdTeF9zb05aSjZXY29aR3hNYXdOWnhuZWY4T0dCb1NMNmZ6SkFRdjBoRUJmYWFSalNNcDYzTjNMTFdERWNqZWJLeXZPNmZJZHVwZlp5b0pnY3dCT2hXMmp1SFBCei1NNjQ5LUc5amJNNklhd0ZxWGhLOEFqNmsyOU0?oc=5\" target=\"_blank\">Paras Semiconductors to invest ₹6,200 for greenfield OSAT facility in Madhya Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electronics.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ0k4N0ZUNEFyN0tNSVZZcUt4M044dEd0R1FJbXlwZEdWMy1aNHpUYnZ2aGMyU3pSU1NSTzk5MVFiQUFvRjVTREkwa2FXTHB5ckF4eGpQbXBHajRBeGtrQVR2UG5MdTRPTGZnSm55V0R6LUtKMkRkNXM5WUROeHg0Rl80N2x6RzFwcTdSUXpUZnpmOFFGSkY0U2pzMXFWeFFlRTU2YkdvcHNmYXhIM250Yk80UXVfU1dfeWVabWtLbnJTLWtiYlI1M2hvSk9NZEtFQmZ0RnFwblJtRVVZdUZsT2p3VlVxY096b2fSAe8BQVVfeXFMUFVDYnA0ZXh1eVFneG5hRFZ4WmdoWlNHcy1SMWxHQ04yeC10X2pkZzEyRE5xLU90R191NDQ2ZW9KUFBiU1BIcm9GaXJhV1B1bFBpTmRqYXR4UU9fUEtvSllFbVQ5ZXNzbDN4a2FtQmc4VmwwZllZOUdTeF9zb05aSjZXY29aR3hNYXdOWnhuZWY4T0dCb1NMNmZ6SkFRdjBoRUJmYWFSalNNcDYzTjNMTFdERWNqZWJLeXZPNmZJZHVwZlp5b0pnY3dCT2hXMmp1SFBCei1NNjQ5LUc5amJNNklhd0ZxWGhLOEFqNmsyOU0?oc=5",
+   "source_name": "electronics.economictimes.indiatimes.com",
+   "source_domain": "electronics.economictimes.indiatimes.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Spain's Submer to invest $2 billion in Madhya Pradesh semiconductor sector, may create 5,000 jobs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdVdLX2stNFhock9DSTlSNGExYk16eUtWOGo1YlVmWWFTeUN1Q3VoZmRmVVNnbmVtRTE3X0gyYkhvekV6OEJ4R19mS0JadzJwb2M5R2RTVzFhUjgtRDdVS2pSaE1vOE1PdTdidThzQXJTbW5JaDBNYWg2M2JRNDdVYmRsZEhBWXhLXzJKSUZRTndackR1UUFzbS1LT0stLVBYQ2ZleWlvT0VSbUR2SHR4WHIxV1NLUjhkUjJqUlE2WlZVTzJJRXV1aExSUGJuX3pFYkZ6RTJHNU11dkxzeUxzakhlbmJnZUZkN2kxWVlpMFVsNllLaUJ1ZTRLbDFsNjRtQ0FVOW5DMm13QnPSAZACQVVfeXFMUGU3RGFleUpqck9pdlBMaExkTlIyenJwZUtZQWlVNTZwNjNOWE1PSHViY3lVV2xwckdWTDlUai1ETTlNSkNTYk12anlEMjJrdHNpLUhRQlAyT1NtUU1IOGdWVGZVOW1YS0hhRkNzSHdjTHVrTDFycklPS0xtX0daQzA1UkVuTk0xTUw5LUxDVVJiTTJQWG5jX2NzcXhUU2F1OEM0em5vYzZJWnBNaUJNRkpiTnJFZXRjbHdrWVAyUndESW02Y09yLWZ1Z1dneldkMUdnR2MwVFhwSERTc3U5bWhEeDhrNHloU3hFTmhDYzU0ZHhfdXQ5MDV0ZU9NZGo2MHJ0ajV2V2VqN0pOa0RId0k?oc=5\" target=\"_blank\">Spain's Submer to invest $2 billion in Madhya Pradesh semiconductor sector, may create 5,000 jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdVdLX2stNFhock9DSTlSNGExYk16eUtWOGo1YlVmWWFTeUN1Q3VoZmRmVVNnbmVtRTE3X0gyYkhvekV6OEJ4R19mS0JadzJwb2M5R2RTVzFhUjgtRDdVS2pSaE1vOE1PdTdidThzQXJTbW5JaDBNYWg2M2JRNDdVYmRsZEhBWXhLXzJKSUZRTndackR1UUFzbS1LT0stLVBYQ2ZleWlvT0VSbUR2SHR4WHIxV1NLUjhkUjJqUlE2WlZVTzJJRXV1aExSUGJuX3pFYkZ6RTJHNU11dkxzeUxzakhlbmJnZUZkN2kxWVlpMFVsNllLaUJ1ZTRLbDFsNjRtQ0FVOW5DMm13QnPSAZACQVVfeXFMUGU3RGFleUpqck9pdlBMaExkTlIyenJwZUtZQWlVNTZwNjNOWE1PSHViY3lVV2xwckdWTDlUai1ETTlNSkNTYk12anlEMjJrdHNpLUhRQlAyT1NtUU1IOGdWVGZVOW1YS0hhRkNzSHdjTHVrTDFycklPS0xtX0daQzA1UkVuTk0xTUw5LUxDVVJiTTJQWG5jX2NzcXhUU2F1OEM0em5vYzZJWnBNaUJNRkpiTnJFZXRjbHdrWVAyUndESW02Y09yLWZ1Z1dneldkMUdnR2MwVFhwSERTc3U5bWhEeDhrNHloU3hFTmhDYzU0ZHhfdXQ5MDV0ZU9NZGo2MHJ0ajV2V2VqN0pOa0RId0k?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:51+00:00"
+  }
+ ]
+}

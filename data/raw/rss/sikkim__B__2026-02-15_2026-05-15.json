@@ -1,0 +1,109 @@
+{
+ "region": "Sikkim",
+ "group": "B",
+ "query": "(Sikkim) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Sikkim%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:53+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "UNESCO and Government of Sikkim partner to document the engineering practices of Ru-Soam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2lCOU4wX0ZRd05XUFBEcEwtcmRTYWxpeDkxWkJHd0JoSWZvYzJ4UnZpSE95Ty1qbk10VURSREFSSE1CVkFEQTAxOHZJUUdhSVNPc3hQdXhMdHBqMW5KY3dOdGF6OENVQk9XcUVwSWVraTBacVRpZWRmOHFGcUJkR3J2Smpkbl9DSk5RRUJySUpIbEJPWGcwRW56RDJ0aFBJNDVYVmxlRXBaTVNabjBN?oc=5\" target=\"_blank\">UNESCO and Government of Sikkim partner to document the engineering practices of Ru-Soam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2lCOU4wX0ZRd05XUFBEcEwtcmRTYWxpeDkxWkJHd0JoSWZvYzJ4UnZpSE95Ty1qbk10VURSREFSSE1CVkFEQTAxOHZJUUdhSVNPc3hQdXhMdHBqMW5KY3dOdGF6OENVQk9XcUVwSWVraTBacVRpZWRmOHFGcUJkR3J2Smpkbl9DSk5RRUJySUpIbEJPWGcwRW56RDJ0aFBJNDVYVmxlRXBaTVNabjBN?oc=5",
+   "source_name": "UNESCO",
+   "source_domain": "unesco.org",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "ICAR Sikkim Centre Hosts Live Screening of “Bharat VISTAAR” Scheme Launch",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uTUlJYTJheGV1MFhQN3RqNmNtdzhCWDF2dWtqRE5WbktOSDJyR2xBOV9JM0gwY20tanJVUHVwODhUdl8ySXUweW80Q1RtMG1rbTQ0bEFRaG1sYmFCWVVCYzMwd0xLdzhZ?oc=5\" target=\"_blank\">ICAR Sikkim Centre Hosts Live Screening of “Bharat VISTAAR” Scheme Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uTUlJYTJheGV1MFhQN3RqNmNtdzhCWDF2dWtqRE5WbktOSDJyR2xBOV9JM0gwY20tanJVUHVwODhUdl8ySXUweW80Q1RtMG1rbTQ0bEFRaG1sYmFCWVVCYzMwd0xLdzhZ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "‘Mini Sikkim’: This CM Shri school bets on merit, mountains, and morning yoga to build future leaders",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNekdsSWdLY3M5TlN4WTd3S2Q0NEM3c2tNWHliVjhXWkl3aHRWd1lSNWJUeXhwU2ZKT1czSU5WbnpuaDNoLUZCRGd5VVE3emF2SVVCaTBEclBLajh0a0NvenZvckNfSGdiNjd0RmtKRUhGcUdQZzUzTE9GenUwME5VTjhHYUQ2MmRoemdKU0JqUElaZ1FHY09LYV9GZTZuQ1AwSXNvZ3NOdkp5TDhkb3NWUFYzTlFmWVFEeDJyNndCSi05b0daenQ0LWE3ZWE1QmU0bVdsNWRPdTVGclNjdy0tYXVteGw1b2dqT0I0c9IB8gFBVV95cUxPY2xEaUZIVWVNZjJielM2STRxdjhqTE1YRF9HY1hDV19GaDB4TktBRUNjYVFrN2dVNTBObzlkLU9EenhHTXdCcF9Uejg3Mk12amZ1X01xSHdJb2VEOU9lcklkWjRaV0RCbEZrbjJjS1BqOEhXckxBVXJaYzd0STYzQnNiak0xM3hDeVNLSVR4VmxrV1V4eHd0RnFNLXI0Nzd2aC1uNXJDaGpUbVV4UlpyRkF3cUVWSXpXZU1XN3RIMUNBdUVNQTM0cU43VkFWdkU0a2YtOWs3cVdOdndmUzhzMUVJM3QtOEJ4YUtxVGJrdHB3UQ?oc=5\" target=\"_blank\">‘Mini Sikkim’: This CM Shri school bets on merit, mountains, and morning yoga to build future leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Careers360</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNekdsSWdLY3M5TlN4WTd3S2Q0NEM3c2tNWHliVjhXWkl3aHRWd1lSNWJUeXhwU2ZKT1czSU5WbnpuaDNoLUZCRGd5VVE3emF2SVVCaTBEclBLajh0a0NvenZvckNfSGdiNjd0RmtKRUhGcUdQZzUzTE9GenUwME5VTjhHYUQ2MmRoemdKU0JqUElaZ1FHY09LYV9GZTZuQ1AwSXNvZ3NOdkp5TDhkb3NWUFYzTlFmWVFEeDJyNndCSi05b0daenQ0LWE3ZWE1QmU0bVdsNWRPdTVGclNjdy0tYXVteGw1b2dqT0I0c9IB8gFBVV95cUxPY2xEaUZIVWVNZjJielM2STRxdjhqTE1YRF9HY1hDV19GaDB4TktBRUNjYVFrN2dVNTBObzlkLU9EenhHTXdCcF9Uejg3Mk12amZ1X01xSHdJb2VEOU9lcklkWjRaV0RCbEZrbjJjS1BqOEhXckxBVXJaYzd0STYzQnNiak0xM3hDeVNLSVR4VmxrV1V4eHd0RnFNLXI0Nzd2aC1uNXJDaGpUbVV4UlpyRkF3cUVWSXpXZU1XN3RIMUNBdUVNQTM0cU43VkFWdkU0a2YtOWs3cVdOdndmUzhzMUVJM3QtOEJ4YUtxVGJrdHB3UQ?oc=5",
+   "source_name": "Careers360",
+   "source_domain": "news.careers360.com",
+   "published_raw": "Fri, 06 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Union Minister of Minority Affairs & Parliamentary Affairs Shri Kiren Rijiju launches NIGRANI App, Haj Wrist band and AI Chatbots of Ministry during formal inauguration of Chintan Shivir today",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMTdHNURTemxDTTA0ZkNwalhJQUxYZDJfRFZUZzV3aEJPb0VDYVZ2Q3VWX3ZhU1JESHd1NmRFNC1hUV8xOURDWnM3bUxMcF9QSGlxODl2QlpGMS04RXJud1lac0dXR2w4?oc=5\" target=\"_blank\">Union Minister of Minority Affairs & Parliamentary Affairs Shri Kiren Rijiju launches NIGRANI App, Haj Wrist band and AI Chatbots of Ministry during formal inauguration of Chintan Shivir today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMTdHNURTemxDTTA0ZkNwalhJQUxYZDJfRFZUZzV3aEJPb0VDYVZ2Q3VWX3ZhU1JESHd1NmRFNC1hUV8xOURDWnM3bUxMcF9QSGlxODl2QlpGMS04RXJud1lac0dXR2w4?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim Transfers 3 IAS Officers; Pari Bishnoi Appointed Pakyong Collector",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFdtQkRaeEwtdFJBUUppc3hTeGt1ZW1VNXhDcERMejY4VjM4MWJOTWFKbVctY0M4UGhMejU5N1BUNDd2bmdqdzdhX0JRZ1FhWFJJZHJrMFlERUdLY1MyenowdzNERHVsX1dxeW4xVFUtTG1pcWVHMjJyUEQwRl9JUnlPeWZTOTAwSjBxYTJhU19qTllYczhjZk1ROEFrN0dGZklhanpUQ0lYdVY1YThn?oc=5\" target=\"_blank\">Sikkim Transfers 3 IAS Officers; Pari Bishnoi Appointed Pakyong Collector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFdtQkRaeEwtdFJBUUppc3hTeGt1ZW1VNXhDcERMejY4VjM4MWJOTWFKbVctY0M4UGhMejU5N1BUNDd2bmdqdzdhX0JRZ1FhWFJJZHJrMFlERUdLY1MyenowdzNERHVsX1dxeW4xVFUtTG1pcWVHMjJyUEQwRl9JUnlPeWZTOTAwSjBxYTJhU19qTllYczhjZk1ROEFrN0dGZklhanpUQ0lYdVY1YThn?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Sat, 02 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim Govt Transfers Three IAS Officers; IAS Agawane Rohan Ramesh Made Collector, Gangtok",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2JrRTJ4S0tnbXhPTlJrSEVpc20yMEtjSWE4SUY3RmllX1JaM1Z1UXZCR3BSTUN0b3BQNHFlRzFDSm5xX20zd3V6cDR0Z2FuVDIxU0I3MEJURUNwekxtU1l1VENMcTR0d2ZuX1lFMl9JU090NjEydW9Dd2duY1RTQzF0S1R4WWM3dE9TalBMTVZySnIzeUw1X1NEQ1NhNjhwT1BOWFp6QUs1YjU5M2UxX0pod3AwbERsVWt0blFCRHI1bFU?oc=5\" target=\"_blank\">Sikkim Govt Transfers Three IAS Officers; IAS Agawane Rohan Ramesh Made Collector, Gangtok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2JrRTJ4S0tnbXhPTlJrSEVpc20yMEtjSWE4SUY3RmllX1JaM1Z1UXZCR3BSTUN0b3BQNHFlRzFDSm5xX20zd3V6cDR0Z2FuVDIxU0I3MEJURUNwekxtU1l1VENMcTR0d2ZuX1lFMl9JU090NjEydW9Dd2duY1RTQzF0S1R4WWM3dE9TalBMTVZySnIzeUw1X1NEQ1NhNjhwT1BOWFp6QUs1YjU5M2UxX0pod3AwbERsVWt0blFCRHI1bFU?oc=5",
+   "source_name": "APAC Media",
+   "source_domain": "apacnewsnetwork.com",
+   "published_raw": "Sat, 02 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim's Pakyong Airport to renamed after freedom fighter Trilochan Pokhrel",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmczSnF3TWdtT2MwRjhmOV9rd1F5am5IVXI1TnVvQ1NBcFNzXy1ablczWTRSRGIwd1FrelJfdXZZc1JhRDJVOUNLZ1VwaWptWEFXSGcwY2w3QTNHeVFiODlVUnpKR19oUEYxc0hyQTJSNlpxNndKOTd5aGZidEx6eGZyRlhJX0lYT3oyZnZhVDRnU1R6bGdkeTlRQlZFU2prTHFmX2VhWjU5aUI3ZUpJWWlGX2g5cEF4RHo3NDB5UHlkdTB5SmRVcm9aQkpjMS16bi1DTE5LRdIB3AFBVV95cUxQSUdmbkxOUVJzTnYwZ1Q5b3UzVmJ6ZEhOcjNVcmNReDN6X2hkUmNyT1U1Q2hPWjRHZnRkSV9VZnJQS1ktaDBFWXppeTIzU0dkbC12Vkk5bVY2UUxRMnY1X2pOLXdYVS1ZUlhGSVRpZEJjWjhlaldWVTFOeDlWOGI3WWlMLW50alJXS243eXp6b3lCWFMycTB5clNvQkQ5YXBoSFhhZWNFNk81WTlic2Y4U1NfZlRzTTVJbFFvRkxaamV0MTRUUGNzR3MxT2NqWk5nOEU5d0xvdlkxdUxz?oc=5\" target=\"_blank\">Sikkim's Pakyong Airport to renamed after freedom fighter Trilochan Pokhrel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmczSnF3TWdtT2MwRjhmOV9rd1F5am5IVXI1TnVvQ1NBcFNzXy1ablczWTRSRGIwd1FrelJfdXZZc1JhRDJVOUNLZ1VwaWptWEFXSGcwY2w3QTNHeVFiODlVUnpKR19oUEYxc0hyQTJSNlpxNndKOTd5aGZidEx6eGZyRlhJX0lYT3oyZnZhVDRnU1R6bGdkeTlRQlZFU2prTHFmX2VhWjU5aUI3ZUpJWWlGX2g5cEF4RHo3NDB5UHlkdTB5SmRVcm9aQkpjMS16bi1DTE5LRdIB3AFBVV95cUxQSUdmbkxOUVJzTnYwZ1Q5b3UzVmJ6ZEhOcjNVcmNReDN6X2hkUmNyT1U1Q2hPWjRHZnRkSV9VZnJQS1ktaDBFWXppeTIzU0dkbC12Vkk5bVY2UUxRMnY1X2pOLXdYVS1ZUlhGSVRpZEJjWjhlaldWVTFOeDlWOGI3WWlMLW50alJXS243eXp6b3lCWFMycTB5clNvQkQ5YXBoSFhhZWNFNk81WTlic2Y4U1NfZlRzTTVJbFFvRkxaamV0MTRUUGNzR3MxT2NqWk5nOEU5d0xvdlkxdUxz?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Ministry of Minority Affairs organizing 'Chintan Shivir' at Nalanda University, Rajgir, Bihar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZXZmUHBzdjJUS001cFpBTFhic3RIU2ZxTlNnME5fdUY0Qnh2alRaX2NFSVpxdWo4T0ZDWGpKUVlCOE5rUV9hZlNuZ1p4dW9aUDhxRk9Rci00ZUdMVFJJLVlNWFFlLWdK?oc=5\" target=\"_blank\">Ministry of Minority Affairs organizing 'Chintan Shivir' at Nalanda University, Rajgir, Bihar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZXZmUHBzdjJUS001cFpBTFhic3RIU2ZxTlNnME5fdUY0Qnh2alRaX2NFSVpxdWo4T0ZDWGpKUVlCOE5rUV9hZlNuZ1p4dW9aUDhxRk9Rci00ZUdMVFJJLVlNWFFlLWdK?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Train to Sikkim: Sevoke-Rangpo railway project achieves major tunnel breakthrough, commissioning likely by Dec 2027",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVMtczB1ODZ6TUtUb2ZRR2t3YXo1aUV2U2VBWWZJeDdXel9oR3RxczJzWEtyR19uZU9RR3otRlNVa3RINEFGMk1tTUk5TzMtV2c0WTBaSU1JOERsaGJKSGNXbTV0c1VROHN4V0YzV0s5X3Q5cXV5TXJDS0o5OUp2TzFlTV9aUnBjTjdsVTljTzQ5M1c4bUV2aDExWG12SkVYU2dnRlNQMUZvTFhydEdiSWo5TV9FSU5GcVBpMFh0cWw3Z1AwVnFKUE9vTDl3d0XSAdYBQVVfeXFMTThKQUk3Z05lbG9KTzhxbnp0ZFMwM3VLTkFwQ05OUnl0VzJzajJLNF9Yd0JIdjQ3ZlFPM0plR041NTREb2xCTXNDYnFUWmt3RDBsZzB5X3M1Yy13LUJxLURsM1NfbUMwOElDTXVKS2x2YzFTQXdSSEMxdk9ZOTN4LVg5YjJLWmxESFVaOEZjYWtBdjNNaWNqNnkweEhCN1pDT1pYUUZDeUJFYnVmVmJRam9nNzM1dHBXRVhUVUFTdzZURnFfVXpacUd6anA1bkpRQ09Dajgwdw?oc=5\" target=\"_blank\">Train to Sikkim: Sevoke-Rangpo railway project achieves major tunnel breakthrough, commissioning likely by Dec 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVMtczB1ODZ6TUtUb2ZRR2t3YXo1aUV2U2VBWWZJeDdXel9oR3RxczJzWEtyR19uZU9RR3otRlNVa3RINEFGMk1tTUk5TzMtV2c0WTBaSU1JOERsaGJKSGNXbTV0c1VROHN4V0YzV0s5X3Q5cXV5TXJDS0o5OUp2TzFlTV9aUnBjTjdsVTljTzQ5M1c4bUV2aDExWG12SkVYU2dnRlNQMUZvTFhydEdiSWo5TV9FSU5GcVBpMFh0cWw3Z1AwVnFKUE9vTDl3d0XSAdYBQVVfeXFMTThKQUk3Z05lbG9KTzhxbnp0ZFMwM3VLTkFwQ05OUnl0VzJzajJLNF9Yd0JIdjQ3ZlFPM0plR041NTREb2xCTXNDYnFUWmt3RDBsZzB5X3M1Yy13LUJxLURsM1NfbUMwOElDTXVKS2x2YzFTQXdSSEMxdk9ZOTN4LVg5YjJLWmxESFVaOEZjYWtBdjNNaWNqNnkweEhCN1pDT1pYUUZDeUJFYnVmVmJRam9nNzM1dHBXRVhUVUFTdzZURnFfVXpacUd6anA1bkpRQ09Dajgwdw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Thu, 19 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:53+00:00"
+  }
+ ]
+}

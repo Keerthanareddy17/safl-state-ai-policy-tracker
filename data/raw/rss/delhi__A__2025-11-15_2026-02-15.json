@@ -1,0 +1,175 @@
+{
+ "region": "Delhi",
+ "group": "A",
+ "query": "(Delhi) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Delhi%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:32+00:00",
+ "item_count": 15,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Seven Chakras of the India–AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbEpsMGFfUFZRZy1LTzV6Z0hnSnBCOVBtMmZVNS02MmZ2Q1kzbEhqZFJNaGVjQ0RQeXBaeDBJT0xpc3JONWtNb0FlVmxwbHBZbVdCSlE4NW5uTzF0SklrSGF4M1hSTWpDeTY4Tl9ETjVJRUhtQjg3ODBR?oc=5\" target=\"_blank\">Seven Chakras of the India–AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbEpsMGFfUFZRZy1LTzV6Z0hnSnBCOVBtMmZVNS02MmZ2Q1kzbEhqZFJNaGVjQ0RQeXBaeDBJT0xpc3JONWtNb0FlVmxwbHBZbVdCSlE4NW5uTzF0SklrSGF4M1hSTWpDeTY4Tl9ETjVJRUhtQjg3ODBR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 08 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India-AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1zY2RNMFM3c0NYNDVDaXNqTVItcG1xZkw0bGkwamVzR3hYZjRlV0VQeGFES0RhTUQyYkpqVmFJOUFjODhIMWV1N0FSUXJPT25GNUxpc2VuR2wwdEhKU3A1Y0VNMjBwV0N1SnhtT3Q5VVF2RHloRGRISGdn?oc=5\" target=\"_blank\">India-AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zY2RNMFM3c0NYNDVDaXNqTVItcG1xZkw0bGkwamVzR3hYZjRlV0VQeGFES0RhTUQyYkpqVmFJOUFjODhIMWV1N0FSUXJPT25GNUxpc2VuR2wwdEhKU3A1Y0VNMjBwV0N1SnhtT3Q5VVF2RHloRGRISGdn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India tells Silicon Valley it will unveil voice-based LLM before Delhi AI summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2xZWkpNSWlSanNkSWJheFl3ZXBZbVQwQmRybHRDVWt6WkFNX0c3SzdmX2JDZFd6eGU3MzdsY3BKcnU5ZzFmVFpyZ3RhbWhDcGNjQ1AzMk1aX2FjVmJoU1VFR204b1JDNFJMQlcwQWpTQU9uVDVtMUdvSVZXd0dKMS1XZ1EzMGEyd2Z5aS1VWkNQQ3NuYVhnaXVvNF9fQ3M2dmJaelhzQzJOX3kwb1ZKQWQwa2d3M3FmOHJGaGhnNE9sSGdCdjRfLVF6MznSAdIBQVVfeXFMTkxzU3VvV1BtX2VENlZST3FRTy1lcUdMMlJ5MGI1bWtYWXlyYUVfdGd4bFliNl9hOGFLTDFyaTJMQzFjVDA2dEc2dW40a2owX05HSzRWT0hSOWhBOThsTGJJYlpHclFCWDBYdE50NXgxLUlwUFNnUUR6NmxGMXY4WG54aHBCeXN4a0dQYTk0Y1A4VEhJTlcxU09sVHluYm52bFpSNnVFNjEzUVBsZnFmMnRqQ2pDdWZ0bEVWWkIzblI4Rl9YSjQ3UEFBTi10STkyOFJn?oc=5\" target=\"_blank\">India tells Silicon Valley it will unveil voice-based LLM before Delhi AI summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2xZWkpNSWlSanNkSWJheFl3ZXBZbVQwQmRybHRDVWt6WkFNX0c3SzdmX2JDZFd6eGU3MzdsY3BKcnU5ZzFmVFpyZ3RhbWhDcGNjQ1AzMk1aX2FjVmJoU1VFR204b1JDNFJMQlcwQWpTQU9uVDVtMUdvSVZXd0dKMS1XZ1EzMGEyd2Z5aS1VWkNQQ3NuYVhnaXVvNF9fQ3M2dmJaelhzQzJOX3kwb1ZKQWQwa2d3M3FmOHJGaGhnNE9sSGdCdjRfLVF6MznSAdIBQVVfeXFMTkxzU3VvV1BtX2VENlZST3FRTy1lcUdMMlJ5MGI1bWtYWXlyYUVfdGd4bFliNl9hOGFLTDFyaTJMQzFjVDA2dEc2dW40a2owX05HSzRWT0hSOWhBOThsTGJJYlpHclFCWDBYdE50NXgxLUlwUFNnUUR6NmxGMXY4WG54aHBCeXN4a0dQYTk0Y1A4VEhJTlcxU09sVHluYm52bFpSNnVFNjEzUVBsZnFmMnRqQ2pDdWZ0bEVWWkIzblI4Rl9YSjQ3UEFBTi10STkyOFJn?oc=5",
+   "source_name": "Indiatimes",
+   "source_domain": "telecom.economictimes.indiatimes.com",
+   "published_raw": "Sat, 06 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "What India wants from its 'impact-first' global AI summit in Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMXdFWnVZb21vd0V0YXI2bDZmSzVYQ3JYaTdZYUR0bW9KVXN6UU1KUmlwY2IxZVUwVjE3dlNyXzNVejdMTXdXaVR6M2NmWHlKTXNzbVpHRy1kM0tLeEd6ZDJ3dWU5NWJKZ1NXdDVQRkZsb1ZzUEhKTEJmLTllSWpaUlFqUkx1dzU4X094QXNIaTI3SXFRQnNGUVJacFB1dTVtTWlYUWp1bDBRZWhrdHFSaWQ0VGE0a09oVW1iX2hoWGRhQlJtdWlaQ2ljcThpQUQ1QmNvTXFxM3AzUdIB3wFBVV95cUxOVFI0TmpkUUlndkNRZXFRNEpUQ0k0ang0SXFGUkJ3OXVhLXdfbzV4OTNnVl9uQTRXdDUzSEw3cHV2Q3B4cVpiT2dNM21LUnJsT2xGeGVnNXY5R3pIVUVteTBNc3RWbjRTZEtsQkF3aG1uNjV2RlFIM200TFZpcy16aXhyMm9Gb01JcjJxdUxlZUNPbDB1X216WXg5NTJ3ZkVXc2JXTEV4Q3dhMkhXa21GT0ZVN2hZNUhEajZlVTRLUGRqUlhIZWlGS3RtR09xQy0wNjNHMXdkVW9UWDBtZGV3?oc=5\" target=\"_blank\">What India wants from its 'impact-first' global AI summit in Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMXdFWnVZb21vd0V0YXI2bDZmSzVYQ3JYaTdZYUR0bW9KVXN6UU1KUmlwY2IxZVUwVjE3dlNyXzNVejdMTXdXaVR6M2NmWHlKTXNzbVpHRy1kM0tLeEd6ZDJ3dWU5NWJKZ1NXdDVQRkZsb1ZzUEhKTEJmLTllSWpaUlFqUkx1dzU4X094QXNIaTI3SXFRQnNGUVJacFB1dTVtTWlYUWp1bDBRZWhrdHFSaWQ0VGE0a09oVW1iX2hoWGRhQlJtdWlaQ2ljcThpQUQ1QmNvTXFxM3AzUdIB3wFBVV95cUxOVFI0TmpkUUlndkNRZXFRNEpUQ0k0ang0SXFGUkJ3OXVhLXdfbzV4OTNnVl9uQTRXdDUzSEw3cHV2Q3B4cVpiT2dNM21LUnJsT2xGeGVnNXY5R3pIVUVteTBNc3RWbjRTZEtsQkF3aG1uNjV2RlFIM200TFZpcy16aXhyMm9Gb01JcjJxdUxlZUNPbDB1X216WXg5NTJ3ZkVXc2JXTEV4Q3dhMkhXa21GT0ZVN2hZNUhEajZlVTRLUGRqUlhIZWlGS3RtR09xQy0wNjNHMXdkVW9UWDBtZGV3?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Road to Impact Summit 2026: India’s AI talent playbook",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3ZiRnhpWWtOc2NjLWFyOXpKXzlhWGZGcU1sdDFBX3JkWU9JS21hc2ZMRHAxY3RHN05QcGc3NHJaaFh0cXp2MXVPb01yM015ZkVBb2k1djF3MzUzQnBPdG00RmxQZlpWNWV4WlNuT05hV2RCXzViZ3VEUFNzNjZ2cHZMb3FQUjh1OFdhai0xWmJsZ210LUE?oc=5\" target=\"_blank\">Road to Impact Summit 2026: India’s AI talent playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlantic Council</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3ZiRnhpWWtOc2NjLWFyOXpKXzlhWGZGcU1sdDFBX3JkWU9JS21hc2ZMRHAxY3RHN05QcGc3NHJaaFh0cXp2MXVPb01yM015ZkVBb2k1djF3MzUzQnBPdG00RmxQZlpWNWV4WlNuT05hV2RCXzViZ3VEUFNzNjZ2cHZMb3FQUjh1OFdhai0xWmJsZ210LUE?oc=5",
+   "source_name": "Atlantic Council",
+   "source_domain": "atlanticcouncil.org",
+   "published_raw": "Fri, 16 Jan 2026 02:12:24 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI Impact Summit 2026: India aims for a larger share of the AI pie",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFNIMXEzd0xsdERfYjRlWlFuWVN6WEdXSU1NMU9SX0pmUFJSOF9mUXRxZ25yUDFFLWZndnFaWXJDM2NvaWxVT3VRYUhjLWxtdHluclA0UE9sSmtFYlF0QmllZllxX1g5STg3czRKRlJnUGJsUjRsMFhPcGFpMmxIV1dBLWFqX1dRRmJQeW1yUHZVUVBzUzY2Qy1MTFlNc1JoNFg2ZW04SDFKUdIBsAFBVV95cUxNVHpzVmFPR21PU2FCWEQtWEdFZmtCbGgzNnQ3aFdsdk15b2VVakdfMnR5MWYyeUFSS3M5UUdzMFVZRlNPRFVuWTZnWEM4UmxPWWNzNGFwTzBJcUNkWnllNTdHVnV0SXhvMlJ0Vk95THZGVjBlSnRpNlMyTUNiZkdMVjlIX3EtNVJaZlg0U3dpN3JXM0tPSFNQeU5xSVMyQzFZWjZweGtaR21wQm1LWWRnVg?oc=5\" target=\"_blank\">AI Impact Summit 2026: India aims for a larger share of the AI pie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFNIMXEzd0xsdERfYjRlWlFuWVN6WEdXSU1NMU9SX0pmUFJSOF9mUXRxZ25yUDFFLWZndnFaWXJDM2NvaWxVT3VRYUhjLWxtdHluclA0UE9sSmtFYlF0QmllZllxX1g5STg3czRKRlJnUGJsUjRsMFhPcGFpMmxIV1dBLWFqX1dRRmJQeW1yUHZVUVBzUzY2Qy1MTFlNc1JoNFg2ZW04SDFKUdIBsAFBVV95cUxNVHpzVmFPR21PU2FCWEQtWEdFZmtCbGgzNnQ3aFdsdk15b2VVakdfMnR5MWYyeUFSS3M5UUdzMFVZRlNPRFVuWTZnWEM4UmxPWWNzNGFwTzBJcUNkWnllNTdHVnV0SXhvMlJ0Vk95THZGVjBlSnRpNlMyTUNiZkdMVjlIX3EtNVJaZlg0U3dpN3JXM0tPSFNQeU5xSVMyQzFZWjZweGtaR21wQm1LWWRnVg?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sat, 07 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0pZOGpWaGlJTFZTdVhQaERNMnpScEdiNnpFa3d2dnpZdHBsbmFyaXlwRThmWldTcjJSNGNqV01OZEhLS3dpQ0N5dmg5WGZWU3d4MFlfcUpydC1paU8tZm9yRDNWbzVERTM2WWsycW43RkNROGMzWElPWUgyZmJtNXJ3bDZVZFJ0X1FCMzlmbTBYMGp4dlFaX0FrWEJaRGRqZzZ6bTZRcG80RVpGV2dfaW44Y0NHLTIzbUhrTQ?oc=5\" target=\"_blank\">OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0pZOGpWaGlJTFZTdVhQaERNMnpScEdiNnpFa3d2dnpZdHBsbmFyaXlwRThmWldTcjJSNGNqV01OZEhLS3dpQ0N5dmg5WGZWU3d4MFlfcUpydC1paU8tZm9yRDNWbzVERTM2WWsycW43RkNROGMzWElPWUgyZmJtNXJ3bDZVZFJ0X1FCMzlmbTBYMGp4dlFaX0FrWEJaRGRqZzZ6bTZRcG80RVpGV2dfaW44Y0NHLTIzbUhrTQ?oc=5",
+   "source_name": "TechCrunch",
+   "source_domain": "techcrunch.com",
+   "published_raw": "Fri, 23 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "UN chief to attend AI Impact Summit 2026 in New Delhi, over 30 UN events planned",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNclNXcUU5ZThDUmx0ZU5YTlFscHAzQzZIM1JUcnRFemNmLXJsQ2x1NnZnVFJna25SaGNxRjZuN3IzQjBqRm01dUpCcnYzMmR2ZFVpbm1uVjVZM205dzk2TkF2anNkU3VSSkJ0MDJoajBLZXNleUhJa08zcWlNcWY0dGl4OUhmZktGRFViZE11dFFES3dRZ0oxWkVXM1lSRDNMdXEzRTFtZ3doalUxSXk4aURWS0N2UTdESk9nY3IwMExKNHdXUnFlbVR30gHXAUFVX3lxTE9vY29ZU290bXdnalh4RXAtdF9jVUhNQkxLV1IxTU1EdU55cC1FRzB1cnRzR1hhVTNuYndiMDE1aWR1VUdxbU4tY3JPNHJPTXFPYWFlMnFJdEg1aklFOG5uYVdObGF1S1pNWGhZY0lxRFBHbDJ3S3EzN1FSOVVXZkVIbzYzVzZBRGd5ZDRtU0EtZVdEeVlYN2poQzRyM0VsUElUajdBYTdpNURZaDFWNWNycDZkZTVsRnNiN0VGZUFtdEUxMTRwb3N4cHdPZVVzczJYUnBpTVBJ?oc=5\" target=\"_blank\">UN chief to attend AI Impact Summit 2026 in New Delhi, over 30 UN events planned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclNXcUU5ZThDUmx0ZU5YTlFscHAzQzZIM1JUcnRFemNmLXJsQ2x1NnZnVFJna25SaGNxRjZuN3IzQjBqRm01dUpCcnYzMmR2ZFVpbm1uVjVZM205dzk2TkF2anNkU3VSSkJ0MDJoajBLZXNleUhJa08zcWlNcWY0dGl4OUhmZktGRFViZE11dFFES3dRZ0oxWkVXM1lSRDNMdXEzRTFtZ3doalUxSXk4aURWS0N2UTdESk9nY3IwMExKNHdXUnFlbVR30gHXAUFVX3lxTE9vY29ZU290bXdnalh4RXAtdF9jVUhNQkxLV1IxTU1EdU55cC1FRzB1cnRzR1hhVTNuYndiMDE1aWR1VUdxbU4tY3JPNHJPTXFPYWFlMnFJdEg1aklFOG5uYVdObGF1S1pNWGhZY0lxRFBHbDJ3S3EzN1FSOVVXZkVIbzYzVzZBRGd5ZDRtU0EtZVdEeVlYN2poQzRyM0VsUElUajdBYTdpNURZaDFWNWNycDZkZTVsRnNiN0VGZUFtdEUxMTRwb3N4cHdPZVVzczJYUnBpTVBJ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India-AI Impact Summit 2026: The complete guide for delegates and participants",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQX05EakVYaEVPNlpOZUN6UEl1SXl4MDRBOGU5WThsZE5JSk9KcGFWTlVodHR3V1NNc2JXLWxkUVZrNG1jYUV5RWIwTFVsMUs2OXhmV1NER204Q281YUpqREVZWk5jMzgzd0tlejBMREZqcG9NNDR3VFNGOUpOXzdhN1NGaHhRLVFSMDlKazlwSTVDUXBzV3NEMnRjV3ZGTTNaZEZiSU9SeUNpaWNicUNqS000MW1xRXBHNFRCeUZiU2FqdVNoUVVZN21hMzB1dGgwSGJ3Tjhma1N5TDc5YmhaUWV4QjZpQ2x2OFRjcFpQZGxiZ0Z6OVZsN1pfS1BqYUJKOG96YmxLSVZzZjBXWDZwNTBTS1lBdUxxODhlSmJWT3paVEVKeTBHelY4Y1o4ZVQxd3czc1JwU0FCOFlscjRwcXdmc295TFNCOEwzLdIB0gJBVV95cUxNWEV6ZVRxd2dfdWZCYU42QUJacDJwQ3dVcHlURGc2OHBSTFpyNlczRldERlBSbHRqNFJ5Z05TY2RXWFF4UlFWa1VrUWJ6bEZfbzFwUURtdjBSMVo3WlZCZ211b0RtMi1VaHJkaFVRcXlsNG95OW5nTjE0blFkM3YyUFdwamRsRVB4ZlpSWlFNc0RaLWEwNHVSRl82eldlWmhfVlM5R0FMX1BBVnEyNl9XMUh4STFvYnAtZW9sa1NFMl9LOW9NWEJCeXlFVDgxaE00RUk0VTljb3ZrOFRYanVXWkNmZHJsdnR6b2t3cjI4dTREQTRQM3p2bERBMTVURUZISGpzaHNGZ2VicWpiUG9hdktUSldZZGI0THFTUXRmbnlRZEk4ZGhERGRwWTl2YjM0RjVocHR0WF9NSjhVQTVnZURqUFNnOXUtZ3hmQUNvRmxXQQ?oc=5\" target=\"_blank\">India-AI Impact Summit 2026: The complete guide for delegates and participants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQX05EakVYaEVPNlpOZUN6UEl1SXl4MDRBOGU5WThsZE5JSk9KcGFWTlVodHR3V1NNc2JXLWxkUVZrNG1jYUV5RWIwTFVsMUs2OXhmV1NER204Q281YUpqREVZWk5jMzgzd0tlejBMREZqcG9NNDR3VFNGOUpOXzdhN1NGaHhRLVFSMDlKazlwSTVDUXBzV3NEMnRjV3ZGTTNaZEZiSU9SeUNpaWNicUNqS000MW1xRXBHNFRCeUZiU2FqdVNoUVVZN21hMzB1dGgwSGJ3Tjhma1N5TDc5YmhaUWV4QjZpQ2x2OFRjcFpQZGxiZ0Z6OVZsN1pfS1BqYUJKOG96YmxLSVZzZjBXWDZwNTBTS1lBdUxxODhlSmJWT3paVEVKeTBHelY4Y1o4ZVQxd3czc1JwU0FCOFlscjRwcXdmc295TFNCOEwzLdIB0gJBVV95cUxNWEV6ZVRxd2dfdWZCYU42QUJacDJwQ3dVcHlURGc2OHBSTFpyNlczRldERlBSbHRqNFJ5Z05TY2RXWFF4UlFWa1VrUWJ6bEZfbzFwUURtdjBSMVo3WlZCZ211b0RtMi1VaHJkaFVRcXlsNG95OW5nTjE0blFkM3YyUFdwamRsRVB4ZlpSWlFNc0RaLWEwNHVSRl82eldlWmhfVlM5R0FMX1BBVnEyNl9XMUh4STFvYnAtZW9sa1NFMl9LOW9NWEJCeXlFVDgxaE00RUk0VTljb3ZrOFRYanVXWkNmZHJsdnR6b2t3cjI4dTREQTRQM3p2bERBMTVURUZISGpzaHNGZ2VicWpiUG9hdktUSldZZGI0THFTUXRmbnlRZEk4ZGhERGRwWTl2YjM0RjVocHR0WF9NSjhVQTVnZURqUFNnOXUtZ3hmQUNvRmxXQQ?oc=5",
+   "source_name": "CNBC TV18",
+   "source_domain": "cnbctv18.com",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Summit 2026: FITT–IIT Delhi leads global dialogue on the future of responsible and scalable AI at MIT Media Lab",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemN0NnhSeEVkUnowS0x2SGI1OWNoNGo0MUE3MWN3ZW1aeVcyN0M2bi1PYTZvakcxQXZwNmh4dEktVmZWci1mZHpJR1hUNTFyaU5oZlJ5ejhrdVRHQi1TckJvYTdkVUF0eHNneXFub2tlVXE5dDBoQkE2TDR4VXJycTZaVkV1c21sdnIwbnVFdm11cTVZNUoyQlRjcjZTeUZFUzVWTmtFcUhDMmYwbm5zTWRJUVRVdFhsMnU3VjBLN1ljOW5KdThvR3VIQ19NWFhmQzlDNnh0YkthV0xZRXZWdFpGZW5KRE1nRE85b3Rn?oc=5\" target=\"_blank\">India AI Summit 2026: FITT–IIT Delhi leads global dialogue on the future of responsible and scalable AI at MIT Media Lab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Edge Insights</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemN0NnhSeEVkUnowS0x2SGI1OWNoNGo0MUE3MWN3ZW1aeVcyN0M2bi1PYTZvakcxQXZwNmh4dEktVmZWci1mZHpJR1hUNTFyaU5oZlJ5ejhrdVRHQi1TckJvYTdkVUF0eHNneXFub2tlVXE5dDBoQkE2TDR4VXJycTZaVkV1c21sdnIwbnVFdm11cTVZNUoyQlRjcjZTeUZFUzVWTmtFcUhDMmYwbm5zTWRJUVRVdFhsMnU3VjBLN1ljOW5KdThvR3VIQ19NWFhmQzlDNnh0YkthV0xZRXZWdFpGZW5KRE1nRE85b3Rn?oc=5",
+   "source_name": "ET Edge Insights",
+   "source_domain": "etedge-insights.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI in exams: IIIT-Delhi pilots new model requiring students to submit prompts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlFOdmF5YThiT0hmTTMtRldTenpnUU5DT0lNYUhYTVIybGp4WXFhd3FKNHlxR2gtV1BsUVloNHNSQVdqMFI1eldaM1RJMWJiVjNZMkVweXI4b01kRWJ4eFVVMU95WVI5XzBIWi1jclIzeUt6MkJ5NFJmRzVGMkNPTUxYbEhTWFh5WHAwZDZZenhobFotejdYNG40aVF5dzlldXlWOVNKZHRIRWZHS09CRXFuVTdWS1R5QXdXd1R5UlBWeXk0emg0TGFfbk9rUdIB0wFBVV95cUxOcF9OM0lGdzJKNkNPWGs1R1FLazQtMjctZkNheE9MdDFhU3lEOVFBcVc1NWVvNE9pQ0FpWWNxcFp5LUVnTTd5Q21pcHk0eDVHMm9Da0xITmNwQjYwb2JjTW5EemM0WDVuTDdsUldsd3QtaUd2a2dVNm1FaS1NdEpZOVdFaWFONWdkNW9jaXdEcVBiM1BsczVWX2VBYjRRSXRTMXdKU3BuWjFUQzNFTW05RXBpV0hpbWpsZktFUjN1NU45ZDJxMktNX2xfeHBwSjRQVVVN?oc=5\" target=\"_blank\">AI in exams: IIIT-Delhi pilots new model requiring students to submit prompts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlFOdmF5YThiT0hmTTMtRldTenpnUU5DT0lNYUhYTVIybGp4WXFhd3FKNHlxR2gtV1BsUVloNHNSQVdqMFI1eldaM1RJMWJiVjNZMkVweXI4b01kRWJ4eFVVMU95WVI5XzBIWi1jclIzeUt6MkJ5NFJmRzVGMkNPTUxYbEhTWFh5WHAwZDZZenhobFotejdYNG40aVF5dzlldXlWOVNKZHRIRWZHS09CRXFuVTdWS1R5QXdXd1R5UlBWeXk0emg0TGFfbk9rUdIB0wFBVV95cUxOcF9OM0lGdzJKNkNPWGs1R1FLazQtMjctZkNheE9MdDFhU3lEOVFBcVc1NWVvNE9pQ0FpWWNxcFp5LUVnTTd5Q21pcHk0eDVHMm9Da0xITmNwQjYwb2JjTW5EemM0WDVuTDdsUldsd3QtaUd2a2dVNm1FaS1NdEpZOVdFaWFONWdkNW9jaXdEcVBiM1BsczVWX2VBYjRRSXRTMXdKU3BuWjFUQzNFTW05RXBpV0hpbWpsZktFUjN1NU45ZDJxMktNX2xfeHBwSjRQVVVN?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 01 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Finalists Announced for Three Flagship Global AI Impact Challenges under the India AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBCQUFlRWNGN1Y1aGk0LVQxWHZwdlUwUDFFVXl0cVBVbmhxbnlQMzlmSzl5UkRhMFd5dEdIc2JVUmJ4aGVCZWRFRVdnU1JOenJmc09kUXpGT0hqODRjRS1sQWxLdU5uR1NZNkpDcDQyZG1tMXFjbkllY01B?oc=5\" target=\"_blank\">Finalists Announced for Three Flagship Global AI Impact Challenges under the India AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCQUFlRWNGN1Y1aGk0LVQxWHZwdlUwUDFFVXl0cVBVbmhxbnlQMzlmSzl5UkRhMFd5dEdIc2JVUmJ4aGVCZWRFRVdnU1JOenJmc09kUXpGT0hqODRjRS1sQWxLdU5uR1NZNkpDcDQyZG1tMXFjbkllY01B?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Democratising AI in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8tWDE0aDI4QVVqTDBzM1I0aF9rY21vVGVTNUEtT1paMk5GRVUzSXk5THRCOFB3X2ZvbTQ1M2RRN1J6Q09JOVEyRnlPNHdIQWZyV2ZRcXpHS3pVbWdxbjZHeDljaFY0LVJSeDVvZ0ZWcWFxWUhQMTdDbmZn?oc=5\" target=\"_blank\">Democratising AI in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tWDE0aDI4QVVqTDBzM1I0aF9rY21vVGVTNUEtT1paMk5GRVUzSXk5THRCOFB3X2ZvbTQ1M2RRN1J6Q09JOVEyRnlPNHdIQWZyV2ZRcXpHS3pVbWdxbjZHeDljaFY0LVJSeDVvZ0ZWcWFxWUhQMTdDbmZn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Transforming Healthcare Delivery Through Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5\" target=\"_blank\">Transforming Healthcare Delivery Through Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI Impact Summit 2026: From Sam Altman to Sundar Pichai; Check full list of tech leaders coming to Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZlREcmZ0QnhzWlhWdVZtNVhhaGdxYUVYdml3dXJCUWlsdW14U1cyWnQyelZ5MjRSaVcyZ2JaSW5rZVJidTFDNHNXMWxERUZNQ2hZZmtMbFhua1M1bGVRNFNOMUthLVlibXVQR0NLUE9CclVlLXRLcUZjSmpKTmxmTll2UzZwdEYteGEzSXhzaFUxcU1MTy1MeEljMVRYaFhkdkdaUktwdEUwQmktNEh2Wjl2Vjh2ZzZMLXEzb2pVeTVzS0MzWlVCRU4wMGVoVUl3MlR4WmRPZElwVEg4SWhNSzMxN1lxUUpCa2hUNXBlcHh3MnBWdEp4UkJBVG3SAYICQVVfeXFMT1NYZElacU1rSWZ4QlhlaFNmWmxEOFNfOGI2ZktkR0cyWTRSSTdyNUdESk5jUGRJQzZmUXRsRFpYX0pKZkowZE0zUzVMTm5FdUo2cnVzbHJ2RWJ0YlBmY0tIZFh6YXFCcFRwWE1WcUJaZl9IUmh0VHB0dEtOdlNEcjZtWWc4eVN4cHUwUjRPVFByNzYtblBXUXhpTW93SGJkdHpsYld2d0pEX0pwelNLeUpxTUhsNG5xdFFKYXUwcDZXQkZyU1dsb0FQZVNULXA3RURNVE1UZG5MUk5xaUEtZ2tpcUduS0Rid2RLS0VTQWpyNGYyd25NcXpBSHJ0bXAteFNn?oc=5\" target=\"_blank\">AI Impact Summit 2026: From Sam Altman to Sundar Pichai; Check full list of tech leaders coming to Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZlREcmZ0QnhzWlhWdVZtNVhhaGdxYUVYdml3dXJCUWlsdW14U1cyWnQyelZ5MjRSaVcyZ2JaSW5rZVJidTFDNHNXMWxERUZNQ2hZZmtMbFhua1M1bGVRNFNOMUthLVlibXVQR0NLUE9CclVlLXRLcUZjSmpKTmxmTll2UzZwdEYteGEzSXhzaFUxcU1MTy1MeEljMVRYaFhkdkdaUktwdEUwQmktNEh2Wjl2Vjh2ZzZMLXEzb2pVeTVzS0MzWlVCRU4wMGVoVUl3MlR4WmRPZElwVEg4SWhNSzMxN1lxUUpCa2hUNXBlcHh3MnBWdEp4UkJBVG3SAYICQVVfeXFMT1NYZElacU1rSWZ4QlhlaFNmWmxEOFNfOGI2ZktkR0cyWTRSSTdyNUdESk5jUGRJQzZmUXRsRFpYX0pKZkowZE0zUzVMTm5FdUo2cnVzbHJ2RWJ0YlBmY0tIZFh6YXFCcFRwWE1WcUJaZl9IUmh0VHB0dEtOdlNEcjZtWWc4eVN4cHUwUjRPVFByNzYtblBXUXhpTW93SGJkdHpsYld2d0pEX0pwelNLeUpxTUhsNG5xdFFKYXUwcDZXQkZyU1dsb0FQZVNULXA3RURNVE1UZG5MUk5xaUEtZ2tpcUduS0Rid2RLS0VTQWpyNGYyd25NcXpBSHJ0bXAteFNn?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:32+00:00"
+  }
+ ]
+}

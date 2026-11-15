@@ -1,0 +1,120 @@
+{
+ "region": "West Bengal",
+ "group": "B",
+ "query": "(\"West Bengal\" OR Kolkata) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22West+Bengal%22+OR+Kolkata%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:17+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal: Modi's BJP conquers one of India's toughest political frontiers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5\" target=\"_blank\">West Bengal: Modi's BJP conquers one of India's toughest political frontiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Mon, 04 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "AI Video Shared as WB Education Minister Bratya Basu Taking Bribe Amid Elections",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUh0aGZIaXJRUGJ3Tk1ocXVTdXVPc2RITnUxTWVIWENseTMzVDdBdWhGWF9BQjU0amdCRDhVR0t6OFN0ZTU1bjNlTFFqQlBTYWFhcDJPTW9VTFZ4cDNwYUl3ckdod1FiTTF4bEZyWjNFcjdHeXotbm9FemF1UGRRdnptZV80WHc2WmdZQ19SdU02U3VVN3hwZ2xOaGVUWEI1bmZpS2hOeUg0RTk4NWRxNmdqR0g3VkHSAcQBQVVfeXFMUHZJRE5waWkxV1ZocjdndVFHOE5IRFExbTNfWUM1S1RHblBndy1XUmxhZDlIQWZpT1NFTzRvRnpaTjFjUG1qYWNtSkpvbUp4Rmd5dkU5UGNoZXdXVnZmYlFYUDdRZG9MRlVnVjg3Nzg1WDVQZXl0anNNWWlWeWkwdkV0OHhOSm44dTEwYnBOQTFON0c5VHpfazRfNFhnQVB6VXAtUjVvdEZxYlN4MDRqSV9OMlBwTTQxMkYwb1Z0RlFwR0FmeA?oc=5\" target=\"_blank\">AI Video Shared as WB Education Minister Bratya Basu Taking Bribe Amid Elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quint</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUh0aGZIaXJRUGJ3Tk1ocXVTdXVPc2RITnUxTWVIWENseTMzVDdBdWhGWF9BQjU0amdCRDhVR0t6OFN0ZTU1bjNlTFFqQlBTYWFhcDJPTW9VTFZ4cDNwYUl3ckdod1FiTTF4bEZyWjNFcjdHeXotbm9FemF1UGRRdnptZV80WHc2WmdZQ19SdU02U3VVN3hwZ2xOaGVUWEI1bmZpS2hOeUg0RTk4NWRxNmdqR0g3VkHSAcQBQVVfeXFMUHZJRE5waWkxV1ZocjdndVFHOE5IRFExbTNfWUM1S1RHblBndy1XUmxhZDlIQWZpT1NFTzRvRnpaTjFjUG1qYWNtSkpvbUp4Rmd5dkU5UGNoZXdXVnZmYlFYUDdRZG9MRlVnVjg3Nzg1WDVQZXl0anNNWWlWeWkwdkV0OHhOSm44dTEwYnBOQTFON0c5VHpfazRfNFhnQVB6VXAtUjVvdEZxYlN4MDRqSV9OMlBwTTQxMkYwb1Z0RlFwR0FmeA?oc=5",
+   "source_name": "The Quint",
+   "source_domain": "thequint.com",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Google in talks to build major tech hub in West Bengal, boosting India’s AI push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQakhOQ09jaG9TakR1YXN4WTNwS2Z4Qnd3bTBSdV9HWGYySWpvLXZtSHdMR1B2MkFMcDhtTWc5MG55bjc0X0FPR1dPVE5iX1J2M21pZk5HWWF6eWk2UFZGbUlLaHRSSEtKeVNHSzVOMFNRbERPZ2lZSkV5SGpzRTdVSnhhTEozajhueklqTW5RYzBwTnEzWFNZMWJLcUJCSUd0R1Jzal9XLVpLRDVwazVuSDhSWmdEWjJPQzU2WXBuQWhKa2l5TFNLR3YyTjR2V2fSAdQBQVVfeXFMTTJ3a3YwSWtSVndaZlBZVExTdHBURkhXOU9CNUVBOURuWENQUnd2WGpURmdfcUV4TzRxOHh4bzIxSkJ5Y2s1djV0TDV3LU9NT3FLUkRCZ2JpZFFpd24wQVBDczU2aE9zSmRVemUyS3FUaXZ4SWxta3lDckFyZEpVTTBfRk1BOFQ0MnpfQ1dJdEdZT0RsdFROT3hzUEQzNTZjYkRLY0hicE1SREhRU3B4QmtHTHBOeVpWM1Q0X1N2YUlRbzR3SHVsOUcycDB6bWE4QTE2RDQ?oc=5\" target=\"_blank\">Google in talks to build major tech hub in West Bengal, boosting India’s AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakhOQ09jaG9TakR1YXN4WTNwS2Z4Qnd3bTBSdV9HWGYySWpvLXZtSHdMR1B2MkFMcDhtTWc5MG55bjc0X0FPR1dPVE5iX1J2M21pZk5HWWF6eWk2UFZGbUlLaHRSSEtKeVNHSzVOMFNRbERPZ2lZSkV5SGpzRTdVSnhhTEozajhueklqTW5RYzBwTnEzWFNZMWJLcUJCSUd0R1Jzal9XLVpLRDVwazVuSDhSWmdEWjJPQzU2WXBuQWhKa2l5TFNLR3YyTjR2V2fSAdQBQVVfeXFMTTJ3a3YwSWtSVndaZlBZVExTdHBURkhXOU9CNUVBOURuWENQUnd2WGpURmdfcUV4TzRxOHh4bzIxSkJ5Y2s1djV0TDV3LU9NT3FLUkRCZ2JpZFFpd24wQVBDczU2aE9zSmRVemUyS3FUaXZ4SWxta3lDckFyZEpVTTBfRk1BOFQ0MnpfQ1dJdEdZT0RsdFROT3hzUEQzNTZjYkRLY0hicE1SREhRU3B4QmtHTHBOeVpWM1Q0X1N2YUlRbzR3SHVsOUcycDB6bWE4QTE2RDQ?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Tue, 12 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "BJP names Suvendu Adhikari West Bengal chief minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQjhwVUJnelI0cEhoQWxac1FFWEZjNVF3dENVZmg0YUJZX3p5S0J6b0lUY2IycWtJXzFaRnBGZ1E4eHhVY2liaDVtZEllMHdMXzh1UDVzQ01uZw?oc=5\" target=\"_blank\">BJP names Suvendu Adhikari West Bengal chief minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQjhwVUJnelI0cEhoQWxac1FFWEZjNVF3dENVZmg0YUJZX3p5S0J6b0lUY2IycWtJXzFaRnBGZ1E4eHhVY2liaDVtZEllMHdMXzh1UDVzQ01uZw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Fri, 08 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Who will be West Bengal’s next CM? Buzz grows as Samik Bhattacharya, Suvendu Adhikari could be asked to s",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNOEstck1NcUtsVU54OXNIZTRtd3plVDJmdWVkZWREWi14LTMwc3JxU2RlN0hFNER3VFM2cnRrU3U1TXZGRlpKcmJvMXRZV3FGc3VxcVRCZU9XVGk0VmlOX1Y0UllXR3J0V1E1RGJCenVDREo4ZUs1VXdHNUt2UFdLcDMzaGRDTk1LU0xoejBHX0FUR0VYOFg5MGl0VEJacDZOYWlnSW9Ia2E5cDN5M0hHbk1xYTg3cTlOTWxENDBBbUpZejBKVTZQTjdFdUQzX0FrSDNEa0ptdG8yVC04OVU4NW5ObEhTWG9HOHVkLVNPMEZEdk9fbVp4NzFuTjNEZl9FSnNnNDNUM050UDFz0gGSAkFVX3lxTE1MRWpOTHVGbEZnSGZxMEswV00xVnA1dGZBblBrdWdKaTJGTjJaLU1ld3Z0dFNqMHFZcjdZbl95TmFQcWwyMEhQVi1YSUMtYUR5RExJMENxYUx4NkJ4bXpQWnhJcFBtQnZuS1h4UzJDN3VkeFAyTlBfYkJKTkk3Mm84TzJtZHczand3SUZsSlgyd0ZOaXB3STFXUGprOFBRMDNHUHJ1NGwyLTB0Y3pMVzFtSjBadDZsaGRmSkV0ajNzTWZmdzJONUs2MU11dEZCSnNIV3pfandScWJDVXFuak9FQnZTRXZrY2NJdUdOQVFGZGZtM2xyVlBkNk9QdW5BYTlrcW42S2l2X3Q3WG1JRzNzN1E?oc=5\" target=\"_blank\">Who will be West Bengal’s next CM? Buzz grows as Samik Bhattacharya, Suvendu Adhikari could be asked to s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOEstck1NcUtsVU54OXNIZTRtd3plVDJmdWVkZWREWi14LTMwc3JxU2RlN0hFNER3VFM2cnRrU3U1TXZGRlpKcmJvMXRZV3FGc3VxcVRCZU9XVGk0VmlOX1Y0UllXR3J0V1E1RGJCenVDREo4ZUs1VXdHNUt2UFdLcDMzaGRDTk1LU0xoejBHX0FUR0VYOFg5MGl0VEJacDZOYWlnSW9Ia2E5cDN5M0hHbk1xYTg3cTlOTWxENDBBbUpZejBKVTZQTjdFdUQzX0FrSDNEa0ptdG8yVC04OVU4NW5ObEhTWG9HOHVkLVNPMEZEdk9fbVp4NzFuTjNEZl9FSnNnNDNUM050UDFz0gGSAkFVX3lxTE1MRWpOTHVGbEZnSGZxMEswV00xVnA1dGZBblBrdWdKaTJGTjJaLU1ld3Z0dFNqMHFZcjdZbl95TmFQcWwyMEhQVi1YSUMtYUR5RExJMENxYUx4NkJ4bXpQWnhJcFBtQnZuS1h4UzJDN3VkeFAyTlBfYkJKTkk3Mm84TzJtZHczand3SUZsSlgyd0ZOaXB3STFXUGprOFBRMDNHUHJ1NGwyLTB0Y3pMVzFtSjBadDZsaGRmSkV0ajNzTWZmdzJONUs2MU11dEZCSnNIV3pfandScWJDVXFuak9FQnZTRXZrY2NJdUdOQVFGZGZtM2xyVlBkNk9QdW5BYTlrcW42S2l2X3Q3WG1JRzNzN1E?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBKOUJIMS01NUw4VnRDUlRMVnBVaFdpTDczRDBmVDQtTHZSY1VkekFJdDJYNERuT0NJQzVuQmptZDZSQXd4dVozWjdJdF9qZ2xqbnU0VVE0WlEyQWQtX2tSTEdMTWZVZ3NZOVptVXdlN2RoclBfNmtn?oc=5\" target=\"_blank\">How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingcat</font>",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKOUJIMS01NUw4VnRDUlRMVnBVaFdpTDczRDBmVDQtTHZSY1VkekFJdDJYNERuT0NJQzVuQmptZDZSQXd4dVozWjdJdF9qZ2xqbnU0VVE0WlEyQWQtX2tSTEdMTWZVZ3NZOVptVXdlN2RoclBfNmtn?oc=5",
+   "source_name": "Bellingcat",
+   "source_domain": "bellingcat.com",
+   "published_raw": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal, Tamil Nadu election: High-stakes contest in India amid SIR row",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uSlNnOGlFVFlrQVdOM0VMQW5xeDV3eWJSZzZ5a0VtVVhWVGJZN05ySFFXYjBJdXljS01IendZaXI4M0R1RlNsdkozZ01FN1hXMG5McnpITXpZQQ?oc=5\" target=\"_blank\">West Bengal, Tamil Nadu election: High-stakes contest in India amid SIR row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uSlNnOGlFVFlrQVdOM0VMQW5xeDV3eWJSZzZ5a0VtVVhWVGJZN05ySFFXYjBJdXljS01IendZaXI4M0R1RlNsdkozZ01FN1hXMG5McnpITXpZQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Thu, 23 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Mamata Banerjee, West Bengal election results 2026: India’s fiercest female politician faces a fight for survival",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYXVBRUwxTzZWQnIxcjMwdHJ0UWMxOGRqYl9HYTlmX3RlRUdFUGZEUEg0ZmVYOVZZYVJkdUJyT3N6ZExzVWlSc183ZzA2MF9CUWtuelFTY3NTQQ?oc=5\" target=\"_blank\">Mamata Banerjee, West Bengal election results 2026: India’s fiercest female politician faces a fight for survival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYXVBRUwxTzZWQnIxcjMwdHJ0UWMxOGRqYl9HYTlmX3RlRUdFUGZEUEg0ZmVYOVZZYVJkdUJyT3N6ZExzVWlSc183ZzA2MF9CUWtuelFTY3NTQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "SIR in West Bengal: How exclusion of nine million voters could shape state politics",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTUR0bVVPX0U1ajR2Wm9GaDdzYVF0Vk8wZXd1UXh5bXhVSHR6UGhRWlkxZjJsVS1iUnJUSm5zM3NHc0V6ZlRCU0xtNVFWbVlBV1VYZFNGUV9IUQ?oc=5\" target=\"_blank\">SIR in West Bengal: How exclusion of nine million voters could shape state politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTUR0bVVPX0U1ajR2Wm9GaDdzYVF0Vk8wZXd1UXh5bXhVSHR6UGhRWlkxZjJsVS1iUnJUSm5zM3NHc0V6ZlRCU0xtNVFWbVlBV1VYZFNGUV9IUQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Sun, 12 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "I asked ChatGPT, ‘Who’ll be next West Bengal CM?’: AI predicts BJP’s choice for its first chief minister in the state",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNWTk4a044OE5GNmlELXcydjhGRmRoS0tBOFg3Wkk0MzNGN0ZmN25KdmViX3ZMTExvTXVtMHNLOXBwYXhqT3VQdDlTMEtLV0M3ckhLUFRsUzM2VjFwUmtCNDM4M2M0czZOTDltM2ZfZXdzNlM5aTh1aWpJLXhqV0otVmQ5Wk9mdzZZdFhPT1kwYWJtSW9KSi1wbnZyMkYybUN1LVJsZmlDQkYyOVhJNWx4TUVSY0hsZUttVFN0c0pfRzNoRUlSYUxEZTROaDlCV0ZNWDZXQkgxTE9MS2k2VlNzdW5tMnFUcVBsOGM5b2ZtOGRfeUdXeVJHSVRlaktxRTJmMmxJUtIBigJBVV95cUxOa2tjOU1oQ1BZUVJOQ2JISmxMUG9hLTV2YjlZOGM0STZMOHNYMjZiRkFHTVREdVdraHdjR0FsbEpOd21EemtxNFRSWVJxdVZPYTJmZWwwVzM5Nk1QWlFCd0tGWHNSa24teGZPUnFFOURXU0tKUHF1eG15N3NRcWtCc21hb2dqQjV5SURXQTVscmRBMUdiYmtqZGpsWW5GdWVMV2Fvb2liQ0t5NTNSUHJoc1RiUU9WNUtNRzFfQXhGMUNsN0YtNmNOQ3hsdnByX0RTZnZRajVxOEg0MVVqTnFLRDd0Snd2dWhKUk1qQkUzSzk5TGF1VVd0d1F3LXZfV2lzRVcyQUdSamVRZw?oc=5\" target=\"_blank\">I asked ChatGPT, ‘Who’ll be next West Bengal CM?’: AI predicts BJP’s choice for its first chief minister in the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWTk4a044OE5GNmlELXcydjhGRmRoS0tBOFg3Wkk0MzNGN0ZmN25KdmViX3ZMTExvTXVtMHNLOXBwYXhqT3VQdDlTMEtLV0M3ckhLUFRsUzM2VjFwUmtCNDM4M2M0czZOTDltM2ZfZXdzNlM5aTh1aWpJLXhqV0otVmQ5Wk9mdzZZdFhPT1kwYWJtSW9KSi1wbnZyMkYybUN1LVJsZmlDQkYyOVhJNWx4TUVSY0hsZUttVFN0c0pfRzNoRUlSYUxEZTROaDlCV0ZNWDZXQkgxTE9MS2k2VlNzdW5tMnFUcVBsOGM5b2ZtOGRfeUdXeVJHSVRlaktxRTJmMmxJUtIBigJBVV95cUxOa2tjOU1oQ1BZUVJOQ2JISmxMUG9hLTV2YjlZOGM0STZMOHNYMjZiRkFHTVREdVdraHdjR0FsbEpOd21EemtxNFRSWVJxdVZPYTJmZWwwVzM5Nk1QWlFCd0tGWHNSa24teGZPUnFFOURXU0tKUHF1eG15N3NRcWtCc21hb2dqQjV5SURXQTVscmRBMUdiYmtqZGpsWW5GdWVMV2Fvb2liQ0t5NTNSUHJoc1RiUU9WNUtNRzFfQXhGMUNsN0YtNmNOQ3hsdnByX0RTZnZRajVxOEg0MVVqTnFLRDd0Snd2dWhKUk1qQkUzSzk5TGF1VVd0d1F3LXZfV2lzRVcyQUdSamVRZw?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Wed, 06 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:17+00:00"
+  }
+ ]
+}

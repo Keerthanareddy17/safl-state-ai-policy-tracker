@@ -1,0 +1,131 @@
+{
+ "region": "Gujarat",
+ "group": "B",
+ "query": "(Gujarat OR Gandhinagar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Gujarat+OR+Gandhinagar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:09+00:00",
+ "item_count": 11,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Viksit Gujarat Data Center Policy 2026-29 Launched to Build a Leading Data Center Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUFnYVM1Ymt1dndfeXg3UzMxeGRySk1QZFFndk9aaTNicFB6czBPUnFmSV9hamtyMEFIXzhGWW5iQUNLVHZrbVVIVW1lUXVOb1pKOUhXZzJvQ3ZWcktNbVdpTmZnQl9jZTcyYVJfN2lQU0NqY00tdWtiTmFrVGtfSnhETWlWM1VFeGc?oc=5\" target=\"_blank\">Viksit Gujarat Data Center Policy 2026-29 Launched to Build a Leading Data Center Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMO Gujarat</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUFnYVM1Ymt1dndfeXg3UzMxeGRySk1QZFFndk9aaTNicFB6czBPUnFmSV9hamtyMEFIXzhGWW5iQUNLVHZrbVVIVW1lUXVOb1pKOUhXZzJvQ3ZWcktNbVdpTmZnQl9jZTcyYVJfN2lQU0NqY00tdWtiTmFrVGtfSnhETWlWM1VFeGc?oc=5",
+   "source_name": "CMO Gujarat",
+   "source_domain": "cmogujarat.gov.in",
+   "published_raw": "Thu, 09 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat aims to become India’s leading data centre and AI hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk5lQW1CTW11RTVvOGd0b2pQU3lYOFA3dUdodF9COWhDZ2hYcGJQNEZyTjF4Vm1iTDJzbTRhcEZjVHhkS3A4MVBOdkEzQWNqTzhEYmRNalc1UDRTaTF2V1R1WFJnRHZtYkJoeHlRQ0RXNUk5eE43cGJ1NUVHZUtmNnQydkhILU1vMXVyY2xfQQ?oc=5\" target=\"_blank\">Gujarat aims to become India’s leading data centre and AI hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk5lQW1CTW11RTVvOGd0b2pQU3lYOFA3dUdodF9COWhDZ2hYcGJQNEZyTjF4Vm1iTDJzbTRhcEZjVHhkS3A4MVBOdkEzQWNqTzhEYmRNalc1UDRTaTF2V1R1WFJnRHZtYkJoeHlRQ0RXNUk5eE43cGJ1NUVHZUtmNnQydkhILU1vMXVyY2xfQQ?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Thu, 09 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Government of Gujarat, IAIRO and IBM Announce Plans for an Industrial Artificial Intelligence Centre of Excellence in Gujarat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTY0UEM0UTA1THEza3NPQnYwV1d1djJJOERfWFlpT2R5Uy1xNndiazdyOUh0WmZXdzk4T1Jmd2xIT3BVRTBCZ0pPVXktaG1QX1cyUFF6aGV4VUwxdTRfdldwY0F2dmg2WUNEbHVqSFB1elNhVmVvbnFGZ21HYXd4b1hpUHhRRnpTbGFRY1k0UEVtX0lHb3FzWnNlU2FxR25UcWpVMGdBQjBuN05mR3hDY0puOXZVNmpzdG1R?oc=5\" target=\"_blank\">Government of Gujarat, IAIRO and IBM Announce Plans for an Industrial Artificial Intelligence Centre of Excellence in Gujarat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaTY0UEM0UTA1THEza3NPQnYwV1d1djJJOERfWFlpT2R5Uy1xNndiazdyOUh0WmZXdzk4T1Jmd2xIT3BVRTBCZ0pPVXktaG1QX1cyUFF6aGV4VUwxdTRfdldwY0F2dmg2WUNEbHVqSFB1elNhVmVvbnFGZ21HYXd4b1hpUHhRRnpTbGFRY1k0UEVtX0lHb3FzWnNlU2FxR25UcWpVMGdBQjBuN05mR3hDY0puOXZVNmpzdG1R?oc=5",
+   "source_name": "IBM",
+   "source_domain": "in.newsroom.ibm.com",
+   "published_raw": "Mon, 29 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat launches first Data Centre Policy, targets ₹6 lakh crore investments and 7.5 GW capacity",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSHFkdWluUk03VG1zRUJ1TGdGbU12dEs3V3M1NkNzaEYyNlB5aENWUy1CWFBBZjNzWWtMRllydGdQbDNZUVhfa01ydFFfTU5wS1ZiNkVkdWtKQ1IxTUlDaXlHSWk0SDBiUjhwZFd0WE1TMTFRa1FZUkI2M1c3bmQ0Si1LUFZiRi1oTkJCUVZHVjVJbWxLVFZWTUZjNTRxSy1tSXp6N0xCQm1pMWM1ZXB0VGdqRVJFM2dxUEViUmhYQmFsY2I0YnN0LThXbUVMZXVxMDhobDdZaWZFQ25yZ1JObm1yS1k1cmVXX2d5N21YX3NQUdIB-AFBVV95cUxPbXZWUGRPNFFoaTNqN0FERDlwWWp5X2I0d1BpX0dXMHIxaU9GQUs3cng2MlpFVkRUemZPeDYzZ01OM2xORGN5bVNmbGpjcFVMM0dxTWI2Z0dOX2t5MjVTM19URWFsZVJpWlVWMHMzXy1IMmQycC14MlBPV3RvMlNmWW10Nzd5UTUxUWtMLUdpWW8ybjd4TEM0d2thQU5SdUpsYTZFRzdlZUJQajVkbEpwUkIyWmEzM1J0NTRaenk3M3huYmwzS0FadWNaaUhxSndzc3ZfZ2RYTmd6ZmdaWWQ0d25KUHNWTWk3Q1BpOXVPSTEwWHZ3eExxSw?oc=5\" target=\"_blank\">Gujarat launches first Data Centre Policy, targets ₹6 lakh crore investments and 7.5 GW capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSHFkdWluUk03VG1zRUJ1TGdGbU12dEs3V3M1NkNzaEYyNlB5aENWUy1CWFBBZjNzWWtMRllydGdQbDNZUVhfa01ydFFfTU5wS1ZiNkVkdWtKQ1IxTUlDaXlHSWk0SDBiUjhwZFd0WE1TMTFRa1FZUkI2M1c3bmQ0Si1LUFZiRi1oTkJCUVZHVjVJbWxLVFZWTUZjNTRxSy1tSXp6N0xCQm1pMWM1ZXB0VGdqRVJFM2dxUEViUmhYQmFsY2I0YnN0LThXbUVMZXVxMDhobDdZaWZFQ25yZ1JObm1yS1k1cmVXX2d5N21YX3NQUdIB-AFBVV95cUxPbXZWUGRPNFFoaTNqN0FERDlwWWp5X2I0d1BpX0dXMHIxaU9GQUs3cng2MlpFVkRUemZPeDYzZ01OM2xORGN5bVNmbGpjcFVMM0dxTWI2Z0dOX2t5MjVTM19URWFsZVJpWlVWMHMzXy1IMmQycC14MlBPV3RvMlNmWW10Nzd5UTUxUWtMLUdpWW8ybjd4TEM0d2thQU5SdUpsYTZFRzdlZUJQajVkbEpwUkIyWmEzM1J0NTRaenk3M3huYmwzS0FadWNaaUhxSndzc3ZfZ2RYTmd6ZmdaWWQ0d25KUHNWTWk3Q1BpOXVPSTEwWHZ3eExxSw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 09 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat govt to rebuild hostel damaged in AI-171 crash; victims' kin seek memorial at site",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOVTA3MFd5X0Q3Yno0UkFESDYwaVdORWczUFptUjZ1ZFRhb193WFdJaTZhS2dlUzlWMGZGS2JhZzZOUmM3Q0xXcnFyUzBqc2xfVmpad19uSHpvYnhoV3VvQ0N1N3dkYjBlTHZjaFBmemxFLUJtRGJUS05iOExheEFPQnRoY1d4OFBfMi01MnVIcVVzTU0yaXR3SHBMcko1ZDlsaEJwU29VMjdlWkNkdnllTWltR1JUZTUxUjF2bmRFN3hNb2hZa0dPSnlERQ?oc=5\" target=\"_blank\">Gujarat govt to rebuild hostel damaged in AI-171 crash; victims' kin seek memorial at site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVTA3MFd5X0Q3Yno0UkFESDYwaVdORWczUFptUjZ1ZFRhb193WFdJaTZhS2dlUzlWMGZGS2JhZzZOUmM3Q0xXcnFyUzBqc2xfVmpad19uSHpvYnhoV3VvQ0N1N3dkYjBlTHZjaFBmemxFLUJtRGJUS05iOExheEFPQnRoY1d4OFBfMi01MnVIcVVzTU0yaXR3SHBMcko1ZDlsaEJwU29VMjdlWkNkdnllTWltR1JUZTUxUjF2bmRFN3hNb2hZa0dPSnlERQ?oc=5",
+   "source_name": "Deccan Herald",
+   "source_domain": "deccanherald.com",
+   "published_raw": "Wed, 27 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat Partners with IBM to Launch Industrial AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1sRWJKRXFMVklwa2hfaVFQTnpaam42ak10RXFvTnJRM0tObkZVN3Q5bUpUMlVad1hUUTBiMTNxWkhibktuTVdZejF5b044QzJxenlnWmdlNmZjaGMxWGFkVFNNdzBBNzNMR0o1UDFQZl9hcnc?oc=5\" target=\"_blank\">Gujarat Partners with IBM to Launch Industrial AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sRWJKRXFMVklwa2hfaVFQTnpaam42ak10RXFvTnJRM0tObkZVN3Q5bUpUMlVad1hUUTBiMTNxWkhibktuTVdZejF5b044QzJxenlnWmdlNmZjaGMxWGFkVFNNdzBBNzNMR0o1UDFQZl9hcnc?oc=5",
+   "source_name": "The 420.in",
+   "source_domain": "the420.in",
+   "published_raw": "Mon, 29 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat Government and Meta partner to advance digital governance and AI accessibility",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnFmODdYbjloVm1kN2NvWmVXaDZUdVo3YnNBcmd2aDJFRmtDUERRd003SEIzOFRXSTBuM2NBUTlJZV9ESGdqS1IxaWZKbm9aeUU0ZXRxeHVmcnJ4cEJMbE9fMlZOMkRTTW9HRHBBMXR3NXBzNWlEanQwMm9sZDZiUE5LMnNGaDNwWU1jNGh4VEhrZ0VhZ0Eyb1ZYYzF1RWN5N0HSAacBQVVfeXFMT054c3BIR25yWVVZZEk3YmdnQzNwdnJHUkdJem5ndlhPV2FDLXNhMnNZZE9UTWxrbTdtbWNKcUVJelZoVzA4MFpuSTE0R0x1QmNmeTM5VUVfVDRoMEdXU29rMWFUVGIzT1hWdG9oRDRjVjQ1eVFCWGhwN0hveU5TTEljM3NyYTdvM2tMYUhoSUFsdk5RSV9JQkRaQ1ZyRFd6WFpXa1NqeWM?oc=5\" target=\"_blank\">Gujarat Government and Meta partner to advance digital governance and AI accessibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FoneArena.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnFmODdYbjloVm1kN2NvWmVXaDZUdVo3YnNBcmd2aDJFRmtDUERRd003SEIzOFRXSTBuM2NBUTlJZV9ESGdqS1IxaWZKbm9aeUU0ZXRxeHVmcnJ4cEJMbE9fMlZOMkRTTW9HRHBBMXR3NXBzNWlEanQwMm9sZDZiUE5LMnNGaDNwWU1jNGh4VEhrZ0VhZ0Eyb1ZYYzF1RWN5N0HSAacBQVVfeXFMT054c3BIR25yWVVZZEk3YmdnQzNwdnJHUkdJem5ndlhPV2FDLXNhMnNZZE9UTWxrbTdtbWNKcUVJelZoVzA4MFpuSTE0R0x1QmNmeTM5VUVfVDRoMEdXU29rMWFUVGIzT1hWdG9oRDRjVjQ1eVFCWGhwN0hveU5TTEljM3NyYTdvM2tMYUhoSUFsdk5RSV9JQkRaQ1ZyRFd6WFpXa1NqeWM?oc=5",
+   "source_name": "FoneArena.com",
+   "source_domain": "fonearena.com",
+   "published_raw": "Mon, 25 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "CBSE and IIT Gandhinagar Launch New Season of 3030 Eklavya on Computational Thinking, AI and STEM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmF4d1AxMTloNWRrcFd1MVJobmZ1ZkVCZ0Z5WFVERDhxem4tTGhZNHJvbmhBdTBaUThBMm5ueEZvcjAwMnV4a19tTXFvZEk4aDJjQ3hZelBuUnFaSER3ZEtvTzNIWkpOWjh3ZUUtR21oQjJKa1VDTDQ4WVBJYUpZNmExcVEtOWVPVkhIVnVhWnMxd3NPcjRCVW0zTWdHdDVQMFRRS3FfUXFoWG9ibWUyMlk0T1lna1BQa0U2UDR4TDJkT25KSjNZ?oc=5\" target=\"_blank\">CBSE and IIT Gandhinagar Launch New Season of 3030 Eklavya on Computational Thinking, AI and STEM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Education Diary</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmF4d1AxMTloNWRrcFd1MVJobmZ1ZkVCZ0Z5WFVERDhxem4tTGhZNHJvbmhBdTBaUThBMm5ueEZvcjAwMnV4a19tTXFvZEk4aDJjQ3hZelBuUnFaSER3ZEtvTzNIWkpOWjh3ZUUtR21oQjJKa1VDTDQ4WVBJYUpZNmExcVEtOWVPVkhIVnVhWnMxd3NPcjRCVW0zTWdHdDVQMFRRS3FfUXFoWG9ibWUyMlk0T1lna1BQa0U2UDR4TDJkT25KSjNZ?oc=5",
+   "source_name": "India Education Diary",
+   "source_domain": "indiaeducationdiary.in",
+   "published_raw": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "AI-171 crash site to get new hostel, Gujarat govt announces plan amid victims' kin memorial demand",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMWxhSEY3OFVxNUVZX2haQk5rQUVrTU91SlFmMEVZR2phNmxWUkxSb0ZZaGJ1cFRZQXJtQjNlcEZhUjdPTFR1S21mSXRqZi1VY1JfWmhLOEFFMXB4aU8xdHhqNUFoc2VPWFBBYWNaMGtZTVc2ckhHNS1Ed3hJdjZoazF3TEdzZnhfaE9YVHRwVlMtaUhsdEFiM1Z4Y2VYY3ZpVDB0YVVkRzJFaGo2UnRRYXlwR1dQdzZGZ19GbTAzXzNJMTc5cVU0S3hKTXJfQWJMUVhlOXJMTmgyUENKWUZqUEtGSlZtUdIB6wFBVV95cUxQQ29SSkFSdUNoaVVxVXIyY1lublhGQm1PaDU2V1JTNjJxZWU1UDlEaUJGMEpqTUlqV05YSVRDV1hpUnl1V3NMUFNKQVdqM3NGMnVUdHIwMDd2RktIRlhSanI1S2JEaGtzUFdpSnlMa3VGR0JSVzJfWVVFekt1NHNlVzJoRlNfNXpWUVh1aDFtc3NVMUV5Wm1PNjRodHpiUVJOVmt0Y3NtVl9QU0pIdzk0M29xbGVyajA4NmtMejhWLXIxcWI4V2dBMGV5Wmh1VmhxclhBSXhvNDQxcmNwVldxaHZPVmlWSjBvT0tn?oc=5\" target=\"_blank\">AI-171 crash site to get new hostel, Gujarat govt announces plan amid victims' kin memorial demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMWxhSEY3OFVxNUVZX2haQk5rQUVrTU91SlFmMEVZR2phNmxWUkxSb0ZZaGJ1cFRZQXJtQjNlcEZhUjdPTFR1S21mSXRqZi1VY1JfWmhLOEFFMXB4aU8xdHhqNUFoc2VPWFBBYWNaMGtZTVc2ckhHNS1Ed3hJdjZoazF3TEdzZnhfaE9YVHRwVlMtaUhsdEFiM1Z4Y2VYY3ZpVDB0YVVkRzJFaGo2UnRRYXlwR1dQdzZGZ19GbTAzXzNJMTc5cVU0S3hKTXJfQWJMUVhlOXJMTmgyUENKWUZqUEtGSlZtUdIB6wFBVV95cUxQQ29SSkFSdUNoaVVxVXIyY1lublhGQm1PaDU2V1JTNjJxZWU1UDlEaUJGMEpqTUlqV05YSVRDV1hpUnl1V3NMUFNKQVdqM3NGMnVUdHIwMDd2RktIRlhSanI1S2JEaGtzUFdpSnlMa3VGR0JSVzJfWVVFekt1NHNlVzJoRlNfNXpWUVh1aDFtc3NVMUV5Wm1PNjRodHpiUVJOVmt0Y3NtVl9QU0pIdzk0M29xbGVyajA4NmtMejhWLXIxcWI4V2dBMGV5Wmh1VmhxclhBSXhvNDQxcmNwVldxaHZPVmlWSjBvT0tn?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Wed, 27 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat govt taps Meta for AI-led governance push, digital citizen services on WhatsApp",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNallZbVVIZEM1ZWlRczhqZGY2cjVzTTlUb0dfb3NZSmFvQzQ1RFc0QXVOOEttWFRXRFhTeml5SjMtdTlSMlVWQnV4bHgwYjhRekloZWpCMlQ1ZFdiZG9haFRsbEJTd3RfbkJmZTVMdHBRc1h5V3lXUDN0SlFxS09XTERJdkxoeFd0dnVNMnp1SHhLV09Dc0NOeTN3Sm84RUxvY1ozV05fMlhYSHI4akxBUm5CNE96M2xPbkJjdFhpanJ4Q3d0ZDhSaHBBTnVuamd5OTRmMVFQOFFyRVhsUDFXZzVERkVwSDIwWFFJ0gHwAUFVX3lxTFBZWXpLM1MtWEdtUVpONFdGSkNDeHM0Z0tBci1mTDZMUDVadWhvaTNycnF3QXV0S3F0VWhueXhlNmgwVVAzc19RZ2xiN2xRUm5EY3FyLVFXdGZuUktxVmllcG9mZGdDMC1hb2t5RXFYdnlvY2RvNWpwMEJ0ZDd3bFdQYUMzTGZPa2dWN0ZjaTVVRjhfanNyRTZaRnhDMndSeTZGSzA2MmFQTHhuRy1iOUV1NVJLS0d3bjFTT3pJbU9tUjhfZlBNVXROdXhZdEYyTGFWNFhySzVsLU16SFdxcm9HbXFjNzdoejNsS0IwU2RJVw?oc=5\" target=\"_blank\">Gujarat govt taps Meta for AI-led governance push, digital citizen services on WhatsApp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNallZbVVIZEM1ZWlRczhqZGY2cjVzTTlUb0dfb3NZSmFvQzQ1RFc0QXVOOEttWFRXRFhTeml5SjMtdTlSMlVWQnV4bHgwYjhRekloZWpCMlQ1ZFdiZG9haFRsbEJTd3RfbkJmZTVMdHBRc1h5V3lXUDN0SlFxS09XTERJdkxoeFd0dnVNMnp1SHhLV09Dc0NOeTN3Sm84RUxvY1ozV05fMlhYSHI4akxBUm5CNE96M2xPbkJjdFhpanJ4Q3d0ZDhSaHBBTnVuamd5OTRmMVFQOFFyRVhsUDFXZzVERkVwSDIwWFFJ0gHwAUFVX3lxTFBZWXpLM1MtWEdtUVpONFdGSkNDeHM0Z0tBci1mTDZMUDVadWhvaTNycnF3QXV0S3F0VWhueXhlNmgwVVAzc19RZ2xiN2xRUm5EY3FyLVFXdGZuUktxVmllcG9mZGdDMC1hb2t5RXFYdnlvY2RvNWpwMEJ0ZDd3bFdQYUMzTGZPa2dWN0ZjaTVVRjhfanNyRTZaRnhDMndSeTZGSzA2MmFQTHhuRy1iOUV1NVJLS0d3bjFTT3pJbU9tUjhfZlBNVXROdXhZdEYyTGFWNFhySzVsLU16SFdxcm9HbXFjNzdoejNsS0IwU2RJVw?oc=5",
+   "source_name": "Business Today",
+   "source_domain": "businesstoday.in",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat govt to build medical college hostels damaged in AI-171 crash: Minister | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmVRSU1VVVFhRkVJRGZnNHRjaE5tYmZUM1ZLeGxXZFVzM0VHV1FtOXgzWVI3WjVOOWstZU5SQ3dmczhaWFN0SXZ1ZXNFU19xbFFJRndLM3lvWHBsZ3kxeGN0S1h0ckItem53SXNtX1lNNkw3b3BpOVdOYmNBQ0toTWFCRm04c1plWDN4Rnpyb3pYdWs2WVp1SFk0cnJ6aHpmOXNRVTBQV1EwWTFUdF9IQ19PSEZ6T0NZaTZTbVlEQzZ4YnA0cjJjVVgzYlZ3LVJjaU44ZlZncXDSAd4BQVVfeXFMTUhXbWwyZV9BcFRxTk41b0lobnhXanZwaXBqTExxUVZsYVpLdkJMc3UzVGFNLVNDOEVhVEluRzFIVmdkMXV0Z2xRVjNOMEtPc1R3aXZSVWVvaXc5Yjg1OXdxNTc1d2lxcFhaM19oZHl6dlNCaEhPdHdIZ01QWkhfc2VMakFHRW9QM1JSOXlYS2J4dG5PTkZraVdrZjVNRFdGZ3NOd2g4UEw0S1dqVkZsUXVQY0VPWUVYdmowY2FmM2QzQ09QU1lEZXQxelFYel9udTZiQ2V2MHhBb1JZT25B?oc=5\" target=\"_blank\">Gujarat govt to build medical college hostels damaged in AI-171 crash: Minister | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmVRSU1VVVFhRkVJRGZnNHRjaE5tYmZUM1ZLeGxXZFVzM0VHV1FtOXgzWVI3WjVOOWstZU5SQ3dmczhaWFN0SXZ1ZXNFU19xbFFJRndLM3lvWHBsZ3kxeGN0S1h0ckItem53SXNtX1lNNkw3b3BpOVdOYmNBQ0toTWFCRm04c1plWDN4Rnpyb3pYdWs2WVp1SFk0cnJ6aHpmOXNRVTBQV1EwWTFUdF9IQ19PSEZ6T0NZaTZTbVlEQzZ4YnA0cjJjVVgzYlZ3LVJjaU44ZlZncXDSAd4BQVVfeXFMTUhXbWwyZV9BcFRxTk41b0lobnhXanZwaXBqTExxUVZsYVpLdkJMc3UzVGFNLVNDOEVhVEluRzFIVmdkMXV0Z2xRVjNOMEtPc1R3aXZSVWVvaXc5Yjg1OXdxNTc1d2lxcFhaM19oZHl6dlNCaEhPdHdIZ01QWkhfc2VMakFHRW9QM1JSOXlYS2J4dG5PTkZraVdrZjVNRFdGZ3NOd2g4UEw0S1dqVkZsUXVQY0VPWUVYdmowY2FmM2QzQ09QU1lEZXQxelFYel9udTZiQ2V2MHhBb1JZT25B?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:09+00:00"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "region": "Puducherry",
+ "group": "B",
+ "query": "(Puducherry) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Puducherry%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:16+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Puducherry plans AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnZPSkxoWTM4cHpDSVRPajdMS2tDOG5WenByT1lQSVVudU12OUc3V1F3N0lCNWRod0JHMlhkZDdnUW85cURESjBWSTlhZUdXWFQ3LTJQLVJiTktkdmhjY3U1alNLN2VzMWlranBraF9KeEhBdHpNcy1TVFcxSGtHd04wN2FmcjA2MWpTSjRoQTlDa0lmeTc3MEhwMnlBUWpaVXY4QTVnUVlYR2lK0gGzAUFVX3lxTFBBcko3eERZMVRvOXMtSUN2ZldEclpPc2lmYlVQd0dhLW44MDZnWmZQX1dEdjk5Snl0c1QweDEzOFNadGlFMUI2UVdQZHhMdTE4dHBFeXJDZjNFOWlYcjdfSExja3JZQmxnLXBuR0xPOFp6RTFRbGxsM2NuYnBMQnpqTnRnRlVhaHJZNUtFZk9Dc0I0TlVVQ0NtMS04dUVIMEFtc19XeFVGX2N3b3ZzRnAzb24w?oc=5\" target=\"_blank\">Puducherry plans AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnZPSkxoWTM4cHpDSVRPajdMS2tDOG5WenByT1lQSVVudU12OUc3V1F3N0lCNWRod0JHMlhkZDdnUW85cURESjBWSTlhZUdXWFQ3LTJQLVJiTktkdmhjY3U1alNLN2VzMWlranBraF9KeEhBdHpNcy1TVFcxSGtHd04wN2FmcjA2MWpTSjRoQTlDa0lmeTc3MEhwMnlBUWpaVXY4QTVnUVlYR2lK0gGzAUFVX3lxTFBBcko3eERZMVRvOXMtSUN2ZldEclpPc2lmYlVQd0dhLW44MDZnWmZQX1dEdjk5Snl0c1QweDEzOFNadGlFMUI2UVdQZHhMdTE4dHBFeXJDZjNFOWlYcjdfSExja3JZQmxnLXBuR0xPOFp6RTFRbGxsM2NuYnBMQnpqTnRnRlVhaHJZNUtFZk9Dc0I0TlVVQ0NtMS04dUVIMEFtc19XeFVGX2N3b3ZzRnAzb24w?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sun, 05 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "\"National Workshop on Convergence of Artificial Intelligence, Material Science and Cyber Security for Smart Manufacturing\" in Industry 4.0 Organized at Doon University",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTUQ4M0UxNXFlUmRybDBZdXdkbl9Vb1FMMmNKeURSZjJkTWxDM0FZVmZFWmYtTG9peENXa2t0VzVwSl9IT3N6b0EzakpUX1ZHaFF4U3FjYVJuZnQ5YllPaHVVODBDZzVG?oc=5\" target=\"_blank\">\"National Workshop on Convergence of Artificial Intelligence, Material Science and Cyber Security for Smart Manufacturing\" in Industry 4.0 Organized at Doon University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTUQ4M0UxNXFlUmRybDBZdXdkbl9Vb1FMMmNKeURSZjJkTWxDM0FZVmZFWmYtTG9peENXa2t0VzVwSl9IT3N6b0EzakpUX1ZHaFF4U3FjYVJuZnQ5YllPaHVVODBDZzVG?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Pondicherry Central University to establish its campus in Mahe",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1g4VkRQZ2hReFNueWprbFlrSHhlX3BUcldIRHJRcWRvek9Hb3dIVUhfaHBKOW1VazN6Z0JPXzF0ZlFYRDF5OUswanBQNl9VZ0EzRGw3c255YnZPc19XYnhTN0FzS1BFZzZzdnB1TmZoNVJZdENoSWVJNTU0MGh4NjBUc21EY1gyTkQzcTlVU19hcElaQ09HUW12WVgtbDRXWTJ5cVpWU25ZYU5nNVMzbUZaYnN3OS00SmNYZjA5a3ZKQlVxbzFGdk9TQ3BXcUF6Z19JOWxLd23SAdwBQVVfeXFMUDZaaDlLT2VsM3Uxa0x2Z25kNGhHdFYyd1RROEZ2ZEtCbTA1akNRUDNMQmFUSnRMZV9WTWVCelF6dDVWa3NTeXN5bEtZZHBUOE1mNVdoRHJJQVNwQ0NBcUhIUEFPTUpURUlYZXRFSHp1ZkJlalBwZTEtTkZ3dmdTWnpqR21Ha1FMM0J5SzJ2elBRUlMxZGFQRmRSR1pWbnJ2aDUzMEVaUUFHWmQwWGs4MnlhRTFlTFdocW5rMnAyVUMzTW1vcFJZLXBGYnNxRGtWLWN3MFdvSENUWThnSg?oc=5\" target=\"_blank\">Pondicherry Central University to establish its campus in Mahe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1g4VkRQZ2hReFNueWprbFlrSHhlX3BUcldIRHJRcWRvek9Hb3dIVUhfaHBKOW1VazN6Z0JPXzF0ZlFYRDF5OUswanBQNl9VZ0EzRGw3c255YnZPc19XYnhTN0FzS1BFZzZzdnB1TmZoNVJZdENoSWVJNTU0MGh4NjBUc21EY1gyTkQzcTlVU19hcElaQ09HUW12WVgtbDRXWTJ5cVpWU25ZYU5nNVMzbUZaYnN3OS00SmNYZjA5a3ZKQlVxbzFGdk9TQ3BXcUF6Z19JOWxLd23SAdwBQVVfeXFMUDZaaDlLT2VsM3Uxa0x2Z25kNGhHdFYyd1RROEZ2ZEtCbTA1akNRUDNMQmFUSnRMZV9WTWVCelF6dDVWa3NTeXN5bEtZZHBUOE1mNVdoRHJJQVNwQ0NBcUhIUEFPTUpURUlYZXRFSHp1ZkJlalBwZTEtTkZ3dmdTWnpqR21Ha1FMM0J5SzJ2elBRUlMxZGFQRmRSR1pWbnJ2aDUzMEVaUUFHWmQwWGs4MnlhRTFlTFdocW5rMnAyVUMzTW1vcFJZLXBGYnNxRGtWLWN3MFdvSENUWThnSg?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 30 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Government Notifies Two New SEZs in Puducherry, Key Details",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlhTXzhRSU1lWlRSRlBtVElRVXRfb2ZwNzU4VnBqSzZ1TTNVdVFZWHBBOGFVVUdVemVRSnA1dnZNSXZlUXJYVUhMYXlVcnVETGs0eFRsOFMzVzJrUlJLaVZwWGNDWXZpMkpSM19Fd2NKUUp1T0RpV2lPSi0yYzBNNGI5cEVpY1RTYm5oMVZJaU9Sc2Q3?oc=5\" target=\"_blank\">Government Notifies Two New SEZs in Puducherry, Key Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vajiram & Ravi</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlhTXzhRSU1lWlRSRlBtVElRVXRfb2ZwNzU4VnBqSzZ1TTNVdVFZWHBBOGFVVUdVemVRSnA1dnZNSXZlUXJYVUhMYXlVcnVETGs0eFRsOFMzVzJrUlJLaVZwWGNDWXZpMkpSM19Fd2NKUUp1T0RpV2lPSi0yYzBNNGI5cEVpY1RTYm5oMVZJaU9Sc2Q3?oc=5",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "vajiramandravi.com",
+   "published_raw": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Heavy Security in Puducherry for Amit Shah’s Visit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkp3SHN4cW0yVzNWRnV3cnpCcVVYVWJ4azBjbTd0NlJKaUt2Nm9HbVU4NE1uRHRfQmxCS3RDeFlzQm1uRkdMMVllUGgxYTFSV01NbVlMTndSYXA5UzZfbno0X3BDUHBhR1F5bUZoeU90aldkSmhWV3NESkpuc2hrVkxWQWY2XzdaRDhsYzZDMXZLRkd4czBwQ0hzbmZJRG1BZl9BQ1dVMHI0aG1wVHRPOTVtMmM4LW_SAbwBQVVfeXFMTlNFSUYxOWI4cGlZVTBqWVRfYTFhN0phNXhjVnZfZ0hhazlYWVlnUEZOb2hadzdjc09QRkFBeWs1Tmpzb1ozTUplWHVhNG5Gb3hvRkhETmtyeTQxTG53bmJJS3ktZ0FYYVNVSHQxQjFzZ3AwQkF4aEFfY1JYbE9hOFc1ZENfYTRoZDZyNXZETUpiaVg3ZWFlV0lpd0JDT19rZENrZWNOR3F1amdQdFY0M3VZeTUyenI5UzJ0dmY?oc=5\" target=\"_blank\">Heavy Security in Puducherry for Amit Shah’s Visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkp3SHN4cW0yVzNWRnV3cnpCcVVYVWJ4azBjbTd0NlJKaUt2Nm9HbVU4NE1uRHRfQmxCS3RDeFlzQm1uRkdMMVllUGgxYTFSV01NbVlMTndSYXA5UzZfbno0X3BDUHBhR1F5bUZoeU90aldkSmhWV3NESkpuc2hrVkxWQWY2XzdaRDhsYzZDMXZLRkd4czBwQ0hzbmZJRG1BZl9BQ1dVMHI0aG1wVHRPOTVtMmM4LW_SAbwBQVVfeXFMTlNFSUYxOWI4cGlZVTBqWVRfYTFhN0phNXhjVnZfZ0hhazlYWVlnUEZOb2hadzdjc09QRkFBeWs1Tmpzb1ozTUplWHVhNG5Gb3hvRkhETmtyeTQxTG53bmJJS3ktZ0FYYVNVSHQxQjFzZ3AwQkF4aEFfY1JYbE9hOFc1ZENfYTRoZDZyNXZETUpiaVg3ZWFlV0lpd0JDT19rZENrZWNOR3F1amdQdFY0M3VZeTUyenI5UzJ0dmY?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "What Puducherry Police said over visit to Saurav Das’ home: ‘Routine Independence Day eve drill’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhwQlJBQlFUODROSEJqWUxTcFp0eGkwTnB4ZFRjM1ZQRnlrOFpUd3FOWTNTTGVBMDdhQUx6ZHh4NGo3eGhpMkpGZTRpZ25EUjVHaWs1aFplVWtpZ09pZXFjeWxqRXdYdGRfWEhwQ082ekF1WmxFbUxablNhN2xCcHhkNEN6ZzVIN3RIZExuZFV6Y1FDRHBfTkVvZVFrRFJ1c3Y5WWthd3hrbnM4QTRpZUk4a2Mta00zWENBdV9wallnUEFzcjE5OC1oRTVyMGR1RFNoSFlRbjlkQUY1a2lfOEZKNW1YT2NW0gHuAUFVX3lxTE1tMUtKaFhpVFhUdUR5M3cteGUzd1N4aW40Z0JTMHNZLWlyVEpteWg5NDlxUDlTSGZfVWdlcWJOeU16dXFsenNBUGpndFYwVVJiaS0tZTZiNExsZzJLQWhlTnlUUnRKSU9iWk8wMExDNm80Nk9fUWNwS1VRR0ZQRWlYZFZSODFNWmVkQ3YtS0NtM1E2M1ozdUxNSTZzMEtnNlhZdERheFBnZExvS0pTc0dac0szZTdreHJGZjNFVFFudk9XTWRFdlIzcE8zUVIxQi12V1l4T2JGS0FHazAtYXFMNFd2TUs3QWtJdVVWTUE?oc=5\" target=\"_blank\">What Puducherry Police said over visit to Saurav Das’ home: ‘Routine Independence Day eve drill’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhwQlJBQlFUODROSEJqWUxTcFp0eGkwTnB4ZFRjM1ZQRnlrOFpUd3FOWTNTTGVBMDdhQUx6ZHh4NGo3eGhpMkpGZTRpZ25EUjVHaWs1aFplVWtpZ09pZXFjeWxqRXdYdGRfWEhwQ082ekF1WmxFbUxablNhN2xCcHhkNEN6ZzVIN3RIZExuZFV6Y1FDRHBfTkVvZVFrRFJ1c3Y5WWthd3hrbnM4QTRpZUk4a2Mta00zWENBdV9wallnUEFzcjE5OC1oRTVyMGR1RFNoSFlRbjlkQUY1a2lfOEZKNW1YT2NW0gHuAUFVX3lxTE1tMUtKaFhpVFhUdUR5M3cteGUzd1N4aW40Z0JTMHNZLWlyVEpteWg5NDlxUDlTSGZfVWdlcWJOeU16dXFsenNBUGpndFYwVVJiaS0tZTZiNExsZzJLQWhlTnlUUnRKSU9iWk8wMExDNm80Nk9fUWNwS1VRR0ZQRWlYZFZSODFNWmVkQ3YtS0NtM1E2M1ozdUxNSTZzMEtnNlhZdERheFBnZExvS0pTc0dac0szZTdreHJGZjNFVFFudk9XTWRFdlIzcE8zUVIxQi12V1l4T2JGS0FHazAtYXFMNFd2TUs3QWtJdVVWTUE?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Thu, 13 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Puducherry CM urges Centre to permit continued teaching of French in government schools under CBSE",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdG1CTG44Y2Q5RVVzdnVtVklwdmF2VlhxWGVFbWdwUEk4dkFZdS1NVFR4OUNVM3VtNnhjY19OODMxZkJwaV9ZTWF3X2l1WUdBUEtjbXprT29kVndHTGYxZnpUREhfOHd4UnhIQ1RLVFdJaUNQbmo2MnVBdGlyQXpQT3I4UjZQX21VVjVmVThzbkl5eHlLQU5HR082MFV3WlJweE8xbE5OUGFRUzJidHlJVU42clA2Q3dwMG4wVUVXTkxyT1JQUG5jZFRoVWlha2hvaGhPRVVueXctU2QzN2JudW5JdTY4eDdHWWE0UGNpc0o2QdIB-AFBVV95cUxPcC1VMlNUVVlYbHJvakVISjVoV1ZxMGF6OVlIRS1samp5ZGpqOWxMVm5iMUhNR2FlQjlOWGY2LXNxT29oVmJnaWhhTWE3MkZUYTRDekxlUl9fckFKZlE5YTFpRmYyd28xQUVmTldhVXZDVnJ4SlFpZVh1S09iWGJjank1ZjVEZGk5V2pKaTFQbG1GZGxuVzlEWWIyaHVndFVDMlpKQmZtWTRrTFhhR29nTFoxNUpKWTh5TjRLU195SlhqbnBUY3hsb2JPb09CSGc0QU55VEJzNmtPRG1sajJ1SGlBcldZN1R5dlREUXNXdC1LNm90Y0hOSQ?oc=5\" target=\"_blank\">Puducherry CM urges Centre to permit continued teaching of French in government schools under CBSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdG1CTG44Y2Q5RVVzdnVtVklwdmF2VlhxWGVFbWdwUEk4dkFZdS1NVFR4OUNVM3VtNnhjY19OODMxZkJwaV9ZTWF3X2l1WUdBUEtjbXprT29kVndHTGYxZnpUREhfOHd4UnhIQ1RLVFdJaUNQbmo2MnVBdGlyQXpQT3I4UjZQX21VVjVmVThzbkl5eHlLQU5HR082MFV3WlJweE8xbE5OUGFRUzJidHlJVU42clA2Q3dwMG4wVUVXTkxyT1JQUG5jZFRoVWlha2hvaGhPRVVueXctU2QzN2JudW5JdTY4eDdHWWE0UGNpc0o2QdIB-AFBVV95cUxPcC1VMlNUVVlYbHJvakVISjVoV1ZxMGF6OVlIRS1samp5ZGpqOWxMVm5iMUhNR2FlQjlOWGY2LXNxT29oVmJnaWhhTWE3MkZUYTRDekxlUl9fckFKZlE5YTFpRmYyd28xQUVmTldhVXZDVnJ4SlFpZVh1S09iWGJjank1ZjVEZGk5V2pKaTFQbG1GZGxuVzlEWWIyaHVndFVDMlpKQmZtWTRrTFhhR29nTFoxNUpKWTh5TjRLU195SlhqbnBUY3hsb2JPb09CSGc0QU55VEJzNmtPRG1sajJ1SGlBcldZN1R5dlREUXNXdC1LNm90Y0hOSQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 26 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "TVK govt faces another controversy as Minister Wilson ordered to appear in court",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVG9xX2ttY2trc3RST2dGcjhVM3VHaGVDS1hNMS1LN3ZRWGF2bzVwU2xKRmt2WldmbGZ1bUdFZjBEdDZZSlJ2OEt0b1hnMHhWUG1adjFuTW52WkpXdFVBMk9PVk9RekhVTmJkdkpQeFAtT3JjUmNHLVV1eTBhSURkVWNLUkJySzdiTzhZbEJDMTFDWVNoV2pKcHc5eFAyT1VTMzdBTG1qNUNJZmtlWTBneDdn?oc=5\" target=\"_blank\">TVK govt faces another controversy as Minister Wilson ordered to appear in court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Federal</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVG9xX2ttY2trc3RST2dGcjhVM3VHaGVDS1hNMS1LN3ZRWGF2bzVwU2xKRmt2WldmbGZ1bUdFZjBEdDZZSlJ2OEt0b1hnMHhWUG1adjFuTW52WkpXdFVBMk9PVk9RekhVTmJkdkpQeFAtT3JjUmNHLVV1eTBhSURkVWNLUkJySzdiTzhZbEJDMTFDWVNoV2pKcHc5eFAyT1VTMzdBTG1qNUNJZmtlWTBneDdn?oc=5",
+   "source_name": "The Federal",
+   "source_domain": "thefederal.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Amit Shah to Visit Tamil Nadu, Puducherry on Aug 8-9",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFlwT1ZTcmh3NWNDYXJ4VDFtT0EtY3FUY0JWc1gzbjJTY09FdjZEaE5rRjJEZ0J2ZVh3bHlTbW9lRVNJZGRhT0tjT21temZ6QndOSll2NDBUN3ZzcWJyNDMtVVhTX1ZhSE5US2NvYXpNdWN6OEhIdXhzQ0lTMVA5VU42WlVNbnc5aGxVSVJIWFVDaXhzc25zS2U1dENTWEZTUWY1NzZ1OThLX01PcElPUXRIbTV3al9IYnfSAb8BQVVfeXFMTm9GYnhwbjR1bS1heEF6Y2dMb2Y5X1hCZTIwd1F4YVVHcHVncjNVeWNuekdoeXhuVFpHenQyeEl4Z2t5Z1BabmNBUm5qZUZoVXVGYkVxSkZ2d19XSmRBRW5oWjdQRUFFSDhGQ1NDTnVSVG5NMS1kam1RUVMyUFhreTdtTW1FaTVCektBMWJoNDg4aFJOWlNYSGZuTFpFRXE0YjV1RGZLUjRrLTRna2dBby1vaGk5Rmo3bUwyY1RTd28?oc=5\" target=\"_blank\">Amit Shah to Visit Tamil Nadu, Puducherry on Aug 8-9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFlwT1ZTcmh3NWNDYXJ4VDFtT0EtY3FUY0JWc1gzbjJTY09FdjZEaE5rRjJEZ0J2ZVh3bHlTbW9lRVNJZGRhT0tjT21temZ6QndOSll2NDBUN3ZzcWJyNDMtVVhTX1ZhSE5US2NvYXpNdWN6OEhIdXhzQ0lTMVA5VU42WlVNbnc5aGxVSVJIWFVDaXhzc25zS2U1dENTWEZTUWY1NzZ1OThLX01PcElPUXRIbTV3al9IYnfSAb8BQVVfeXFMTm9GYnhwbjR1bS1heEF6Y2dMb2Y5X1hCZTIwd1F4YVVHcHVncjNVeWNuekdoeXhuVFpHenQyeEl4Z2t5Z1BabmNBUm5qZUZoVXVGYkVxSkZ2d19XSmRBRW5oWjdQRUFFSDhGQ1NDTnVSVG5NMS1kam1RUVMyUFhreTdtTW1FaTVCektBMWJoNDg4aFJOWlNYSGZuTFpFRXE0YjV1RGZLUjRrLTRna2dBby1vaGk5Rmo3bUwyY1RTd28?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Grand Launch of ReWin Health Physiotherapy Clinic in Puducherry Marks a New Era in Advanced Rehabilitation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUHZiNWdXcFJ3Q3RfbTJzN1ZpNzdNWTJuNVN1QkpjMnhMQlZlYkRJZGlzS21rSE5uRkt2NXpqQ25mT3lnVVZUN0FhUGJCcjAxbVNIQmJTclhGZHBlMWJVZE5zbUdzR0RBM3dZc1BLZzhyZkFNRk92b25adWR1d2k1N3gxRGxzaFZvbFp2NW9rUWRwbDNEdU82S0JPVFVJQUhIVmJaeFpKTnZDZ2VMQW92QVd2QW9JTThtY0pqeTBTZVlRQ2VSVnN0OHh3TXdxV1FocnVfd08xM0FHSU4yTk9ZY2tHbw?oc=5\" target=\"_blank\">Grand Launch of ReWin Health Physiotherapy Clinic in Puducherry Marks a New Era in Advanced Rehabilitation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Issuewire.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUHZiNWdXcFJ3Q3RfbTJzN1ZpNzdNWTJuNVN1QkpjMnhMQlZlYkRJZGlzS21rSE5uRkt2NXpqQ25mT3lnVVZUN0FhUGJCcjAxbVNIQmJTclhGZHBlMWJVZE5zbUdzR0RBM3dZc1BLZzhyZkFNRk92b25adWR1d2k1N3gxRGxzaFZvbFp2NW9rUWRwbDNEdU82S0JPVFVJQUhIVmJaeFpKTnZDZ2VMQW92QVd2QW9JTThtY0pqeTBTZVlRQ2VSVnN0OHh3TXdxV1FocnVfd08xM0FHSU4yTk9ZY2tHbw?oc=5",
+   "source_name": "Issuewire.com",
+   "source_domain": "issuewire.com",
+   "published_raw": "Mon, 25 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:16+00:00"
+  }
+ ]
+}

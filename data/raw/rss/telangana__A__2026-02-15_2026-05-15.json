@@ -1,0 +1,109 @@
+{
+ "region": "Telangana",
+ "group": "A",
+ "query": "(Telangana OR Hyderabad) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Telangana+OR+Hyderabad%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:13+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Deakin University and Aikam (Telangana AI Innovation Hub) Sign Strategic MoU to Advance Applied AI, Skilling, Research and Innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbi0wX1JOdjMyMnlQN0QtMFhSWTdZb1BjWlpsVi1VeEtaQm5XY3ZnM2dTNHRDX01vNFlsZzY2MEJELXlqaG1yUUI1RzBmb1BkaDk0Um9VWnZxUTVwTE9KVmtnUnFYRnBDQWRaVEhVTk5mM3VuYnpBMjVkMkVLMDBMUG9YamdTVjNKVnV3dUUyMklXRHUtX2ViNFhIT2Q1RlZfSmFpVlpMMkY4c01xb3k1NXJic3lEX0JlQ1U0SjNMaFZveEJpNlZLbGc5QmdGREVlNXBJcU5lRGF6VjZFTEdYYWJaTVZ2Ukx4MzhEd3Z4c3VJbWdweUhTSHU3eFTSAYICQVVfeXFMTnA0ZDY0MHJQdlY0dnNsQWM1VGNsYjZscFNjN1BHRUM4VExjWC1PX3ZfbnZlUjF5NVhIdnBNaWdTQmdBQnU0Ry03TkFGUUpzMlZLNERqek5XOWdTU3lfTE83bHBMSVUtRlpSZzNUNzg4b1R4dnJrMTd2UzJhN1ozaDdTMkc3N0VRYkZyZXNKS0lZbE1fNTRBZXhrVm1fd0trb2F0dkVZZE5OS01jVi1JUWR1LXJQNDZuZGZaVHRtS2tCUUZfeHFabWhJLWZNZUoyS3RXMlRtYjFSdlRNSDJLckdvRzVvYmwySnBub0JHV1RseHNIbTNUd1FsXzcydXF0Tkx3?oc=5\" target=\"_blank\">Deakin University and Aikam (Telangana AI Innovation Hub) Sign Strategic MoU to Advance Applied AI, Skilling, Research and Innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbi0wX1JOdjMyMnlQN0QtMFhSWTdZb1BjWlpsVi1VeEtaQm5XY3ZnM2dTNHRDX01vNFlsZzY2MEJELXlqaG1yUUI1RzBmb1BkaDk0Um9VWnZxUTVwTE9KVmtnUnFYRnBDQWRaVEhVTk5mM3VuYnpBMjVkMkVLMDBMUG9YamdTVjNKVnV3dUUyMklXRHUtX2ViNFhIT2Q1RlZfSmFpVlpMMkY4c01xb3k1NXJic3lEX0JlQ1U0SjNMaFZveEJpNlZLbGc5QmdGREVlNXBJcU5lRGF6VjZFTEdYYWJaTVZ2Ukx4MzhEd3Z4c3VJbWdweUhTSHU3eFTSAYICQVVfeXFMTnA0ZDY0MHJQdlY0dnNsQWM1VGNsYjZscFNjN1BHRUM4VExjWC1PX3ZfbnZlUjF5NVhIdnBNaWdTQmdBQnU0Ry03TkFGUUpzMlZLNERqek5XOWdTU3lfTE83bHBMSVUtRlpSZzNUNzg4b1R4dnJrMTd2UzJhN1ozaDdTMkc3N0VRYkZyZXNKS0lZbE1fNTRBZXhrVm1fd0trb2F0dkVZZE5OS01jVi1JUWR1LXJQNDZuZGZaVHRtS2tCUUZfeHFabWhJLWZNZUoyS3RXMlRtYjFSdlRNSDJLckdvRzVvYmwySnBub0JHV1RseHNIbTNUd1FsXzcydXF0Tkx3?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "India-AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WlpqWll6RDBqdk5BWkJ0SWZNdGFMMVc5UFlpRjJIOVFmRFJIODJ6Ty1nYlo1VndWRnUtLUN1QmhmUGFxWWhpU3RaQnJpX0tNMDRJTWxOZmpGWUFGUXFocU83S0NHQ08xcVpaanRzeUVoOW5la3plbkhn?oc=5\" target=\"_blank\">India-AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WlpqWll6RDBqdk5BWkJ0SWZNdGFMMVc5UFlpRjJIOVFmRFJIODJ6Ty1nYlo1VndWRnUtLUN1QmhmUGFxWWhpU3RaQnJpX0tNMDRJTWxOZmpGWUFGUXFocU83S0NHQ08xcVpaanRzeUVoOW5la3plbkhn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "India’s ‘AI Impact Summit’ Promises Little More Than Spectacle",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0Fub3RzbnlMNXBRbWlnNzJzSV9jdHdyR1ZSSnlMVmlxTVpNSExrM1F6WHV4LXVGNWNyZkp4NFd0MXdBa1k1d0RfT04zY3JSakNKRFRRTlJXd3V0eExoSVpidjBselFHMDZTMHhfVHRKMG5ZYjFOMkd6S2hlWWNXblpGUDBHRFB2eHRWZQ?oc=5\" target=\"_blank\">India’s ‘AI Impact Summit’ Promises Little More Than Spectacle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Policy Press</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0Fub3RzbnlMNXBRbWlnNzJzSV9jdHdyR1ZSSnlMVmlxTVpNSExrM1F6WHV4LXVGNWNyZkp4NFd0MXdBa1k1d0RfT04zY3JSakNKRFRRTlJXd3V0eExoSVpidjBselFHMDZTMHhfVHRKMG5ZYjFOMkd6S2hlWWNXblpGUDBHRFB2eHRWZQ?oc=5",
+   "source_name": "Tech Policy Press",
+   "source_domain": "techpolicy.press",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "UNESCO–MeitY Launch India AI Readiness Assessment Report at India AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NoS2MxeVJmanNJYzhTZ2VUU0JlNy1rUmZfdF9yVXQwOS1BRE9jbmJiT21GOGYzWk5Fa1JseXN3bC1RcWFLRWR3TUdZcGdiSEtmanR4N2syb2N1ZldxQlVCUzVUekpvT2NpX3Q0S2p2QXBDN3RhQllWUWpmeUJ3SVVUVWZ2SV92M29IeDFqY1R1RVhCeXhuYnQyTU5qMHcxTlcwbGM2ZFFHd0tUaGdJYlVEMjZjN0x2WjZN?oc=5\" target=\"_blank\">UNESCO–MeitY Launch India AI Readiness Assessment Report at India AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NoS2MxeVJmanNJYzhTZ2VUU0JlNy1rUmZfdF9yVXQwOS1BRE9jbmJiT21GOGYzWk5Fa1JseXN3bC1RcWFLRWR3TUdZcGdiSEtmanR4N2syb2N1ZldxQlVCUzVUekpvT2NpX3Q0S2p2QXBDN3RhQllWUWpmeUJ3SVVUVWZ2SV92M29IeDFqY1R1RVhCeXhuYnQyTU5qMHcxTlcwbGM2ZFFHd0tUaGdJYlVEMjZjN0x2WjZN?oc=5",
+   "source_name": "UNESCO",
+   "source_domain": "unesco.org",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "States have big AI plans, policies to boost India's AI Mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEZ4TDAxWk1IWnpILVZaR3FnWE5pQ3NsTW1YNUZUX1RkbGpFUVVrYzFZS09PWWJKbHZ5MXU1YUsyN2xJMFFHMVFna3RtdGdjcTh6Q2psZVpfZlpoSHNBY1ZHaUFrcFlWNzBzZ0Q0a0s0cUR0WlpRNXJFUl9RUk1MNmFMcFlFbDdyM1UyaWJiMGFKYU1uWG44NzFpNHU3STR1T00wV3Y1QTZUX2dVdExn0gG8AUFVX3lxTE14Z2t3QzFSRlJJZTFiVXM1eDVUUzhQa2tHcEFEWjVWZ0JjV2o1TlY1N3g3eDE5RVFaWWhsRXFSZHdWcjhUYWxFeWlqbVNCZFVyZlRJWEU4SVU5dnFJZ3ZRX3A0ckV5WmwyaE9aYW5LM0ExbElkNzdVSk1oQzhxMjRLNTBsQ3NnRnplZXphZ1FuNXBkMDVsZVhwLV85Z3lWZ2pWV2p3VlkycWJ3d3FjaU5PZWd5R016cHltM2J3?oc=5\" target=\"_blank\">States have big AI plans, policies to boost India's AI Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune India</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEZ4TDAxWk1IWnpILVZaR3FnWE5pQ3NsTW1YNUZUX1RkbGpFUVVrYzFZS09PWWJKbHZ5MXU1YUsyN2xJMFFHMVFna3RtdGdjcTh6Q2psZVpfZlpoSHNBY1ZHaUFrcFlWNzBzZ0Q0a0s0cUR0WlpRNXJFUl9RUk1MNmFMcFlFbDdyM1UyaWJiMGFKYU1uWG44NzFpNHU3STR1T00wV3Y1QTZUX2dVdExn0gG8AUFVX3lxTE14Z2t3QzFSRlJJZTFiVXM1eDVUUzhQa2tHcEFEWjVWZ0JjV2o1TlY1N3g3eDE5RVFaWWhsRXFSZHdWcjhUYWxFeWlqbVNCZFVyZlRJWEU4SVU5dnFJZ3ZRX3A0ckV5WmwyaE9aYW5LM0ExbElkNzdVSk1oQzhxMjRLNTBsQ3NnRnplZXphZ1FuNXBkMDVsZVhwLV85Z3lWZ2pWV2p3VlkycWJ3d3FjaU5PZWd5R016cHltM2J3?oc=5",
+   "source_name": "Fortune India",
+   "source_domain": "fortuneindia.com",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Australia’s Deakin University and Telangana AI Innovation Hub, Aikam, sign strategic MoU on skilling,...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQN05DQ0xJcHBGY09DZHYwRWZJRXcxekxrcTUwWEpMblZXZXpnNWQ4WU9fRlB4eVlwN1FodVJnTTVxc1piTEIwY2ZnYkF3aTg5TXhSOUY4eUpIcFVLYmhVbzVLX3lBemxna3huUFhrcjRkTE1FLUVUcGtDRDQtOGE2UUJSSFpucWNVYmhxb0cwTG1EZkZaRjF6S1YxYnRDS2l6ZGEtX1Y1SG1YcVVheTdiTTNuLU5RckQ4bkFHcmhkSk1JdW9PcThUR1RjNDVlOTVTQWVITVVsTHdhaVBRbTlqQmtiVUZQcVhOaGlJU3E4OERScG1tY2hnZGlxMVZjbkJKSk1DUWhXVFItX01ya0lsWNIBlgJBVV95cUxNaTBFTnpMMG5OaGxtUEYxQVZTRWNTVTlGcjZfWGJ5OUlCS2F2RFFTSTE3SWtDa1ZQWGFScW9Qb0ZhUGdzQVhRSEdndTY3ZkJadEpPSml1aWJRTnlsejJNWEtzYU9NdmF3cUYzRkEtQU9RaGl6OEtIRmdZakpkUnNTWUxNMlZuWl9CdVd5V0p5SDg0TUdVS3FfWU1fcVRMTGpYd1R6SnhwaWFheWdRSUtzQ0lSQzZYaHBESnR0UExQZnRZVno5UXhKVlNpUHZ3bnAwajc1Q0VjNHVfTGhtYTlqZWlFVmFHVGw3UE5RQUxCcVl2ME1tVTRWZ1VKdnlneFBwYTMzaXhCNWR3YzI5d3N2cUVySnhYUQ?oc=5\" target=\"_blank\">Australia’s Deakin University and Telangana AI Innovation Hub, Aikam, sign strategic MoU on skilling,...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQN05DQ0xJcHBGY09DZHYwRWZJRXcxekxrcTUwWEpMblZXZXpnNWQ4WU9fRlB4eVlwN1FodVJnTTVxc1piTEIwY2ZnYkF3aTg5TXhSOUY4eUpIcFVLYmhVbzVLX3lBemxna3huUFhrcjRkTE1FLUVUcGtDRDQtOGE2UUJSSFpucWNVYmhxb0cwTG1EZkZaRjF6S1YxYnRDS2l6ZGEtX1Y1SG1YcVVheTdiTTNuLU5RckQ4bkFHcmhkSk1JdW9PcThUR1RjNDVlOTVTQWVITVVsTHdhaVBRbTlqQmtiVUZQcVhOaGlJU3E4OERScG1tY2hnZGlxMVZjbkJKSk1DUWhXVFItX01ya0lsWNIBlgJBVV95cUxNaTBFTnpMMG5OaGxtUEYxQVZTRWNTVTlGcjZfWGJ5OUlCS2F2RFFTSTE3SWtDa1ZQWGFScW9Qb0ZhUGdzQVhRSEdndTY3ZkJadEpPSml1aWJRTnlsejJNWEtzYU9NdmF3cUYzRkEtQU9RaGl6OEtIRmdZakpkUnNTWUxNMlZuWl9CdVd5V0p5SDg0TUdVS3FfWU1fcVRMTGpYd1R6SnhwaWFheWdRSUtzQ0lSQzZYaHBESnR0UExQZnRZVno5UXhKVlNpUHZ3bnAwajc1Q0VjNHVfTGhtYTlqZWlFVmFHVGw3UE5RQUxCcVl2ME1tVTRWZ1VKdnlneFBwYTMzaXhCNWR3YzI5d3N2cUVySnhYUQ?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "UNICC to set up AI, quantum Centre of Excellence in Amaravati",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUhfVmpnQkMzaU81MFBjcTNUc0J1aUVTeGtZel9Vd2RlUGhDRUc2MUdkRFJTRHkzR0VmODNOMElIc3R4NllZR0xkM2hNZ21iQ01oeldzZFdNSnI1UEhuekhPV3VCNURwZlFoRDRYVnotOVZqY3MyMTB4MFA2RzNtcjRMMkI4aGNUSS1HdU1lcno?oc=5\" target=\"_blank\">UNICC to set up AI, quantum Centre of Excellence in Amaravati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUhfVmpnQkMzaU81MFBjcTNUc0J1aUVTeGtZel9Vd2RlUGhDRUc2MUdkRFJTRHkzR0VmODNOMElIc3R4NllZR0xkM2hNZ21iQ01oeldzZFdNSnI1UEhuekhPV3VCNURwZlFoRDRYVnotOVZqY3MyMTB4MFA2RzNtcjRMMkI4aGNUSS1HdU1lcno?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Shield AI deepens India presence with New Delhi office and planned Bengaluru expansion",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmJsRkpMeFZiTmN0LU1lX1d0Y2RBYjlBajR0eHFEbkVudG41eWkzaFVJX2ZzX3B4S1ZmS0p3QXFmclJBTkFOWEZqVG9jeHloS0pNSVZtdW1yUDhYMnRMdGVvUjAtd1k3ZlltaEdhZTBNVV9pQkRIbDl0Q2VuYkxZWVRKSE5hRUxsdk81Wk5FTWNEaWJUM2hZdlFWSDVSRXphU2ZTLXBHMTU?oc=5\" target=\"_blank\">Shield AI deepens India presence with New Delhi office and planned Bengaluru expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shield.ai</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmJsRkpMeFZiTmN0LU1lX1d0Y2RBYjlBajR0eHFEbkVudG41eWkzaFVJX2ZzX3B4S1ZmS0p3QXFmclJBTkFOWEZqVG9jeHloS0pNSVZtdW1yUDhYMnRMdGVvUjAtd1k3ZlltaEdhZTBNVV9pQkRIbDl0Q2VuYkxZWVRKSE5hRUxsdk81Wk5FTWNEaWJUM2hZdlFWSDVSRXphU2ZTLXBHMTU?oc=5",
+   "source_name": "shield.ai",
+   "source_domain": "shield.ai",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana to Launch Quantum Computing Centre of Excellence in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdENPRWdDSXFKQTRIRTFlZHl2cDNlQXhOdFgtaHJNLVJ6OUpRVDRLRFV6aENhMWdaY2xMRGJtRlRna2dsMHpXVzNSQllrQ0tYRG5aVlhwT0dldXVuZWlXb2Q5OGxsSWt6M0NLY2Z4enBxb292cndTT0VsaURMZGlTeE5NWHFRSUc4Q3RnWkFIdmNPd0FFZ0dWSEIweHQyVUxTRFhBUF9KOGVMUDI0Q3c?oc=5\" target=\"_blank\">Telangana to Launch Quantum Computing Centre of Excellence in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdENPRWdDSXFKQTRIRTFlZHl2cDNlQXhOdFgtaHJNLVJ6OUpRVDRLRFV6aENhMWdaY2xMRGJtRlRna2dsMHpXVzNSQllrQ0tYRG5aVlhwT0dldXVuZWlXb2Q5OGxsSWt6M0NLY2Z4enBxb292cndTT0VsaURMZGlTeE5NWHFRSUc4Q3RnWkFIdmNPd0FFZ0dWSEIweHQyVUxTRFhBUF9KOGVMUDI0Q3c?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:13+00:00"
+  }
+ ]
+}

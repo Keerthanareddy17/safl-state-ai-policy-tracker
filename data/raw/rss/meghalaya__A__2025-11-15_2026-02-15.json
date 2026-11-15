@@ -1,0 +1,98 @@
+{
+ "region": "Meghalaya",
+ "group": "A",
+ "query": "(Meghalaya) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Meghalaya%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:28+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "From States to Summit: Regional AI Conferences Power India’s AI Vision",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PU0w1R0xnWVBHT1NTZEVJNllHZkgzeWhNX2pGMVI3VHU4Ym5vcEpKc1ZZRXVpNXVGb3ZpTlJBcEk0Q2VDNEE1YkVyWDU3YVdvU1hIM29DUDY0VGRTVy1CR2RRbXJDbVAw?oc=5\" target=\"_blank\">From States to Summit: Regional AI Conferences Power India’s AI Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PU0w1R0xnWVBHT1NTZEVJNllHZkgzeWhNX2pGMVI3VHU4Ym5vcEpKc1ZZRXVpNXVGb3ZpTlJBcEk0Q2VDNEE1YkVyWDU3YVdvU1hIM29DUDY0VGRTVy1CR2RRbXJDbVAw?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya: Regional Artificial Intelligence Impact Conference 2025 held in Shillong",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1plTWdFNGVqWTBScTBVRHRyTDVUOTVYVGVpSVlzY3E5ZUpaVzdYaERCNlZjY01PU0F2MFdHNENQV3dEV19DR0dNc1VZWTF4UFMxaE84OUtfR1lhb2NnaC1QUm1BR0xMRGVSd0xZNE0tVTB3MlpRZ1lLQXBHc2dJNWZJU1dyTUx0RjliblRVc1k5NVE5blRFYmxrMDQ3T0lwSHZmX0I0VFpaOTRS?oc=5\" target=\"_blank\">Meghalaya: Regional Artificial Intelligence Impact Conference 2025 held in Shillong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1plTWdFNGVqWTBScTBVRHRyTDVUOTVYVGVpSVlzY3E5ZUpaVzdYaERCNlZjY01PU0F2MFdHNENQV3dEV19DR0dNc1VZWTF4UFMxaE84OUtfR1lhb2NnaC1QUm1BR0xMRGVSd0xZNE0tVTB3MlpRZ1lLQXBHc2dJNWZJU1dyTUx0RjliblRVc1k5NVE5blRFYmxrMDQ3T0lwSHZmX0I0VFpaOTRS?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Wed, 03 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "IT Park Phase-2 to house AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmg3TTZLejJJbld5QkZMUWNVZTFwV045MmU4dnJqYTU3a2xkR1hJT09KUkd1QzlxS3FoSkduZnc5b25tQTZCcTBXMkkwSG1SZmdCNDhtU2k1eWY1YmlreU1aN0tUMTREZE1kTXI5Y0JfLXFOcnhfT1p6Q3FxNkVoVGFKV0d0T3d3dXVaYk1maDcwSms?oc=5\" target=\"_blank\">IT Park Phase-2 to house AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Shillong Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmg3TTZLejJJbld5QkZMUWNVZTFwV045MmU4dnJqYTU3a2xkR1hJT09KUkd1QzlxS3FoSkduZnc5b25tQTZCcTBXMkkwSG1SZmdCNDhtU2k1eWY1YmlreU1aN0tUMTREZE1kTXI5Y0JfLXFOcnhfT1p6Q3FxNkVoVGFKV0d0T3d3dXVaYk1maDcwSms?oc=5",
+   "source_name": "The Shillong Times",
+   "source_domain": "theshillongtimes.com",
+   "published_raw": "Sun, 30 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "IndiaAI, MeitY & Meghalaya government host first Regional AI Conference in Shillong",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVJsSGctQjZtdFpXSzBWa3BDSWpETmI3UDdXS1p4QzZ1cjFKeTRPSXpsSlYwNHoxY0NubFBSNlNMNVRqSVhJOTFTb215aHRXam1nN2dZX0wxRDF2RDd0SS1lZlJnOUhUanRjZmEzZE9sX3Nkd2lHR3FhWTloWHRkNjc3bGsyV2ZQWlQxR20zNW9kTVd6VlNkenA4TTZ3MGo4VlF2R05YVGo0LTRUN2NtcFJQay1yeWpZaTlYOTVNSkVwUXhIUDJFNElHV2NQNnFhZUZqTktZSUFIUHVYanVPRm1B?oc=5\" target=\"_blank\">IndiaAI, MeitY & Meghalaya government host first Regional AI Conference in Shillong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVJsSGctQjZtdFpXSzBWa3BDSWpETmI3UDdXS1p4QzZ1cjFKeTRPSXpsSlYwNHoxY0NubFBSNlNMNVRqSVhJOTFTb215aHRXam1nN2dZX0wxRDF2RDd0SS1lZlJnOUhUanRjZmEzZE9sX3Nkd2lHR3FhWTloWHRkNjc3bGsyV2ZQWlQxR20zNW9kTVd6VlNkenA4TTZ3MGo4VlF2R05YVGo0LTRUN2NtcFJQay1yeWpZaTlYOTVNSkVwUXhIUDJFNElHV2NQNnFhZUZqTktZSUFIUHVYanVPRm1B?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 04 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Conrad Sangma writes: Meghalaya’s AI story is a template for inclusive tech growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZmJoSlhQSE9LWXdNVThCY0UwXzJ3dC1RSjBaVE1Scmh1bm90MlR2eWtMVi13ZmJuZ1B6eFhJdE96VG9kOEpYamlkZnZ5TUtKamFabVowcngzVVFfcFJsZWkzdm5PQ2tCa2J3RHMwR1ZMQmY2NlNnc3UyYVA3NnNUaFREVDVFOFZFWG5aTEo5TWNmYm1oaWR0TlR5SFdVRUl6bTZ2V2dYUDlRcGdIaWZEZXlRcngtNk5tbVFQckQ4TDlILUJFVW1lNXdNV1lfTE52VGlHS0RNa9IB3gFBVV95cUxQVFFzY2dHZjBwZHJtQnA5dzR0em1OOWlWRWVGZURqOHF0LTZMSHNTMm1CTzM1Y3V3Z1NscWtJQWpJVVFWZnk0aXZGYm5ZS24yRzRsbTB2VkRXV005U1ZDWHVjMHczNHpyMGxJVUNmaEM3MHQ2Z093bHNmbExoZHZwLXh6ZjNCUUtzTENtV2lDUlBVRk81Vk5UVVhNU1N5SUJLOGwwazcyeVMxbW9sdzhIblN0bmplZGp4UHRzakgzM3NFWXNxOTlUak1SM2NOV09hbk5jTjhKZVNOQW82X2c?oc=5\" target=\"_blank\">Conrad Sangma writes: Meghalaya’s AI story is a template for inclusive tech growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZmJoSlhQSE9LWXdNVThCY0UwXzJ3dC1RSjBaVE1Scmh1bm90MlR2eWtMVi13ZmJuZ1B6eFhJdE96VG9kOEpYamlkZnZ5TUtKamFabVowcngzVVFfcFJsZWkzdm5PQ2tCa2J3RHMwR1ZMQmY2NlNnc3UyYVA3NnNUaFREVDVFOFZFWG5aTEo5TWNmYm1oaWR0TlR5SFdVRUl6bTZ2V2dYUDlRcGdIaWZEZXlRcngtNk5tbVFQckQ4TDlILUJFVW1lNXdNV1lfTE52VGlHS0RNa9IB3gFBVV95cUxQVFFzY2dHZjBwZHJtQnA5dzR0em1OOWlWRWVGZURqOHF0LTZMSHNTMm1CTzM1Y3V3Z1NscWtJQWpJVVFWZnk0aXZGYm5ZS24yRzRsbTB2VkRXV005U1ZDWHVjMHczNHpyMGxJVUNmaEM3MHQ2Z093bHNmbExoZHZwLXh6ZjNCUUtzTENtV2lDUlBVRk81Vk5UVVhNU1N5SUJLOGwwazcyeVMxbW9sdzhIblN0bmplZGp4UHRzakgzM3NFWXNxOTlUak1SM2NOV09hbk5jTjhKZVNOQW82X2c?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya: Regional AI Impact Conference 2025 Held in Shillong",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbW5QQ0hDZUU4ODdVV0lDdU95cVVka2xoOTljSHlyWUdqc2paYVM0STMxbE1GUVB1NDdCTldTMXZQWVFlRVFlMmM5MkgzUk41bmJPRlpNZkM3aVNYc0kxM0FWVjBBWmhva0xiSmFGMjk1eDk3dzc3UFhvMnRqWUFTTElKemdUS1JtSHlneHpPNjdlV2FQdE9uTHlJTFlDUk5DLVlta2JOdHFxUQ?oc=5\" target=\"_blank\">Meghalaya: Regional AI Impact Conference 2025 Held in Shillong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sanskriti IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbW5QQ0hDZUU4ODdVV0lDdU95cVVka2xoOTljSHlyWUdqc2paYVM0STMxbE1GUVB1NDdCTldTMXZQWVFlRVFlMmM5MkgzUk41bmJPRlpNZkM3aVNYc0kxM0FWVjBBWmhva0xiSmFGMjk1eDk3dzc3UFhvMnRqWUFTTElKemdUS1JtSHlneHpPNjdlV2FQdE9uTHlJTFlDUk5DLVlta2JOdHFxUQ?oc=5",
+   "source_name": "Sanskriti IAS",
+   "source_domain": "sanskritiias.com",
+   "published_raw": "Wed, 03 Dec 2025 13:25:07 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya launches AI for Good Society to steer safe, ethical tech adoption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcDlqS2FsNnNXc2VpMlpzNzJRR0dqRkh3a2dLajBRa3lxVWxwLUhWbjVMR3U0X2JkZUJEeFRpSkhrYWZJNmkxV0pGbVBNSXBsV1Y5QWpsUWlzWkl0YjBkbGw4VTFRMUthR1JZeXFzU1VuOENsOVJvU1NpQjRhVldrVk1DNmstTzhQbmFZSDg0aVA5cW9PU1FsOTFTdjRLZw?oc=5\" target=\"_blank\">Meghalaya launches AI for Good Society to steer safe, ethical tech adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hub News</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDlqS2FsNnNXc2VpMlpzNzJRR0dqRkh3a2dLajBRa3lxVWxwLUhWbjVMR3U0X2JkZUJEeFRpSkhrYWZJNmkxV0pGbVBNSXBsV1Y5QWpsUWlzWkl0YjBkbGw4VTFRMUthR1JZeXFzU1VuOENsOVJvU1NpQjRhVldrVk1DNmstTzhQbmFZSDg0aVA5cW9PU1FsOTFTdjRLZw?oc=5",
+   "source_name": "Hub News",
+   "source_domain": "hubnetwork.in",
+   "published_raw": "Wed, 03 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya Hosts Regional AI Impact Conference 2025 in Shillong",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXJydUVWR243VVhjTEpDXzFZek00WGh2TGszdnNFT3hLcXFIRm43dnVsUmtHNWNLWDBsZjNwWjNuMWQyT1R1N0hoUHJ0YkVHdmRqc2t5ZmlaM25SenVkZ1JUaDY5ZjF3MjRDX0luZGxGbGRtVTN0LUhjOVlQWmhiclNDZlltOGxBdlNDNDVSejM2Y2tEOTFTME9fQmRIMms?oc=5\" target=\"_blank\">Meghalaya Hosts Regional AI Impact Conference 2025 in Shillong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXJydUVWR243VVhjTEpDXzFZek00WGh2TGszdnNFT3hLcXFIRm43dnVsUmtHNWNLWDBsZjNwWjNuMWQyT1R1N0hoUHJ0YkVHdmRqc2t5ZmlaM25SenVkZ1JUaDY5ZjF3MjRDX0luZGxGbGRtVTN0LUhjOVlQWmhiclNDZlltOGxBdlNDNDVSejM2Y2tEOTFTME9fQmRIMms?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Thu, 04 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:28+00:00"
+  }
+ ]
+}

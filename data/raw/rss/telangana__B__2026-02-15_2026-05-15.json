@@ -1,0 +1,120 @@
+{
+ "region": "Telangana",
+ "group": "B",
+ "query": "(Telangana OR Hyderabad) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Telangana+OR+Hyderabad%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:20+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "AI push: Only 21 per cent govt schools in Telangana have computers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFNWX2ZIT1JlUjM3czJqRHg2ZGJVcDBoT19MRjY3SzRvbldXeGdHWHBfRHh5bldIUlJZam5TUjFjQlJzeXFxSzEzb01nM1ozendJY0I4M2Ywa3dyTUNUdkdpRDg2Qk5TdXJLSGJxM1BodVQyeEdSVXoyaFl5bnBOT2J4WjQtWDZaelptQ3ZmLUhYV3l3WEhSUEhrRnZjNGp6dXlpc2MtNlllOU81Y2JUeExERWg4QXAyMVBiLWQ2R250QkZsblHSAdMBQVVfeXFMT3FpUVBjTFN0WUs3NkFCUzdsOFl0SmROZ1hmbWRaRFhGaDlpaWJSS2NQSG81SDdSb0ZMdE5RQnlXazZxZmFWOWhkVHJTVm41RFkwS2MtYWtER05BbDJWdW55NkczSXhiX0RlWmladEJkR0JxSFM1UE1qVUJJcjBlbG9SNzZkcGMwSHFyTGx0d1dqU0NtMVdpeVlUd3VpLThVSzI2NnhHZlRieUhSaHBSNkJWZzlhaDVEN3VtekE5c3llN3R5RHhjako0UzdJTW01UzhoVQ?oc=5\" target=\"_blank\">AI push: Only 21 per cent govt schools in Telangana have computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFNWX2ZIT1JlUjM3czJqRHg2ZGJVcDBoT19MRjY3SzRvbldXeGdHWHBfRHh5bldIUlJZam5TUjFjQlJzeXFxSzEzb01nM1ozendJY0I4M2Ywa3dyTUNUdkdpRDg2Qk5TdXJLSGJxM1BodVQyeEdSVXoyaFl5bnBOT2J4WjQtWDZaelptQ3ZmLUhYV3l3WEhSUEhrRnZjNGp6dXlpc2MtNlllOU81Y2JUeExERWg4QXAyMVBiLWQ2R250QkZsblHSAdMBQVVfeXFMT3FpUVBjTFN0WUs3NkFCUzdsOFl0SmROZ1hmbWRaRFhGaDlpaWJSS2NQSG81SDdSb0ZMdE5RQnlXazZxZmFWOWhkVHJTVm41RFkwS2MtYWtER05BbDJWdW55NkczSXhiX0RlWmladEJkR0JxSFM1UE1qVUJJcjBlbG9SNzZkcGMwSHFyTGx0d1dqU0NtMVdpeVlUd3VpLThVSzI2NnhHZlRieUhSaHBSNkJWZzlhaDVEN3VtekE5c3llN3R5RHhjako0UzdJTW01UzhoVQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "IT Minister bats for AI innovation, stresses on guardrails too",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVk5JS0x3cEY0dGUwWmlEWG1rcTVpTDRKWW1PN1FqUzNjcDhtN3QwdEM2dGpZRUZiaUtvNGotRlBCLUxqN1h1M0Y0VTZNaEN1WVZiUnkwNVN2U3ZkZnp2WHBfUVVINUIwWVZUMEJfSWlwMkROd1dkSmY4S2RxdU9pVElENHl3VlRNakg3U2N6QTBSa29RdDI2UlNZbmFQdlB3WUJrMWVvZlcxMzluTFY1d2ZXVEhuM0VDcVBCR1dvRVRtNllHWXY2UzBR0gHQAUFVX3lxTE9NNEhrelNKR0pLYUtpME9iM0FGV1hEMUp6NUtHTVpmZWxiQlpnTHJSUUQwR2xhQUZpWFF0U2dtaEg0QUVFcjlHcWFhTEh2czZ3cTFGT29CWC1KVHd4QUtlOFgxdlNmUVJEVXRmekpzaVhBRHNvX2VmX1pfUnJfdGNZcUZpSGpONHIzVmI2WTZTXy1xMFg5TV9fRlpxdGRJQXZBcHpuWl9xVERmNEVxR3FKOEI4cjFwVWxqdWM4dzAyNkFMLXhWU25HNHdwdXZheVc?oc=5\" target=\"_blank\">IT Minister bats for AI innovation, stresses on guardrails too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVk5JS0x3cEY0dGUwWmlEWG1rcTVpTDRKWW1PN1FqUzNjcDhtN3QwdEM2dGpZRUZiaUtvNGotRlBCLUxqN1h1M0Y0VTZNaEN1WVZiUnkwNVN2U3ZkZnp2WHBfUVVINUIwWVZUMEJfSWlwMkROd1dkSmY4S2RxdU9pVElENHl3VlRNakg3U2N6QTBSa29RdDI2UlNZbmFQdlB3WUJrMWVvZlcxMzluTFY1d2ZXVEhuM0VDcVBCR1dvRVRtNllHWXY2UzBR0gHQAUFVX3lxTE9NNEhrelNKR0pLYUtpME9iM0FGV1hEMUp6NUtHTVpmZWxiQlpnTHJSUUQwR2xhQUZpWFF0U2dtaEg0QUVFcjlHcWFhTEh2czZ3cTFGT29CWC1KVHd4QUtlOFgxdlNmUVJEVXRmekpzaVhBRHNvX2VmX1pfUnJfdGNZcUZpSGpONHIzVmI2WTZTXy1xMFg5TV9fRlpxdGRJQXZBcHpuWl9xVERmNEVxR3FKOEI4cjFwVWxqdWM4dzAyNkFMLXhWU25HNHdwdXZheVc?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana to explore AI tax to offset job losses: CM Revanth Reddy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlYS0RWeWstaF81Z2dmLVNvZVhnSUtBQVA0UFI1dUdQbHMzRFNwZ2ctbThxazhkY1JhVzhZOTdZYk1LZUxCSjQwQ1o2MFJYXzM5WllXRzN3ZUljbFpudUNzRGtQdmtFZFFmeUVuYVpaR2JOb000UzhyQXdJd05IejFZN0o5OEMtS1lpQ05FUW1SNC1NbFROUXhFNFNqYkZ2YkVGb1FUeVc4aHNKSDlsM19FVnNoN252b2FfS1g3QWloc0R2andCRGJhVUNPOHI3N1NvdEd1VTdDMUEtLU5ELURoUmQ4QdIB6gFBVV95cUxQN2RvV09nU3A3WkRZaXpvY0NzbWVVRGxremVoUzEwZFpWaHQ4V1NuOElyVHltdzVLeXlQSXBUZVNuZTR4RE5OWHIyVDlGaW5uVzhuUEVZTVgwWThSYm9aOExzNkpuTEZjYWlkSEVsbDUzaF96cE05RzZMVDc5dU5qX0hWM05XWDNod0MwcXhDWU1ma3dITk82SUh1M1NIejc2SUp0cGItN1c2cC1adk1OMG9LLWhReDE2MmhDX0MzTTlRNWR4ZE44V2JwOUFlNGhHTk53MElmTzctRk5DMUk5SGJjNE95X293WXc?oc=5\" target=\"_blank\">Telangana to explore AI tax to offset job losses: CM Revanth Reddy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTTlYS0RWeWstaF81Z2dmLVNvZVhnSUtBQVA0UFI1dUdQbHMzRFNwZ2ctbThxazhkY1JhVzhZOTdZYk1LZUxCSjQwQ1o2MFJYXzM5WllXRzN3ZUljbFpudUNzRGtQdmtFZFFmeUVuYVpaR2JOb000UzhyQXdJd05IejFZN0o5OEMtS1lpQ05FUW1SNC1NbFROUXhFNFNqYkZ2YkVGb1FUeVc4aHNKSDlsM19FVnNoN252b2FfS1g3QWloc0R2andCRGJhVUNPOHI3N1NvdEd1VTdDMUEtLU5ELURoUmQ4QdIB6gFBVV95cUxQN2RvV09nU3A3WkRZaXpvY0NzbWVVRGxremVoUzEwZFpWaHQ4V1NuOElyVHltdzVLeXlQSXBUZVNuZTR4RE5OWHIyVDlGaW5uVzhuUEVZTVgwWThSYm9aOExzNkpuTEZjYWlkSEVsbDUzaF96cE05RzZMVDc5dU5qX0hWM05XWDNod0MwcXhDWU1ma3dITk82SUh1M1NIejc2SUp0cGItN1c2cC1adk1OMG9LLWhReDE2MmhDX0MzTTlRNWR4ZE44V2JwOUFlNGhHTk53MElmTzctRk5DMUk5SGJjNE95X293WXc?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Sun, 29 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "IIIT Hyderabad and Athenian Tech to Launch AI-Powered Cybersecurity Initiative",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREpRekUzNDNRaVBfaE4xbTdodEl6MXprVFBQRVpMbUJDUWNueVJQYUVvNldRS3Job1VNRjFjM2NKZmhCTmJ6b05LMUp3LVZxbXE2eTBZNkN4RF8wQ2NWbEFhZFFqcWgxRDJCSC05Q2FwbEVvV2Q4MlVCdTY1OTVYdWZ5cFV1RVBVU0FhQkV2OTBmNmU0bXFwZTFlTFRvMkJvU19QaGFldzRMUnp6Z2pxUVg1SkFyQk84elR0enZ0LW1NQXp3NHNMONIBzgFBVV95cUxQZ1hiNUxOR2FuekI4Wjcxa25uNm55S29kb095TE5zUS1VTS1TV0ZCQndHamZqWk9HcGNxd2ctb0s5Y1piTEUydUZIRzJoM3ZCRk9lclJZSk9WYXVKMTJqYktKd1o1VDlnR0RMV1dBekppWDY1RHVudmpFMjY4MHM5VklhSHFDdGFqd0tYbldkM2poMENmeXhxSF9CbDFjNFRGV21WNTdRQ1pLRXFXMjVYaEJBLTYzR2xES1BFdUVpZHFqeGQwQWxTYVZNMzh1QQ?oc=5\" target=\"_blank\">IIIT Hyderabad and Athenian Tech to Launch AI-Powered Cybersecurity Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREpRekUzNDNRaVBfaE4xbTdodEl6MXprVFBQRVpMbUJDUWNueVJQYUVvNldRS3Job1VNRjFjM2NKZmhCTmJ6b05LMUp3LVZxbXE2eTBZNkN4RF8wQ2NWbEFhZFFqcWgxRDJCSC05Q2FwbEVvV2Q4MlVCdTY1OTVYdWZ5cFV1RVBVU0FhQkV2OTBmNmU0bXFwZTFlTFRvMkJvU19QaGFldzRMUnp6Z2pxUVg1SkFyQk84elR0enZ0LW1NQXp3NHNMONIBzgFBVV95cUxQZ1hiNUxOR2FuekI4Wjcxa25uNm55S29kb095TE5zUS1VTS1TV0ZCQndHamZqWk9HcGNxd2ctb0s5Y1piTEUydUZIRzJoM3ZCRk9lclJZSk9WYXVKMTJqYktKd1o1VDlnR0RMV1dBekppWDY1RHVudmpFMjY4MHM5VklhSHFDdGFqd0tYbldkM2poMENmeXhxSF9CbDFjNFRGV21WNTdRQ1pLRXFXMjVYaEJBLTYzR2xES1BFdUVpZHFqeGQwQWxTYVZNMzh1QQ?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Tue, 12 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana to Launch Quantum Computing Centre of Excellence in Hyderabad",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdENPRWdDSXFKQTRIRTFlZHl2cDNlQXhOdFgtaHJNLVJ6OUpRVDRLRFV6aENhMWdaY2xMRGJtRlRna2dsMHpXVzNSQllrQ0tYRG5aVlhwT0dldXVuZWlXb2Q5OGxsSWt6M0NLY2Z4enBxb292cndTT0VsaURMZGlTeE5NWHFRSUc4Q3RnWkFIdmNPd0FFZ0dWSEIweHQyVUxTRFhBUF9KOGVMUDI0Q3c?oc=5\" target=\"_blank\">Telangana to Launch Quantum Computing Centre of Excellence in Hyderabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdENPRWdDSXFKQTRIRTFlZHl2cDNlQXhOdFgtaHJNLVJ6OUpRVDRLRFV6aENhMWdaY2xMRGJtRlRna2dsMHpXVzNSQllrQ0tYRG5aVlhwT0dldXVuZWlXb2Q5OGxsSWt6M0NLY2Z4enBxb292cndTT0VsaURMZGlTeE5NWHFRSUc4Q3RnWkFIdmNPd0FFZ0dWSEIweHQyVUxTRFhBUF9KOGVMUDI0Q3c?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "CJI Surya Kant to launch AI chatbot ‘ABHAY’ for notice verification",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQamc4LUVYaXRjQUhvSENSMWRKTVdBQjVBbVJBc1JfQVlrTkZaRWtRdl96cXdjT0hfendQa1NYNGdBdkQwQXJybFEwcW5xeTlZTE1lNkY5b3Bia0owbklrOEEtdktkb3lZMWpfLUZCX2RJUzlReURFLUFQTTBLMnVIRk82bHM0emhmSnVXTmtYd3paNDB6Y2I0?oc=5\" target=\"_blank\">CJI Surya Kant to launch AI chatbot ‘ABHAY’ for notice verification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamc4LUVYaXRjQUhvSENSMWRKTVdBQjVBbVJBc1JfQVlrTkZaRWtRdl96cXdjT0hfendQa1NYNGdBdkQwQXJybFEwcW5xeTlZTE1lNkY5b3Bia0owbklrOEEtdktkb3lZMWpfLUZCX2RJUzlReURFLUFQTTBLMnVIRk82bHM0emhmSnVXTmtYd3paNDB6Y2I0?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Hyderabad emerging as global AI-driven fintech hub: Minister D Sridhar Babu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWFKNmJ2R1hzVEJpWHNHaTZTU1pDQ01RV3ZBUjltd0V2RnJxbjZnRFYtWVQwZXVRYkMzdm44YlNDOVg1ajh5ZFkzaFBhNTl1QUxDVnduWm1HM0hRZ0hBeHM5QTVpQ0dnbmhIRUxGeUFtUGNMVUtTb1drdHBIbS1ZaDdEeWo5V3ZjV2pXbVlYZTFYclROMERhUmZPaXQ5NFl0a1BDM2FJdDc5TWJHd3BFN21YVzlmOVp4U0N6YWdpeHRQaVhlODVEZjd1Z3ZSUlRaYVHSAd8BQVVfeXFMTmE4bFJkTENkYVRHcnQ2NHE1TVdacjdDM2ZvWE5YQnZ1ODZGVTktcm91aGJFQmcwUldOMzdfU3Z2ZlNzVWZ0a3lMOXQ4NUlFR3ZNNkpHQk1oWmJjYzBSbzdkVHpTUlgyT1dmWmxycUM4TE5HMkg5bTlobWxoNWJQZHFDUTBPVkpwV1JnUXlDTzU5WE5GZDhQVk1EMkROOHBkX2w2Y1dPM2xXcG9DNXVGMy03UDJ3VnRuVVN6SmFvSXdHeWFJalRfVkx5Q0k5TmItd09qY3JxTzN2Q3VGZ29uSQ?oc=5\" target=\"_blank\">Hyderabad emerging as global AI-driven fintech hub: Minister D Sridhar Babu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWFKNmJ2R1hzVEJpWHNHaTZTU1pDQ01RV3ZBUjltd0V2RnJxbjZnRFYtWVQwZXVRYkMzdm44YlNDOVg1ajh5ZFkzaFBhNTl1QUxDVnduWm1HM0hRZ0hBeHM5QTVpQ0dnbmhIRUxGeUFtUGNMVUtTb1drdHBIbS1ZaDdEeWo5V3ZjV2pXbVlYZTFYclROMERhUmZPaXQ5NFl0a1BDM2FJdDc5TWJHd3BFN21YVzlmOVp4U0N6YWdpeHRQaVhlODVEZjd1Z3ZSUlRaYVHSAd8BQVVfeXFMTmE4bFJkTENkYVRHcnQ2NHE1TVdacjdDM2ZvWE5YQnZ1ODZGVTktcm91aGJFQmcwUldOMzdfU3Z2ZlNzVWZ0a3lMOXQ4NUlFR3ZNNkpHQk1oWmJjYzBSbzdkVHpTUlgyT1dmWmxycUM4TE5HMkg5bTlobWxoNWJQZHFDUTBPVkpwV1JnUXlDTzU5WE5GZDhQVk1EMkROOHBkX2w2Y1dPM2xXcG9DNXVGMy03UDJ3VnRuVVN6SmFvSXdHeWFJalRfVkx5Q0k5TmItd09qY3JxTzN2Q3VGZ29uSQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sun, 08 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana govt prepared to meet challenges posed by rapid rise of AI: IT Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONG5ibnJtWEYybG1QRmhaYXhuTnZHNnVsY3lzU0Rhb19IYUtmNUptVVdDUENPTWFDdjl5aGY2dmthU0lTQmNOMjVRRlFDcHgweWhSMnlQcXJzSjMxMENhaWJkU2RjTWpKbTIwQi0wc2FWYUdva2taaEJMdUJTbTJzUHdfbzI4QTFJajQ5eTR6bTRhU3I1alJJNmNaaWFqVlhTZGk3YVlQN0RGdW0tOWxwMVVXTVlQT3F6bjhZclZBUER6dXVVaUVVM2FMVGR2SWMwWmE3T0xBX3VZbzRDbVFmS9IB5wFBVV95cUxNTGVGbDZWcDBQeThWUWJCdVVhenpVRWlXaF9ybXVzQm13c2sxZHd1dHdDc1FGWDlMZ2RHUTBzMVlWUXI2TU9OT0Rvc2hRNjhpQ2VvbTB2YVQwaGFYbk1FYVhuYmg2dFFEY29IRHYyOHYxWjZtbzVKaHRtemZtNmROUUh4NTNxeHFuTE9kczNQZk9aWWZ2dERPdW5Fa3ZBVlBDeGtmMUxkcU1VbnVQVzA2UFJzX3FHUWs4TDIxa214eDVuYTVmeUVEQk11S0VSOFoyYm5zRDY4UTVhM0hTakswNUtZbGs3Zm8?oc=5\" target=\"_blank\">Telangana govt prepared to meet challenges posed by rapid rise of AI: IT Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONG5ibnJtWEYybG1QRmhaYXhuTnZHNnVsY3lzU0Rhb19IYUtmNUptVVdDUENPTWFDdjl5aGY2dmthU0lTQmNOMjVRRlFDcHgweWhSMnlQcXJzSjMxMENhaWJkU2RjTWpKbTIwQi0wc2FWYUdva2taaEJMdUJTbTJzUHdfbzI4QTFJajQ5eTR6bTRhU3I1alJJNmNaaWFqVlhTZGk3YVlQN0RGdW0tOWxwMVVXTVlQT3F6bjhZclZBUER6dXVVaUVVM2FMVGR2SWMwWmE3T0xBX3VZbzRDbVFmS9IB5wFBVV95cUxNTGVGbDZWcDBQeThWUWJCdVVhenpVRWlXaF9ybXVzQm13c2sxZHd1dHdDc1FGWDlMZ2RHUTBzMVlWUXI2TU9OT0Rvc2hRNjhpQ2VvbTB2YVQwaGFYbk1FYVhuYmg2dFFEY29IRHYyOHYxWjZtbzVKaHRtemZtNmROUUh4NTNxeHFuTE9kczNQZk9aWWZ2dERPdW5Fa3ZBVlBDeGtmMUxkcU1VbnVQVzA2UFJzX3FHUWs4TDIxa214eDVuYTVmeUVEQk11S0VSOFoyYm5zRDY4UTVhM0hTakswNUtZbGs3Zm8?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Telangana banking on AI to open new career avenues, says minister Sridhar Babu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHU1UnZ2dUYyMDZFV2VVUy1jOTVLZTlFQ19vanRqdExUZlh5X0VsMDcyYzdoX0s3YkYtNjRpNy1EZW1lNWl6MHlNZDdRcWtZbF9pS3dzYk1HRUNtVjlLTmRLX3JFUmlWMWdzOExyS0xDUE8tX3JYSDhPLXg3REllc1FiQVBjbTJET05mSllGemdhekVmZFhIZG1sLTFFLVl0V0VHRVoxN3FneXZmMjh3TTFHSGlaTE42UlNacDJYTnBEdzBKNE9XdkliYy1BN1N0U3JfdzJKbG1ISTdXbFB2MmY4NklFZGJ4MUHSAe8BQVVfeXFMTmhOUkltZ05lQTVNRzdRRThMOFoteExSSEdrVi1GYlE5RXI0SFhsWDRCdmtER3VHQWxPZGZ2cnZibmhkendqdnZEUkNrdTgxUlh1aUg2QkVDdTJycFUtZVNLUmIzMk5Nako0RHoxNGhERHplX3ZMdHc5WGs0OXdWTFR0MlN4RzFwT3hVWkZoMTNhRV9iaDNfNFhfZnlYT1M1dXJBQ2dqRFIxRUV2eGE3bnNobFRuZnNiNUZydDdkdFVOX0pRemhKV1lteUk2aTk3bDd6VW1uTURoeDdZdERHT21HdlYyaVprV25BX1pCdzg?oc=5\" target=\"_blank\">Telangana banking on AI to open new career avenues, says minister Sridhar Babu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHU1UnZ2dUYyMDZFV2VVUy1jOTVLZTlFQ19vanRqdExUZlh5X0VsMDcyYzdoX0s3YkYtNjRpNy1EZW1lNWl6MHlNZDdRcWtZbF9pS3dzYk1HRUNtVjlLTmRLX3JFUmlWMWdzOExyS0xDUE8tX3JYSDhPLXg3REllc1FiQVBjbTJET05mSllGemdhekVmZFhIZG1sLTFFLVl0V0VHRVoxN3FneXZmMjh3TTFHSGlaTE42UlNacDJYTnBEdzBKNE9XdkliYy1BN1N0U3JfdzJKbG1ISTdXbFB2MmY4NklFZGJ4MUHSAe8BQVVfeXFMTmhOUkltZ05lQTVNRzdRRThMOFoteExSSEdrVi1GYlE5RXI0SFhsWDRCdmtER3VHQWxPZGZ2cnZibmhkendqdnZEUkNrdTgxUlh1aUg2QkVDdTJycFUtZVNLUmIzMk5Nako0RHoxNGhERHplX3ZMdHc5WGs0OXdWTFR0MlN4RzFwT3hVWkZoMTNhRV9iaDNfNFhfZnlYT1M1dXJBQ2dqRFIxRUV2eGE3bnNobFRuZnNiNUZydDdkdFVOX0pRemhKV1lteUk2aTk3bDd6VW1uTURoeDdZdERHT21HdlYyaVprV25BX1pCdzg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Telangana",
+   "title": "Lonza to Establish GCC in Hyderabad to Strengthen Telangana’s Life Sciences Ecosystem?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjJnNGhsQXN5M3ZWbnhaWm1GSG1BRkZLMnVaVHo0M2VHYjlVeEJYNzBWRDI0MHprdi1IelptUjdCN1VFd2EzdC03OXZDdzlSaU1iOHJZa01fc1RmaW9ITzJ6dHlsOC1jd2JyVEozNk9laXYtbHNhVkpLdkJ1SVBXZVZSeUtDbk83UkgtMU15bElWenlaOHJJVFhUVDhQb0IwSjhjWkRSSTVxZ1NJS0M5djM1ZHdadDhHRkNfaFJFWQ?oc=5\" target=\"_blank\">Lonza to Establish GCC in Hyderabad to Strengthen Telangana’s Life Sciences Ecosystem?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjJnNGhsQXN5M3ZWbnhaWm1GSG1BRkZLMnVaVHo0M2VHYjlVeEJYNzBWRDI0MHprdi1IelptUjdCN1VFd2EzdC03OXZDdzlSaU1iOHJZa01fc1RmaW9ITzJ6dHlsOC1jd2JyVEozNk9laXYtbHNhVkpLdkJ1SVBXZVZSeUtDbk83UkgtMU15bElWenlaOHJJVFhUVDhQb0IwSjhjWkRSSTVxZ1NJS0M5djM1ZHdadDhHRkNfaFJFWQ?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:20+00:00"
+  }
+ ]
+}

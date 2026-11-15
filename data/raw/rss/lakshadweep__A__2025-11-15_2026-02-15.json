@@ -1,0 +1,43 @@
+{
+ "region": "Lakshadweep",
+ "group": "A",
+ "query": "(Lakshadweep) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Lakshadweep%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:35+00:00",
+ "item_count": 3,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "How Expensive Is Lakshadweep Really? Flights, Hotels and Food Explained",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRy1LRHc1TlZWcURpc1RqOWdJNlFrazNkZjloU2Z0S1JyRnNraXJLbDhCQVdrRGJFMnZlWWhkdTJEUjJJQzk5aHpFY3lZTmpXNVZGQlY4OFB0M1RTNVhnZHpqNU5LYUVjcFJjVHFvNWNhdzB2SU9QdF94TEhjVHZ6cUlIeVNZQUdPNURtUFQ4a0NXTC1WcXR0eDJRdVJnaUN6WTJuYldJZTNuZTTSAbMBQVVfeXFMTWp6VDlZdkpHQ1BzYXFKaFZ6QlRUSVJjLWZuNXd6TzJNU0F3Xzc2TFV3LTItY2JvT2toQW5KbW1SbzhDZ3dyVi05R2EwOUxWTGhCZ0JCaU91X0pRaFozZkhPbGY1NE05ZzZMcEFwem1JdG5TdEU2UnFnZmVKNF9pbXR4YnBhT3dOSG9YbGlpaWo4bEFQNzItTVdNb01qTXQxU1JBWWg2UE50dlZ2aGM1S05OTG8?oc=5\" target=\"_blank\">How Expensive Is Lakshadweep Really? Flights, Hotels and Food Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRy1LRHc1TlZWcURpc1RqOWdJNlFrazNkZjloU2Z0S1JyRnNraXJLbDhCQVdrRGJFMnZlWWhkdTJEUjJJQzk5aHpFY3lZTmpXNVZGQlY4OFB0M1RTNVhnZHpqNU5LYUVjcFJjVHFvNWNhdzB2SU9QdF94TEhjVHZ6cUlIeVNZQUdPNURtUFQ4a0NXTC1WcXR0eDJRdVJnaUN6WTJuYldJZTNuZTTSAbMBQVVfeXFMTWp6VDlZdkpHQ1BzYXFKaFZ6QlRUSVJjLWZuNXd6TzJNU0F3Xzc2TFV3LTItY2JvT2toQW5KbW1SbzhDZ3dyVi05R2EwOUxWTGhCZ0JCaU91X0pRaFozZkhPbGY1NE05ZzZMcEFwem1JdG5TdEU2UnFnZmVKNF9pbXR4YnBhT3dOSG9YbGlpaWo4bEFQNzItTVdNb01qTXQxU1JBWWg2UE50dlZ2aGM1S05OTG8?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Mon, 15 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Indian Navy medical camp: Five-day healthcare mission in Lakshadweep; 4,700+ beneficiaries",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmlUOHlQTUNwcWNER1VBZVpqWC1laHhPMUhxMjdmTUs3eFNBZFRCWFFGRnZrNm9wNnRhNHVuY1A0a1lEd3ZjazZfMjk3WXJZUkQxVHctWlVGaHlLTnRjNFY0cmRzTHA1aXVQQ0hvMVZtUl9xOEhZZ0ZfSVBOMUtMMUh4bE43M05ydkY3MjdyZGhyQkd0VGlzT0VBQlJnRnN5UENDVDEwVTFPYmc3RDBJQWJxM09ZMlF6TGZBcDViOXdBZU45LVphNkY0Z3hmUkRCNnU5SU9NWVNVVFRPalp0ZHpDaGp1UjByV2VKedIB8gFBVV95cUxOUEI1LTROMTc2dGI4eHlZM0x0Szh2TXN1UXFtcEpNQVdpN2pLTjhGRDE2NHFybGJ1dkVIN2RLTktwYllxSHF1cU1lYl83d2pVWFdJdGdxRGhFeTBlUUhGdlhtam9EdVVoMmlMV1NLOW5uTlNmRHFJeUZNMkxORW1kbXNiSFhScUowVVc0bnlLV0xZaTJ0VDBYWE0wX0VKcFJieGlsdEtfWC1wdXZ6UGdtcm1EVEZUa0RKNlNtbG9LbUQzU2VTZlNqRGZPR3NXWDhHMUtnX0FWQnFvbS1hU3JVZUdCdHlJN1FQak5sMVExS016QQ?oc=5\" target=\"_blank\">Indian Navy medical camp: Five-day healthcare mission in Lakshadweep; 4,700+ beneficiaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmlUOHlQTUNwcWNER1VBZVpqWC1laHhPMUhxMjdmTUs3eFNBZFRCWFFGRnZrNm9wNnRhNHVuY1A0a1lEd3ZjazZfMjk3WXJZUkQxVHctWlVGaHlLTnRjNFY0cmRzTHA1aXVQQ0hvMVZtUl9xOEhZZ0ZfSVBOMUtMMUh4bE43M05ydkY3MjdyZGhyQkd0VGlzT0VBQlJnRnN5UENDVDEwVTFPYmc3RDBJQWJxM09ZMlF6TGZBcDViOXdBZU45LVphNkY0Z3hmUkRCNnU5SU9NWVNVVFRPalp0ZHpDaGp1UjByV2VKedIB8gFBVV95cUxOUEI1LTROMTc2dGI4eHlZM0x0Szh2TXN1UXFtcEpNQVdpN2pLTjhGRDE2NHFybGJ1dkVIN2RLTktwYllxSHF1cU1lYl83d2pVWFdJdGdxRGhFeTBlUUhGdlhtam9EdVVoMmlMV1NLOW5uTlNmRHFJeUZNMkxORW1kbXNiSFhScUowVVc0bnlLV0xZaTJ0VDBYWE0wX0VKcFJieGlsdEtfWC1wdXZ6UGdtcm1EVEZUa0RKNlNtbG9LbUQzU2VTZlNqRGZPR3NXWDhHMUtnX0FWQnFvbS1hU3JVZUdCdHlJN1FQak5sMVExS016QQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 18 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Lakshadweep hosts first-ever investors' meet to unlock fisheries, aquaculture potential",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0l2eFp0VWN1RU9RdHl5U0E2aGs4dWxmMzNnQVZmRGNNSXk5M0Mtb21jYlBOUXBOUDJIRUVqd1VpTGs4VkxfWlJ4VDVkamI3TzhjU3pLcHUzVlphYXFqQWFCT0duVE1tNnlLMWhJS0pJazlCM3pRaHFJSU9ka1QwT1ltNmRTd3NxVUhRY2hCc3FQYzhkbmU5ZkR0bW5OZjMzaEdTMEt1VFBDNTBBTXo2NmUwQlhjUS1LcDJWaVdqT1RqajhfUnJZenJ2NC1WSThWaURqNUVBQ3F2ZU1FbXFMTTJ6WUzSAeoBQVVfeXFMUFlBUEdINW5zZlN3TzAxVXpJUzlSZXRlME9SMF9vTHdKQUI2dmUxU0VMS2FGSjgtTmEwb0ZVZG5YVTR3VGloRjBKZXFjdGVoYlBWOU9fYVJScW1lb1BWdWRJZ2pBQXB5Y19zNHVlblNYSFpLMUJOZFNYS2c0YzdjQ0ZpaHNjTm1VNGlLQVI2dDJlaV9wNkd0YkRzdWRRWllkQk56Y0xicDNyTldjTk1Vd2NEX012VjFJcXdtWUxFZjZ2bEJibEdjX09PTl9MT0hWMDJ2TWNhYy05TGVPVWtHZGcxSFpNTm5XcG5n?oc=5\" target=\"_blank\">Lakshadweep hosts first-ever investors' meet to unlock fisheries, aquaculture potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0l2eFp0VWN1RU9RdHl5U0E2aGs4dWxmMzNnQVZmRGNNSXk5M0Mtb21jYlBOUXBOUDJIRUVqd1VpTGs4VkxfWlJ4VDVkamI3TzhjU3pLcHUzVlphYXFqQWFCT0duVE1tNnlLMWhJS0pJazlCM3pRaHFJSU9ka1QwT1ltNmRTd3NxVUhRY2hCc3FQYzhkbmU5ZkR0bW5OZjMzaEdTMEt1VFBDNTBBTXo2NmUwQlhjUS1LcDJWaVdqT1RqajhfUnJZenJ2NC1WSThWaURqNUVBQ3F2ZU1FbXFMTTJ6WUzSAeoBQVVfeXFMUFlBUEdINW5zZlN3TzAxVXpJUzlSZXRlME9SMF9vTHdKQUI2dmUxU0VMS2FGSjgtTmEwb0ZVZG5YVTR3VGloRjBKZXFjdGVoYlBWOU9fYVJScW1lb1BWdWRJZ2pBQXB5Y19zNHVlblNYSFpLMUJOZFNYS2c0YzdjQ0ZpaHNjTm1VNGlLQVI2dDJlaV9wNkd0YkRzdWRRWllkQk56Y0xicDNyTldjTk1Vd2NEX012VjFJcXdtWUxFZjZ2bEJibEdjX09PTl9MT0hWMDJ2TWNhYy05TGVPVWtHZGcxSFpNTm5XcG5n?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sun, 14 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:35+00:00"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "region": "Haryana",
+ "query": "(Haryana) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:39+00:00",
+ "total_results": 4,
+ "item_count": 4,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Haryana",
+   "title": "Complaint against home minister Priyank after he links RSS to seizure of 44,250 live cartridges in Bihar and Haryana; BJP says image Priyank used in social media post was AI-generated",
+   "description": "Complaint against home minister Priyank after he links RSS to seizure of 44,250 live cartridges in Bihar and Haryana; BJP says image Priyank used in social media post was AI-generated",
+   "url": "https://timesofindia.indiatimes.com/city/bengaluru/complaint-against-home-minister-priyank-after-he-links-rss-to-seizure-of-44250-live-cartridges-in-bihar-and-haryana-bjp-says-image-priyank-used-in-social-media-post-was-ai-generated/articleshow/135743537.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-11T16:23:02Z",
+   "fetched_at": "2026-11-15T09:47:39+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Haryana",
+   "title": "UP retains top position in number of GST assesses, followed by Maharashtra",
+   "description": "Haryana posted the highest growth rate at over 13.6%, the national average rose about 9.5%, signalling ongoing efforts to broaden tax registration through automated and AI-assisted processes",
+   "url": "https://www.thehindubusinessline.com/economy/up-retains-top-position-in-number-of-gst-assesses-followed-by-maharashtra/article71678210.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-11-07T13:59:25Z",
+   "fetched_at": "2026-11-15T09:47:39+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Haryana",
+   "title": "UP retains top position in number of GST assesses, followed by Maharashtra",
+   "description": "Haryana posted the highest growth rate at over 13.6%, the national average rose about 9.5%, signalling ongoing efforts to broaden tax registration through automated and AI-assisted processes",
+   "url": "https://www.thehindubusinessline.com/todays-paper/tp-economy/up-retains-top-position-in-number-of-gst-assesses-followed-by-maharashtra/article71678210.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-11-07T13:42:13Z",
+   "fetched_at": "2026-11-15T09:47:39+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Haryana",
+   "title": "AI videos, German singer link in case against man who died in Haryana jail",
+   "description": "AI-generated videos and a German singer feature in a Gurgaon cyber fraud case against Akhil Maurya, who died in Bhondsi jail; family disputes Italian complainant’s claims.",
+   "url": "https://timesofindia.indiatimes.com/city/gurgaon/ai-videos-german-singer-link-in-case-against-man-who-died-in-haryana-jail/articleshow/135075188.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-20T18:06:14Z",
+   "fetched_at": "2026-11-15T09:47:39+00:00"
+  }
+ ]
+}

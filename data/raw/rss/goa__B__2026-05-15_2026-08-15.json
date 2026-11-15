@@ -1,0 +1,142 @@
+{
+ "region": "Goa",
+ "group": "B",
+ "query": "(Goa) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Goa%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:55+00:00",
+ "item_count": 12,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "In Final Stage, Under Review: Goa IT Minister On Delayed AI, Deep-Tech Policy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONk9kUWhyWF9GcDMycUFidlI5VklLYkNacnUtWkNKV29zRXVpRGkwbHp4eEk4TVVpTWxWVnNsUlVzTXVVMkhJbTRlWGFPcXdnVmw4MTVLckFIVDJqT0Z2a3BVeVIwbGwtd3hWNzVuZVR3NjRsUXBncE5xMTd1clprMTZYSktqN0FXQUF5LTVIbVp6OUU2R3lFbll5MDdGcHVZbXNlam5RWUs2dlI1aEttTWhzY3lpTXJaQXp6bFJoSFpqZXg20gHMAUFVX3lxTFBCdHhoNVAzajZWVnZ6UV9Td0wza3BtNDZNdzVqcjNUeGRlQTQ1azl5Z1JSelF2S1pxMVV4UTFuZ0dGeUxxd3gxbkh0YmF6WlpmX1h6QlpfTWlJbTV5RS15el83MzVMWWhyT2ZUZkJFaFQzZXAtRFRuRlhZZnlpSGJPeWNCQ2RzUDJDVWI0MHlzLUlscFpuRi1iLS1ScXNxTnhjTkV6TzUwcHk3SnVwTGh0VnYwRXN0al93Sk05S2tVMUlyaG5VR21tTng1OA?oc=5\" target=\"_blank\">In Final Stage, Under Review: Goa IT Minister On Delayed AI, Deep-Tech Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONk9kUWhyWF9GcDMycUFidlI5VklLYkNacnUtWkNKV29zRXVpRGkwbHp4eEk4TVVpTWxWVnNsUlVzTXVVMkhJbTRlWGFPcXdnVmw4MTVLckFIVDJqT0Z2a3BVeVIwbGwtd3hWNzVuZVR3NjRsUXBncE5xMTd1clprMTZYSktqN0FXQUF5LTVIbVp6OUU2R3lFbll5MDdGcHVZbXNlam5RWUs2dlI1aEttTWhzY3lpTXJaQXp6bFJoSFpqZXg20gHMAUFVX3lxTFBCdHhoNVAzajZWVnZ6UV9Td0wza3BtNDZNdzVqcjNUeGRlQTQ1azl5Z1JSelF2S1pxMVV4UTFuZ0dGeUxxd3gxbkh0YmF6WlpmX1h6QlpfTWlJbTV5RS15el83MzVMWWhyT2ZUZkJFaFQzZXAtRFRuRlhZZnlpSGJPeWNCQ2RzUDJDVWI0MHlzLUlscFpuRi1iLS1ScXNxTnhjTkV6TzUwcHk3SnVwTGh0VnYwRXN0al93Sk05S2tVMUlyaG5VR21tTng1OA?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "MeitY and Goa Boost Multilingual AI for Digital Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjdxY0RWYXo5Vm1qNUl6bFhvZGJXUzZhd3R0eTJUVFJtbHVTakw4cVVlLUlHS1pobDZBVWhIa3VUZXYzclF0Y1QtM1BuZWJzMjRyek9MWDBBZjluam5rRkhBX21wUkx0dDJUYXVya1NDazRic1R4V3FaYlA0UDhqZU52T0NpNm1XSEFOQ19mSl9rdzRTSzZyWA?oc=5\" target=\"_blank\">MeitY and Goa Boost Multilingual AI for Digital Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Konsulteer</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjdxY0RWYXo5Vm1qNUl6bFhvZGJXUzZhd3R0eTJUVFJtbHVTakw4cVVlLUlHS1pobDZBVWhIa3VUZXYzclF0Y1QtM1BuZWJzMjRyek9MWDBBZjluam5rRkhBX21wUkx0dDJUYXVya1NDazRic1R4V3FaYlA0UDhqZU52T0NpNm1XSEFOQ19mSl9rdzRTSzZyWA?oc=5",
+   "source_name": "Konsulteer",
+   "source_domain": "konsulteer.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "MeitY, Goa Join Hands to Boost Multilingual AI and Konkani-Led Digital Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEIwdmVqckVzQnFZWGVOdXZXLXBxVUxCeGpFTzFIZWtVcmRsdFBnbExvRzBaSXhqX0ZWMFNac2NXeWtZVmlQazB6bUlGOTduMVRxXzVubFhkYTAyLVZEbklCWm83OVgyc3VVaHRPemFGb0pMWkJUaW1TVDZYWU9YNVpYeFYxaVpPN0xld0ZBZWRIaW5SeGVkdDV6NDFsazYwTDNjRGJBZlY0Zw?oc=5\" target=\"_blank\">MeitY, Goa Join Hands to Boost Multilingual AI and Konkani-Led Digital Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEIwdmVqckVzQnFZWGVOdXZXLXBxVUxCeGpFTzFIZWtVcmRsdFBnbExvRzBaSXhqX0ZWMFNac2NXeWtZVmlQazB6bUlGOTduMVRxXzVubFhkYTAyLVZEbklCWm83OVgyc3VVaHRPemFGb0pMWkJUaW1TVDZYWU9YNVpYeFYxaVpPN0xld0ZBZWRIaW5SeGVkdDV6NDFsazYwTDNjRGJBZlY0Zw?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "1.37 lakh screenings completed in Goa under initiative to tackle cancer: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnI1OGZxcTJrN25Pa28xUlpJbE9xSk8yU1pMZ2pRTW1sZTMxQ3pfemlJazB3V0Zza0F2U2ZHaFBONUZFckFnUEhQRk1YalRDYldET2FPN1lpamFWaC1hbE5WbjRGS0NBa1FMMHJTazM2UmdaWWNMYmxsMnF4YTVyTkE5Q1htZ3c5Y1VkVUptcncwaGhKTzR1WmJaTzZRR0RTNElGTEl6NkU0YUQwRUVCMUFOTzh3cjc0RktoRzQzbC1XOGtJQ09VaTFnS1RXUl9RVzFKZ0pZdzFCMF9kZllB0gHkAUFVX3lxTE9zaXdwNnFINFJvTlVzeUplTEVwQmNhcVFSWjh5TERDZlhJUU5fdVp5SEFDWGVSbUxvUXpqeFY5ejNNbkE5ME9vVG1JcUthZWxDSmpua0dyb2lrdVdYRmVFODV6WnBOTDJFRFBkamRZYmNHUVZWbmRWRE95b29aelBFNmtHRm1vRWFGR1FxeFIzUU1CY0dNSXBwUElJQnR4endYSWVzeGlSV29UMDNyWHRNM1ZsMGpEVVVWd2h3dElqQmVZYmI4a29DeG1sWmg4bDYwVU1abWw1MEI1RDlEczJNdnFDSg?oc=5\" target=\"_blank\">1.37 lakh screenings completed in Goa under initiative to tackle cancer: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET HealthWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnI1OGZxcTJrN25Pa28xUlpJbE9xSk8yU1pMZ2pRTW1sZTMxQ3pfemlJazB3V0Zza0F2U2ZHaFBONUZFckFnUEhQRk1YalRDYldET2FPN1lpamFWaC1hbE5WbjRGS0NBa1FMMHJTazM2UmdaWWNMYmxsMnF4YTVyTkE5Q1htZ3c5Y1VkVUptcncwaGhKTzR1WmJaTzZRR0RTNElGTEl6NkU0YUQwRUVCMUFOTzh3cjc0RktoRzQzbC1XOGtJQ09VaTFnS1RXUl9RVzFKZ0pZdzFCMF9kZllB0gHkAUFVX3lxTE9zaXdwNnFINFJvTlVzeUplTEVwQmNhcVFSWjh5TERDZlhJUU5fdVp5SEFDWGVSbUxvUXpqeFY5ejNNbkE5ME9vVG1JcUthZWxDSmpua0dyb2lrdVdYRmVFODV6WnBOTDJFRFBkamRZYmNHUVZWbmRWRE95b29aelBFNmtHRm1vRWFGR1FxeFIzUU1CY0dNSXBwUElJQnR4endYSWVzeGlSV29UMDNyWHRNM1ZsMGpEVVVWd2h3dElqQmVZYmI4a29DeG1sWmg4bDYwVU1abWw1MEI1RDlEczJNdnFDSg?oc=5",
+   "source_name": "ET HealthWorld",
+   "source_domain": "health.economictimes.indiatimes.com",
+   "published_raw": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa records 803 DPIIT-recognised startups as AI, tech ecosystem expands: Khaunte",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVms3MkZiNGtVemZOdGR6UTMtcF9ZX2RkZ24wY1FLTll6VlVuR0lNMnJ0WVFrd1Q2RUxSU2NqNkt5cUR6Sm1VbU91c2J1aC0wMi1aNF92aVpoelhMeXFuYzhnSmIxM05hYmN3bVpUb3NJeWxDY2UtbC05MUxZRkxfTUREWXlFaDV2THhkalJ2MDFma2FNSWM2bUR6akVEd2hjWUE5Y3h0SEM2VVRyOVVCZXFUNzU3ZHRtM3N1eGlqNA?oc=5\" target=\"_blank\">Goa records 803 DPIIT-recognised startups as AI, tech ecosystem expands: Khaunte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVms3MkZiNGtVemZOdGR6UTMtcF9ZX2RkZ24wY1FLTll6VlVuR0lNMnJ0WVFrd1Q2RUxSU2NqNkt5cUR6Sm1VbU91c2J1aC0wMi1aNF92aVpoelhMeXFuYzhnSmIxM05hYmN3bVpUb3NJeWxDY2UtbC05MUxZRkxfTUREWXlFaDV2THhkalJ2MDFma2FNSWM2bUR6akVEd2hjWUE5Y3h0SEM2VVRyOVVCZXFUNzU3ZHRtM3N1eGlqNA?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Mon, 29 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "No More Grace Period: AI Traffic Fines From August 1",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnRVX3AtUXlzUjZtNGo5ZG50RmpnNVI5dmVObkZKSEROdFhSVDR5ZUE5cFpIWjNQWW91LXJBdFdUc0kwY3dWOGFfUEg1b3RTLWZlMndYSVhCdDh1VHN0NFBWTG10a3JTY2d0UU1ZYmxTMFF5R3RlbG1IMUpqNHNyXzRTWWpnS2t0U1doNWxyQ21NRWUzbW8zZ2VSYw?oc=5\" target=\"_blank\">No More Grace Period: AI Traffic Fines From August 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prudent Media Goa</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnRVX3AtUXlzUjZtNGo5ZG50RmpnNVI5dmVObkZKSEROdFhSVDR5ZUE5cFpIWjNQWW91LXJBdFdUc0kwY3dWOGFfUEg1b3RTLWZlMndYSVhCdDh1VHN0NFBWTG10a3JTY2d0UU1ZYmxTMFF5R3RlbG1IMUpqNHNyXzRTWWpnS2t0U1doNWxyQ21NRWUzbW8zZ2VSYw?oc=5",
+   "source_name": "Prudent Media Goa",
+   "source_domain": "prudentmedia.in",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa launches BHASHINI workshop to boost Konkani AI, voice-based citizen services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW11MkF3U2FVMXlTaThESy1idkE3Qk1yNDZjcmtQVmpJdUpEYmNwd2lwZG9KOGJxOVFaMWc5b19PWldIbTZPanB6NWd4N2NseTBoRlpYWUtvbUpldHcyMEJOdDFjRVF1MW1kNWtWeElnVzFiNjNrUXhUb3RsbW9XYjhrcHRnSXNzOTk1dUt3NjdoZFFkTVE0SWJfNmkxX3BkQkpqVzM1QTI1SXR3Z0JMRV9kbkMzSUM0MnF0UWFyRmM?oc=5\" target=\"_blank\">Goa launches BHASHINI workshop to boost Konkani AI, voice-based citizen services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW11MkF3U2FVMXlTaThESy1idkE3Qk1yNDZjcmtQVmpJdUpEYmNwd2lwZG9KOGJxOVFaMWc5b19PWldIbTZPanB6NWd4N2NseTBoRlpYWUtvbUpldHcyMEJOdDFjRVF1MW1kNWtWeElnVzFiNjNrUXhUb3RsbW9XYjhrcHRnSXNzOTk1dUt3NjdoZFFkTVE0SWJfNmkxX3BkQkpqVzM1QTI1SXR3Z0JMRV9kbkMzSUM0MnF0UWFyRmM?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa to get ₹2,000 crore maritime projects, water metro: Union Minister Sarbananda Sonowal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTWxOY1FlbEFCN1NSME5yOVFsMWZ2VVdtNmhfUDA0aTcwQmlVQUhHVGRtQVJwa0hPVDJMNFo5ei1wc01RR3NWQ09nQk56UzIwX3pZR2xZT3Y4Wk8xRHlCYUxCVDRzYmRSbUttYmtLV21uVnd5WHBSMkgyRTZSdzRjb3hVZEFaODFVa2JCR2IxeWFUTFZmbW9oa1ZCRm5uTWpQamxibjFVZC1sMEY5Q05SMzZsVmFzZmh2Y09vLTYxV1ZOYldoVUlwR1o5SmtFdVhNdzdTMmxySkJVSmhyZ3dWeDRwa3o2WEw3OGVTUlpn0gHzAUFVX3lxTFB6WHd2V1lEQnVDS1NFMnpzcTFZcVVtMXVFbUhORFRTTnFKMXU5Vms3bndXNi02a2RRSUxsODV3LWRYTFlBS3QxUFBjVlRNOG9HcnB4dERObWV2WFc5UF9uZDRMR3M1NnVBME93eHlVWnczUjRaeHh6SUIxS2VRZE01dEpCaGVRNDhPZVFSYlV3OEVGUEtfZ3E1cHdUZ01IR2RVNXVMZlV6ckVSOFR6NFU3bkdNajNUNF9qalM3bmlOeDlQU1FSSDRvT2Y1R3Z1ajRZQXAwWFpIT3FLWHdULWxPMmc3Yy14RVFCa3RSeFdrYjFUNA?oc=5\" target=\"_blank\">Goa to get ₹2,000 crore maritime projects, water metro: Union Minister Sarbananda Sonowal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTWxOY1FlbEFCN1NSME5yOVFsMWZ2VVdtNmhfUDA0aTcwQmlVQUhHVGRtQVJwa0hPVDJMNFo5ei1wc01RR3NWQ09nQk56UzIwX3pZR2xZT3Y4Wk8xRHlCYUxCVDRzYmRSbUttYmtLV21uVnd5WHBSMkgyRTZSdzRjb3hVZEFaODFVa2JCR2IxeWFUTFZmbW9oa1ZCRm5uTWpQamxibjFVZC1sMEY5Q05SMzZsVmFzZmh2Y09vLTYxV1ZOYldoVUlwR1o5SmtFdVhNdzdTMmxySkJVSmhyZ3dWeDRwa3o2WEw3OGVTUlpn0gHzAUFVX3lxTFB6WHd2V1lEQnVDS1NFMnpzcTFZcVVtMXVFbUhORFRTTnFKMXU5Vms3bndXNi02a2RRSUxsODV3LWRYTFlBS3QxUFBjVlRNOG9HcnB4dERObWV2WFc5UF9uZDRMR3M1NnVBME93eHlVWnczUjRaeHh6SUIxS2VRZE01dEpCaGVRNDhPZVFSYlV3OEVGUEtfZ3E1cHdUZ01IR2RVNXVMZlV6ckVSOFR6NFU3bkdNajNUNF9qalM3bmlOeDlQU1FSSDRvT2Y1R3Z1ajRZQXAwWFpIT3FLWHdULWxPMmc3Yy14RVFCa3RSeFdrYjFUNA?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Sat, 27 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI Traffic Cameras Go Live in Goa from Tomorrow",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOOTZTMkQwWWRqak1yejY0VVpsMngwbkhTLVFyVnZ3VW5lNmd1LUoyZ0Y2U1JKUVRPODNFd3ZMdFo4cUpNZm5LdFZFNHZodDFYR3NqdXU0N1RoRGRHRXpUWG9FTlZkR0xHWUdXT2JOeHdJN2RRWDdDVnFTa3h1OG1WZnhiX0NjZWJWdFBrSERXUEJobG9wakE?oc=5\" target=\"_blank\">AI Traffic Cameras Go Live in Goa from Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prudent Media Goa</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOTZTMkQwWWRqak1yejY0VVpsMngwbkhTLVFyVnZ3VW5lNmd1LUoyZ0Y2U1JKUVRPODNFd3ZMdFo4cUpNZm5LdFZFNHZodDFYR3NqdXU0N1RoRGRHRXpUWG9FTlZkR0xHWUdXT2JOeHdJN2RRWDdDVnFTa3h1OG1WZnhiX0NjZWJWdFBrSERXUEJobG9wakE?oc=5",
+   "source_name": "Prudent Media Goa",
+   "source_domain": "prudentmedia.in",
+   "published_raw": "Fri, 31 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "RVNL inks pact with Goa government for infrastructure project development",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmNXVm1sM3U2b0prQmRXQTRjYzV3YlY4eHpKUU5QTzBJSGNPLTZFOTJodkpONHhQMGU3VG5rbWpZb1ZKQ2hhYnN1N0hzNG8yUTdNeWFCVkhJdUZFam9LWTBSb2V4QXYxQkN4MGtHQnNHVkZfcU03N1J1RVpPODM4UUllSnRXM3BaOE91OXYzN1lFZENaQ3BKR2dSbEFKa3pnVkRhSzJFcTZEb1JKdFFZSTNkLTNzd3hEV0dLa1ZUc0ZVRDJyR29VdjJKU1VJYUZ1cllvbk5B0gHbAUFVX3lxTFB4M1Fya05JSHZUWjNxLUQtUVN0VHppblNjdXk0STdGbWQxWF9UZ1BaRmxYZ0pOT00xZ1hDQjlYVEgtcUVEV09CbXBQZzdFanlTRHd3U2FlTHpFZzhwTFVUR1lLOHFrdkJ3ZFY5V0NQQm1Iai02VDRtNWJUazlMQy1aY2h5VlhHTXZiOUNkenFTWDg1NmZjS2lyMFVTTVFtamNZRnpPaGI5dU1qSWVxNXFCRmtfMmFuZHI5bVlUZGJjZk1ORjZ3TVB4VXRwTjFlaTl2RU9vNUE2T3Bqdw?oc=5\" target=\"_blank\">RVNL inks pact with Goa government for infrastructure project development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmNXVm1sM3U2b0prQmRXQTRjYzV3YlY4eHpKUU5QTzBJSGNPLTZFOTJodkpONHhQMGU3VG5rbWpZb1ZKQ2hhYnN1N0hzNG8yUTdNeWFCVkhJdUZFam9LWTBSb2V4QXYxQkN4MGtHQnNHVkZfcU03N1J1RVpPODM4UUllSnRXM3BaOE91OXYzN1lFZENaQ3BKR2dSbEFKa3pnVkRhSzJFcTZEb1JKdFFZSTNkLTNzd3hEV0dLa1ZUc0ZVRDJyR29VdjJKU1VJYUZ1cllvbk5B0gHbAUFVX3lxTFB4M1Fya05JSHZUWjNxLUQtUVN0VHppblNjdXk0STdGbWQxWF9UZ1BaRmxYZ0pOT00xZ1hDQjlYVEgtcUVEV09CbXBQZzdFanlTRHd3U2FlTHpFZzhwTFVUR1lLOHFrdkJ3ZFY5V0NQQm1Iai02VDRtNWJUazlMQy1aY2h5VlhHTXZiOUNkenFTWDg1NmZjS2lyMFVTTVFtamNZRnpPaGI5dU1qSWVxNXFCRmtfMmFuZHI5bVlUZGJjZk1ORjZ3TVB4VXRwTjFlaTl2RU9vNUE2T3Bqdw?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Sat, 18 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "No more grace: AI cameras to issue fines from August 1",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXg0blNvSzA3Y2lsSTZoTkZrcFAtVXZ6YVJySnhqTVlNdlhKd01OUTVhd0FtR3QzbTZQODE2aTRZTTJ3eFd3SXNkelhVSldtVFAtdzJzQUQ3TVU2YUF2SDFPWVk2c3pVMTVsMzJOY2pXdUtBTUp5ZEFjbGhXaEtGSENud2NwdlBUNzdHM281ZVNKU25IYUFQYUx6S1c1cGs?oc=5\" target=\"_blank\">No more grace: AI cameras to issue fines from August 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXg0blNvSzA3Y2lsSTZoTkZrcFAtVXZ6YVJySnhqTVlNdlhKd01OUTVhd0FtR3QzbTZQODE2aTRZTTJ3eFd3SXNkelhVSldtVFAtdzJzQUQ3TVU2YUF2SDFPWVk2c3pVMTVsMzJOY2pXdUtBTUp5ZEFjbGhXaEtGSENud2NwdlBUNzdHM281ZVNKU25IYUFQYUx6S1c1cGs?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa govt launches booking app for iconic motorcycle taxi service",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdkdBY3pyeGtsWTFfRFlHZXFpOGxXYkxJRGRnZjdoTXdQNzl0TzZ1VjVMazk2ZnVjNHg2MVhIX1JFcGV0ZmRJdzREOGh4VWF6b1JHWm10M09MQTVGbHdIOHhDampJRzZ1cWM1TE5JYTNyMXpIdlVqZm11dlRKaG5wQVlEaEFsekdhNUpiVmk1WnFhMkliQTkyVnk3TEhtNGxRQXdTOWE1bTdTNWRvRnJnZUl1T2Y1NjBxeUtIRElxVThkWnZHY05fajZIcjlUSG9vSXUwcnQxZUlqZ2fSAd8BQVVfeXFMTUJMN1A1OW93ZkhwLUh5VGtSUFFUSG1ob2JRNDV0eGFmLUxlbTRISFI2dVk2TFAwdl9VN3lvQ3hhM0ZrY3FwclNwQlMwV3pKZ0g3ZVpRTE83dEdEZlRJbzNVb18zZDctVkhBQk9HanNiNldPeXZjZVU4OEZvWWRwS3VGZW1qVmx2X3V6VWd6UTF4cjJRNk5KNUZBb0c0UTh5bEhwUzMwdU5FNE9zMmttUC0xQnU0Y093bG5EbWtlUUhacjI2OHRhRjRFUTNDOU1vNnBrSnJlSHN4UEpnc1NZbw?oc=5\" target=\"_blank\">Goa govt launches booking app for iconic motorcycle taxi service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdkdBY3pyeGtsWTFfRFlHZXFpOGxXYkxJRGRnZjdoTXdQNzl0TzZ1VjVMazk2ZnVjNHg2MVhIX1JFcGV0ZmRJdzREOGh4VWF6b1JHWm10M09MQTVGbHdIOHhDampJRzZ1cWM1TE5JYTNyMXpIdlVqZm11dlRKaG5wQVlEaEFsekdhNUpiVmk1WnFhMkliQTkyVnk3TEhtNGxRQXdTOWE1bTdTNWRvRnJnZUl1T2Y1NjBxeUtIRElxVThkWnZHY05fajZIcjlUSG9vSXUwcnQxZUlqZ2fSAd8BQVVfeXFMTUJMN1A1OW93ZkhwLUh5VGtSUFFUSG1ob2JRNDV0eGFmLUxlbTRISFI2dVk2TFAwdl9VN3lvQ3hhM0ZrY3FwclNwQlMwV3pKZ0g3ZVpRTE83dEdEZlRJbzNVb18zZDctVkhBQk9HanNiNldPeXZjZVU4OEZvWWRwS3VGZW1qVmx2X3V6VWd6UTF4cjJRNk5KNUZBb0c0UTh5bEhwUzMwdU5FNE9zMmttUC0xQnU0Y093bG5EbWtlUUhacjI2OHRhRjRFUTNDOU1vNnBrSnJlSHN4UEpnc1NZbw?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:55+00:00"
+  }
+ ]
+}

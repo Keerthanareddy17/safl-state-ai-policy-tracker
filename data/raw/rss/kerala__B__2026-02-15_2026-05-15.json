@@ -1,0 +1,120 @@
+{
+ "region": "Kerala",
+ "group": "B",
+ "query": "(Kerala OR Thiruvananthapuram) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Kerala+OR+Thiruvananthapuram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:15+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "‘AI Kid of India’ urges young people to embrace technology",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yalgzdm9IbkRkeEVlb2xtNXpyZnVjRUt4RUV4eDRqSlY0andLZm1uM1ZMR2cxdmpMbDVyc0V3aUhJYkJDLUVDMWtJZ1NqbjBNdUpJY2tnTQ?oc=5\" target=\"_blank\">‘AI Kid of India’ urges young people to embrace technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yalgzdm9IbkRkeEVlb2xtNXpyZnVjRUt4RUV4eDRqSlY0andLZm1uM1ZMR2cxdmpMbDVyc0V3aUhJYkJDLUVDMWtJZ1NqbjBNdUpJY2tnTQ?oc=5",
+   "source_name": "UN News",
+   "source_domain": "news.un.org",
+   "published_raw": "Sat, 28 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Who will win Kerala Assembly Election 2026? LDF or UDF?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQenZ4eWFweFZhQlRodE9EVVdFUkM0MEpqQ1RBNkotOTM0WmxjbXU0TXExSm9WWXFEUGNINjVfXzhIWnBHVXVtc2pLOUtiSy1oRHJEMUsteWtsSWRWYlNZbWZFbTluQVlVYVZ6Nkpab3puc29rOTlFb3JnWmdia2k4MnpKZ195WkhiaDVXUGtUWXpVNnRDVXJGX3ktdjQ2RHR2MF9FZlVydXU3djRtemNsONIBtwFBVV95cUxNWHRucTd2anI3SE1OQWVTNWVJc2dFdFAwSzZSOXNJWjZqMEFQX3hvVkxFMFNyOVNhQk1xNmt2MDd4SllhMzhVOUpHaXBMZENFSGNpY3FXRmVvT0l2VTlJRFVWMFNBZU1GbjN6WndwZTlJZ3JNNWwwSDRjTjd2LUNUbTI3VjNQdTUydVp4S2tWQUstLVdtLXBjN1RLelpaS21POWl4VDc3WXVEaHdvYm9pS0VDZVhTR2c?oc=5\" target=\"_blank\">Who will win Kerala Assembly Election 2026? LDF or UDF?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenZ4eWFweFZhQlRodE9EVVdFUkM0MEpqQ1RBNkotOTM0WmxjbXU0TXExSm9WWXFEUGNINjVfXzhIWnBHVXVtc2pLOUtiSy1oRHJEMUsteWtsSWRWYlNZbWZFbTluQVlVYVZ6Nkpab3puc29rOTlFb3JnWmdia2k4MnpKZ195WkhiaDVXUGtUWXpVNnRDVXJGX3ktdjQ2RHR2MF9FZlVydXU3djRtemNsONIBtwFBVV95cUxNWHRucTd2anI3SE1OQWVTNWVJc2dFdFAwSzZSOXNJWjZqMEFQX3hvVkxFMFNyOVNhQk1xNmt2MDd4SllhMzhVOUpHaXBMZENFSGNpY3FXRmVvT0l2VTlJRFVWMFNBZU1GbjN6WndwZTlJZ3JNNWwwSDRjTjd2LUNUbTI3VjNQdTUydVp4S2tWQUstLVdtLXBjN1RLelpaS21POWl4VDc3WXVEaHdvYm9pS0VDZVhTR2c?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala-based AI startup Genrobotics secures big deal from Singapore govt, aims IPO in two years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFM1Y1RZcTloTnJMbTNZdjlNa3RBc2ctQ0NLRWphck1aalhRbzQ2NkZ4YUItaXQ2ZTVkdmVrY3YwVFBxMEQzdWdleFRTNlBRUmttNmwtMU5iUTIxbnlNaGszUDVJMXhzUkMyZHAyVW9xM3J6SWJwUEkwTVh4TDJ4WWhJM1Nadmtnc3NNSDRma2tOSnlNOWVBRkk4cmRRWHM4Sm1SVGhHbS1NWkFzQnlmdzYzVW9PRkIyWnk0WlpXcWZRUXR3NDBOWGVMYnA4UTVZUldSNU9DZVRPdWhtaHZTT2lB0gHvAUFVX3lxTE9qOFVnMm1LMHk3bVE1SEExWjdPVnBuNzFWTVVVRlN0RVNEU28ySU1MUzdOS3hkcXNMWWtQS1NiMjJMajJGa3l4UUs3TVRCX2dWckZuR2c5SmltdjNqdXB4bGtnZ0RrREhMclRra2FtbXdEeEJLMGUxTjdwcndPMWs0QXRzcWpmZl9rRXMxRnVTekhFUFBIMkhnY3VHT1hCVmJKaVlZN2JVdXBUYW4yNEx4Ym9lekpiUnl5UC1mRjdSZGNzTzhlenZoRFlwLTRBZVVkX2VBa1NDU2I5VEQxUHBfUjBJTkx2cUJCY1hSVFFN?oc=5\" target=\"_blank\">Kerala-based AI startup Genrobotics secures big deal from Singapore govt, aims IPO in two years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFM1Y1RZcTloTnJMbTNZdjlNa3RBc2ctQ0NLRWphck1aalhRbzQ2NkZ4YUItaXQ2ZTVkdmVrY3YwVFBxMEQzdWdleFRTNlBRUmttNmwtMU5iUTIxbnlNaGszUDVJMXhzUkMyZHAyVW9xM3J6SWJwUEkwTVh4TDJ4WWhJM1Nadmtnc3NNSDRma2tOSnlNOWVBRkk4cmRRWHM4Sm1SVGhHbS1NWkFzQnlmdzYzVW9PRkIyWnk0WlpXcWZRUXR3NDBOWGVMYnA4UTVZUldSNU9DZVRPdWhtaHZTT2lB0gHvAUFVX3lxTE9qOFVnMm1LMHk3bVE1SEExWjdPVnBuNzFWTVVVRlN0RVNEU28ySU1MUzdOS3hkcXNMWWtQS1NiMjJMajJGa3l4UUs3TVRCX2dWckZuR2c5SmltdjNqdXB4bGtnZ0RrREhMclRra2FtbXdEeEJLMGUxTjdwcndPMWs0QXRzcWpmZl9rRXMxRnVTekhFUFBIMkhnY3VHT1hCVmJKaVlZN2JVdXBUYW4yNEx4Ym9lekpiUnl5UC1mRjdSZGNzTzhlenZoRFlwLTRBZVVkX2VBa1NDU2I5VEQxUHBfUjBJTkx2cUJCY1hSVFFN?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 11 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5\" target=\"_blank\">Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala floods ‘man-made’, claims Congress MLA; minister calls audio clip ‘AI-generated’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONnNxajBNYW84cGFNOTNqVlBJLTZEcGl5WUUxZGVNeV9sb1A4UzBfTTBwb1o5R1lYTUU3c1JVVmJzVmE0WFVWRzdUb0wtQkluQjRqcG1XYjYwbmhNTm5TQk9KOHF0ZmZITXBoWVdqUl9BTTdyVGJmTmdzMkN3WTBrbUJ5TEtNN2kweEM5WjQ2OGx1bFgtMGJuZlQ4eXdjODZlWUdrZ1NFRzVaYUl6a1BuYktraDNVMFRKaGdSaEgtdmxoemFXT0VQZldFSdIB0AFBVV95cUxOdG9XS0pxMTZ6ZFNtNkN0SE5nWm16cW1IdlZhUFpkWlZ3QnFQWUtBNnpFZG9Pb2ZJdmhQWFpKWFhLdGE3Z3gxNS0zNXB2UFVsRi1kOUJhRG1LWWtrUm40OWFjNmlSZ2ZqYU12RGpUeUhIWXppdHhTY3NQTmpEWlpsczE3eGhvLWNHYVFjeTJyNzZ6a1NCVlQ5MXFsX1lzQmliWFJBbUxjVWtvNXdNamMyTlJ2bEp5MllTd2Z5Wkw4SVlmdTBlSGNqbWFCa1Z5U1ZP?oc=5\" target=\"_blank\">Kerala floods ‘man-made’, claims Congress MLA; minister calls audio clip ‘AI-generated’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONnNxajBNYW84cGFNOTNqVlBJLTZEcGl5WUUxZGVNeV9sb1A4UzBfTTBwb1o5R1lYTUU3c1JVVmJzVmE0WFVWRzdUb0wtQkluQjRqcG1XYjYwbmhNTm5TQk9KOHF0ZmZITXBoWVdqUl9BTTdyVGJmTmdzMkN3WTBrbUJ5TEtNN2kweEM5WjQ2OGx1bFgtMGJuZlQ4eXdjODZlWUdrZ1NFRzVaYUl6a1BuYktraDNVMFRKaGdSaEgtdmxoemFXT0VQZldFSdIB0AFBVV95cUxOdG9XS0pxMTZ6ZFNtNkN0SE5nWm16cW1IdlZhUFpkWlZ3QnFQWUtBNnpFZG9Pb2ZJdmhQWFpKWFhLdGE3Z3gxNS0zNXB2UFVsRi1kOUJhRG1LWWtrUm40OWFjNmlSZ2ZqYU12RGpUeUhIWXppdHhTY3NQTmpEWlpsczE3eGhvLWNHYVFjeTJyNzZ6a1NCVlQ5MXFsX1lzQmliWFJBbUxjVWtvNXdNamMyTlJ2bEp5MllTd2Z5Wkw4SVlmdTBlSGNqbWFCa1Z5U1ZP?oc=5",
+   "source_name": "The Week",
+   "source_domain": "theweek.in",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Supreme Court to do away with human intervention, will deploy AI for case listing and bench allocation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORWs1ZVpTUzZrXzhTZ0prZW9TekxZWWI2dGFEczdtcUpHdXJxSi1OOU1Fb3g5eGk2UHpvTHQ4MWxLTjdXRDJaV2pzN29qVWNxSTh4TGtiM0NjVlpOSkw2NFZQYXYtVEowcldsS0lTU3JZWExxZUhOaEdTOFdvYzJmNXVsRzlOY3BKclNZdVVQQ18ySjRibEk4YkFyM0djdDNKRnBWcTBGRjlyTmtTTE1ZMWYwN3pfbnpaNDZXYdIBwgFBVV95cUxPdzIzNGJabEo0Mjl1aGJkSHh0N1VCbGV5Z0R2ZDdmZDNiWmo3eEEybE4yTGJKYlkzR1lsNldpMkNWaE9iYXFOMXZLT09yY2FDZ2h6bVFFSGVYYjJqc2JGMFBpeUZ1WWF4a0hqa2RfLWRIWkJwR09KT2tPWVNWWV9MVm82SmVLUHBGZGxtLWVtZVpWdnI4SmlVN2tEbzQ0VV9xMFl0UWhwbHNucnVoZlU3bnc4ZVhUSjlpUE1DeFI0LVltdw?oc=5\" target=\"_blank\">Supreme Court to do away with human intervention, will deploy AI for case listing and bench allocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWs1ZVpTUzZrXzhTZ0prZW9TekxZWWI2dGFEczdtcUpHdXJxSi1OOU1Fb3g5eGk2UHpvTHQ4MWxLTjdXRDJaV2pzN29qVWNxSTh4TGtiM0NjVlpOSkw2NFZQYXYtVEowcldsS0lTU3JZWExxZUhOaEdTOFdvYzJmNXVsRzlOY3BKclNZdVVQQ18ySjRibEk4YkFyM0djdDNKRnBWcTBGRjlyTmtTTE1ZMWYwN3pfbnpaNDZXYdIBwgFBVV95cUxPdzIzNGJabEo0Mjl1aGJkSHh0N1VCbGV5Z0R2ZDdmZDNiWmo3eEEybE4yTGJKYlkzR1lsNldpMkNWaE9iYXFOMXZLT09yY2FDZ2h6bVFFSGVYYjJqc2JGMFBpeUZ1WWF4a0hqa2RfLWRIWkJwR09KT2tPWVNWWV9MVm82SmVLUHBGZGxtLWVtZVpWdnI4SmlVN2tEbzQ0VV9xMFl0UWhwbHNucnVoZlU3bnc4ZVhUSjlpUE1DeFI0LVltdw?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Fri, 13 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Election Results 2026: Date, counting start timing, result schedule, other details",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWszdzhtQy0wdkgxNlRiSlNRUXBBVTFzcGNyVUItQndleXBhYm1YaGZQTUlVNUhJNjRFaVp3ZGJQV2JLbF9kd2xnaElXeTFYMVNuTUdySjRmUEhiNGlGbTJkUy0za0s4SGc1TDhhWTdIcy03aUpreFkxbVdEZGFiTVdsQ0R5ZWhxdHVBTE9xVmY4VlNscDZOWjJzdjkxQkxxQ0x1SEJIVkExZGEzZG9LamJn0gG4AUFVX3lxTE9yV3hyWmVHNjl5NHdMWTVGRThRQ1pXbXNmSWszd05RZnhPbGQ2VFZJc0JUcE54NXF3RUtlOGNYWmxTSDhWSUYwUmFEN2VGaGF2dFBUU1k3WkJOakFpTk9nV3RQLXFteW9kT1R1N1doMkdJMXZQamN4WUY1Z3kwalFjWkVFbDFfMkJ6Um5rd2lkRU05aDZkcWlPQldTUWl6Z3ZqS2Q1UWl2d1NoZDVBSlhWQWhzLXVqbHQ?oc=5\" target=\"_blank\">Kerala Election Results 2026: Date, counting start timing, result schedule, other details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWszdzhtQy0wdkgxNlRiSlNRUXBBVTFzcGNyVUItQndleXBhYm1YaGZQTUlVNUhJNjRFaVp3ZGJQV2JLbF9kd2xnaElXeTFYMVNuTUdySjRmUEhiNGlGbTJkUy0za0s4SGc1TDhhWTdIcy03aUpreFkxbVdEZGFiTVdsQ0R5ZWhxdHVBTE9xVmY4VlNscDZOWjJzdjkxQkxxQ0x1SEJIVkExZGEzZG9LamJn0gG4AUFVX3lxTE9yV3hyWmVHNjl5NHdMWTVGRThRQ1pXbXNmSWszd05RZnhPbGQ2VFZJc0JUcE54NXF3RUtlOGNYWmxTSDhWSUYwUmFEN2VGaGF2dFBUU1k3WkJOakFpTk9nV3RQLXFteW9kT1R1N1doMkdJMXZQamN4WUY1Z3kwalFjWkVFbDFfMkJ6Um5rd2lkRU05aDZkcWlPQldTUWl6Z3ZqS2Q1UWl2d1NoZDVBSlhWQWhzLXVqbHQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sat, 02 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "West Bengal: Modi's BJP conquers one of India's toughest political frontiers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5\" target=\"_blank\">West Bengal: Modi's BJP conquers one of India's toughest political frontiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Mon, 04 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "Kerala Dental Student Death Sparks Caste Harassment Row (2026)",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3hDMk1FU3JuMnRWSWVRM01NTUpTTFRZWmpWSEpwaUd6Y09xV21FeXNrRmdOSm51TmRGcXJKcHJrUlBoMWVERUtHUU9EQXRyUm01dWNlNjRpNkktb2RjM2tkamdGMFh0T3hOSndjUlVibUhYMEtQdXItcGpZOUl2aVZuUC1remp1VVk5akVqeExPcmJ3Q3VocnZ6NUV4N0stZlpkNzZ3bW03djdmQWtnbjZhdW1aVjMxZDVYcHlYeTbSAccBQVVfeXFMTmI3VkFLTElmeGtIdlpEck8xMjZweWIzT2ZKOUpKbDVvRU1ROUtDY2hVWkRDMjJ3R25ETmhRd2ZieWxQSllKUWZheE9XYk1KZUtiUUNUR0NBNGk3c1ZDNVVEcW8wa2VGaHZzak50cWNXaHZNN3JqV0FvTlJEYk5tSlYyc29lSGo2WmVrZWlLR2stVGlGeF9HOV9tT01QQ0VmNGgtVHJFMzVEZDNMZzBFNE0xd1huWGZYb1JyOTl2MzhKaUNtWUxFQQ?oc=5\" target=\"_blank\">Kerala Dental Student Death Sparks Caste Harassment Row (2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3hDMk1FU3JuMnRWSWVRM01NTUpTTFRZWmpWSEpwaUd6Y09xV21FeXNrRmdOSm51TmRGcXJKcHJrUlBoMWVERUtHUU9EQXRyUm01dWNlNjRpNkktb2RjM2tkamdGMFh0T3hOSndjUlVibUhYMEtQdXItcGpZOUl2aVZuUC1remp1VVk5akVqeExPcmJ3Q3VocnZ6NUV4N0stZlpkNzZ3bW03djdmQWtnbjZhdW1aVjMxZDVYcHlYeTbSAccBQVVfeXFMTmI3VkFLTElmeGtIdlpEck8xMjZweWIzT2ZKOUpKbDVvRU1ROUtDY2hVWkRDMjJ3R25ETmhRd2ZieWxQSllKUWZheE9XYk1KZUtiUUNUR0NBNGk3c1ZDNVVEcW8wa2VGaHZzak50cWNXaHZNN3JqV0FvTlJEYk5tSlYyc29lSGo2WmVrZWlLR2stVGlGeF9HOV9tT01QQ0VmNGgtVHJFMzVEZDNMZzBFNE0xd1huWGZYb1JyOTl2MzhKaUNtWUxFQQ?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Tue, 21 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Kerala",
+   "title": "India Assembly and State By-Elections 2026 Schedule Announced",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFlVb2pSaHoxVldtT3Z4MjVzcDZWSm5JYm4zeC0zYUZ2ZzluUllXQTR3RmhEdURpdVYwaDNhbjF3ajI1ejlfYTVfSDJ4Y1FKY0szdnVBNktRb0UtVUFyR24zeTNmWXlJbXNNdWo1bkdZcVVyTTdxeGFHZzVZUGlRWktvdlBvQi02aWNvSzhOYncya3AwWDNlTFQ3M0JDUXVwVU92a1RjQ3E0cmdOT2xfeXFB0gG4AUFVX3lxTE55NXV5bFE1TnVocUpmdEZVNVpyNEs2enJ6clpSem5ZSFAxY1oySmpKby1OSFNkcldzWFdjQzJjRnJUSHRlVVpOcEU3a3FzcG9ZeGJNM2JNbUs5QThaM2M3ODlrZkYzTk5MLTJtakJjZlZ6TndHemdkT0kxSU9sdlpaY2h4RUt0cV9OUzk1RDBTc1p5T2x0MklEMU9jczJYUzFyNnpWdGtFWUVjZGVtUEUxWlB2M29aUy0?oc=5\" target=\"_blank\">India Assembly and State By-Elections 2026 Schedule Announced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFlVb2pSaHoxVldtT3Z4MjVzcDZWSm5JYm4zeC0zYUZ2ZzluUllXQTR3RmhEdURpdVYwaDNhbjF3ajI1ejlfYTVfSDJ4Y1FKY0szdnVBNktRb0UtVUFyR24zeTNmWXlJbXNNdWo1bkdZcVVyTTdxeGFHZzVZUGlRWktvdlBvQi02aWNvSzhOYncya3AwWDNlTFQ3M0JDUXVwVU92a1RjQ3E0cmdOT2xfeXFB0gG4AUFVX3lxTE55NXV5bFE1TnVocUpmdEZVNVpyNEs2enJ6clpSem5ZSFAxY1oySmpKby1OSFNkcldzWFdjQzJjRnJUSHRlVVpOcEU3a3FzcG9ZeGJNM2JNbUs5QThaM2M3ODlrZkYzTk5MLTJtakJjZlZ6TndHemdkT0kxSU9sdlpaY2h4RUt0cV9OUzk1RDBTc1p5T2x0MklEMU9jczJYUzFyNnpWdGtFWUVjZGVtUEUxWlB2M29aUy0?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Sun, 15 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:15+00:00"
+  }
+ ]
+}

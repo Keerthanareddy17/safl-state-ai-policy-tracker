@@ -1,0 +1,98 @@
+{
+ "region": "Chandigarh",
+ "group": "A",
+ "query": "(Chandigarh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chandigarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:52+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Press Note Details: Press Information Bureau",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmI5bUxROGhCWHJudjRTV1N0bXNkcWNkaGd2QTQzWmNrZFdXcnhwQzVjSU5MbjNnZXlldEtqUFFpVEZZZTdtVVFCSWYxY1UycVU1WDJQdmdyVzNTQjNFcUV1SXV1enUzQXdxdF8xN3M2TklfVWNZMjZKUlBaN1h5WDBYcFM1ZHNnT2Fz?oc=5\" target=\"_blank\">Press Note Details: Press Information Bureau</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmI5bUxROGhCWHJudjRTV1N0bXNkcWNkaGd2QTQzWmNrZFdXcnhwQzVjSU5MbjNnZXlldEtqUFFpVEZZZTdtVVFCSWYxY1UycVU1WDJQdmdyVzNTQjNFcUV1SXV1enUzQXdxdF8xN3M2TklfVWNZMjZKUlBaN1h5WDBYcFM1ZHNnT2Fz?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh University Launches “Quantum for Bharat” Mission; Aims to Make India a Global AI and Quantum Computing Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRWVZcFVpNTRqSGkyOFJyZFk1QkRkenRTN0kyVUg1MnFWWWdSNU9TNlowODdCV3V0SnY1RVlBb2YxMDBFWmFSMThpRC1nZzM0LUwybVlROHZYQXlLSi1IWUpDTmllWE9aOGoyeE84N3NaOTNVcktpWDg5ZkZlWlFEX3poOC1TVG54T2FJN29UdkZrQS1Sam1yNm41Qlh2TkRZVWtFY1JwTDdOdXFOMFhzMUN5cmplR1NHVXBzbEV2aHlGdkhEckh0dkxGZkRSTWNqcmE2bDZORVZ3RHh2Z3pxZzl4cnZHaXhGUWFTNjBHWFFNQURV0gH6AUFVX3lxTFBVdXRncHd5TlFSSExRc2lIX2t1enZ0OFVseW1RWkZiWE12Y1VFQVNVMFMzZFJEa1ZMcnY2SFVQdjdFbXpJSXFRWnpYMW5EMVhkdTBWUFhuU3JGMTg5UzVDQmE3M3FLcnJFWTI1a1JDenpkODB0ZlRvazNZRXM0S3JiVFZtYTNmNXdVWVk1TUF5MWdwQ0ZyMS1UTWZkMXZtbEYzRFNiR0pZZkdRRzlkbWl4aWF2UUhIejBRd0kta2h4Z1IxVnp2UzZWT015dlQ4UzR0WWdEMjlXRWU5ZExkSkpMVDdQeTVHWkpMeW1tclE3UVdGUVdZeXVrdGc?oc=5\" target=\"_blank\">Chandigarh University Launches “Quantum for Bharat” Mission; Aims to Make India a Global AI and Quantum Computing Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRWVZcFVpNTRqSGkyOFJyZFk1QkRkenRTN0kyVUg1MnFWWWdSNU9TNlowODdCV3V0SnY1RVlBb2YxMDBFWmFSMThpRC1nZzM0LUwybVlROHZYQXlLSi1IWUpDTmllWE9aOGoyeE84N3NaOTNVcktpWDg5ZkZlWlFEX3poOC1TVG54T2FJN29UdkZrQS1Sam1yNm41Qlh2TkRZVWtFY1JwTDdOdXFOMFhzMUN5cmplR1NHVXBzbEV2aHlGdkhEckh0dkxGZkRSTWNqcmE2bDZORVZ3RHh2Z3pxZzl4cnZHaXhGUWFTNjBHWFFNQURV0gH6AUFVX3lxTFBVdXRncHd5TlFSSExRc2lIX2t1enZ0OFVseW1RWkZiWE12Y1VFQVNVMFMzZFJEa1ZMcnY2SFVQdjdFbXpJSXFRWnpYMW5EMVhkdTBWUFhuU3JGMTg5UzVDQmE3M3FLcnJFWTI1a1JDenpkODB0ZlRvazNZRXM0S3JiVFZtYTNmNXdVWVk1TUF5MWdwQ0ZyMS1UTWZkMXZtbEYzRFNiR0pZZkdRRzlkbWl4aWF2UUhIejBRd0kta2h4Z1IxVnp2UzZWT015dlQ4UzR0WWdEMjlXRWU5ZExkSkpMVDdQeTVHWkpMeW1tclE3UVdGUVdZeXVrdGc?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Sat, 10 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh University Launches India's First 'AI Fest - 2026'; Registration Portal Launched",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM2V3VnhjdHJXRXZIMzdlUDFiU1k2Q3U4bV9wV3BfX1k4Y2h1UEstYVcyYThzWU01cWs5dVhEWmgxczBwZXp5TzVNcnlneUdWMjl5QmxpNEU4TjMxR1VpSEZfemxCZFJxU1JzNDdia0tJUGFmdl9CVS1VWW5GeDI2cVhtdmtQR2xwV2xNc2JKTU5kcUpTZ29lbFJGR2p3VDB1LV9LQUtJSndLZTNYNm9SZkNGZHlRcE9RR0ZBZTJQaENTcUJDeWt1czFkb2hTVi1nTGc?oc=5\" target=\"_blank\">Chandigarh University Launches India's First 'AI Fest - 2026'; Registration Portal Launched</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM2V3VnhjdHJXRXZIMzdlUDFiU1k2Q3U4bV9wV3BfX1k4Y2h1UEstYVcyYThzWU01cWs5dVhEWmgxczBwZXp5TzVNcnlneUdWMjl5QmxpNEU4TjMxR1VpSEZfemxCZFJxU1JzNDdia0tJUGFmdl9CVS1VWW5GeDI2cVhtdmtQR2xwV2xNc2JKTU5kcUpTZ29lbFJGR2p3VDB1LV9LQUtJSndLZTNYNm9SZkNGZHlRcE9RR0ZBZTJQaENTcUJDeWt1czFkb2hTVi1nTGc?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh Headlines Today — The Biggest Updates You Need to Know.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxORzItWW5oTmNGeG9maGxFU25GTDFWa1hsam55bVpqNkJ0RjJWelBIQmI1cXJDRDczRkVlOHlmejhPQi1wSGgxWUZZZEZ6QWk1cWZ0cEZYdXd6X2l4WUNVMVE2Qi1DczR2bVY2WUp1TWY0UWVoODZQd3gxWDRVZVFtU1VOMnVyV2o1YzVaQlBiOGJneFNtOHF1Qlh4TzZzdVl0LU4wQVFTc0RZVUxEd2lNNGdGZU1zLXhBRXc1ZFNrb0pXNnNtZ3NwLTJubmhhbVljR0NsSS14eXkwNjDSAeABQVVfeXFMT2lMbmtKV1dtTVJNeVFZZV9VajZuYTZOcUtLOGxLU2NtVlR3ZFF4VzV1REJla0pPLWVDSjFhUHJuYThCclc1elBCMjhCb2JheFVpNTZzbXlabVRPOVJmWU4tcWNFTDRya1g1LWtraFRBaDhWVFNudE9uZXlKemp0Ny00NDhhNXVNMUFlV3B5VWVSM3lyYzB3UGRYZHFQT3RjcDZXeU5CMm4tQ2NkY3dLTnhmWGQ0Wkp3TXdPblc0MHZ0UnBWZk9KUExhdXV4bXdmX1RpcU9PMk82SEcwekliRXM?oc=5\" target=\"_blank\">Chandigarh Headlines Today — The Biggest Updates You Need to Know.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORzItWW5oTmNGeG9maGxFU25GTDFWa1hsam55bVpqNkJ0RjJWelBIQmI1cXJDRDczRkVlOHlmejhPQi1wSGgxWUZZZEZ6QWk1cWZ0cEZYdXd6X2l4WUNVMVE2Qi1DczR2bVY2WUp1TWY0UWVoODZQd3gxWDRVZVFtU1VOMnVyV2o1YzVaQlBiOGJneFNtOHF1Qlh4TzZzdVl0LU4wQVFTc0RZVUxEd2lNNGdGZU1zLXhBRXc1ZFNrb0pXNnNtZ3NwLTJubmhhbVljR0NsSS14eXkwNjDSAeABQVVfeXFMT2lMbmtKV1dtTVJNeVFZZV9VajZuYTZOcUtLOGxLU2NtVlR3ZFF4VzV1REJla0pPLWVDSjFhUHJuYThCclc1elBCMjhCb2JheFVpNTZzbXlabVRPOVJmWU4tcWNFTDRya1g1LWtraFRBaDhWVFNudE9uZXlKemp0Ny00NDhhNXVNMUFlV3B5VWVSM3lyYzB3UGRYZHFQT3RjcDZXeU5CMm4tQ2NkY3dLTnhmWGQ0Wkp3TXdPblc0MHZ0UnBWZk9KUExhdXV4bXdmX1RpcU9PMk82SEcwekliRXM?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 25 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Bring back AI-based grain testing: Punjab rice industry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1VzYnhHWVhKVUU5RFhEalM4UWNia1BtOEFBeHZHZHhfc2xZOXJxY1JEdkE1eEJkdmo2REVIZ0dTV1pJb292d25EcmJuUzdsTUM1Z0RkemFQaThXcXdtUEdfTThlb2Nod3lFMFJ1LWJsMkFuZnU1alJieEhzRkFiQlVFbnhuRmZxaUw4eHd1ajdWcWF1SjBlOEZpZHh6S29NVGFOZ3NneDNrd3IzVXBPdFlFSVRkVlZRZG96OHJoSHItVXNfcXQ0dzhfem3SAdIBQVVfeXFMUGxscnZwbUstVmZjU1ZIc1VSc29JUFF0RmQwMWFoQVNham9RX2taT2ZsQUVkSXRlRHA2eDBrbmxaemNZM3ZOcllKZ0pYZW1MWG5MNlRIQ0ExN3FVRXJDSFlLMHhYRTB4bTZqVlFyUlhUMFpPUzBhSFp0dVNzSzYtOXVMUTFuRENCMklIOU1fLUdOTHgtU05ILXNMWnhjd0h3M19CZmJZTTJ2eGxsMzFId3ZwOVdmaEVDUzVfRVZxOHg0U0ZkVHNnU0tGVV8wdk9JZndn?oc=5\" target=\"_blank\">Bring back AI-based grain testing: Punjab rice industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1VzYnhHWVhKVUU5RFhEalM4UWNia1BtOEFBeHZHZHhfc2xZOXJxY1JEdkE1eEJkdmo2REVIZ0dTV1pJb292d25EcmJuUzdsTUM1Z0RkemFQaThXcXdtUEdfTThlb2Nod3lFMFJ1LWJsMkFuZnU1alJieEhzRkFiQlVFbnhuRmZxaUw4eHd1ajdWcWF1SjBlOEZpZHh6S29NVGFOZ3NneDNrd3IzVXBPdFlFSVRkVlZRZG96OHJoSHItVXNfcXQ0dzhfem3SAdIBQVVfeXFMUGxscnZwbUstVmZjU1ZIc1VSc29JUFF0RmQwMWFoQVNham9RX2taT2ZsQUVkSXRlRHA2eDBrbmxaemNZM3ZOcllKZ0pYZW1MWG5MNlRIQ0ExN3FVRXJDSFlLMHhYRTB4bTZqVlFyUlhUMFpPUzBhSFp0dVNzSzYtOXVMUTFuRENCMklIOU1fLUdOTHgtU05ILXNMWnhjd0h3M19CZmJZTTJ2eGxsMzFId3ZwOVdmaEVDUzVfRVZxOHg0U0ZkVHNnU0tGVV8wdk9JZndn?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana Vigilance Bureau will use AI to curb corruption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1hUdHFvUVJBc3VET1JwSXdPc2k4YUowOFFwb0VKUXNGRGp1dTFsbWwteURaOTZEc2V6YnhKV3NTWW9RUl8zSnVLRXloTnVBUUZfcWVwVUQ1VURfS1M4dml2V0ZfajBIUzZvTl9rZE9DSF8tck1kVjdya1Rpb0dIeEVCZENhbnBQUHVreDYzRlRxbWFFeGJxTUdUQk1zMVB3am1GbkNYNGxSWHZyLVFMM01fVWtOX1JoS0pvUHFsVWpYa2tWQ0dCVHlNLTJqZ9IB0wFBVV95cUxPWFJwamZpMHM3VjBOd0hxQmlOWXBHazd3ei1OT3hkczNkRzBUWjd4Q3JGbGtNOS1HQXNoNHd0NUpTMmlfQW02bzh6NXYzdWJIbXViTFJmbl9uVm1SazBSVTFXWnd6dW9FVGpnSG9yS1BfTV9lYmNnUUJUd1dUVnNyd3BlcERrRTBKUzJaTExsY2tSNVhKMEFKN19GQ3RJMkJPamRSVnVKb2ZsTGwtUy1JRmtwWUJWcmlybFlVZE9rSFNTNUZOQ285cUVmenJmYjZTbEpn?oc=5\" target=\"_blank\">Haryana Vigilance Bureau will use AI to curb corruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1hUdHFvUVJBc3VET1JwSXdPc2k4YUowOFFwb0VKUXNGRGp1dTFsbWwteURaOTZEc2V6YnhKV3NTWW9RUl8zSnVLRXloTnVBUUZfcWVwVUQ1VURfS1M4dml2V0ZfajBIUzZvTl9rZE9DSF8tck1kVjdya1Rpb0dIeEVCZENhbnBQUHVreDYzRlRxbWFFeGJxTUdUQk1zMVB3am1GbkNYNGxSWHZyLVFMM01fVWtOX1JoS0pvUHFsVWpYa2tWQ0dCVHlNLTJqZ9IB0wFBVV95cUxPWFJwamZpMHM3VjBOd0hxQmlOWXBHazd3ei1OT3hkczNkRzBUWjd4Q3JGbGtNOS1HQXNoNHd0NUpTMmlfQW02bzh6NXYzdWJIbXViTFJmbl9uVm1SazBSVTFXWnd6dW9FVGpnSG9yS1BfTV9lYmNnUUJUd1dUVnNyd3BlcERrRTBKUzJaTExsY2tSNVhKMEFKN19GQ3RJMkJPamRSVnVKb2ZsTGwtUy1JRmtwWUJWcmlybFlVZE9rSFNTNUZOQ285cUVmenJmYjZTbEpn?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 07 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh Headlines Today — Key Stories You Shouldn’t Miss.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWUt6YUxjcjNYMUhMX3UxYkdkVjJrcll4N0k2OGdJYzlaMDVEZnF5dHIyYy1BQmpjZzBFM0Y0TVNnLVJ0NmhfLVBOcWVNaURVQVNFUE9mUW0zUUxmZi1UZ1VsR1JOY3p0OTYzUFVEcUh3cGtLWHZhY1RHb09pX2JmYUt6emltYml4QkRfVXcweVJKdDlHc1VPaWprazVST2lrdFBfVUlmWHVJa3FZdlFuQW1MX2FLODNickRwaTRGWGotLWRST1pZT0U2RVRLOF9qd3fSAdcBQVVfeXFMUHloMnQ1V1JpOURabmV3M0dJR3M3aE4wZmxOU0QtcDRYR2FybVl5bDhWb0liNDFuejNMeDhGVk9KTVkwZGVTUTFTaVBzM0Jhd05FNXJHd19aWnVsTGtuT0ZUalNhb2M4RWtxN2RqVVpOSmcwTU94T1hxWlh0T1hidVkyakFlb3dTU1BVWnlLalhBR0JpMElPWnFKN1lEUGkyQUdPUXBZZHJDa2hVOEhveTUxVk9udEI0eE5iR2FnVmNOVTlRSFpxR1laN0ttME14c3JMLW82clk?oc=5\" target=\"_blank\">Chandigarh Headlines Today — Key Stories You Shouldn’t Miss.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWUt6YUxjcjNYMUhMX3UxYkdkVjJrcll4N0k2OGdJYzlaMDVEZnF5dHIyYy1BQmpjZzBFM0Y0TVNnLVJ0NmhfLVBOcWVNaURVQVNFUE9mUW0zUUxmZi1UZ1VsR1JOY3p0OTYzUFVEcUh3cGtLWHZhY1RHb09pX2JmYUt6emltYml4QkRfVXcweVJKdDlHc1VPaWprazVST2lrdFBfVUlmWHVJa3FZdlFuQW1MX2FLODNickRwaTRGWGotLWRST1pZT0U2RVRLOF9qd3fSAdcBQVVfeXFMUHloMnQ1V1JpOURabmV3M0dJR3M3aE4wZmxOU0QtcDRYR2FybVl5bDhWb0liNDFuejNMeDhGVk9KTVkwZGVTUTFTaVBzM0Jhd05FNXJHd19aWnVsTGtuT0ZUalNhb2M4RWtxN2RqVVpOSmcwTU94T1hxWlh0T1hidVkyakFlb3dTU1BVWnlLalhBR0JpMElPWnFKN1lEUGkyQUdPUXBZZHJDa2hVOEhveTUxVk9udEI0eE5iR2FnVmNOVTlRSFpxR1laN0ttME14c3JMLW82clk?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 11 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh: PGI meet focuses on AI-driven health care",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkVaSGVKREhPZUtxQ2hmMnhueGhfZWNMSlJxck9YYkNXZzdld08yWFRpXzFzU1c3NWlVdmJDUk9QNWc5em4weFJIZHRDWFltZkF0cEstV05peWl3RENoeUVwYkNSWDNxSVhWWTdJTUhpZmhhQTdFVDEzMzFCajZyNUxNdEhNcDB3VXlhZ0l0TF_SAZQBQVVfeXFMTklwaXg3OHI4clp0YjlQVkc0Y1YxQnB6N0VtRzJFSDZqaWdmWVZudi1ZY0lvdDlodmJFTllZRi0zWkRjWFBucHNWTG5BQ2JJUnR3RmI4cnpWa0ZlRHBocDhqZ0IySVlEWGxKZVd3dDVoaXdKWTlLZzVHQ3RkdUlNY3dtNldJTzhTU2NTeWVyRTg2RGI2TQ?oc=5\" target=\"_blank\">Chandigarh: PGI meet focuses on AI-driven health care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkVaSGVKREhPZUtxQ2hmMnhueGhfZWNMSlJxck9YYkNXZzdld08yWFRpXzFzU1c3NWlVdmJDUk9QNWc5em4weFJIZHRDWFltZkF0cEstV05peWl3RENoeUVwYkNSWDNxSVhWWTdJTUhpZmhhQTdFVDEzMzFCajZyNUxNdEhNcDB3VXlhZ0l0TF_SAZQBQVVfeXFMTklwaXg3OHI4clp0YjlQVkc0Y1YxQnB6N0VtRzJFSDZqaWdmWVZudi1ZY0lvdDlodmJFTllZRi0zWkRjWFBucHNWTG5BQ2JJUnR3RmI4cnpWa0ZlRHBocDhqZ0IySVlEWGxKZVd3dDVoaXdKWTlLZzVHQ3RkdUlNY3dtNldJTzhTU2NTeWVyRTg2RGI2TQ?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:52+00:00"
+  }
+ ]
+}

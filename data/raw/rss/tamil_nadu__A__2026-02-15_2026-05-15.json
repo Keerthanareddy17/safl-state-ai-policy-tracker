@@ -1,0 +1,120 @@
+{
+ "region": "Tamil Nadu",
+ "group": "A",
+ "query": "(\"Tamil Nadu\" OR Chennai) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Tamil+Nadu%22+OR+Chennai%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:00+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "AI integration, rope car at Marina among 90 GCC Budget announcements",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUkZnS3NKYUQ3eEdDZEk1LUJvMkdIQUJ4eUk1SDdVYS1sTmFkbS0wcGp5Tlo1SnI0ekZNTjVIMEhaQ0l2MFZVZnowY3F1aUM3NGRibWt2ckZyVmpvQmdyRnJGbXJhR09NN1Q2RUpic3NsSWNSc1VFOHE3Yms4bEVsNE9HY2xaNkppcFR2Zl9Hal9ndDhVMjNxX0FHVjV2YlVpQkNOMXQxME5OaVk0d0s5MzNjUzB6cFVaZ1lVLW1EX2FHbTBvSWZweDBHVTFRdXhnZnYzaEU5U0ZGSDI2YS1HTmNmTdIB6gFBVV95cUxOeVJ4SklvNVptVERhN3NIYmlJaDhoeUpkMTZKcUMxdU50Y1hMMUY5SW5IWVJoNExUOThWakItNVpucmZFbzg3SUs1a2JGTVZNelFLYzUyakxaNkxwOGl2eUU3RU9HNDdiYnNQUHRfQVBCSGJMa1hQMDk4YXVXbDRVOTJXMzc1TXJwODVLUm1LckNDUk5lUVJsajVZWUFnTDAxZ2VqZUt1LXlhN0VjTng5R29PMEN4b21XUlh2UGYzSkZOWGJzdEtqOWpGTjZRMW11WUFCRnFVa0hCZ0EzclJ6OXViUTBabU1BTGc?oc=5\" target=\"_blank\">AI integration, rope car at Marina among 90 GCC Budget announcements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUkZnS3NKYUQ3eEdDZEk1LUJvMkdIQUJ4eUk1SDdVYS1sTmFkbS0wcGp5Tlo1SnI0ekZNTjVIMEhaQ0l2MFZVZnowY3F1aUM3NGRibWt2ckZyVmpvQmdyRnJGbXJhR09NN1Q2RUpic3NsSWNSc1VFOHE3Yms4bEVsNE9HY2xaNkppcFR2Zl9Hal9ndDhVMjNxX0FHVjV2YlVpQkNOMXQxME5OaVk0d0s5MzNjUzB6cFVaZ1lVLW1EX2FHbTBvSWZweDBHVTFRdXhnZnYzaEU5U0ZGSDI2YS1HTmNmTdIB6gFBVV95cUxOeVJ4SklvNVptVERhN3NIYmlJaDhoeUpkMTZKcUMxdU50Y1hMMUY5SW5IWVJoNExUOThWakItNVpucmZFbzg3SUs1a2JGTVZNelFLYzUyakxaNkxwOGl2eUU3RU9HNDdiYnNQUHRfQVBCSGJMa1hQMDk4YXVXbDRVOTJXMzc1TXJwODVLUm1LckNDUk5lUVJsajVZWUFnTDAxZ2VqZUt1LXlhN0VjTng5R29PMEN4b21XUlh2UGYzSkZOWGJzdEtqOWpGTjZRMW11WUFCRnFVa0hCZ0EzclJ6OXViUTBabU1BTGc?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Who is Sriram Krishnan, the Chennai-born Trump adviser facing backlash for comments made at the India AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPazkwYy1jbDUwU0hLR2t1QnFudTktdnQ2SXNsSzdweWV2dXhIc1FkMnNEY3Vjdzg1SGQ5djBuSlpUei1KNEcxTk5vaERuV0hXNlRYRkpsWENyN2NBQUozeGIzbDZzYXlPaE9SWGJPS05jZVpVSXpIMEZCaDJRdHFJWUs5SnNNaVdQYTVLTU9Xd3ZldzlMaEhVYjJQb2hwNWRyNzd4S3BVNWRtWnFVenE2aXgxekt4VUtYdnh0dlkzRUJMQkJDbjBnRURHcGFCSnFfNVlYRXUtTGRSMlY2SDZQSU1lT1FreGxmR0JhVHRVb2lNUkRuWDNVbnR1elpsR0k4VDZVdGF2Z2tZTEQ3d3JvYWphdU5rMUhIanF1UkE3LUnSAaYCQVVfeXFMT1ZHdFA5bWlhYW9HeDhnUEx5UDhSaU9JTTNJdW5rN1RyUGg2REN0NnBRb1ZHcGYxaWtPSHpDUzZGbkNIbVhvdC1iUFBiRGZmMTVsWFVuVVR2VnZvbFhub2xlSkpreGdYeTU1T3RkQS1jdl8zcnFTVlRyVEtaV2V1TWpJdHVZbVhiQkhzYi1NMTNTa0p1UDlCUm1HeE15SzZKQmdCMWk5Tjcwc1B1V3JXc19uU0p5QWRwOUJjTFZ6WVl3ZHZKZkw4ZE9hUHdLWmJ3aXpmd1duR0d5bHhNTklzZjJDNlpNYmNQVHFnRlpZN1VqX3dfZlhMSWFRLVNITVFKSlVhZzRxeDJqSDlVR19mcnZmOXQyRjFVRWNqMzdWX3BjYWpVQlln?oc=5\" target=\"_blank\">Who is Sriram Krishnan, the Chennai-born Trump adviser facing backlash for comments made at the India AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPazkwYy1jbDUwU0hLR2t1QnFudTktdnQ2SXNsSzdweWV2dXhIc1FkMnNEY3Vjdzg1SGQ5djBuSlpUei1KNEcxTk5vaERuV0hXNlRYRkpsWENyN2NBQUozeGIzbDZzYXlPaE9SWGJPS05jZVpVSXpIMEZCaDJRdHFJWUs5SnNNaVdQYTVLTU9Xd3ZldzlMaEhVYjJQb2hwNWRyNzd4S3BVNWRtWnFVenE2aXgxekt4VUtYdnh0dlkzRUJMQkJDbjBnRURHcGFCSnFfNVlYRXUtTGRSMlY2SDZQSU1lT1FreGxmR0JhVHRVb2lNUkRuWDNVbnR1elpsR0k4VDZVdGF2Z2tZTEQ3d3JvYWphdU5rMUhIanF1UkE3LUnSAaYCQVVfeXFMT1ZHdFA5bWlhYW9HeDhnUEx5UDhSaU9JTTNJdW5rN1RyUGg2REN0NnBRb1ZHcGYxaWtPSHpDUzZGbkNIbVhvdC1iUFBiRGZmMTVsWFVuVVR2VnZvbFhub2xlSkpreGdYeTU1T3RkQS1jdl8zcnFTVlRyVEtaV2V1TWpJdHVZbVhiQkhzYi1NMTNTa0p1UDlCUm1HeE15SzZKQmdCMWk5Tjcwc1B1V3JXc19uU0p5QWRwOUJjTFZ6WVl3ZHZKZkw4ZE9hUHdLWmJ3aXpmd1duR0d5bHhNTklzZjJDNlpNYmNQVHFnRlpZN1VqX3dfZlhMSWFRLVNITVFKSlVhZzRxeDJqSDlVR19mcnZmOXQyRjFVRWNqMzdWX3BjYWpVQlln?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Will make Tamil Nadu AI and digital capital of India, says Vijay at Kanniyakumari rally",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2stTjNvdDRiUC1ENEZReHZDMkhKQVlTVEEyTzZWNUk4dTkyN1Vfc1lHaGdCV0lxRTBqWklwdk5OM1lvSFZJX1l2bThrd1IzbTNFNXNwNzJTOTFwT2w2X1hvNzEzY3VUdWp3YWJnZngtWHQwVURocndJS1hsRnAtQ2hBWU03NXo0NXVIdzdyeXdXdWplbEFsRWVGS1ZfWFBfYmVQUkhZN2E1cWQ3SF9VY29EdUNSTWh4WUthclVaemQ1V0kwbE9Fb0laUUY0N3cxenplbjdiaXFPNzlfdWFyM1pYUdIB8AFBVV95cUxNdkZKUmVYam9zNUVjbmxVSGJaMFZ6VU9vUnhPVFZtYWdvUHYyV216NEFsbE5SbUZ6ZDUxbXlyRDVzX3J6MFJKV1ZseVU2cTJCd1Zfd2xUTFhscXpSMnVSU2dMYnFoejJFZlFaTk0zdDd4VmEtUUJFQkFqeEhhc3Riam5LR3pmanEwNzB5aTJDRDhscWtoYk5RQ0J6Sl9EZHVjT2RIc1dTWi1vUExsYl90djFIYmx5WG41TUFJTFU4S0RwQ1NQb1VPZTFocUNSRXNjd3AwMmVIdVhDY183X2lVaElUUlQ2djEzSGNQTG9ta3A?oc=5\" target=\"_blank\">Will make Tamil Nadu AI and digital capital of India, says Vijay at Kanniyakumari rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2stTjNvdDRiUC1ENEZReHZDMkhKQVlTVEEyTzZWNUk4dTkyN1Vfc1lHaGdCV0lxRTBqWklwdk5OM1lvSFZJX1l2bThrd1IzbTNFNXNwNzJTOTFwT2w2X1hvNzEzY3VUdWp3YWJnZngtWHQwVURocndJS1hsRnAtQ2hBWU03NXo0NXVIdzdyeXdXdWplbEFsRWVGS1ZfWFBfYmVQUkhZN2E1cWQ3SF9VY29EdUNSTWh4WUthclVaemQ1V0kwbE9Fb0laUUY0N3cxenplbjdiaXFPNzlfdWFyM1pYUdIB8AFBVV95cUxNdkZKUmVYam9zNUVjbmxVSGJaMFZ6VU9vUnhPVFZtYWdvUHYyV216NEFsbE5SbUZ6ZDUxbXlyRDVzX3J6MFJKV1ZseVU2cTJCd1Zfd2xUTFhscXpSMnVSU2dMYnFoejJFZlFaTk0zdDd4VmEtUUJFQkFqeEhhc3Riam5LR3pmanEwNzB5aTJDRDhscWtoYk5RQ0J6Sl9EZHVjT2RIc1dTWi1vUExsYl90djFIYmx5WG41TUFJTFU4S0RwQ1NQb1VPZTFocUNSRXNjd3AwMmVIdVhDY183X2lVaElUUlQ2djEzSGNQTG9ta3A?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 13 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "India Country Brief The Anthropic Economic Index",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5\" target=\"_blank\">India Country Brief The Anthropic Economic Index</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdDhtRFhYSWlybFlhV282TkZiM1VaNVV4eGQ2SEttZE9nVTJ4X0xFMFpkYmFneDAxYXl5QnU4eVlXcVE1ZnVJUno1X2stMHIwcnViVzM4aFZ4b0JBazJVbHVTdE5ubVBQSWxRTmh3?oc=5",
+   "source_name": "Anthropic",
+   "source_domain": "anthropic.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Seminar on evolution of AI in law held in Chennai",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOSE5mMlUxYTN0bTc1QVY1NTJ3d2NteENLMDNsR0I2ejg4MUpZWWRIXzlXcGZHa2RUWmF1UnROdVpfSzdzZUtwSDFqcHB6enZTcS1ndU02Um4yR2I3di1IUHdYejN1MFRILTRYbEw4bVRxN1B1S2I1UXp0eDBEZ1pDVTQxVTJ1Q1RiWEVkb9IBmgFBVV95cUxNc19vVE1uSkdTZ1Foa2JoNkxtUExiN2xSemgtM3lZbXgtVS1NRGhiczZLcmFJTkZJTU1xR0pjYUNzN1BMXy1iLVJuSENBbGFYTWd0Tk95enpCWHRWQml6ZEZYSjBELUZla1I4d3FfNVotY1JuZk5BQl9sNnYzSzJmRWpxOFoyTVo0QUNFU2I2Wk1fZEtuXzRTQUdR?oc=5\" target=\"_blank\">Seminar on evolution of AI in law held in Chennai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DT Next</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSE5mMlUxYTN0bTc1QVY1NTJ3d2NteENLMDNsR0I2ejg4MUpZWWRIXzlXcGZHa2RUWmF1UnROdVpfSzdzZUtwSDFqcHB6enZTcS1ndU02Um4yR2I3di1IUHdYejN1MFRILTRYbEw4bVRxN1B1S2I1UXp0eDBEZ1pDVTQxVTJ1Q1RiWEVkb9IBmgFBVV95cUxNc19vVE1uSkdTZ1Foa2JoNkxtUExiN2xSemgtM3lZbXgtVS1NRGhiczZLcmFJTkZJTU1xR0pjYUNzN1BMXy1iLVJuSENBbGFYTWd0Tk95enpCWHRWQml6ZEZYSjBELUZla1I4d3FfNVotY1JuZk5BQl9sNnYzSzJmRWpxOFoyTVo0QUNFU2I2Wk1fZEtuXzRTQUdR?oc=5",
+   "source_name": "DT Next",
+   "source_domain": "dtnext.in",
+   "published_raw": "Fri, 03 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "L&T Teaming with NVIDIA to Build India’s Largest Gigawatt-Scale AI Factory",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOX0NXN3RQOTJEbzJxS2g2WkFNUk4wdVNyNTB0QUdiSENJcWtHX2VMbTBZVkluTTJHdENDdVVkV25HSmowSFh3WFJoQ3NYTVd1MWNfSkRZM1FyQ0F5ZVFqcnVCaC15akpXZTlBZFhWMHNxN01abmlHZU5nNVZ1QWxVRFpmNGlvWDBXb3huR3FEVlRTdzVmbzRqT2VORHNYam93ZEZtdEE1WjhvS19DWkVHUVc3QmFMQzBEVWE3ZHMwZENid3p4bWZnUUY3Y2Y?oc=5\" target=\"_blank\">L&amp;T Teaming with NVIDIA to Build India’s Largest Gigawatt-Scale AI Factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Larsen & Toubro</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX0NXN3RQOTJEbzJxS2g2WkFNUk4wdVNyNTB0QUdiSENJcWtHX2VMbTBZVkluTTJHdENDdVVkV25HSmowSFh3WFJoQ3NYTVd1MWNfSkRZM1FyQ0F5ZVFqcnVCaC15akpXZTlBZFhWMHNxN01abmlHZU5nNVZ1QWxVRFpmNGlvWDBXb3huR3FEVlRTdzVmbzRqT2VORHNYam93ZEZtdEE1WjhvS19DWkVHUVc3QmFMQzBEVWE3ZHMwZENid3p4bWZnUUY3Y2Y?oc=5",
+   "source_name": "Larsen & Toubro",
+   "source_domain": "larsentoubro.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Vijay Thalapathy poll promises: 8 gm gold, 6 LPG cylinders — what's in TVK manifesto for women, MSMEs, govt staff",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOeE9YZnVUeDYyUzZuUjFFbHRlcE43MUdsd2lEQUM5eTdUY1RzRzJHZUIyekJya2RpbEVMTkQtU2U0dGRPZkROZnpQeVdacFJieXFRRnQyODVJcVlLSlFtdUV6cW92Qmx4QjNXQWtLM2VYMEtMUElrQk9qVWlVajJuOFVzU3Y3Y2daVzBnSWQyRzJWM3I0VkZpTkg2TklrNnRhSXJIUjZqUGpBWjFSUmRWSFBIMjNRZl9rX1c1OGU1TGU0djJWSFg5dEQ5YklfUUlqNlEwQ2FwNUNhX2htVEgyM2tyaE50ZTM1ZHdKV1hNQVRvTlpXeDVNOHVYVlY1Q2tEVXl2MmlYUGFDaVNXV2FlOFRZRzBDQdIBmwJBVV95cUxOdmtRTG1MQjhoZjd6R2dVVWZJMkg3U1dVLW51T3otaHdNdklGcG96ZFl3MmFQdVFYbWtGZmdWSnBsN1NmdlU4VnQxRk1ia1NvNlExdUFSWTVITXp0alV4MHZXdnMxaGI1ckxyUWp3UlNUc3VIRnB2a1BLZFJZdl90YjZSaXZwQS12QlRMNF9Gbm9lX0pWcWVUd1ZEVGdCelVaTlp1TVYwNFJDUEozS0t6TXp1VUFKMzAwdFZOSEw5UFNfY05JbkZxVVhYMkQ0cXFnXzMtZGgtZ3I5M2lQc21SdTF0ZzlQUGRtendJWVJqSlpfY3VjZGhTTWZtbThkdnBvUk1VQUJsQkJDd01YNnVPdUVpSk4tdTRjMy1V?oc=5\" target=\"_blank\">Vijay Thalapathy poll promises: 8 gm gold, 6 LPG cylinders — what's in TVK manifesto for women, MSMEs, govt staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeE9YZnVUeDYyUzZuUjFFbHRlcE43MUdsd2lEQUM5eTdUY1RzRzJHZUIyekJya2RpbEVMTkQtU2U0dGRPZkROZnpQeVdacFJieXFRRnQyODVJcVlLSlFtdUV6cW92Qmx4QjNXQWtLM2VYMEtMUElrQk9qVWlVajJuOFVzU3Y3Y2daVzBnSWQyRzJWM3I0VkZpTkg2TklrNnRhSXJIUjZqUGpBWjFSUmRWSFBIMjNRZl9rX1c1OGU1TGU0djJWSFg5dEQ5YklfUUlqNlEwQ2FwNUNhX2htVEgyM2tyaE50ZTM1ZHdKV1hNQVRvTlpXeDVNOHVYVlY1Q2tEVXl2MmlYUGFDaVNXV2FlOFRZRzBDQdIBmwJBVV95cUxOdmtRTG1MQjhoZjd6R2dVVWZJMkg3U1dVLW51T3otaHdNdklGcG96ZFl3MmFQdVFYbWtGZmdWSnBsN1NmdlU4VnQxRk1ia1NvNlExdUFSWTVITXp0alV4MHZXdnMxaGI1ckxyUWp3UlNUc3VIRnB2a1BLZFJZdl90YjZSaXZwQS12QlRMNF9Gbm9lX0pWcWVUd1ZEVGdCelVaTlp1TVYwNFJDUEozS0t6TXp1VUFKMzAwdFZOSEw5UFNfY05JbkZxVVhYMkQ0cXFnXzMtZGgtZ3I5M2lQc21SdTF0ZzlQUGRtendJWVJqSlpfY3VjZGhTTWZtbThkdnBvUk1VQUJsQkJDd01YNnVPdUVpSk4tdTRjMy1V?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Mon, 04 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "India Fuels Its AI Mission With NVIDIA",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1XVl9zdy1EYjJ3MnhnMEEzemxfV3BUNENtaEJlb2plRHVmSjRJdHBpWTRTakJNbWQxNkVGblJaVUdZdDBURVp5akYwTWZ2MmxpZzF4MXhyNzBsVDR1RkNhcmRpN3Fqb1dob2JFRHdBS0swX0hxbFVpcw?oc=5\" target=\"_blank\">India Fuels Its AI Mission With NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XVl9zdy1EYjJ3MnhnMEEzemxfV3BUNENtaEJlb2plRHVmSjRJdHBpWTRTakJNbWQxNkVGblJaVUdZdDBURVp5akYwTWZ2MmxpZzF4MXhyNzBsVDR1RkNhcmRpN3Fqb1dob2JFRHdBS0swX0hxbFVpcw?oc=5",
+   "source_name": "NVIDIA Blog",
+   "source_domain": "blogs.nvidia.com",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Chennai college asks students to declare AI use in assignments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMk03WVJvbGN5YVN5OWJwRHhrdFR6WmJWVzRfdFJwZ3JKdHl5LU5FTFdTY2VlTlhidnk2TUlVUnBwREljYWJWVHp4RTNwZkFTb2liaE1zSkc3YlpMbVJ1OU81TXBnMGlPSjgzMDVhVWlqbkY2b20tbXRDSHJFSHZRVHBiMWQ3UWpMdE04TmZtTHVWd3hEb2tBNHh4aWJjbW5US09FV0pVbklNX01MTmZOb3JmT0puRWh4Wmx1M3lER2xrQVllVXpza1dYcTl5OElGUHNB0gHYAUFVX3lxTE11RzBSOHk2SzVHMVdmVTNOX0U4aE5KT09hd3BUY1pra3BickVZRXN1LWVoTlRhbk9zbDRlQjBpNXcxd1l0M2I2Z21jMENSZDNmM2c3VEtsVHhIUDNDWnhSaTNwbHZZcEhKa3hQX3NDbnQ3RTM3amxZbXcxVTUxWDVEWkk0RnNLcFRrMUZ3cFUxUEltclM5WlB3UnE0RHljYVFTV3pNeWtPVDRCOXJNUTlqdVZCN3E5M3lYeDdtRWFiUm4xRnJFUFBHN21iUjVLNHpKd2d5TGJYVg?oc=5\" target=\"_blank\">Chennai college asks students to declare AI use in assignments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMk03WVJvbGN5YVN5OWJwRHhrdFR6WmJWVzRfdFJwZ3JKdHl5LU5FTFdTY2VlTlhidnk2TUlVUnBwREljYWJWVHp4RTNwZkFTb2liaE1zSkc3YlpMbVJ1OU81TXBnMGlPSjgzMDVhVWlqbkY2b20tbXRDSHJFSHZRVHBiMWQ3UWpMdE04TmZtTHVWd3hEb2tBNHh4aWJjbW5US09FV0pVbklNX01MTmZOb3JmT0puRWh4Wmx1M3lER2xrQVllVXpza1dYcTl5OElGUHNB0gHYAUFVX3lxTE11RzBSOHk2SzVHMVdmVTNOX0U4aE5KT09hd3BUY1pra3BickVZRXN1LWVoTlRhbk9zbDRlQjBpNXcxd1l0M2I2Z21jMENSZDNmM2c3VEtsVHhIUDNDWnhSaTNwbHZZcEhKa3hQX3NDbnQ3RTM3amxZbXcxVTUxWDVEWkk0RnNLcFRrMUZ3cFUxUEltclM5WlB3UnE0RHljYVFTV3pNeWtPVDRCOXJNUTlqdVZCN3E5M3lYeDdtRWFiUm4xRnJFUFBHN21iUjVLNHpKd2d5TGJYVg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "With $10mn raise, Gnani aims to scale voice AI models, tap global markets",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFhtYkxNTmc0TUR5bU1SakU3Z0dRUXJYS2J0UjdXVl9GVHNjdjFDS2VtR0pNdGVxeWY1cnFyeU9DazM3OExzMkpId28wOVg4dFdwa01EMVJuT3cwV25iSnVUQXhtQlJjMmdyWmdHUWxWdHlTcXhhSXJ6bF9tWmFMUU9EQ1MtZlQzWkRldGctQXNiRG4tdHh5blNUU3dMUWE2V1htVEdFb1B6ci1UVldKQ043bndWQkVyejVhWnVHejgwaHo1V3hPTXVCTTZaN1lXV2RWenE4bERUOHJaSFHSAeMBQVVfeXFMUEVyS3d4cmRfbXRZSHNEREtCaHpfMnEzQnd0N216RUxKbXdwZllwWTFRWTlVX0U2WnFtam5KRmZ3TUNCcEVCWFRiRTNDcEEtR05SRlNvTW5fQzVhZHJLc09NRnRRRDBMVnlHaERxeUs0YWk3RVdXZzJrMzdVc0pNZ2NpeGlSekhYdTYxaHJuRG10UzZxVmUzbnFwX3g1RHpkdWJ6eFVxX256X1c0Xzl2eXBWd0pkZ0dQTnZZLXNMTVV6MlhnVml2U25kbWJLRFNRb2pXTGZPTW1vQlFoOTdWUV9QdHc?oc=5\" target=\"_blank\">With $10mn raise, Gnani aims to scale voice AI models, tap global markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFhtYkxNTmc0TUR5bU1SakU3Z0dRUXJYS2J0UjdXVl9GVHNjdjFDS2VtR0pNdGVxeWY1cnFyeU9DazM3OExzMkpId28wOVg4dFdwa01EMVJuT3cwV25iSnVUQXhtQlJjMmdyWmdHUWxWdHlTcXhhSXJ6bF9tWmFMUU9EQ1MtZlQzWkRldGctQXNiRG4tdHh5blNUU3dMUWE2V1htVEdFb1B6ci1UVldKQ043bndWQkVyejVhWnVHejgwaHo1V3hPTXVCTTZaN1lXV2RWenE4bERUOHJaSFHSAeMBQVVfeXFMUEVyS3d4cmRfbXRZSHNEREtCaHpfMnEzQnd0N216RUxKbXdwZllwWTFRWTlVX0U2WnFtam5KRmZ3TUNCcEVCWFRiRTNDcEEtR05SRlNvTW5fQzVhZHJLc09NRnRRRDBMVnlHaERxeUs0YWk3RVdXZzJrMzdVc0pNZ2NpeGlSekhYdTYxaHJuRG10UzZxVmUzbnFwX3g1RHpkdWJ6eFVxX256X1c0Xzl2eXBWd0pkZ0dQTnZZLXNMTVV6MlhnVml2U25kbWJLRFNRb2pXTGZPTW1vQlFoOTdWUV9QdHc?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 01 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:00+00:00"
+  }
+ ]
+}

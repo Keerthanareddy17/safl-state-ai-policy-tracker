@@ -1,0 +1,98 @@
+{
+ "region": "Puducherry",
+ "group": "A",
+ "query": "(Puducherry) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Puducherry%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:06+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Teachers urged to adopt AI, data analytics in pedagogy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVVOS1phclhsTUlrOUZfY2MwUjJwT1pGamhhcjdURVBNdUJYX3RzcFFDVjYyWVZHV282d3hBQWVUa2lsd1JEZ1dfcndlWjlIbVhxWTlLS29rdkloWHFSN3pkQk5UTnV2R2RrSFRZX1dQbzNoOFkyQVNPVnNDRW5rVEJ6ejNYaXVLWllxcUN4NmV3ZU81RnNscjVid212MTlROW1YYUxsd2FxQ0pOcDVWQXRvcW14RXh1SkVfVFJ30gHEAUFVX3lxTE9UN3ctVjZYZS1yODk3QjBpY2xnWmRicGxzakprdjBReVQ3T0dWYzZ1WVo4c2NRb29RQnZyaGp0MkU4ZlU5bDRTUmZGZUR6RVotQ1ZqdmxxXzJySVc0ZXRfMjBqQTRqajNhblFqcUJnLWFldFpFYzZ4QjFGRWdGT20weVJwdi1vWEFKT3NpbkNnajZ1QWloRGRRek5ybGJTWmxnWUZZNnZlUmVTQzVEZGtmUVRMS3huRWl5c0tjT2g1R0dMQTM?oc=5\" target=\"_blank\">Teachers urged to adopt AI, data analytics in pedagogy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVVOS1phclhsTUlrOUZfY2MwUjJwT1pGamhhcjdURVBNdUJYX3RzcFFDVjYyWVZHV282d3hBQWVUa2lsd1JEZ1dfcndlWjlIbVhxWTlLS29rdkloWHFSN3pkQk5UTnV2R2RrSFRZX1dQbzNoOFkyQVNPVnNDRW5rVEJ6ejNYaXVLWllxcUN4NmV3ZU81RnNscjVid212MTlROW1YYUxsd2FxQ0pOcDVWQXRvcW14RXh1SkVfVFJ30gHEAUFVX3lxTE9UN3ctVjZYZS1yODk3QjBpY2xnWmRicGxzakprdjBReVQ3T0dWYzZ1WVo4c2NRb29RQnZyaGp0MkU4ZlU5bDRTUmZGZUR6RVotQ1ZqdmxxXzJySVc0ZXRfMjBqQTRqajNhblFqcUJnLWFldFpFYzZ4QjFGRWdGT20weVJwdi1vWEFKT3NpbkNnajZ1QWloRGRRek5ybGJTWmxnWUZZNnZlUmVTQzVEZGtmUVRMS3huRWl5c0tjT2g1R0dMQTM?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Bharatiya Janata Party",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRjVnMlpPeGdfQ2kwb2hTeUlnZElJMDMyZGZYT0ZacXJjcUo3X0NLemRmaUFkNjlhcTlnVGJFeTduc3l2cXI5TGJLbFdHNXY4dkZxbG12QUlienQ1dkpwc0JUdXZJekN0MjZORkFLUV9Ud2dkZkpwRlVyRndabVZFaXlnTUpTZ1QycU9fNnlLNE1VS1phNXpwNWJJc3RyV2g5MzZkUW5iQmtlaDhWczdHb1BIdmtTZmtqWWFhOXFxWnZ6U1M3alVzNEtybUU4cjNqaEV4Rnp2Sl9LWWVRMTBaSWxTZUFDa0pwUWFfR0dTMm96VE00VnczM2FCYw?oc=5\" target=\"_blank\">Bharatiya Janata Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bharatiya Janata Party</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRjVnMlpPeGdfQ2kwb2hTeUlnZElJMDMyZGZYT0ZacXJjcUo3X0NLemRmaUFkNjlhcTlnVGJFeTduc3l2cXI5TGJLbFdHNXY4dkZxbG12QUlienQ1dkpwc0JUdXZJekN0MjZORkFLUV9Ud2dkZkpwRlVyRndabVZFaXlnTUpTZ1QycU9fNnlLNE1VS1phNXpwNWJJc3RyV2g5MzZkUW5iQmtlaDhWczdHb1BIdmtTZmtqWWFhOXFxWnZ6U1M3alVzNEtybUU4cjNqaEV4Rnp2Sl9LWWVRMTBaSWxTZUFDa0pwUWFfR0dTMm96VE00VnczM2FCYw?oc=5",
+   "source_name": "Bharatiya Janata Party",
+   "source_domain": "bjp.org",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "15th Faculty Induction Programme (FIP) at Malaviya Mission Teacher Training Center, Pondicherry University",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qci1scngzTFZnOHR1MDd3eEhyZGNreDRwNy1BdUFGMk4zbXBoOTVFYkRqOGZqeEFGR2h3QkdoaXhwenRmSUZtd1N0ZU9qc252d3lQR2dvMm10RkJkSzR1aXF4MG01Q0hy?oc=5\" target=\"_blank\">15th Faculty Induction Programme (FIP) at Malaviya Mission Teacher Training Center, Pondicherry University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qci1scngzTFZnOHR1MDd3eEhyZGNreDRwNy1BdUFGMk4zbXBoOTVFYkRqOGZqeEFGR2h3QkdoaXhwenRmSUZtd1N0ZU9qc252d3lQR2dvMm10RkJkSzR1aXF4MG01Q0hy?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Lenovo Transforms India Into Global AI Server Export Hub With Bengaluru Design And Pondicherry Manufacturing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzNXVjJ0clVrSl9NZHN2cWUwa1FaU1BHRFREQmdDWXgwM0R0NF94ajF5RDA5R3I3SFdQeEdYdk9fU0VEOF9mTDNJZVN3MTFKblNRNHVhM1ZvUThra2ZnTGF0ODZqYjRVNWFSZk50TGJTUGhZWWtSUWdKYUR5alRWS29WN3YyWUE1eW1fd1RTWmNpTUJSa1l3SXNyNVBzdmx1VUpvTW9FbEk4UnNXSlFMT0RlaEcwdURXQ0dmVjNEMWJsS3Vya0pseEJEd2YtYjlZNVdJRFAyc0xqSnPSAesBQVVfeXFMT1lRMVpkTzhBMW4yNFpRemJWMHl2RXp6cFFmSDNtbE1CT1Q0bDZ6MnZrQmNRb09zMW1Wc2Jpd3JQSHhJSFJ5cnlYcHFpOG83TjRPLXJqUWRBcmxEaERxSjY1WU05MEJHcVpXeDczOUNBRTlHbUNWZkJ6UTVZemlOakRRaEdGbThxWHBlWk5iRmlRRUttRU9ReDMxRUpiRkNOUWw4c3FJT0JXV3RyRGlQQTF1d3JyVmR4UXV6dmZZdTMyZjFFNDYwUk50a1dfN0Fhc3NnRUpTbGlKdm1aNWxzYndHUHpyekxFZTNzRQ?oc=5\" target=\"_blank\">Lenovo Transforms India Into Global AI Server Export Hub With Bengaluru Design And Pondicherry Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzNXVjJ0clVrSl9NZHN2cWUwa1FaU1BHRFREQmdDWXgwM0R0NF94ajF5RDA5R3I3SFdQeEdYdk9fU0VEOF9mTDNJZVN3MTFKblNRNHVhM1ZvUThra2ZnTGF0ODZqYjRVNWFSZk50TGJTUGhZWWtSUWdKYUR5alRWS29WN3YyWUE1eW1fd1RTWmNpTUJSa1l3SXNyNVBzdmx1VUpvTW9FbEk4UnNXSlFMT0RlaEcwdURXQ0dmVjNEMWJsS3Vya0pseEJEd2YtYjlZNVdJRFAyc0xqSnPSAesBQVVfeXFMT1lRMVpkTzhBMW4yNFpRemJWMHl2RXp6cFFmSDNtbE1CT1Q0bDZ6MnZrQmNRb09zMW1Wc2Jpd3JQSHhJSFJ5cnlYcHFpOG83TjRPLXJqUWRBcmxEaERxSjY1WU05MEJHcVpXeDczOUNBRTlHbUNWZkJ6UTVZemlOakRRaEdGbThxWHBlWk5iRmlRRUttRU9ReDMxRUpiRkNOUWw4c3FJT0JXV3RyRGlQQTF1d3JyVmR4UXV6dmZZdTMyZjFFNDYwUk50a1dfN0Fhc3NnRUpTbGlKdm1aNWxzYndHUHpyekxFZTNzRQ?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Fri, 09 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "How To Plan A Pondicherry Trip Under Rs 10,000 - 6 Budget-Friendly Tips",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXg4V05QeEhjeG9IX3B6R1dldFNzZmxzc1NKbmE5ZXJld0NVY040N3pLYlhRLU16MjV0djJCSVV1MTZhUzJVc2NBUGdYSHB6a25vMXotRlYzRktmNFRhMUFyODdHWkxDNUNyWUh5ZlYtaldYU19RazdMOWhDaUg2c2VDbU8tNGVzQ3M5YTlBdVF6d0RLN2Nud3I5Q3fSAaQBQVVfeXFMUFdINU8tMkRpNmZQZm4tYnVKd250Q0tFWjViaGtzck4xWUx2R0hmSFh2XzNxOHY0QlAzNk9iWnFjWW56UEpQaXpZN1M4MmN2ZXRnRHh6TkdEbEJLWFVxNWMwbnIySUVTOHAxWWNDTE1LZmJ0NGptcWdFUHZNT09KZTB3WkxQN2JzaGFtWVdCVko5WVRDWFMwWUNYbzRLZlFlZ2pONUM?oc=5\" target=\"_blank\">How To Plan A Pondicherry Trip Under Rs 10,000 - 6 Budget-Friendly Tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXg4V05QeEhjeG9IX3B6R1dldFNzZmxzc1NKbmE5ZXJld0NVY040N3pLYlhRLU16MjV0djJCSVV1MTZhUzJVc2NBUGdYSHB6a25vMXotRlYzRktmNFRhMUFyODdHWkxDNUNyWUh5ZlYtaldYU19RazdMOWhDaUg2c2VDbU8tNGVzQ3M5YTlBdVF6d0RLN2Nud3I5Q3fSAaQBQVVfeXFMUFdINU8tMkRpNmZQZm4tYnVKd250Q0tFWjViaGtzck4xWUx2R0hmSFh2XzNxOHY0QlAzNk9iWnFjWW56UEpQaXpZN1M4MmN2ZXRnRHh6TkdEbEJLWFVxNWMwbnIySUVTOHAxWWNDTE1LZmJ0NGptcWdFUHZNT09KZTB3WkxQN2JzaGFtWVdCVko5WVRDWFMwWUNYbzRLZlFlZ2pONUM?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Mon, 24 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "'Rahul Gandhi's policy is to lie, repeat': Amit Shah at BJP rally in Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmY3cWRFRVZHeWRQZHVIeURWSXRyQVBSck1BbUJ4b0ZlTnVKemh6cHBXX1pKUXFnQmZwcmZWX04ybExlNUVELTJUanNYeEw5eS1tamk3Q2dCQld1bWI3cDBOOFlEMWFYbEVkWklKcm82by0yekhoX0dKS2lncnlhQTBQSUh2dG1YNk9RNmZUWndLM2JyWlNVNnQxa0NTNnM5WW1iS3ZoQ01OUDVyVGIyT2VOeGpOdWswajRnbm9KeUg5RjDSAdABQVVfeXFMT2dDa3lmdWJ0MnFqcjZMWmJEZ0xvempmWUJNZk5zbkt0TmxNQ2hkOVVDcmhtMUdhU09VblhrVXRzUU1pTERjazNTZkU2YnJZUjVIUUZOQmRaZmZTRlFULW5yOXpjaFlhTzU5THZTUkFhY2ZRN0ctcWFSRXZ1QmtvOGpJRVdZY2hGUkdGSDBvZk9BaURKbC1TaEJ5V0dUd3RabDRwQTRicnhqNHJkTDZGN2tWakgxRV9rdG1JNnRYMl8zaW5qV0JkYkpXNmlXVUQwaw?oc=5\" target=\"_blank\">'Rahul Gandhi's policy is to lie, repeat': Amit Shah at BJP rally in Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmY3cWRFRVZHeWRQZHVIeURWSXRyQVBSck1BbUJ4b0ZlTnVKemh6cHBXX1pKUXFnQmZwcmZWX04ybExlNUVELTJUanNYeEw5eS1tamk3Q2dCQld1bWI3cDBOOFlEMWFYbEVkWklKcm82by0yekhoX0dKS2lncnlhQTBQSUh2dG1YNk9RNmZUWndLM2JyWlNVNnQxa0NTNnM5WW1iS3ZoQ01OUDVyVGIyT2VOeGpOdWswajRnbm9KeUg5RjDSAdABQVVfeXFMT2dDa3lmdWJ0MnFqcjZMWmJEZ0xvempmWUJNZk5zbkt0TmxNQ2hkOVVDcmhtMUdhU09VblhrVXRzUU1pTERjazNTZkU2YnJZUjVIUUZOQmRaZmZTRlFULW5yOXpjaFlhTzU5THZTUkFhY2ZRN0ctcWFSRXZ1QmtvOGpJRVdZY2hGUkdGSDBvZk9BaURKbC1TaEJ5V0dUd3RabDRwQTRicnhqNHJkTDZGN2tWakgxRV9rdG1JNnRYMl8zaW5qV0JkYkpXNmlXVUQwaw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Pact signed for development of Puducherry’s Blue Economy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHA1bVc4dTVra1RuWmpMeXhEUGhNLVU1ZXNkaC05OG1ZNUtmcmp4LWFTeW5VSFBJajdBMXM4eHFTWGlFOVpDandNM0c5dmdEd21WZWtTMEhUY2NCeFB5YmdTY0dfX3p4REhwbV8zRFJTM01faE81b1ZSNmFqOGJkUTh1TjI0Yjkxc2ZRYm1KdFUyNkRMVFlMVm9qcHBpNDd0bFFUV2YwT2d3Q0VPQTJUMG5fYWRWc1h4Q1pza3JPTDXSAccBQVVfeXFMTUZlaS1ldmsxVTRUZURCNUk4NHRpVTNZd1dJcDFzc2VoX3QwS3ByMlU2OG44a2R1ejJxc3Y3R3VGQW1CQ0F1ZG1oN3FIVzBILURQaWJ5aTF3RUpuYkxLdzlScGRqMjhoMGxldWs3NU03bUFFZUYxMF9aNTktNWp4OFVaXzBQbFlhcnZydlBxZWdpcjJLd2dmRS0xTjhIMUVxdkZ6dTRia0JCdGxVSUxKNFhaUTAwOVhsUm9mODZ0WDNkWmwwVjh1UQ?oc=5\" target=\"_blank\">Pact signed for development of Puducherry’s Blue Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHA1bVc4dTVra1RuWmpMeXhEUGhNLVU1ZXNkaC05OG1ZNUtmcmp4LWFTeW5VSFBJajdBMXM4eHFTWGlFOVpDandNM0c5dmdEd21WZWtTMEhUY2NCeFB5YmdTY0dfX3p4REhwbV8zRFJTM01faE81b1ZSNmFqOGJkUTh1TjI0Yjkxc2ZRYm1KdFUyNkRMVFlMVm9qcHBpNDd0bFFUV2YwT2d3Q0VPQTJUMG5fYWRWc1h4Q1pza3JPTDXSAccBQVVfeXFMTUZlaS1ldmsxVTRUZURCNUk4NHRpVTNZd1dJcDFzc2VoX3QwS3ByMlU2OG44a2R1ejJxc3Y3R3VGQW1CQ0F1ZG1oN3FIVzBILURQaWJ5aTF3RUpuYkxLdzlScGRqMjhoMGxldWs3NU03bUFFZUYxMF9aNTktNWp4OFVaXzBQbFlhcnZydlBxZWdpcjJLd2dmRS0xTjhIMUVxdkZ6dTRia0JCdGxVSUxKNFhaUTAwOVhsUm9mODZ0WDNkWmwwVjh1UQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "How a Puducherry Muslim’s Murugan temple became a symbol of religious harmony",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNS245NUFleDQ0T25MOUVWUm8tdnJxQWpZWVBTLXVOdUkzODlfU3BvMnFaTkkyenk4d2lKaV8zQWZZUDRSQnlRYmtxWEZqa3VKbzRHMldDbXByVUVZSm9nMmxDN21CUHRMWk1VdzNxSzgzNWI1UjNoY3NyaGxHY2FJcXMwYlpGbW1HWXhLdHN3NGxmZXdhY0VCN2QzakcwbldxMFVr?oc=5\" target=\"_blank\">How a Puducherry Muslim’s Murugan temple became a symbol of religious harmony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Federal</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS245NUFleDQ0T25MOUVWUm8tdnJxQWpZWVBTLXVOdUkzODlfU3BvMnFaTkkyenk4d2lKaV8zQWZZUDRSQnlRYmtxWEZqa3VKbzRHMldDbXByVUVZSm9nMmxDN21CUHRMWk1VdzNxSzgzNWI1UjNoY3NyaGxHY2FJcXMwYlpGbW1HWXhLdHN3NGxmZXdhY0VCN2QzakcwbldxMFVr?oc=5",
+   "source_name": "The Federal",
+   "source_domain": "thefederal.com",
+   "published_raw": "Sun, 07 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:06+00:00"
+  }
+ ]
+}

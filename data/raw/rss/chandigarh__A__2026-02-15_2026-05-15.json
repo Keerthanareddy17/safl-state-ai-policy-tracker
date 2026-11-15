@@ -1,0 +1,109 @@
+{
+ "region": "Chandigarh",
+ "group": "A",
+ "query": "(Chandigarh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chandigarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:54+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh University, Uttar Pradesh Launches Centre of Excellence in Smart Healthcare to strengthen UP State Vision in AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMktvQkJOazNiQk5OTE4xNE53ZFd6RG9PUFdjdF9BMTlCRWQwN0ktbTdpWEpxUVYxSW4tcGNyRlprN2dSeXozN2R6U1AyOUNHMzB4UlhLQkVUckFxRlpWajk1bWpzY2pXcnRxQzN3aTk4b0JzWWNnMGRmOXpfUGxVbHRkYlhHOGFrQjhkaThobFc3N0xZMVlqdl81T0NhMTZORG1vVDdEbEg3SkZIMDZqS285b0g2anRTY3g0bGZDZEFEcmxDdE14X0pHS0xwRjF6X05PNUV0YWMydFl0UG1fX0VUV0xfaVEtQ3hzREVKZm44UdIB9wFBVV95cUxPVXNRbFpuRE1DNWZKaDBBWmJMQUxsYlNiNy0wYUkwaXFfYTBfZ2pEaVdJRTd6bmsxN3lDX0NhNFlmY2gtbG1VS1Y4RDZRLUlIZzJDRWp0VTNsa09aUmZQdzZOQmVJREM2cG5uWHVrclp3ZC1ZN2JTYWhPNXRQeFFZNFk0V183T0VQUFRLcHpUVFVQeV9Vb3JTWTlFTGdzaDhad3dVMWg5RzFNRXJZUTZPU0lOZ1ctbEFjenNxTFJNckFjTXRiUVdiLWVPT2VsLVlGYlRGbXR3R2hTckhYTlN5d2R3RjdPcS1rMWs2SGkwUTBxUzlpOHlR?oc=5\" target=\"_blank\">Chandigarh University, Uttar Pradesh Launches Centre of Excellence in Smart Healthcare to strengthen UP State Vision in AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMktvQkJOazNiQk5OTE4xNE53ZFd6RG9PUFdjdF9BMTlCRWQwN0ktbTdpWEpxUVYxSW4tcGNyRlprN2dSeXozN2R6U1AyOUNHMzB4UlhLQkVUckFxRlpWajk1bWpzY2pXcnRxQzN3aTk4b0JzWWNnMGRmOXpfUGxVbHRkYlhHOGFrQjhkaThobFc3N0xZMVlqdl81T0NhMTZORG1vVDdEbEg3SkZIMDZqS285b0g2anRTY3g0bGZDZEFEcmxDdE14X0pHS0xwRjF6X05PNUV0YWMydFl0UG1fX0VUV0xfaVEtQ3hzREVKZm44UdIB9wFBVV95cUxPVXNRbFpuRE1DNWZKaDBBWmJMQUxsYlNiNy0wYUkwaXFfYTBfZ2pEaVdJRTd6bmsxN3lDX0NhNFlmY2gtbG1VS1Y4RDZRLUlIZzJDRWp0VTNsa09aUmZQdzZOQmVJREM2cG5uWHVrclp3ZC1ZN2JTYWhPNXRQeFFZNFk0V183T0VQUFRLcHpUVFVQeV9Vb3JTWTlFTGdzaDhad3dVMWg5RzFNRXJZUTZPU0lOZ1ctbEFjenNxTFJNckFjTXRiUVdiLWVPT2VsLVlGYlRGbXR3R2hTckhYTlN5d2R3RjdPcS1rMWs2SGkwUTBxUzlpOHlR?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Thu, 19 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Punjab to integrate AI across depts; Mohali to be AI hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1JCaVVOTldHVU5MbUdkOVdmQUdCX1dYZTk2TFJsTTNCekhvTnYxVi1Uc1EwdnFsUndzSHU2MzZsckVKYVNpbmVkZHU1ejZWQ2MzV25VeVdWRWlwa3JRVWRLQVlqcVh5amZ5UXB2a3FNZmhVYTlEZGdRbUlhQmp5TndISFBBWTFiTDZVRWI1QWJSUXJ4UVFjTlg5OEFKR0NkSWwtU0hFMElJQW91NnE4UWpJWTBMX19XcGp6SXZ6UTViNnYtSmJpdENBZjYxQdIB0wFBVV95cUxOdnBMOG92UFYweC1TLWZXcS1ZSlpWMzltNW81QzlsdGQ2QkxIbXV5cHQweWNBNWRMQkFzVzhucW5MbWhPaTJIZGlzdVdjc0dwV1hXT281U2ZnYjNLMzd3R1F5eVNxM0pSMEJKV0dzbk4tSHNsN3ZTa1cyR1RIYjU2dUVIazJuc3lEdDliM0wtbU42bXVfVDZCRGhsMkIwZEF5cFNLYVBJdEE2Smp1eWE0dDhVRHZvNHVhRThTSVppeUxRVHUycTkwLTRxNEl5OThNT1ZF?oc=5\" target=\"_blank\">Punjab to integrate AI across depts; Mohali to be AI hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1JCaVVOTldHVU5MbUdkOVdmQUdCX1dYZTk2TFJsTTNCekhvTnYxVi1Uc1EwdnFsUndzSHU2MzZsckVKYVNpbmVkZHU1ejZWQ2MzV25VeVdWRWlwa3JRVWRLQVlqcVh5amZ5UXB2a3FNZmhVYTlEZGdRbUlhQmp5TndISFBBWTFiTDZVRWI1QWJSUXJ4UVFjTlg5OEFKR0NkSWwtU0hFMElJQW91NnE4UWpJWTBMX19XcGp6SXZ6UTViNnYtSmJpdENBZjYxQdIB0wFBVV95cUxOdnBMOG92UFYweC1TLWZXcS1ZSlpWMzltNW81QzlsdGQ2QkxIbXV5cHQweWNBNWRMQkFzVzhucW5MbWhPaTJIZGlzdVdjc0dwV1hXT281U2ZnYjNLMzd3R1F5eVNxM0pSMEJKV0dzbk4tSHNsN3ZTa1cyR1RIYjU2dUVIazJuc3lEdDliM0wtbU42bXVfVDZCRGhsMkIwZEF5cFNLYVBJdEE2Smp1eWE0dDhVRHZvNHVhRThTSVppeUxRVHUycTkwLTRxNEl5OThNT1ZF?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 15 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Panjab University to play vital role in shaping future tech leadership: UN envoy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0lidlRQR2RZenU3aEhXbE5fSnFSMVNnVE5PbjY3UFBXLUh5RVlsQmNNWGNhT21pbmpxdXJzT3NJQ2diS21PdDZMakcwWmJiRi1wVjdrN25xREgzRndjR2U0TmtpdzlOb3lDYWJrdnNGNk9jd3NNSW41WEJ3TTdJQTlWZmExUTVfYnpURllGblBnQUhuQ253aU9uZF9jbTZ2MnZmR0JPTUVaX0RJbkxaajF1bnd0QTctdWdRWlZoS1QwY2ZEX0FxSkZ1MFJkZHk0S3JESNIB2wFBVV95cUxNcVY4VTkydWFXNEIyTXBUaW4wa0pYYTVQc1RxeXE2WFZyb2JoWDdtUElDNVVJamY2TXVHMy00MG1IM1d4QXlwb0Z5VG5laV8yZkRKTEZPZlVub1cwbk5uWm5ZVEFVNU5VQU00X1lQN2h6eEtTSFhSei1XaURla0taOGJJQ09CVlpUY3RzS2dEQlBzNS02TXVLelZYWFlCTTVaV0xHOGJ4WjVxbXMyNzgxVDlfeERyZHJ6clZZSktvODRqUVdnc0R3YVB6OC1jdFFVUld2czd6ZkdrWTA?oc=5\" target=\"_blank\">Panjab University to play vital role in shaping future tech leadership: UN envoy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0lidlRQR2RZenU3aEhXbE5fSnFSMVNnVE5PbjY3UFBXLUh5RVlsQmNNWGNhT21pbmpxdXJzT3NJQ2diS21PdDZMakcwWmJiRi1wVjdrN25xREgzRndjR2U0TmtpdzlOb3lDYWJrdnNGNk9jd3NNSW41WEJ3TTdJQTlWZmExUTVfYnpURllGblBnQUhuQ253aU9uZF9jbTZ2MnZmR0JPTUVaX0RJbkxaajF1bnd0QTctdWdRWlZoS1QwY2ZEX0FxSkZ1MFJkZHk0S3JESNIB2wFBVV95cUxNcVY4VTkydWFXNEIyTXBUaW4wa0pYYTVQc1RxeXE2WFZyb2JoWDdtUElDNVVJamY2TXVHMy00MG1IM1d4QXlwb0Z5VG5laV8yZkRKTEZPZlVub1cwbk5uWm5ZVEFVNU5VQU00X1lQN2h6eEtTSFhSei1XaURla0taOGJJQ09CVlpUY3RzS2dEQlBzNS02TXVLelZYWFlCTTVaV0xHOGJ4WjVxbXMyNzgxVDlfeERyZHJ6clZZSktvODRqUVdnc0R3YVB6OC1jdFFVUld2czd6ZkdrWTA?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh University Hosts India's First AI Fest 2026 on the sidelines of AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3pkc1VBZi03c2o5dXU4aXI5dmVhWVlXOGJoUEpMdEt3b2FTZWZtWXN5Ym5TdVVOcHRvREFsR0RoYkRKUlRZODh2cG5hQTlFWV9NU2Z0S3ZQSllldkJycHE2MU5XdVo0a1FXd2ZNekhvT05nVjhYM3RoSWRvTTJPSlZiYURKV2Z4Q3lxVGE4d3VOelFSUWJQbEpRSTBXNXNzUUo0Y01Edk9mLTFTRnRsbHNCV3NQV2ZFZ1J2QnB6MjNPRTViSExDUWROR3FZLUx5cGx1UQ?oc=5\" target=\"_blank\">Chandigarh University Hosts India's First AI Fest 2026 on the sidelines of AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Careers360</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3pkc1VBZi03c2o5dXU4aXI5dmVhWVlXOGJoUEpMdEt3b2FTZWZtWXN5Ym5TdVVOcHRvREFsR0RoYkRKUlRZODh2cG5hQTlFWV9NU2Z0S3ZQSllldkJycHE2MU5XdVo0a1FXd2ZNekhvT05nVjhYM3RoSWRvTTJPSlZiYURKV2Z4Q3lxVGE4d3VOelFSUWJQbEpRSTBXNXNzUUo0Y01Edk9mLTFTRnRsbHNCV3NQV2ZFZ1J2QnB6MjNPRTViSExDUWROR3FZLUx5cGx1UQ?oc=5",
+   "source_name": "Careers360",
+   "source_domain": "university.careers360.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "EY India Certificate Courses to make Chandigarh Universitys Students of MBA & BBA Programs Job-ready with real-world skills in AI, Analytics, Finance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPYlZRVG1HbmxiZUpvOVU0dVZLZy1LMzFXajZrRUJBZFVRa3Vmdml1NThqbWJpenB1UjU3X25ObUFsb2FzaTJZNGk3QzVlNzRuMDZrWHY0bjU5bnR2T0xtUTNqbnFzMmQ0emthdmw1U2h4WmwyYUlqWDNOeVRRcXBIdDlVN1NtT1Y2cFh5WFY0XzBsdjdxQWp5bFBEcUxCVUYyak5hUU9Ld0N1ODN5MTJlWVJCcS1ucl9oTEtsSFZoTXVGbndhYktXTHMzcXlNWkZCaVZWa0Jxcnc5U09kYUN6V3NxZ2pWc1o1S0xieng1c3N6eUJmTERWSC1OT0JNSG9ucFE5eWlGN284Zm9peFRNcVp30gGXAkFVX3lxTFBneFQwazN0c2dqTnBMNEtWbDd0RVpKbGxsMWQ0eDc0WERHOXNNR3NFUkhLRWlpSWFJV2thQldYakpxSDlydllxVTRFUHJnMmRYTHlleFhSSXBqcmFDck55U1FzVEtudXBaRTBoNHJDamx5R2tQMHpBWUlwb1c3eTROakNtUXVRcXk0U0tYMERrXzJnczVGYVJzck5aTnJUZ3d0WkRvV19oOHotckpFVUNRWGtfVFBwaF9hZFN1YW4wWXRpajR3WUs2S2EyMW1vbTNKTEtlQ285S0ktVzlWa1BRbjlwRVAtdjNGWjRlQVdITkVQYXhJZjEycUdYZzFuaTVkclFWdnFnTFppcDZrU0ZKVW5ENXpYYw?oc=5\" target=\"_blank\">EY India Certificate Courses to make Chandigarh Universitys Students of MBA & BBA Programs Job-ready with real-world skills in AI, Analytics, Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYlZRVG1HbmxiZUpvOVU0dVZLZy1LMzFXajZrRUJBZFVRa3Vmdml1NThqbWJpenB1UjU3X25ObUFsb2FzaTJZNGk3QzVlNzRuMDZrWHY0bjU5bnR2T0xtUTNqbnFzMmQ0emthdmw1U2h4WmwyYUlqWDNOeVRRcXBIdDlVN1NtT1Y2cFh5WFY0XzBsdjdxQWp5bFBEcUxCVUYyak5hUU9Ld0N1ODN5MTJlWVJCcS1ucl9oTEtsSFZoTXVGbndhYktXTHMzcXlNWkZCaVZWa0Jxcnc5U09kYUN6V3NxZ2pWc1o1S0xieng1c3N6eUJmTERWSC1OT0JNSG9ucFE5eWlGN284Zm9peFRNcVp30gGXAkFVX3lxTFBneFQwazN0c2dqTnBMNEtWbDd0RVpKbGxsMWQ0eDc0WERHOXNNR3NFUkhLRWlpSWFJV2thQldYakpxSDlydllxVTRFUHJnMmRYTHlleFhSSXBqcmFDck55U1FzVEtudXBaRTBoNHJDamx5R2tQMHpBWUlwb1c3eTROakNtUXVRcXk0U0tYMERrXzJnczVGYVJzck5aTnJUZ3d0WkRvV19oOHotckpFVUNRWGtfVFBwaF9hZFN1YW4wWXRpajR3WUs2S2EyMW1vbTNKTEtlQ285S0ktVzlWa1BRbjlwRVAtdjNGWjRlQVdITkVQYXhJZjEycUdYZzFuaTVkclFWdnFnTFppcDZrU0ZKVW5ENXpYYw?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Mon, 13 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Chandigarh: Punjabi Origin YouTuber Killed In Canada, Punjab Budget Rs 1000 Allowance Buzz & More",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQVlcwRm9temtFbVp4dk0taUZma0JXV0g5X0FTSTdJWHRmM0lUUm40NGRXdXVZTUtfZUNReHVvcE16LUJWZFlwTEowd3o5QXRkSTV0YUtFS0JEa3E1bWNaWWFTQlpsOXhjMHBSSWRyZmctTXR3dC0ydHNHTHFkVlY1ZTdheXhsSmxuY1p1UHZFdXI4aVl4V3R6MDZlRjVhdHVBN28zM3hiM2RZUDZLR2wzYlViYVREUmExU2tTMktheDdSdDh2dHNDS1JBSWpHSW11WXRjeGVjcUh2eXp1bEQwVTg1cXBpZjEwUXRKUFZtbTRCN3R2al8xY0R1X3VRZW5FcXfSAYcCQVVfeXFMT0RzUGhFUEJqbjBXcmJuaUFMQTFzTVNhNTY1MmkwN2ZaV3l1anBkcGVwRUFEbWE0dVlCeVlkRW5ESEwwQm1qWnhJQTVTU3NUMVZwbFlaeTFlRTRpUDVBck5kSVRDeWhnbEZ4eHZLbEt3bXVlUmFzYU9wa2N6aHE1N1B4NFJEWGlmRW1ILVpDa1poeFFFc1JJSnNTRS1RMk1teG5HWTFRdmFWS01teERyQk8wRWxHcHFkZHBVcWIwUUZsMTBGVWNGbHBXaGpmekJQeFV6bm1IOHFpSjNMbU1LbVBQaWduRHI0dHI1TTlhVlRQcDZEcTgtYVRPZzI3YnZNS2gwU1NfaHM?oc=5\" target=\"_blank\">Chandigarh: Punjabi Origin YouTuber Killed In Canada, Punjab Budget Rs 1000 Allowance Buzz & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVlcwRm9temtFbVp4dk0taUZma0JXV0g5X0FTSTdJWHRmM0lUUm40NGRXdXVZTUtfZUNReHVvcE16LUJWZFlwTEowd3o5QXRkSTV0YUtFS0JEa3E1bWNaWWFTQlpsOXhjMHBSSWRyZmctTXR3dC0ydHNHTHFkVlY1ZTdheXhsSmxuY1p1UHZFdXI4aVl4V3R6MDZlRjVhdHVBN28zM3hiM2RZUDZLR2wzYlViYVREUmExU2tTMktheDdSdDh2dHNDS1JBSWpHSW11WXRjeGVjcUh2eXp1bEQwVTg1cXBpZjEwUXRKUFZtbTRCN3R2al8xY0R1X3VRZW5FcXfSAYcCQVVfeXFMT0RzUGhFUEJqbjBXcmJuaUFMQTFzTVNhNTY1MmkwN2ZaV3l1anBkcGVwRUFEbWE0dVlCeVlkRW5ESEwwQm1qWnhJQTVTU3NUMVZwbFlaeTFlRTRpUDVBck5kSVRDeWhnbEZ4eHZLbEt3bXVlUmFzYU9wa2N6aHE1N1B4NFJEWGlmRW1ILVpDa1poeFFFc1JJSnNTRS1RMk1teG5HWTFRdmFWS01teERyQk8wRWxHcHFkZHBVcWIwUUZsMTBGVWNGbHBXaGpmekJQeFV6bm1IOHFpSjNMbU1LbVBQaWduRHI0dHI1TTlhVlRQcDZEcTgtYVRPZzI3YnZNS2gwU1NfaHM?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 06 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "SGPC passes Rs 1,487.41 crore budget, up 7.28% over last fiscal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGdXTmVJclVoSHFMdlhtRlBlYmxFaFBjU1RFZHAtdWQ5TVFkS2hsTy1aMFkzRlI5WnZpOXNGWXZCOW9vcDJrRkh5SnRjMVR3UTlqRkc4S2xzN2FfSkt5amlEWkNQNXhrelMyVk5sZFpSZDJZaWhXYmNhS2IwV1RGT21BZmg4eUY2aXhBOXZhRW5lTVVTU3NicUZ3M2R1ZUt5MzRfcDJRX2cxX3JyYlM2U3FKX2k2WGVGVDZmLXhRWDZBby1hOGZKRWFJcjBvSkVa0gHXAUFVX3lxTE5zc3RRZHU1R0QyQ05OZU1UWVViRjFuaS1mLVlYUERfRWVWcTQ0Umx2cEt3UjlDOUFhRTVWckdHUmo4dkh4QlU0REhmLWdzSVktWlc5dDZoSjJ6WHlrakE1Y3BaRV9xRXVTRjI1ajE1M1JjM3o1WVJHVTMwVEhSVHVjLWJwcXJ4X3VxY2kyUzZPYmlwbDlKX2FpVUlWVUsxYk1PSTBrZnRaY3BQbnoxYkF5MnlBRnFmTUcxNThOc1JvbTJZMEpzYlBkZWZ2d0E3OGRDYXppQWdv?oc=5\" target=\"_blank\">SGPC passes Rs 1,487.41 crore budget, up 7.28% over last fiscal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGdXTmVJclVoSHFMdlhtRlBlYmxFaFBjU1RFZHAtdWQ5TVFkS2hsTy1aMFkzRlI5WnZpOXNGWXZCOW9vcDJrRkh5SnRjMVR3UTlqRkc4S2xzN2FfSkt5amlEWkNQNXhrelMyVk5sZFpSZDJZaWhXYmNhS2IwV1RGT21BZmg4eUY2aXhBOXZhRW5lTVVTU3NicUZ3M2R1ZUt5MzRfcDJRX2cxX3JyYlM2U3FKX2k2WGVGVDZmLXhRWDZBby1hOGZKRWFJcjBvSkVa0gHXAUFVX3lxTE5zc3RRZHU1R0QyQ05OZU1UWVViRjFuaS1mLVlYUERfRWVWcTQ0Umx2cEt3UjlDOUFhRTVWckdHUmo4dkh4QlU0REhmLWdzSVktWlc5dDZoSjJ6WHlrakE1Y3BaRV9xRXVTRjI1ajE1M1JjM3o1WVJHVTMwVEhSVHVjLWJwcXJ4X3VxY2kyUzZPYmlwbDlKX2FpVUlWVUsxYk1PSTBrZnRaY3BQbnoxYkF5MnlBRnFmTUcxNThOc1JvbTJZMEpzYlBkZWZ2d0E3OGRDYXppQWdv?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sun, 29 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana gets 668 PMKVY 4.0 centres, 600+ courses in AI, drones, robotics",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcG5BdWRnZ1NzQ0FvV3B6Y1I1SlQ0QlAwMGF3UUFtbEVVejhiYjBDVzVGR3ZDYXBwVkkydWpuTUNlRl9EWWVxaXVXY2FGZENRR1JHblgtQVBOb2JqZktPM3hOWkQ3VUJ6cGpFMVpEVGxJbmZ0ODV0alFWc1l1RDM4Z2ExTWswcmhZaVJLdmtDZG94dDd3Y3lQNG96NFhGWjlaajdRcGRaUmZieU0xYUVMRlYyWDUwLV94em10dWVvZVFwOW0xekg2UExFX3V1ZUtXN3FWVExrRlo5MVVMa2dN0gHkAUFVX3lxTFBzNThZaC1kSXh3YVg0T2VUVVNMcEFJY1FqdFZzSG43MEtZWkxHYUZPMUJSOTM2Mmd3RDRGbUszeXZxRFNIUWw0X2poTk9kMGczd1ZfM1B2SlFsSDE0UFBXYVRadVpMemFsLXFDTmJqc0RuajVvTC15QU1sb1hTWWh0TXFxUjR5QUVrOVNZYWE0dkJieXZGZlg4WWhQYnJsM185UGJzRFhLTUZ2WnIyMUV5Y3g1NDhxYzZJUnZLQkFvVVFpQU5iVkd2bFlKeDFWeE1SWEVBUGdabkxoWjZpQUlnX0tXWg?oc=5\" target=\"_blank\">Haryana gets 668 PMKVY 4.0 centres, 600+ courses in AI, drones, robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcG5BdWRnZ1NzQ0FvV3B6Y1I1SlQ0QlAwMGF3UUFtbEVVejhiYjBDVzVGR3ZDYXBwVkkydWpuTUNlRl9EWWVxaXVXY2FGZENRR1JHblgtQVBOb2JqZktPM3hOWkQ3VUJ6cGpFMVpEVGxJbmZ0ODV0alFWc1l1RDM4Z2ExTWswcmhZaVJLdmtDZG94dDd3Y3lQNG96NFhGWjlaajdRcGRaUmZieU0xYUVMRlYyWDUwLV94em10dWVvZVFwOW0xekg2UExFX3V1ZUtXN3FWVExrRlo5MVVMa2dN0gHkAUFVX3lxTFBzNThZaC1kSXh3YVg0T2VUVVNMcEFJY1FqdFZzSG43MEtZWkxHYUZPMUJSOTM2Mmd3RDRGbUszeXZxRFNIUWw0X2poTk9kMGczd1ZfM1B2SlFsSDE0UFBXYVRadVpMemFsLXFDTmJqc0RuajVvTC15QU1sb1hTWWh0TXFxUjR5QUVrOVNZYWE0dkJieXZGZlg4WWhQYnJsM185UGJzRFhLTUZ2WnIyMUV5Y3g1NDhxYzZJUnZLQkFvVVFpQU5iVkd2bFlKeDFWeE1SWEVBUGdabkxoWjZpQUlnX0tXWg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 26 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana budget: Education allocation up; focus on AI, infra, research | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkhkckJOZHhMWi1CMTlIV3pwbm5zaWhBdkRwNUltbGliYVlwaDdqWVZpSkJGbl9sUkgxS0JUeW1iemRPWlprdldXTEF2V2pfUnpobkRaT2tNdHBnZHFLR0lBZDVqaUJNa21HWmJMbkxiQjRYQkJ5QUFkQWRIVV9rX2lHVVlITl9JbF9STS1yY0FyWFV3ZEVKNFdXbndUS21pdTh2YjNxdE9jZlEza2Z0NmZCQ0RQMnZraHFXUkJlbW9IN2pQdE50SElpaTlqWUFGYWpFT05MVdIB3AFBVV95cUxOeUJ0amVpcHFyR2F5RTRRSFJkYVR5X0VISXdMeHhPTW9hRkNrcUpiVzJKRWpfRVRZN3ZVZHZKRnd4LVNJc05CVmhLYzhSTWlfbVlFLTRxNzJnX1pQZV9EWDJybXpBRjRkemxYOWRJVjZRLTZXbkFDekJNQzlEeElUZFdXdVlTb01DQUF0TlhFV21DZ1RVNll0S1ZpRDZuYkZoa3lhMC1wT05tdGJnQWtaenYyanVWb2lhSk9IaWxuODZhbGNjN3lOX3loNEZKc1NFTzZWcWlFNnAyVW52?oc=5\" target=\"_blank\">Haryana budget: Education allocation up; focus on AI, infra, research | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkhkckJOZHhMWi1CMTlIV3pwbm5zaWhBdkRwNUltbGliYVlwaDdqWVZpSkJGbl9sUkgxS0JUeW1iemRPWlprdldXTEF2V2pfUnpobkRaT2tNdHBnZHFLR0lBZDVqaUJNa21HWmJMbkxiQjRYQkJ5QUFkQWRIVV9rX2lHVVlITl9JbF9STS1yY0FyWFV3ZEVKNFdXbndUS21pdTh2YjNxdE9jZlEza2Z0NmZCQ0RQMnZraHFXUkJlbW9IN2pQdE50SElpaTlqWUFGYWpFT05MVdIB3AFBVV95cUxOeUJ0amVpcHFyR2F5RTRRSFJkYVR5X0VISXdMeHhPTW9hRkNrcUpiVzJKRWpfRVRZN3ZVZHZKRnd4LVNJc05CVmhLYzhSTWlfbVlFLTRxNzJnX1pQZV9EWDJybXpBRjRkemxYOWRJVjZRLTZXbkFDekJNQzlEeElUZFdXdVlTb01DQUF0TlhFV21DZ1RVNll0S1ZpRDZuYkZoa3lhMC1wT05tdGJnQWtaenYyanVWb2lhSk9IaWxuODZhbGNjN3lOX3loNEZKc1NFTzZWcWlFNnAyVW52?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:54+00:00"
+  }
+ ]
+}

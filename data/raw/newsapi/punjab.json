@@ -1,0 +1,31 @@
+{
+ "region": "Punjab",
+ "query": "(Punjab) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:48:03+00:00",
+ "total_results": 2,
+ "item_count": 2,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Punjab",
+   "title": "Q2 Results Today Live: SBI, NSE, Bajaj Finserv, Solar Ind, Fortis, Gujarat Fluoro, Bajaj Holdings, Lloyds Metals & Energy, Lupin, MCX, Emcure Pharma, AIA Engineering, Zydus Wellness to announce Q2 results, ITC, Marico, NALCO, Granules, MobiKwik shares in focus",
+   "description": "Q2 Results Today, 03rd November 2026 Live Updates: Find all the latest Q2 results 2026 updates of Aarnav Fashions, Aarti Drugs, Aayush Wellness, A B Infrabuild, Adarsh Plant Protect, Adon Agro Commodities, Allied Digital Services, Advent Hotels International,…",
+   "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-sbi-nse-bajaj-finserv-solar-ind-bajaj-holdings-lloyds-metals-lupin-mcx-emcure-aia-engineering-zydus-wellness-itc-marico-mobikwik-results-03-november-2026/article71656322.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-11-03T03:48:22Z",
+   "fetched_at": "2026-11-15T09:48:03+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Punjab",
+   "title": "AI firm KYVEX’S founder Pearl Kapur joins BJP ahead of Punjab elections",
+   "description": "Pearl Kapur has joined the Bharatiya Janata Party as the Punjab elections approach. He aims to integrate artificial intelligence and data analytics into the party's digital outreach strategies. This move highlights the increasing importance of digital platfor…",
+   "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ai-firm-kyvexs-founder-pearl-kapur-joins-bjp-ahead-of-punjab-elections/articleshow/135303401.cms",
+   "source_name": "The Times of India",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_raw": "2026-10-29T11:05:31Z",
+   "fetched_at": "2026-11-15T09:48:03+00:00"
+  }
+ ]
+}

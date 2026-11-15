@@ -1,0 +1,65 @@
+{
+ "region": "Chandigarh",
+ "group": "B",
+ "query": "(Chandigarh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chandigarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:00+00:00",
+ "item_count": 5,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Punjab hosts AI Hackathon for Govt school students; over 1,000 trained in emerging technologies",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPSjNGU2U5ZUxRTmJjWTR4cDd1RmZBeHdUMVpuV1VzN0t3aHVST2g5UjBmRDdqLTkwMUVsMWdXTkJUTFJpOFhtQmlYZnloSmM4T2s4ZjE3WW5nMnVWZHg0Mm5JeDZyaFVaaHdBWDZka2Q0a3lBUlFwYk1WaHpTVi1fblBVcEM3eFVtMUhsSWVWaXFFaWtLYllTQTZXQWllRmwybm9wYnJKT2lGQjF1aFRoN010R0xLMGgzYnlSQzY3RmI2SWdCbXFGSDZxbi1ZU0o4Mkp0c0RYcE1YSHFEaloybEhxWHdnaGx0RVFER3lNS0hQRmY0QXhQa2xkZHkwa0xE0gGGAkFVX3lxTE5lTWZreERRNkNkYTRPeW5XNE9GbTd1bUNSd0xTRDI5Y3hmVlU2QktpN3YyOUt2WVJ0ZzZJUHNXRk0zVmUwQllGUU1QekItNTFuSGV0R0Jzc0dOdjNKaFk4NHVCWWJKYXRuN2NPTXluejZMUk5UODBPb0lsMXVraHhDTmgxbjJkMFlqTUxlZm0tS3BhWHdUQzlYMEZDaVhKUExuaUNMZkZIMVJYcS1mNkQ2bjZoQ1VILXdiY0JUb0h2NHdscFZlaU16b0R4aWpVV19wSkRoYktZaV9jTmh3VUl1U2poYjZKRXJZMHRqLUwyS19ZQjF0ZWYzUXUwS183a3BROUdEa1E?oc=5\" target=\"_blank\">Punjab hosts AI Hackathon for Govt school students; over 1,000 trained in emerging technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSjNGU2U5ZUxRTmJjWTR4cDd1RmZBeHdUMVpuV1VzN0t3aHVST2g5UjBmRDdqLTkwMUVsMWdXTkJUTFJpOFhtQmlYZnloSmM4T2s4ZjE3WW5nMnVWZHg0Mm5JeDZyaFVaaHdBWDZka2Q0a3lBUlFwYk1WaHpTVi1fblBVcEM3eFVtMUhsSWVWaXFFaWtLYllTQTZXQWllRmwybm9wYnJKT2lGQjF1aFRoN010R0xLMGgzYnlSQzY3RmI2SWdCbXFGSDZxbi1ZU0o4Mkp0c0RYcE1YSHFEaloybEhxWHdnaGx0RVFER3lNS0hQRmY0QXhQa2xkZHkwa0xE0gGGAkFVX3lxTE5lTWZreERRNkNkYTRPeW5XNE9GbTd1bUNSd0xTRDI5Y3hmVlU2QktpN3YyOUt2WVJ0ZzZJUHNXRk0zVmUwQllGUU1QekItNTFuSGV0R0Jzc0dOdjNKaFk4NHVCWWJKYXRuN2NPTXluejZMUk5UODBPb0lsMXVraHhDTmgxbjJkMFlqTUxlZm0tS3BhWHdUQzlYMEZDaVhKUExuaUNMZkZIMVJYcS1mNkQ2bjZoQ1VILXdiY0JUb0h2NHdscFZlaU16b0R4aWpVV19wSkRoYktZaV9jTmh3VUl1U2poYjZKRXJZMHRqLUwyS19ZQjF0ZWYzUXUwS183a3BROUdEa1E?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Airtel partners with Zscaler to launch AI & Cyber threat research center in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXJTdkVma1c3YnFkODE1Yy1CNkRDNzVTRVNZSFV0VGhVMTRjVW02TlJCbUVnOHNpRm5LcUw5ekdhbTFFckJSaXZVUE9ZejRud1BNWU1fRXRKWlM0V0JrOWxwTm13bTU4eV9GUXFzMWQ1UjdKaGsxR29RT0pJSzFHendfZEczbDJoZVg3RDdiUWhMZUxURmdLS3JpbFdEOGRpa0FjbVZhYnc2ZktNaFhfUXJKRkxEdmJ6cmFmdzJPZkQ4QVJGZFVQZGVTWHpmZ9IB2wFBVV95cUxOeVlFREFUY2hoR293dVNlVjhmWkY3Tk5rWVJGY0NVSU9XeldmWGpFODFzVXZ1U0xzeHhodFJQZUhPMlNBLVBZOVZHVUtNVTZsSC1pOTNURUpidXZOcUhXWjBkcDZibFFrVUpBZjZEVUtYamI4bnFEVVlJdFI5b1NUMFN3WGlDWmg3Tl9aNnJkaV8ySDlkSHU1MzlOUzhFWmZSaTkwM19TZG42VzM5VmNvb01NMWo3eDhlaHBxZ2ZwT3Nxb3RRMXhOLWtobUJ4V3JmOUw4MTN3OWVHS1E?oc=5\" target=\"_blank\">Airtel partners with Zscaler to launch AI & Cyber threat research center in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXJTdkVma1c3YnFkODE1Yy1CNkRDNzVTRVNZSFV0VGhVMTRjVW02TlJCbUVnOHNpRm5LcUw5ekdhbTFFckJSaXZVUE9ZejRud1BNWU1fRXRKWlM0V0JrOWxwTm13bTU4eV9GUXFzMWQ1UjdKaGsxR29RT0pJSzFHendfZEczbDJoZVg3RDdiUWhMZUxURmdLS3JpbFdEOGRpa0FjbVZhYnc2ZktNaFhfUXJKRkxEdmJ6cmFmdzJPZkQ4QVJGZFVQZGVTWHpmZ9IB2wFBVV95cUxOeVlFREFUY2hoR293dVNlVjhmWkY3Tk5rWVJGY0NVSU9XeldmWGpFODFzVXZ1U0xzeHhodFJQZUhPMlNBLVBZOVZHVUtNVTZsSC1pOTNURUpidXZOcUhXWjBkcDZibFFrVUpBZjZEVUtYamI4bnFEVVlJdFI5b1NUMFN3WGlDWmg3Tl9aNnJkaV8ySDlkSHU1MzlOUzhFWmZSaTkwM19TZG42VzM5VmNvb01NMWo3eDhlaHBxZ2ZwT3Nxb3RRMXhOLWtobUJ4V3JmOUw4MTN3OWVHS1E?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Punjab and Haryana High Court bars judicial officers from using AI tools to write judgments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU2xsUjFKOVdOQmtfMmNITHRuMk5mTS1BZzQ0MVBQLXZrWTdRMkxfR1B5QmRnVDZNSHEwSW00NENNeUk2eWJ5YzhJWU5vNXpTU3FkeGkxUkFmcFVxTjRiY3N2dEc5MnlRanN2aTVEY0JUeW1uUU44ajQ5a1d4eTAzVFd0YUplTzVuOEFRUjdOS1ZNMGJNT09ndVdod3dVRVZPRmp6RTFyRk5ocmdoSEpaeUh1VUtXVmhMaFRzeGEwSzBKWVpxRWhiY0tUU25OM0pVTHVFS3JQZmxlOTYzakZVYVhOd3pqbzNSZjZIempTNNIB9gFBVV95cUxPc3o5Y0hrZE1pb2lQMmF3LVhBUm5qTHh0eF9CbjNTZE1Yb2YzeERkclUzM2FZbkNMWlBoSmRzcXNyaEZKdWdrOVF1S1BCVzJXbzNKTmdnbmFoY3plVUZrZGlnRDhLblp5MF8tZDdlM2xhMFV2V3B2MTB3Wk5ieWVreDB1WnlNZllCRWc2V3ppZ3ljMlI4VVZwWXo4eUtwa01lS2dkdFg0TGhWNFBjV2R6ajItbms1UlQ3RTJlYTdKVU1ycGtDNEhVOHJpbDJ5RmJURnAtbkx4NDNaVFR2Y2daUC1GY1ZwZjNTWG1xMUZjdk4yUW9wVlE?oc=5\" target=\"_blank\">Punjab and Haryana High Court bars judicial officers from using AI tools to write judgments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU2xsUjFKOVdOQmtfMmNITHRuMk5mTS1BZzQ0MVBQLXZrWTdRMkxfR1B5QmRnVDZNSHEwSW00NENNeUk2eWJ5YzhJWU5vNXpTU3FkeGkxUkFmcFVxTjRiY3N2dEc5MnlRanN2aTVEY0JUeW1uUU44ajQ5a1d4eTAzVFd0YUplTzVuOEFRUjdOS1ZNMGJNT09ndVdod3dVRVZPRmp6RTFyRk5ocmdoSEpaeUh1VUtXVmhMaFRzeGEwSzBKWVpxRWhiY0tUU25OM0pVTHVFS3JQZmxlOTYzakZVYVhOd3pqbzNSZjZIempTNNIB9gFBVV95cUxPc3o5Y0hrZE1pb2lQMmF3LVhBUm5qTHh0eF9CbjNTZE1Yb2YzeERkclUzM2FZbkNMWlBoSmRzcXNyaEZKdWdrOVF1S1BCVzJXbzNKTmdnbmFoY3plVUZrZGlnRDhLblp5MF8tZDdlM2xhMFV2V3B2MTB3Wk5ieWVreDB1WnlNZllCRWc2V3ppZ3ljMlI4VVZwWXo4eUtwa01lS2dkdFg0TGhWNFBjV2R6ajItbms1UlQ3RTJlYTdKVU1ycGtDNEhVOHJpbDJ5RmJURnAtbkx4NDNaVFR2Y2daUC1GY1ZwZjNTWG1xMUZjdk4yUW9wVlE?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Artificial Intelligence to predict, prevent, manage natural disasters: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOclZEVTJLZXM5Z0dTWmFuZEFpNktidFJ5UmdvS2FHYWRmc0U2RE5lWjRsdVNEdnJCTTd2WUlTNi1WQzYzTnZFM3ZnM01GeVZNUHYzSXU1U3BJVHFPUWpHaERLYWE2bDdWTlBHalBxQ0VkVnhMWDFMZ1NlRi03eUtWQlVRakF0UlFQMjV6QTNPbjJfdUVwY2NyMmNJN09oWnFIQ0hTRkV3ZmJIR1ZUNU9iaENlazIzbmQyay1JWFJXb0FXZ3hKeGfSAdMBQVVfeXFMUDhoZFdYaTRxTU5vRkx5bGhnN0hTYU00dVo2dUJXSWxESzcwX2tjekNjQTVRWkNhNGRvQjZPRjY5NTV2SEFOcU16TlVhTkZiSzlnZ1FMcVE0WF9aQnEwTHRyc0kxSFRWdFcyTzNRT0JrX3dKbW9JNkhoY1djcW1rUjd3WjRKMXJMNzdEUUp4X0hDaUpWaGVIYVN4R2cxU3NCbXVOc2ZpVUNKV2o2TWNCMkNBcWFTRnV1akptN1BmMzk4dUJpN0V6a3Ewd0RnakFrYkplQQ?oc=5\" target=\"_blank\">Artificial Intelligence to predict, prevent, manage natural disasters: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclZEVTJLZXM5Z0dTWmFuZEFpNktidFJ5UmdvS2FHYWRmc0U2RE5lWjRsdVNEdnJCTTd2WUlTNi1WQzYzTnZFM3ZnM01GeVZNUHYzSXU1U3BJVHFPUWpHaERLYWE2bDdWTlBHalBxQ0VkVnhMWDFMZ1NlRi03eUtWQlVRakF0UlFQMjV6QTNPbjJfdUVwY2NyMmNJN09oWnFIQ0hTRkV3ZmJIR1ZUNU9iaENlazIzbmQyay1JWFJXb0FXZ3hKeGfSAdMBQVVfeXFMUDhoZFdYaTRxTU5vRkx5bGhnN0hTYU00dVo2dUJXSWxESzcwX2tjekNjQTVRWkNhNGRvQjZPRjY5NTV2SEFOcU16TlVhTkZiSzlnZ1FMcVE0WF9aQnEwTHRyc0kxSFRWdFcyTzNRT0JrX3dKbW9JNkhoY1djcW1rUjd3WjRKMXJMNzdEUUp4X0hDaUpWaGVIYVN4R2cxU3NCbXVOc2ZpVUNKV2o2TWNCMkNBcWFTRnV1akptN1BmMzk4dUJpN0V6a3Ewd0RnakFrYkplQQ?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 10 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:00+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "AI-led startups in MSME, healthcare sectors need of hour: Punjab minister Sanjeev Arora",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWRSMjIzSU9COEZ2V1J3WUxucC1obUIwMmFyQkFMZlNqQmxyOENOREdPN2xsOTk4S2hOWjJqUjE4UWJGMGEwTXJVbUdRb3JKR1JrcWxhcDNKaXl3NGh0ekNUWWV6QnU3TDY1M0ptclZXd092UXBiUnFpMjBEVlJhWGg3SHpTZGJTU0t1RkxtU2ljTzExeHJCTlFaZHVYN2JTMy1WWkRQWDdrQ3pnQV90R0VOUzl1WE8zVTh2Z1RrbjBQazJndXBmNzR4MNIBzwFBVV95cUxNdDVJLWJMM2R4Q2dnMjF4ay1FTjlLVk5GUkNIVXNvYk5TT2RySHNDLW8wWXdKczZqNlR1OUFCVHBnRmFWdzFabVExd0ZDVl9wckFFdGw2dHM3UWJCbEtGYUctR2drVDdHWlhJLXJ0VUtqVEJFNV9SekpTdXNCV3lDalkwQ2tSRXZzWWJ0TUxmZTY0UWh0WU9kVFZXV1NPT1cxWnVESE9aRGw3OXZkclM4UHB3Z0EtTHVyalk5ZzFHeWhWNno4dFhpSGdSbG1uc2s?oc=5\" target=\"_blank\">AI-led startups in MSME, healthcare sectors need of hour: Punjab minister Sanjeev Arora</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWRSMjIzSU9COEZ2V1J3WUxucC1obUIwMmFyQkFMZlNqQmxyOENOREdPN2xsOTk4S2hOWjJqUjE4UWJGMGEwTXJVbUdRb3JKR1JrcWxhcDNKaXl3NGh0ekNUWWV6QnU3TDY1M0ptclZXd092UXBiUnFpMjBEVlJhWGg3SHpTZGJTU0t1RkxtU2ljTzExeHJCTlFaZHVYN2JTMy1WWkRQWDdrQ3pnQV90R0VOUzl1WE8zVTh2Z1RrbjBQazJndXBmNzR4MNIBzwFBVV95cUxNdDVJLWJMM2R4Q2dnMjF4ay1FTjlLVk5GUkNIVXNvYk5TT2RySHNDLW8wWXdKczZqNlR1OUFCVHBnRmFWdzFabVExd0ZDVl9wckFFdGw2dHM3UWJCbEtGYUctR2drVDdHWlhJLXJ0VUtqVEJFNV9SekpTdXNCV3lDalkwQ2tSRXZzWWJ0TUxmZTY0UWh0WU9kVFZXV1NPT1cxWnVESE9aRGw3OXZkclM4UHB3Z0EtTHVyalk5ZzFHeWhWNno4dFhpSGdSbG1uc2s?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Sun, 12 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:00+00:00"
+  }
+ ]
+}

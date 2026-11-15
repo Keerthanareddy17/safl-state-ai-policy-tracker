@@ -1,0 +1,120 @@
+{
+ "region": "West Bengal",
+ "group": "A",
+ "query": "(\"West Bengal\" OR Kolkata) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22West+Bengal%22+OR+Kolkata%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:09+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal: Modi's BJP conquers one of India's toughest political frontiers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5\" target=\"_blank\">West Bengal: Modi's BJP conquers one of India's toughest political frontiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Mon, 04 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "IIT Kharagpur launches Rs 15 cr AI centre for mining innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUtqRzdSbk80Znk4Si0zVklWWDdsUThOYTRhX3dYd2ljY2VSWGpROUVuS3VVT0RSUGxJT0RXeXltNzd2VXhFRG9HQUJtbW8xU3YwVUgxVGxwcHhlbWtGRW1GaWhjVWp3Tkhha3o3cWVPT0YyRld2T1Y2TVFPR29hd0NmbWFmNXlveVpKREd2N29ORWJvR1NvTGJjTkdwVFdNUENFLTVUQUdHcTZhLTh4NGlZUVF4X1d0cnRtRnlrb9IBxgFBVV95cUxQLTluZ1ppNS0xNzdSSEMxbnJVV1ptUzNxLUt5TXIxMUsxUXB2VVNZWENVcEFtNnhDeHRrNDlPRXNyQXRESGd3QlF6RlFrNG1CcDQwa2RkaXN0RzFDSHFRTE1nYkNSeHQydTlvUmZCWFRhU1ZRVm9tNG1kdmw5TWlKSGNlYlFvdUI2Q21EN2V6Q3NrakE1cHM5Q0Z2V3RsU2hsY1FoUy1MbGJmS085bHFRN2FTeU4tMFQ1dm9TQjhPSC0tZTBQaHc?oc=5\" target=\"_blank\">IIT Kharagpur launches Rs 15 cr AI centre for mining innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUtqRzdSbk80Znk4Si0zVklWWDdsUThOYTRhX3dYd2ljY2VSWGpROUVuS3VVT0RSUGxJT0RXeXltNzd2VXhFRG9HQUJtbW8xU3YwVUgxVGxwcHhlbWtGRW1GaWhjVWp3Tkhha3o3cWVPT0YyRld2T1Y2TVFPR29hd0NmbWFmNXlveVpKREd2N29ORWJvR1NvTGJjTkdwVFdNUENFLTVUQUdHcTZhLTh4NGlZUVF4X1d0cnRtRnlrb9IBxgFBVV95cUxQLTluZ1ppNS0xNzdSSEMxbnJVV1ptUzNxLUt5TXIxMUsxUXB2VVNZWENVcEFtNnhDeHRrNDlPRXNyQXRESGd3QlF6RlFrNG1CcDQwa2RkaXN0RzFDSHFRTE1nYkNSeHQydTlvUmZCWFRhU1ZRVm9tNG1kdmw5TWlKSGNlYlFvdUI2Q21EN2V6Q3NrakE1cHM5Q0Z2V3RsU2hsY1FoUy1MbGJmS085bHFRN2FTeU4tMFQ1dm9TQjhPSC0tZTBQaHc?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sat, 18 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "AI-powered control room with 90 screens to monitor 80,700 polling booths 24x7 during Bengal elections",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN1NENnZxemdrQ0lSMFJBVV8tVGxyZ1FZVTdkWkdMZTFhR3pVR08zci1rS2drdHFUckZrREVqU2tXYzJsdi1RVWU0alUxVEFsRktyMklGUnF2RDd1dUlwNHFMRm4tcnpISkRTUnpjX0MxejQ2WkJ0RFVqR0tjNkxNMEt5TTRXQUZXbVlNSjR0VWJGMDhnXzIyR3ZFMXFPQ3Z2cUhwSFVBRk55VjgyMlNFN2RnRUtyZzlZU3RhcmxoUFlYd2FTN0ljMEVSc1k3ckJqLUQ0SG5HSjZjLXI2RUU5QkdfN3BIdlVMcWRyNW5BS2s1WGxYcUFhVjBubzVxUVZiLXMtZ0wzb1_SAZYCQVVfeXFMTnRuMk9IbjlyQ3AwNnB0QjV0RUxpT1drWG5iSlZlclMtU05oaHd0SUVVcS1zc0pkMURCeGJvWEhFSWpuRF9KUVBwSGZsUndmRWxncmlTdFlPWHRuczIzTEJMTURDQ2VsY2VuREE5dWkwVXM4NlN6OG43ZUxzMXNGM0UyYkVheUFGd2lNbjRKN0dVVTVBWmdzMURZTkZCY0s2UV9NX0E1bjJZV3VYT3FJUjlObjJKUU05MzdtamFLc2lNQnZIVHREb25sbXZBUV9vLWJoU3paaWtYblpOTzgzLU4yMUp6YllRS0U1OFA5ZTRpdTZQTjlrelkzUW11bDRUT1FSdWlSZVRaWEdQS2R4QlhqdFJKQ2c?oc=5\" target=\"_blank\">AI-powered control room with 90 screens to monitor 80,700 polling booths 24x7 during Bengal elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN1NENnZxemdrQ0lSMFJBVV8tVGxyZ1FZVTdkWkdMZTFhR3pVR08zci1rS2drdHFUckZrREVqU2tXYzJsdi1RVWU0alUxVEFsRktyMklGUnF2RDd1dUlwNHFMRm4tcnpISkRTUnpjX0MxejQ2WkJ0RFVqR0tjNkxNMEt5TTRXQUZXbVlNSjR0VWJGMDhnXzIyR3ZFMXFPQ3Z2cUhwSFVBRk55VjgyMlNFN2RnRUtyZzlZU3RhcmxoUFlYd2FTN0ljMEVSc1k3ckJqLUQ0SG5HSjZjLXI2RUU5QkdfN3BIdlVMcWRyNW5BS2s1WGxYcUFhVjBubzVxUVZiLXMtZ0wzb1_SAZYCQVVfeXFMTnRuMk9IbjlyQ3AwNnB0QjV0RUxpT1drWG5iSlZlclMtU05oaHd0SUVVcS1zc0pkMURCeGJvWEhFSWpuRF9KUVBwSGZsUndmRWxncmlTdFlPWHRuczIzTEJMTURDQ2VsY2VuREE5dWkwVXM4NlN6OG43ZUxzMXNGM0UyYkVheUFGd2lNbjRKN0dVVTVBWmdzMURZTkZCY0s2UV9NX0E1bjJZV3VYT3FJUjlObjJKUU05MzdtamFLc2lNQnZIVHREb25sbXZBUV9vLWJoU3paaWtYblpOTzgzLU4yMUp6YllRS0U1OFA5ZTRpdTZQTjlrelkzUW11bDRUT1FSdWlSZVRaWEdQS2R4QlhqdFJKQ2c?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Bengal and AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0RYcUQ2d0w3Y01pVk9jMGNiWkVYR1ZCalY1dWhHN3pKaGRKcjFiVkxLa25xRHJlaHYxemhuXy1QY3I3NFU4Tm5Pbm01WnQ4TC1LRTdRMG0xYWhIWDJmdGQxWmRzdlNXTktoemZONnByVEZJc2hfWGNFell2aU5PdTJ6MTQyYXdNaXF4dDdKWnVKYlVhME9lU0NfMWJmOUxHOEd2dVAtd2FINmtJcmptb044ektQdUg0ZEHSAb8BQVVfeXFMTjN2cHhTYVlVa0xSQTZBYWRrcEtPVXhyNUluX05vN0xRclFBa3l4R2tTa1hJNnhOUm5hWktWdkQyMmZLd2tIeUIwMUF0elowRVZoMEZMcFRtX1VEYnExSV9WWTBreTNSaWtGQkdvOWtBM2FLUFd0ZmU5S3hmYjF0MlZsTUtuVEdlb1hhQ3VmWXN1M1pNTHNBek5PUzdPdlN0VUNaNFVXYno1M2RCZnAtRFJ3SlE1WkVKMlpvU3RuOGc?oc=5\" target=\"_blank\">Bengal and AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0RYcUQ2d0w3Y01pVk9jMGNiWkVYR1ZCalY1dWhHN3pKaGRKcjFiVkxLa25xRHJlaHYxemhuXy1QY3I3NFU4Tm5Pbm01WnQ4TC1LRTdRMG0xYWhIWDJmdGQxWmRzdlNXTktoemZONnByVEZJc2hfWGNFell2aU5PdTJ6MTQyYXdNaXF4dDdKWnVKYlVhME9lU0NfMWJmOUxHOEd2dVAtd2FINmtJcmptb044ektQdUg0ZEHSAb8BQVVfeXFMTjN2cHhTYVlVa0xSQTZBYWRrcEtPVXhyNUluX05vN0xRclFBa3l4R2tTa1hJNnhOUm5hWktWdkQyMmZLd2tIeUIwMUF0elowRVZoMEZMcFRtX1VEYnExSV9WWTBreTNSaWtGQkdvOWtBM2FLUFd0ZmU5S3hmYjF0MlZsTUtuVEdlb1hhQ3VmWXN1M1pNTHNBek5PUzdPdlN0VUNaNFVXYno1M2RCZnAtRFJ3SlE1WkVKMlpvU3RuOGc?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Sun, 03 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "SIR West Bengal Voter Exclusion Case 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPamVyV0ZGOFNpU21IOWxiV28wNlJMLUZBazE2cUJLYmQzamVhLS0yT21rVTRBcmxDT3VONDJrRGM0d1NqeVgxc0NRNnRSaHFkX3U4N1JIbUlaRXFkSEJBREExLVBWczRjcDN0eFlLbDU3blkxZHdlT2JRN2c2bGJ0VUVtX0d4UVRKNFRfZGxSMmRiUzlT0gGbAUFVX3lxTE1LMzlYNWJ0WDlfaElnTHkyNXVTX1FNMzkxN3R4aC1Wcl9GU1ZscElySk5kNXlpZTNWYUNsLTJGdXpZM3lETzM2anA0alluZll1aHZycW9GM0F5ZHBtUEFheEExSjNWTktrNV9VbTE4WGhDVDA3cU5tUmpvNDRyczlzTFNuY0g5V29OUXZrNDZhT3dmUXg2Q1BPNlVv?oc=5\" target=\"_blank\">SIR West Bengal Voter Exclusion Case 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamVyV0ZGOFNpU21IOWxiV28wNlJMLUZBazE2cUJLYmQzamVhLS0yT21rVTRBcmxDT3VONDJrRGM0d1NqeVgxc0NRNnRSaHFkX3U4N1JIbUlaRXFkSEJBREExLVBWczRjcDN0eFlLbDU3blkxZHdlT2JRN2c2bGJ0VUVtX0d4UVRKNFRfZGxSMmRiUzlT0gGbAUFVX3lxTE1LMzlYNWJ0WDlfaElnTHkyNXVTX1FNMzkxN3R4aC1Wcl9GU1ZscElySk5kNXlpZTNWYUNsLTJGdXpZM3lETzM2anA0alluZll1aHZycW9GM0F5ZHBtUEFheEExSjNWTktrNV9VbTE4WGhDVDA3cU5tUmpvNDRyczlzTFNuY0g5V29OUXZrNDZhT3dmUXg2Q1BPNlVv?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Wed, 15 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "“AI Software used to erase voters’ names”— Inside West Bengal’s SIR chaos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmZsRTgyaER6cEh1ZTdIRHdENUpZRW9qRGRkSmhoSWhkNkVOb04yYVdzTTA3RXZyOXFlODd2XzZmQVg4Q2NjS0VlR01URXBSR2IxVWxVUXJJenRvUEZaZXNZWGFtZUx0akF3TnVqYlQ0ckNBM2dDWVZ0LUF3eWNDUmxxcTBvUm92b05UYURPRnBNU2RQNWFteE9YQlJ5QnhCR0h3ZjlsMXk?oc=5\" target=\"_blank\">“AI Software used to erase voters’ names”— Inside West Bengal’s SIR chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Countercurrents</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmZsRTgyaER6cEh1ZTdIRHdENUpZRW9qRGRkSmhoSWhkNkVOb04yYVdzTTA3RXZyOXFlODd2XzZmQVg4Q2NjS0VlR01URXBSR2IxVWxVUXJJenRvUEZaZXNZWGFtZUx0akF3TnVqYlQ0ckNBM2dDWVZ0LUF3eWNDUmxxcTBvUm92b05UYURPRnBNU2RQNWFteE9YQlJ5QnhCR0h3ZjlsMXk?oc=5",
+   "source_name": "Countercurrents",
+   "source_domain": "countercurrents.org",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Google in talks to build major tech hub in West Bengal, boosting India’s AI push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQakhOQ09jaG9TakR1YXN4WTNwS2Z4Qnd3bTBSdV9HWGYySWpvLXZtSHdMR1B2MkFMcDhtTWc5MG55bjc0X0FPR1dPVE5iX1J2M21pZk5HWWF6eWk2UFZGbUlLaHRSSEtKeVNHSzVOMFNRbERPZ2lZSkV5SGpzRTdVSnhhTEozajhueklqTW5RYzBwTnEzWFNZMWJLcUJCSUd0R1Jzal9XLVpLRDVwazVuSDhSWmdEWjJPQzU2WXBuQWhKa2l5TFNLR3YyTjR2V2fSAdQBQVVfeXFMTTJ3a3YwSWtSVndaZlBZVExTdHBURkhXOU9CNUVBOURuWENQUnd2WGpURmdfcUV4TzRxOHh4bzIxSkJ5Y2s1djV0TDV3LU9NT3FLUkRCZ2JpZFFpd24wQVBDczU2aE9zSmRVemUyS3FUaXZ4SWxta3lDckFyZEpVTTBfRk1BOFQ0MnpfQ1dJdEdZT0RsdFROT3hzUEQzNTZjYkRLY0hicE1SREhRU3B4QmtHTHBOeVpWM1Q0X1N2YUlRbzR3SHVsOUcycDB6bWE4QTE2RDQ?oc=5\" target=\"_blank\">Google in talks to build major tech hub in West Bengal, boosting India’s AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakhOQ09jaG9TakR1YXN4WTNwS2Z4Qnd3bTBSdV9HWGYySWpvLXZtSHdMR1B2MkFMcDhtTWc5MG55bjc0X0FPR1dPVE5iX1J2M21pZk5HWWF6eWk2UFZGbUlLaHRSSEtKeVNHSzVOMFNRbERPZ2lZSkV5SGpzRTdVSnhhTEozajhueklqTW5RYzBwTnEzWFNZMWJLcUJCSUd0R1Jzal9XLVpLRDVwazVuSDhSWmdEWjJPQzU2WXBuQWhKa2l5TFNLR3YyTjR2V2fSAdQBQVVfeXFMTTJ3a3YwSWtSVndaZlBZVExTdHBURkhXOU9CNUVBOURuWENQUnd2WGpURmdfcUV4TzRxOHh4bzIxSkJ5Y2s1djV0TDV3LU9NT3FLUkRCZ2JpZFFpd24wQVBDczU2aE9zSmRVemUyS3FUaXZ4SWxta3lDckFyZEpVTTBfRk1BOFQ0MnpfQ1dJdEdZT0RsdFROT3hzUEQzNTZjYkRLY0hicE1SREhRU3B4QmtHTHBOeVpWM1Q0X1N2YUlRbzR3SHVsOUcycDB6bWE4QTE2RDQ?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Tue, 12 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Kolkata team wins moot court contest at CNLU",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORm9uRW5ldHhtMXJhSHdkaXBuMlBvdEE4NDhEcVlpZVprZE4ySjhFQm5sckd1YW1fNzRVVUxYNFJKMFB4N3hWampFV0tvVjA2eWxDNlVBSlNmYXZ4cmtlLVRtRTFqUWJaVzJIcDl1QUZoOXdWTjR6UG1iVzNiZE5OcUlHX2pIX2Jwblhsd1o4QWt2ZW9ncW1qM1NLT0N1QUJyQnhuVjdmd3RuY3RHd08yWS1wMWczcUlk0gG-AUFVX3lxTE9vTVFSQ1h2S0hmNkhQR3BWRTJCUUxuV3oxQV96RjZ4SlpLQ2tVaHB5Skx0czlkeHFiOHVUSWhGVXRsOTIyVE41bXZWbDVMVkVYRVVFbkl1bUVyQl9kMjZQNzBMSzllWlpwd1hORERwVHlXZnl2b0hwNVBEeWRJR0hVWXllcWxfTmZObVRRNmJfWk9NSkN2eWVjTEY3V1JCMDZmVHZjZDZ0SEhCek1MdEI1dXNYZ19tb08yWVZ4Y3c?oc=5\" target=\"_blank\">Kolkata team wins moot court contest at CNLU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORm9uRW5ldHhtMXJhSHdkaXBuMlBvdEE4NDhEcVlpZVprZE4ySjhFQm5sckd1YW1fNzRVVUxYNFJKMFB4N3hWampFV0tvVjA2eWxDNlVBSlNmYXZ4cmtlLVRtRTFqUWJaVzJIcDl1QUZoOXdWTjR6UG1iVzNiZE5OcUlHX2pIX2Jwblhsd1o4QWt2ZW9ncW1qM1NLT0N1QUJyQnhuVjdmd3RuY3RHd08yWS1wMWczcUlk0gG-AUFVX3lxTE9vTVFSQ1h2S0hmNkhQR3BWRTJCUUxuV3oxQV96RjZ4SlpLQ2tVaHB5Skx0czlkeHFiOHVUSWhGVXRsOTIyVE41bXZWbDVMVkVYRVVFbkl1bUVyQl9kMjZQNzBMSzllWlpwd1hORERwVHlXZnl2b0hwNVBEeWRJR0hVWXllcWxfTmZObVRRNmJfWk9NSkN2eWVjTEY3V1JCMDZmVHZjZDZ0SEhCek1MdEI1dXNYZ19tb08yWVZ4Y3c?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "SIR in West Bengal: How exclusion of nine million voters could shape state politics",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTUR0bVVPX0U1ajR2Wm9GaDdzYVF0Vk8wZXd1UXh5bXhVSHR6UGhRWlkxZjJsVS1iUnJUSm5zM3NHc0V6ZlRCU0xtNVFWbVlBV1VYZFNGUV9IUQ?oc=5\" target=\"_blank\">SIR in West Bengal: How exclusion of nine million voters could shape state politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTUR0bVVPX0U1ajR2Wm9GaDdzYVF0Vk8wZXd1UXh5bXhVSHR6UGhRWlkxZjJsVS1iUnJUSm5zM3NHc0V6ZlRCU0xtNVFWbVlBV1VYZFNGUV9IUQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Sun, 12 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "I asked ChatGPT, ‘Who’ll be next West Bengal CM?’: AI predicts BJP’s choice for its first chief minister in the state",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNWTk4a044OE5GNmlELXcydjhGRmRoS0tBOFg3Wkk0MzNGN0ZmN25KdmViX3ZMTExvTXVtMHNLOXBwYXhqT3VQdDlTMEtLV0M3ckhLUFRsUzM2VjFwUmtCNDM4M2M0czZOTDltM2ZfZXdzNlM5aTh1aWpJLXhqV0otVmQ5Wk9mdzZZdFhPT1kwYWJtSW9KSi1wbnZyMkYybUN1LVJsZmlDQkYyOVhJNWx4TUVSY0hsZUttVFN0c0pfRzNoRUlSYUxEZTROaDlCV0ZNWDZXQkgxTE9MS2k2VlNzdW5tMnFUcVBsOGM5b2ZtOGRfeUdXeVJHSVRlaktxRTJmMmxJUtIBigJBVV95cUxOa2tjOU1oQ1BZUVJOQ2JISmxMUG9hLTV2YjlZOGM0STZMOHNYMjZiRkFHTVREdVdraHdjR0FsbEpOd21EemtxNFRSWVJxdVZPYTJmZWwwVzM5Nk1QWlFCd0tGWHNSa24teGZPUnFFOURXU0tKUHF1eG15N3NRcWtCc21hb2dqQjV5SURXQTVscmRBMUdiYmtqZGpsWW5GdWVMV2Fvb2liQ0t5NTNSUHJoc1RiUU9WNUtNRzFfQXhGMUNsN0YtNmNOQ3hsdnByX0RTZnZRajVxOEg0MVVqTnFLRDd0Snd2dWhKUk1qQkUzSzk5TGF1VVd0d1F3LXZfV2lzRVcyQUdSamVRZw?oc=5\" target=\"_blank\">I asked ChatGPT, ‘Who’ll be next West Bengal CM?’: AI predicts BJP’s choice for its first chief minister in the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWTk4a044OE5GNmlELXcydjhGRmRoS0tBOFg3Wkk0MzNGN0ZmN25KdmViX3ZMTExvTXVtMHNLOXBwYXhqT3VQdDlTMEtLV0M3ckhLUFRsUzM2VjFwUmtCNDM4M2M0czZOTDltM2ZfZXdzNlM5aTh1aWpJLXhqV0otVmQ5Wk9mdzZZdFhPT1kwYWJtSW9KSi1wbnZyMkYybUN1LVJsZmlDQkYyOVhJNWx4TUVSY0hsZUttVFN0c0pfRzNoRUlSYUxEZTROaDlCV0ZNWDZXQkgxTE9MS2k2VlNzdW5tMnFUcVBsOGM5b2ZtOGRfeUdXeVJHSVRlaktxRTJmMmxJUtIBigJBVV95cUxOa2tjOU1oQ1BZUVJOQ2JISmxMUG9hLTV2YjlZOGM0STZMOHNYMjZiRkFHTVREdVdraHdjR0FsbEpOd21EemtxNFRSWVJxdVZPYTJmZWwwVzM5Nk1QWlFCd0tGWHNSa24teGZPUnFFOURXU0tKUHF1eG15N3NRcWtCc21hb2dqQjV5SURXQTVscmRBMUdiYmtqZGpsWW5GdWVMV2Fvb2liQ0t5NTNSUHJoc1RiUU9WNUtNRzFfQXhGMUNsN0YtNmNOQ3hsdnByX0RTZnZRajVxOEg0MVVqTnFLRDd0Snd2dWhKUk1qQkUzSzk5TGF1VVd0d1F3LXZfV2lzRVcyQUdSamVRZw?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Wed, 06 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:09+00:00"
+  }
+ ]
+}

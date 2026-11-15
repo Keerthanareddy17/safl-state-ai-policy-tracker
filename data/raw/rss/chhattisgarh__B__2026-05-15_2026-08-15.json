@@ -1,0 +1,197 @@
+{
+ "region": "Chhattisgarh",
+ "group": "B",
+ "query": "(Chhattisgarh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chhattisgarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:16+00:00",
+ "item_count": 17,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh approves ₹500 crore AI Mission to set up 100 data labs, train 7.5 lakh people",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNenlHVHMzdjhOZGxSeHhBa2hna3VQbk5KMF9sMnZTSkx0cmJ4cF9pMEFaeGg4eENTRFc1bU1PekJ6ZkRsSll4UGQ5RDVZbFlnd2hMRVh3WVV4Q3BiYXhfVlJKT2syVGlWbHJuV0JqTkFUWmRLNUpSYXRuSzV1TWZrUm1YTlhmQUEzYm1Gel9Oa1I2ZlVBaWc4UkVjZFdoSG5vazZ0bS04R3l5TUpyQXh4Z3RsSlNrYUVLSTVzVWlhWnlES3JlV1hKQzh3dENtSFdnWUtqX1VoQmo2ZmhQYVZRc1BYZ0pjSWxQTHdneTk2Q1EydHo4TG5N?oc=5\" target=\"_blank\">Chhattisgarh approves ₹500 crore AI Mission to set up 100 data labs, train 7.5 lakh people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNenlHVHMzdjhOZGxSeHhBa2hna3VQbk5KMF9sMnZTSkx0cmJ4cF9pMEFaeGg4eENTRFc1bU1PekJ6ZkRsSll4UGQ5RDVZbFlnd2hMRVh3WVV4Q3BiYXhfVlJKT2syVGlWbHJuV0JqTkFUWmRLNUpSYXRuSzV1TWZrUm1YTlhmQUEzYm1Gel9Oa1I2ZlVBaWc4UkVjZFdoSG5vazZ0bS04R3l5TUpyQXh4Z3RsSlNrYUVLSTVzVWlhWnlES3JlV1hKQzh3dENtSFdnWUtqX1VoQmo2ZmhQYVZRc1BYZ0pjSWxQTHdneTk2Q1EydHo4TG5N?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Cabinet approves Rs 500-crore AI Mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHhfWVZSanJKWUtteThBOG5weDAyOE9KSFdwTXlLcFN0UWd2eFRFdjVCZ2JpdUczSUtEa3lfem1tR2ZNRkV0TW9KU0E5NVBnVjdrVlQtNk9FbUNhblV4SDhEZ044LThMdjYwNE5oc1JEUmJaaDc3QXFUT1RELW0tbGgwenByWmFwcE9vWVQ5d0xNSUdrcVRlWEJiQk9adDJMNzlWNVRsRdIBtAFBVV95cUxNSXlqWE82eFpUeTl3UVZMLUJBSGhvWlc3TFZWQjU1VjFzZlZyQXNRdkszTTJKVTV0VVppWERoM2t2ZDRhWkRoVmlTdWxtM25UZVBneVBDTFRwM1V1anVQa3NidENPcld3QWVNTld4dWY3VjBpZ2hqZWZZekIyb29JRi13N3pYU1JCS3RoYUU1eE5RbTFIS1VRNFJ6QmZyZ2lGdGU3dGRCRmxyVkxfX2R3YmNMdkU?oc=5\" target=\"_blank\">Chhattisgarh Cabinet approves Rs 500-crore AI Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHhfWVZSanJKWUtteThBOG5weDAyOE9KSFdwTXlLcFN0UWd2eFRFdjVCZ2JpdUczSUtEa3lfem1tR2ZNRkV0TW9KU0E5NVBnVjdrVlQtNk9FbUNhblV4SDhEZ044LThMdjYwNE5oc1JEUmJaaDc3QXFUT1RELW0tbGgwenByWmFwcE9vWVQ5d0xNSUdrcVRlWEJiQk9adDJMNzlWNVRsRdIBtAFBVV95cUxNSXlqWE82eFpUeTl3UVZMLUJBSGhvWlc3TFZWQjU1VjFzZlZyQXNRdkszTTJKVTV0VVppWERoM2t2ZDRhWkRoVmlTdWxtM25UZVBneVBDTFRwM1V1anVQa3NidENPcld3QWVNTld4dWY3VjBpZ2hqZWZZekIyb29JRi13N3pYU1JCS3RoYUU1eE5RbTFIS1VRNFJ6QmZyZ2lGdGU3dGRCRmxyVkxfX2R3YmNMdkU?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Unveils AI and Digital Governance Roadmap to Drive Innovation and Public Services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOZF9FUWt5VnVrUVNQTmhFcTY3ZDRmVGk1cHc4a3o2M0pnMFZxTFFGR2FaU3c5bEFfSXJpUm9Ob1gzU2I0UTFhLWpwMlhWYjk3N25WUkJkbU9HT1ZVNElmTms0dWlUTHZvc1p5M0MyTHJ1Z3E2N0hCZFpmaUliWW5kRlVXT1lUbGJwSFRCTUdreFVkak5fRWN0enltU2pHYjVLdUhUOGlMVzMxSTBxRU5CV0pBZVFhcUNNeDFNN2ttNzdtUXJIcThaRENRQ0g?oc=5\" target=\"_blank\">Chhattisgarh Unveils AI and Digital Governance Roadmap to Drive Innovation and Public Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZF9FUWt5VnVrUVNQTmhFcTY3ZDRmVGk1cHc4a3o2M0pnMFZxTFFGR2FaU3c5bEFfSXJpUm9Ob1gzU2I0UTFhLWpwMlhWYjk3N25WUkJkbU9HT1ZVNElmTms0dWlUTHZvc1p5M0MyTHJ1Z3E2N0hCZFpmaUliWW5kRlVXT1lUbGJwSFRCTUdreFVkak5fRWN0enltU2pHYjVLdUhUOGlMVzMxSTBxRU5CV0pBZVFhcUNNeDFNN2ttNzdtUXJIcThaRENRQ0g?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "For 3 years, Chhattisgarh cops ‘inflated’ their salaries. Then AI spotted it",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVptM3NXQ002Vi04UGxTdTBRMzloRnJxZTdnMkZ0REhuZEs1dnc2QkdVOTUtbkx6NnQ1MHk2b0hQLVQtSTA3dm8yU29RSTVmQ1laN3BMUWkzYUNZbzZaaTRxcUpMamtucGZyVlRPcmpwbzZCTlpKM1ktOFJDWE5lOTNoR2kyX1F0bzljaGlrbF8zVTZXWkFGaDNYa0RXYlFWSEgyRGRB0gGsAUFVX3lxTE1LSURRM2lSaWZFOUtaclBUTTVwRW5xbE12Wno1M1FWeDVaTEVPQk82MllaNWpFc3ZJLTY1bUV3V1dhZE5UMTJkSkxpS1FWWlh3aW9ZTlJwbVVvOWlVRXRXYXAycXhXRXo0RzFZekN1Q3VVZkpaZUxXVXBKQjNvQk0yYlk5ei1IMFljdjFqbER6S1pRR2d6aVdmQXhDcnB5YW43SzVXVG1UWW9FU1o?oc=5\" target=\"_blank\">For 3 years, Chhattisgarh cops ‘inflated’ their salaries. Then AI spotted it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVptM3NXQ002Vi04UGxTdTBRMzloRnJxZTdnMkZ0REhuZEs1dnc2QkdVOTUtbkx6NnQ1MHk2b0hQLVQtSTA3dm8yU29RSTVmQ1laN3BMUWkzYUNZbzZaaTRxcUpMamtucGZyVlRPcmpwbzZCTlpKM1ktOFJDWE5lOTNoR2kyX1F0bzljaGlrbF8zVTZXWkFGaDNYa0RXYlFWSEgyRGRB0gGsAUFVX3lxTE1LSURRM2lSaWZFOUtaclBUTTVwRW5xbE12Wno1M1FWeDVaTEVPQk82MllaNWpFc3ZJLTY1bUV3V1dhZE5UMTJkSkxpS1FWWlh3aW9ZTlJwbVVvOWlVRXRXYXAycXhXRXo0RzFZekN1Q3VVZkpaZUxXVXBKQjNvQk0yYlk5ei1IMFljdjFqbER6S1pRR2d6aVdmQXhDcnB5YW43SzVXVG1UWW9FU1o?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Thu, 02 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "How is Chhattisgarh Transforming into an AI Hub?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlFRcV9kTVAtVDRkcm11YUdyMDUtUVp2aWtFcWE1WlMxcklTczE2M19kMVFrYUFnS3JrdVNLZFB2eENlOWtvc0hYV2RLOW5KN2p6bmMtZ1MxWk84NDBObWlnclJKVlF0WTFVN05nM1ZMMHZVSVp2MEFXN19mb242MGRWcXdYZVlUZGVkeWo5UlVUTm5Wc0VKWmp3Zk5mQ0RVZlJFdjJlZTF4WmFNbmZDVGFB?oc=5\" target=\"_blank\">How is Chhattisgarh Transforming into an AI Hub?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlFRcV9kTVAtVDRkcm11YUdyMDUtUVp2aWtFcWE1WlMxcklTczE2M19kMVFrYUFnS3JrdVNLZFB2eENlOWtvc0hYV2RLOW5KN2p6bmMtZ1MxWk84NDBObWlnclJKVlF0WTFVN05nM1ZMMHZVSVp2MEFXN19mb242MGRWcXdYZVlUZGVkeWo5UlVUTm5Wc0VKWmp3Zk5mQ0RVZlJFdjJlZTF4WmFNbmZDVGFB?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh cabinet clears ₹500 crore AI Mission; to support over 300 startups | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEJDeUZPLVVpbVg2LWN5OHRueDBmaUhYN0xNQW1vUUo2Q2RNWTRFYTVUVXl3Rmp5VmI4cHJUY0FaRjNzOU5NdDFQMVR4STZNNTkwT29mSHF3aWMzWlc1Z0FHcHRDdlN2SnQ3dkc2X3JYeVJBdXp4VUdLb2N1UWxUUGlrSUV3bFIzR1lLQzdiejB0ODJfM1dTUTRLTHQ2NjNYSFdzcnJtLWpvZzlHNmI1ajFxMGZQQ0VvZWhaYnNwdjVnTnNZd1hlYjFiNmxwNm0yMF8xdk1xa9IB3AFBVV95cUxOVVExbGhMeUItOWxzWFdzSU55bUFrWVBIRmJIQklYcVBMUjJpRGQxQ1VVM2dmYVM5QjRaSU9vM2RjLXd0TEJrbEV5LVdyblBBWHJhNm05dFlrTkQxTmxjTDA3aVpvVW8ycks5eXduc21jY3hrRV9xT1FCSkt2U1AyVkZGOVkyQmFSRzFGcjlSNy1LQUY2N21QcUMzZThRNWVTRmR6UUNPS3p2bjEwSm5ReVpaU3lBRm90Y1U0QWZKM0NBVDN5c3g3SnRFTmtSU0VyQ1RvSXVYekVSQXVI?oc=5\" target=\"_blank\">Chhattisgarh cabinet clears ₹500 crore AI Mission; to support over 300 startups | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEJDeUZPLVVpbVg2LWN5OHRueDBmaUhYN0xNQW1vUUo2Q2RNWTRFYTVUVXl3Rmp5VmI4cHJUY0FaRjNzOU5NdDFQMVR4STZNNTkwT29mSHF3aWMzWlc1Z0FHcHRDdlN2SnQ3dkc2X3JYeVJBdXp4VUdLb2N1UWxUUGlrSUV3bFIzR1lLQzdiejB0ODJfM1dTUTRLTHQ2NjNYSFdzcnJtLWpvZzlHNmI1ajFxMGZQQ0VvZWhaYnNwdjVnTnNZd1hlYjFiNmxwNm0yMF8xdk1xa9IB3AFBVV95cUxOVVExbGhMeUItOWxzWFdzSU55bUFrWVBIRmJIQklYcVBMUjJpRGQxQ1VVM2dmYVM5QjRaSU9vM2RjLXd0TEJrbEV5LVdyblBBWHJhNm05dFlrTkQxTmxjTDA3aVpvVW8ycks5eXduc21jY3hrRV9xT1FCSkt2U1AyVkZGOVkyQmFSRzFGcjlSNy1LQUY2N21QcUMzZThRNWVTRmR6UUNPS3p2bjEwSm5ReVpaU3lBRm90Y1U0QWZKM0NBVDN5c3g3SnRFTmtSU0VyQ1RvSXVYekVSQXVI?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Cabinet approves ₹500 crore AI mission, BEML plant and key governance reforms",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUm93VlA5bWxLdVVzSHlfQS1iVGZiYlFRTjR1UHoxSzdWZUt0VEhsaEN1b3lMTlVwYXBYX005YmRmbUE1Y3dhdjc0TlF5S0ZpWXFscmZtb1dYNDhBSFR5Q2ZuZnpfaGtBU1JfcC1sUXpqRTBfczhXM2VFQVI4VGhpWlp2RTctYUxiSk8tTGkxRks3dFBScjhsLWsxNUNiajhIZDEzaEk3SDB3WF91bXJSRVRLb215dGxxM3k1cVd1d29IUFpVRTJNUkk4bWtsSzZ4dDF1VzJmcFhmQUJOMGFKVC0xTlLSAeoBQVVfeXFMTjl3ZjU4b1dtUVM4cWRhc2YxNTVEdEJhMnJRcHlwZDJUWnVSaGxGZjJYam13bV8tODdqNHd6YzhBWmktc1lFLTFialRYdzROTnNheTlrM2pScGdxTUJBTlhvdS0tZ2Y4dEdOSnFkQnRaVE5wVW52Wlc2SXVoQkhlOWVINXNFQ196SDRxS3ZtWi00N1ViRTB5cUZUU2Vub1dCR0tYMjZsYWc4WWdKOEtLSHpmTThabXFXMEYyWldOdWdhdGhab0VSSW0zX3N1djlwUjJRM2UxRXVYR3dJTFppZlNVdUhvb0lHb1JR?oc=5\" target=\"_blank\">Chhattisgarh Cabinet approves ₹500 crore AI mission, BEML plant and key governance reforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUm93VlA5bWxLdVVzSHlfQS1iVGZiYlFRTjR1UHoxSzdWZUt0VEhsaEN1b3lMTlVwYXBYX005YmRmbUE1Y3dhdjc0TlF5S0ZpWXFscmZtb1dYNDhBSFR5Q2ZuZnpfaGtBU1JfcC1sUXpqRTBfczhXM2VFQVI4VGhpWlp2RTctYUxiSk8tTGkxRks3dFBScjhsLWsxNUNiajhIZDEzaEk3SDB3WF91bXJSRVRLb215dGxxM3k1cVd1d29IUFpVRTJNUkk4bWtsSzZ4dDF1VzJmcFhmQUJOMGFKVC0xTlLSAeoBQVVfeXFMTjl3ZjU4b1dtUVM4cWRhc2YxNTVEdEJhMnJRcHlwZDJUWnVSaGxGZjJYam13bV8tODdqNHd6YzhBWmktc1lFLTFialRYdzROTnNheTlrM2pScGdxTUJBTlhvdS0tZ2Y4dEdOSnFkQnRaVE5wVW52Wlc2SXVoQkhlOWVINXNFQ196SDRxS3ZtWi00N1ViRTB5cUZUU2Vub1dCR0tYMjZsYWc4WWdKOEtLSHpmTThabXFXMEYyWldOdWdhdGhab0VSSW0zX3N1djlwUjJRM2UxRXVYR3dJTFppZlNVdUhvb0lHb1JR?oc=5",
+   "source_name": "The Statesman",
+   "source_domain": "thestatesman.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh accelerates digital transformation with AI, broadband push and citizen-centric governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZmFYZnFGb3o4RHYxOEt1Q2dyVFprMUZEMm5wTjNfUmQ5UHp3MHVsTjNsdUVyaHVLYVRkZmlJNUwyNTFHOXQ2SUxaUmJRR3Axc1RVd0tISGFaYmNoRmpSRDQ3ZVEzX0pwdmxGOW83SXRjb2ZQLXhobEdxQXdLYnlhZTd0Qy03bl9UTzgxSURjZEFjcWctaElfT1JQMzVzWTBYN2F2OWtGYUJUS1UtXzQ3VUZ6c3d2SUVSc1JHc1VHSTdWRmNRNTduR2FreXk1NkxObGJPVk1uOTVaeTlrQ1BtUlJEVEpSaDAyWEZDRWxPajI4NTUxWGVEYm1yQXhUQXVBRkVSbU43LVXSAY4CQVVfeXFMTUt6elZ1bExhY3Uycm85SEpfOGNxZkx1MUNsTFl0WFNIcEtteEZpMFZ3TVZ1bWk4UmU0WnVnQS10cjBhTzJHZzJfbnhoaGZyZTdxWlBJeVJ3MXFVbkRXVmI0ZFdQUmRzMkZROGdXVlE0NW5felM5UWdFX1d2dWNIRm0xOUllWDRtcXgyZHJ4LVNjU2lfS3pBMzNzZ1JHM01heGwxN0JpZmFhUVc0WWNibnJibTZGZWVlUDZjd0cxdnI2aThhNElXWU1aMW5XZWhsM09NRHRTTkxXX3RobXV0dTA3WGU5d1hpdFlTeTFGR0xmeVk5RWU5UGhKTjFhaXYzUzRBV2R1N3R4azJLZ2RR?oc=5\" target=\"_blank\">Chhattisgarh accelerates digital transformation with AI, broadband push and citizen-centric governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZmFYZnFGb3o4RHYxOEt1Q2dyVFprMUZEMm5wTjNfUmQ5UHp3MHVsTjNsdUVyaHVLYVRkZmlJNUwyNTFHOXQ2SUxaUmJRR3Axc1RVd0tISGFaYmNoRmpSRDQ3ZVEzX0pwdmxGOW83SXRjb2ZQLXhobEdxQXdLYnlhZTd0Qy03bl9UTzgxSURjZEFjcWctaElfT1JQMzVzWTBYN2F2OWtGYUJUS1UtXzQ3VUZ6c3d2SUVSc1JHc1VHSTdWRmNRNTduR2FreXk1NkxObGJPVk1uOTVaeTlrQ1BtUlJEVEpSaDAyWEZDRWxPajI4NTUxWGVEYm1yQXhUQXVBRkVSbU43LVXSAY4CQVVfeXFMTUt6elZ1bExhY3Uycm85SEpfOGNxZkx1MUNsTFl0WFNIcEtteEZpMFZ3TVZ1bWk4UmU0WnVnQS10cjBhTzJHZzJfbnhoaGZyZTdxWlBJeVJ3MXFVbkRXVmI0ZFdQUmRzMkZROGdXVlE0NW5felM5UWdFX1d2dWNIRm0xOUllWDRtcXgyZHJ4LVNjU2lfS3pBMzNzZ1JHM01heGwxN0JpZmFhUVc0WWNibnJibTZGZWVlUDZjd0cxdnI2aThhNElXWU1aMW5XZWhsM09NRHRTTkxXX3RobXV0dTA3WGU5d1hpdFlTeTFGR0xmeVk5RWU5UGhKTjFhaXYzUzRBV2R1N3R4azJLZ2RR?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Cabinet Approves ₹500 Crore AI Mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3NRU1pERkdJR1ltM3MxbW1ZRW9jZHRmZ3J1TjlDNEFSUy1ET08xclZtZDNOY3A2Q21ZMUp5LS1rcUREQWRraGI1cEROSmF2S3Q3STlaTkxJM05WUm5haXo4bWFDWmNWYzF4czNfT0dqOGpZckczT0NnX1hLRmpLT2s1aTlzTDZvcERN?oc=5\" target=\"_blank\">Chhattisgarh Cabinet Approves ₹500 Crore AI Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3NRU1pERkdJR1ltM3MxbW1ZRW9jZHRmZ3J1TjlDNEFSUy1ET08xclZtZDNOY3A2Q21ZMUp5LS1rcUREQWRraGI1cEROSmF2S3Q3STlaTkxJM05WUm5haXo4bWFDWmNWYzF4czNfT0dqOGpZckczT0NnX1hLRmpLT2s1aTlzTDZvcERN?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Amit Shah flags off AI-powered 'Dial 112' in Chhattisgarh, mobile forensic vans to modernise security",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRXh3MDZWM1FIS0RPVmpGR0pGdjlocllsV1RRZzhtbTc1MkJYVzBLVXV6UE5UcTFZbEVmQ1NreWUtQTlmcUxTOGh4djhDZ0QtZkxkMHBueXQxaGZycDVlZjJXQmc0M05LdzFpWXZsTTBzRmdCLXBVdDJvQmdGSlJVaTFLUm1QUDV6Z09ZVHZpRkJSbnFaelFRSF9pQk9hZzRzN2dGQ2JneGNmc09RdlhCUUNDR0Nla1k5WjhqaE1JMFZla1hPOXlUVE55SmFXZHEwMi0xWG9DRzZoSGlPczhZdFBn0gHvAUFVX3lxTFBPWHJJTFNhRnIyYUc4RTBPRmJpZ29rSF8tSVQwYkxtWXJwclE2cXpBSlNXN3V1UC1aeE9JQm5xR1I1NXFrekhINDhYV0NwSDBLRTBzN3BuVzhGUkJkbVVmM2VIWWJmWVNQcDRvdEFzRmRHMU9taVVhOXA5UnhTTXhUNEZFWEdSVExBT2NaUFJhQ3RJMUs5TTFtQTFma2dGc3dqNWl1RGJLSG43cmNUbkpldVVzSVdZMUVTX3NFV0dBODFBME9RajI3XzZhTHZvUW5UajFwV2R2YS1aaUFhVEhENzBENVduaUpQanVtVGtr?oc=5\" target=\"_blank\">Amit Shah flags off AI-powered 'Dial 112' in Chhattisgarh, mobile forensic vans to modernise security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRXh3MDZWM1FIS0RPVmpGR0pGdjlocllsV1RRZzhtbTc1MkJYVzBLVXV6UE5UcTFZbEVmQ1NreWUtQTlmcUxTOGh4djhDZ0QtZkxkMHBueXQxaGZycDVlZjJXQmc0M05LdzFpWXZsTTBzRmdCLXBVdDJvQmdGSlJVaTFLUm1QUDV6Z09ZVHZpRkJSbnFaelFRSF9pQk9hZzRzN2dGQ2JneGNmc09RdlhCUUNDR0Nla1k5WjhqaE1JMFZla1hPOXlUVE55SmFXZHEwMi0xWG9DRzZoSGlPczhZdFBn0gHvAUFVX3lxTFBPWHJJTFNhRnIyYUc4RTBPRmJpZ29rSF8tSVQwYkxtWXJwclE2cXpBSlNXN3V1UC1aeE9JQm5xR1I1NXFrekhINDhYV0NwSDBLRTBzN3BuVzhGUkJkbVVmM2VIWWJmWVNQcDRvdEFzRmRHMU9taVVhOXA5UnhTTXhUNEZFWEdSVExBT2NaUFJhQ3RJMUs5TTFtQTFma2dGc3dqNWl1RGJLSG43cmNUbkpldVVzSVdZMUVTX3NFV0dBODFBME9RajI3XzZhTHZvUW5UajFwV2R2YS1aaUFhVEhENzBENVduaUpQanVtVGtr?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 18 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh CM flags off 'Bhawna Didi Ki Science Pathshala' mobile lab to teach AI, robotics, coding to stu..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPUGxuUG84Q0lJRHZ2M0hleXk0dzI1Q2hzdERZd0o1amtGejZjY3ZkNmU3emNKYkRfLWtKeUp1cElmNlUzaDlZU1RTZllvWGZscVZlNl9URkRHR2t5Yms3YmxqbWM3VzRJcHpkWl8zaTJJU3lwb3cyNEE2VHpGVGthVmxhdzZ2U3lpYlV0eWxWNWtoUmd4cFZFd0hVZUcyUHoyUWxZVHBnYXBla2NUV0NjbWJnOG10bWpIUDY1LUREbkdXTGlJUjB5UUZ3STFpakI1MW51NExhc2QwLVJUc2ZtTEF6dWFraWkwWDR5MEZZRTZBdDhIdEM4WkRqZTVXU1BNaVA4SVpqMGtmRGZ0VkoySXBpLXJrdFnSAZwCQVVfeXFMTnJoakc1MHNaUlVUdFphWnptSWdMdkZpYmYwZ2g4UXlFcTVfX3RBbTV5ZHlKdGNscTVmQlJxOVFMal9mUjRqc3ExcGtqZnVSSV9hUEEwb0JDRVNYc010YVdWWmU2azJIbW92Y09vVnduaGJEOUJqbG5vMkdhVnBueVdlMDl1dmJXN2ZSblQwZjBDUWRzUnVSVmY0MDJXeTRKMmxCeFJuS1ZaRWNCYVdLQTZINEI4dHFBWExmTk1TdXZfNmlEalFFZU4yZDRoMW9XdU9laWMwWVJsUHJMME94aWRfUUc0RE1QN1Y3Qk1RYnR5M1k2dUZGQUJYV3B2QjM3OFUxZVpxdlRhcWs4SUlXUzN0cTJqSkNpVDhSTnc?oc=5\" target=\"_blank\">Chhattisgarh CM flags off 'Bhawna Didi Ki Science Pathshala' mobile lab to teach AI, robotics, coding to stu..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUGxuUG84Q0lJRHZ2M0hleXk0dzI1Q2hzdERZd0o1amtGejZjY3ZkNmU3emNKYkRfLWtKeUp1cElmNlUzaDlZU1RTZllvWGZscVZlNl9URkRHR2t5Yms3YmxqbWM3VzRJcHpkWl8zaTJJU3lwb3cyNEE2VHpGVGthVmxhdzZ2U3lpYlV0eWxWNWtoUmd4cFZFd0hVZUcyUHoyUWxZVHBnYXBla2NUV0NjbWJnOG10bWpIUDY1LUREbkdXTGlJUjB5UUZ3STFpakI1MW51NExhc2QwLVJUc2ZtTEF6dWFraWkwWDR5MEZZRTZBdDhIdEM4WkRqZTVXU1BNaVA4SVpqMGtmRGZ0VkoySXBpLXJrdFnSAZwCQVVfeXFMTnJoakc1MHNaUlVUdFphWnptSWdMdkZpYmYwZ2g4UXlFcTVfX3RBbTV5ZHlKdGNscTVmQlJxOVFMal9mUjRqc3ExcGtqZnVSSV9hUEEwb0JDRVNYc010YVdWWmU2azJIbW92Y09vVnduaGJEOUJqbG5vMkdhVnBueVdlMDl1dmJXN2ZSblQwZjBDUWRzUnVSVmY0MDJXeTRKMmxCeFJuS1ZaRWNCYVdLQTZINEI4dHFBWExmTk1TdXZfNmlEalFFZU4yZDRoMW9XdU9laWMwWVJsUHJMME94aWRfUUc0RE1QN1Y3Qk1RYnR5M1k2dUZGQUJYV3B2QjM3OFUxZVpxdlRhcWs4SUlXUzN0cTJqSkNpVDhSTnc?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh bets big on AI with Rs 500-crore mission; cabinet clears state's first heavy equipment plant",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPSnFfdmF5ZFBiYW9FN1VzZmdaTDV1eGY5ZmtISk4ta1JhZG9XWDlIaDdURmxUSGhlMzcyT3Q0WXNaX3hSMGlrc3J4UkJBRHJaVHpDWnVVbUNtb0toYWdfdWg2SGRqTzRUM3Y2SGNXblNJeG55Y1hMV1V0WGVmcGYxdW9qVkNUZUZRcUhfUW5CQnVfbGExRVFLa01jQVU2eDVxLUwwNnpXQWkzTC1jQ3IxYWFiYWxmemRCckVFTllrR3pRZ3U0NWFjV3RjOExEVkw1UG1GdG04RUdFNkVsanlYaW9QcnFUQ0d4WWNPck1TTjVQdzc0WEs3Y0F0blJlUU0tdEJULUpSdHZuOThaVkhKcnZzemEtd3F1OGx3anJNX0o4eHpuM0dn0gGsAkFVX3lxTE9QQkpJakZfbUE3eC1xb2c2cEpzb1BBUTRNRjluV2JHVmpMZkxwbllYSzNMMUMyOWhmZjEzUDBsNE9zT3F0cUxKaTVjY0U0dWtwX0gtc1J3ZG1VWDREOVFOMjZrX0NVX08wTlNtdFcwOU1CWDFBMU5uUkNEcnlnMEVRbDNiWWJIb29Fdlc5NFJIUEhkSmliY09OVExkOTJSOEtsc0dsQlZudVN2Z0hJUGxKWWI5c2dqOUlBbklIVkNWT0NwMFBWQUh2Z3FZcHhRM0xPS0dsM21WbWtNbHVnbGhOZElnc1JablBvbUtEOXRoWXg1RV91LUNQMy1lbG5veEk4MDRObUJ0U3dxb1lsWTJYSkJBSXVXVHhIUFZRakttd2JiWFRhVEJadmN3ZA?oc=5\" target=\"_blank\">Chhattisgarh bets big on AI with Rs 500-crore mission; cabinet clears state's first heavy equipment plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPSnFfdmF5ZFBiYW9FN1VzZmdaTDV1eGY5ZmtISk4ta1JhZG9XWDlIaDdURmxUSGhlMzcyT3Q0WXNaX3hSMGlrc3J4UkJBRHJaVHpDWnVVbUNtb0toYWdfdWg2SGRqTzRUM3Y2SGNXblNJeG55Y1hMV1V0WGVmcGYxdW9qVkNUZUZRcUhfUW5CQnVfbGExRVFLa01jQVU2eDVxLUwwNnpXQWkzTC1jQ3IxYWFiYWxmemRCckVFTllrR3pRZ3U0NWFjV3RjOExEVkw1UG1GdG04RUdFNkVsanlYaW9QcnFUQ0d4WWNPck1TTjVQdzc0WEs3Y0F0blJlUU0tdEJULUpSdHZuOThaVkhKcnZzemEtd3F1OGx3anJNX0o4eHpuM0dn0gGsAkFVX3lxTE9QQkpJakZfbUE3eC1xb2c2cEpzb1BBUTRNRjluV2JHVmpMZkxwbllYSzNMMUMyOWhmZjEzUDBsNE9zT3F0cUxKaTVjY0U0dWtwX0gtc1J3ZG1VWDREOVFOMjZrX0NVX08wTlNtdFcwOU1CWDFBMU5uUkNEcnlnMEVRbDNiWWJIb29Fdlc5NFJIUEhkSmliY09OVExkOTJSOEtsc0dsQlZudVN2Z0hJUGxKWWI5c2dqOUlBbklIVkNWT0NwMFBWQUh2Z3FZcHhRM0xPS0dsM21WbWtNbHVnbGhOZElnc1JablBvbUtEOXRoWXg1RV91LUNQMy1lbG5veEk4MDRObUJ0U3dxb1lsWTJYSkJBSXVXVHhIUFZRakttd2JiWFRhVEJadmN3ZA?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "‘We are not a saturated market’: Chhattisgarh CM bets big on chips, AI and manufacturing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOWFpWF9jbUVTZmk5b0JLUEpaVk5DUmVEQVl5Z21QMGNsYXBhU1NyQzlZbklWVG03R2F4bUJxMXRUNWJDQ29xQmdHcnNlcnB0LUZjX25SaUVLQjRYMUNqcW1rUzkzUFloZFpmRGtDcjNyalNhOGxzS1VzUzhudERFUWFiQVZFbzNBVll6Sks2cXh2dXhkeW1aWVE3cHI0REdiX1Ata05iVEw1d2xoTzU0V2xLQ29GMmRiWVZLb29wb3EyNUJDbWlvbWZqM1VKSlR0Z0VlakpETXMycnNzY3NGeVRRWVdPSWJZX2R4ZHZIRdIB8wFBVV95cUxOTFZ1UDUtT0s4alQ5NzhJVGhPY0ZqR0ljYjRaWVcySG9ycnMwQjRQWXNRdE9pc3NLbk1sbVU1SnEzRDVmZ2YyNTFrdWEzaGJjVFlsUGdKcjJwWG00dDNSQ3hUanE2eDRNMmp5amwxblh2bW9IUWhraUF1UDRrZnlJRjFBXzBxS2diTDJFTTBmU3VSVlo4WjBpSXp1X2REajkyREdEdVRleXBHd3hiN2RBWTNGYjlGSnNOQlVseFFoSmRtblp6MDNiZGtkRmV4eUJ3Y2ItSGNHZ0RDZlRab3p4Q3hmRTJLUldNSXZadHkxS0s4WVE?oc=5\" target=\"_blank\">‘We are not a saturated market’: Chhattisgarh CM bets big on chips, AI and manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Manufacturing</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOWFpWF9jbUVTZmk5b0JLUEpaVk5DUmVEQVl5Z21QMGNsYXBhU1NyQzlZbklWVG03R2F4bUJxMXRUNWJDQ29xQmdHcnNlcnB0LUZjX25SaUVLQjRYMUNqcW1rUzkzUFloZFpmRGtDcjNyalNhOGxzS1VzUzhudERFUWFiQVZFbzNBVll6Sks2cXh2dXhkeW1aWVE3cHI0REdiX1Ata05iVEw1d2xoTzU0V2xLQ29GMmRiWVZLb29wb3EyNUJDbWlvbWZqM1VKSlR0Z0VlakpETXMycnNzY3NGeVRRWVdPSWJZX2R4ZHZIRdIB8wFBVV95cUxOTFZ1UDUtT0s4alQ5NzhJVGhPY0ZqR0ljYjRaWVcySG9ycnMwQjRQWXNRdE9pc3NLbk1sbVU1SnEzRDVmZ2YyNTFrdWEzaGJjVFlsUGdKcjJwWG00dDNSQ3hUanE2eDRNMmp5amwxblh2bW9IUWhraUF1UDRrZnlJRjFBXzBxS2diTDJFTTBmU3VSVlo4WjBpSXp1X2REajkyREdEdVRleXBHd3hiN2RBWTNGYjlGSnNOQlVseFFoSmRtblp6MDNiZGtkRmV4eUJ3Y2ItSGNHZ0RDZlRab3p4Q3hmRTJLUldNSXZadHkxS0s4WVE?oc=5",
+   "source_name": "ET Manufacturing",
+   "source_domain": "manufacturing.economictimes.indiatimes.com",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh to deploy AI road monitoring system for PMGSY roads",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVhLcVJENXVHbS1nZC1yUWZGZWNoSERuczc5a0xHUzBqaE9lR3RSbXQ3MlQ4WHNWUlhzRnJWVzRPZ0dhMVhjakh3ZlpkeXFTNjJEWmE2TmJEYlBGVWIxUnlPa2hzV0lYNXYwSEVySVlOb1Y4c1pSVGtiM0FrVjBGOUI1V1g3OEF4MEJMczEwM2E0QmNSOFh3cW96alVSOEpRYVRVcXVoODFjQS10RHJQZGV2S3ZZdUIzLUN4UTZ6RjBDb25zVUZ3VTkybXpxVkd3aGV5dWU4a9IB3AFBVV95cUxNdnlpQnJ5cHR3ME5Zd3lkMkZPWWxGOVpWakVad0RQeXcwYVh1eXQ4OVRWM241RnFlYkhtUTR2NGtrLU11anY3WE5fdXVjdEd4LVdOS0FmbFpnTWpiWEVsT05LUkU0RnJEZWxQUEhLenhsVWV4RzlXR3RyME9zOGcwMWRjald0NkhBUTVLTW1EbnBTV3Q3anlmZS1NTERjbWlpcWh3VnFHb0RkSThIX21ITUd3OHUxMXJGRFBXMEpaWWJQS3NKVmxvNjFxN3N2VVZrUHk0MmtkaDd1c3pZ?oc=5\" target=\"_blank\">Chhattisgarh to deploy AI road monitoring system for PMGSY roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVhLcVJENXVHbS1nZC1yUWZGZWNoSERuczc5a0xHUzBqaE9lR3RSbXQ3MlQ4WHNWUlhzRnJWVzRPZ0dhMVhjakh3ZlpkeXFTNjJEWmE2TmJEYlBGVWIxUnlPa2hzV0lYNXYwSEVySVlOb1Y4c1pSVGtiM0FrVjBGOUI1V1g3OEF4MEJMczEwM2E0QmNSOFh3cW96alVSOEpRYVRVcXVoODFjQS10RHJQZGV2S3ZZdUIzLUN4UTZ6RjBDb25zVUZ3VTkybXpxVkd3aGV5dWU4a9IB3AFBVV95cUxNdnlpQnJ5cHR3ME5Zd3lkMkZPWWxGOVpWakVad0RQeXcwYVh1eXQ4OVRWM241RnFlYkhtUTR2NGtrLU11anY3WE5fdXVjdEd4LVdOS0FmbFpnTWpiWEVsT05LUkU0RnJEZWxQUEhLenhsVWV4RzlXR3RyME9zOGcwMWRjald0NkhBUTVLTW1EbnBTV3Q3anlmZS1NTERjbWlpcWh3VnFHb0RkSThIX21ITUd3OHUxMXJGRFBXMEpaWWJQS3NKVmxvNjFxN3N2VVZrUHk0MmtkaDd1c3pZ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 12 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Chhattisgarh Okays Artificial Intelligence Mission, To Spend Rs 500 Crore Over 5 Years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWVgtSEM4S0JwNGpQRjV2bHNzQnBuZEZaaDc0eHRKc3BrbGFWYUszOWw0VVh1aGJjdm5zRW9OYkhCVkl1UklUV2N0cTFnSkVaSFY3UlRoVVVPOTBjeGU5M093OXRlTlVxY1ZPaGVsY2FIblZYRVlXcjRWeU9sWHJSMTRGY3l6RnBOSE1FVjNFckNVUXpYdUVNbmJCbUdTMFRRS3hrVXJ0a0JBVnZKQ2V4N2RSMldFQzcyUW8wWW9vQmFPLVJnSTUzZUN5ZkNmeVJz0gHWAUFVX3lxTE1kUjdZYkI5S3lTZEpBc2dBUkIwanhTOE5mYW1MaFc4N09qT294dWdOajRtb1l5Y050dXE5OGpKaWQzUHZCZWhPNl9IWHcwR3ZQM0RLSE5RbTZtWjJuaGxYbGVqTUxTUUJ4TlBOSjAzaGozNFNpTmkwemI4WUZYdklnMHFvM2xYOHk1TGtuOG45NmpNMGFLYmt4VGlDU0dYNDgtQ1NJLUtVU3BrbTVXcDhxOHFGRjJYT0lWWTNZMkx6TVRVdjdwQjFENk1FaHI1b1VHaUhhbkE?oc=5\" target=\"_blank\">Chhattisgarh Okays Artificial Intelligence Mission, To Spend Rs 500 Crore Over 5 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWVgtSEM4S0JwNGpQRjV2bHNzQnBuZEZaaDc0eHRKc3BrbGFWYUszOWw0VVh1aGJjdm5zRW9OYkhCVkl1UklUV2N0cTFnSkVaSFY3UlRoVVVPOTBjeGU5M093OXRlTlVxY1ZPaGVsY2FIblZYRVlXcjRWeU9sWHJSMTRGY3l6RnBOSE1FVjNFckNVUXpYdUVNbmJCbUdTMFRRS3hrVXJ0a0JBVnZKQ2V4N2RSMldFQzcyUW8wWW9vQmFPLVJnSTUzZUN5ZkNmeVJz0gHWAUFVX3lxTE1kUjdZYkI5S3lTZEpBc2dBUkIwanhTOE5mYW1MaFc4N09qT294dWdOajRtb1l5Y050dXE5OGpKaWQzUHZCZWhPNl9IWHcwR3ZQM0RLSE5RbTZtWjJuaGxYbGVqTUxTUUJ4TlBOSjAzaGozNFNpTmkwemI4WUZYdklnMHFvM2xYOHk1TGtuOG45NmpNMGFLYmt4VGlDU0dYNDgtQ1NJLUtVU3BrbTVXcDhxOHFGRjJYT0lWWTNZMkx6TVRVdjdwQjFENk1FaHI1b1VHaUhhbkE?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Why Chhattisgarh is investing Rs 500 crore in AI and what it means for startups, jobs and digital economy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcHpkXzBEaWFnYWRRRHI3aDV1TVBFcVVCYXhtN0F1TXRnMHhocWJqRU5IM1gycmZJZTdXb2daZXkwX2NxT05TeUR5bDR3ekpscHRGa1lCY0l0WU5hRzN3QjNyOVRKRlRHQmVQVmN4dFkyUGhxTlZudVRUOEF0TGxoNzdJUHNGTWNwVjM4enk4TEZaX1EzalcwN0s5WEtYVU5IMG1zUVA4VFJET1ROLTRHN1ZmUDhRMGtrb0RpLVRJQVdpTkxxS1Bhd3pDdzFPdmVPTWVKOThoSmJXeHQ1cGtVMWFza0FGN3JyemJ6U015dlpsMEHSAfoBQVVfeXFMTjJuelh2dFNIbTRqWVFMMnhUaG9ZcWFMMGFsSktUaDQ3QkcxSE1EWnhBMzZxVkFodk1FdG5mZjJvb0ZHYmhTeDg3TlplV016Qi0wOXBIUHcwNVUzc2daWTNjRTFrMG02YU4yQWpmcUJIZzdmWkp6SVhKbGo5dVZzLWxwQTBXWGMzeml4TElrWXBsbmEyOTE5bEhJTDJISlJhUUl4QXZEMDM0bkJ6c3VuVkZXbXRFT2g5YUFyMXNZR1gxNkIzdW1JaEVPN21pMjF6SVI4UUgwcENGV3NCeWxNc05TbE9pZ0pBMUpBc0dRNUl6Zk1Pd2J3WHpudw?oc=5\" target=\"_blank\">Why Chhattisgarh is investing Rs 500 crore in AI and what it means for startups, jobs and digital economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcHpkXzBEaWFnYWRRRHI3aDV1TVBFcVVCYXhtN0F1TXRnMHhocWJqRU5IM1gycmZJZTdXb2daZXkwX2NxT05TeUR5bDR3ekpscHRGa1lCY0l0WU5hRzN3QjNyOVRKRlRHQmVQVmN4dFkyUGhxTlZudVRUOEF0TGxoNzdJUHNGTWNwVjM4enk4TEZaX1EzalcwN0s5WEtYVU5IMG1zUVA4VFJET1ROLTRHN1ZmUDhRMGtrb0RpLVRJQVdpTkxxS1Bhd3pDdzFPdmVPTWVKOThoSmJXeHQ1cGtVMWFza0FGN3JyemJ6U015dlpsMEHSAfoBQVVfeXFMTjJuelh2dFNIbTRqWVFMMnhUaG9ZcWFMMGFsSktUaDQ3QkcxSE1EWnhBMzZxVkFodk1FdG5mZjJvb0ZHYmhTeDg3TlplV016Qi0wOXBIUHcwNVUzc2daWTNjRTFrMG02YU4yQWpmcUJIZzdmWkp6SVhKbGo5dVZzLWxwQTBXWGMzeml4TElrWXBsbmEyOTE5bEhJTDJISlJhUUl4QXZEMDM0bkJ6c3VuVkZXbXRFT2g5YUFyMXNZR1gxNkIzdW1JaEVPN21pMjF6SVI4UUgwcENGV3NCeWxNc05TbE9pZ0pBMUpBc0dRNUl6Zk1Pd2J3WHpudw?oc=5",
+   "source_name": "The Financial Express",
+   "source_domain": "financialexpress.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chhattisgarh",
+   "title": "Leadership, AI, rural economy top focus at Chhattisgarh cabinet’s ‘Chintan Shivir’ | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMlhTSDk0MndfWTJBRDdXUVFHU180T0U1VWdpNDJyVnlKTVlmOWZtd0NkLU1PVVJkWHJJaXcwXzJXejRua3R5YmM1OVJGMzJhdV9wNFRmdWpxUXk1cjlfZlJtLWJZY21YZm5WZXU4LVJtYkJidDFiWDNTbjE5ZTNveExlYWFIOHFMWl9hVWpVOXJOMGZnYmliVUZwNjQtckRPeldqWmRUNnVYREh0Mi1JWXdYSXp2LXFxcHpVUWRyT2VhOFBQVUVlYnZZbC1LQ2dvclJ3S19PWS3SAd4BQVVfeXFMUGNPejc1NjlkZUI1ekdsbmROUUZDSHA1WFkwT3Y0M0xmRFRSQ2RIampsaHNRM2xHbXpIdlBYMUJQaE5tN1FsZWlRLTduUEpVZlFWaWtIV29oVVh4ZkpvOU1VYk9HM05SNnpKRHJ6WkVzZDdjdTdGcFZNVGNHRTlmMkRTcXZsYlNJdGlkNEh4TTZvOE1sUU5VRmVqUWM3RHVsbUgwUXJCb19TelN2eExicHp2dVNvbEJoMUY4ZmtaUE9VYnYwbVhQWHFjbW5HTjIta1FLN0xVTk5oenBnYXBB?oc=5\" target=\"_blank\">Leadership, AI, rural economy top focus at Chhattisgarh cabinet’s ‘Chintan Shivir’ | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMlhTSDk0MndfWTJBRDdXUVFHU180T0U1VWdpNDJyVnlKTVlmOWZtd0NkLU1PVVJkWHJJaXcwXzJXejRua3R5YmM1OVJGMzJhdV9wNFRmdWpxUXk1cjlfZlJtLWJZY21YZm5WZXU4LVJtYkJidDFiWDNTbjE5ZTNveExlYWFIOHFMWl9hVWpVOXJOMGZnYmliVUZwNjQtckRPeldqWmRUNnVYREh0Mi1JWXdYSXp2LXFxcHpVUWRyT2VhOFBQVUVlYnZZbC1LQ2dvclJ3S19PWS3SAd4BQVVfeXFMUGNPejc1NjlkZUI1ekdsbmROUUZDSHA1WFkwT3Y0M0xmRFRSQ2RIampsaHNRM2xHbXpIdlBYMUJQaE5tN1FsZWlRLTduUEpVZlFWaWtIV29oVVh4ZkpvOU1VYk9HM05SNnpKRHJ6WkVzZDdjdTdGcFZNVGNHRTlmMkRTcXZsYlNJdGlkNEh4TTZvOE1sUU5VRmVqUWM3RHVsbUgwUXJCb19TelN2eExicHp2dVNvbEJoMUY4ZmtaUE9VYnYwbVhQWHFjbW5HTjIta1FLN0xVTk5oenBnYXBB?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Sat, 04 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:16+00:00"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "region": "Jharkhand",
+ "query": "(Jharkhand) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:44+00:00",
+ "total_results": 2,
+ "item_count": 2,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand to launch AI-powered portal to track medicine supply, curb misuse of prescription drugs",
+   "description": "Jharkhand to launch an AI-powered portal to track medicine supply chains, flag suspicious drug sales, curb misuse, and let citizens report illegal sales.",
+   "url": "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-to-launch-ai-powered-portal-to-track-medicine-supply-curb-misuse-of-prescription-drugs/articleshow/135494702.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-03T11:27:15Z",
+   "fetched_at": "2026-11-15T09:47:44+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Jharkhand",
+   "title": "PTR observatory to help plan human-elephant conflict management strategies",
+   "description": "Palamu Tiger Reserve to set up elephant observatory using data and AI to reduce human-elephant conflict in Jharkhand, where 500+ died in 5 years.",
+   "url": "https://timesofindia.indiatimes.com/city/ranchi/ptr-observatory-to-help-plan-human-elephant-conflict-management-strategies/articleshow/135264932.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-28T12:09:03Z",
+   "fetched_at": "2026-11-15T09:47:44+00:00"
+  }
+ ]
+}

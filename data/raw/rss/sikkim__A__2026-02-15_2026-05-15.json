@@ -1,0 +1,120 @@
+{
+ "region": "Sikkim",
+ "group": "A",
+ "query": "(Sikkim) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Sikkim%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:47+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "CJI Surya Kant Flags AI Bias Risks In Judiciary, Calls For Ethical Use Of Technology",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXh5WEtKOWItMDZONkxnaXFKWXlodWQ1UE1zSDhaamxmUkdIOVJFZ2ppUjlZR0k4OGJ6YjBzbGNTQjg5ZkJlQVJKcVFwQWFGYmx4U0ZUOVpSQkJkcVFySXV6bHdsYU4ySkgxV3JHTnV3Y2E2c0JNU0psUlBMY1pyYU9nTTNRQkV0QjlHRWI1RzluMTF1MXRPSVNGUk5pMkhpeHlxNWJuNllTaU94SHdBYzkxZEJ0YVEtLV9uT2R4TdIBxAFBVV95cUxPdm5obWJqSzdsUkJYZ1pJcDhQVllvWE55MWNVRFowa0RPUHhHY2hsazNWV2xqQUN4S004VVkzQ2hUd0R5ek0tMmw1QkVsSXQzSWEwdXNLTlZUQWJJWEdOa21xbzBERml6bmFtX3N2bEZuWG8zWmozYmV1dUhEVlZlNlhOcEYtVW5HeFh1LVRZRGY4UnF6WS1heU8yeWpaV3hxcDdNeUx6WTBlblZXMjZrY2lfd1hpWVhST1VDTGdpVDk3M0Zi?oc=5\" target=\"_blank\">CJI Surya Kant Flags AI Bias Risks In Judiciary, Calls For Ethical Use Of Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LawBeat</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXh5WEtKOWItMDZONkxnaXFKWXlodWQ1UE1zSDhaamxmUkdIOVJFZ2ppUjlZR0k4OGJ6YjBzbGNTQjg5ZkJlQVJKcVFwQWFGYmx4U0ZUOVpSQkJkcVFySXV6bHdsYU4ySkgxV3JHTnV3Y2E2c0JNU0psUlBMY1pyYU9nTTNRQkV0QjlHRWI1RzluMTF1MXRPSVNGUk5pMkhpeHlxNWJuNllTaU94SHdBYzkxZEJ0YVEtLV9uT2R4TdIBxAFBVV95cUxPdm5obWJqSzdsUkJYZ1pJcDhQVllvWE55MWNVRFowa0RPUHhHY2hsazNWV2xqQUN4S004VVkzQ2hUd0R5ek0tMmw1QkVsSXQzSWEwdXNLTlZUQWJJWEdOa21xbzBERml6bmFtX3N2bEZuWG8zWmozYmV1dUhEVlZlNlhOcEYtVW5HeFh1LVRZRGY4UnF6WS1heU8yeWpaV3hxcDdNeUx6WTBlblZXMjZrY2lfd1hpWVhST1VDTGdpVDk3M0Zi?oc=5",
+   "source_name": "LawBeat",
+   "source_domain": "lawbeat.in",
+   "published_raw": "Fri, 01 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "MIT University Sikkim Opens Admissions 2026 With AI-Based Class, Real Industry Exposure, Workshops, Internships, And Practical Learning",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNTjRhSEM0YzR0UDVHYnQyWUI3RWRQRXZVakhYcS16cTl3aGU1Qm82dHVpV1hrUml1MkFjZi05VktJSmpxbVZRVDVJNEd1clR4RDVVa2dYZTFXR2h4bGtpZkxxdDktWVdBTWpUX3B3SFZBS3ZfVTA2azFDNzVVZm16VmpuTlFramV2bjZzWEZEdUJxYXgtQTlMNTExQzVvUkhPdzlweDZKV2x4a01QSTBUZTVpbFlnb3B5VUQ3eXcyb0VKdXdhR2dGekxDQzdybXE4RHJiRU45dWduLUZQek9zN0Q2ZjR4ZFpOV1h4Zkh4QzI2WS1oZkdYZTRWaldER1ZncFpfbTM3UXhOZmVyM1cyd9IBngJBVV95cUxPUVFra3RHUnF1YzV5RmRJS1JZbVZfMy1GWHp6M0tnWXliUU9TQVdWYmJpMkNpUVFDbkhWakRCRTVWYmtCX2RPaS0zdmJHUVhHOHotbEhSb0pLdEVydGsyYzc4czc4d0tjZ3JvVkpodm1QQjRpeHhpMkp6ODRRNXh5OW1DbEgyN3pkemlwMmh3UlZia2ZpZGZMVzExTXI3Tlhkc3NpX0pEdW5FOTRhcDNWcUZ3VF9qSEJTVEE4UEM2bjlxbjlPaEVVcF9pV3d4WUt2dkNBNHZSWC1BNzkyQXRnLTZVdmp2dEpxaDhQdWFuOE5GcnViUWlYUldSN2FkanVQOHRYMG5RNy02RUtiMjZZNDRPRmhuSXpJR3RTSHR3?oc=5\" target=\"_blank\">MIT University Sikkim Opens Admissions 2026 With AI-Based Class, Real Industry Exposure, Workshops, Internships, And Practical Learning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Business</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTjRhSEM0YzR0UDVHYnQyWUI3RWRQRXZVakhYcS16cTl3aGU1Qm82dHVpV1hrUml1MkFjZi05VktJSmpxbVZRVDVJNEd1clR4RDVVa2dYZTFXR2h4bGtpZkxxdDktWVdBTWpUX3B3SFZBS3ZfVTA2azFDNzVVZm16VmpuTlFramV2bjZzWEZEdUJxYXgtQTlMNTExQzVvUkhPdzlweDZKV2x4a01QSTBUZTVpbFlnb3B5VUQ3eXcyb0VKdXdhR2dGekxDQzdybXE4RHJiRU45dWduLUZQek9zN0Q2ZjR4ZFpOV1h4Zkh4QzI2WS1oZkdYZTRWaldER1ZncFpfbTM3UXhOZmVyM1cyd9IBngJBVV95cUxPUVFra3RHUnF1YzV5RmRJS1JZbVZfMy1GWHp6M0tnWXliUU9TQVdWYmJpMkNpUVFDbkhWakRCRTVWYmtCX2RPaS0zdmJHUVhHOHotbEhSb0pLdEVydGsyYzc4czc4d0tjZ3JvVkpodm1QQjRpeHhpMkp6ODRRNXh5OW1DbEgyN3pkemlwMmh3UlZia2ZpZGZMVzExTXI3Tlhkc3NpX0pEdW5FOTRhcDNWcUZ3VF9qSEJTVEE4UEM2bjlxbjlPaEVVcF9pV3d4WUt2dkNBNHZSWC1BNzkyQXRnLTZVdmp2dEpxaDhQdWFuOE5GcnViUWlYUldSN2FkanVQOHRYMG5RNy02RUtiMjZZNDRPRmhuSXpJR3RTSHR3?oc=5",
+   "source_name": "Outlook Business",
+   "source_domain": "outlookbusiness.com",
+   "published_raw": "Mon, 11 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "CJI Declares Sikkim As The First Paperless State Judiciary At National Conclave On Technology And...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWptRDl6Mk5hTDIxc1AwbUpiR3BNZ0doZDBLWWh1dHRPZHpmVC05ZnRkRWxQVmdBNGJ3a3RrWFRRZG5EYncyQVhsYnFveDRUZDdtSk1tM19vZHEzQnNmZUNsOTNLV1ZoUExVYlg5TWpRbzhYdjY1RU5qZWlKbFlONjM5dmVMaTNQOWt3RlpYWGhieGZFc1hYcHZ4QWjSAaIBQVVfeXFMTUVLVHQ5ZHlpMEFiMnhQN2owWERXTjBfNHpfRE1SaS1scUE3X0liQWtDZk10UDVXanZBV1hXYXh1a3d3UHBoOG9rMVY0al9BX1JRLTlrSjhKS25ZUXNoYlVxYjVPSTZxNWZYTEZPUWRiUGlBd1lnenpRMGNJTXVNZm00NEVlN2p0eVFZQ252Y05hS0VseGpzRFpwWEJlZFp2Z1Bn?oc=5\" target=\"_blank\">CJI Declares Sikkim As The First Paperless State Judiciary At National Conclave On Technology And...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Law</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWptRDl6Mk5hTDIxc1AwbUpiR3BNZ0doZDBLWWh1dHRPZHpmVC05ZnRkRWxQVmdBNGJ3a3RrWFRRZG5EYncyQVhsYnFveDRUZDdtSk1tM19vZHEzQnNmZUNsOTNLV1ZoUExVYlg5TWpRbzhYdjY1RU5qZWlKbFlONjM5dmVMaTNQOWt3RlpYWGhieGZFc1hYcHZ4QWjSAaIBQVVfeXFMTUVLVHQ5ZHlpMEFiMnhQN2owWERXTjBfNHpfRE1SaS1scUE3X0liQWtDZk10UDVXanZBV1hXYXh1a3d3UHBoOG9rMVY0al9BX1JRLTlrSjhKS25ZUXNoYlVxYjVPSTZxNWZYTEZPUWRiUGlBd1lnenpRMGNJTXVNZm00NEVlN2p0eVFZQ252Y05hS0VseGpzRFpwWEJlZFp2Z1Bn?oc=5",
+   "source_name": "Live Law",
+   "source_domain": "livelaw.in",
+   "published_raw": "Fri, 01 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim Becomes India’s First Paperless Judiciary, Background, Features",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWozbGI2all5TUNfTWNHc2JuQWttMzRFWUJBVzJuNnFpSk5qc3lPRTdEWkh0dldERkpwTVA3T0g0czBhYjlrQUtYLUl4cmstRDdvU3VxWjYxdzA3ZnNBQ3RkZlkzd2JhdWFQVHdpOC1ZVkNSUE1OMnpIa2FNVTdxYmZ1eWtnQVRKeTRoRXphSWpsY1NaN1E?oc=5\" target=\"_blank\">Sikkim Becomes India’s First Paperless Judiciary, Background, Features</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vajiram & Ravi</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWozbGI2all5TUNfTWNHc2JuQWttMzRFWUJBVzJuNnFpSk5qc3lPRTdEWkh0dldERkpwTVA3T0g0czBhYjlrQUtYLUl4cmstRDdvU3VxWjYxdzA3ZnNBQ3RkZlkzd2JhdWFQVHdpOC1ZVkNSUE1OMnpIa2FNVTdxYmZ1eWtnQVRKeTRoRXphSWpsY1NaN1E?oc=5",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "vajiramandravi.com",
+   "published_raw": "Mon, 04 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "‘Mini Sikkim’: This CM Shri school bets on merit, mountains, and morning yoga to build future leaders",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNekdsSWdLY3M5TlN4WTd3S2Q0NEM3c2tNWHliVjhXWkl3aHRWd1lSNWJUeXhwU2ZKT1czSU5WbnpuaDNoLUZCRGd5VVE3emF2SVVCaTBEclBLajh0a0NvenZvckNfSGdiNjd0RmtKRUhGcUdQZzUzTE9GenUwME5VTjhHYUQ2MmRoemdKU0JqUElaZ1FHY09LYV9GZTZuQ1AwSXNvZ3NOdkp5TDhkb3NWUFYzTlFmWVFEeDJyNndCSi05b0daenQ0LWE3ZWE1QmU0bVdsNWRPdTVGclNjdy0tYXVteGw1b2dqT0I0c9IB8gFBVV95cUxPY2xEaUZIVWVNZjJielM2STRxdjhqTE1YRF9HY1hDV19GaDB4TktBRUNjYVFrN2dVNTBObzlkLU9EenhHTXdCcF9Uejg3Mk12amZ1X01xSHdJb2VEOU9lcklkWjRaV0RCbEZrbjJjS1BqOEhXckxBVXJaYzd0STYzQnNiak0xM3hDeVNLSVR4VmxrV1V4eHd0RnFNLXI0Nzd2aC1uNXJDaGpUbVV4UlpyRkF3cUVWSXpXZU1XN3RIMUNBdUVNQTM0cU43VkFWdkU0a2YtOWs3cVdOdndmUzhzMUVJM3QtOEJ4YUtxVGJrdHB3UQ?oc=5\" target=\"_blank\">‘Mini Sikkim’: This CM Shri school bets on merit, mountains, and morning yoga to build future leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Careers360</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNekdsSWdLY3M5TlN4WTd3S2Q0NEM3c2tNWHliVjhXWkl3aHRWd1lSNWJUeXhwU2ZKT1czSU5WbnpuaDNoLUZCRGd5VVE3emF2SVVCaTBEclBLajh0a0NvenZvckNfSGdiNjd0RmtKRUhGcUdQZzUzTE9GenUwME5VTjhHYUQ2MmRoemdKU0JqUElaZ1FHY09LYV9GZTZuQ1AwSXNvZ3NOdkp5TDhkb3NWUFYzTlFmWVFEeDJyNndCSi05b0daenQ0LWE3ZWE1QmU0bVdsNWRPdTVGclNjdy0tYXVteGw1b2dqT0I0c9IB8gFBVV95cUxPY2xEaUZIVWVNZjJielM2STRxdjhqTE1YRF9HY1hDV19GaDB4TktBRUNjYVFrN2dVNTBObzlkLU9EenhHTXdCcF9Uejg3Mk12amZ1X01xSHdJb2VEOU9lcklkWjRaV0RCbEZrbjJjS1BqOEhXckxBVXJaYzd0STYzQnNiak0xM3hDeVNLSVR4VmxrV1V4eHd0RnFNLXI0Nzd2aC1uNXJDaGpUbVV4UlpyRkF3cUVWSXpXZU1XN3RIMUNBdUVNQTM0cU43VkFWdkU0a2YtOWs3cVdOdndmUzhzMUVJM3QtOEJ4YUtxVGJrdHB3UQ?oc=5",
+   "source_name": "Careers360",
+   "source_domain": "news.careers360.com",
+   "published_raw": "Fri, 06 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Major Transformation in Sikkim’s PM SHRI Schools: Strengthening Education under NEP 2020",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUtzd0xuQkpWZVlzanlPbHU1S1FiSjhPcGRNdy03Z3NIZkphSjQxZFVCU3FKT2N3bW9hUzhNQnVKaXRmZjNXNEhGODVLYktYQnUyNzdsMktoQi01cDBGRUQzS19JUGxQZzVyampxRDMxbmRaV3M5SC1QUnA0SjRmTWxqQ2Y2cVpnRkNDdmtpLUJsN29lbEJPdzRtRS1lTG1CZFRScFUyUEprOUYyQUVmYUl2ajhjSjMzTFhyWlVDWWZMcm1QeGlreVl2S0Z4SUZGWFBxNjZR?oc=5\" target=\"_blank\">Major Transformation in Sikkim’s PM SHRI Schools: Strengthening Education under NEP 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entrepreneur India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUtzd0xuQkpWZVlzanlPbHU1S1FiSjhPcGRNdy03Z3NIZkphSjQxZFVCU3FKT2N3bW9hUzhNQnVKaXRmZjNXNEhGODVLYktYQnUyNzdsMktoQi01cDBGRUQzS19JUGxQZzVyampxRDMxbmRaV3M5SC1QUnA0SjRmTWxqQ2Y2cVpnRkNDdmtpLUJsN29lbEJPdzRtRS1lTG1CZFRScFUyUEprOUYyQUVmYUl2ajhjSjMzTFhyWlVDWWZMcm1QeGlreVl2S0Z4SUZGWFBxNjZR?oc=5",
+   "source_name": "Entrepreneur India",
+   "source_domain": "entrepreneurindia.com",
+   "published_raw": "Sat, 11 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "North Sikkim landslides: 150–200 tourists stranded in Chungthang",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXBGVGlGdXhZSTFDWEhFTm9ucGV0UmhZZ3FRY3loNlhwR2stSW15OWp2bUFxMmtWVlg3bEJkQnQ3b1NjT1RjaWtYU3NMcUpMQXg0VGxQNU5zcGc0Y0F3cHBIelc1Y0xZaGNWc1F5NzRRTUNGRXdEakJPaThmQWZsS09XWktGS3NPa1dCZkpFQnFlbVFJaGxQUXVRcVEza1EwUjQzU1RhWmtlZ0xQZUYwaEdvV3BMVFA5cFVfZnkzcExZczZ4Nk5Pcjh5cTVyaEh0bTNz0gHYAUFVX3lxTE1TeUM2WncyUVh6TXZ5bjNfMV8zOHZCbnJ4a2c5eV85UGxaY3ctcGFnOFI2bWZlb19VSnRwY2FPN2M5MVMxWHQzcmMtNnI0c2t4alhTMm1uTldpazhrS0dteUV4SXAzOC1xVFFlazRlaExHWnlsTF9HcHc1RmtaR0pPTkxrcHJlbWUtQmFiMkVUWjZ6RWp2NnFSQXRfLTVDY0ZfWDhwelVuTG9xbUpDdTdVclNkcEkySzlla3FlM3Nab19zbHZGMU8tMk1GMnlKcEJBT0RBc3RLMw?oc=5\" target=\"_blank\">North Sikkim landslides: 150–200 tourists stranded in Chungthang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXBGVGlGdXhZSTFDWEhFTm9ucGV0UmhZZ3FRY3loNlhwR2stSW15OWp2bUFxMmtWVlg3bEJkQnQ3b1NjT1RjaWtYU3NMcUpMQXg0VGxQNU5zcGc0Y0F3cHBIelc1Y0xZaGNWc1F5NzRRTUNGRXdEakJPaThmQWZsS09XWktGS3NPa1dCZkpFQnFlbVFJaGxQUXVRcVEza1EwUjQzU1RhWmtlZ0xQZUYwaEdvV3BMVFA5cFVfZnkzcExZczZ4Nk5Pcjh5cTVyaEh0bTNz0gHYAUFVX3lxTE1TeUM2WncyUVh6TXZ5bjNfMV8zOHZCbnJ4a2c5eV85UGxaY3ctcGFnOFI2bWZlb19VSnRwY2FPN2M5MVMxWHQzcmMtNnI0c2t4alhTMm1uTldpazhrS0dteUV4SXAzOC1xVFFlazRlaExHWnlsTF9HcHc1RmtaR0pPTkxrcHJlbWUtQmFiMkVUWjZ6RWp2NnFSQXRfLTVDY0ZfWDhwelVuTG9xbUpDdTdVclNkcEkySzlla3FlM3Nab19zbHZGMU8tMk1GMnlKcEJBT0RBc3RLMw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Artificial Intelligence In Decision Making 'Risky', Gujarat High Court's AI-Policy Meant To Preserve...",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFhvRE0yLTdYczZNQ25HOTlNWmhSWDJMa0dyX0VIVWJNYXU0ZmlHa1FfdndpSTQ1aEU2Z0pvT21ab01jVHlRV2hwcFJsZmNIMEJKZ1IzaGNoN2xXcjhVU1NrdWEwTjdWc1hRanZ3QXcxUmx2OUduM1ptRU1kSThkTXZjbXRWeUt4Z3ZJaDV0Sk8wMjZHVl9FRExueDhueklyOEpKeTlTSWgxa2tKRDdtVVVDR2kyNkdHMnRhVkZ0Z0tWYjUteHdxUVBPQVpPUU16eTcw0gHYAUFVX3lxTE5RODkybXBIUGJrRUhuV0VYaERzS2xCOUpYWGlxLTNpOUtmYjZncjJHc2VTVXhFdktJcmY2UGdvQ2kzT1pORkR0NTl3Ym9rTms5SVZvY0ZzMDdpQVN4bEN1UE9VOGlKVkdEMGNnYU0xSFFUY2hpWkowVHNlQUhKVkw2VTR6SVlhZW5vNlRvSUtYc3l1bjFUeUhGTjRwcUlzQ1NBVzg1aXlIUFF1NkJMZzdlT0dFMnNrRU1rSmZHLUh4WkdZYmZXdV9HUFd2S2pNZ25ZWk1UY2pKZA?oc=5\" target=\"_blank\">Artificial Intelligence In Decision Making 'Risky', Gujarat High Court's AI-Policy Meant To Preserve...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Law</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFhvRE0yLTdYczZNQ25HOTlNWmhSWDJMa0dyX0VIVWJNYXU0ZmlHa1FfdndpSTQ1aEU2Z0pvT21ab01jVHlRV2hwcFJsZmNIMEJKZ1IzaGNoN2xXcjhVU1NrdWEwTjdWc1hRanZ3QXcxUmx2OUduM1ptRU1kSThkTXZjbXRWeUt4Z3ZJaDV0Sk8wMjZHVl9FRExueDhueklyOEpKeTlTSWgxa2tKRDdtVVVDR2kyNkdHMnRhVkZ0Z0tWYjUteHdxUVBPQVpPUU16eTcw0gHYAUFVX3lxTE5RODkybXBIUGJrRUhuV0VYaERzS2xCOUpYWGlxLTNpOUtmYjZncjJHc2VTVXhFdktJcmY2UGdvQ2kzT1pORkR0NTl3Ym9rTms5SVZvY0ZzMDdpQVN4bEN1UE9VOGlKVkdEMGNnYU0xSFFUY2hpWkowVHNlQUhKVkw2VTR6SVlhZW5vNlRvSUtYc3l1bjFUeUhGTjRwcUlzQ1NBVzg1aXlIUFF1NkJMZzdlT0dFMnNrRU1rSmZHLUh4WkdZYmZXdV9HUFd2S2pNZ25ZWk1UY2pKZA?oc=5",
+   "source_name": "Live Law",
+   "source_domain": "livelaw.in",
+   "published_raw": "Fri, 01 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Bank holidays in March 2026: Complete state-wise list with festival dates—Check full schedule",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3EzckwtSDVCNUZKSzh4Q2tQYS1KQTVOaVd6SWxnU2h2NHppVGtEdk5SMlBtNmZGOWV4UFo0blIxWHN0TXJMWUthdUdNSnMzRFdXdnBXbktUcXlTMlQtRHJMdHFsOWUwVDVVaklJbE5XbU9MaVRSM2hMZVZoUUpVV3I0b3dvUFFIQkZOMkdVQXBsYUN5WFB4SWFFWXVMZXV2OFJsenJVYm9nMzZBSHlJWFRaVFJBOTVQR1NIZTBXcm5MTXBiOGd4aUN1ZkhRSDlpMTdaNGhJV1R6cjdNLWtMbGxhWVZWNzYzVlo5WjdrTGszUDEzd0R5WVlDaUI1UnN2S3c3bUlCNzfSAY4CQVVfeXFMUE51SjdYQlJMZ1h2SDhLS3BULWpGVnJTcnYxa1hfSDhWMDg1WHBxS3FMMmtFTF9ESWk3a2RvRFZUcUk2Rld5NU1qMDJHV0huVGp1TjJYV25JU3g2a2ZDcHROZk1maFFoUWVfMldIODlWRHlSMjAybmQ3dUplUU1zNWRMa1NXazc0aGFQWXpxclNLcFpRSVkycnE0VUJVXzBSVURYODZwLU5PUlJVUlg1MVg0S3l2TWNYLVJVelNQbGx3V1dLY0wyN2tqSUFfWEg5aUFUVm5qNENONGt0MG8xWHVJc2QzTzF5VXE1R2hOTzUwM1JOQVlRYTJIYVhjQV9zZm96VklZYjFiNXYzNERn?oc=5\" target=\"_blank\">Bank holidays in March 2026: Complete state-wise list with festival dates—Check full schedule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3EzckwtSDVCNUZKSzh4Q2tQYS1KQTVOaVd6SWxnU2h2NHppVGtEdk5SMlBtNmZGOWV4UFo0blIxWHN0TXJMWUthdUdNSnMzRFdXdnBXbktUcXlTMlQtRHJMdHFsOWUwVDVVaklJbE5XbU9MaVRSM2hMZVZoUUpVV3I0b3dvUFFIQkZOMkdVQXBsYUN5WFB4SWFFWXVMZXV2OFJsenJVYm9nMzZBSHlJWFRaVFJBOTVQR1NIZTBXcm5MTXBiOGd4aUN1ZkhRSDlpMTdaNGhJV1R6cjdNLWtMbGxhWVZWNzYzVlo5WjdrTGszUDEzd0R5WVlDaUI1UnN2S3c3bUlCNzfSAY4CQVVfeXFMUE51SjdYQlJMZ1h2SDhLS3BULWpGVnJTcnYxa1hfSDhWMDg1WHBxS3FMMmtFTF9ESWk3a2RvRFZUcUk2Rld5NU1qMDJHV0huVGp1TjJYV25JU3g2a2ZDcHROZk1maFFoUWVfMldIODlWRHlSMjAybmQ3dUplUU1zNWRMa1NXazc0aGFQWXpxclNLcFpRSVkycnE0VUJVXzBSVURYODZwLU5PUlJVUlg1MVg0S3l2TWNYLVJVelNQbGx3V1dLY0wyN2tqSUFfWEg5aUFUVm5qNENONGt0MG8xWHVJc2QzTzF5VXE1R2hOTzUwM1JOQVlRYTJIYVhjQV9zZm96VklZYjFiNXYzNERn?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim High Court To Organise National Conclave On Technology And Judicial Education At Gangtok",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXB2NGFpNEk1V2hlVzE5TzdFRHRzQW1ILURSTWt5QU44UUNEM3ZNLUdHYnllYWQtdExlcFNHTXFPMjQtTVBzcmlOZFdhZkFTM3NzX1hjMmlzWTBVWEZLRm4xam1pc0d3UFBTcXItZ1FrMkpmcGZLNkZQQUlCdzhYVnVuREl2X1BXWmYwdmNRQ0V0M2NUOWdXTlhGMG9NcnNYWGxYVEdzaDM4dTI1b29TakNfUWQzVW12VXJ5MVZwZ1dxM3RtcjJfN0ZR0gHPAUFVX3lxTE1uaW5IZnFSQTlTWkJqM3RPRm9vaWNBMFFDV3FLSm5QSTBEMUMzYWZGbE5kZ3FQOHdCdkpCbEtIWFhIbDF2d1pCYllCLWlQN2dxMy1MYzQ2ZWlrVW9vYmt3OVN5RDJaMnRkd2tuNkt0cDVDcmNZZ2xHeWo3MVZ3clpDOFd1QU9nN3k2SFJPd2tENlFuODlrU3E2akVFT1Fnb01GS0VKeG1CaW1jeGFubzJBTlZkeUtYVXVGR0VsVXFOSnExdUQ4SmtiN21KZTVRZw?oc=5\" target=\"_blank\">Sikkim High Court To Organise National Conclave On Technology And Judicial Education At Gangtok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Law</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXB2NGFpNEk1V2hlVzE5TzdFRHRzQW1ILURSTWt5QU44UUNEM3ZNLUdHYnllYWQtdExlcFNHTXFPMjQtTVBzcmlOZFdhZkFTM3NzX1hjMmlzWTBVWEZLRm4xam1pc0d3UFBTcXItZ1FrMkpmcGZLNkZQQUlCdzhYVnVuREl2X1BXWmYwdmNRQ0V0M2NUOWdXTlhGMG9NcnNYWGxYVEdzaDM4dTI1b29TakNfUWQzVW12VXJ5MVZwZ1dxM3RtcjJfN0ZR0gHPAUFVX3lxTE1uaW5IZnFSQTlTWkJqM3RPRm9vaWNBMFFDV3FLSm5QSTBEMUMzYWZGbE5kZ3FQOHdCdkpCbEtIWFhIbDF2d1pCYllCLWlQN2dxMy1MYzQ2ZWlrVW9vYmt3OVN5RDJaMnRkd2tuNkt0cDVDcmNZZ2xHeWo3MVZ3clpDOFd1QU9nN3k2SFJPd2tENlFuODlrU3E2akVFT1Fnb01GS0VKeG1CaW1jeGFubzJBTlZkeUtYVXVGR0VsVXFOSnExdUQ4SmtiN21KZTVRZw?oc=5",
+   "source_name": "Live Law",
+   "source_domain": "livelaw.in",
+   "published_raw": "Mon, 20 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:47+00:00"
+  }
+ ]
+}

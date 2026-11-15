@@ -1,0 +1,109 @@
+{
+ "region": "Himachal Pradesh",
+ "group": "B",
+ "query": "(\"Himachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Himachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:31+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh Government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE90MkJiV2VEZUdscWVYQ2VqeUdiaGhRS3dVT2VBbFdyRzd5V1Q2M0NEeVYwVFdqNUlGUEplR2xiUUZvNzBnMm1oeEdjT3k2NWdXT3NTZFZ1Y3A4Vy1IWHVvMEg1M1ZPelhfeUQ0U1BEUUhLN00?oc=5\" target=\"_blank\">Himachal Pradesh Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">himachalpr.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90MkJiV2VEZUdscWVYQ2VqeUdiaGhRS3dVT2VBbFdyRzd5V1Q2M0NEeVYwVFdqNUlGUEplR2xiUUZvNzBnMm1oeEdjT3k2NWdXT3NTZFZ1Y3A4Vy1IWHVvMEg1M1ZPelhfeUQ0U1BEUUhLN00?oc=5",
+   "source_name": "himachalpr.gov.in",
+   "source_domain": "himachalpr.gov.in",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Union Minister of State Prof. S.P. Singh Baghel Felicitates Panchayat Leaders Invited as Special Guests for Republic Day 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3E5d084dURCTEY2YUFwTXAxNEVGZzlndmlkMDVxRzl5a2kySXZGbVdoOGFyZGpSVHhWMHlSSEFFWkdha2VsQ2tHSHJ4aXBBNFZ0WVRndlZtSFgzZ2tybWJtcmxnZm1pdDZj?oc=5\" target=\"_blank\">Union Minister of State Prof. S.P. Singh Baghel Felicitates Panchayat Leaders Invited as Special Guests for Republic Day 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hT3E5d084dURCTEY2YUFwTXAxNEVGZzlndmlkMDVxRzl5a2kySXZGbVdoOGFyZGpSVHhWMHlSSEFFWkdha2VsQ2tHSHJ4aXBBNFZ0WVRndlZtSFgzZ2tybWJtcmxnZm1pdDZj?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh CM launches 'Padhai with AI' app",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1A2U2NiSnBac3d2c2dmWjR4aDhfMmRaTDhZb0Z4UzhfS0dyY1ZWb2tKS25Ob1RrYWVpRjJob3EtZVA0NlpRYzVjSWZNTDRWMm5ranlzTURGOE9GdzVvYzhjY3dKU2FLMGJUMnZReE5pTkN1OG5mMmNFdG5YeWV0TlZJZnlMN01nUE4tZzJadFI0LThPZTBSOEJuaHRMMkEwbHA1VGZpbXNORzgxX2dBSg?oc=5\" target=\"_blank\">Himachal Pradesh CM launches 'Padhai with AI' app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1A2U2NiSnBac3d2c2dmWjR4aDhfMmRaTDhZb0Z4UzhfS0dyY1ZWb2tKS25Ob1RrYWVpRjJob3EtZVA0NlpRYzVjSWZNTDRWMm5ranlzTURGOE9GdzVvYzhjY3dKU2FLMGJUMnZReE5pTkN1OG5mMmNFdG5YeWV0TlZJZnlMN01nUE4tZzJadFI0LThPZTBSOEJuaHRMMkEwbHA1VGZpbXNORzgxX2dBSg?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal CM Launches ‘Padhai with AI’ Learning Initiative",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxObHRrUUw2eDhxTFhsZlo0WGtPcHN6LXJPVGdBcHN0R3BFZVBHc0dlbWZvNnl0N01waWtsZzY0bFdtLUVVejFCWnhtX2d0UFRPOUdiRGFDRlFZSHBuNzZkaDdMal9IcEJDd1dNRGZoZHotamg0ejlidjlLbjlONmNYRFUzaWZTQQ?oc=5\" target=\"_blank\">Himachal CM Launches ‘Padhai with AI’ Learning Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObHRrUUw2eDhxTFhsZlo0WGtPcHN6LXJPVGdBcHN0R3BFZVBHc0dlbWZvNnl0N01waWtsZzY0bFdtLUVVejFCWnhtX2d0UFRPOUdiRGFDRlFZSHBuNzZkaDdMal9IcEJDd1dNRGZoZHotamg0ejlidjlLbjlONmNYRFUzaWZTQQ?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh cabinet approves township near Chandigarh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbG9sMUN2RDdTSG1yamk4czlhcmN5eEViOXZfMlR4N3lDTlh1QVl2cllsbklIMmdHTkIyQkJWR2swaUtUX2tBMS1udHdfYmZQUUJZRGgwUEp4VEVybUJOdUlxSWFEZWRzb011NzktLWhrcDIxckxYdTlNdGFsaXZIVlphT1NsUnJQYVotbUwtYnZNNG1qQzhycC1nNHdUUHF3WGNvSWRDZzFtR1p1QUM3SWpNeE1fU01YQUFaV2RRcVhjN3Nx0gHKAUFVX3lxTFAyMW9iSUt1aklmSWp4ZnBhTmFzT0hYWWZRcFdGWG1BakVqaElyNFdYNHNMaW83dDN5ZlZick1qMzNxYk5zX1FiV1VqWDZEaTU2bTNfTWVnd3FLM2F2MnM2MFFfVzRBWV9PcDN0MUZOaWdUc05WVGRWZUY2Rk1lN0ZOYWg2MHliRDFxV19SVURpZUNlVG9ra05PTmZ4UVd6NkwzWHA0aUV3WE0tekd4a3pRTENVU0xnRU82U0xUbXFKR3JwaEJPX19nc0E?oc=5\" target=\"_blank\">Himachal Pradesh cabinet approves township near Chandigarh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Realty</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbG9sMUN2RDdTSG1yamk4czlhcmN5eEViOXZfMlR4N3lDTlh1QVl2cllsbklIMmdHTkIyQkJWR2swaUtUX2tBMS1udHdfYmZQUUJZRGgwUEp4VEVybUJOdUlxSWFEZWRzb011NzktLWhrcDIxckxYdTlNdGFsaXZIVlphT1NsUnJQYVotbUwtYnZNNG1qQzhycC1nNHdUUHF3WGNvSWRDZzFtR1p1QUM3SWpNeE1fU01YQUFaV2RRcVhjN3Nx0gHKAUFVX3lxTFAyMW9iSUt1aklmSWp4ZnBhTmFzT0hYWWZRcFdGWG1BakVqaElyNFdYNHNMaW83dDN5ZlZick1qMzNxYk5zX1FiV1VqWDZEaTU2bTNfTWVnd3FLM2F2MnM2MFFfVzRBWV9PcDN0MUZOaWdUc05WVGRWZUY2Rk1lN0ZOYWg2MHliRDFxV19SVURpZUNlVG9ra05PTmZ4UVd6NkwzWHA0aUV3WE0tekd4a3pRTENVU0xnRU82U0xUbXFKR3JwaEJPX19nc0E?oc=5",
+   "source_name": "ET Realty",
+   "source_domain": "realty.economictimes.indiatimes.com",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Department of Expenditure, Ministry of Finance, concludes Chintan Shivir 2025 held in Rajasthan on 14th & 15th November, 2025",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE16bGZLeHFRYV8xYUdXSDhMaFdSWXMzZUxEWHJyZFZmTHhqd1owSHM3WnhveG1fSVZKREotbnE2SXV3emJUSFRjMHk1SW5faEN5cGhWZk1XY0lNUnh6VHc5dUhKLVg4eURr?oc=5\" target=\"_blank\">Department of Expenditure, Ministry of Finance, concludes Chintan Shivir 2025 held in Rajasthan on 14th & 15th November, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16bGZLeHFRYV8xYUdXSDhMaFdSWXMzZUxEWHJyZFZmTHhqd1owSHM3WnhveG1fSVZKREotbnE2SXV3emJUSFRjMHk1SW5faEN5cGhWZk1XY0lNUnh6VHc5dUhKLVg4eURr?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 15 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "Himachal Pradesh Government Transfers 12 IPS Officers; Gaurav Singh Appointed SP Shimla",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUpSaDNzdGtPYU9DZThiSXI0VXQzRVROTV9tTl9vODdqQlNDNHctcm1ELVpvSXVYQ1pkb1Z2NmQxd2NNYlBCN05IczZyWHZhX2FnRnJSZE44V0lVWTVnOEVySDlValctS0JoWWZHY3BQdlU1NHg4THdGUmI4QUhsdkZXZTV6T1ViTkpKVFRpeGxYTVlYMllGUGRhQjAyd0RBdEdHV1ROTG5jS2laZ21yWVpUTElrTTF1WWJxdHBVQkdrdw?oc=5\" target=\"_blank\">Himachal Pradesh Government Transfers 12 IPS Officers; Gaurav Singh Appointed SP Shimla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUpSaDNzdGtPYU9DZThiSXI0VXQzRVROTV9tTl9vODdqQlNDNHctcm1ELVpvSXVYQ1pkb1Z2NmQxd2NNYlBCN05IczZyWHZhX2FnRnJSZE44V0lVWTVnOEVySDlValctS0JoWWZHY3BQdlU1NHg4THdGUmI4QUhsdkZXZTV6T1ViTkpKVFRpeGxYTVlYMllGUGRhQjAyd0RBdEdHV1ROTG5jS2laZ21yWVpUTElrTTF1WWJxdHBVQkdrdw?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Fri, 06 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "President Murmu announces ‘Skill the Nation Challenge’ to Boost AI Awareness and Future-Ready Learning; Jayant Chaudhary nominates three others after completing his SOAR AI Module",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JemV2a2Y5NnhRS2ZqeG1sd0preUQ5cUVYeHRzMm5BNkRZaERJc1lMcHNRcmpteWlmTDZraWRKaUtDVnAzX0VLYXZUXzNsU2dpWDRxd3ZJeWxlZTQ3bkxzQWRBZlowSjNJ?oc=5\" target=\"_blank\">President Murmu announces ‘Skill the Nation Challenge’ to Boost AI Awareness and Future-Ready Learning; Jayant Chaudhary nominates three others after completing his SOAR AI Module</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JemV2a2Y5NnhRS2ZqeG1sd0preUQ5cUVYeHRzMm5BNkRZaERJc1lMcHNRcmpteWlmTDZraWRKaUtDVnAzX0VLYXZUXzNsU2dpWDRxd3ZJeWxlZTQ3bkxzQWRBZlowSjNJ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Himachal Pradesh",
+   "title": "AI based document verification system being integrated into Him Seva Portal: Himachal CM | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxObGVUQ2lnT3RlTWNTSm8xWFZTV3IteWxPMDVQSmtHZXh1VFM5ck9NSUo4OG9fdDdoVVROeDU5UWFJYk84UmgwX3gzWGVxTG1obzN4OGRfQWNsakRhRmkySHE0R19WWS1uQWliVjdEU0dWLXlRdG1TSWhKU1hrendMS3dHd0NVcG9kR0FZSDBYQzJndlF6UkFuZDJJTTZhWXY0Q3lHNXBReGhzN2pUV0pBYWxHUWEtQmZuMkhKc25ETDhkVkZzWVBhc0lqNExoUXV1ZXd1ODNKWFA0U0hWRUdqZDNMbGNVMjJqR2lENktwS1RGQXdK0gH6AUFVX3lxTE5DQkVNYjJ2NzJIMUpIRlNKSXdiY09WekxCYkQ0ZkkxWndfaHNERVZpM1VMTC1yem03bVByNGFRU3FEbnJWVzZyTU0wY3c2VmpKTlFPWHVRSjBPQUFoY1A2OHZidndFT1dtZWNiMUd1akhBd1pNZHotVHdfdWNuRV90R2twVFpUWjZZT0R5TUx2ZzF4WlN0NjVjRkxUZ21LV195eF9GVXJvODRwN2M5ZEpNVFpjSXBjWVdSUjdKYnMyQlNBcXo1YVdNZXduZlByc2ZuYmVUcUh2bGdqNnNsVUVSMjFXbTdzSGxmX2NZcjh2bWdILVFkczhtM2c?oc=5\" target=\"_blank\">AI based document verification system being integrated into Him Seva Portal: Himachal CM | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObGVUQ2lnT3RlTWNTSm8xWFZTV3IteWxPMDVQSmtHZXh1VFM5ck9NSUo4OG9fdDdoVVROeDU5UWFJYk84UmgwX3gzWGVxTG1obzN4OGRfQWNsakRhRmkySHE0R19WWS1uQWliVjdEU0dWLXlRdG1TSWhKU1hrendMS3dHd0NVcG9kR0FZSDBYQzJndlF6UkFuZDJJTTZhWXY0Q3lHNXBReGhzN2pUV0pBYWxHUWEtQmZuMkhKc25ETDhkVkZzWVBhc0lqNExoUXV1ZXd1ODNKWFA0U0hWRUdqZDNMbGNVMjJqR2lENktwS1RGQXdK0gH6AUFVX3lxTE5DQkVNYjJ2NzJIMUpIRlNKSXdiY09WekxCYkQ0ZkkxWndfaHNERVZpM1VMTC1yem03bVByNGFRU3FEbnJWVzZyTU0wY3c2VmpKTlFPWHVRSjBPQUFoY1A2OHZidndFT1dtZWNiMUd1akhBd1pNZHotVHdfdWNuRV90R2twVFpUWjZZT0R5TUx2ZzF4WlN0NjVjRkxUZ21LV195eF9GVXJvODRwN2M5ZEpNVFpjSXBjWVdSUjdKYnMyQlNBcXo1YVdNZXduZlByc2ZuYmVUcUh2bGdqNnNsVUVSMjFXbTdzSGxmX2NZcjh2bWdILVFkczhtM2c?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Wed, 07 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:31+00:00"
+  }
+ ]
+}

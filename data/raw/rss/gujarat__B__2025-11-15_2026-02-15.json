@@ -1,0 +1,208 @@
+{
+ "region": "Gujarat",
+ "group": "B",
+ "query": "(Gujarat OR Gandhinagar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Gujarat+OR+Gandhinagar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:06+00:00",
+ "item_count": 18,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat AI Stack launched for faster, citizen-centric governance | News Clip",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE9qQlRRenlFcHdsNWpORENyM3luYzdfeDFDdzg5TkR6RDRLcDBhdm5RSWZsR00tT2t3VUVIdEsySlU0MUVVWEVIbk9TUktsNUZScE5RVlVEN09WeXNWWGJISU5mWER0cXJ6MGdOSDI3WVNBRlBTQWRmamxSSm9oWThUcklyTGkzakhfdVplT3B1bDg?oc=5\" target=\"_blank\">Gujarat AI Stack launched for faster, citizen-centric governance | News Clip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMO Gujarat</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE9qQlRRenlFcHdsNWpORENyM3luYzdfeDFDdzg5TkR6RDRLcDBhdm5RSWZsR00tT2t3VUVIdEsySlU0MUVVWEVIbk9TUktsNUZScE5RVlVEN09WeXNWWGJISU5mWER0cXJ6MGdOSDI3WVNBRlBTQWRmamxSSm9oWThUcklyTGkzakhfdVplT3B1bDg?oc=5",
+   "source_name": "CMO Gujarat",
+   "source_domain": "cmogujarat.gov.in",
+   "published_raw": "Fri, 12 Dec 2025 06:26:33 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "What happens when pharma, government, and AI walk into the same room? Gujarat just approved a bold ₹300 Cr move in GIFT City—but the real story isn’t the money, the location, or even the AI buzzwords. It’s who is backing this project and why that change",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjg3eFlPSVc0MlZUQ2phd2MtTGY0S1luTFlkTk1hTFY1SExCWU1ZRUNyV1VkcFVSMFdQbzZYelpyR0Z6YS1TcWxzWi1jUDVTOThFeGFkbWZ5bDQtd0d6WE1TVHZsRWk3TTdJYTktanZzNlpXOExmb1YzMkM4MHZ2U2RyMDF4MURlMUJiaVNFcl9aQ2lJWThXOFJoNDk4UjFmVXVjZ3VOUENRRTdmdzBsZE43Wjc?oc=5\" target=\"_blank\">What happens when pharma, government, and AI walk into the same room? Gujarat just approved a bold ₹300 Cr move in GIFT City—but the real story isn’t the money, the location, or even the AI buzzwords. It’s who is backing this project and why that change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjg3eFlPSVc0MlZUQ2phd2MtTGY0S1luTFlkTk1hTFY1SExCWU1ZRUNyV1VkcFVSMFdQbzZYelpyR0Z6YS1TcWxzWi1jUDVTOThFeGFkbWZ5bDQtd0d6WE1TVHZsRWk3TTdJYTktanZzNlpXOExmb1YzMkM4MHZ2U2RyMDF4MURlMUJiaVNFcl9aQ2lJWThXOFJoNDk4UjFmVXVjZ3VOUENRRTdmdzBsZE43Wjc?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Mon, 05 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "IIT Gandhinagar launches ‘AI Resilience and Command’ Centre for data-driven climate-risk management",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA0UkxJZlVOR1BuS1VGNVdOVnVKWXpfSDJ0bU1MSGZDdzJreEJnRlJJaUVRMV9NUWJlWHRiOXA1LVdqN1J2ci01ajlFYW5XS09TaU9CdzJ6WWJWbGh5eDY1Z2drU3kzeFY1LUktblRMbVBkbGJRQjd0RHpn?oc=5\" target=\"_blank\">IIT Gandhinagar launches ‘AI Resilience and Command’ Centre for data-driven climate-risk management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0UkxJZlVOR1BuS1VGNVdOVnVKWXpfSDJ0bU1MSGZDdzJreEJnRlJJaUVRMV9NUWJlWHRiOXA1LVdqN1J2ci01ajlFYW5XS09TaU9CdzJ6WWJWbGh5eDY1Z2drU3kzeFY1LUktblRMbVBkbGJRQjd0RHpn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "The Gujarat AI stack: Launching a new era of transparent and accountable state-led digital governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSm1rOXE4blJqZVdyTWNDNkNfd01PRDdIODR4LWl6c0QtRDdIRzIzMndvRF83TndBbVNpdlBVeGNDaGt5RHV5a0padVlpN0NKSEVHWkVKOWUxa3ZzcGs3RDJONVZ3OE1GMnZTWGU2RFJkaDRFaVB1Z1BzbDlBMC1uN2tib3RPWGpSTnNjNnlscFNiWl9lM1J2ZEptQS1IMldjdjBmd2w1MFZjbDFyNTZoMjZoQTgyZllabjBDTUl5Y1ZtZUs3LWU5Njk5ZmExbTJ2LWpB0gHXAUFVX3lxTE5mUE5FVnJfQjE1Qng5dGQ2bnRDT2NERDI0UzhFX0FMd1lvWDhaaTl0MmRfaFI5el9LMlN0cUZfQ3dKTEhKbWtWQmM2ZDR5TVdCV2VaSDFwVGhjUGhPNnZ3ZjZrUkFsM2d5ZFJxZnoyOUYySlYzZ2hoRnJ0OEJTY0lKNzVTMDlDT2t6VklWcXM4UG5VZ2VTejN5T2UydmNmWUt1blptaUNSZDRQa2JQNk0tSDYtY0IzOFY3Nm5sN2xrMFlPaXk3NW5nY0ZnS051R25abjUzbktZ?oc=5\" target=\"_blank\">The Gujarat AI stack: Launching a new era of transparent and accountable state-led digital governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSm1rOXE4blJqZVdyTWNDNkNfd01PRDdIODR4LWl6c0QtRDdIRzIzMndvRF83TndBbVNpdlBVeGNDaGt5RHV5a0padVlpN0NKSEVHWkVKOWUxa3ZzcGs3RDJONVZ3OE1GMnZTWGU2RFJkaDRFaVB1Z1BzbDlBMC1uN2tib3RPWGpSTnNjNnlscFNiWl9lM1J2ZEptQS1IMldjdjBmd2w1MFZjbDFyNTZoMjZoQTgyZllabjBDTUl5Y1ZtZUs3LWU5Njk5ZmExbTJ2LWpB0gHXAUFVX3lxTE5mUE5FVnJfQjE1Qng5dGQ2bnRDT2NERDI0UzhFX0FMd1lvWDhaaTl0MmRfaFI5el9LMlN0cUZfQ3dKTEhKbWtWQmM2ZDR5TVdCV2VaSDFwVGhjUGhPNnZ3ZjZrUkFsM2d5ZFJxZnoyOUYySlYzZ2hoRnJ0OEJTY0lKNzVTMDlDT2t6VklWcXM4UG5VZ2VTejN5T2UydmNmWUt1blptaUNSZDRQa2JQNk0tSDYtY0IzOFY3Nm5sN2xrMFlPaXk3NW5nY0ZnS051R25abjUzbktZ?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat approves Indian AI Research Organisation at GIFT City",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGVJYTlROFZfSU12ejN2X09UNlNZMkpzTFNmU2dNdnVjU2hNRmFlQzBMTnMwOUJPTVVFaGxpRUpxRWkxRm8wQjhtZTZkYVpjeXVPU3ZDSlFDYkc0UENET3dEWWdfc2IwdnlJbjZqU1dwQUF0SG1adFFQZ0UzNVF3WmhwNEp0Skh6NkhaUWpiQXhQNThwMXd5QlN1ODhsZEJKSVRsVGNPZHZodGZULXl2aTZzcmw5aHg1MWloTG12dGk4MUItbWVj0gHOAUFVX3lxTE9Nek4tVnJpUzBCbS1zcVJGMVR1aXc0RkplR1VrUmlkT2FJQTJqMi1PSmtVcFJWY2hKSTBmb0RXcjBCc1didFFMNEZDTzY2Y3FvMVZhRjhNS2hiMjdzYlRsWnNWVi1VenR4cFl1N21nS05HN3FqdnBjbFJVTnZYa0tjQ2thOElVUC1rVlBvNE82S1NCZXFENHhjdFNqdG5tYVB5RjVrcGF3LUxvUWk5TmI0OU5hblp6cVJkbTVhSEJFY2IyY3p3ZEFWRW9kVmpn?oc=5\" target=\"_blank\">Gujarat approves Indian AI Research Organisation at GIFT City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGVJYTlROFZfSU12ejN2X09UNlNZMkpzTFNmU2dNdnVjU2hNRmFlQzBMTnMwOUJPTVVFaGxpRUpxRWkxRm8wQjhtZTZkYVpjeXVPU3ZDSlFDYkc0UENET3dEWWdfc2IwdnlJbjZqU1dwQUF0SG1adFFQZ0UzNVF3WmhwNEp0Skh6NkhaUWpiQXhQNThwMXd5QlN1ODhsZEJKSVRsVGNPZHZodGZULXl2aTZzcmw5aHg1MWloTG12dGk4MUItbWVj0gHOAUFVX3lxTE9Nek4tVnJpUzBCbS1zcVJGMVR1aXc0RkplR1VrUmlkT2FJQTJqMi1PSmtVcFJWY2hKSTBmb0RXcjBCc1didFFMNEZDTzY2Y3FvMVZhRjhNS2hiMjdzYlRsWnNWVi1VenR4cFl1N21nS05HN3FqdnBjbFJVTnZYa0tjQ2thOElVUC1rVlBvNE82S1NCZXFENHhjdFNqdG5tYVB5RjVrcGF3LUxvUWk5TmI0OU5hblp6cVJkbTVhSEJFY2IyY3p3ZEFWRW9kVmpn?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Six government medical colleges in Gujarat: Kanimozhi’s claim correct, AI ‘fact check’ shared by BJP false",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjFaZ2MxUWdVQkluRzgxcHNGWjAzdnFaZXhJVGRuOVFoSndUWFNMdnZ0VWFOcUNkMXlISmdnMElINHU5OVZMZ2Zzdy1BN1U4SWNFbkZYX1FpTHJiUVNybTdKdTZhTDFwdFR0YnpvU1Y0dmZZcFRsbG4xakxIVGpYSVg4Z0dzb0hPdFFtNi1iSGRtb0M2eURTQWtPQ2RwZWx2emFJcWhYRXJkcEVmWTZWZU1HWk5PSFV5TTkxb196UHQ2T2c?oc=5\" target=\"_blank\">Six government medical colleges in Gujarat: Kanimozhi’s claim correct, AI ‘fact check’ shared by BJP false</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alt News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjFaZ2MxUWdVQkluRzgxcHNGWjAzdnFaZXhJVGRuOVFoSndUWFNMdnZ0VWFOcUNkMXlISmdnMElINHU5OVZMZ2Zzdy1BN1U4SWNFbkZYX1FpTHJiUVNybTdKdTZhTDFwdFR0YnpvU1Y0dmZZcFRsbG4xakxIVGpYSVg4Z0dzb0hPdFFtNi1iSGRtb0M2eURTQWtPQ2RwZWx2emFJcWhYRXJkcEVmWTZWZU1HWk5PSFV5TTkxb196UHQ2T2c?oc=5",
+   "source_name": "Alt News",
+   "source_domain": "altnews.in",
+   "published_raw": "Fri, 30 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "‘Good Governance Day’ celebrations: Premier institutes to help Gujarat govt in AI, cybersecurity, renewable energy, skilling",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVJXVTRuMUljcEo4SzgwNVp2QjYzYlJkbFY1X1FnYTdqQ0hGUjRYY3NiNnJXc01vT0Y0NHd0WC1yaVMyQ2ZJNDQwdzRtd2JhUXpaMzk2UmVJaXRMeEc5T2dOMUdZbUNYWUsycXlvT3VvdGVIOU81aG9aTmdNeGE3OXRJc3FoX2RQWnhiSXpQbFFtWGh5a3V6dFE1cl9qX0pUWHNxQno1UWVHeXhWODB4TjZKWXRhN2RNdF9SQ1JBMjNzSkVOZlphZi03cllQbHRCa0VzcjdINnFBUEJpVUtMYVVaVmHSAesBQVVfeXFMTkVXR0RvdWRnTndjTF9LYlljaG54NGlFS0hEOXlWZm9PaG1jOTZyUnczclFSemJ2elI4aDA1RjI1Uk9iWHhyUW91eUdTakVKQW1sXzFpbFhIUkowaWI3M2FQOE9GbTlpcEdva1Rxd19CdUJCeVJRZGwwenpPNEZhSnpGalI1UlpJRzNqd0E4UFhadUFILXIzZ1piYmhWQ1VueWUwb0RfaC1JdHg3QXJheWNIVEJiN1F2Ml9QOXhoUDRJNS0wc1poMXB4MHUta1NLNUtCbnZrdFU5b2tBQnkwUmxaTk1pTWhfQk4zaw?oc=5\" target=\"_blank\">‘Good Governance Day’ celebrations: Premier institutes to help Gujarat govt in AI, cybersecurity, renewable energy, skilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVJXVTRuMUljcEo4SzgwNVp2QjYzYlJkbFY1X1FnYTdqQ0hGUjRYY3NiNnJXc01vT0Y0NHd0WC1yaVMyQ2ZJNDQwdzRtd2JhUXpaMzk2UmVJaXRMeEc5T2dOMUdZbUNYWUsycXlvT3VvdGVIOU81aG9aTmdNeGE3OXRJc3FoX2RQWnhiSXpQbFFtWGh5a3V6dFE1cl9qX0pUWHNxQno1UWVHeXhWODB4TjZKWXRhN2RNdF9SQ1JBMjNzSkVOZlphZi03cllQbHRCa0VzcjdINnFBUEJpVUtMYVVaVmHSAesBQVVfeXFMTkVXR0RvdWRnTndjTF9LYlljaG54NGlFS0hEOXlWZm9PaG1jOTZyUnczclFSemJ2elI4aDA1RjI1Uk9iWHhyUW91eUdTakVKQW1sXzFpbFhIUkowaWI3M2FQOE9GbTlpcEdva1Rxd19CdUJCeVJRZGwwenpPNEZhSnpGalI1UlpJRzNqd0E4UFhadUFILXIzZ1piYmhWQ1VueWUwb0RfaC1JdHg3QXJheWNIVEJiN1F2Ml9QOXhoUDRJNS0wc1poMXB4MHUta1NLNUtCbnZrdFU5b2tBQnkwUmxaTk1pTWhfQk4zaw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 26 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Coming up: Next to GIFT City, a Gujarat IT-AI City",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGRKalZmR1ItM29vb0g2SFFBeG1PdFh0Ym9IZE9VakNpelJpazR3ZVljMV94VXVwaWJTNWk5Z184b3JSMnpyMG9VR3JKajA2b0tJVy1NalZhQ05vZXJTaGJGQl9nT0UtWFNuSDVSZjlSUUduMTZrRFQ2LWZMQ1QwYUliSXlfSEsxckJ2TkFBeU4ybDRPczIwUDhmUk1lbE44OTJzakNnYW40WGFTZmVPZ21rc3JXdjRRRXhhdEhyeFdmYlHSAcgBQVVfeXFMUElxSkZLZzRMRzJLbUY3YllzVG10ZlBRanJMalZsLUVpZWU2ZlBZMlF4TUJSUjJQb3QwQ2EwdC1jSU5ybF9jZ2Q4SXk1OEphSDRENnM2OVdick43a1NnZm1yV3VpQV9BWmNRaTFmMk1kd05WTElFNF9TcHhCVzMyUkVsbURwMW9oRGU4Y0swTFNlRTN4dWhsRVdkZ1drUEtNc0JwX3V1ZFFnMU1TUlhXX2VfOVY2ZF9vV1FRd0RVSnVGSWdNZlUzZHQ?oc=5\" target=\"_blank\">Coming up: Next to GIFT City, a Gujarat IT-AI City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGRKalZmR1ItM29vb0g2SFFBeG1PdFh0Ym9IZE9VakNpelJpazR3ZVljMV94VXVwaWJTNWk5Z184b3JSMnpyMG9VR3JKajA2b0tJVy1NalZhQ05vZXJTaGJGQl9nT0UtWFNuSDVSZjlSUUduMTZrRFQ2LWZMQ1QwYUliSXlfSEsxckJ2TkFBeU4ybDRPczIwUDhmUk1lbE44OTJzakNnYW40WGFTZmVPZ21rc3JXdjRRRXhhdEhyeFdmYlHSAcgBQVVfeXFMUElxSkZLZzRMRzJLbUY3YllzVG10ZlBRanJMalZsLUVpZWU2ZlBZMlF4TUJSUjJQb3QwQ2EwdC1jSU5ybF9jZ2Q4SXk1OEphSDRENnM2OVdick43a1NnZm1yV3VpQV9BWmNRaTFmMk1kd05WTElFNF9TcHhCVzMyUkVsbURwMW9oRGU4Y0swTFNlRTN4dWhsRVdkZ1drUEtNc0JwX3V1ZFFnMU1TUlhXX2VfOVY2ZF9vV1FRd0RVSnVGSWdNZlUzZHQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Government to Setup Indian AI Research Organisation (IAIRO) at GIFT City | news clip",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEQ3ZXRUNTZZdjlfckwycTItQ3hXYlJNY3pZM1FEclFLOE1VYmVNMVp2dEtTS0lPWS0yMEo3MmIzOXRpMHdhQ0Y3dkp0NWoxX1BEM0s2cXJOTWJDY21rTXdTVW1IUHRSZXUzNTRMa3laMWkxYi03Q2pJSXFKYUZwUWVWQXZieGRMbEwyLWRKZjBoR29QWEVCRXBB?oc=5\" target=\"_blank\">Government to Setup Indian AI Research Organisation (IAIRO) at GIFT City | news clip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMO Gujarat</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEQ3ZXRUNTZZdjlfckwycTItQ3hXYlJNY3pZM1FEclFLOE1VYmVNMVp2dEtTS0lPWS0yMEo3MmIzOXRpMHdhQ0Y3dkp0NWoxX1BEM0s2cXJOTWJDY21rTXdTVW1IUHRSZXUzNTRMa3laMWkxYi03Q2pJSXFKYUZwUWVWQXZieGRMbEwyLWRKZjBoR29QWEVCRXBB?oc=5",
+   "source_name": "CMO Gujarat",
+   "source_domain": "cmogujarat.gov.in",
+   "published_raw": "Thu, 01 Jan 2026 06:44:18 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "AI, IT and yes, booze too: Gujarat’s big GIFT City push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWpYWWkteThjV20xWXlYdjNDUlllQ0FBeFMzU1JQalpWODBXQWFxN0ZITUh6OFJpS05pSkhUdjhMa1ljZ0RqTVk1bjU2aVAxa2lyWHNVeXlFNmpqV0VoQ3Z0Z21lN3ZncjBsX0xhY2RoVFdEa0JZc293V1VBOVlGb0ZJZXE2NHg1dlFzTF83LWl5X1hfeV9iOVdQWmhQTy1GUnV6cWtlTllPckFJRDFhaEpZQ1hJYjgwWXI1M0VHcjdTTnl5ZWhB0gHMAUFVX3lxTE9PWXdUNGlqM19OenE0NWxBb1JJT1dZTW9kWmNNdWZhTjI4TnRKei1rSldWTF82UEx3aE5YQjFrNDYxclF5V1NncjJwRkdpSkUyTl9vU0RpLXV5UW9jRHowNlc1TkVFa2YwR01ZVEUzVmMtelVqVnlxVnUwWWRoS3pfVnBraktRVHByQlo0Tk1mMEVCT3IzRG5rXzRvX3JPN0xlV0FtVzBkdmtnSmVsT2xpUzRPZ2E5NDFqVi1SS2NHdEFCQWoxZUgyOFhXUg?oc=5\" target=\"_blank\">AI, IT and yes, booze too: Gujarat’s big GIFT City push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWpYWWkteThjV20xWXlYdjNDUlllQ0FBeFMzU1JQalpWODBXQWFxN0ZITUh6OFJpS05pSkhUdjhMa1ljZ0RqTVk1bjU2aVAxa2lyWHNVeXlFNmpqV0VoQ3Z0Z21lN3ZncjBsX0xhY2RoVFdEa0JZc293V1VBOVlGb0ZJZXE2NHg1dlFzTF83LWl5X1hfeV9iOVdQWmhQTy1GUnV6cWtlTllPckFJRDFhaEpZQ1hJYjgwWXI1M0VHcjdTTnl5ZWhB0gHMAUFVX3lxTE9PWXdUNGlqM19OenE0NWxBb1JJT1dZTW9kWmNNdWZhTjI4TnRKei1rSldWTF82UEx3aE5YQjFrNDYxclF5V1NncjJwRkdpSkUyTl9vU0RpLXV5UW9jRHowNlc1TkVFa2YwR01ZVEUzVmMtelVqVnlxVnUwWWRoS3pfVnBraktRVHByQlo0Tk1mMEVCT3IzRG5rXzRvX3JPN0xlV0FtVzBkdmtnSmVsT2xpUzRPZ2E5NDFqVi1SS2NHdEFCQWoxZUgyOFhXUg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Mukesh Ambani’s big announcements: Jio to launch its AI platform, Rs 7 lakh crore investment, India's largest",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxPakhLOUZZOXFoc0Q0cUlERWFIam05cVZKWUZ0Q0paN1RDTENFTUdoYW5NMWd6YVlBM1FERVJIU09wd1pGdjVnejBveTZucXBvdlc4QlVtN2FjYS1Bcy04VHFpNnJnTUVfVjh1bW1PZ080b3lXQ0lhYWVKNTZqMFRnRHZzM3A4dGRRSjBvYkprNkQzRjdfZnBjeHBOaENjUU1BbDhpanBGSjluNVU3NkNWelBYLXNRYm9MVHpFZjBTWkdnX3VnRGFqQ0JvaWxhNXE0R2JKWkFZamlDR040bDQtQ1dlQTV1SW5mcU5jWHd0MkFIeUpNdUItZzduN3NoZDZzRnYxa3VvekFBYk4wbkhiUjJMYjFzUndVT1NnMVhjX1JwSUVBY3ktc051emRXMmtSNDlpUk5tUjVTNmNsSVZCbUdVUEF3T25MQ0RzTUN0UlRCQ1XSAdgCQVVfeXFMT0R6cjc5QzVTMGNScml0QlNFSzVrSF84X2NUdXY1dVJnLXdfY3RjUjBKU2FsSzViNE1VbFk1bVlvdlR5c3MzNDlZMEJLOXpIMkNraDBrMVNsS0NjZVNhMDVxMXVVVGhXYXBvY19ZUVktdGRQZEdrLXVNaWZpcXpVRHZSZ1J1VERITTdMcEJSLXIwMDI4UllqRlZheUtHNS1ycGVqc0l1NlRIVzVfeWxsNzN4WUVtYlNxTVJMa1VpY3NlVFBKb3VPSGZfRFVQakJzazc2aFhpV0JYZHNUUWJTekFZcFdOQmdJNTlZcThLRDhrbS10cVBYVXpsLUxDNllCVXBmVnpVc1FiVUphVmN5aTI1cUFTMHduN2ZuNjdNSExKQlJZa3NiblFpYW9Xc296RS1pTlJBSncweXdIMGhWN3RiVEVqTy16M2h6dXlOYTh4S19Pbmgtakc?oc=5\" target=\"_blank\">Mukesh Ambani’s big announcements: Jio to launch its AI platform, Rs 7 lakh crore investment, India's largest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPakhLOUZZOXFoc0Q0cUlERWFIam05cVZKWUZ0Q0paN1RDTENFTUdoYW5NMWd6YVlBM1FERVJIU09wd1pGdjVnejBveTZucXBvdlc4QlVtN2FjYS1Bcy04VHFpNnJnTUVfVjh1bW1PZ080b3lXQ0lhYWVKNTZqMFRnRHZzM3A4dGRRSjBvYkprNkQzRjdfZnBjeHBOaENjUU1BbDhpanBGSjluNVU3NkNWelBYLXNRYm9MVHpFZjBTWkdnX3VnRGFqQ0JvaWxhNXE0R2JKWkFZamlDR040bDQtQ1dlQTV1SW5mcU5jWHd0MkFIeUpNdUItZzduN3NoZDZzRnYxa3VvekFBYk4wbkhiUjJMYjFzUndVT1NnMVhjX1JwSUVBY3ktc051emRXMmtSNDlpUk5tUjVTNmNsSVZCbUdVUEF3T25MQ0RzTUN0UlRCQ1XSAdgCQVVfeXFMT0R6cjc5QzVTMGNScml0QlNFSzVrSF84X2NUdXY1dVJnLXdfY3RjUjBKU2FsSzViNE1VbFk1bVlvdlR5c3MzNDlZMEJLOXpIMkNraDBrMVNsS0NjZVNhMDVxMXVVVGhXYXBvY19ZUVktdGRQZEdrLXVNaWZpcXpVRHZSZ1J1VERITTdMcEJSLXIwMDI4UllqRlZheUtHNS1ycGVqc0l1NlRIVzVfeWxsNzN4WUVtYlNxTVJMa1VpY3NlVFBKb3VPSGZfRFVQakJzazc2aFhpV0JYZHNUUWJTekFZcFdOQmdJNTlZcThLRDhrbS10cVBYVXpsLUxDNllCVXBmVnpVc1FiVUphVmN5aTI1cUFTMHduN2ZuNjdNSExKQlJZa3NiblFpYW9Xc296RS1pTlJBSncweXdIMGhWN3RiVEVqTy16M2h6dXlOYTh4S19Pbmgtakc?oc=5",
+   "source_name": "India.com",
+   "source_domain": "india.com",
+   "published_raw": "Sun, 11 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat forms IAIRO SPV to run AI Centre of Excellence at GIFT City",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1BqMTVWSkMzWk92aGFBbHpGSWdmUk1JWWg3STRuaUczekF2MjB4N0czWFFId0FXalRUcjd2LXpfWFFaNkFmUWw5YXZSUzNaRjNXd0FNNXpucUZBWTVkMFBqLWt6RHBPRVpHWVB4ZXBQWjZteEUzTFdqQTRPSFQzU1ZscFFRanJMUGUtSlFyUkUyWFVDODkxejdfdmRDTzA2eUdPcUlGbl9Qb2tPZVF5TDgzWWJNRkQzMy05QWJzejRJUS1RaG5icNIBzgFBVV95cUxPVVg2MTRrU003ODRuWDNtaVBMamZPaXNvNUZKTnphdHVEUE1nbGNNdENycUNLUldiTDVNU2xrN0plTjhZQmNmc3o3RVBhLXVHNW52Y3ZYd0dkLW53TG81MUl4OVczZ0NIWmFJajVLejVkQXhhQVpSRnNpazA4eXpEaGo5aHRKRDhiMUc4Zk5nTURZNFRqcFBMa29BaDBzalBVcUMxcDhRUGppc3FvOE1mYU92WFMxS2dmc0ZkYzItQ3FYTVZ0QkFwT3gwSm8tQQ?oc=5\" target=\"_blank\">Gujarat forms IAIRO SPV to run AI Centre of Excellence at GIFT City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1BqMTVWSkMzWk92aGFBbHpGSWdmUk1JWWg3STRuaUczekF2MjB4N0czWFFId0FXalRUcjd2LXpfWFFaNkFmUWw5YXZSUzNaRjNXd0FNNXpucUZBWTVkMFBqLWt6RHBPRVpHWVB4ZXBQWjZteEUzTFdqQTRPSFQzU1ZscFFRanJMUGUtSlFyUkUyWFVDODkxejdfdmRDTzA2eUdPcUlGbl9Qb2tPZVF5TDgzWWJNRkQzMy05QWJzejRJUS1RaG5icNIBzgFBVV95cUxPVVg2MTRrU003ODRuWDNtaVBMamZPaXNvNUZKTnphdHVEUE1nbGNNdENycUNLUldiTDVNU2xrN0plTjhZQmNmc3o3RVBhLXVHNW52Y3ZYd0dkLW53TG81MUl4OVczZ0NIWmFJajVLejVkQXhhQVpSRnNpazA4eXpEaGo5aHRKRDhiMUc4Zk5nTURZNFRqcFBMa29BaDBzalBVcUMxcDhRUGppc3FvOE1mYU92WFMxS2dmc0ZkYzItQ3FYTVZ0QkFwT3gwSm8tQQ?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "AI-led governance gets Gujarat thrust as CM Bhupendra Patel launches tech stack, signs MoUs and sets 2047 ro..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPc0tPeHhzYWVOSXVVZjlocHhvRGtDdTZGNzh4dkM0NzVHSFFmaFNoX1hDVG56ZEpvZXg0YWVqTGJURmFBTjRUYVF5SnhvUlo1ZW9IZVN5TnEzcE84Y2xURWtlY01SUXNjSThLbUJqZ2x4SHlxT09UeXNZbnhyNExfbkdlRUctczVLQ3ZDdk5CT0JJX2ZfRVNiM25na1N3MVJPcE9zVEdBQ0U0cExYYU1WODN2c19RQjJhSHB4OFg3WWhNQ2luNDVHYzZJcWRZYnJUM1J5N2lYVmJWRXVOVVpibFhMUG9GWGlYUEJfaFc3VERoeWcxaHkwSTQ1aG5yd1ZodGRWeXM3UEdUMFdNRWZtM2g1UXZwaTlE0gGcAkFVX3lxTE1KNkFlMG5obXM4NGxhVDZIdkY0a2JpbjZPRkt5TXVUd1pJb3hXaXZSRjZMa0NuRHdRbEZxejFTRHNUeTRVa0k3NFBtWHp5RTZYZEtGb1ZUVGdiX2dLenU4SUxUbzhXdlJDUy05MF82NHZUY1hzbVFYWUpydGFfMlRMRDNiN2xSTVZsV0h1NDJLTDhDUU5IRG5rSDU3Rks2ZGNBVEdoeTlEODdpWXM2TmhSN1ZueDJlbkpKek5UNTNDU2pJY0ktOXozc1B5Y0EtVFRCaWNScUNYRlZSUlFKcG4yODVpMTk4eGo4Zm9VX0hSTmZBY3B5ZWdZZjhZSkZXNVJtZlRkeHFxVk9vR3RvZG9GbXUwVzhHbDVtQ09U?oc=5\" target=\"_blank\">AI-led governance gets Gujarat thrust as CM Bhupendra Patel launches tech stack, signs MoUs and sets 2047 ro..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPc0tPeHhzYWVOSXVVZjlocHhvRGtDdTZGNzh4dkM0NzVHSFFmaFNoX1hDVG56ZEpvZXg0YWVqTGJURmFBTjRUYVF5SnhvUlo1ZW9IZVN5TnEzcE84Y2xURWtlY01SUXNjSThLbUJqZ2x4SHlxT09UeXNZbnhyNExfbkdlRUctczVLQ3ZDdk5CT0JJX2ZfRVNiM25na1N3MVJPcE9zVEdBQ0U0cExYYU1WODN2c19RQjJhSHB4OFg3WWhNQ2luNDVHYzZJcWRZYnJUM1J5N2lYVmJWRXVOVVpibFhMUG9GWGlYUEJfaFc3VERoeWcxaHkwSTQ1aG5yd1ZodGRWeXM3UEdUMFdNRWZtM2g1UXZwaTlE0gGcAkFVX3lxTE1KNkFlMG5obXM4NGxhVDZIdkY0a2JpbjZPRkt5TXVUd1pJb3hXaXZSRjZMa0NuRHdRbEZxejFTRHNUeTRVa0k3NFBtWHp5RTZYZEtGb1ZUVGdiX2dLenU4SUxUbzhXdlJDUy05MF82NHZUY1hzbVFYWUpydGFfMlRMRDNiN2xSTVZsV0h1NDJLTDhDUU5IRG5rSDU3Rks2ZGNBVEdoeTlEODdpWXM2TmhSN1ZueDJlbkpKek5UNTNDU2pJY0ktOXozc1B5Y0EtVFRCaWNScUNYRlZSUlFKcG4yODVpMTk4eGo4Zm9VX0hSTmZBY3B5ZWdZZjhZSkZXNVJtZlRkeHFxVk9vR3RvZG9GbXUwVzhHbDVtQ09U?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Sat, 13 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Gujarat to set up Indian AI Research Organisation at GIFT City",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa001a0hnMVdFYU9CeUduN1BzazFvVTA5b1doeTY2YTZLWmdFaVFzS3dlRVYwRGF2TTcxR25kYTl2cHFmVnpLQUlBVFRqTmx1bFNiUkNnZHhYVHFrWWtyaW52dURFU01wRmljU2hYUV96Sll0dlZqMGNPTEpDRzZMa2lpaC1FZEJLaVZtQXVhZGotUFZmWVNVelEwblJNLU45Vl9yaHVkVlFSdDNPaFF1eGhpbGgyaTdjeU5VVGtPa1VoV0dya185RHFKQktuT0lmNXl0enRubkJIdHhXaVpzQzd0S1JpQzZTeGN6VlNGWXZfLXfSAfgBQVVfeXFMTnVVbnFWWHlEWW1ScGczQlEwYnBsZ1RqYzB4azg1Q24zZUZESVJTNmgyWFBDc3hOU1JDNnVwdV9PaWxlTGdXV0N2enQyYk9HWlRxOXhscEIyLXVHRS1yTUg0VTd3Z1VIZnZPZlFQSzVMQmVLTUdKcWVWU2FLLUJCSWdhVGdfNnQweTdCeldRTG5QdnVpWDcyRDJqMzY4U2N3MmpEYUdhX081RHN5dXdqcU93TVcyRHdrRi1icmszYW56OHNKU2hkVHNKX3h5UDBpVUxwdm9ZS0M2STJQcFgxa21wSmNxRE5BeDItd2lHOUJjRFFXMDB4Q2Q?oc=5\" target=\"_blank\">Gujarat to set up Indian AI Research Organisation at GIFT City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa001a0hnMVdFYU9CeUduN1BzazFvVTA5b1doeTY2YTZLWmdFaVFzS3dlRVYwRGF2TTcxR25kYTl2cHFmVnpLQUlBVFRqTmx1bFNiUkNnZHhYVHFrWWtyaW52dURFU01wRmljU2hYUV96Sll0dlZqMGNPTEpDRzZMa2lpaC1FZEJLaVZtQXVhZGotUFZmWVNVelEwblJNLU45Vl9yaHVkVlFSdDNPaFF1eGhpbGgyaTdjeU5VVGtPa1VoV0dya185RHFKQktuT0lmNXl0enRubkJIdHhXaVpzQzd0S1JpQzZTeGN6VlNGWXZfLXfSAfgBQVVfeXFMTnVVbnFWWHlEWW1ScGczQlEwYnBsZ1RqYzB4azg1Q24zZUZESVJTNmgyWFBDc3hOU1JDNnVwdV9PaWxlTGdXV0N2enQyYk9HWlRxOXhscEIyLXVHRS1yTUg0VTd3Z1VIZnZPZlFQSzVMQmVLTUdKcWVWU2FLLUJCSWdhVGdfNnQweTdCeldRTG5QdnVpWDcyRDJqMzY4U2N3MmpEYUdhX081RHN5dXdqcU93TVcyRHdrRi1icmszYW56OHNKU2hkVHNKX3h5UDBpVUxwdm9ZS0M2STJQcFgxa21wSmNxRE5BeDItd2lHOUJjRFFXMDB4Q2Q?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Jio to launch people-first AI platform, for India and the world: Mukesh Ambani",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNDdjUHlha2xvZXBsXzNabnlXbHdWOEs3Vl9uZWhjblktMGVEUWhtLTUzU1A5Nk03Zkx0bWIydUFEdG4xYzJsZFhvVU1hejVyUGstVnA4LUpuSGVYSC1LNmVNcUJQRDFtMG50aFN4UmpLQVdJZ0pKLWRQYXBCanhnN1dPUzJZQWZvbmZUUkxqd2M4bkg5czdkZlNodnM1OUNPM3NNbU9pX2dNTmkwamVSZXUyU3BsMWZZZEFLd2tTNFVxV0YydHctTUR4ai03aEVWTkgyV3pzMm1CYTNPcGfSAeMBQVVfeXFMTkFWc0JKc1RrRjJpT1dJMGNVSGxtTzgwSXpxNEFvd0RBOTE0Wk1RSjd3TXk5bnBZSUVOS3dYcGo2ZEtuNnh6WDk2dklvdUVUSGJrYm12cHBMeGZ0NmZoVmt6a0FDaDEwMHBkMEJUSlVVZzV2TFJIU2JqQVVWbTFKTUljTU5XQ080bEFEN0tQaUo2bllFY2l6V1R5TWw4bzBBZ0RvZ01ib0U0WS1UaXlVekg2akVya1ZGMHdKbExGUkEtQjJ0czh2bU93SEdvLS05UVJtRjVkYmxVMXd5b0QwRXNOdlU?oc=5\" target=\"_blank\">Jio to launch people-first AI platform, for India and the world: Mukesh Ambani</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Telecom</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNDdjUHlha2xvZXBsXzNabnlXbHdWOEs3Vl9uZWhjblktMGVEUWhtLTUzU1A5Nk03Zkx0bWIydUFEdG4xYzJsZFhvVU1hejVyUGstVnA4LUpuSGVYSC1LNmVNcUJQRDFtMG50aFN4UmpLQVdJZ0pKLWRQYXBCanhnN1dPUzJZQWZvbmZUUkxqd2M4bkg5czdkZlNodnM1OUNPM3NNbU9pX2dNTmkwamVSZXUyU3BsMWZZZEFLd2tTNFVxV0YydHctTUR4ai03aEVWTkgyV3pzMm1CYTNPcGfSAeMBQVVfeXFMTkFWc0JKc1RrRjJpT1dJMGNVSGxtTzgwSXpxNEFvd0RBOTE0Wk1RSjd3TXk5bnBZSUVOS3dYcGo2ZEtuNnh6WDk2dklvdUVUSGJrYm12cHBMeGZ0NmZoVmt6a0FDaDEwMHBkMEJUSlVVZzV2TFJIU2JqQVVWbTFKTUljTU5XQ080bEFEN0tQaUo2bllFY2l6V1R5TWw4bzBBZ0RvZ01ib0U0WS1UaXlVekg2akVya1ZGMHdKbExGUkEtQjJ0czh2bU93SEdvLS05UVJtRjVkYmxVMXd5b0QwRXNOdlU?oc=5",
+   "source_name": "ET Telecom",
+   "source_domain": "telecom.economictimes.indiatimes.com",
+   "published_raw": "Sun, 11 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Mukesh Ambani to launch people-first AI platform for India and the world",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdllHendsQ3g3RmN1Q2hhaW40SVdIQnB1SElYQzVZMFlrTkJkb3RSVEUybVlyd2FKTTB1SXBnQmpGZnkwWDZOLUVhYXp0b1NxRHlndzFYWFJOVHN3TXZuQ1B5cUt1SW1kSmdOZXBKcGtMRktJS2RtM09UX2NxY25RdC1vamt6b0dMcGlxYjg2elRmZGZLbWk3ZTQ2TktZRUdmMmhoVXN5aUhXWW4zLWlDaFpteUdZek92elZUd0xfYkxpV1NkYWt5U2lEeG1RNG9CazBWWldn0gHbAUFVX3lxTFBHeHZPZDJRTVFTakpRTW4ydmZNRl83Rl9SUDBVMkd4MnJXOXdJSjJNcUVtalVNS0d1S1pMYkZQRTFhazI1Ukdqdk1zZlg2LWV0b2x1dU1Vc0JIR1JWZzh3aVJ2LVF0ajc1a1Y0alY0ZHFhRXJUcXZHbElmSTFGRkE0emVfNWxoRVJGcG1ObGVSTWtOd3A1bUtPcWRnY3NxWFF5MXFKQm51VTFyNzBkcGo3a0loV1c0OEc5ZmNxZ2tUY0VoUG1nUEFKdHpkYWdTZXFpakY4eGZYVkJfTQ?oc=5\" target=\"_blank\">Mukesh Ambani to launch people-first AI platform for India and the world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdllHendsQ3g3RmN1Q2hhaW40SVdIQnB1SElYQzVZMFlrTkJkb3RSVEUybVlyd2FKTTB1SXBnQmpGZnkwWDZOLUVhYXp0b1NxRHlndzFYWFJOVHN3TXZuQ1B5cUt1SW1kSmdOZXBKcGtMRktJS2RtM09UX2NxY25RdC1vamt6b0dMcGlxYjg2elRmZGZLbWk3ZTQ2TktZRUdmMmhoVXN5aUhXWW4zLWlDaFpteUdZek92elZUd0xfYkxpV1NkYWt5U2lEeG1RNG9CazBWWldn0gHbAUFVX3lxTFBHeHZPZDJRTVFTakpRTW4ydmZNRl83Rl9SUDBVMkd4MnJXOXdJSjJNcUVtalVNS0d1S1pMYkZQRTFhazI1Ukdqdk1zZlg2LWV0b2x1dU1Vc0JIR1JWZzh3aVJ2LVF0ajc1a1Y0alY0ZHFhRXJUcXZHbElmSTFGRkE0emVfNWxoRVJGcG1ObGVSTWtOd3A1bUtPcWRnY3NxWFF5MXFKQm51VTFyNzBkcGo3a0loV1c0OEc5ZmNxZ2tUY0VoUG1nUEFKdHpkYWdTZXFpakY4eGZYVkJfTQ?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Mon, 12 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Reliance Jio to launch AI language platform; Mukesh Ambani pledges ₹7 trillion investment in Gujarat over five years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPQmpXQUwzUklIWGczU0lIWjRtamtkYU1Mc3M1V1VzRDFCdU12VDlXN1FTbW16cllyUER0QjdaSUo0Wm94QkZtdl8zUVdQSVdWR0p5Tm05ZktKQkRObjN5ZDRRT0ZvSGVUREVLZk5vU1dGYmM5ZTRmUXZ6NUtHd2VRZzF0Qk9nY1g4NEE5UlFaUFJzdElUY2ZubVVCaFQwMmZxb1BuZndQNGxoWGdhRDlPMzUwQkxkODZmWmN2bld1TW1JdEN3R250SVhMSzh1R0Jkckh3WXBxejk1Zkl1bllJSktEQU13ekNaZUlfS01rTjlRYm9PVmMzTWNCYzAzMlNNQTc1YdIBigJBVV95cUxOMVRGV2RuZVgzdjY1M1U1Z0VFNzl1SXljUXhkR1Z6eS1GaXY2X3BrYUJWYU9wWW1HYlRsS2ZodVJwbEFzTldicjVJdW9lbG5kNjZqWjk0eWVHZDM3Tk1xWGU2Ri1Md25SX3BJNFBvQWJJeTB5TTF3WVJCRGcyUEthLWZLbVRxY3RFZDJTd0c3d2pzNUNBZTZRa1ZldnBvekhYeDhsSXZSR3l4ak9rQ1hkS1FtYlhjSXVVcFlFcGl2aXIxR091czlvZlFtQjkxeUN4Y19zalYybUMwUlIxTE9sTlhMR0M2c1RTZmVDYWpQRGtoOUROQUVOTHJiQ0paNy0yVlJ3TlFZQW9Wdw?oc=5\" target=\"_blank\">Reliance Jio to launch AI language platform; Mukesh Ambani pledges ₹7 trillion investment in Gujarat over five years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQmpXQUwzUklIWGczU0lIWjRtamtkYU1Mc3M1V1VzRDFCdU12VDlXN1FTbW16cllyUER0QjdaSUo0Wm94QkZtdl8zUVdQSVdWR0p5Tm05ZktKQkRObjN5ZDRRT0ZvSGVUREVLZk5vU1dGYmM5ZTRmUXZ6NUtHd2VRZzF0Qk9nY1g4NEE5UlFaUFJzdElUY2ZubVVCaFQwMmZxb1BuZndQNGxoWGdhRDlPMzUwQkxkODZmWmN2bld1TW1JdEN3R250SVhMSzh1R0Jkckh3WXBxejk1Zkl1bllJSktEQU13ekNaZUlfS01rTjlRYm9PVmMzTWNCYzAzMlNNQTc1YdIBigJBVV95cUxOMVRGV2RuZVgzdjY1M1U1Z0VFNzl1SXljUXhkR1Z6eS1GaXY2X3BrYUJWYU9wWW1HYlRsS2ZodVJwbEFzTldicjVJdW9lbG5kNjZqWjk0eWVHZDM3Tk1xWGU2Ri1Md25SX3BJNFBvQWJJeTB5TTF3WVJCRGcyUEthLWZLbVRxY3RFZDJTd0c3d2pzNUNBZTZRa1ZldnBvekhYeDhsSXZSR3l4ak9rQ1hkS1FtYlhjSXVVcFlFcGl2aXIxR091czlvZlFtQjkxeUN4Y19zalYybUMwUlIxTE9sTlhMR0M2c1RTZmVDYWpQRGtoOUROQUVOTHJiQ0paNy0yVlJ3TlFZQW9Wdw?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Sun, 11 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Gujarat",
+   "title": "Amul’s artificial intelligence platform for dairy farmers launched in Gujarat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObHU2dVo1MTloNHpHTHFHbklXV0dJSEVJQXNhTnhnTEt6djVmZE1QeGxZT0lPeE5YRWp1RGdRZUp5VXJYdU04N0RQbUZ5SUducENJM0NZZ3VTemJlMWZkQldvY3hMbkNDR3BCdHVFTXJaNlVtUmpDNC1JMHBjV3kzcjZPOXJZNXZPRkhBNWJxeTFBYUlDcXRUeW85VjdQNnprLUFFem45SXZfVnQw0gGyAUFVX3lxTE91YW15akNXUm1TOG1md2kzbmh2NXZTSGZEaVJpTGhkay1aWEZTOE1KdklkbVQ3bFQ4bmlYdEZPSmwwejJzc3pMX1pheXRzVVBGOXluUmdqTlRhMVYtNW9DcFBwR2ZldnNHdHh1SEZVNi14Q1lFTnlGbnE3X3M2aXF1R0dMLWJ0M1hyRFBCUmh4NWtaYTM5ZDRibGNhdEVPcmtYeDlaVzYzMWRfV1FYbUpqOWc?oc=5\" target=\"_blank\">Amul’s artificial intelligence platform for dairy farmers launched in Gujarat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Siasat Daily</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHU2dVo1MTloNHpHTHFHbklXV0dJSEVJQXNhTnhnTEt6djVmZE1QeGxZT0lPeE5YRWp1RGdRZUp5VXJYdU04N0RQbUZ5SUducENJM0NZZ3VTemJlMWZkQldvY3hMbkNDR3BCdHVFTXJaNlVtUmpDNC1JMHBjV3kzcjZPOXJZNXZPRkhBNWJxeTFBYUlDcXRUeW85VjdQNnprLUFFem45SXZfVnQw0gGyAUFVX3lxTE91YW15akNXUm1TOG1md2kzbmh2NXZTSGZEaVJpTGhkay1aWEZTOE1KdklkbVQ3bFQ4bmlYdEZPSmwwejJzc3pMX1pheXRzVVBGOXluUmdqTlRhMVYtNW9DcFBwR2ZldnNHdHh1SEZVNi14Q1lFTnlGbnE3X3M2aXF1R0dMLWJ0M1hyRFBCUmh4NWtaYTM5ZDRibGNhdEVPcmtYeDlaVzYzMWRfV1FYbUpqOWc?oc=5",
+   "source_name": "The Siasat Daily",
+   "source_domain": "siasat.com",
+   "published_raw": "Wed, 11 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:06+00:00"
+  }
+ ]
+}

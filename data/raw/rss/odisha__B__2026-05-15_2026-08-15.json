@@ -1,0 +1,186 @@
+{
+ "region": "Odisha",
+ "group": "B",
+ "query": "(Odisha OR Bhubaneswar) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Odisha+OR+Bhubaneswar%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:03+00:00",
+ "item_count": 16,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha govt to introduce AI-integrated exam system, own ranking framework",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWUyd0JZTmxCT1RnU1NYekRNdFlieU4yeVpjNDRFbUE4X0Npb24xN1RCT3lOWnhNcnJTNDI4d1BnNnFXN0xGNXJDOHFnSHZqeXgzWEhUTW5pRnhXZm53OVEwRzlSd05ZSW9mMlFQTVlJenBpVmpZc2JtUFFPbDg5d2UzYjY4UV9uN0tBY3I5MlgxOXFKUU9BaDNNU0hvUG1PdENUMnpTMDdKWlpQVkpHcnpmOVg3WEhRbDdPclZLTFkxaUJXSDRNaHZXUdIB2AFBVV95cUxQcjdWd2JhYS1keDFwQnVraXVVQTNPS3lVY0RMZ3RwOTZ2bWtyVEc5ZHZGR2t1TUtVUjByczdQWlppZVhTb3ZoS2FnVGRHTkdQaFdGY3ZFREZZZmhxNGxqaGJPU0k0M3VKWnlDR1ZLU2dEZDZ6SFRISjlLNTBROGJsaUVuNHRtVGhiamVsRmZzR1hhLXlZcTdvMElpeUNHWGdLWnpiR0F0MjNVNTlFZWtjd3VVaExLVS1hM3pvWi1Ic1lqcG1ueVB6a1A1Umk1VDBncmhXOU4wQmE?oc=5\" target=\"_blank\">Odisha govt to introduce AI-integrated exam system, own ranking framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWUyd0JZTmxCT1RnU1NYekRNdFlieU4yeVpjNDRFbUE4X0Npb24xN1RCT3lOWnhNcnJTNDI4d1BnNnFXN0xGNXJDOHFnSHZqeXgzWEhUTW5pRnhXZm53OVEwRzlSd05ZSW9mMlFQTVlJenBpVmpZc2JtUFFPbDg5d2UzYjY4UV9uN0tBY3I5MlgxOXFKUU9BaDNNU0hvUG1PdENUMnpTMDdKWlpQVkpHcnpmOVg3WEhRbDdPclZLTFkxaUJXSDRNaHZXUdIB2AFBVV95cUxQcjdWd2JhYS1keDFwQnVraXVVQTNPS3lVY0RMZ3RwOTZ2bWtyVEc5ZHZGR2t1TUtVUjByczdQWlppZVhTb3ZoS2FnVGRHTkdQaFdGY3ZFREZZZmhxNGxqaGJPU0k0M3VKWnlDR1ZLU2dEZDZ6SFRISjlLNTBROGJsaUVuNHRtVGhiamVsRmZzR1hhLXlZcTdvMElpeUNHWGdLWnpiR0F0MjNVNTlFZWtjd3VVaExLVS1hM3pvWi1Ic1lqcG1ueVB6a1A1Umk1VDBncmhXOU4wQmE?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Adani Proposes ₹1 Trillion AI Data Centre in Odisha, Seeks Land",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDhaZkY2dXgydmRsX2d0a29GbjRZVDNRSW85MHg5WVdnOFBJMmJvYUVTRmZ3eG5BNEZtMlhqcXlZcTB4Njg0NFdGLXRKYnhXWWJ0aHQycmczQ05SR1EyaF9ZRG5ueFNkTGdnbkpqd2lwUjdmZlI5U1hJNjV0MThvc0RVZGV1OWRJcG9FOXVxNVdWbUswaGM5Um8wek1qUUpKYWg1SUFiNkhzNllYdTJvMG93OHFaYWxpbTA5eG1RcGRIUUJHMVNVLW1BVkx3Sl9Hd3Y5ZW9NdmxiUdIB3wFBVV95cUxNc0NhaUlaLThlZXhaUkxuLUFlN3B1NEIyXzZ1ZEljUWV0ZHlMcTNNejYtUDJ0OTREN2ktMGRXQ00wRGZWQzVrN3lXVWJpR2pta29ScHJLR1QxZi1QeWZaR3BjYnVGOFZSeXFyb3ZUR0RWbjgtbmlSTVlFWlJMVVg2MkJzYV9VUkRMTkdWcWJmZ3BBWVJiZ0p6WUk1cVJROUdCZ1FqWnYtYTdabE4yajF5bFE3cEVMSXhRVWZtYlNkTTExRjluTDB1eDhpaUNxR3FtYzZFTERSbEJLMlZDSjNz?oc=5\" target=\"_blank\">Adani Proposes ₹1 Trillion AI Data Centre in Odisha, Seeks Land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDhaZkY2dXgydmRsX2d0a29GbjRZVDNRSW85MHg5WVdnOFBJMmJvYUVTRmZ3eG5BNEZtMlhqcXlZcTB4Njg0NFdGLXRKYnhXWWJ0aHQycmczQ05SR1EyaF9ZRG5ueFNkTGdnbkpqd2lwUjdmZlI5U1hJNjV0MThvc0RVZGV1OWRJcG9FOXVxNVdWbUswaGM5Um8wek1qUUpKYWg1SUFiNkhzNllYdTJvMG93OHFaYWxpbTA5eG1RcGRIUUJHMVNVLW1BVkx3Sl9Hd3Y5ZW9NdmxiUdIB3wFBVV95cUxNc0NhaUlaLThlZXhaUkxuLUFlN3B1NEIyXzZ1ZEljUWV0ZHlMcTNNejYtUDJ0OTREN2ktMGRXQ00wRGZWQzVrN3lXVWJpR2pta29ScHJLR1QxZi1QeWZaR3BjYnVGOFZSeXFyb3ZUR0RWbjgtbmlSTVlFWlJMVVg2MkJzYV9VUkRMTkdWcWJmZ3BBWVJiZ0p6WUk1cVJROUdCZ1FqWnYtYTdabE4yajF5bFE3cEVMSXhRVWZtYlNkTTExRjluTDB1eDhpaUNxR3FtYzZFTERSbEJLMlZDSjNz?oc=5",
+   "source_name": "ET Datacenters",
+   "source_domain": "datacenters.economictimes.indiatimes.com",
+   "published_raw": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech to build first owned data centre in India in Bhubaneswar; targets AI workloads",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3FYRUk5OG5lWFpnVDhRMEduSDRLSU9HckNxQXYyRDlEZVhZYy1UMzdjV3ltb0ptVlExQ2JlM3VWakhYWmhfQU5JYlJLLVVSc1ZRb1F6M3l5V0cwSnlrcjVreUJJc2xfWVpTWmRZb1dieXJmTUdJT1lObl9MVXRySU4wVjRRbGtQbUQtWnNCRW5hNEx3NFFmZVZ3VTVGTDFBRXhsdWx5ZzlxQ3VqM2hNR2haemlDeTNfRjlNTEV6dTdsNWZ4S0tr?oc=5\" target=\"_blank\">HCLTech to build first owned data centre in India in Bhubaneswar; targets AI workloads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tele.net</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3FYRUk5OG5lWFpnVDhRMEduSDRLSU9HckNxQXYyRDlEZVhZYy1UMzdjV3ltb0ptVlExQ2JlM3VWakhYWmhfQU5JYlJLLVVSc1ZRb1F6M3l5V0cwSnlrcjVreUJJc2xfWVpTWmRZb1dieXJmTUdJT1lObl9MVXRySU4wVjRRbGtQbUQtWnNCRW5hNEx3NFFmZVZ3VTVGTDFBRXhsdWx5ZzlxQ3VqM2hNR2haemlDeTNfRjlNTEV6dTdsNWZ4S0tr?oc=5",
+   "source_name": "tele.net",
+   "source_domain": "tele.net.in",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech, Sarvam to build Rs 14,257 crore AI data centre in Odisha",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXo4d2h2YUZCTzNyN3Q0aHJTWmM2RTdaNGNlOWdRRmRjWjhRcnpaU3hLT2hMTnpUV1JUN2g5VjVsVkdZQUZ6TjVzZkZLenNEQU9Xa21HOVJiWHBXcFVfeG9JQW83SVFsVFJZVkN4dF91bFAzb21vLWdhaXlpN2gweVpPdUluTUNuT0wzMlpDR1A3Y2JJOVRhU0E2QU4wTHNYaUtqc0o5TFJqZjZoTkk0dWV0N2h1VWJ4RzdV0gHAAUFVX3lxTE0wenlkSXBPMXcxZlJzQ3ZKZkRoUFQ1R2ZSbVR6LTEtMDVzQkd1aWR1ZmRTanFmdFJCZmE5akM3NzJBakU4Z1VHWTN5M3NxVW00eFBfZzlqVU9ydEFkd0dMS0xUbzFyUHpDMTVxempjRGw5VkNYeHl4QjktRWpvcC1WSFJBWGVQYXIzeWxmbElYMTRYcTljQzNtV3lqaHZIcTJBOUI1bm1VanJocjhTaUJuZmdtQkJCWGQxQ0pXZ0lLZQ?oc=5\" target=\"_blank\">HCLTech, Sarvam to build Rs 14,257 crore AI data centre in Odisha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechGig</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXo4d2h2YUZCTzNyN3Q0aHJTWmM2RTdaNGNlOWdRRmRjWjhRcnpaU3hLT2hMTnpUV1JUN2g5VjVsVkdZQUZ6TjVzZkZLenNEQU9Xa21HOVJiWHBXcFVfeG9JQW83SVFsVFJZVkN4dF91bFAzb21vLWdhaXlpN2gweVpPdUluTUNuT0wzMlpDR1A3Y2JJOVRhU0E2QU4wTHNYaUtqc0o5TFJqZjZoTkk0dWV0N2h1VWJ4RzdV0gHAAUFVX3lxTE0wenlkSXBPMXcxZlJzQ3ZKZkRoUFQ1R2ZSbVR6LTEtMDVzQkd1aWR1ZmRTanFmdFJCZmE5akM3NzJBakU4Z1VHWTN5M3NxVW00eFBfZzlqVU9ydEFkd0dMS0xUbzFyUHpDMTVxempjRGw5VkNYeHl4QjktRWpvcC1WSFJBWGVQYXIzeWxmbElYMTRYcTljQzNtV3lqaHZIcTJBOUI1bm1VanJocjhTaUJuZmdtQkJCWGQxQ0pXZ0lLZQ?oc=5",
+   "source_name": "TechGig",
+   "source_domain": "techgig.com",
+   "published_raw": "Sat, 25 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech to Build First India Data Centre in Odisha, Targets AI Workloads",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxON3ZCNVFCTUFXdDNHUl9xVS1RcE5lUnU5bXA4ZWZQSFA1dEZfZkJHeXM5YkNHUFZxcy1PVXhTNThGMUFrQWNyVDgtQVJBcXNmdGRMeTB2a29VbDlodzVqdjVXRldqVVBiSU05TWtOWFBDTE5CM08xWHJGRExFN0VTNHNBSjZZdkFGX0lQZHRWTS1URFpRb2Y2ZENHcmRvMjhwdjNHM1FkRndTbjd0VTdoeXBaSEFidXlpeTNmS2xxWEVENlA1dVp3bUkyWVVEWXdrR0hXQTIzZ2NMajFYdHJraUVjMnRtMUHSAewBQVVfeXFMT19zSzZLa0trcW9fVlM5TXo2N0JjUVUwTjN6VnZCdE14alNLcExCQXRNVG5JcFQ1ejZDWnNjR3d3eEt5cmhReHdyWEVBUkgwaXVTYzFtclhtazRoZDdqSnR3WWJEclp2VFN3NmVDQ2hEaW1KeTV2LTRhZnBNWlFUT3luQ3Y3UG92T3A3SDUzSEtPWUpNNG5rREdKa0l0bnhJN05Lc01JaXBHVlFweEdRb3Bia0h0WHYzbDFmN0pyTzZNd2trV09zRElaYTVTclZxRFdKT1JvUElpdzhUb2k0dE8xNC1OMEFsRG5Qb1Q?oc=5\" target=\"_blank\">HCLTech to Build First India Data Centre in Odisha, Targets AI Workloads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON3ZCNVFCTUFXdDNHUl9xVS1RcE5lUnU5bXA4ZWZQSFA1dEZfZkJHeXM5YkNHUFZxcy1PVXhTNThGMUFrQWNyVDgtQVJBcXNmdGRMeTB2a29VbDlodzVqdjVXRldqVVBiSU05TWtOWFBDTE5CM08xWHJGRExFN0VTNHNBSjZZdkFGX0lQZHRWTS1URFpRb2Y2ZENHcmRvMjhwdjNHM1FkRndTbjd0VTdoeXBaSEFidXlpeTNmS2xxWEVENlA1dVp3bUkyWVVEWXdrR0hXQTIzZ2NMajFYdHJraUVjMnRtMUHSAewBQVVfeXFMT19zSzZLa0trcW9fVlM5TXo2N0JjUVUwTjN6VnZCdE14alNLcExCQXRNVG5JcFQ1ejZDWnNjR3d3eEt5cmhReHdyWEVBUkgwaXVTYzFtclhtazRoZDdqSnR3WWJEclp2VFN3NmVDQ2hEaW1KeTV2LTRhZnBNWlFUT3luQ3Y3UG92T3A3SDUzSEtPWUpNNG5rREdKa0l0bnhJN05Lc01JaXBHVlFweEdRb3Bia0h0WHYzbDFmN0pyTzZNd2trV09zRElaYTVTclZxRFdKT1JvUElpdzhUb2k0dE8xNC1OMEFsRG5Qb1Q?oc=5",
+   "source_name": "ET Datacenters",
+   "source_domain": "datacenters.economictimes.indiatimes.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech Announces $1.5 Bn Investment To Build Maiden AI Data Centre In Odisha",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPelc5ZWVIOXpPeEtYY1ZnUVFiZTJieVdIZFREWHRxX1BhS2ZZVWZjX190NXN0WU5aMVFCai0weFJhb3h0QmpjYzFaVU1KZnA0aWJrcXhaSXhzS1pvMFRrZ25VVThPT0hiQmdfNWlhT3JCNzJWT29DekMyZXU4alpoS0Y5cENiNVR6eXVoQUhQdHpLdmRETUdnWUpWNXVVRGNQYlE?oc=5\" target=\"_blank\">HCLTech Announces $1.5 Bn Investment To Build Maiden AI Data Centre In Odisha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc42</font>",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelc5ZWVIOXpPeEtYY1ZnUVFiZTJieVdIZFREWHRxX1BhS2ZZVWZjX190NXN0WU5aMVFCai0weFJhb3h0QmpjYzFaVU1KZnA0aWJrcXhaSXhzS1pvMFRrZ25VVThPT0hiQmdfNWlhT3JCNzJWT29DekMyZXU4alpoS0Y5cENiNVR6eXVoQUhQdHpLdmRETUdnWUpWNXVVRGNQYlE?oc=5",
+   "source_name": "Inc42",
+   "source_domain": "inc42.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech Partners With Sarvam AI And Odisha Government For Rs 14,257 Crore AI Data Centre In Bhubaneswar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRTZxUTd3S3ZONHJSZ016VkdGSkdFQXJ2UjR4d0d5enktRFVBWGNZYjRpaDc4NGM2U3F1V1gtaDFBbkpiMktURHJoVkxSQ2JZcDNrMEJNMmFrU2tRWENfQnpZWk44aXJhWHNIZWtNM3dOV1kwV0xwWnhGM3dMc0pJZFhzNFIyOTBCOGpHeERaa1BLUzJuTWFtcGZ0eENiakprQlVKc0hMNWV5c184ZWtEZ0xjZFJnbGhoUlZjZXdfVVBHUTVEZy0yQVhFNlZjRS1YWjdERFh5STXSAegBQVVfeXFMTmpYS3hMdnIwd016RVNMVGdfX1RpdkMwOS11LUFQMXFzQ1VnWHNrLTE3TFdCQmtJbWh1ZTR4ZkpleGRNdWZFTkhaYkIxSU13QU5Ha3BoVXMtT0JzVVlNaTBUd3FqaFlfbWZTNjJOOW5VUHprXzk3eldVdTJ6Z2xheXk1VXVoNm1aSWNfRnZ2WEJfZjdiWGUwRE5qM1VxYlVWbzBUVV9QQTFoMkJyYzdXT2xDNm1MZmJQdFpsYWp1TzZIT0ZwZkwycXE1NGttN21KU1JVUS1UR3RJUkFHdWhGUndOYjVvYUtXcQ?oc=5\" target=\"_blank\">HCLTech Partners With Sarvam AI And Odisha Government For Rs 14,257 Crore AI Data Centre In Bhubaneswar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRTZxUTd3S3ZONHJSZ016VkdGSkdFQXJ2UjR4d0d5enktRFVBWGNZYjRpaDc4NGM2U3F1V1gtaDFBbkpiMktURHJoVkxSQ2JZcDNrMEJNMmFrU2tRWENfQnpZWk44aXJhWHNIZWtNM3dOV1kwV0xwWnhGM3dMc0pJZFhzNFIyOTBCOGpHeERaa1BLUzJuTWFtcGZ0eENiakprQlVKc0hMNWV5c184ZWtEZ0xjZFJnbGhoUlZjZXdfVVBHUTVEZy0yQVhFNlZjRS1YWjdERFh5STXSAegBQVVfeXFMTmpYS3hMdnIwd016RVNMVGdfX1RpdkMwOS11LUFQMXFzQ1VnWHNrLTE3TFdCQmtJbWh1ZTR4ZkpleGRNdWZFTkhaYkIxSU13QU5Ha3BoVXMtT0JzVVlNaTBUd3FqaFlfbWZTNjJOOW5VUHprXzk3eldVdTJ6Z2xheXk1VXVoNm1aSWNfRnZ2WEJfZjdiWGUwRE5qM1VxYlVWbzBUVV9QQTFoMkJyYzdXT2xDNm1MZmJQdFpsYWp1TzZIT0ZwZkwycXE1NGttN21KU1JVUS1UR3RJUkFHdWhGUndOYjVvYUtXcQ?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech to Invest ₹14,257 Crore in Odisha AI Data Centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2h6M0tNd3I5RDlzZzYzV3Jza0FnQWxjR0g3V0Foa3U1MndQRmJvM0FMS3hzemtsMnRadFJzVGc5S0t1SklFMWh2ODYxbEo3UTF6SEJ3X0ptZVpQcThoV04yS25WWWJiZnhvSjQ4d29uejVPVFRjZS1yY2hUUjdzVVJPMk1ZNWVwNjdrWFl4Tnk?oc=5\" target=\"_blank\">HCLTech to Invest ₹14,257 Crore in Odisha AI Data Centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2h6M0tNd3I5RDlzZzYzV3Jza0FnQWxjR0g3V0Foa3U1MndQRmJvM0FMS3hzemtsMnRadFJzVGc5S0t1SklFMWh2ODYxbEo3UTF6SEJ3X0ptZVpQcThoV04yS25WWWJiZnhvSjQ4d29uejVPVFRjZS1yY2hUUjdzVVJPMk1ZNWVwNjdrWFl4Tnk?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech Announces $1.6 Billion AI Data Center In Bhubaneswar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkpoVG93NDhBZzJCcE1DVVEyRnhKVkJxQVdqcEtFRVJ5ZXZUUXg4WWNqMG9reXJZTnhqVnpVUHQyaHBWWFd3MDUyWnc4TEYycjNOemRDejNHejM1QzZSZ1BCekhPSUhGR3NhQWNFZndvLW5La3VJVTctUWtkQjZPZG9YUVFhZ9IBiwFBVV95cUxOb1VwWnljZy1jeGNob00zcl9sZldUT2pZbDF4SmNHOHJsbktGMTJtRHY3bEZHOU1SaFo5bENDd2h1akxHS1dRMUhrYlFlcThGb3RHWnhaQng2a1RjYldQNkpybkthN3hubzJEaWYyUDZGbUtNU3pWOXdCQ0VReHZkdGZVMjdLcUFRZVI0?oc=5\" target=\"_blank\">HCLTech Announces $1.6 Billion AI Data Center In Bhubaneswar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkpoVG93NDhBZzJCcE1DVVEyRnhKVkJxQVdqcEtFRVJ5ZXZUUXg4WWNqMG9reXJZTnhqVnpVUHQyaHBWWFd3MDUyWnc4TEYycjNOemRDejNHejM1QzZSZ1BCekhPSUhGR3NhQWNFZndvLW5La3VJVTctUWtkQjZPZG9YUVFhZ9IBiwFBVV95cUxOb1VwWnljZy1jeGNob00zcl9sZldUT2pZbDF4SmNHOHJsbktGMTJtRHY3bEZHOU1SaFo5bENDd2h1akxHS1dRMUhrYlFlcThGb3RHWnhaQng2a1RjYldQNkpybkthN3hubzJEaWYyUDZGbUtNU3pWOXdCQ0VReHZkdGZVMjdLcUFRZVI0?oc=5",
+   "source_name": "Pulse 2.0",
+   "source_domain": "pulse2.com",
+   "published_raw": "Sat, 25 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech partners Sarvam, Odisha government to build AI data center with ₹14,257 crore investment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT2xlUDR0UDY1WUZIejlTUzJGVFYwU0NIVkN5M05CaGZpcVlZdjJvdHUyeEJsdE9wekdOeHdMYWd0ZEFfc0QxTWlPYmlta2pRLWFPVk1mVlNYbjg1RzlpUkFyUkpiazdsVENFSlFYcGZ5MGVnYTJWc0kzNUZMWTJVNmhIVEliTGJJNzAtUjNSSmlodC1XN0R6M05lajJWYjBzN3RLdmZzeVNOeHpwRGlreEV0WGIzWjNYendSbEk4OXFicGFoR2NRb0hGNDlEZC1LbVFrekZtcXpPS2xxSVozVnFjeENGLXZvcmRKU0dR0gHzAUFVX3lxTE4tajlzcEtVTDQ4X2QxcVMyd2kxODNsWjFZYW90RUNyLXpPekNqSThGU0VPRmRtc2J1a0YwN3Y1ampybk1RTjZNWTNleDNkSXVXdVdKR1NYMU1qNUZwbWU5dmZGQk54cy0wQlBfSDFNb0hfblZkWnh4Q1M3dTYwZWEwWkRIcGFTWGFYTnVjMGpuZXdQRnpqZDU1Q1VMVW1TYzFrOUZjUGw1SzNYbkswMS1RMldPenFlZ1RnTVB3ZDd2eFIza1JOLTduOFlzZjNnejduMHdpT05qZ3Zkb05XMXkwS1B1UXZQSVZvYnlqTFYtZ1VlUQ?oc=5\" target=\"_blank\">HCLTech partners Sarvam, Odisha government to build AI data center with ₹14,257 crore investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Telecom</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT2xlUDR0UDY1WUZIejlTUzJGVFYwU0NIVkN5M05CaGZpcVlZdjJvdHUyeEJsdE9wekdOeHdMYWd0ZEFfc0QxTWlPYmlta2pRLWFPVk1mVlNYbjg1RzlpUkFyUkpiazdsVENFSlFYcGZ5MGVnYTJWc0kzNUZMWTJVNmhIVEliTGJJNzAtUjNSSmlodC1XN0R6M05lajJWYjBzN3RLdmZzeVNOeHpwRGlreEV0WGIzWjNYendSbEk4OXFicGFoR2NRb0hGNDlEZC1LbVFrekZtcXpPS2xxSVozVnFjeENGLXZvcmRKU0dR0gHzAUFVX3lxTE4tajlzcEtVTDQ4X2QxcVMyd2kxODNsWjFZYW90RUNyLXpPekNqSThGU0VPRmRtc2J1a0YwN3Y1ampybk1RTjZNWTNleDNkSXVXdVdKR1NYMU1qNUZwbWU5dmZGQk54cy0wQlBfSDFNb0hfblZkWnh4Q1M3dTYwZWEwWkRIcGFTWGFYTnVjMGpuZXdQRnpqZDU1Q1VMVW1TYzFrOUZjUGw1SzNYbkswMS1RMldPenFlZ1RnTVB3ZDd2eFIza1JOLTduOFlzZjNnejduMHdpT05qZ3Zkb05XMXkwS1B1UXZQSVZvYnlqTFYtZ1VlUQ?oc=5",
+   "source_name": "ET Telecom",
+   "source_domain": "telecom.economictimes.indiatimes.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Adani Group's ₹1 Trillion AI Data Centre Proposal in Odisha: Why Cuttack Is Being Considered",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNklmR2lCbHpOOHFhSmEwSUl5R2gxcFdXUEp6clFvMWFWZTZPdU9qOFl5aEVpRVR3WTU4S1VKWmQyLXZaejRYcEJPTFQ0b3BmcEYyZ1Noa2JjczU0YkxDaFEweGRLeDcxOGxvRXFuRWJIMHozY1hDaGw1QV9PNVpIaFVBM2pPWHJFUnlaOVpQN1ViUlBpOWlUX0kxMFpBZllmN3FoZ2xlVV9mQml6dDJPRE1SVlNRZE0?oc=5\" target=\"_blank\">Adani Group's ₹1 Trillion AI Data Centre Proposal in Odisha: Why Cuttack Is Being Considered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liquide Blog</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNklmR2lCbHpOOHFhSmEwSUl5R2gxcFdXUEp6clFvMWFWZTZPdU9qOFl5aEVpRVR3WTU4S1VKWmQyLXZaejRYcEJPTFQ0b3BmcEYyZ1Noa2JjczU0YkxDaFEweGRLeDcxOGxvRXFuRWJIMHozY1hDaGw1QV9PNVpIaFVBM2pPWHJFUnlaOVpQN1ViUlBpOWlUX0kxMFpBZllmN3FoZ2xlVV9mQml6dDJPRE1SVlNRZE0?oc=5",
+   "source_name": "Liquide Blog",
+   "source_domain": "blog.liquide.life",
+   "published_raw": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "HCLTech, Odisha govt, Sarvam to set up ₹14,000+ crore AI data centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc2VKcjNrZmU0MUZ5bEVoVHJGRmI3anI5eEVUVmFaSGM2dTBsZ3p1YVl5N1FZMVY3Y0REQXR0TjlKWjJsdmVtZXMwN0J1M3ZpT0ZsLWE4NkRVR1lYeG1FVmRUZnc3Yk9jRTliTGFWbnBsaExDMk1VYXF3Nk0yZWh0V1ZCR3hNc3pWWUU3T2s0T3ZyRUN1dnF6RU90WHVPTWdQYUNYSUhnYVFqVVFwTmdVZ1hHOERTbGVvMW02QkxRTGhJVGVra3l4c01WWjZTRDh2QmV4RTQtZkVGdnp1NEQ3MXh5blZaZ3E1RmpGZm5n0gHyAUFVX3lxTE80T25reVpaZ3ZyekpsMHdBeFpmM2R4NEotZjd3WS1vZ2ZhR2paT1BmQWpRMWxhOUxiT09pVTdYYmpIcDM4eThGc0xXNDE5elAtbzRxQm93OXFwWjN4QU50QVhLVzlvWmhQTmxPeU9yMFZjQmFaNDdWNEhuZzAwT3pVVlRvbU15UU91Mll1NDN4LW5YVVB6MHh6N3FGX1kzMHpqcU1GVUhRMVp1X0J4ZEZ4MG5GOU9xeXJTOWtrbVBGa2hyNTc5eGR6YjEwS2Foc2hETFB1eXlnM0JlSjQtNlZvSG4zUnM0Wk9lUFJsaGZwbG9n?oc=5\" target=\"_blank\">HCLTech, Odisha govt, Sarvam to set up ₹14,000+ crore AI data centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc2VKcjNrZmU0MUZ5bEVoVHJGRmI3anI5eEVUVmFaSGM2dTBsZ3p1YVl5N1FZMVY3Y0REQXR0TjlKWjJsdmVtZXMwN0J1M3ZpT0ZsLWE4NkRVR1lYeG1FVmRUZnc3Yk9jRTliTGFWbnBsaExDMk1VYXF3Nk0yZWh0V1ZCR3hNc3pWWUU3T2s0T3ZyRUN1dnF6RU90WHVPTWdQYUNYSUhnYVFqVVFwTmdVZ1hHOERTbGVvMW02QkxRTGhJVGVra3l4c01WWjZTRDh2QmV4RTQtZkVGdnp1NEQ3MXh5blZaZ3E1RmpGZm5n0gHyAUFVX3lxTE80T25reVpaZ3ZyekpsMHdBeFpmM2R4NEotZjd3WS1vZ2ZhR2paT1BmQWpRMWxhOUxiT09pVTdYYmpIcDM4eThGc0xXNDE5elAtbzRxQm93OXFwWjN4QU50QVhLVzlvWmhQTmxPeU9yMFZjQmFaNDdWNEhuZzAwT3pVVlRvbU15UU91Mll1NDN4LW5YVVB6MHh6N3FGX1kzMHpqcU1GVUhRMVp1X0J4ZEZ4MG5GOU9xeXJTOWtrbVBGa2hyNTc5eGR6YjEwS2Foc2hETFB1eXlnM0JlSjQtNlZvSG4zUnM0Wk9lUFJsaGZwbG9n?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Bhubaneswar to add two data centers with ₹1,066.48 crore investment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbDgwbnlmWk1tUkp2Y1JQcW9Ed1ROVnZzOXJ6TGJEcHp2YWVLR0NqN0g5N3ItaWI2d1J1YnRlbzJYQ2ZNbGMtRWJsdHF2MU5aMGJkeERmMkFqY1RLcWo4X0Y5NE1td1hndUtiNHUtV3dwV3VFaXlWUTNwX0FJM3lGSVo2TnJDVzNnWEVQdEVtaDVVeUNyM3NJUzkybm9qZnlQSTRvbDFqVi0zT3JwZnM4LVU0ejBUMS1HSHNubloySVdMcmJJR3FxdWdIcE1wV3FwbmM5c0p3SjZQVDZkQkZnSk9USlpHdkxUQ1FtZXFUUdIB9AFBVV95cUxPMTAzdWxfTl9Xbk50TUR0WkJKbmVZZWdUMTVFQVZiWm9NWnN2a0JiU3lIbUl1S0R1UnltblNydFUxblBydmJZRElXVDV1MmViRHlGLXBhV1dPOGhOblJ0TkJKVWVtdjR3RVlidzMyR2MzRWE5RmV2VzY0aDR2dXdLbnRxSDhsbk9vN014ZmhONUowUEszdldGMW1WTDdnOHl4a2liRXYtLVJyQmtmLUkweWkzRWR6LVFNVkFpbXJyLUxSM2pJZnV0Ym8wdTZDOGRsSDE3c0xiZ0VyVndCaUluYmNkUTBxQlZqVUdLblB2WXVQNlE0?oc=5\" target=\"_blank\">Bhubaneswar to add two data centers with ₹1,066.48 crore investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbDgwbnlmWk1tUkp2Y1JQcW9Ed1ROVnZzOXJ6TGJEcHp2YWVLR0NqN0g5N3ItaWI2d1J1YnRlbzJYQ2ZNbGMtRWJsdHF2MU5aMGJkeERmMkFqY1RLcWo4X0Y5NE1td1hndUtiNHUtV3dwV3VFaXlWUTNwX0FJM3lGSVo2TnJDVzNnWEVQdEVtaDVVeUNyM3NJUzkybm9qZnlQSTRvbDFqVi0zT3JwZnM4LVU0ejBUMS1HSHNubloySVdMcmJJR3FxdWdIcE1wV3FwbmM5c0p3SjZQVDZkQkZnSk9USlpHdkxUQ1FtZXFUUdIB9AFBVV95cUxPMTAzdWxfTl9Xbk50TUR0WkJKbmVZZWdUMTVFQVZiWm9NWnN2a0JiU3lIbUl1S0R1UnltblNydFUxblBydmJZRElXVDV1MmViRHlGLXBhV1dPOGhOblJ0TkJKVWVtdjR3RVlidzMyR2MzRWE5RmV2VzY0aDR2dXdLbnRxSDhsbk9vN014ZmhONUowUEszdldGMW1WTDdnOHl4a2liRXYtLVJyQmtmLUkweWkzRWR6LVFNVkFpbXJyLUxSM2pJZnV0Ym8wdTZDOGRsSDE3c0xiZ0VyVndCaUluYmNkUTBxQlZqVUdLblB2WXVQNlE0?oc=5",
+   "source_name": "ET Datacenters",
+   "source_domain": "datacenters.economictimes.indiatimes.com",
+   "published_raw": "Wed, 08 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha Govt Inks MoU With HCLTech, Sarvam AI For Setting Up AI Excellence Centres In State",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTRsZGdnZi16cURPSHFFZHZ4bmdNdjZkMWVMUnZqemFVOTFCdmpaQTM0YlhtdlA2djFURzdrZEJOV1gzcWFSejBIV2FnV2RNc0RjYnBMcmMtUi1CQXJ1Q203V2Y3Q0xzSEoxcUhLbHZrSGZNNDExdE1jUExad3ROS2VER1NMM3JSeVItLU5ieHFTdndOZ1BSNEhPRGYtcGlSREJHQUlZcjMtLWFVU2p4YTUwVlVPRklNUjlReV8xdEpKX0V2NWNYYmRKbVhiekQyQ1NLUE9R0gHbAUFVX3lxTE9TY1plS29ramhlUktJQjQ2M1R4RHlsVG02S21WeGowWHNrV3pyWGpvb2oxOTEtUVYydFpTQXFKZElkTkFfd08xRkI0aDJUaVdxRXE4dnRZMUpPUVhxLVZDb1MtbmN3VmQyWklzRDN2SmlkeWdXR1hWdi14S3pMNFlNdjlVZUJGVjJQV2NWZkthV2xNNE1WeF9kNEpjcDJNX0gxU3d0eS14WWNISEdpSmp3RUdZUjVhbXdsNjVad0xXVFJJS250WlQ5Mm5uR3Bsck8zT0FlLVFwaHcxMA?oc=5\" target=\"_blank\">Odisha Govt Inks MoU With HCLTech, Sarvam AI For Setting Up AI Excellence Centres In State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTRsZGdnZi16cURPSHFFZHZ4bmdNdjZkMWVMUnZqemFVOTFCdmpaQTM0YlhtdlA2djFURzdrZEJOV1gzcWFSejBIV2FnV2RNc0RjYnBMcmMtUi1CQXJ1Q203V2Y3Q0xzSEoxcUhLbHZrSGZNNDExdE1jUExad3ROS2VER1NMM3JSeVItLU5ieHFTdndOZ1BSNEhPRGYtcGlSREJHQUlZcjMtLWFVU2p4YTUwVlVPRklNUjlReV8xdEpKX0V2NWNYYmRKbVhiekQyQ1NLUE9R0gHbAUFVX3lxTE9TY1plS29ramhlUktJQjQ2M1R4RHlsVG02S21WeGowWHNrV3pyWGpvb2oxOTEtUVYydFpTQXFKZElkTkFfd08xRkI0aDJUaVdxRXE4dnRZMUpPUVhxLVZDb1MtbmN3VmQyWklzRDN2SmlkeWdXR1hWdi14S3pMNFlNdjlVZUJGVjJQV2NWZkthV2xNNE1WeF9kNEpjcDJNX0gxU3d0eS14WWNISEdpSmp3RUdZUjVhbXdsNjVad0xXVFJJS250WlQ5Mm5uR3Bsck8zT0FlLVFwaHcxMA?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha Government to Deploy AI Cameras for Automatic E-Challans on Highways",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVhSa3V4SEtIbnd3aFFxaXRqbG1yTF80WkRSODhVQ3FXQUVnWXVrT0c0TGY4SDRoN1RveGpKZ0pna3V5Nl9oOVFnWDdTUVJ2czNPVFFTT25HZ0ZpMWh1cVJFU0o5MEgwbzVxY1YzR2c2ZlNwSFJ5SXdySUR1Y1FITWNaRG9oQS15YTlGRjgyVlpCU21PcUZwUW9kSENzb0JCVDN2Rml0NnU?oc=5\" target=\"_blank\">Odisha Government to Deploy AI Cameras for Automatic E-Challans on Highways</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalinga TV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVhSa3V4SEtIbnd3aFFxaXRqbG1yTF80WkRSODhVQ3FXQUVnWXVrT0c0TGY4SDRoN1RveGpKZ0pna3V5Nl9oOVFnWDdTUVJ2czNPVFFTT25HZ0ZpMWh1cVJFU0o5MEgwbzVxY1YzR2c2ZlNwSFJ5SXdySUR1Y1FITWNaRG9oQS15YTlGRjgyVlpCU21PcUZwUW9kSENzb0JCVDN2Rml0NnU?oc=5",
+   "source_name": "Kalinga TV",
+   "source_domain": "kalingatv.com",
+   "published_raw": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Odisha",
+   "title": "Odisha signs MoUs with HCLTech and Sarvam AI; ₹15,000 crore investment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWlRRFJ4WkhFYzFzTFRSVGhhcTY3eUtoNmQwclVnLUJFYWhMc3BsSzFVMWM4LUY5THMtcUJNRk1xekVVcDlhdkh3WExXN0pCN04tZzZxZ0lzMVAySEhCSzZWTUJ6NWNSdUJodTJWcmRHczlWZDBVSzhEOURVWTNub1dOMGE1Mk1Dd08xTjZOZ0lwLUhEdm5NWjBaNA?oc=5\" target=\"_blank\">Odisha signs MoUs with HCLTech and Sarvam AI; ₹15,000 crore investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prameyanews.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWlRRFJ4WkhFYzFzTFRSVGhhcTY3eUtoNmQwclVnLUJFYWhMc3BsSzFVMWM4LUY5THMtcUJNRk1xekVVcDlhdkh3WExXN0pCN04tZzZxZ0lzMVAySEhCSzZWTUJ6NWNSdUJodTJWcmRHczlWZDBVSzhEOURVWTNub1dOMGE1Mk1Dd08xTjZOZ0lwLUhEdm5NWjBaNA?oc=5",
+   "source_name": "prameyanews.com",
+   "source_domain": "prameyanews.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:03+00:00"
+  }
+ ]
+}

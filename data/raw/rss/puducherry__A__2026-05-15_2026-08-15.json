@@ -1,0 +1,98 @@
+{
+ "region": "Puducherry",
+ "group": "A",
+ "query": "(Puducherry) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Puducherry%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:09+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Puducherry plans AI Centre of Excellence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnZPSkxoWTM4cHpDSVRPajdMS2tDOG5WenByT1lQSVVudU12OUc3V1F3N0lCNWRod0JHMlhkZDdnUW85cURESjBWSTlhZUdXWFQ3LTJQLVJiTktkdmhjY3U1alNLN2VzMWlranBraF9KeEhBdHpNcy1TVFcxSGtHd04wN2FmcjA2MWpTSjRoQTlDa0lmeTc3MEhwMnlBUWpaVXY4QTVnUVlYR2lK0gGzAUFVX3lxTFBBcko3eERZMVRvOXMtSUN2ZldEclpPc2lmYlVQd0dhLW44MDZnWmZQX1dEdjk5Snl0c1QweDEzOFNadGlFMUI2UVdQZHhMdTE4dHBFeXJDZjNFOWlYcjdfSExja3JZQmxnLXBuR0xPOFp6RTFRbGxsM2NuYnBMQnpqTnRnRlVhaHJZNUtFZk9Dc0I0TlVVQ0NtMS04dUVIMEFtc19XeFVGX2N3b3ZzRnAzb24w?oc=5\" target=\"_blank\">Puducherry plans AI Centre of Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnZPSkxoWTM4cHpDSVRPajdMS2tDOG5WenByT1lQSVVudU12OUc3V1F3N0lCNWRod0JHMlhkZDdnUW85cURESjBWSTlhZUdXWFQ3LTJQLVJiTktkdmhjY3U1alNLN2VzMWlranBraF9KeEhBdHpNcy1TVFcxSGtHd04wN2FmcjA2MWpTSjRoQTlDa0lmeTc3MEhwMnlBUWpaVXY4QTVnUVlYR2lK0gGzAUFVX3lxTFBBcko3eERZMVRvOXMtSUN2ZldEclpPc2lmYlVQd0dhLW44MDZnWmZQX1dEdjk5Snl0c1QweDEzOFNadGlFMUI2UVdQZHhMdTE4dHBFeXJDZjNFOWlYcjdfSExja3JZQmxnLXBuR0xPOFp6RTFRbGxsM2NuYnBMQnpqTnRnRlVhaHJZNUtFZk9Dc0I0TlVVQ0NtMS04dUVIMEFtc19XeFVGX2N3b3ZzRnAzb24w?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sun, 05 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "\"National Workshop on Convergence of Artificial Intelligence, Material Science and Cyber Security for Smart Manufacturing\" in Industry 4.0 Organized at Doon University",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTUQ4M0UxNXFlUmRybDBZdXdkbl9Vb1FMMmNKeURSZjJkTWxDM0FZVmZFWmYtTG9peENXa2t0VzVwSl9IT3N6b0EzakpUX1ZHaFF4U3FjYVJuZnQ5YllPaHVVODBDZzVG?oc=5\" target=\"_blank\">\"National Workshop on Convergence of Artificial Intelligence, Material Science and Cyber Security for Smart Manufacturing\" in Industry 4.0 Organized at Doon University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yTUQ4M0UxNXFlUmRybDBZdXdkbl9Vb1FMMmNKeURSZjJkTWxDM0FZVmZFWmYtTG9peENXa2t0VzVwSl9IT3N6b0EzakpUX1ZHaFF4U3FjYVJuZnQ5YllPaHVVODBDZzVG?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "I gave ChatGPT a ₹10,000 budget for a summer trip — Here’s whether It chose Goa or Puducherry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUlFnMGJKRklaTEU3Z20xNml6QUE3YkFYN3dPb3BxMFgza1BvRTNrdHIwazZxN0gxdXZjb3ktaDlwYk9QNmZ5MndUQUxueTdncEc2ZVlmVEY4a2M3TlN4cE0xeGxEelRUU0xjbHF3eDZaQXJwbWtuWFNpOFUtX0IyVnZyNlpGTFd5OXJWWklzVTdDMThpTFJtb2RkbHVrVmw1ajBxWEI0OThCRFBtN2V5VXNiRDhMdlpBd3hfTnFBT1kxaG5YOXRMMVFKNG5tXzdHZGhYRFBWNXk1RWRtMGRMWTVDSzJUX3dSRW5aUVAxWdIB9AFBVV95cUxPbHlOb09tT21OV3ZJRFoyMWF3eHY5UDlMcnJVNkpFN3Nkanp5ZlJpOWhPUWhSTFBjVEFQZFNKNHVSdlpSWXV5Y0lhV2tVWjM0Z2RHZURzZ25oamdua3BtQ1p2aVFNSGFXdkVyUDZyR09reWhNZ21mYlFmYVdsdVljQTJ5aDRDaGdBWWV0cWFnSlE3WEI3NW55SlFpSGR3cHY4Ynk1UlNNM0puWkZRdGt6cFVCY29nazZjRnUtaFphd1YwVXdybm5MZG0xV2NramRaWE55TGtMTGxDS2QwQzJaMmJTWWloVEdoSzJJVHNrU1BwM0Yw?oc=5\" target=\"_blank\">I gave ChatGPT a ₹10,000 budget for a summer trip — Here’s whether It chose Goa or Puducherry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUlFnMGJKRklaTEU3Z20xNml6QUE3YkFYN3dPb3BxMFgza1BvRTNrdHIwazZxN0gxdXZjb3ktaDlwYk9QNmZ5MndUQUxueTdncEc2ZVlmVEY4a2M3TlN4cE0xeGxEelRUU0xjbHF3eDZaQXJwbWtuWFNpOFUtX0IyVnZyNlpGTFd5OXJWWklzVTdDMThpTFJtb2RkbHVrVmw1ajBxWEI0OThCRFBtN2V5VXNiRDhMdlpBd3hfTnFBT1kxaG5YOXRMMVFKNG5tXzdHZGhYRFBWNXk1RWRtMGRMWTVDSzJUX3dSRW5aUVAxWdIB9AFBVV95cUxPbHlOb09tT21OV3ZJRFoyMWF3eHY5UDlMcnJVNkpFN3Nkanp5ZlJpOWhPUWhSTFBjVEFQZFNKNHVSdlpSWXV5Y0lhV2tVWjM0Z2RHZURzZ25oamdua3BtQ1p2aVFNSGFXdkVyUDZyR09reWhNZ21mYlFmYVdsdVljQTJ5aDRDaGdBWWV0cWFnSlE3WEI3NW55SlFpSGR3cHY4Ynk1UlNNM0puWkZRdGt6cFVCY29nazZjRnUtaFphd1YwVXdybm5MZG0xV2NramRaWE55TGtMTGxDS2QwQzJaMmJTWWloVEdoSzJJVHNrU1BwM0Yw?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Sat, 13 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Government Notifies Two New SEZs in Puducherry, Key Details",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlhTXzhRSU1lWlRSRlBtVElRVXRfb2ZwNzU4VnBqSzZ1TTNVdVFZWHBBOGFVVUdVemVRSnA1dnZNSXZlUXJYVUhMYXlVcnVETGs0eFRsOFMzVzJrUlJLaVZwWGNDWXZpMkpSM19Fd2NKUUp1T0RpV2lPSi0yYzBNNGI5cEVpY1RTYm5oMVZJaU9Sc2Q3?oc=5\" target=\"_blank\">Government Notifies Two New SEZs in Puducherry, Key Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vajiram & Ravi</font>",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlhTXzhRSU1lWlRSRlBtVElRVXRfb2ZwNzU4VnBqSzZ1TTNVdVFZWHBBOGFVVUdVemVRSnA1dnZNSXZlUXJYVUhMYXlVcnVETGs0eFRsOFMzVzJrUlJLaVZwWGNDWXZpMkpSM19Fd2NKUUp1T0RpV2lPSi0yYzBNNGI5cEVpY1RTYm5oMVZJaU9Sc2Q3?oc=5",
+   "source_name": "Vajiram & Ravi",
+   "source_domain": "vajiramandravi.com",
+   "published_raw": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "8th Pay Commission latest news: 8th CPC to hold meetings in Chennai and Puducherry in September; check dat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQM21vUkhjVm1pdFNMZ2JWelNBQ1dhNWFodklnU1hfai1TYUVJbHJWUmQxbUhucUFDeElqekpSeGNHdkV2U3p1WTJmR3Q4ZFZMTEhhdUFHUXphVENoYXROOUo1RzhLYlJvOWwxMXVEWXVSUk1CYTR1MzJrR2JEXzkzc2pkWHhsck1vZ0wxX0VYWnRJaDk5RzZvQkFXSHFHZTBwSkpTSFNmX3FLYmpyV201NDBTcUoyYlhTdWQyU2NCWEN3enZUcldlMzRKSWV1dUdmQUQ3LXBfSVJ6QjRUUm1PeHY4TjNGQUpvN1VSZllTTm9jNjRjUVlhMkJSNlAxdjFxbVHSAYcCQVVfeXFMUDByXzR0bXlQNGIyUWt6ZUsxeVAtTi15dFlxemMtSWZuRkNWWWlZX0dhbzVhZHhia01ndXhyS0lWNm5kZm5JUjQ0X0ozUnVYMnJlRDZSdjFTQmJVNVJYbktyZFhiUEY0NHQwQmdBM0ZMWE5wSGhxcl9zTnBtRzlhWThHMWd4c0VfN1ZqeEtPQUh4Snk1QUkxT1lYWkZaLXdtZERLSGtyMXVIamktcHN6UHYzTVZ4TURwd29HQ3AyaWpSLWczWGVJbXJrV0hNcDFaa3VqekhSRzMxVmgzcHRtb3ZMZnNjWEVHRVhwdUJiczdzTklHSVBDMTlkYklMeTNNU0tRbDlEVFk?oc=5\" target=\"_blank\">8th Pay Commission latest news: 8th CPC to hold meetings in Chennai and Puducherry in September; check dat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM21vUkhjVm1pdFNMZ2JWelNBQ1dhNWFodklnU1hfai1TYUVJbHJWUmQxbUhucUFDeElqekpSeGNHdkV2U3p1WTJmR3Q4ZFZMTEhhdUFHUXphVENoYXROOUo1RzhLYlJvOWwxMXVEWXVSUk1CYTR1MzJrR2JEXzkzc2pkWHhsck1vZ0wxX0VYWnRJaDk5RzZvQkFXSHFHZTBwSkpTSFNmX3FLYmpyV201NDBTcUoyYlhTdWQyU2NCWEN3enZUcldlMzRKSWV1dUdmQUQ3LXBfSVJ6QjRUUm1PeHY4TjNGQUpvN1VSZllTTm9jNjRjUVlhMkJSNlAxdjFxbVHSAYcCQVVfeXFMUDByXzR0bXlQNGIyUWt6ZUsxeVAtTi15dFlxemMtSWZuRkNWWWlZX0dhbzVhZHhia01ndXhyS0lWNm5kZm5JUjQ0X0ozUnVYMnJlRDZSdjFTQmJVNVJYbktyZFhiUEY0NHQwQmdBM0ZMWE5wSGhxcl9zTnBtRzlhWThHMWd4c0VfN1ZqeEtPQUh4Snk1QUkxT1lYWkZaLXdtZERLSGtyMXVIamktcHN6UHYzTVZ4TURwd29HQ3AyaWpSLWczWGVJbXJrV0hNcDFaa3VqekhSRzMxVmgzcHRtb3ZMZnNjWEVHRVhwdUJiczdzTklHSVBDMTlkYklMeTNNU0tRbDlEVFk?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Heavy Security in Puducherry for Amit Shah’s Visit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkp3SHN4cW0yVzNWRnV3cnpCcVVYVWJ4azBjbTd0NlJKaUt2Nm9HbVU4NE1uRHRfQmxCS3RDeFlzQm1uRkdMMVllUGgxYTFSV01NbVlMTndSYXA5UzZfbno0X3BDUHBhR1F5bUZoeU90aldkSmhWV3NESkpuc2hrVkxWQWY2XzdaRDhsYzZDMXZLRkd4czBwQ0hzbmZJRG1BZl9BQ1dVMHI0aG1wVHRPOTVtMmM4LW_SAbwBQVVfeXFMTlNFSUYxOWI4cGlZVTBqWVRfYTFhN0phNXhjVnZfZ0hhazlYWVlnUEZOb2hadzdjc09QRkFBeWs1Tmpzb1ozTUplWHVhNG5Gb3hvRkhETmtyeTQxTG53bmJJS3ktZ0FYYVNVSHQxQjFzZ3AwQkF4aEFfY1JYbE9hOFc1ZENfYTRoZDZyNXZETUpiaVg3ZWFlV0lpd0JDT19rZENrZWNOR3F1amdQdFY0M3VZeTUyenI5UzJ0dmY?oc=5\" target=\"_blank\">Heavy Security in Puducherry for Amit Shah’s Visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkp3SHN4cW0yVzNWRnV3cnpCcVVYVWJ4azBjbTd0NlJKaUt2Nm9HbVU4NE1uRHRfQmxCS3RDeFlzQm1uRkdMMVllUGgxYTFSV01NbVlMTndSYXA5UzZfbno0X3BDUHBhR1F5bUZoeU90aldkSmhWV3NESkpuc2hrVkxWQWY2XzdaRDhsYzZDMXZLRkd4czBwQ0hzbmZJRG1BZl9BQ1dVMHI0aG1wVHRPOTVtMmM4LW_SAbwBQVVfeXFMTlNFSUYxOWI4cGlZVTBqWVRfYTFhN0phNXhjVnZfZ0hhazlYWVlnUEZOb2hadzdjc09QRkFBeWs1Tmpzb1ozTUplWHVhNG5Gb3hvRkhETmtyeTQxTG53bmJJS3ktZ0FYYVNVSHQxQjFzZ3AwQkF4aEFfY1JYbE9hOFc1ZENfYTRoZDZyNXZETUpiaVg3ZWFlV0lpd0JDT19rZENrZWNOR3F1amdQdFY0M3VZeTUyenI5UzJ0dmY?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "Why is Nirmala Sitharaman being replaced, and will a new Finance Minister change India's economy?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlFGcDFCQXFjYnQyUDdhNWMxT0hURmZtR0xEUzFtZHFzNlBzNncwcDJES1hJb09wUjFaMVpYWUVvN2dDVFppSTlLZGtWcGsyUTVRSkRMaDR4Ujk2M1B3b0dtSjk5UnQ3enJEVzJUTkV3eDRqVUlSLTctN25HbVZSVjlQeUUyaVlIcXdfMWtaT1BYVzk4a1VMckluQy1lNXd2MEhsZTNVRS1IWjVkOHV6NVNXeUprOXQ0eVlVcFVJWXdybWFIa3o00gHOAUFVX3lxTFBRVHIxRm41T1BjNzNqVS02VV9JUXc0Yk9YNDY3cTdQRWtuZXI0SXcxcWpUbUJOWktOSXpHSzJPczFEMFRHMlRwWjNOX0Q4dmg0QUs2UmJjWHdXZjR5VWcyR21ZXzJyM0ZpdWNNNkVPR2RNMld6V1pPWE0xN1RpSTFHX252bGI2c24yWE1GLXJYMUE5amE1RUZGWEhaMFdCYXkyVFhwc3hEOURaUlVLbEktN3NOZFltZzNYRnQ2UUloT0VpWkdhU0kyWHdCZFpR?oc=5\" target=\"_blank\">Why is Nirmala Sitharaman being replaced, and will a new Finance Minister change India's economy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlFGcDFCQXFjYnQyUDdhNWMxT0hURmZtR0xEUzFtZHFzNlBzNncwcDJES1hJb09wUjFaMVpYWUVvN2dDVFppSTlLZGtWcGsyUTVRSkRMaDR4Ujk2M1B3b0dtSjk5UnQ3enJEVzJUTkV3eDRqVUlSLTctN25HbVZSVjlQeUUyaVlIcXdfMWtaT1BYVzk4a1VMckluQy1lNXd2MEhsZTNVRS1IWjVkOHV6NVNXeUprOXQ0eVlVcFVJWXdybWFIa3o00gHOAUFVX3lxTFBRVHIxRm41T1BjNzNqVS02VV9JUXc0Yk9YNDY3cTdQRWtuZXI0SXcxcWpUbUJOWktOSXpHSzJPczFEMFRHMlRwWjNOX0Q4dmg0QUs2UmJjWHdXZjR5VWcyR21ZXzJyM0ZpdWNNNkVPR2RNMld6V1pPWE0xN1RpSTFHX252bGI2c24yWE1GLXJYMUE5amE1RUZGWEhaMFdCYXkyVFhwc3hEOURaUlVLbEktN3NOZFltZzNYRnQ2UUloT0VpWkdhU0kyWHdCZFpR?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Sat, 04 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Puducherry",
+   "title": "AI chatbot helped plan Bengaluru triple murder, say police, seek chat history | India News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOExzWjlQWTBfeVBpRm01TmxWRTlrMkQ4eEZ6YWRlaDBYbE5GYS1saF9URGRUQUF6MEJqSXpsX1ptbXlWeDM5aEd5am9XUXN1amd2TGVNbDAwWEUzRlNNOV95aElTaDRkanhzMUtPUnlaU1p5T3dQRWM5bk5aLWh1WjJmeG5Wcm1HSENpaFFOdEd1cU9wM0M3Yk52bDZDQnBxQkxCd1V3bU80ZTJIU2NqcjFGbHlkOWJWdWdnYVg1UG1GOEdITmk5WlFKRi1nbTBWTlJHedIB2gFBVV95cUxNT1hsQVItRVFNQmxqbS1fa1JzLU5rSnNORUoyUEgwTWhSMW5uSzd3LUZ3dU12UV85X19ZWWpJZkhPdUh6ajhMMGJwQWY3WExJbmJuZ29IMFlDeDdBcktkQUlqWDVSa19NaXdVNUhkbXQwWVFpOXFkb3NNQVVLWnZMTmczcmVfeHR3WWJYdl9VaFJ0dHZNc0l6bmNrdlNkTVBkSG5qOHBadkxVQmVRLWZQbzRqd2JYaHJONXd3VFprUkpVVm5GY2dsQzNSN3JuV01PRVBSQ3A0dVNmdw?oc=5\" target=\"_blank\">AI chatbot helped plan Bengaluru triple murder, say police, seek chat history | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOExzWjlQWTBfeVBpRm01TmxWRTlrMkQ4eEZ6YWRlaDBYbE5GYS1saF9URGRUQUF6MEJqSXpsX1ptbXlWeDM5aEd5am9XUXN1amd2TGVNbDAwWEUzRlNNOV95aElTaDRkanhzMUtPUnlaU1p5T3dQRWM5bk5aLWh1WjJmeG5Wcm1HSENpaFFOdEd1cU9wM0M3Yk52bDZDQnBxQkxCd1V3bU80ZTJIU2NqcjFGbHlkOWJWdWdnYVg1UG1GOEdITmk5WlFKRi1nbTBWTlJHedIB2gFBVV95cUxNT1hsQVItRVFNQmxqbS1fa1JzLU5rSnNORUoyUEgwTWhSMW5uSzd3LUZ3dU12UV85X19ZWWpJZkhPdUh6ajhMMGJwQWY3WExJbmJuZ29IMFlDeDdBcktkQUlqWDVSa19NaXdVNUhkbXQwWVFpOXFkb3NNQVVLWnZMTmczcmVfeHR3WWJYdl9VaFJ0dHZNc0l6bmNrdlNkTVBkSG5qOHBadkxVQmVRLWZQbzRqd2JYaHJONXd3VFprUkpVVm5GY2dsQzNSN3JuV01PRVBSQ3A0dVNmdw?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:09+00:00"
+  }
+ ]
+}

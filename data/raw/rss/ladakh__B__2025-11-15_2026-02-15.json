@@ -1,0 +1,120 @@
+{
+ "region": "Ladakh",
+ "group": "B",
+ "query": "(Ladakh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Ladakh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:29+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh Has Potential to Become India’s First AI State, Says LG Kavinder Gupta, Emphasizes Human-Centric Digital Growth. | The Administration of Union Territory of Ladakh | India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc041bGhVc2hhQlBYSUx5dEFWQ3BkczlBZF9DVGtxUloxb05NWGY2Mm5IZEhpSWZsZ1hpS3drYXgxbDhEcXBObE56bzFRNklwMHRyd0d2UjNuV2VIcmN0NWNsT1VHaHVIWGhWcndveUNQbl83a1lQZWcwbU9qOEh5cmFjaXhpaE9NQnJRN0xLZ2tOVmd1S1dubVp0UkZWdGdJdGh3MnlZd3pWc2taOVp5X0NFUTdrZ3dPeFJkVV8wLWxDQ3haY2hIdXJHYkdqeHM0eUJPYg?oc=5\" target=\"_blank\">Ladakh Has Potential to Become India’s First AI State, Says LG Kavinder Gupta, Emphasizes Human-Centric Digital Growth. | The Administration of Union Territory of Ladakh | India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Administration of Union Territory of Ladakh</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc041bGhVc2hhQlBYSUx5dEFWQ3BkczlBZF9DVGtxUloxb05NWGY2Mm5IZEhpSWZsZ1hpS3drYXgxbDhEcXBObE56bzFRNklwMHRyd0d2UjNuV2VIcmN0NWNsT1VHaHVIWGhWcndveUNQbl83a1lQZWcwbU9qOEh5cmFjaXhpaE9NQnJRN0xLZ2tOVmd1S1dubVp0UkZWdGdJdGh3MnlZd3pWc2taOVp5X0NFUTdrZ3dPeFJkVV8wLWxDQ3haY2hIdXJHYkdqeHM0eUJPYg?oc=5",
+   "source_name": "Administration of Union Territory of Ladakh",
+   "source_domain": "ladakh.gov.in",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "The northern frontier: Analysing the Galwan clash as a Chinese strategy in eastern Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmZndkZoMXNXLWZaUU1ha0tIRTlXcEgzaGRsOFpGNU5pWk51VVliZnNlcXNYaGlEajc3TEJFTF9jdnNxVFRrU1RJWm82MWNvWXhjRzk5N3gyazFtaExON19fSUg1eHFhc0NNZ3hxUGxhRXZiRlJVajNJYkNUMkxEVDRHcTFVRG9jcGIwYWFycVBKOHFyU3BUVDk0NW5jMDV5Z1R6ZExnQWpEVG9yS2VPMWp6eFNfOXBqREHSAb4BQVVfeXFMTVMxbmN1cHBsdmRxWTNZS3NOYVJIbUZKamRMbjRXbzBnQ2tFaFFUano0Q3hKVTI4TFJUU2E1WnZqUU9nMDhxSXVxalBzVXlfbkxvV0dIelJ1NkxuRV9ocHAxMWFmZ2sxdWV4bm9GOXhJajlGTmQzWmtOMVk0c1JyM1N2akxvUUg0bDlfbmwwSVEtZEU5eVY2a1JvdDV1aGxEWmpZNG5RSTVMOHlIMEoxMG00Tk1YUmEyUndLejEyQQ?oc=5\" target=\"_blank\">The northern frontier: Analysing the Galwan clash as a Chinese strategy in eastern Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmZndkZoMXNXLWZaUU1ha0tIRTlXcEgzaGRsOFpGNU5pWk51VVliZnNlcXNYaGlEajc3TEJFTF9jdnNxVFRrU1RJWm82MWNvWXhjRzk5N3gyazFtaExON19fSUg1eHFhc0NNZ3hxUGxhRXZiRlJVajNJYkNUMkxEVDRHcTFVRG9jcGIwYWFycVBKOHFyU3BUVDk0NW5jMDV5Z1R6ZExnQWpEVG9yS2VPMWp6eFNfOXBqREHSAb4BQVVfeXFMTVMxbmN1cHBsdmRxWTNZS3NOYVJIbUZKamRMbjRXbzBnQ2tFaFFUano0Q3hKVTI4TFJUU2E1WnZqUU9nMDhxSXVxalBzVXlfbkxvV0dIelJ1NkxuRV9ocHAxMWFmZ2sxdWV4bm9GOXhJajlGTmQzWmtOMVk0c1JyM1N2akxvUUg0bDlfbmwwSVEtZEU5eVY2a1JvdDV1aGxEWmpZNG5RSTVMOHlIMEoxMG00Tk1YUmEyUndLejEyQQ?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Two-Day Cyber Resilience and AI Workshop Concludes in Kargil.",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOLThqV0lINmVDbEFEeTNQaTh1Q3htWEdJV1g5cXpJbEg3dVdVT0U1RkVJOVFLX1Y1UDdWRGIxazhaUWpqdGNObm5GS0FkcmVTUWZmTDl6NHdIZWRBWUdNMnBiQjNORGRMVE00UDRhSDRabUVUcERic1VOMTQ1dVRxUUw3Y2ZEZw?oc=5\" target=\"_blank\">Two-Day Cyber Resilience and AI Workshop Concludes in Kargil.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Administration of Union Territory of Ladakh</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLThqV0lINmVDbEFEeTNQaTh1Q3htWEdJV1g5cXpJbEg3dVdVT0U1RkVJOVFLX1Y1UDdWRGIxazhaUWpqdGNObm5GS0FkcmVTUWZmTDl6NHdIZWRBWUdNMnBiQjNORGRMVE00UDRhSDRabUVUcERic1VOMTQ1dVRxUUw3Y2ZEZw?oc=5",
+   "source_name": "Administration of Union Territory of Ladakh",
+   "source_domain": "ladakh.gov.in",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "No, CDS Chauhan Did Not Say Government Ceded Arunachal, Ladakh To China | BOOM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU29CRFphVWRaVXRHTWFOR01CVzZjZEJZaHdsb3JIQzhWXzVWd2s5eW9QNnNIR0stLVN1WGdveTZDVl9UQjlPbEd3WTZNMFVETW11UENVYktHWk5qVURpOXl1VjZOVVZCSk5ZMGlPYlhSd1VUbU9QdE43STh0N2F5WTJLMXM4UXlQY1d5bjFpdzBIRldtVjExQVhvX0Z1NE9abFI0THdUUnAxa2Y4b2hEaE93UnY1T2dFWGVURk9feU12LTA2c1RYMUJKZ3hQdXBHUmkwTFh5djNLOFhR0gHiAUFVX3lxTE5Ic0lESnZNTVptN29Ua1RoSnp2cklwMGF0d0lnLUZxbmFJRW5zQTdMYnlybVBYOENoYW13Mzd5NmwwVGZWYXFrZGFhX3VENXNqQVhueEU0dHBxMXM2bW5pNFFjd05ZYTVDTGUxMktWVk92NTM3dnI2bFpaVXpMM002dnRIc0VNYVF2Z0F5QUR2SmJ1YUlmWnlZSnhJY2lfbWFBb2FyemQ2MVpCUXU1QlhsZWFYcXdjN2Z4aU1wWjRQUDlRLVRHejRvWGZfMmM3SWdTVnd6czFVblNaeWszQkZYc1E?oc=5\" target=\"_blank\">No, CDS Chauhan Did Not Say Government Ceded Arunachal, Ladakh To China | BOOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BOOM Fact Check</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU29CRFphVWRaVXRHTWFOR01CVzZjZEJZaHdsb3JIQzhWXzVWd2s5eW9QNnNIR0stLVN1WGdveTZDVl9UQjlPbEd3WTZNMFVETW11UENVYktHWk5qVURpOXl1VjZOVVZCSk5ZMGlPYlhSd1VUbU9QdE43STh0N2F5WTJLMXM4UXlQY1d5bjFpdzBIRldtVjExQVhvX0Z1NE9abFI0THdUUnAxa2Y4b2hEaE93UnY1T2dFWGVURk9feU12LTA2c1RYMUJKZ3hQdXBHUmkwTFh5djNLOFhR0gHiAUFVX3lxTE5Ic0lESnZNTVptN29Ua1RoSnp2cklwMGF0d0lnLUZxbmFJRW5zQTdMYnlybVBYOENoYW13Mzd5NmwwVGZWYXFrZGFhX3VENXNqQVhueEU0dHBxMXM2bW5pNFFjd05ZYTVDTGUxMktWVk92NTM3dnI2bFpaVXpMM002dnRIc0VNYVF2Z0F5QUR2SmJ1YUlmWnlZSnhJY2lfbWFBb2FyemQ2MVpCUXU1QlhsZWFYcXdjN2Z4aU1wWjRQUDlRLVRHejRvWGZfMmM3SWdTVnd6czFVblNaeWszQkZYc1E?oc=5",
+   "source_name": "BOOM Fact Check",
+   "source_domain": "boomlive.in",
+   "published_raw": "Mon, 01 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ashish Kundra appointed new Chief Secretary of Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkVIUkZDUWM4clpyVzdxQXJhMkJMRUk1c2VjQld2RU10S3RkZnZfNi1kR0xtQUdlZVlRV2VCemNva3JqYTE1eS1BR1IzQXJRa0E1SGIzcTBlN3VsWmZkTTRYWWZ2eGdCTVBUdzREaGgxNGdFVWZleno0WWgwTmJwVWdaX0lFell5YURreFdpSFBRbDhPWFE?oc=5\" target=\"_blank\">Ashish Kundra appointed new Chief Secretary of Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkVIUkZDUWM4clpyVzdxQXJhMkJMRUk1c2VjQld2RU10S3RkZnZfNi1kR0xtQUdlZVlRV2VCemNva3JqYTE1eS1BR1IzQXJRa0E1SGIzcTBlN3VsWmZkTTRYWWZ2eGdCTVBUdzREaGgxNGdFVWZleno0WWgwTmJwVWdaX0lFell5YURreFdpSFBRbDhPWFE?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Fri, 28 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "General Naravane and Four Stars of Destiny: Row over former Indian army chief's unpublished memoir",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROEcybU1KMzdnVmZfcklXMnBnQ2dzVjNsQ19UTHpoVDA1Y1VPcUpJSnlfNUpXNUNOdmVsM0FydzUyUFJueHkwektSanJtSzBQNWZjUmx2X2h3UQ?oc=5\" target=\"_blank\">General Naravane and Four Stars of Destiny: Row over former Indian army chief's unpublished memoir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROEcybU1KMzdnVmZfcklXMnBnQ2dzVjNsQ19UTHpoVDA1Y1VPcUpJSnlfNUpXNUNOdmVsM0FydzUyUFJueHkwektSanJtSzBQNWZjUmx2X2h3UQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Did Prime Minister Modi Dodge Responsibility During a Crucial Clash With China?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcF82REMzMkFNN0c2Q1NTXzZjT1QtblhPb1hlQlFKamFFYzYtVVltY0lZT3ZadkZSV0dWZG43c3AtcVBNbTN2bk5JaFFlZ2ZoYjc3cGlRUXdGR2wtTWo3MkZDUlNwVklsQXBCd0dLQjljbWVBQk1TVXNBSFlzVHZmNHZwSTJCTTN3dm0ySzRPRUtYZm9zeW5GUE51T05QN3JvLVZ1cThxT3JEY0xabnJjQw?oc=5\" target=\"_blank\">Did Prime Minister Modi Dodge Responsibility During a Crucial Clash With China?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomat – Asia-Pacific Current Affairs Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcF82REMzMkFNN0c2Q1NTXzZjT1QtblhPb1hlQlFKamFFYzYtVVltY0lZT3ZadkZSV0dWZG43c3AtcVBNbTN2bk5JaFFlZ2ZoYjc3cGlRUXdGR2wtTWo3MkZDUlNwVklsQXBCd0dLQjljbWVBQk1TVXNBSFlzVHZmNHZwSTJCTTN3dm0ySzRPRUtYZm9zeW5GUE51T05QN3JvLVZ1cThxT3JEY0xabnJjQw?oc=5",
+   "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "source_domain": "thediplomat.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "This viral video of CDS Anil Chauhan allegedly stating that the Indian government surrendered Arunachal Pradesh, Ladakh to China is fake",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeWRXQUpNTjd5Y3pvczZzMDFmd0JNLTFKNkwtN0JYU0w1b2JnaGZxZHo5SExONW1lcVQyNUlQN3B4Z3V5elNPOWxRSlRTb1hqYTljdmlmaHpLMzFNNGxCNVJuSXgtTWdITkJLV2pieXp3MDdIV2VPM3lYWXYxaHMxb1M0bUtXY2R4Y0hyaVZPaVpfU1ZGdk9ZckM0VWhGMHhmclJQZ1Y2eGRBUjRlQmNfLVk0am11NnNhNGlEWmpmdm1aMG5MLVYxRmlScnA1MmpRVXZpNUtCalowMGU0dGNIbFdVOTNhMzczMUE?oc=5\" target=\"_blank\">This viral video of CDS Anil Chauhan allegedly stating that the Indian government surrendered Arunachal Pradesh, Ladakh to China is fake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FACTLY</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeWRXQUpNTjd5Y3pvczZzMDFmd0JNLTFKNkwtN0JYU0w1b2JnaGZxZHo5SExONW1lcVQyNUlQN3B4Z3V5elNPOWxRSlRTb1hqYTljdmlmaHpLMzFNNGxCNVJuSXgtTWdITkJLV2pieXp3MDdIV2VPM3lYWXYxaHMxb1M0bUtXY2R4Y0hyaVZPaVpfU1ZGdk9ZckM0VWhGMHhmclJQZ1Y2eGRBUjRlQmNfLVk0am11NnNhNGlEWmpmdm1aMG5MLVYxRmlScnA1MmpRVXZpNUtCalowMGU0dGNIbFdVOTNhMzczMUE?oc=5",
+   "source_name": "FACTLY",
+   "source_domain": "factly.in",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Sonam Wangchuk was instigating people in border area: Govt to SC",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGo0eDM5QmhPX3VMVFdzMGoyU1JLWjZna2V6LXdyRnNJVmVZczhBQnpIazFBeDlkNmlkb2NXaDNncHBXZmpfbHdwSmRqaDk5M2pfWFh4aUdRaF9QSE9sblNrdFRTblNYVnZpYTV4VEt3Rmw5UGloVmVjckVKLTQ1aUFPbnJsQ29qSXB5REppZlVmTlhHQUEtRkZ3MmVNWUlsRnp5V05tV1N1Vk5FRDRfZjdB0gG4AUFVX3lxTFBJR2FuMnZBQnBxR3Jxd2ZuWmVBTVRuamJvOG5QVkRKUUZJdWRxVy03TmFvdnl2OEQwUUwyUmloeTRTck5qZVVHUFVIbkFxT21TenBSZmxYQktSbHBGNDctSHNydjg2VE1xWElPY1hJLVhHS2E0LURXZ0twOGJZUmJJNEhjeW1PNkR3NktwT3lUV09neVBwT0QtUmswQmJwR055VDYySzhxX25RdGt1S2dSZlJUUEJFUzI?oc=5\" target=\"_blank\">Sonam Wangchuk was instigating people in border area: Govt to SC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGo0eDM5QmhPX3VMVFdzMGoyU1JLWjZna2V6LXdyRnNJVmVZczhBQnpIazFBeDlkNmlkb2NXaDNncHBXZmpfbHdwSmRqaDk5M2pfWFh4aUdRaF9QSE9sblNrdFRTblNYVnZpYTV4VEt3Rmw5UGloVmVjckVKLTQ1aUFPbnJsQ29qSXB5REppZlVmTlhHQUEtRkZ3MmVNWUlsRnp5V05tV1N1Vk5FRDRfZjdB0gG4AUFVX3lxTFBJR2FuMnZBQnBxR3Jxd2ZuWmVBTVRuamJvOG5QVkRKUUZJdWRxVy03TmFvdnl2OEQwUUwyUmloeTRTck5qZVVHUFVIbkFxT21TenBSZmxYQktSbHBGNDctSHNydjg2VE1xWElPY1hJLVhHS2E0LURXZ0twOGJZUmJJNEhjeW1PNkR3NktwT3lUV09neVBwT0QtUmswQmJwR055VDYySzhxX25RdGt1S2dSZlJUUEJFUzI?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 03 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "J&K minister rejects statehood demand for Jammu, calls for Ladakh’s reunion",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMEQ3b2xhaGt0OUdYMGQ3YjZSR29IZGRKUklpVE0zMlVhOV9iSkZUX2FMQlhuQ3E3Tk1JazY2bi1OaG5FUjg4RGZ6RVY3cnNFZGVGWklMazVEQmJBeldHLVoyaDFCbTE1U1VJWE1CTl9GMUY3ZHlabUZjQmxFeDdLcERSQ2JfUjVuNUtMT0dyYmVad1ZjNFJIMzNzZE9kWWNVaENQa3lXcVo4X0UtYmx4ekRRcjk1Q1VpdWo3MEZZN0JnclRlRlJac1p1TFdQUlY5eWZ6eS0zRdIB3AFBVV95cUxOY2VwRWpKeXVRRWMyMzhuSm1IOHBLay1QcFluekNBUF9Pa2FyM2Y0bUk0SWdqTDJEQjRuY0tmQnVwdmhLZmlEQzFRaUhCQUE2N21uOW5zM2ZRUmxxVGZEUjdMeVJweVE0TU42cWZib2ljOFFGNU5uNXNac01Rd2NMV2RjX2VzdWJRbnExUm5jRWo3UVQ1bF85enpRVFBKSVRTTHREeC02b09sMVV6RGpGUTdnYUQycjVJOHdGVldIX3JITDZyeWltcGhQREN6V3k5WXVNQUo1ZlNfY1Yx?oc=5\" target=\"_blank\">J&amp;K minister rejects statehood demand for Jammu, calls for Ladakh’s reunion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMEQ3b2xhaGt0OUdYMGQ3YjZSR29IZGRKUklpVE0zMlVhOV9iSkZUX2FMQlhuQ3E3Tk1JazY2bi1OaG5FUjg4RGZ6RVY3cnNFZGVGWklMazVEQmJBeldHLVoyaDFCbTE1U1VJWE1CTl9GMUY3ZHlabUZjQmxFeDdLcERSQ2JfUjVuNUtMT0dyYmVad1ZjNFJIMzNzZE9kWWNVaENQa3lXcVo4X0UtYmx4ekRRcjk1Q1VpdWo3MEZZN0JnclRlRlJac1p1TFdQUlY5eWZ6eS0zRdIB3AFBVV95cUxOY2VwRWpKeXVRRWMyMzhuSm1IOHBLay1QcFluekNBUF9Pa2FyM2Y0bUk0SWdqTDJEQjRuY0tmQnVwdmhLZmlEQzFRaUhCQUE2N21uOW5zM2ZRUmxxVGZEUjdMeVJweVE0TU42cWZib2ljOFFGNU5uNXNac01Rd2NMV2RjX2VzdWJRbnExUm5jRWo3UVQ1bF85enpRVFBKSVRTTHREeC02b09sMVV6RGpGUTdnYUQycjVJOHdGVldIX3JITDZyeWltcGhQREN6V3k5WXVNQUo1ZlNfY1Yx?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:29+00:00"
+  }
+ ]
+}

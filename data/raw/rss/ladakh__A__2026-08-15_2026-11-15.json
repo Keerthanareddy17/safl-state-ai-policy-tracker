@@ -1,0 +1,252 @@
+{
+ "region": "Ladakh",
+ "group": "A",
+ "query": "(Ladakh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-08-15 before:2026-11-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Ladakh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-08-15+before%3A2026-11-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:27+00:00",
+ "item_count": 22,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "How Much Does A Month-Long Workation In Ladakh Cost? This Couple Tracked Every Rupee",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOME00bWVLRHZUZjhKRHFBQ0NGdFNsRU43VmhKcTc0b3dqaWRUZk9XTzg2dW5LU25Ma19DNElhRURxSGVJU0NtR0plbmEyLTFfVWFWREZ1TmpiT296TDhxWTR4RVpQR0NPSXhGWW4zMXpxX1ZURmtPc0YtUzdhV2tSUlJacDFfd3RoRFlEcTBFVk5VdlMtWG5MLWtxN3Y4WWRJTUtSYndMRnhEbVFGSjlTNHZ5Yloza0FfNG1lRNIBxAFBVV95cUxOZUhlTU1oSUJudVVMbUtTNXZ5WTJQZVNEelBQeFAweTVmeEl0T2FKVldkSFZXYzhRSEFyNVZHNHRJN1BPazRQc1dodmdtYTZwaXBZcUR4QzBoM3lCV1RsdUtCZ1J5bjBFeVM3emVzM3FacVhzRmg3ZVpEellTSEQ0SGFpR0NqTk9DMlhSWndjY1Jfc0U3VnF6ME8wUmZOY3ZlQndtSk5Xbm9MczRkRWxCWlE5aWxUR25LZTFtYlF6M194ckpw?oc=5\" target=\"_blank\">How Much Does A Month-Long Workation In Ladakh Cost? This Couple Tracked Every Rupee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOME00bWVLRHZUZjhKRHFBQ0NGdFNsRU43VmhKcTc0b3dqaWRUZk9XTzg2dW5LU25Ma19DNElhRURxSGVJU0NtR0plbmEyLTFfVWFWREZ1TmpiT296TDhxWTR4RVpQR0NPSXhGWW4zMXpxX1ZURmtPc0YtUzdhV2tSUlJacDFfd3RoRFlEcTBFVk5VdlMtWG5MLWtxN3Y4WWRJTUtSYndMRnhEbVFGSjlTNHZ5Yloza0FfNG1lRNIBxAFBVV95cUxOZUhlTU1oSUJudVVMbUtTNXZ5WTJQZVNEelBQeFAweTVmeEl0T2FKVldkSFZXYzhRSEFyNVZHNHRJN1BPazRQc1dodmdtYTZwaXBZcUR4QzBoM3lCV1RsdUtCZ1J5bjBFeVM3emVzM3FacVhzRmg3ZVpEellTSEQ0SGFpR0NqTk9DMlhSWndjY1Jfc0U3VnF6ME8wUmZOY3ZlQndtSk5Xbm9MczRkRWxCWlE5aWxUR25LZTFtYlF6M194ckpw?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Tue, 22 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh regulation revises Hill Council structure and election rules",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWVXQzl6ZkFMdk1ja05Xa0tTTDNfUWk5YmI5bDNzbVZOUXZpS1FxbWRHTnlJTEVmaHowdUZIdGllOEU3ZXU1UE9scU9BQnh3QWt0X2NGQXlkaGd0aG1aNEVIa28xRnhhN2h5UlBNcU9GdlNUdzk4WGtZZmx2S2lwTTlRUEtRSDVGRC1HMFhNTXdsaGVGbUFpQzd6S05CcWUzVTZPc19MVFIwSERxNUY1Z2tmQzJVSzJi?oc=5\" target=\"_blank\">Ladakh regulation revises Hill Council structure and election rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWVXQzl6ZkFMdk1ja05Xa0tTTDNfUWk5YmI5bDNzbVZOUXZpS1FxbWRHTnlJTEVmaHowdUZIdGllOEU3ZXU1UE9scU9BQnh3QWt0X2NGQXlkaGd0aG1aNEVIa28xRnhhN2h5UlBNcU9GdlNUdzk4WGtZZmx2S2lwTTlRUEtRSDVGRC1HMFhNTXdsaGVGbUFpQzd6S05CcWUzVTZPc19MVFIwSERxNUY1Z2tmQzJVSzJi?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Sat, 17 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "IIM Jammu signs MoU with Ladakh administration to set up satellite campus in Leh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR3ZlZzQweXMtb3M3REZHdGdBRV92b0VILUJjVTFSaGpaVmoySEpUajRZNkt5WUc2aFpob1FHVkgtZWg2S0Z6UHBMd2I2VzNNaTdzOHJRX240UWIzSERLZ0hrVXFMS1haTDduS2V3eVZleVBXRkFpMlRlYktNR3BkRGg4VVlIbTdBanJxRWljdXBKY1FFc2lMaWNrWXY0dHNDRU9VVDR3NWlaUXo2RWN0dGVJZjI4RHVJRGhNWTAtRVVYVkZoeXh1NHVWb1pyTVBTZlFJSXJHWUdETmU0NFdOWXYzUHlmMUJNbG85eUZn0gHzAUFVX3lxTE9NZ0JtcXg1OTM1QnpPbVdMQWFxb0tCTGg0dFRrWXpsNHlfb29pM3o5X2dBY0cxUGc3NmpjaWVCdFlhZmpwSkJ4TnZzRXB6SkNZRlBONEJKX1ZMVXh2VjJZckNaY2lkMjEwTzMyclZaS1pPeVRGYXBmdmtDZ0RzMmZsQkZPdkxOdzVLNFUtUFozSThfdk11V1hTSkQ0dmQtM2Z6R3lYSXVvOWUxZ1RqZjZJQldqb2d0aG5pLUdUdXdTQjdUUkZQcGEzeEtBRDRTSkFZcUh5QVN2WnI1cTZPSGx2dUtKVHA2S0QtdlZFeVlsVXd5NA?oc=5\" target=\"_blank\">IIM Jammu signs MoU with Ladakh administration to set up satellite campus in Leh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR3ZlZzQweXMtb3M3REZHdGdBRV92b0VILUJjVTFSaGpaVmoySEpUajRZNkt5WUc2aFpob1FHVkgtZWg2S0Z6UHBMd2I2VzNNaTdzOHJRX240UWIzSERLZ0hrVXFMS1haTDduS2V3eVZleVBXRkFpMlRlYktNR3BkRGg4VVlIbTdBanJxRWljdXBKY1FFc2lMaWNrWXY0dHNDRU9VVDR3NWlaUXo2RWN0dGVJZjI4RHVJRGhNWTAtRVVYVkZoeXh1NHVWb1pyTVBTZlFJSXJHWUdETmU0NFdOWXYzUHlmMUJNbG85eUZn0gHzAUFVX3lxTE9NZ0JtcXg1OTM1QnpPbVdMQWFxb0tCTGg0dFRrWXpsNHlfb29pM3o5X2dBY0cxUGc3NmpjaWVCdFlhZmpwSkJ4TnZzRXB6SkNZRlBONEJKX1ZMVXh2VjJZckNaY2lkMjEwTzMyclZaS1pPeVRGYXBmdmtDZ0RzMmZsQkZPdkxOdzVLNFUtUFozSThfdk11V1hTSkQ0dmQtM2Z6R3lYSXVvOWUxZ1RqZjZJQldqb2d0aG5pLUdUdXdTQjdUUkZQcGEzeEtBRDRTSkFZcUh5QVN2WnI1cTZPSGx2dUtKVHA2S0QtdlZFeVlsVXd5NA?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "All 8 Ladakh districts to have Hill Development Councils under new regulation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlJmaEJwWlQ4STBvby1GX05IM2RWbWdNdWhQUGZGUjhGMHZYMGstM210SDJ4Y2gwZzdRalBJTi1QeUt0Y3JyVWZ3T3hobDNtYWhtV2FLNC1wTjJ1cENDZm9jMHVrNW5XOTFfcVJua3I4U21FTzhmZWJnV3o4cElJbVNxTGxkNjBtRTlfajJTQ2ZXZ1d2VEpPdGRORjFjLWl4ZV9KX3ZmZnZqVFdGMUVjX0R3cWtiQ282dEp3dGo0WldrS1RSQzM5MVV30gHPAUFVX3lxTE1XRU1MeDlUZ3l0RWJvbGR5d0g5SnRZbDRMNDNVWlYzYkNBRDlEekhITld4U1AwTTQtMWxUVHdIVUk2dlVreGFhZFFMc2l5M2FFaTBOdG9tXy12YVhxOWM2SkdMQ1NuREktTVJJM21kWUM1Zkh4WXRuWk9GbG1naG9faUVMMlNwSU9VX3R1WlY5MjJNVVV0SjhxYTM0SGxyNDA1TjFQQ2NCbnpMV0ZvVDc2anc1UW1WTGNtRWctRjk4ZUJ5NUptaW5CZ3VlUW15MA?oc=5\" target=\"_blank\">All 8 Ladakh districts to have Hill Development Councils under new regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlJmaEJwWlQ4STBvby1GX05IM2RWbWdNdWhQUGZGUjhGMHZYMGstM210SDJ4Y2gwZzdRalBJTi1QeUt0Y3JyVWZ3T3hobDNtYWhtV2FLNC1wTjJ1cENDZm9jMHVrNW5XOTFfcVJua3I4U21FTzhmZWJnV3o4cElJbVNxTGxkNjBtRTlfajJTQ2ZXZ1d2VEpPdGRORjFjLWl4ZV9KX3ZmZnZqVFdGMUVjX0R3cWtiQ282dEp3dGo0WldrS1RSQzM5MVV30gHPAUFVX3lxTE1XRU1MeDlUZ3l0RWJvbGR5d0g5SnRZbDRMNDNVWlYzYkNBRDlEekhITld4U1AwTTQtMWxUVHdIVUk2dlVreGFhZFFMc2l5M2FFaTBOdG9tXy12YVhxOWM2SkdMQ1NuREktTVJJM21kWUM1Zkh4WXRuWk9GbG1naG9faUVMMlNwSU9VX3R1WlY5MjJNVVV0SjhxYTM0SGxyNDA1TjFQQ2NCbnpMV0ZvVDc2anc1UW1WTGNtRWctRjk4ZUJ5NUptaW5CZ3VlUW15MA?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Why has the boundary between India and China in Ladakh remained disputed?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWZiQVNRWkdpREpYMmdtSG9PNnhTZ0RYZUJSc3JEOU41MS1jX3NuTWpvN2l1U3hPd0FLSmh4ZWh6QjhtU2ZZcV9TbnNYWHhDaHJhbi1xek9uOHdrenJLN0RIY0o5MjhyVmlvNERwbURxZWt2SE9pazBqcW5odE9sR0RaeHdEczFwTjdzYUpUSjFvVDdqd0taYzNhRUQ3cmJEeEhBbU91Vlc?oc=5\" target=\"_blank\">Why has the boundary between India and China in Ladakh remained disputed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWZiQVNRWkdpREpYMmdtSG9PNnhTZ0RYZUJSc3JEOU41MS1jX3NuTWpvN2l1U3hPd0FLSmh4ZWh6QjhtU2ZZcV9TbnNYWHhDaHJhbi1xek9uOHdrenJLN0RIY0o5MjhyVmlvNERwbURxZWt2SE9pazBqcW5odE9sR0RaeHdEczFwTjdzYUpUSjFvVDdqd0taYzNhRUQ3cmJEeEhBbU91Vlc?oc=5",
+   "source_name": "Britannica",
+   "source_domain": "britannica.com",
+   "published_raw": "Wed, 11 Nov 2026 15:13:39 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "CJI Surya Kant to Inaugurate Ladakh's First Permanent HC Bench in Leh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVlhR2h2OEZDYm11UzUxV19QMEpCSWpCcXFEekw0cHgtdXJEYzBhekNKM0g5RlVPVjR2RjNPZ2hlTGQ3N0hoQmthYWZJeWRScXJ3NlJpSGpkY1REMUhKSzV0Nk1YQWZuRlkwd0R1NUdEQzJJVldCN3BvUHE5ZGtOLTVUY3IzXzg3NEIwd1J5eTZua3N0ZHNfRUtEaXZZbGEycE1Sbk1lcVZJZG9RYU4yUmdPWFZVMkpqbXpqc3k4eFRHdVZBVmh3UFhna9IB0AFBVV95cUxPeFpodEJqVTVUQUg5dVNBQVo5R0RFRl9sbzZxblZlcjhIOEpMVUtlUGw5ODJWQzFTMDJRUVVwSlFEdGVidTA2a050NkFHSXNFRlhsRXVBTE5GV0JsSndMd2tVSlRRbTFla1ozVXZncmJlOXBxSzJ4eGNjS0dYVUZMdUxxdUlJTG1FTDRUVF9EYmlTYWt3NzJxUHhFOS1LWGc5emQzXzZ6ZDJPUFNZbGJqRzFCT0NnMDZRMFFkNXJPTG5Vam9tRVhhb19vVWRvN0Fm?oc=5\" target=\"_blank\">CJI Surya Kant to Inaugurate Ladakh's First Permanent HC Bench in Leh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVlhR2h2OEZDYm11UzUxV19QMEpCSWpCcXFEekw0cHgtdXJEYzBhekNKM0g5RlVPVjR2RjNPZ2hlTGQ3N0hoQmthYWZJeWRScXJ3NlJpSGpkY1REMUhKSzV0Nk1YQWZuRlkwd0R1NUdEQzJJVldCN3BvUHE5ZGtOLTVUY3IzXzg3NEIwd1J5eTZua3N0ZHNfRUtEaXZZbGEycE1Sbk1lcVZJZG9RYU4yUmdPWFZVMkpqbXpqc3k4eFRHdVZBVmh3UFhna9IB0AFBVV95cUxPeFpodEJqVTVUQUg5dVNBQVo5R0RFRl9sbzZxblZlcjhIOEpMVUtlUGw5ODJWQzFTMDJRUVVwSlFEdGVidTA2a050NkFHSXNFRlhsRXVBTE5GV0JsSndMd2tVSlRRbTFla1ozVXZncmJlOXBxSzJ4eGNjS0dYVUZMdUxxdUlJTG1FTDRUVF9EYmlTYWt3NzJxUHhFOS1LWGc5emQzXzZ6ZDJPUFNZbGJqRzFCT0NnMDZRMFFkNXJPTG5Vam9tRVhhb19vVWRvN0Fm?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Sun, 18 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "ILTN and Jindal Global University's Ideate Lab bring legal AI buyers and builders together to draft a product assessment standard",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPNzVzZ3RlQ2VyWnUwX25tdUo1em9TcFFGcXc4WTFUVFFJcEhvdDFMYkpNelluamgtZjRnLXJwb0hlVVQtbUhEcko2TUZXcV9kZUNmakdFMFE0RkhsVXJuN0k5bzNBemFEaGpfN245cWRtVngyU2NnYXdkYk9zYlo4Z2xsN3FrWHRxT2ZXV0Z5aXNKX0lQWERhQThSMUdaVzkyTDV5eTR3WVRUX2pORWpVTkNrUG5uUHdXbXhsZnhNYXBpNG5qZjlpR1VvVkh5ZXlMU0wzOTVHZjlGeXlTSExnTldtb0M0QzI5UUFpWVN6SU14SVExNDl4elkyOGRXalpEQTVRLV9Zdkg0azlVaHRN0gGPAkFVX3lxTE83NXNndGVDZXJadTBfbm11SjV6b1NwUUZxdzhZMVRUUUlwSG90MUxiSk16WW5qaC1mNGctcnBvSGVVVC1tSERySjZNRldxX2RlQ2ZqR0UwUTRGSGxVcm43STlvM0F6YURoal83bjlxZG1WeDJTY2dhd2RiT3NiWjhnbGw3cWtYdHFPZldXRnlpc0pfSVBYRGFBOFIxR1pXOTJMNXl5NHdZVFRfak5FalVOQ2tQbm5Qd1dteGxmeE1hcGk0bmpmOWlHVW9WSHlleUxTTDM5NUdmOUZ5eVNITGdOV21vQzRDMjlRQWlZU3pJTXhJUTE0OXh6WTI4ZFdqWkRBNVEtX1l2SDRrOVVodE0?oc=5\" target=\"_blank\">ILTN and Jindal Global University's Ideate Lab bring legal AI buyers and builders together to draft a product assessment standard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bar and Bench</font>",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNzVzZ3RlQ2VyWnUwX25tdUo1em9TcFFGcXc4WTFUVFFJcEhvdDFMYkpNelluamgtZjRnLXJwb0hlVVQtbUhEcko2TUZXcV9kZUNmakdFMFE0RkhsVXJuN0k5bzNBemFEaGpfN245cWRtVngyU2NnYXdkYk9zYlo4Z2xsN3FrWHRxT2ZXV0Z5aXNKX0lQWERhQThSMUdaVzkyTDV5eTR3WVRUX2pORWpVTkNrUG5uUHdXbXhsZnhNYXBpNG5qZjlpR1VvVkh5ZXlMU0wzOTVHZjlGeXlTSExnTldtb0M0QzI5UUFpWVN6SU14SVExNDl4elkyOGRXalpEQTVRLV9Zdkg0azlVaHRN0gGPAkFVX3lxTE83NXNndGVDZXJadTBfbm11SjV6b1NwUUZxdzhZMVRUUUlwSG90MUxiSk16WW5qaC1mNGctcnBvSGVVVC1tSERySjZNRldxX2RlQ2ZqR0UwUTRGSGxVcm43STlvM0F6YURoal83bjlxZG1WeDJTY2dhd2RiT3NiWjhnbGw3cWtYdHFPZldXRnlpc0pfSVBYRGFBOFIxR1pXOTJMNXl5NHdZVFRfak5FalVOQ2tQbm5Qd1dteGxmeE1hcGk0bmpmOWlHVW9WSHlleUxTTDM5NUdmOUZ5eVNITGdOV21vQzRDMjlRQWlZU3pJTXhJUTE0OXh6WTI4ZFdqWkRBNVEtX1l2SDRrOVVodE0?oc=5",
+   "source_name": "Bar and Bench",
+   "source_domain": "barandbench.com",
+   "published_raw": "Mon, 19 Oct 2026 05:14:28 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh LG Vinai Kumar Saxena notifies LAHDC (Amendment) Regulation 2026, paving way for Hill Councils in all 8 districts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBXUHJrWVQyTkNKQWs4XzlfaWUzWXBUSkhEUEFyVE1hRmd6dFZRWE8tX21HWFBkc1UwcmRONUJleVVHNklmZVdRVHZNYWNpa1RJOEZfZVFIXy15U2lKeFM0RkJsR3JMbURkODhRM2dGVXpub2V1ZFI5WVpB?oc=5\" target=\"_blank\">Ladakh LG Vinai Kumar Saxena notifies LAHDC (Amendment) Regulation 2026, paving way for Hill Councils in all 8 districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rising Kashmir</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXUHJrWVQyTkNKQWs4XzlfaWUzWXBUSkhEUEFyVE1hRmd6dFZRWE8tX21HWFBkc1UwcmRONUJleVVHNklmZVdRVHZNYWNpa1RJOEZfZVFIXy15U2lKeFM0RkJsR3JMbURkODhRM2dGVXpub2V1ZFI5WVpB?oc=5",
+   "source_name": "Rising Kashmir",
+   "source_domain": "risingkashmir.com",
+   "published_raw": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "IIM Jammu, Ladakh administration join hands for satellite campus in Leh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQYkxRc3R4MXJrVDZyS1JYZWlYdGx5YUdpTllpNjJYRFliT2RLZFg4cTBHUlZreGQxMnFXbHlacWZTcW1jeFhYSjJUMGp6ZTNvVjlyQzhRR3Aza0tnaGJHd09xOGhiRUltZU5aWXllcE9zNi1OTkZpZmhDZnFhRGJTeFdTb0pIV2xUbHNnV0VIZ2tHYTVGc2pVSlBOeV9wZ1E4UEJZQno5RjRoWThTeVA5cUE1Mmxpeld3V2RkNVBBdklCTFQ20gHKAUFVX3lxTE4yRkoxdGRmWFhrQ3VQUGJPb19VaDdxWHpWTlNVc1lsUGV1b3ZRVkpzakJPREpMd1huV09sNDNlLWhnWG5uN0loVEh5bGx3ckt3eHR2amtlMXpmcWVXbFZNUjN1aWZSSDBLenRUajZlaUs3emJWQlpuVXpVdkNRZk4wYm9wQTc0N1N3MlZLdW1Zc0JXdGZBM3V1Xy1XLXhFeFd4NGh0LXY3VDNYdW1tbU5UTlFCbUxwODVybS1uNW9rMWE3UTZIX3R1VFE?oc=5\" target=\"_blank\">IIM Jammu, Ladakh administration join hands for satellite campus in Leh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Careers360</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYkxRc3R4MXJrVDZyS1JYZWlYdGx5YUdpTllpNjJYRFliT2RLZFg4cTBHUlZreGQxMnFXbHlacWZTcW1jeFhYSjJUMGp6ZTNvVjlyQzhRR3Aza0tnaGJHd09xOGhiRUltZU5aWXllcE9zNi1OTkZpZmhDZnFhRGJTeFdTb0pIV2xUbHNnV0VIZ2tHYTVGc2pVSlBOeV9wZ1E4UEJZQno5RjRoWThTeVA5cUE1Mmxpeld3V2RkNVBBdklCTFQ20gHKAUFVX3lxTE4yRkoxdGRmWFhrQ3VQUGJPb19VaDdxWHpWTlNVc1lsUGV1b3ZRVkpzakJPREpMd1huV09sNDNlLWhnWG5uN0loVEh5bGx3ckt3eHR2amtlMXpmcWVXbFZNUjN1aWZSSDBLenRUajZlaUs3emJWQlpuVXpVdkNRZk4wYm9wQTc0N1N3MlZLdW1Zc0JXdGZBM3V1Xy1XLXhFeFd4NGh0LXY3VDNYdW1tbU5UTlFCbUxwODVybS1uNW9rMWE3UTZIX3R1VFE?oc=5",
+   "source_name": "Careers360",
+   "source_domain": "news.careers360.com",
+   "published_raw": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh’s winter polls face twin protests: Leh boycott, Kargil shutdown",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0JUUEp4VWx6eFVMZ1BfSXNIOFkxYWthc1NWbi1NZjBzbnV0T1FlY0dGU2ViWDBwaXFWcE1kbEhhb3JfaTlTSWR4Nzh6MFVPME1ZUVBaODFfRGtpTnFYcTJLXzYwSHlfYlFicXZEM25CcEpZUkw3M3hBa3pqU1pESnd1TmxhQlpMelpPRUw2cjYxekdWODFGLUxPTlAyRktsS0IxUV9BcXdhd9IBsAFBVV95cUxOcUdxMHR5T0JqRVBPQldOSW5sWGh6bEphZ2hRd2RqaWhQaXUybGljNWZQQ2FqVHdZZ0ZPbjVaUlRRRHhIWXBPSjAwcDM5Nl9YNVFKSTc0X3F0VElpcFNhMTJQcW44ajMxd09VU3c0ejFVcVBhVlpydWdudC1lYjJPckh2eDJrZkZSbVA2RkczSklza1pIVVU1OVpVdktiSFZzbGdNY2g3QkNGb1RIN0QyNA?oc=5\" target=\"_blank\">Ladakh’s winter polls face twin protests: Leh boycott, Kargil shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0JUUEp4VWx6eFVMZ1BfSXNIOFkxYWthc1NWbi1NZjBzbnV0T1FlY0dGU2ViWDBwaXFWcE1kbEhhb3JfaTlTSWR4Nzh6MFVPME1ZUVBaODFfRGtpTnFYcTJLXzYwSHlfYlFicXZEM25CcEpZUkw3M3hBa3pqU1pESnd1TmxhQlpMelpPRUw2cjYxekdWODFGLUxPTlAyRktsS0IxUV9BcXdhd9IBsAFBVV95cUxOcUdxMHR5T0JqRVBPQldOSW5sWGh6bEphZ2hRd2RqaWhQaXUybGljNWZQQ2FqVHdZZ0ZPbjVaUlRRRHhIWXBPSjAwcDM5Nl9YNVFKSTc0X3F0VElpcFNhMTJQcW44ajMxd09VU3c0ejFVcVBhVlpydWdudC1lYjJPckh2eDJrZkZSbVA2RkczSklza1pIVVU1OVpVdktiSFZzbGdNY2g3QkNGb1RIN0QyNA?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 10 Nov 2026 08:01:55 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "India rejects China's objection to standard names for 28 Ladakh places",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZkJlR0txZGg1cVhsQ0piSWhyTVVmeF93WmUxLWpUZTVDMzNQVVdCMFFqZHludk5Eb1ZRQkRnY3hGcnoxenFRN09GbDh1M2trUk5odXFhM3BkbHZPSjBEODl6RGFNYnE1ektYNTY1U0RiVy1kRDdFeW1kWDRuZjJDTG5scnBFV3ZnSEFnTkU2UkRnRU1VdTZiMTl4ZkFjeGh5UFhzdnFxNTZmT3JnNkdiNDhMZlcwS2FjZDdhYndSTFhhc2NjTU1uUEkzS2lidGNUYTVSRnU3czZKMXk5cHN3TXVwSFRxZUJwN0lhNC0ySFo4V3EwTWfSAfsBQVVfeXFMTVJBWFg5VDFDUEoxOUFvb3VhVW9PRXV6eXNZaTFuTlRqdy1zRV9YeldqdUNfcmRNTnpwUkl6aUIxYWxVMS1YSkZHNUVGeEtJbnBkc1Myc1ZZcDlVVVE4ejJIUDdKRE1tdzMtN2tJZllpUkoydVBZTzU3dDYyWVBtUy1mVXVKU2JYYkljTDdwMm1VYmRXNnc0RV9xZExPbFN2Z0g1Wi1rcWhpRTFQb3N2MzNDWjNpejZKQW8wbnZfQlUzeFpfNGlBenoxWVBhQlpDckVyYW14STZqODFhTlR3Sjd1cFJha3EtTzJ6ZExtZkU1eExSNURQZmRYVTQ?oc=5\" target=\"_blank\">India rejects China's objection to standard names for 28 Ladakh places</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZkJlR0txZGg1cVhsQ0piSWhyTVVmeF93WmUxLWpUZTVDMzNQVVdCMFFqZHludk5Eb1ZRQkRnY3hGcnoxenFRN09GbDh1M2trUk5odXFhM3BkbHZPSjBEODl6RGFNYnE1ektYNTY1U0RiVy1kRDdFeW1kWDRuZjJDTG5scnBFV3ZnSEFnTkU2UkRnRU1VdTZiMTl4ZkFjeGh5UFhzdnFxNTZmT3JnNkdiNDhMZlcwS2FjZDdhYndSTFhhc2NjTU1uUEkzS2lidGNUYTVSRnU3czZKMXk5cHN3TXVwSFRxZUJwN0lhNC0ySFo4V3EwTWfSAfsBQVVfeXFMTVJBWFg5VDFDUEoxOUFvb3VhVW9PRXV6eXNZaTFuTlRqdy1zRV9YeldqdUNfcmRNTnpwUkl6aUIxYWxVMS1YSkZHNUVGeEtJbnBkc1Myc1ZZcDlVVVE4ejJIUDdKRE1tdzMtN2tJZllpUkoydVBZTzU3dDYyWVBtUy1mVXVKU2JYYkljTDdwMm1VYmRXNnc0RV9xZExPbFN2Z0g1Wi1rcWhpRTFQb3N2MzNDWjNpejZKQW8wbnZfQlUzeFpfNGlBenoxWVBhQlpDckVyYW14STZqODFhTlR3Sjd1cFJha3EtTzJ6ZExtZkU1eExSNURQZmRYVTQ?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "India rejects China’s claims on Ladakh, says UT is integral part of country",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZjFiLU1GcGF3aXBlRUFPM25XVkJKdU1XNjl2RWxQY2pqVHZNckRUWVEwRU5GX0FuM2RJMFZwZXZMQnlPOFBwRF9QempuXzA4M2FfbzIwZ3ZlRjNSeWlGRkl6dzl0dzdNbWRYTWtFQ1Z5aFJlQTVHRXFwR25hSGh3SmxGYUhyME9aM1cxQWVmY29TSldQWkdzZm5HdXRkWHpjSkZPQ1FEdzJKRTRGNUExNW9lel9rLVE4WUxocGxxNzlaTmxOZlpHWDdkMFNQMEF0MkFxa9IB2gFBVV95cUxOZjdJbWUxUmY2Rl81LWpxMDJxTFVtRnBsekNHXzN5YXlDMW9pZllQVEZ4Qi0wR2xBS1lrZDhmS3FXVHpHMUpzUy1KdFFxTUY0RmdDeE5Edl9OOV9hbU5qbmVUQ2Y5bi13SUtNdWVnTGV6NkFUZHVya1NFVWNHNmZpOGlSZGVPd1NTNXYxcDlOWjhSMzhoaklMZzhVY0IxN1RGV29GT08xUE5zUi1wajdTeVc5eTJETjhnSTh2Q2tiRjllVnE2M3FQVDJodHJZTkVJWXExLXFHZTFOdw?oc=5\" target=\"_blank\">India rejects China’s claims on Ladakh, says UT is integral part of country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZjFiLU1GcGF3aXBlRUFPM25XVkJKdU1XNjl2RWxQY2pqVHZNckRUWVEwRU5GX0FuM2RJMFZwZXZMQnlPOFBwRF9QempuXzA4M2FfbzIwZ3ZlRjNSeWlGRkl6dzl0dzdNbWRYTWtFQ1Z5aFJlQTVHRXFwR25hSGh3SmxGYUhyME9aM1cxQWVmY29TSldQWkdzZm5HdXRkWHpjSkZPQ1FEdzJKRTRGNUExNW9lel9rLVE4WUxocGxxNzlaTmxOZlpHWDdkMFNQMEF0MkFxa9IB2gFBVV95cUxOZjdJbWUxUmY2Rl81LWpxMDJxTFVtRnBsekNHXzN5YXlDMW9pZllQVEZ4Qi0wR2xBS1lrZDhmS3FXVHpHMUpzUy1KdFFxTUY0RmdDeE5Edl9OOV9hbU5qbmVUQ2Y5bi13SUtNdWVnTGV6NkFUZHVya1NFVWNHNmZpOGlSZGVPd1NTNXYxcDlOWjhSMzhoaklMZzhVY0IxN1RGV29GT08xUE5zUi1wajdTeVc5eTJETjhnSTh2Q2tiRjllVnE2M3FQVDJodHJZTkVJWXExLXFHZTFOdw?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "IAS Arava Gopi Krishna Given Additional Charge of Youth Services and Sports Dept, Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFh1dEQyMUZWdGdMQmRjSy0zWUZJWW5JLV9DVVVtclI0NXhTZkVMZTUtQTItZnpYTmhqVWwxd1lLVElibExRNVB6TE9vSTVnU0xrMzlvaEREdFEtTjJERThOd1NLNGtLdmgtR2RXR05Qenc2bVVxUmEtQnpWNWpTSWItUHcyVlpsbVlCZmtmMmpMZGZMYzdYZ25RLWQ3NFpXLUdvbEV3LTB3a1VadDZoMUVVbDBSeld5a1QwSVhxZDBVQQ?oc=5\" target=\"_blank\">IAS Arava Gopi Krishna Given Additional Charge of Youth Services and Sports Dept, Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFh1dEQyMUZWdGdMQmRjSy0zWUZJWW5JLV9DVVVtclI0NXhTZkVMZTUtQTItZnpYTmhqVWwxd1lLVElibExRNVB6TE9vSTVnU0xrMzlvaEREdFEtTjJERThOd1NLNGtLdmgtR2RXR05Qenc2bVVxUmEtQnpWNWpTSWItUHcyVlpsbVlCZmtmMmpMZGZMYzdYZ25RLWQ3NFpXLUdvbEV3LTB3a1VadDZoMUVVbDBSeld5a1QwSVhxZDBVQQ?oc=5",
+   "source_name": "APAC Media",
+   "source_domain": "apacnewsnetwork.com",
+   "published_raw": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh’s New Councils and the Statehood Demand",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxObmNYcWNORTRUMlpDbl9WNWJOZzZveEJsTUR1dFlobWVRRnFqeFIySHZRc0dxd2VZZ1dNdDYtMnFaN1VWa3c1emE1YW5BZFo5bGFIY0VBZFVCNVdYQjhrM2NGZG96U0NRMGZvRDlmcklFeDRmM3B0TDFwRVdCVTJoa3ZERVlSXzVZSmc?oc=5\" target=\"_blank\">Ladakh’s New Councils and the Statehood Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Countercurrents</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObmNYcWNORTRUMlpDbl9WNWJOZzZveEJsTUR1dFlobWVRRnFqeFIySHZRc0dxd2VZZ1dNdDYtMnFaN1VWa3c1emE1YW5BZFo5bGFIY0VBZFVCNVdYQjhrM2NGZG96U0NRMGZvRDlmcklFeDRmM3B0TDFwRVdCVTJoa3ZERVlSXzVZSmc?oc=5",
+   "source_name": "Countercurrents",
+   "source_domain": "countercurrents.org",
+   "published_raw": "Sat, 14 Nov 2026 14:49:01 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh calls Wangchuk’s excise policy claims ‘false, baseless’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmo3ZWtPT1RYbVJqQVVBZGR1OUFVY2c5SHhnSE1yLUlMcGpCVGUyUE1aUVl4cXV2UzhoYlVkYlRtZlMtQU9TZWdkMmhseVFLUnVvOFJZQkpuZUxwMGpQQmFWNC16TlF1WTdDMzlfVmtXUUNOMjQ1eFN0d0NUcUpyLXp6QXEtaUdmTFVnQUxRd0xtcUlmakpMd0N3eEczS1RSc2E5YkMtbFpTRHlxNmc?oc=5\" target=\"_blank\">Ladakh calls Wangchuk’s excise policy claims ‘false, baseless’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmo3ZWtPT1RYbVJqQVVBZGR1OUFVY2c5SHhnSE1yLUlMcGpCVGUyUE1aUVl4cXV2UzhoYlVkYlRtZlMtQU9TZWdkMmhseVFLUnVvOFJZQkpuZUxwMGpQQmFWNC16TlF1WTdDMzlfVmtXUUNOMjQ1eFN0d0NUcUpyLXp6QXEtaUdmTFVnQUxRd0xtcUlmakpMd0N3eEczS1RSc2E5YkMtbFpTRHlxNmc?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh’s Women Unite Across Faiths to Demand Total Liquor Ban",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMU5ra2lMVnJNN214QzR0T3c1US0ySll1T0tZMDVoX2FZZXBwNFlhQy1RbGNUay1ZMGFVQzRRcXB2cnFNTUxacllDMU1VdFEyMThJeEs4QlNNN0FRYlMyb3Z0T0NLTmt2ZGhxamNCa2hESk9JNmNKT0x1dk5JOUNwb0Y1OTNqVDdaZmhpOThOMlM1ekhHSGtQeG1lcnZmSnU4aTVEWTRVR3ZDUlo5cTJPXzFTZUlfSGxsZG5PQXN30gHDAUFVX3lxTE9uSmtXd3lCcE1ESFRDLVBISXVXS1NoczI5SjN4VVdRV0YxYy03ejFzQzJQUFQ2bVZlbml2Q24xTmNXV09acXBTck1YYl85YUZqaHhPcTJZVXVlejJDQXNkQlRYMHI2M2FvZHctTkZhMWhjNzhRelpYc0o5cWlSRkVUWHBJNlhROWNjcEZ2YWN5dkp5U0Q1bGllalc3ZUtQeFlISUhYUThmbXlZQmt2blhzMmZvdG9jY1QwSWhWSDVTSU1HYw?oc=5\" target=\"_blank\">Ladakh’s Women Unite Across Faiths to Demand Total Liquor Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMU5ra2lMVnJNN214QzR0T3c1US0ySll1T0tZMDVoX2FZZXBwNFlhQy1RbGNUay1ZMGFVQzRRcXB2cnFNTUxacllDMU1VdFEyMThJeEs4QlNNN0FRYlMyb3Z0T0NLTmt2ZGhxamNCa2hESk9JNmNKT0x1dk5JOUNwb0Y1OTNqVDdaZmhpOThOMlM1ekhHSGtQeG1lcnZmSnU4aTVEWTRVR3ZDUlo5cTJPXzFTZUlfSGxsZG5PQXN30gHDAUFVX3lxTE9uSmtXd3lCcE1ESFRDLVBISXVXS1NoczI5SjN4VVdRV0YxYy03ejFzQzJQUFQ2bVZlbml2Q24xTmNXV09acXBTck1YYl85YUZqaHhPcTJZVXVlejJDQXNkQlRYMHI2M2FvZHctTkZhMWhjNzhRelpYc0o5cWlSRkVUWHBJNlhROWNjcEZ2YWN5dkp5U0Q1bGllalc3ZUtQeFlISUhYUThmbXlZQmt2blhzMmZvdG9jY1QwSWhWSDVTSU1HYw?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "‘Unjustified’: Ladakh bodies on police action against Wangchuk during election protest",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0tLdVhIQ2xXLVM2WlJRQTJmczlnd3N1WjZ3SExobWh0SVB1ZVFkMkZEQmRTbjJjampYWUI1QVo3VDB3OVh3eHRVX1UtVTlqWUs1OHprU1JSSWs5SG5XVlAzM3Bydk5BRnBWeEZ3NHZMT2QyUGVkM1ExQmhoa29VTE9ib0RfZUdTNlNQeTV1R1FoNWxzT0FPdHBLdnNDUmN4bDczNNIBqwFBVV95cUxQVWk0RVczOE50YVpDTDNRXzc0SnJqRkZwRUdZVWJ5M19qZzNBcUFfMGxCa25ORHZvd2NjU2pTVTdacFZ2aWNUd1JmMk1fNUlWMlJERHk5ZUV3Szh3bG9TRzUyZ0VKSDhuTmMzam5OX3U0anFKOGtabWVaaXRSVWY0dWEyQ2s5Tmo4QmhjV1ZMaEF2dzRZUlVVWXJtRFFKZkllM0tydHQ5Wnpldm8?oc=5\" target=\"_blank\">‘Unjustified’: Ladakh bodies on police action against Wangchuk during election protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0tLdVhIQ2xXLVM2WlJRQTJmczlnd3N1WjZ3SExobWh0SVB1ZVFkMkZEQmRTbjJjampYWUI1QVo3VDB3OVh3eHRVX1UtVTlqWUs1OHprU1JSSWs5SG5XVlAzM3Bydk5BRnBWeEZ3NHZMT2QyUGVkM1ExQmhoa29VTE9ib0RfZUdTNlNQeTV1R1FoNWxzT0FPdHBLdnNDUmN4bDczNNIBqwFBVV95cUxQVWk0RVczOE50YVpDTDNRXzc0SnJqRkZwRUdZVWJ5M19qZzNBcUFfMGxCa25ORHZvd2NjU2pTVTdacFZ2aWNUd1JmMk1fNUlWMlJERHk5ZUV3Szh3bG9TRzUyZ0VKSDhuTmMzam5OX3U0anFKOGtabWVaaXRSVWY0dWEyQ2s5Tmo4QmhjV1ZMaEF2dzRZUlVVWXJtRFFKZkllM0tydHQ5Wnpldm8?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Thu, 12 Nov 2026 22:40:06 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "DRDO Successfully Tests Combat Parachute System at 22,000 Feet in Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxlc1c3bzRzZmNGT0dGTmtacXFzdE1yU0NPYTNPbTU3SWlaWDBpRlhkSDdwNnpkY0dhTllwREtNQmhiYjJzbHcwQ1hGTnREUU5DN0pob2dlZEMwMkhjd3dUcHY1Y2VBSDg3OXJ4NVhUVHMtYlpoc29GNXBtSGhpdTdIa3lJS3Nuc1Uwc1VyWTZNd25CTnk4SVBZOFJzeHRwZ0pPOGxHVHlBMlc1?oc=5\" target=\"_blank\">DRDO Successfully Tests Combat Parachute System at 22,000 Feet in Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxlc1c3bzRzZmNGT0dGTmtacXFzdE1yU0NPYTNPbTU3SWlaWDBpRlhkSDdwNnpkY0dhTllwREtNQmhiYjJzbHcwQ1hGTnREUU5DN0pob2dlZEMwMkhjd3dUcHY1Y2VBSDg3OXJ4NVhUVHMtYlpoc29GNXBtSGhpdTdIa3lJS3Nuc1Uwc1VyWTZNd25CTnk4SVBZOFJzeHRwZ0pPOGxHVHlBMlc1?oc=5",
+   "source_name": "APAC Media",
+   "source_domain": "apacnewsnetwork.com",
+   "published_raw": "Wed, 26 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Srinagar: Historic Shift As Ladakh LG To Administer Oath To New CJ Of J&K And Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEw1MDhCajBXbUVWRnlUY19ZMEl6ci03bWlnNEwzbzlOS1FPMEIwdXQ1akUxamNlRnQ4Wl9IMEF2eEIySy1aWEd3Zmx1RGRrMFZFU3ZZQXp1TkRkOVoxUU1YY1lWelQ1RzQ4b0pQQmdqM2xmcUhQQjNHTDBmN0xNOGlod0pJeE83UU1pQVpvSWVkZVh3NHdSZFFYY29hV1Nkbi1fdUtVRnpmeFh5Z3RCazN4ZTFKV21DcE5pMm9DMklGR0ZMZzJFUdIBzgFBVV95cUxNQWlsQVE4RFd0WVdNWThhYmRZU3htSUhrcUNDYmswdS1qSFRqRGNFaU52LUUtYmRWR3JJakhfTWZRRTY2Q2M3alNWbkFtc0wzUWlRano2RGxkdGZfUEtsek9iTEsycWkyak1ONmZlWTJ4Q3RRTVNiOEdKN2JmaU0zT29BYlQyT0lqcExmYmpWRF91czV1QmRJNXBSTU50V2h0RDQ2UUIyUURwRlduRkktdE1yenlmVFZLcC1qbko2OG1KaXFQdnhVS1o5NlpGUQ?oc=5\" target=\"_blank\">Srinagar: Historic Shift As Ladakh LG To Administer Oath To New CJ Of J&amp;K And Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEw1MDhCajBXbUVWRnlUY19ZMEl6ci03bWlnNEwzbzlOS1FPMEIwdXQ1akUxamNlRnQ4Wl9IMEF2eEIySy1aWEd3Zmx1RGRrMFZFU3ZZQXp1TkRkOVoxUU1YY1lWelQ1RzQ4b0pQQmdqM2xmcUhQQjNHTDBmN0xNOGlod0pJeE83UU1pQVpvSWVkZVh3NHdSZFFYY29hV1Nkbi1fdUtVRnpmeFh5Z3RCazN4ZTFKV21DcE5pMm9DMklGR0ZMZzJFUdIBzgFBVV95cUxNQWlsQVE4RFd0WVdNWThhYmRZU3htSUhrcUNDYmswdS1qSFRqRGNFaU52LUUtYmRWR3JJakhfTWZRRTY2Q2M3alNWbkFtc0wzUWlRano2RGxkdGZfUEtsek9iTEsycWkyak1ONmZlWTJ4Q3RRTVNiOEdKN2JmaU0zT29BYlQyT0lqcExmYmpWRF91czV1QmRJNXBSTU50V2h0RDQ2UUIyUURwRlduRkktdE1yenlmVFZLcC1qbko2OG1KaXFQdnhVS1o5NlpGUQ?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Tue, 08 Sep 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "After Ladakh polls announcement, Sonam Wangchuk warns of agitation: ‘Elections forced on us’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1Y1SndhVHN6SjQtd1diV216ek5ZXzVZdGlqaXAyVURocnNEbFNzc2EyTHdQSDNIMEpBd2wxN3VqM1F3Y3Y5WVlDOHRRY0c3OXFYQjZ1NldMTWxfc3ZUaU1CUXhyWW5xWlc0U2xxb2YzM1JfcEFZVkNiWkRCc0d3MUtuWHhoMDNCSFlEcFRtMmJVdWdUNTJwbDNwalRIekRvSVRtMtIBqwFBVV95cUxNQUhoRVp3WWY1eVdjYl82NWJFb015RC1Jcld3UThFWXpseVoxNXpwcWNQVUpKb3VfX0p6empPYVN2eFdFdEIyRmswalhIcF8xR01PeDN1bkdJcUtCT1A5NEE5M3lObzhJT2tTZkdkV2VSWjhGd3FqNWJ4QUotSzBqMXc1Q1lHWWJuc2hQdVl4dHp4ZFY4RGpDN2ItQWZiWVhiazlxVzJ0dXY5Vm8?oc=5\" target=\"_blank\">After Ladakh polls announcement, Sonam Wangchuk warns of agitation: ‘Elections forced on us’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1Y1SndhVHN6SjQtd1diV216ek5ZXzVZdGlqaXAyVURocnNEbFNzc2EyTHdQSDNIMEpBd2wxN3VqM1F3Y3Y5WVlDOHRRY0c3OXFYQjZ1NldMTWxfc3ZUaU1CUXhyWW5xWlc0U2xxb2YzM1JfcEFZVkNiWkRCc0d3MUtuWHhoMDNCSFlEcFRtMmJVdWdUNTJwbDNwalRIekRvSVRtMtIBqwFBVV95cUxNQUhoRVp3WWY1eVdjYl82NWJFb015RC1Jcld3UThFWXpseVoxNXpwcWNQVUpKb3VfX0p6empPYVN2eFdFdEIyRmswalhIcF8xR01PeDN1bkdJcUtCT1A5NEE5M3lObzhJT2tTZkdkV2VSWjhGd3FqNWJ4QUotSzBqMXc1Q1lHWWJuc2hQdVl4dHp4ZFY4RGpDN2ItQWZiWVhiazlxVzJ0dXY5Vm8?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Thu, 12 Nov 2026 00:14:13 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Phoney election foisted on people with rocket speed in mid-winter: Sonam Wangchuk",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUVJqZTA3VjA0RzBUSFlJS0NhR3pQVGROejhRdnJ6bHB1S2VCbm12V3JNSUpDSmlXN3d1V3lGZDF0Q3AxeXFDaTVnai03WmU0bkQ0aWNiNkFfRTU2NVlDRUgxbEs2YzNMMUJacXZIRlQ1bnFsT0hoSXZqbFpxUzFIUUllVldyempNcU1haVA5Yy1GbEpZVkdjdmZ2OFZsd9IBpAFBVV95cUxQNmhXZ3hWQkhkeHNyekNaU2VMUF9Id2RCWm1pbUxRdXVzQmNmLXI1Z2lVRThqM0tWOVJYaTh4U2dWaDBXaXVIVEdrYnN2clRhM25VZTY5bWN3MHRrVl9FUXEyU2FXSkVBOWFrbkRVY1JKeXFfYXZzZ1dzbmhTR01Kc0xfZ3MxUWo2UkVWb0J4Y1RxcVl1TENDWTFSelgxMGVEaGZXQQ?oc=5\" target=\"_blank\">Phoney election foisted on people with rocket speed in mid-winter: Sonam Wangchuk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVJqZTA3VjA0RzBUSFlJS0NhR3pQVGROejhRdnJ6bHB1S2VCbm12V3JNSUpDSmlXN3d1V3lGZDF0Q3AxeXFDaTVnai03WmU0bkQ0aWNiNkFfRTU2NVlDRUgxbEs2YzNMMUJacXZIRlQ1bnFsT0hoSXZqbFpxUzFIUUllVldyempNcU1haVA5Yy1GbEpZVkdjdmZ2OFZsd9IBpAFBVV95cUxQNmhXZ3hWQkhkeHNyekNaU2VMUF9Id2RCWm1pbUxRdXVzQmNmLXI1Z2lVRThqM0tWOVJYaTh4U2dWaDBXaXVIVEdrYnN2clRhM25VZTY5bWN3MHRrVl9FUXEyU2FXSkVBOWFrbkRVY1JKeXFfYXZzZ1dzbmhTR01Kc0xfZ3MxUWo2UkVWb0J4Y1RxcVl1TENDWTFSelgxMGVEaGZXQQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 13 Nov 2026 18:04:33 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Sonam Wangchuk Calls for Review of Ladakh Hill Council Election Schedule | Videos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUtPeldtWXhpNElVcERMcF8xNXFFV0JEMzlRVlE4OFVpRkZsd3NpZVYySTNSOWY2MG5uYS1aTjY5R0tlVGJXN3Z3SWdpeVo5QnlZb3NtT0RsVHAxMjNtYlY1V3JEYWZseDRmOENMbm5jaVZpckhJM1B2V1BtdVZQZ0h1eGtjZU52OW0zSG9Cblk4SEE3eXlaVGd4bmhVWDdSRVVkSHd0Tno2NzFMeldvbGlwc1QyRmNxcllUeE1SRWExdVBUbFJHNFVjQdIB0AFBVV95cUxQOEhxcGRYX1pMN3B5ZUdXRWJ6NnVUemhObVpTVmtjTGhpd005OThpd1lwV1E2N0tELTdpVEg0bkhrcWJnM2FtcklnRUpqMnFuNmZpR3o4aFFVQUc5eW05VHFYUS1iTXhBZXVHT1hjMWRBdTdHbHNYYjZBZDNucVNZSi1HYm95azNJbjFzUW9IaHFLdFZyczk3YnZHUE9tWXRQZDVLQmlKS3VLbUgwcW02bzN0eDdxd010OWVvQ1RuMy1OdkdCZGtVZmhiX1JLTWsy?oc=5\" target=\"_blank\">Sonam Wangchuk Calls for Review of Ladakh Hill Council Election Schedule | Videos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUtPeldtWXhpNElVcERMcF8xNXFFV0JEMzlRVlE4OFVpRkZsd3NpZVYySTNSOWY2MG5uYS1aTjY5R0tlVGJXN3Z3SWdpeVo5QnlZb3NtT0RsVHAxMjNtYlY1V3JEYWZseDRmOENMbm5jaVZpckhJM1B2V1BtdVZQZ0h1eGtjZU52OW0zSG9Cblk4SEE3eXlaVGd4bmhVWDdSRVVkSHd0Tno2NzFMeldvbGlwc1QyRmNxcllUeE1SRWExdVBUbFJHNFVjQdIB0AFBVV95cUxQOEhxcGRYX1pMN3B5ZUdXRWJ6NnVUemhObVpTVmtjTGhpd005OThpd1lwV1E2N0tELTdpVEg0bkhrcWJnM2FtcklnRUpqMnFuNmZpR3o4aFFVQUc5eW05VHFYUS1iTXhBZXVHT1hjMWRBdTdHbHNYYjZBZDNucVNZSi1HYm95azNJbjFzUW9IaHFLdFZyczk3YnZHUE9tWXRQZDVLQmlKS3VLbUgwcW02bzN0eDdxd010OWVvQ1RuMy1OdkdCZGtVZmhiX1JLTWsy?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Wed, 11 Nov 2026 03:31:29 GMT",
+   "fetched_at": "2026-11-15T09:43:27+00:00"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "region": "Andhra Pradesh",
+ "query": "(\"Andhra Pradesh\" OR Amaravati OR Visakhapatnam) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:24+00:00",
+ "total_results": 12,
+ "item_count": 12,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "AI to create jobs; Amaravati to fund itself through land monetisation: Naidu",
+   "description": "Naidu says AI will create new jobs; India can match China in 20 years. He backs Amaravati land monetisation, a quantum hub, and revised population policy.",
+   "url": "https://timesofindia.indiatimes.com/city/vijayawada/ai-to-create-jobs-amaravati-to-fund-itself-through-land-monetisation-naidu/articleshow/135814624.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-13T18:42:19Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "Agnikul to set up an industrial unit in AP’s space city",
+   "description": "Agnikul to set up Rs 500 crore industrial unit in Andhra Pradesh space city to support equatorial launches from Sriharikota and develop an orbital AI data centre.",
+   "url": "https://timesofindia.indiatimes.com/city/chennai/agnikul-to-set-up-an-industrial-unit-in-aps-space-city/articleshow/135811491.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-13T17:15:58Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "Agnikul to set up Andhra Pradesh facility for orbital data centre units",
+   "description": "Agnikul Cosmos will invest ₹510 crore in an Andhra Pradesh facility to build orbital data centre units, aiming to integrate AI computing hardware with its rocket upper stages",
+   "url": "https://www.business-standard.com/companies/news/agnikul-to-set-up-andhra-pradesh-facility-for-orbital-data-centre-units-126111301483_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-11-13T13:22:05Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "ReNew, CleanMax announce investments totalling ₹1.3 trillion into data centres, green energy space in Andhra Pradesh",
+   "description": "ReNew commits  ₹80,000 crore for a green data centre and solar component plants, while CleanMax plans  ₹50,000 crore in clean energy to power an AI compute hub.",
+   "url": "https://www.livemint.com/companies/news/renew-cleanmax-investments-rs-1-3-trillion-data-centres-green-energy-andhra-pradesh-renewable-energy-11794490757000.html",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "2026-11-12T14:32:05Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "CleanMax to invest ₹50,000 crore in Andhra Pradesh to set up integrated clean energy complex",
+   "description": "The proposed complex will power a dedicated 2 GW Green Compute Factory in Kurnool, in collaboration with Blackstone-backed AI cloud provider Neysa",
+   "url": "https://www.thehindubusinessline.com/companies/cleanmax-to-invest-50000-crore-in-ap-to-set-upintegrated-clean-energy-complexin-kurnool/article71693470.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-11-12T12:55:50Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "CleanMax signs ₹50,000 crore MoU with Andhra Pradesh for green energy hub",
+   "description": "The company plans to develop 3 GW of clean energy generation facilities, including wind, solar and pumped hydro projects, to supply round-the-clock power to an AI compute factory in Kurnool",
+   "url": "https://www.business-standard.com/industry/news/cleanmax-signs-50-000-crore-mou-with-andhra-pradesh-for-green-energy-hub-126111201253_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-11-12T11:57:33Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "Want to make Vizag AI data centre hub, says Andhra CM N Chandrababu Naidu",
+   "description": "Andhra Pradesh Chief Minister N Chandrababu Naidu targets a $2.07 trillion state economy by 2047, with plans to position Visakhapatnam as an AI data centre hub and Tirupati as a global design capital.",
+   "url": "https://www.business-standard.com/politics/want-to-make-vizag-ai-data-centre-hub-says-andhra-cm-n-chandrababu-naidu-126111101645_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-11-11T18:24:54Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "School Assembly News Headlines for October 28, 2026: Top National, International and Sports Updates",
+   "description": "Karnataka has published its final electoral roll, resulting in nearly one crore names being removed. Andhra Pradesh is preparing for Cyclone Arnab, as wind forecasts predict gusts up to 150 kmph. Microsoft has offered voluntary exit packages to 60,000 workers…",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-october-28-2026-top-national-international-and-sports-updates/articleshow/135236496.cms",
+   "source_name": "The Times of India",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_raw": "2026-10-27T13:41:42Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "Amaravati to host NIELIT’s ‘Quantum and AI University Campus’",
+   "description": "Amaravati to host India’s first Quantum and AI University campus with NVIDIA-led AI Living Labs initiative and MeitY funding.",
+   "url": "https://www.thehindubusinessline.com/info-tech/amaravati-to-host-nielits-quantum-and-ai-university-campus/article71627643.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-10-26T14:42:13Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "City-based CureBay raises Rs 100cr to expand rural healthcare network",
+   "description": "CureBay raises nearly Rs 100 crore pre-Series C to expand rural healthcare network, add AI-led clinical services, and enter new markets like Andhra Pradesh.",
+   "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/city-based-curebay-raises-rs-100cr-to-expand-rural-healthcare-network/articleshow/135148868.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-23T14:37:53Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "AdaniConneX's Vizag data centres to use air cooling, limit freshwater use",
+   "description": "AdaniConneX's planned data centre campuses in Visakhapatnam, being developed in partnership with Google, will use air-cooled systems to eliminate the need for water-based evaporative cooling and keep freshwater consumption across three sites to less than the …",
+   "url": "https://www.business-standard.com/technology/artificial-intelligence/adaniconnex-s-vizag-data-centres-to-use-air-cooling-limit-freshwater-use-126101800180_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-10-18T06:32:42Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Andhra Pradesh",
+   "title": "Govt directs 80,000 school teachers to complete AI course by month end",
+   "description": "Andhra Pradesh orders 80,000 govt school teachers (Classes VI–VIII) to finish an AI foundations online course via LEAP by Oct-end, with assessments and certificates.",
+   "url": "https://timesofindia.indiatimes.com/city/vijayawada/govt-directs-80000-school-teachers-to-complete-ai-course-by-month-end/articleshow/135017515.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-17T17:00:59Z",
+   "fetched_at": "2026-11-15T09:47:24+00:00"
+  }
+ ]
+}

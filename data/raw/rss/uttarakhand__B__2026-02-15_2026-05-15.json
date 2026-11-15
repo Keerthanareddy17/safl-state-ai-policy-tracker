@@ -1,0 +1,109 @@
+{
+ "region": "Uttarakhand",
+ "group": "B",
+ "query": "(Uttarakhand) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Uttarakhand%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:02+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Atal Innovation Mission launches ‘AI-Preneurs of India’ at India AI Impact Summit 2026, showcasing India’s purpose driven AI Ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2bzgtWGZfVHZvVFhDNE5HNUpsYnJrSTNWRTFEcFdwLVkycS1lOWl3aUx5ejB1cnZ6OExfb1V2dmR5S0ExMll1bVZnSjlUa0Rvb0x6QlRjVzZYZjR6UU5IaThfYWlZNDhQ?oc=5\" target=\"_blank\">Atal Innovation Mission launches ‘AI-Preneurs of India’ at India AI Impact Summit 2026, showcasing India’s purpose driven AI Ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2bzgtWGZfVHZvVFhDNE5HNUpsYnJrSTNWRTFEcFdwLVkycS1lOWl3aUx5ejB1cnZ6OExfb1V2dmR5S0ExMll1bVZnSjlUa0Rvb0x6QlRjVzZYZjR6UU5IaThfYWlZNDhQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "AI to the rescue: Uttarakhand deploys technology to reclaim thousands of hectares of encroached forest land",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0ZlN1l4VzB1WGhzREVOYTA0YUVCbk03YTAzMldPWUIxS2VyMVN4NEk3Q3RBZ2RZUjNNX09nU0ZlRXlIM2VmcGxQU1JuWmV5cDlGd296OG5XWDJXRjcxaFEySFk0RVdiLTF5Vm5LWkpHbXQ2WGxYVUVFNG8zWG9RRXQ1UG9XN0JVWWNZaUp6TjAxNzlnLWhyZ0dtZUZtQVQ4dWg4MldrVk5vblpGZDlEWjR4VU1RSGdDWHRIUW1CaVFDYmZYR0RKSU5jNGNxLWdTMzJvQU03ekhHT28wOGNEeWhvX1dUSDRRY0RGT0ln0gH7AUFVX3lxTFA4NTBLNTlYUHJDa0stUGQySGtMWU4tN2VLTU5NQW1YWU0yekF1Smo5VmkyeWt0eDRfcXdZWGZYS2ZsaVlTMEZMLVpXcTlpLWxRNGM5M0hVQ1JtS1pFQ3A1QlpLcHRhMTRXZFlMMmNRQURJZzZJNXV1bU1uSENzWVZDUnAybHRvMGJCUy1LazI2UEpwaHhiUDZKRWJTWTdmaDJ1VThRdGJKRndyb1hhWHAtWmM3V0hPMUY4bE1QdnMzYmkwdWYxaF9QSkI1NWtLRnVxWWxKNTJwUGFONm1tRWFkM2ZpX283ci1kb1Bpc1ZNNWl2Wlc2X19kRjlR?oc=5\" target=\"_blank\">AI to the rescue: Uttarakhand deploys technology to reclaim thousands of hectares of encroached forest land</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0ZlN1l4VzB1WGhzREVOYTA0YUVCbk03YTAzMldPWUIxS2VyMVN4NEk3Q3RBZ2RZUjNNX09nU0ZlRXlIM2VmcGxQU1JuWmV5cDlGd296OG5XWDJXRjcxaFEySFk0RVdiLTF5Vm5LWkpHbXQ2WGxYVUVFNG8zWG9RRXQ1UG9XN0JVWWNZaUp6TjAxNzlnLWhyZ0dtZUZtQVQ4dWg4MldrVk5vblpGZDlEWjR4VU1RSGdDWHRIUW1CaVFDYmZYR0RKSU5jNGNxLWdTMzJvQU03ekhHT28wOGNEeWhvX1dUSDRRY0RGT0ln0gH7AUFVX3lxTFA4NTBLNTlYUHJDa0stUGQySGtMWU4tN2VLTU5NQW1YWU0yekF1Smo5VmkyeWt0eDRfcXdZWGZYS2ZsaVlTMEZMLVpXcTlpLWxRNGM5M0hVQ1JtS1pFQ3A1QlpLcHRhMTRXZFlMMmNRQURJZzZJNXV1bU1uSENzWVZDUnAybHRvMGJCUy1LazI2UEpwaHhiUDZKRWJTWTdmaDJ1VThRdGJKRndyb1hhWHAtWmM3V0hPMUY4bE1QdnMzYmkwdWYxaF9QSkI1NWtLRnVxWWxKNTJwUGFONm1tRWFkM2ZpX283ci1kb1Bpc1ZNNWl2Wlc2X19kRjlR?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Fri, 17 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "TOI Uttarakhand Transformation Dialogue 2026: How AI-led strategies can shape state’s infra and education",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQa2VrMUMyQnhvakJtTmUxYzdRUGtaZzJtM1pPSmtLc2NJMzdDUDEzSmdGOXJNYUlMQnZSRi1fZk0yVHdhUlZqVW9pTzdrSWRBYXA4NXpDR19FWU1YTHZ0N3hsVUF0WWd4WmdVakFKck5wYnJHMVFicXpBMVM1WEpXd01kMWZKQ1pDeW5FYmtJNk1wSGEtYzZvQzZ0cFoxdlRNVkgyckU0UExwX3dWMDVsLTdrTU42a2tsUzZ5TFJWUXZLbEZvWDdfcTUycnBTSlc4NERhVzZoRWRjU3FYVkV3bk1WN3RnY0trbGZGOUEzQW1YYTg0c0JQbEtadEh2cDhTOGVpa0tOYU9BUdIBjwJBVV95cUxOMHMtd2x1WktVcHpzeS1YLVJoZWJCRzVsdTQ1SE9XVFhWcUJCbDgyUGNoMGc4azdTYUVvWTQ2M0dDWHZSdFUwYzNTWlRiUktuTjdzbFFnZGFjd2lRMUkyMkpyWmJldmJfZzBJanVhWkpiRVZmYmQyZlBFeGFjYjVILXN0S0NtM08yMHV0M3hjMi1NbTlaR1FGd0hybnc4LXlUVDVGZWIwX3A1TVFjZmNWQlg0YjlOS05IQkdVdGphY2hTWEpXdGhNLXJ1VEpsR3p6VGxsSHdSdjhyTXFOUmU3c3B0WEE3YkJlbXYteVB2RWRGcHNEMzI4NmR0aGpqQXZSLURZQW01X0UtNE5OVEQw?oc=5\" target=\"_blank\">TOI Uttarakhand Transformation Dialogue 2026: How AI-led strategies can shape state’s infra and education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQa2VrMUMyQnhvakJtTmUxYzdRUGtaZzJtM1pPSmtLc2NJMzdDUDEzSmdGOXJNYUlMQnZSRi1fZk0yVHdhUlZqVW9pTzdrSWRBYXA4NXpDR19FWU1YTHZ0N3hsVUF0WWd4WmdVakFKck5wYnJHMVFicXpBMVM1WEpXd01kMWZKQ1pDeW5FYmtJNk1wSGEtYzZvQzZ0cFoxdlRNVkgyckU0UExwX3dWMDVsLTdrTU42a2tsUzZ5TFJWUXZLbEZvWDdfcTUycnBTSlc4NERhVzZoRWRjU3FYVkV3bk1WN3RnY0trbGZGOUEzQW1YYTg0c0JQbEtadEh2cDhTOGVpa0tOYU9BUdIBjwJBVV95cUxOMHMtd2x1WktVcHpzeS1YLVJoZWJCRzVsdTQ1SE9XVFhWcUJCbDgyUGNoMGc4azdTYUVvWTQ2M0dDWHZSdFUwYzNTWlRiUktuTjdzbFFnZGFjd2lRMUkyMkpyWmJldmJfZzBJanVhWkpiRVZmYmQyZlBFeGFjYjVILXN0S0NtM08yMHV0M3hjMi1NbTlaR1FGd0hybnc4LXlUVDVGZWIwX3A1TVFjZmNWQlg0YjlOS05IQkdVdGphY2hTWEpXdGhNLXJ1VEpsR3p6VGxsSHdSdjhyTXFOUmU3c3B0WEE3YkJlbXYteVB2RWRGcHNEMzI4NmR0aGpqQXZSLURZQW01X0UtNE5OVEQw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand Hosts Landmark Digital Empowerment Summit; Bets Big on AI, Cybersecurity",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEhZN01ONlA3VUhRa0xCcldHS2NGT3JuS1c3STNpYks1YmdNOUJlVnhpaS1HZlN3OHpaY25QZmZ5UEktQ2JwVThFZ2owWk9EUDNqWUZ4blNsZ05VNkhmdksxNW9SQnlEbmxQZ2Vpa2U2aVA3QnkydFlMSEVuUmU5eVNnT2hrMTBVOXptTEVleXZuMkEyTDVFZTRUd0VwZ242VURzNmotOEE4V2xlRnZYSm5qYVVZU3FLYlM0?oc=5\" target=\"_blank\">Uttarakhand Hosts Landmark Digital Empowerment Summit; Bets Big on AI, Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEhZN01ONlA3VUhRa0xCcldHS2NGT3JuS1c3STNpYks1YmdNOUJlVnhpaS1HZlN3OHpaY25QZmZ5UEktQ2JwVThFZ2owWk9EUDNqWUZ4blNsZ05VNkhmdksxNW9SQnlEbmxQZ2Vpa2U2aVA3QnkydFlMSEVuUmU5eVNnT2hrMTBVOXptTEVleXZuMkEyTDVFZTRUd0VwZ242VURzNmotOEE4V2xlRnZYSm5qYVVZU3FLYlM0?oc=5",
+   "source_name": "APAC Media",
+   "source_domain": "apacnewsnetwork.com",
+   "published_raw": "Sat, 25 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand CM asks officials to promptly resolve complaints on CM helpline",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHdZdHdLTmtSUFdYNWhKZjBZLTNDOW1YODUxa21hNzlHZ3FMZ2VfUmVWSHprQUQzdXVWNG8xWElhQzJpanNzWDFYS3NuWGdYVXdIR1ZMNTRGSU0wNFVTeS1ZQ3ZiOFBkOVpSaFl1MGhGcVRVSjM0UUJwY3BlMlFPcHduY0RPUEtvQWN6Zk1UdVdYWnRiMlo4QjZCeWFNRzJBd2wzbS1pOG0wUG9rSlhTQVZwNkhKM3hXOGJxUzdsQUZOVWxiU3RaWXdOUjd6Wko5el8zbUJ3?oc=5\" target=\"_blank\">Uttarakhand CM asks officials to promptly resolve complaints on CM helpline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHdZdHdLTmtSUFdYNWhKZjBZLTNDOW1YODUxa21hNzlHZ3FMZ2VfUmVWSHprQUQzdXVWNG8xWElhQzJpanNzWDFYS3NuWGdYVXdIR1ZMNTRGSU0wNFVTeS1ZQ3ZiOFBkOVpSaFl1MGhGcVRVSjM0UUJwY3BlMlFPcHduY0RPUEtvQWN6Zk1UdVdYWnRiMlo4QjZCeWFNRzJBd2wzbS1pOG0wUG9rSlhTQVZwNkhKM3hXOGJxUzdsQUZOVWxiU3RaWXdOUjd6Wko5el8zbUJ3?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Fri, 17 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand CM Dhami joins 133rd 'Mann Ki Baat'; hails PM Modi's vision for self-reliant India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSk0zaWMxZWNDdXJEOVhvTjZ5cFJZdWlod0FyVjBuY3FKMVg2TTFEVjVNdXF4M1c1cVRBX2FTeTVDbjlILUEyTXEtTmVmd1I1b2tobVZqUzVmRThBWm10UE5ZQnlWVFc1b1BKd3VVZW11UzZfY0EyTDFlZ2UzZEpWazRqUWpGY0ZHUG9DemRZUzhXaW05SGhsWG1aVVBtVDRxTW1OYmIwdWlNTmFRWU9nVkFSX3BpVnUtTWZHdE00R0RERmNSZWN5VjNKSHRIODlpT05uaUZDVjlrVUUxRGpQVjRXU0N6RTNMNnc?oc=5\" target=\"_blank\">Uttarakhand CM Dhami joins 133rd 'Mann Ki Baat'; hails PM Modi's vision for self-reliant India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSk0zaWMxZWNDdXJEOVhvTjZ5cFJZdWlod0FyVjBuY3FKMVg2TTFEVjVNdXF4M1c1cVRBX2FTeTVDbjlILUEyTXEtTmVmd1I1b2tobVZqUzVmRThBWm10UE5ZQnlWVFc1b1BKd3VVZW11UzZfY0EyTDFlZ2UzZEpWazRqUWpGY0ZHUG9DemRZUzhXaW05SGhsWG1aVVBtVDRxTW1OYmIwdWlNTmFRWU9nVkFSX3BpVnUtTWZHdE00R0RERmNSZWN5VjNKSHRIODlpT05uaUZDVjlrVUUxRGpQVjRXU0N6RTNMNnc?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Sun, 26 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand CM Pushkar Dhami lays foundation stones for 34 projects worth Rs 234 crore for Kumbh Mela 202",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNMDZkb2YtSzBhSkxpYkhkNUdmVEY4Y2ZjdlJmUkstdnNrcnRpN1JaM0ZqeXZ5QXZ4NWd4amtxb0dCUUlHLU9tam1SLWY2N0NWc3hha3FGNGhVQXhESkhQdzZJYXY2Y0lDbndTX1I4cWhhUTNTbm5tT01OOERpZ1NGUldUT0dSQmJmd0hpci0tdXMxdC1HWlNRTG1xekI5ejcxY0MzT2JudDZhU3ZhU19SclduOElyOHJpX2p2S0dKaHNqSlRhNzRmT0IyZm8xQ1I3OVVZdm1FbVZtYnIwQkgxR0R5NjluZ25pR0I5NUVHSnNsSVE3a1RENi1PQWVWUEg4Y2s2VtIBigJBVV95cUxPb3lUT0pha2EzcWRleGR5emVzZ2VGd0FSWDdNZ0FQTjBRS3hZaDhxczgxc2ZlVEdCUkN5T1J2bjI0MlF0bDFOMkZlTzVtbGlIeEZ4blZlcG5nSnlIMjB3Q0VmcmtsQW1PcEhydUJMclg2RVBkLXFuQ3FBdEI0SS1Kd3hqVnozR0o3b01tU09YbWFSc0laTl9JemhPQm5zYWJMeno1MWdLeWtPam9qaExjVDFxajlkbE5MeHZwVy13YXQyanNjaXo5bHlvNFNlbW5fT2NCU1ZGWnZfY0R6T1dTTEhEeVN5d0h1OXYtTlQwZXhmWDZmVnRtTXZCbWp5U1FzNmhSYzVVNFBjdw?oc=5\" target=\"_blank\">Uttarakhand CM Pushkar Dhami lays foundation stones for 34 projects worth Rs 234 crore for Kumbh Mela 202</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMDZkb2YtSzBhSkxpYkhkNUdmVEY4Y2ZjdlJmUkstdnNrcnRpN1JaM0ZqeXZ5QXZ4NWd4amtxb0dCUUlHLU9tam1SLWY2N0NWc3hha3FGNGhVQXhESkhQdzZJYXY2Y0lDbndTX1I4cWhhUTNTbm5tT01OOERpZ1NGUldUT0dSQmJmd0hpci0tdXMxdC1HWlNRTG1xekI5ejcxY0MzT2JudDZhU3ZhU19SclduOElyOHJpX2p2S0dKaHNqSlRhNzRmT0IyZm8xQ1I3OVVZdm1FbVZtYnIwQkgxR0R5NjluZ25pR0I5NUVHSnNsSVE3a1RENi1PQWVWUEg4Y2s2VtIBigJBVV95cUxPb3lUT0pha2EzcWRleGR5emVzZ2VGd0FSWDdNZ0FQTjBRS3hZaDhxczgxc2ZlVEdCUkN5T1J2bjI0MlF0bDFOMkZlTzVtbGlIeEZ4blZlcG5nSnlIMjB3Q0VmcmtsQW1PcEhydUJMclg2RVBkLXFuQ3FBdEI0SS1Kd3hqVnozR0o3b01tU09YbWFSc0laTl9JemhPQm5zYWJMeno1MWdLeWtPam9qaExjVDFxajlkbE5MeHZwVy13YXQyanNjaXo5bHlvNFNlbW5fT2NCU1ZGWnZfY0R6T1dTTEhEeVN5d0h1OXYtTlQwZXhmWDZmVnRtTXZCbWp5U1FzNmhSYzVVNFBjdw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand Chief Minister participates in three-day 'Nayar Valley Adventure Festival-2026'",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVElWekhJbm9HOWRiREc0bHJqeV9VWmJvVUNBQ09Kdkk4SFVlNDJCbHJQdVJiVWtIbk9vb283c19CdEsyVTVYQzBLcThseU0zR19vc1pHTDN0S2JOYXpxb3ZCQllWeG1wZE9IbXlBME1DM1h2dmhNeFhMdWRFRlpWUWJSYTVfTWF3Rjh6dmFxMVhOekp6R29jd3J2OFFlTnRUQUF0OGpvdXFmemFibXRIVnNkRWNaaTk1c29tRVJJZ3RBWklYY0lTU0xVaElwZ285NjJNZFJtVjY4X3oxNFRLUEd3Z2o5UWxT?oc=5\" target=\"_blank\">Uttarakhand Chief Minister participates in three-day 'Nayar Valley Adventure Festival-2026'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVElWekhJbm9HOWRiREc0bHJqeV9VWmJvVUNBQ09Kdkk4SFVlNDJCbHJQdVJiVWtIbk9vb283c19CdEsyVTVYQzBLcThseU0zR19vc1pHTDN0S2JOYXpxb3ZCQllWeG1wZE9IbXlBME1DM1h2dmhNeFhMdWRFRlpWUWJSYTVfTWF3Rjh6dmFxMVhOekp6R29jd3J2OFFlTnRUQUF0OGpvdXFmemFibXRIVnNkRWNaaTk1c29tRVJJZ3RBWklYY0lTU0xVaElwZ285NjJNZFJtVjY4X3oxNFRLUEd3Z2o5UWxT?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 26 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttarakhand",
+   "title": "Uttarakhand achieves 1 GW solar energy capacity boosting green energy push and local jobs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZHlUQy1IenE4dFJ6azFVclFpZGtZVW1LQ01MbUZhemJjUXA1dTdUdjM1OUlRSW5qa1A4akwxclE1ZmRGal9maXYtQ3ZuS2ZMcEFRR1dlNndEUUhuT1hWbTNMZWxiN0JtcW1DRWo4TUJBcWx4QmhWZHFLVXZpSFdjSHJmRzN3bzVCUHRZQzljRVNkeER2TGttNWJIQXAxbmRhOHczZkZ2RklIYlJjQjJGZ1RKNnk2dVdFX2toV08ycWhXZEtBTUQwNklQVE9ydGNuclpnWERqTFYwUkNYMWVwLWZ6MWZxODFSY05sSWp30gHzAUFVX3lxTE5iMlRRYUlfdEhGYXd3VEJkalJ4c18tSnlhanFMVmQ1MTdjTDlERzhrd1luWlZjU1JHNm5FTldMTE5USkU3dDBJRUs2SGtjUW9seVlxMzYxRkRfQkpXbjZ0c3ZlWUJ2bFNzY3VWcWFjMGFqeGlMUWJ2bnZoYW1xZ0pJa3ItSi1KdzBtNEk2VGtZTnZaaTM5eHRyUG1JY2wzU2ZxQWZkakJRb2JNcS0wNXFDc0g1bFA1OE1jbnBHV3JFSDJTV1pJQ3l6Nm1aT2VMbHQ3bGllUlVWd20zbGNReUlUdmsxY19Gc1B5ZU8wWkp1TEJ5Zw?oc=5\" target=\"_blank\">Uttarakhand achieves 1 GW solar energy capacity boosting green energy push and local jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZHlUQy1IenE4dFJ6azFVclFpZGtZVW1LQ01MbUZhemJjUXA1dTdUdjM1OUlRSW5qa1A4akwxclE1ZmRGal9maXYtQ3ZuS2ZMcEFRR1dlNndEUUhuT1hWbTNMZWxiN0JtcW1DRWo4TUJBcWx4QmhWZHFLVXZpSFdjSHJmRzN3bzVCUHRZQzljRVNkeER2TGttNWJIQXAxbmRhOHczZkZ2RklIYlJjQjJGZ1RKNnk2dVdFX2toV08ycWhXZEtBTUQwNklQVE9ydGNuclpnWERqTFYwUkNYMWVwLWZ6MWZxODFSY05sSWp30gHzAUFVX3lxTE5iMlRRYUlfdEhGYXd3VEJkalJ4c18tSnlhanFMVmQ1MTdjTDlERzhrd1luWlZjU1JHNm5FTldMTE5USkU3dDBJRUs2SGtjUW9seVlxMzYxRkRfQkpXbjZ0c3ZlWUJ2bFNzY3VWcWFjMGFqeGlMUWJ2bnZoYW1xZ0pJa3ItSi1KdzBtNEk2VGtZTnZaaTM5eHRyUG1JY2wzU2ZxQWZkakJRb2JNcS0wNXFDc0g1bFA1OE1jbnBHV3JFSDJTV1pJQ3l6Nm1aT2VMbHQ3bGllUlVWd20zbGNReUlUdmsxY19Gc1B5ZU8wWkp1TEJ5Zw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:02+00:00"
+  }
+ ]
+}

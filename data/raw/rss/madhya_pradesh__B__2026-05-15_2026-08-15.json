@@ -1,0 +1,120 @@
+{
+ "region": "Madhya Pradesh",
+ "group": "B",
+ "query": "(\"Madhya Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Madhya+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:58+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5\" target=\"_blank\">Madhya Pradesh Partners with Google Cloud India for AI-Powered Governance and Smart Simhastha 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY0RoQm1zZ2hDWDk3cW5DV3lmWHBNUkIzNDliNnUyMWdncVQ3OVlpRlBmNkVuMWlNc2duUE81QjE4ZnZBOXFQcEFlcGRhSG9jaFZTZEpnVllyQUdWZDAxQkUzS2pocElRa2VPbUQ1OFgydHRwalVtcFdyc1RaMzJtS01YSGxrbzdYV2tkVlFzS2tNMmo3TkFhYTNadkU5RUZLTXZlOFZJa0RPbkc0cXp1eGF3ZEw5cTlVVHI0c3Jxc0ZSSUtvMVFNYXV2cjlGaFlid0E?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Union Environment Minister chairs Parliamentary Consultative Committee Meeting of Ministry of Environment, Forest and Climate Change in New Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE56MFZTN3VwX2pqME5PSTM4ZjdybTNXdlY3SnpBNHlZSXRCZXViWkZGbmhmc1VkZHFLQ3Y2VE9xeWFZOENZdEtRYzRRMHJlckFsWi1zNnd6MU1LRF9ZXzE4SjZ0V0NqT0tCQ0VJZDF3cTg4cDM1SlNQT045UQ?oc=5\" target=\"_blank\">Union Environment Minister chairs Parliamentary Consultative Committee Meeting of Ministry of Environment, Forest and Climate Change in New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56MFZTN3VwX2pqME5PSTM4ZjdybTNXdlY3SnpBNHlZSXRCZXViWkZGbmhmc1VkZHFLQ3Y2VE9xeWFZOENZdEtRYzRRMHJlckFsWi1zNnd6MU1LRF9ZXzE4SjZ0V0NqT0tCQ0VJZDF3cTg4cDM1SlNQT045UQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh partners Google for AI-led Simhastha 2028 management",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxObUxBNThRazJvQXlDT3JyeDd6WGZneW9NN1lwalgxdTFLNlpubGtNR0FnYTdOSEZnakI5ZXJpZXNFQksteWRPOEZWR0J0UWowVnNjbnNhNkI0SWd2bTJORVMtMDhoYlVvRDdISGVlYlY3UzdEamMtZ0dhNVlRWTB5MlZ3NVlva25jNHotVFg2S082MEg3UzFXUkQ2dGk4RFlmM09BRGNUc016Y0pEaEVtaFNwOFlYaXVDcEVfZnl6QWJ3aW43MUFFSG9qbkvSAdIBQVVfeXFMTzlOQzNKNW1BWGxKMEo4VEZqZlExSHo2TDJOTjM4OFI4ZWZCM1R1eXZnZUdnY2ZHX1Y1eTZqc0JBbE5rTkdCWXFPRUVtM1dIbVpxWUxZa19tV2pvU0k4SkQ3Mzc4M2tFN1JTWTN6aGZQaUpfR0dGTk9iTUFKem1BZzgwVjFzbFNHMkZPZGhyeXplOGNtSDZlY0xQZ1RHbTJHcjR6aElJRE14b3QzMnFuSkdndlktV3dXV1c2WkhlYlZaVzFCMENyXzZMOThueHRPNF9n?oc=5\" target=\"_blank\">Madhya Pradesh partners Google for AI-led Simhastha 2028 management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUxBNThRazJvQXlDT3JyeDd6WGZneW9NN1lwalgxdTFLNlpubGtNR0FnYTdOSEZnakI5ZXJpZXNFQksteWRPOEZWR0J0UWowVnNjbnNhNkI0SWd2bTJORVMtMDhoYlVvRDdISGVlYlY3UzdEamMtZ0dhNVlRWTB5MlZ3NVlva25jNHotVFg2S082MEg3UzFXUkQ2dGk4RFlmM09BRGNUc016Y0pEaEVtaFNwOFlYaXVDcEVfZnl6QWJ3aW43MUFFSG9qbkvSAdIBQVVfeXFMTzlOQzNKNW1BWGxKMEo4VEZqZlExSHo2TDJOTjM4OFI4ZWZCM1R1eXZnZUdnY2ZHX1Y1eTZqc0JBbE5rTkdCWXFPRUVtM1dIbVpxWUxZa19tV2pvU0k4SkQ3Mzc4M2tFN1JTWTN6aGZQaUpfR0dGTk9iTUFKem1BZzgwVjFzbFNHMkZPZGhyeXplOGNtSDZlY0xQZ1RHbTJHcjR6aElJRE14b3QzMnFuSkdndlktV3dXV1c2WkhlYlZaVzFCMENyXzZMOThueHRPNF9n?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "MP draws investment proposals worth over ₹40,000 cr across GCC, chip and data centre sectors at Tech Growt..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUQ1VS1ra3V3Zjg4ZUV3bXFwTDhTazhQTGNWdWZWTnVtV1B3aG95QUF1TWpEU20wbWN5YlVpeVN1Zi1Fb2oxQ0lYeTBaaGhBdWdhWXVNMUs2NlE1Tzh6MHNYYkk1YVlOajRNUExQUTVZZi1kMy15NUM2S0hpOWk1LWJSYzVrdXhScGZldHFhWVdtX3NGSUh5NXFTZG1TTUg1WXBDR3UxVEJGRmZ5MWE4UmJsVGtmc1FGdnJGakdCVFkxME9oZDUxVGxVOENKTndxTVQwQmQwU1lEbWtZQXEtT1lMcXl4NEx3WmfSAe8BQVVfeXFMT2syZTVnWEVrRUFvUVRSbE5Lbzd0ZHR5M20xSmNiLXJuQXFVbFFteUtEYjNXZkdYT2JjbGY3bWhESmlDek5YN1Nza1JTcEE3Z3ROX1ZWMTZick5weXNtZmlpV2F4SnNzTmUxWGIyb285Y2JoOUF1cUtGU0w5c0wwcVU5UzBfSUhOOW1McU1EenhQU0Y2emdwWEZyaVpDOE1HRUY5UlpROXBlcWE5eExrUFJsU0x0dTR1emd1alpOZnRQZ3FJSjJNZlU2ZExReTlNaHRuWUZHTkt6Ym1sc3JjQXQtaXhpdGZBWFRsZTRXSlE?oc=5\" target=\"_blank\">MP draws investment proposals worth over ₹40,000 cr across GCC, chip and data centre sectors at Tech Growt..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUQ1VS1ra3V3Zjg4ZUV3bXFwTDhTazhQTGNWdWZWTnVtV1B3aG95QUF1TWpEU20wbWN5YlVpeVN1Zi1Fb2oxQ0lYeTBaaGhBdWdhWXVNMUs2NlE1Tzh6MHNYYkk1YVlOajRNUExQUTVZZi1kMy15NUM2S0hpOWk1LWJSYzVrdXhScGZldHFhWVdtX3NGSUh5NXFTZG1TTUg1WXBDR3UxVEJGRmZ5MWE4UmJsVGtmc1FGdnJGakdCVFkxME9oZDUxVGxVOENKTndxTVQwQmQwU1lEbWtZQXEtT1lMcXl4NEx3WmfSAe8BQVVfeXFMT2syZTVnWEVrRUFvUVRSbE5Lbzd0ZHR5M20xSmNiLXJuQXFVbFFteUtEYjNXZkdYT2JjbGY3bWhESmlDek5YN1Nza1JTcEE3Z3ROX1ZWMTZick5weXNtZmlpV2F4SnNzTmUxWGIyb285Y2JoOUF1cUtGU0w5c0wwcVU5UzBfSUhOOW1McU1EenhQU0Y2emdwWEZyaVpDOE1HRUY5UlpROXBlcWE5eExrUFJsU0x0dTR1emd1alpOZnRQZ3FJSjJNZlU2ZExReTlNaHRuWUZHTkt6Ym1sc3JjQXQtaXhpdGZBWFRsZTRXSlE?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "How is Madhya Pradesh Attracting Tech Investments?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkZXaHktX3RKRGlITXNuVDFzTDlId1dUbXBuUk9tUjJEbjVoYkJoMGVub05EdzNSU2ZnenRfWmRHRm1YUjRvcVhZSC1xbmNoOGc3c08tVThRUVVPOXY4TlJCdXpkOWpMWVhBa0dpVWF1Q3lFaDdXYTQ2X0x3d2MwMTByX0dKWFBYaVZ6LVRMbE9hbkpuQVBqVXZZNUFEbTMwRUI4UnBEN0hPeHNGdlp0emdTbDVsdUNsN3RTZFdYemJicXQwSDV6djMwaENwS0oyUnhmV3pWaUdUbUJ1NHZsbw?oc=5\" target=\"_blank\">How is Madhya Pradesh Attracting Tech Investments?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkZXaHktX3RKRGlITXNuVDFzTDlId1dUbXBuUk9tUjJEbjVoYkJoMGVub05EdzNSU2ZnenRfWmRHRm1YUjRvcVhZSC1xbmNoOGc3c08tVThRUVVPOXY4TlJCdXpkOWpMWVhBa0dpVWF1Q3lFaDdXYTQ2X0x3d2MwMTByX0dKWFBYaVZ6LVRMbE9hbkpuQVBqVXZZNUFEbTMwRUI4UnBEN0hPeHNGdlp0emdTbDVsdUNsN3RTZFdYemJicXQwSDV6djMwaENwS0oyUnhmV3pWaUdUbUJ1NHZsbw?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Submer Announces ₹19,000 Crore Plan for AI-Ready Data-Centre Campus in Madhya Pradesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0l2OUZtdElGNzlSZC1EMzNCanBRWWZxN0dScklPQU96QmJ6eFI3YXdWWV80U096aDFHVlJDT0ZORUFhX1lIbUhQdmdBajlrdHlpenA3SjFUZXE3ODliMWtSM2pVRElEVTJPMVM2SHVmNkR4eVBaMWJYbTVDVU54SlVrUk45bXZkdzVXazM1ZVJDWjdlVUp0bkljOHFMNmpnVGJTUWVpVko2a1JNYUxjd2c3S0NDbDh5TjBYYUI1bVZpaVE?oc=5\" target=\"_blank\">Submer Announces ₹19,000 Crore Plan for AI-Ready Data-Centre Campus in Madhya Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CXO Digitalpulse</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0l2OUZtdElGNzlSZC1EMzNCanBRWWZxN0dScklPQU96QmJ6eFI3YXdWWV80U096aDFHVlJDT0ZORUFhX1lIbUhQdmdBajlrdHlpenA3SjFUZXE3ODliMWtSM2pVRElEVTJPMVM2SHVmNkR4eVBaMWJYbTVDVU54SlVrUk45bXZkdzVXazM1ZVJDWjdlVUp0bkljOHFMNmpnVGJTUWVpVko2a1JNYUxjd2c3S0NDbDh5TjBYYUI1bVZpaVE?oc=5",
+   "source_name": "CXO Digitalpulse",
+   "source_domain": "cxodigitalpulse.com",
+   "published_raw": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "IIT (BHU) signs MoU with Madhya Pradesh Higher Education Department to strengthen science and technology edu..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNNTJNTmJRN0d1MXA5Ym9BQzR0eW5sZ1dyM2d2eXJfMVA0ejc4dW1jQWxjNWhyS1c1VUczY0pNRFpyMXF1bjVfWWpxUW9kTWt3NnNRUTZPNlFYMmc2Wk00M2FZc2lyTlA3Q3F4clhmbk5Ba1hBSmpoSnZjbkhYTU9TdjFQajlPU3pUaGxsT3lianVXbmlJRHRkUDRwYU1ZM2lkMk90aWJOYVhON1EtZHhOdlFQaXZBYnkwOGNHLVJFNEpqUEJCVmZMTkwxSHI0UUhuS19PT25ZV21LSW1MbGR1TGxTc3o1TVg3VUp0dzFJVlJ4empJM01ZSmpRTlRWZlB0czIwSFVWelE1TlRQVDRvWEhudEwycmx6ZmZF0gGfAkFVX3lxTFAtZXFfRlZCS0dMQVNWN2I5TnpSQVVyWlRWVzFYZWlObkpHYkFrVHBHdy0yRUNyaWt5LTJSUGlRYmR3QjluNy0zQlBiNkNLbVZsa3R5TWRYT0ktaThEMnRMX3lnWElDOHg2dEpDOThYdUFISGo2cUwwOFJwM211N1FhSldfUEItV3lQMXNsUzB0WFFQY3B3bVlkZGpDeWdsUERSSUFfOHpYWXVvMUk5QXIyZXB2Z282NHFVYVRlSDU5eUhxaVFqTWI4MlhXV1QySGdrSTBHd0NqTXpGWTM0YmdtU29WM1JTVHR6RFdZQld0MzRZbGM4VXZQazlDRWM4ckxIOG5pS1RidDdrSTVldzY1bzJiS3Y2V3hWSWlmajJz?oc=5\" target=\"_blank\">IIT (BHU) signs MoU with Madhya Pradesh Higher Education Department to strengthen science and technology edu..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNTJNTmJRN0d1MXA5Ym9BQzR0eW5sZ1dyM2d2eXJfMVA0ejc4dW1jQWxjNWhyS1c1VUczY0pNRFpyMXF1bjVfWWpxUW9kTWt3NnNRUTZPNlFYMmc2Wk00M2FZc2lyTlA3Q3F4clhmbk5Ba1hBSmpoSnZjbkhYTU9TdjFQajlPU3pUaGxsT3lianVXbmlJRHRkUDRwYU1ZM2lkMk90aWJOYVhON1EtZHhOdlFQaXZBYnkwOGNHLVJFNEpqUEJCVmZMTkwxSHI0UUhuS19PT25ZV21LSW1MbGR1TGxTc3o1TVg3VUp0dzFJVlJ4empJM01ZSmpRTlRWZlB0czIwSFVWelE1TlRQVDRvWEhudEwycmx6ZmZF0gGfAkFVX3lxTFAtZXFfRlZCS0dMQVNWN2I5TnpSQVVyWlRWVzFYZWlObkpHYkFrVHBHdy0yRUNyaWt5LTJSUGlRYmR3QjluNy0zQlBiNkNLbVZsa3R5TWRYT0ktaThEMnRMX3lnWElDOHg2dEpDOThYdUFISGo2cUwwOFJwM211N1FhSldfUEItV3lQMXNsUzB0WFFQY3B3bVlkZGpDeWdsUERSSUFfOHpYWXVvMUk5QXIyZXB2Z282NHFVYVRlSDU5eUhxaVFqTWI4MlhXV1QySGdrSTBHd0NqTXpGWTM0YmdtU29WM1JTVHR6RFdZQld0MzRZbGM4VXZQazlDRWM4ckxIOG5pS1RidDdrSTVldzY1bzJiS3Y2V3hWSWlmajJz?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "AI to Power Simhastha 2028 as Madhya Pradesh Partners with Google Cloud India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk1zdTdMcjhyb3RoY1doanotODFzYVVoV0VpemhzRkxNX0N5R1dibDZMX0k3N0lqb2Nya0s4RnQ3SUk1VkVvRjFOdnltX3NuRm1JU25tUkZ5c3MxSDk4WkhZdFhVUzlGdkxtbnY2UGljZjdvakk1OFRnanYwVmpkbDVDNjk4YmZGS1RCZFRUc2pySTBQcG94VFF4dmhOXzJjODduVVpjcmZRT0toYUVQaWRDMA?oc=5\" target=\"_blank\">AI to Power Simhastha 2028 as Madhya Pradesh Partners with Google Cloud India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk1zdTdMcjhyb3RoY1doanotODFzYVVoV0VpemhzRkxNX0N5R1dibDZMX0k3N0lqb2Nya0s4RnQ3SUk1VkVvRjFOdnltX3NuRm1JU25tUkZ5c3MxSDk4WkhZdFhVUzlGdkxtbnY2UGljZjdvakk1OFRnanYwVmpkbDVDNjk4YmZGS1RCZFRUc2pySTBQcG94VFF4dmhOXzJjODduVVpjcmZRT0toYUVQaWRDMA?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Thu, 21 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "MP govt, Paras Semiconductors sign MoU for ₹6,200 crore OSAT facility on Ujjain–Indore corridor",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzdTTUo2Q2NfSWRWcnNtd3VHLXljR0hObHJ1Tl9VNng4UnRWcTFKQ2ZpLXhHbWVza2dGYndpUnZLRG9QOVFpeUhfSVVGSV9uSXRtLThuMC1na2VjVEhyVHREdWhQc0w1WWVVMUo3WG5LdXBHOFRhMTVHVXRTSWRyUGFaS2dzVUQxLWNPRkJ0X2lUYnBGUHJUS0hwMjFCS3JBTDRMZm5WOHE3V3VRdzdEaDdxYWpfWTd2LW1kV054LUp5dFVBRzgwVFRxSGxwbjJsWVZfUXFGemVFRGJ2VHpraUtJVVMxbFB4dktidXZrT1dyX3Bv0gH6AUFVX3lxTFA4c3p0eEFTX0h1T0h5RF9vTnlQMktNd1JKZVQyTTlTSG1CaDFBQXoyczhMLUZKRjlMRklGckRqVU5RTVN4emZVS3R3dVVxNjhYSFpUeTJpMGxfcHVBVEVPTGtRUGFYNllUTkoycUU5UHcxWmY2VWliWjRZWkxpT1E4ZlRtU1BIRDBhOEZRaXQ5d015Rjd2MHZnTmRRTC03MC1KTkJqZ1RqQldFdFRJSkdNUUw4bENWd29udXdNWXFjMmtCWWdKOHNCTm1rYVIyNHR1RjQyRTdTVkNITVhUT0lkRnVyb0dVWGtwWlc2aXczVnpLd3VpWG1ENVE?oc=5\" target=\"_blank\">MP govt, Paras Semiconductors sign MoU for ₹6,200 crore OSAT facility on Ujjain–Indore corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdzdTTUo2Q2NfSWRWcnNtd3VHLXljR0hObHJ1Tl9VNng4UnRWcTFKQ2ZpLXhHbWVza2dGYndpUnZLRG9QOVFpeUhfSVVGSV9uSXRtLThuMC1na2VjVEhyVHREdWhQc0w1WWVVMUo3WG5LdXBHOFRhMTVHVXRTSWRyUGFaS2dzVUQxLWNPRkJ0X2lUYnBGUHJUS0hwMjFCS3JBTDRMZm5WOHE3V3VRdzdEaDdxYWpfWTd2LW1kV054LUp5dFVBRzgwVFRxSGxwbjJsWVZfUXFGemVFRGJ2VHpraUtJVVMxbFB4dktidXZrT1dyX3Bv0gH6AUFVX3lxTFA4c3p0eEFTX0h1T0h5RF9vTnlQMktNd1JKZVQyTTlTSG1CaDFBQXoyczhMLUZKRjlMRklGckRqVU5RTVN4emZVS3R3dVVxNjhYSFpUeTJpMGxfcHVBVEVPTGtRUGFYNllUTkoycUU5UHcxWmY2VWliWjRZWkxpT1E4ZlRtU1BIRDBhOEZRaXQ5d015Rjd2MHZnTmRRTC03MC1KTkJqZ1RqQldFdFRJSkdNUUw4bENWd29udXdNWXFjMmtCWWdKOHNCTm1rYVIyNHR1RjQyRTdTVkNITVhUT0lkRnVyb0dVWGtwWlc2aXczVnpLd3VpWG1ENVE?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh government to roll out state-run bus service",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbVZFa2FoS3NpOGVHQWFBQVV4Ny1UNUlINUNVekZnc3lBejllSnlEbnhBWW9NWG1IRW5UcXlFWnZHVVFsRzBXRGtXVjFjR3RsQUxFYy1tRUdZNThQNlZZdmF4MDdvQ1RZcjkyZlRUY1lxYTRNZHJEV2t4R3ByTDVjNXc4WTk1QmJ1NUhVdzQ5Z3NHT0puaDNRN2V4ckJVc3pSYnVPNWExbTlNQjZ6UlhXY0VnOHNLMUNBZHhvc00zY24wQWxCdVM0X2twLUhQd3FNY25nbWtCRkN5UXR3T0xtWV9JekpwcC1lTWRyaNIB8gFBVV95cUxQd1FYQlRaYm9CN1lySTJiT1JiWkI4WWlZX0VfSUtSdUJFeFJ1d0tITmh6aHNsUkVSVlJ3U2JCVDVjRWV6dkZDMThQdnBoQzVvYXBjbFNFOGUxTjFhdndMUjFDbmdhOVU5dUVnNDlZZTFaUXozUHQ3STRwaWZ2ZURyOC1kWkljMjdmbmFyRGk3dHJlbHVhakNDMC1SUURKVEhQVHA5cHB0U0wzdGFNR2xxeHppdmpSRTJqemZFWUFYaWlScDZoSFZURTdpb0ducm5Ub3dBdzBPMGNUTmNYVnY2QWYtS2JoVzJkX3ZjLWFXSl9odw?oc=5\" target=\"_blank\">Madhya Pradesh government to roll out state-run bus service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbVZFa2FoS3NpOGVHQWFBQVV4Ny1UNUlINUNVekZnc3lBejllSnlEbnhBWW9NWG1IRW5UcXlFWnZHVVFsRzBXRGtXVjFjR3RsQUxFYy1tRUdZNThQNlZZdmF4MDdvQ1RZcjkyZlRUY1lxYTRNZHJEV2t4R3ByTDVjNXc4WTk1QmJ1NUhVdzQ5Z3NHT0puaDNRN2V4ckJVc3pSYnVPNWExbTlNQjZ6UlhXY0VnOHNLMUNBZHhvc00zY24wQWxCdVM0X2twLUhQd3FNY25nbWtCRkN5UXR3T0xtWV9JekpwcC1lTWRyaNIB8gFBVV95cUxQd1FYQlRaYm9CN1lySTJiT1JiWkI4WWlZX0VfSUtSdUJFeFJ1d0tITmh6aHNsUkVSVlJ3U2JCVDVjRWV6dkZDMThQdnBoQzVvYXBjbFNFOGUxTjFhdndMUjFDbmdhOVU5dUVnNDlZZTFaUXozUHQ3STRwaWZ2ZURyOC1kWkljMjdmbmFyRGk3dHJlbHVhakNDMC1SUURKVEhQVHA5cHB0U0wzdGFNR2xxeHppdmpSRTJqemZFWUFYaWlScDZoSFZURTdpb0ducm5Ub3dBdzBPMGNUTmNYVnY2QWYtS2JoVzJkX3ZjLWFXSl9odw?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:58+00:00"
+  }
+ ]
+}

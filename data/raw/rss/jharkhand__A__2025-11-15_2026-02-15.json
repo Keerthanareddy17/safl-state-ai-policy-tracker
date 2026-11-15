@@ -1,0 +1,109 @@
+{
+ "region": "Jharkhand",
+ "group": "A",
+ "query": "(Jharkhand) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Jharkhand%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:50+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "From a village in Jharkhand to the vision of Viksit Bharat",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkpQVkRKNjJzdXhQUThXd19ySGI3QlI2SF9YTG85WXcwNVRlczRZSmRJekl1RDBhUG96YmF1NmhoMi01R2JiTUlNTEdQVkZReWQ4Tmcwanh3NW5PV2NHRXVnbE5valJFWWN4OHJvb2hwNEQzMlVvc01ILWlyZzFndGl6OGluTEhyN1piZmxPbGh5TE45SjB2X3Y1dFJTXzU4ek5ERE5n0gGrAUFVX3lxTE1ZSkFnODNuUVJLT0JWNEc3QWtYd3l1UGNGOERMNExrVm9mVE1hNzVUZFVXdWdiNmRkb1UzQnBnU3pTRTl6XzFlLUswSUhDV3B4SDljZzVCLTJ6bmJzdXVxakc5U0ZuRG1vaWp5NEUxbUdwWTZRdnRSLTZCdW1HakcxUGM2Skt4Z043WFZxTHI1bVI5SUFlMVI4QVo4VjJtYzAyLVlEUWdGTWptMA?oc=5\" target=\"_blank\">From a village in Jharkhand to the vision of Viksit Bharat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Observer Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkpQVkRKNjJzdXhQUThXd19ySGI3QlI2SF9YTG85WXcwNVRlczRZSmRJekl1RDBhUG96YmF1NmhoMi01R2JiTUlNTEdQVkZReWQ4Tmcwanh3NW5PV2NHRXVnbE5valJFWWN4OHJvb2hwNEQzMlVvc01ILWlyZzFndGl6OGluTEhyN1piZmxPbGh5TE45SjB2X3Y1dFJTXzU4ek5ERE5n0gGrAUFVX3lxTE1ZSkFnODNuUVJLT0JWNEc3QWtYd3l1UGNGOERMNExrVm9mVE1hNzVUZFVXdWdiNmRkb1UzQnBnU3pTRTl6XzFlLUswSUhDV3B4SDljZzVCLTJ6bmJzdXVxakc5U0ZuRG1vaWp5NEUxbUdwWTZRdnRSLTZCdW1HakcxUGM2Skt4Z043WFZxTHI1bVI5SUFlMVI4QVo4VjJtYzAyLVlEUWdGTWptMA?oc=5",
+   "source_name": "Tech Observer Magazine",
+   "source_domain": "techobserver.in",
+   "published_raw": "Wed, 24 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "From Plastics To AI: Jharkhand Attracts Investor Interest At WEF Davos",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORW82b1lMa3pqQnJYdW1Ybkh3d1lnZEZZSXB3cVZCQ1ltNTFfbURLNzB1NHExVUpvbEhwVE5MT1J3cDM5VG8tdXd3aGdJaTlWWXhmbWtiYW00dDBHd0tWSFBxWVJlbGp0cUYzY0I2VV9VZl92dFlNcC1sQXI3ZlZDUHViZVZyZUs5X20zSXI0VEVXanhpYkFPM3dDdFdEazFHVFNYWFNXa3BJRlo3U1E?oc=5\" target=\"_blank\">From Plastics To AI: Jharkhand Attracts Investor Interest At WEF Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Tribal</font>",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORW82b1lMa3pqQnJYdW1Ybkh3d1lnZEZZSXB3cVZCQ1ltNTFfbURLNzB1NHExVUpvbEhwVE5MT1J3cDM5VG8tdXd3aGdJaTlWWXhmbWtiYW00dDBHd0tWSFBxWVJlbGp0cUYzY0I2VV9VZl92dFlNcC1sQXI3ZlZDUHViZVZyZUs5X20zSXI0VEVXanhpYkFPM3dDdFdEazFHVFNYWFNXa3BJRlo3U1E?oc=5",
+   "source_name": "The Indian Tribal",
+   "source_domain": "theindiantribal.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Secure, inclusive e-Governance: How Jharkhand is leveraging tech to transform healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHhPVW04UmwwWUlDZWxMMzdpNDVOOHBtRkQ1dlZpQldyS2tzd0NwVHc5ei1qd3ZTajI2azNlNWlRSGhLeEIwVWdscDEwS2pfWXlkYzdyVHVpOHh2c1JWdk45c0wtM19CX3h4QmJCVExPSGlDZ1VaanRIVVRQVVlhd0UzSDFrU0pSdnlJWjZ3aFduUGZTVUY1UFVrcmdfeFM3OGdKU2pPalpMaDVNdWVCdlBXajRNbS12YUd4bTJxQlBBbmJfQ0twQWlYdUNnclJHd185cTF0S3l1Y0FsV3h4czB4LXFWbXPSAesBQVVfeXFMT0xaSEl0SndXMkhaS045UnVVX3Q2LXE3UXdCQzVKNDRES2twY2lVOUZ4UWdIcWRTaVlGTDR0TmJ0a25zaHBYd1pkc2RUcjJmNnZrVjlPMC0xcnJ5d2x6Qk1JYmZSTVJScTdVMlRhbFZrWVJJYWRUWkc0SldHa1Z0XzB4Q3g1bTU0R2JDUVF4eGNwQlJWTWk3LVlhZkJSUkczZ3luTDRoM1JHWDdmSndVRWFpdndVSFZSNUY1YS1hUnI5N1hndVdabTNob1d1QndkaktwT0pTNEI2WjNncW4xcFFZYkhrRFZZSmpUMA?oc=5\" target=\"_blank\">Secure, inclusive e-Governance: How Jharkhand is leveraging tech to transform healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHhPVW04UmwwWUlDZWxMMzdpNDVOOHBtRkQ1dlZpQldyS2tzd0NwVHc5ei1qd3ZTajI2azNlNWlRSGhLeEIwVWdscDEwS2pfWXlkYzdyVHVpOHh2c1JWdk45c0wtM19CX3h4QmJCVExPSGlDZ1VaanRIVVRQVVlhd0UzSDFrU0pSdnlJWjZ3aFduUGZTVUY1UFVrcmdfeFM3OGdKU2pPalpMaDVNdWVCdlBXajRNbS12YUd4bTJxQlBBbmJfQ0twQWlYdUNnclJHd185cTF0S3l1Y0FsV3h4czB4LXFWbXPSAesBQVVfeXFMT0xaSEl0SndXMkhaS045UnVVX3Q2LXE3UXdCQzVKNDRES2twY2lVOUZ4UWdIcWRTaVlGTDR0TmJ0a25zaHBYd1pkc2RUcjJmNnZrVjlPMC0xcnJ5d2x6Qk1JYmZSTVJScTdVMlRhbFZrWVJJYWRUWkc0SldHa1Z0XzB4Q3g1bTU0R2JDUVF4eGNwQlJWTWk3LVlhZkJSUkczZ3luTDRoM1JHWDdmSndVRWFpdndVSFZSNUY1YS1hUnI5N1hndVdabTNob1d1QndkaktwT0pTNEI2WjNncW4xcFFZYkhrRFZZSmpUMA?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Tue, 23 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI | Global development",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeDlKZ2laNFZPSjhELWJJQlQwN05vckRLdW9id3Z2Mk96WXI4WXhqc2luZk5BS2w1UmlScXNrNlN5MzVaSFdJYUstUVN5eXJOSkF0RktLZnIySXh6aFEwU2hfQTEwN1lUei1zSnhSUTZqdE1BUWx4R185NldqOHVWYk9CSDAzZkUtQ0tNUE5oaE9fOUN6UEtRRHgwc2Y0Nm4za0ZyY3hmaUxZeEVUU3R1djhXaTJYNHNwQ2dXMjFtYVJ2VFpobHVMUFF2aXg3TFlIdVVLWHNFaW9Xb0VTaVp0ZERicmtMZlk?oc=5\" target=\"_blank\">‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI | Global development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeDlKZ2laNFZPSjhELWJJQlQwN05vckRLdW9id3Z2Mk96WXI4WXhqc2luZk5BS2w1UmlScXNrNlN5MzVaSFdJYUstUVN5eXJOSkF0RktLZnIySXh6aFEwU2hfQTEwN1lUei1zSnhSUTZqdE1BUWx4R185NldqOHVWYk9CSDAzZkUtQ0tNUE5oaE9fOUN6UEtRRHgwc2Y0Nm4za0ZyY3hmaUxZeEVUU3R1djhXaTJYNHNwQ2dXMjFtYVJ2VFpobHVMUFF2aXg3TFlIdVVLWHNFaW9Xb0VTaVp0ZERicmtMZlk?oc=5",
+   "source_name": "The Guardian",
+   "source_domain": "theguardian.com",
+   "published_raw": "Thu, 05 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "CUJ Signs Fourth South Korea MoU, Partners With Kyungsung Uni for Academic & Research Exchange",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVkZZeDJEOVFXcU5jZHM2X1R6akw3ZXdMX09GdTNmc256dVFsMGphV2dRMkw5aVpFb21zbW9ENjd1XzV2dUktTlVxcTFaaExJNjBnVWZ6SWxNaGtUeE0zdUVKZHk1VGh2ZkctSmNreEg4S3JXY1B6bkMzOEdNd2hqNXdfS194RFV6dXdEN3BIanZMa00zaDV1VWdMY3BlblprZkJ0ZlVYMm5VWnhDUHRBa1REZzhVRnpPMDNEZWk4TkJyN0RTNkloSDV0R1lXNmpIVnZuNmh5bC0xVDlBc3ZuMDlnQdIB6AFBVV95cUxOcFZBdW03QU5ZTXlhNzMxYmkxMUhrbUxDbVp2dGhiUmZYYW1DSkxVUUZ6QlllczdjSjZZUnJhUFh2bVRWNWx0cUNSWnA4Z0RMQlkxakNNRk1VTVN5RHlzZ0JzVW42TjZqMzVRcFI1MTFXSWEwQm5lQ1ozbGNUeGFEZzBfaFVSYzUyeklKa2g2SGlUS3BHWUdPNEhBVk9GSERYOVVYV04tOWFyajBIcDlzYUpPRGdycGhmc0pNLUpDZFZtNzZkcFJ5WFpvMUN2YzFIell3clNWTDlZa2FGcEZqcXB6UVN0VWha?oc=5\" target=\"_blank\">CUJ Signs Fourth South Korea MoU, Partners With Kyungsung Uni for Academic & Research Exchange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVkZZeDJEOVFXcU5jZHM2X1R6akw3ZXdMX09GdTNmc256dVFsMGphV2dRMkw5aVpFb21zbW9ENjd1XzV2dUktTlVxcTFaaExJNjBnVWZ6SWxNaGtUeE0zdUVKZHk1VGh2ZkctSmNreEg4S3JXY1B6bkMzOEdNd2hqNXdfS194RFV6dXdEN3BIanZMa00zaDV1VWdMY3BlblprZkJ0ZlVYMm5VWnhDUHRBa1REZzhVRnpPMDNEZWk4TkJyN0RTNkloSDV0R1lXNmpIVnZuNmh5bC0xVDlBc3ZuMDlnQdIB6AFBVV95cUxOcFZBdW03QU5ZTXlhNzMxYmkxMUhrbUxDbVp2dGhiUmZYYW1DSkxVUUZ6QlllczdjSjZZUnJhUFh2bVRWNWx0cUNSWnA4Z0RMQlkxakNNRk1VTVN5RHlzZ0JzVW42TjZqMzVRcFI1MTFXSWEwQm5lQ1ozbGNUeGFEZzBfaFVSYzUyeklKa2g2SGlUS3BHWUdPNEhBVk9GSERYOVVYV04tOWFyajBIcDlzYUpPRGdycGhmc0pNLUpDZFZtNzZkcFJ5WFpvMUN2YzFIell3clNWTDlZa2FGcEZqcXB6UVN0VWha?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Enabling Innovation Without Dependency: India’s Approach to AI Compute Access, writes Sushil Pal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGJXQ05tTVJPLWhiRnJJQlRUOXJTaHppY3BMSUM5TmhRaVpfMXdLUlI0QnBWXzJ2cW9MNG1faEVpRVE0eEhRSWVEZFRlVjRfTTMzS25iMUxTcE1nRDdUZ1FGRkJmbFZnYU9MMUZLNTl4RTdWTFVXUjhmTndvYlJqRko2Q3M5S080N0t4STBBRm85WUNuMjcyRGtpQkRlQlpLTU42SXEtRlNkX2hYVHpZUi1ZSUJHa0E4a0xwVVU0OGtEWWJzMG1kQTlPZzJydDVQQ0NCYXFDV1BrVkRzblFyVFljY3U?oc=5\" target=\"_blank\">Enabling Innovation Without Dependency: India’s Approach to AI Compute Access, writes Sushil Pal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jharkhandstatenews.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGJXQ05tTVJPLWhiRnJJQlRUOXJTaHppY3BMSUM5TmhRaVpfMXdLUlI0QnBWXzJ2cW9MNG1faEVpRVE0eEhRSWVEZFRlVjRfTTMzS25iMUxTcE1nRDdUZ1FGRkJmbFZnYU9MMUZLNTl4RTdWTFVXUjhmTndvYlJqRko2Q3M5S080N0t4STBBRm85WUNuMjcyRGtpQkRlQlpLTU42SXEtRlNkX2hYVHpZUi1ZSUJHa0E4a0xwVVU0OGtEWWJzMG1kQTlPZzJydDVQQ0NCYXFDV1BrVkRzblFyVFljY3U?oc=5",
+   "source_name": "jharkhandstatenews.com",
+   "source_domain": "jharkhandstatenews.com",
+   "published_raw": "Tue, 03 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Ranchi Launches Jharkhand's First AI-Enabled Public Toilet for Smart City Sanitation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY090MHZURHR1MElGSDFuU3VnSy1TMnlXWFpjdElXYmhHbl9uQlJ6ODVkakx5RV9MSVJjWENHUEh2UDZBS0R1ejd1VkhGcmFXamg3SndEUURwS1l5X2F3NGlTSGwtdE1nMUZqM1VpV1dqOFdkNUVBUVhUWTNXTmNlMUFYMTFNWjVnMjZKbm1MZHRjVWdiNFJGSG05OURvZmtRZ09LbEI4d280U3pHYmtINEF1enpTcVdaeVVGZzZLZmxJNUd1UGx6bnRqM3hYVTRnN1ozZmpJWll4aklVMjNfQmJpRlNfaC1RMWZ2OHpB0gHzAUFVX3lxTE0wM1dfZFI0NXdqd08xT1QwNm9NdzhQLXk5dlR5VnZHUHhHUHN5YWdtVzl6RWpFU2JDN0xscTdyQ3N1ZkZSQ2J1MzFKOFpHeFFnYWJHVzJMemI4RnRxcmJMV0hoQ29zOVB5M3dlblFsNVcwM0JnUV8wZU5WUE9ZV3c3djJpQi1zak00T0tkVVAxRTRtOF9tUUp5M0RNZDdaNmUxRFRiRjhjTFlkUkdlallBZHhUTlJEYkVzMTREcnhPek9yQ0RsYzlaczFRTDlLdDg0WXl0SWJBVmIyVTFGb0kwMmFuU2NkRGFkaXVGRS1YUHF5QQ?oc=5\" target=\"_blank\">Ranchi Launches Jharkhand's First AI-Enabled Public Toilet for Smart City Sanitation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY090MHZURHR1MElGSDFuU3VnSy1TMnlXWFpjdElXYmhHbl9uQlJ6ODVkakx5RV9MSVJjWENHUEh2UDZBS0R1ejd1VkhGcmFXamg3SndEUURwS1l5X2F3NGlTSGwtdE1nMUZqM1VpV1dqOFdkNUVBUVhUWTNXTmNlMUFYMTFNWjVnMjZKbm1MZHRjVWdiNFJGSG05OURvZmtRZ09LbEI4d280U3pHYmtINEF1enpTcVdaeVVGZzZLZmxJNUd1UGx6bnRqM3hYVTRnN1ozZmpJWll4aklVMjNfQmJpRlNfaC1RMWZ2OHpB0gHzAUFVX3lxTE0wM1dfZFI0NXdqd08xT1QwNm9NdzhQLXk5dlR5VnZHUHhHUHN5YWdtVzl6RWpFU2JDN0xscTdyQ3N1ZkZSQ2J1MzFKOFpHeFFnYWJHVzJMemI4RnRxcmJMV0hoQ29zOVB5M3dlblFsNVcwM0JnUV8wZU5WUE9ZV3c3djJpQi1zak00T0tkVVAxRTRtOF9tUUp5M0RNZDdaNmUxRFRiRjhjTFlkUkdlallBZHhUTlJEYkVzMTREcnhPek9yQ0RsYzlaczFRTDlLdDg0WXl0SWJBVmIyVTFGb0kwMmFuU2NkRGFkaXVGRS1YUHF5QQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 18 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand Launches MSME Connect Portal: AI-Powered Business Health Tool for 15 Lakh+ Enterprises",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTThobkJGcG5LVkhWVEcyTFFsUjZJNHBlbnpvclZvczJZUXUyc2ltRjY0ZjA0QURaWTRGakw5UGJOT3p0XzdCT2YtUHpVNEktRi1hQ04yVTV1R292NThRSFRsdjFLdUZuc1h3RHlHVnBkS05mMzlQU0hTdl85ZnlpTEVTbzdpYl81SE1MaTNHOF9rYmR0bjVNOUF0Q1JfRGxNRzBpd01zUzNacjlTTG5PQXNfaVN1Ni16NTU4cGNzeHUzUS1FS3FjQThsREQ3aE4yaWQ3SjBNZ1M0VDVrYWlzVHdBRGtQaEFMV0F2blVOTnZucEEyc1dGc2pZbzDSAYICQVVfeXFMTVNCZ1otYVNVeUJ0WG9SVUxOemg0MUR5V19FOW5uM0k4VVppWU9VUEJ5eUV4YlUyT25HU3lBblNYVFp6RkJtNERKT1ZQMnhRd3h0OTNXdGpRUDRmeDAxX0V2Z1VQQS10cXF6N1R3TTh4WkNxWkRQZzd2d3RXc0RiRjUxNVlodVRBcmNJYkx2UDRLeW42dnhTODl0Ymd3VmpVX0tGdUk1bEFxLW5wLUM0OWtvRkktMGpyMGtFQXY1bjV6UEpvUVNPMWxFSF9HWHE0LVZncnRpNUVDbTR5WDdoNE1yRmpRdGJMSWNNSko5OEFOeXdFcXU5eHByQm8tSTAwLVh3?oc=5\" target=\"_blank\">Jharkhand Launches MSME Connect Portal: AI-Powered Business Health Tool for 15 Lakh+ Enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTThobkJGcG5LVkhWVEcyTFFsUjZJNHBlbnpvclZvczJZUXUyc2ltRjY0ZjA0QURaWTRGakw5UGJOT3p0XzdCT2YtUHpVNEktRi1hQ04yVTV1R292NThRSFRsdjFLdUZuc1h3RHlHVnBkS05mMzlQU0hTdl85ZnlpTEVTbzdpYl81SE1MaTNHOF9rYmR0bjVNOUF0Q1JfRGxNRzBpd01zUzNacjlTTG5PQXNfaVN1Ni16NTU4cGNzeHUzUS1FS3FjQThsREQ3aE4yaWQ3SjBNZ1M0VDVrYWlzVHdBRGtQaEFMV0F2blVOTnZucEEyc1dGc2pZbzDSAYICQVVfeXFMTVNCZ1otYVNVeUJ0WG9SVUxOemg0MUR5V19FOW5uM0k4VVppWU9VUEJ5eUV4YlUyT25HU3lBblNYVFp6RkJtNERKT1ZQMnhRd3h0OTNXdGpRUDRmeDAxX0V2Z1VQQS10cXF6N1R3TTh4WkNxWkRQZzd2d3RXc0RiRjUxNVlodVRBcmNJYkx2UDRLeW42dnhTODl0Ymd3VmpVX0tGdUk1bEFxLW5wLUM0OWtvRkktMGpyMGtFQXY1bjV6UEpvUVNPMWxFSF9HWHE0LVZncnRpNUVDbTR5WDdoNE1yRmpRdGJMSWNNSko5OEFOeXdFcXU5eHByQm8tSTAwLVh3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand Police to Form AI Task Force",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmhhTGo2ZUo3Tm04b3hjcHo2a0hOMFotSVRMc3hHNDBpLTd1SzByTTFWcDNORFFUd1R1WEluX2lCaVBpRi01V1A4cEdfSlBjUnRsTURObDlBdGVLNWtxNzQ5cVJHUlZJck9GSGE0ZFMzQnpHVUpISmxOQ0szSFBpZ0UtbzVEZTE0bkln0gGQAUFVX3lxTE5SNVBqMXFRbHlUQ1RtTXRpTFdnTmNPeXhQakR4Nl9qQi10YXlYT3gwcHpGUVd5RkVpRTlqdm0zbl9ycEQ3MnBRc2VBZlJzWHBYYXZyTUk2bDJzaVc3UHE2T0xsMzV1YkFUR3N6N0NyTEdXbW5aOXlPZmdvbnJWaVlXVFd5R1lqNjVleWdiNkxFdQ?oc=5\" target=\"_blank\">Jharkhand Police to Form AI Task Force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maps of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmhhTGo2ZUo3Tm04b3hjcHo2a0hOMFotSVRMc3hHNDBpLTd1SzByTTFWcDNORFFUd1R1WEluX2lCaVBpRi01V1A4cEdfSlBjUnRsTURObDlBdGVLNWtxNzQ5cVJHUlZJck9GSGE0ZFMzQnpHVUpISmxOQ0szSFBpZ0UtbzVEZTE0bkln0gGQAUFVX3lxTE5SNVBqMXFRbHlUQ1RtTXRpTFdnTmNPeXhQakR4Nl9qQi10YXlYT3gwcHpGUVd5RkVpRTlqdm0zbl9ycEQ3MnBRc2VBZlJzWHBYYXZyTUk2bDJzaVc3UHE2T0xsMzV1YkFUR3N6N0NyTEdXbW5aOXlPZmdvbnJWaVlXVFd5R1lqNjVleWdiNkxFdQ?oc=5",
+   "source_name": "Maps of India",
+   "source_domain": "headlinesindia.mapsofindia.com",
+   "published_raw": "Wed, 11 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:50+00:00"
+  }
+ ]
+}

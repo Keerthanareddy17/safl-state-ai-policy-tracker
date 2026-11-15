@@ -1,0 +1,109 @@
+{
+ "region": "Nagaland",
+ "group": "A",
+ "query": "(Nagaland) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Nagaland%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:44+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Seminar on efficient use of AI held at Lewis Academy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQOV84RzVfbjJLaFNCOFE1alk1UXpRX3pQNnRGQS1tcjFVVXRmY2ZFRlJpNEZpUm9TaVJnYWtVWE5WQ1VVODlOYnM3UDc5b0RyS3FIQUJXdHYwUGdHM1N0Q3pOVkNFY2tCMERMLVIzbExVX1JFTWhyd3NqZmotcjVsWS04aTRoZFU?oc=5\" target=\"_blank\">Seminar on efficient use of AI held at Lewis Academy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nagaland Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOV84RzVfbjJLaFNCOFE1alk1UXpRX3pQNnRGQS1tcjFVVXRmY2ZFRlJpNEZpUm9TaVJnYWtVWE5WQ1VVODlOYnM3UDc5b0RyS3FIQUJXdHYwUGdHM1N0Q3pOVkNFY2tCMERMLVIzbExVX1JFTWhyd3NqZmotcjVsWS04aTRoZFU?oc=5",
+   "source_name": "Nagaland Tribune",
+   "source_domain": "nagalandtribune.in",
+   "published_raw": "Sun, 07 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Nagaland rolls out AI-powered digital agriculture ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3BiTE5Ja3ExT3VpV3lvUDFEQTd1WWg2MTNEenJyUXZNUnJBVWQtRzktbUYzdXlhSmF1MW1oLU5yYnJQTDRUUTY1QlMwS2t2Ty1VcVlBdkU5WWVHN29XeXdMU1B4bHhma2dnN21NSFQ2bjRPNTU1ZlJFZWhtTlphdXBhQUJDZWN5anFOTUg0NXRkVEk?oc=5\" target=\"_blank\">Nagaland rolls out AI-powered digital agriculture ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3BiTE5Ja3ExT3VpV3lvUDFEQTd1WWg2MTNEenJyUXZNUnJBVWQtRzktbUYzdXlhSmF1MW1oLU5yYnJQTDRUUTY1QlMwS2t2Ty1VcVlBdkU5WWVHN29XeXdMU1B4bHhma2dnN21NSFQ2bjRPNTU1ZlJFZWhtTlphdXBhQUJDZWN5anFOTUg0NXRkVEk?oc=5",
+   "source_name": "MorungExpress",
+   "source_domain": "morungexpress.com",
+   "published_raw": "Tue, 07 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Uber Burns Its 2026 AI Budget In Four Months On Claude Code",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXNxUDVCWE5JY3Z0Yk1hVHBianJiWUJhYlppWmZwOEFzZFI4VE8wOV9VRVVlRy1sdnB6SzRSSlhGeWstWVg4Z1pmTUhQQ3FwSU1sUkI4OFE4aVZfSFJQV0ZYVjBzRkxJbE5ScVN5RjNzLWRFZVAzbmszeEEtLURlTURhWU44Uld1X3FXdWxXRjZfSU1iWUs2eDE4THNDVjNyTWVhQXhLZWpJT203azF4bFc3cw?oc=5\" target=\"_blank\">Uber Burns Its 2026 AI Budget In Four Months On Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXNxUDVCWE5JY3Z0Yk1hVHBianJiWUJhYlppWmZwOEFzZFI4VE8wOV9VRVVlRy1sdnB6SzRSSlhGeWstWVg4Z1pmTUhQQ3FwSU1sUkI4OFE4aVZfSFJQV0ZYVjBzRkxJbE5ScVN5RjNzLWRFZVAzbmszeEEtLURlTURhWU44Uld1X3FXdWxXRjZfSU1iWUs2eDE4THNDVjNyTWVhQXhLZWpJT203azF4bFc3cw?oc=5",
+   "source_name": "Forbes",
+   "source_domain": "forbes.com",
+   "published_raw": "Sun, 17 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Months after Uber COO said that the company burnt its full AI budget for 2026 in less than four months, C",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNUNLLXdmV0FGS0JtY1N4Q1RMeHFqSlRrODZKQnB2VUpXYjVIN2dWQzVDVVhOS1RzZDFvZWRRQkVFN292d2l5di1DMm5MekJWTWg0ekFWYndObjRvVlJlYXdzT0NzTk9tWTYyU1ZzdVZCazlCQzh6Nkh5bHB3UGREUVRxTlMyUm5Xd2pncFBLQWdQUGVMaFRmYzJfaG1SeWd6ZHRHeU9uQ1RYWWlvOFk4WHpyMzQzS2w2bjBfR0lRUTljcnNMYUNjRFJSQU5QcXpmSVVaUWZ2T1JhVmo3MnpOUnNybm9aT0ExSFJ5LWphUXY0U1ZObWYyNms1OTRXT183ZjkwYlQtWjNIUVRKMm15aHRBbzRRQjRqVkdZdWhtc3NlZGd6dF9IVGdVYXpmYjA4dGtmcmcyZnhCQXhwcVBMcnZRdkNXVVgxTlZ3UmRXa25aa2tDdjNpTVcxNzNsT0E1Qm8zeXRYcXVKTlBnWVkwYWJ30gH3AkFVX3lxTE1hQTc3MHA3WV80a01rb0FoX1NVdDZTWEpMRDhMMU9nR05KZU5RZUtKbElTa3ZjSlRnN3czOFNwbTJVN3JIUXFJY2NNTi1SUzJMQk9jVjNCcDJQZzl4WmhRT3pBSTdLcWtjRzNmdHZyaVZrVl9oQ09odTZ1ajhpRFMyTHhQX0Nnb0hKUnNORDdmMXhmenVaMEFhSlJTXzFhX2V1bU9OVW5sNWV1bnU0SXc1QlFkTGsyLTVsODdMTmsyNGtHbC02dzhhNjBCS2VkOEtLdHJqR1F2UV9VTjFBWktXTmxOQmZ1b0dZVVhOelZBek8tSlRCRHAtOGMyc19lVVJkMW53N3JBZWt1TmI0OWp1ZU5HZ01waTR1NnV6Z2o5a2FJYXVhaEY3aTFlU1VOZ1IwNUg1TzlWUkJNY0otMDRpZGFhMExrMVNScTlJN1JOMkF1eFYzUmlkVjZZZDZMNjNXTVVwd0w4TnRncEJCQnhZY1RxSXZaaw?oc=5\" target=\"_blank\">Months after Uber COO said that the company burnt its full AI budget for 2026 in less than four months, C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNUNLLXdmV0FGS0JtY1N4Q1RMeHFqSlRrODZKQnB2VUpXYjVIN2dWQzVDVVhOS1RzZDFvZWRRQkVFN292d2l5di1DMm5MekJWTWg0ekFWYndObjRvVlJlYXdzT0NzTk9tWTYyU1ZzdVZCazlCQzh6Nkh5bHB3UGREUVRxTlMyUm5Xd2pncFBLQWdQUGVMaFRmYzJfaG1SeWd6ZHRHeU9uQ1RYWWlvOFk4WHpyMzQzS2w2bjBfR0lRUTljcnNMYUNjRFJSQU5QcXpmSVVaUWZ2T1JhVmo3MnpOUnNybm9aT0ExSFJ5LWphUXY0U1ZObWYyNms1OTRXT183ZjkwYlQtWjNIUVRKMm15aHRBbzRRQjRqVkdZdWhtc3NlZGd6dF9IVGdVYXpmYjA4dGtmcmcyZnhCQXhwcVBMcnZRdkNXVVgxTlZ3UmRXa25aa2tDdjNpTVcxNzNsT0E1Qm8zeXRYcXVKTlBnWVkwYWJ30gH3AkFVX3lxTE1hQTc3MHA3WV80a01rb0FoX1NVdDZTWEpMRDhMMU9nR05KZU5RZUtKbElTa3ZjSlRnN3czOFNwbTJVN3JIUXFJY2NNTi1SUzJMQk9jVjNCcDJQZzl4WmhRT3pBSTdLcWtjRzNmdHZyaVZrVl9oQ09odTZ1ajhpRFMyTHhQX0Nnb0hKUnNORDdmMXhmenVaMEFhSlJTXzFhX2V1bU9OVW5sNWV1bnU0SXc1QlFkTGsyLTVsODdMTmsyNGtHbC02dzhhNjBCS2VkOEtLdHJqR1F2UV9VTjFBWktXTmxOQmZ1b0dZVVhOelZBek8tSlRCRHAtOGMyc19lVVJkMW53N3JBZWt1TmI0OWp1ZU5HZ01waTR1NnV6Z2o5a2FJYXVhaEY3aTFlU1VOZ1IwNUg1TzlWUkJNY0otMDRpZGFhMExrMVNScTlJN1JOMkF1eFYzUmlkVjZZZDZMNjNXTVVwd0w4TnRncEJCQnhZY1RxSXZaaw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 10 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "After blowing through AI budget in a matter of months, Uber CTO says tokenmaxxing era is over",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5pTUVTczBYRnRPQU9sWkotcHc5VldXRGRxbThwQy13SXd3NTQ4NEFBZW56VmxnLXhDTVd2QTVWTktUdnktZlhlQWx1YjA0S0NvQWEtaGFEdUZiRVBOZ3k1UjJUY1pITlBRSnhjQ1lpRDFMdS0xNWFBMHR2WGRKQQ?oc=5\" target=\"_blank\">After blowing through AI budget in a matter of months, Uber CTO says tokenmaxxing era is over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pTUVTczBYRnRPQU9sWkotcHc5VldXRGRxbThwQy13SXd3NTQ4NEFBZW56VmxnLXhDTVd2QTVWTktUdnktZlhlQWx1YjA0S0NvQWEtaGFEdUZiRVBOZ3k1UjJUY1pITlBRSnhjQ1lpRDFMdS0xNWFBMHR2WGRKQQ?oc=5",
+   "source_name": "Fortune",
+   "source_domain": "fortune.com",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Uber Technologies: 2026 AI Budget Blown, But Margin Expansion Should Boost FCF (NYSE:UBER)",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGtZUmRTZ1o2cnlERjRhTVFRU0pLSm54bV9mZUFkcTRLYUozQXo2aTlTd05wQUlVVHYxVUE3QkJhaWEtblJDTGxEMGhDb3hCQ0R6OHVXTG5OblhyU2RwZmc1RGt6eW1WQ2NrdUtTUFFJSTRNVmxtMEJ4a3BuMDlFM2hFV2RkbGY3eW8xMDlGNE5abTZ6a3BmengwQWY5Ry0zdVg0VDRCLUZWdw?oc=5\" target=\"_blank\">Uber Technologies: 2026 AI Budget Blown, But Margin Expansion Should Boost FCF (NYSE:UBER)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGtZUmRTZ1o2cnlERjRhTVFRU0pLSm54bV9mZUFkcTRLYUozQXo2aTlTd05wQUlVVHYxVUE3QkJhaWEtblJDTGxEMGhDb3hCQ0R6OHVXTG5OblhyU2RwZmc1RGt6eW1WQ2NrdUtTUFFJSTRNVmxtMEJ4a3BuMDlFM2hFV2RkbGY3eW8xMDlGNE5abTZ6a3BmengwQWY5Ry0zdVg0VDRCLUZWdw?oc=5",
+   "source_name": "Seeking Alpha",
+   "source_domain": "seekingalpha.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "After starting the tokenmaxxing panic, Uber's CTO is back with a very different AI story",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjBlSnUxRFJjLTJyS1dxbjZxWnY3QlVyMGFnbnprSm9PQ2pBRDZLZEFHNzRMeDNRT2xyVzJfZDQ2UVYxTXlYYkpraU9FTGpBX1lqaFF1U1R5ZXNndGZqbHNkeU1pRnk4SGlxQ1FtZjVDZk5HQ2ltRzFXVlZUbFR6MUlIQkVNYTJnazhDM1VaQzU?oc=5\" target=\"_blank\">After starting the tokenmaxxing panic, Uber's CTO is back with a very different AI story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjBlSnUxRFJjLTJyS1dxbjZxWnY3QlVyMGFnbnprSm9PQ2pBRDZLZEFHNzRMeDNRT2xyVzJfZDQ2UVYxTXlYYkpraU9FTGpBX1lqaFF1U1R5ZXNndGZqbHNkeU1pRnk4SGlxQ1FtZjVDZk5HQ2ltRzFXVlZUbFR6MUlIQkVNYTJnazhDM1VaQzU?oc=5",
+   "source_name": "Business Insider",
+   "source_domain": "businessinsider.com",
+   "published_raw": "Sun, 02 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Uber CTO Praveen Neppalli Naga who sparked Tokenmaxxing panic has another lesson on using AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wJBVV95cUxOUFYwenhpZ2poT1RMTGpyeDZKY3hHdjVuaUVQSjY2SDNMNVU1b1FYYkkzOWRaTW5hSmJRelpTcXNsUFNRczF3ZXgtUkpCZ1VlRzh3MW5OWWNwQlBkVWtUbmdkQ0ZzZUpBMlIzQVUyQ3VqUEpnSmo5Mnk2MUU5VUdfMnRJYjB2R1U1clU5a3QwbzE4QmtONndqcXh4NG9FVWtNTDQwZmtYZFJNXzVaOFBkcnpJckJDSTc3RHpfZ1RMbnBYaldYUGdMUTRCRGMwdW1jT05qRnppQ1NwM2lkbUsydmlTNU5PX201aTY3dndrZDIxenctUi1McDFWU0tvSkd2d0lrZUtOdnRwLWtqZ1pQcHNTcHBQU3pDdGRQQUxoYTFJWE8ycDhycGpyVGJ0ajhISmROOTdCTDEwNXFOQkg4bzNGZWNRLS1QbTUzUUw5UU5KTGdfSjJQR0gzV2tXRllFalRZ0gHoAkFVX3lxTE04dFNRQ2c0eEtobzByWE83QVJza1JtejhBN3pYdl91SlJsTU9iSmt4ZjhBMmdtU0dyTEtKb3ZjOFNLbDJNc01HY3NWTWtNamJMeHlUbXVRSy1YX056MTlaVFRadG5KXzFxRWwxLWZOVWk2QmRKQVFqU0RaWEVyTmxPQkpsN0xJd2REMGs2QUNuNk9yNWJCeU9JcEl0S3BMQXM4UmR1SkxwSlpPZ0pQYWEycFpoOGZiNk9nUUI1QUFKcXhLU05rWDQ3RG41bVdvajFRbEhHR3FRd3pMcDllUjdXTmh5cFJwLUh6dDl1Mk5lYUFYZEdrNWJMQmxXVXRhekN6WTR5bEFseE9Fenc3eUFkY2VlS2F6cm1JeGN6OGtpYjBZU01iUW10ZnNLd0RJcWs4a1NPaWJVdmJFdDhVVTZxN1Z5Vm40bk05djFEcHRzWVVWWGVOaXk0a0FqNDlrMHEwemJBUEh6SQ?oc=5\" target=\"_blank\">Uber CTO Praveen Neppalli Naga who sparked Tokenmaxxing panic has another lesson on using AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOUFYwenhpZ2poT1RMTGpyeDZKY3hHdjVuaUVQSjY2SDNMNVU1b1FYYkkzOWRaTW5hSmJRelpTcXNsUFNRczF3ZXgtUkpCZ1VlRzh3MW5OWWNwQlBkVWtUbmdkQ0ZzZUpBMlIzQVUyQ3VqUEpnSmo5Mnk2MUU5VUdfMnRJYjB2R1U1clU5a3QwbzE4QmtONndqcXh4NG9FVWtNTDQwZmtYZFJNXzVaOFBkcnpJckJDSTc3RHpfZ1RMbnBYaldYUGdMUTRCRGMwdW1jT05qRnppQ1NwM2lkbUsydmlTNU5PX201aTY3dndrZDIxenctUi1McDFWU0tvSkd2d0lrZUtOdnRwLWtqZ1pQcHNTcHBQU3pDdGRQQUxoYTFJWE8ycDhycGpyVGJ0ajhISmROOTdCTDEwNXFOQkg4bzNGZWNRLS1QbTUzUUw5UU5KTGdfSjJQR0gzV2tXRllFalRZ0gHoAkFVX3lxTE04dFNRQ2c0eEtobzByWE83QVJza1JtejhBN3pYdl91SlJsTU9iSmt4ZjhBMmdtU0dyTEtKb3ZjOFNLbDJNc01HY3NWTWtNamJMeHlUbXVRSy1YX056MTlaVFRadG5KXzFxRWwxLWZOVWk2QmRKQVFqU0RaWEVyTmxPQkpsN0xJd2REMGs2QUNuNk9yNWJCeU9JcEl0S3BMQXM4UmR1SkxwSlpPZ0pQYWEycFpoOGZiNk9nUUI1QUFKcXhLU05rWDQ3RG41bVdvajFRbEhHR3FRd3pMcDllUjdXTmh5cFJwLUh6dDl1Mk5lYUFYZEdrNWJMQmxXVXRhekN6WTR5bEFseE9Fenc3eUFkY2VlS2F6cm1JeGN6OGtpYjBZU01iUW10ZnNLd0RJcWs4a1NPaWJVdmJFdDhVVTZxN1Z5Vm40bk05djFEcHRzWVVWWGVOaXk0a0FqNDlrMHEwemJBUEh6SQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Nagaland",
+   "title": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3MybFBJWTF3LW5KVEFlU04tSVFaTVlDNzhUWkJjcmNtYTktMkF4SnprZWpUTmNZbFBIem4yUm9ja25OU3RHZldIRDhXY0FVY1NDcEs3WjVpMnQyOUdQY0dLbThJUFN3elpncVRvZ2U1RjhZTlhhbmt0alUzZlJjRGxaUm14LXlvUmE5MkhZVmx5TTdodFNVeENqV3ZRdw?oc=5\" target=\"_blank\">Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3MybFBJWTF3LW5KVEFlU04tSVFaTVlDNzhUWkJjcmNtYTktMkF4SnprZWpUTmNZbFBIem4yUm9ja25OU3RHZldIRDhXY0FVY1NDcEs3WjVpMnQyOUdQY0dLbThJUFN3elpncVRvZ2U1RjhZTlhhbmt0alUzZlJjRGxaUm14LXlvUmE5MkhZVmx5TTdodFNVeENqV3ZRdw?oc=5",
+   "source_name": "Business Insider",
+   "source_domain": "businessinsider.com",
+   "published_raw": "Sun, 24 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:44+00:00"
+  }
+ ]
+}

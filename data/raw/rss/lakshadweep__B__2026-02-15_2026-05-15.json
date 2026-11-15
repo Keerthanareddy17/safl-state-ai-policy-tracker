@@ -1,0 +1,120 @@
+{
+ "region": "Lakshadweep",
+ "group": "B",
+ "query": "(Lakshadweep) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Lakshadweep%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:44+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Lakshadweep Land Acquisition 2026: Constitutional Concerns and Tribal Displacement on Agatti Island",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVk2NUt1SEl6Tm5QdDRJNkpjUXl6LXpnNWNEMEpDeTV6Z3dNck1uWGxYRVBZSS1NSDNwelBBU19oV3g4bC0zWEt6RklMR0RMWnoySEJZOXhwS1lDM0IwNS1ZYmtBSnBLM3U0ck96Ymd0MHpTUmI2ZjRUUmEwdkJGeHZUQWNCUzZxM3FSWFVlbjFwMVptdHVpcjE2RG83bWY4eWdfZ253OURBczRRVEtycTVCUjR4OHFCX2p4YjZiSlrSAccBQVVfeXFMTVNWdVZHRUpqejRlaE9nN09Jc1BpNXhncjlwbEEtdXFBTG8xZHd4UzRmZlZoeXBrVWprUXp4OW93UFNQT09ETVVZbU5zRUhwUDQ1MW1MbTZfcjFIM0JpWXFaVFFhN0ZFQ2FZZGJWYk9YSHAtNkoyY0ZxUDcyN0ZXc0FzNi0tMW1tdjc1TlhEek9SaVI4ZnFTZGwxdzQ4akN5MGw4MWFvV0NRVlBMZm9NVUhmX1I1WUJzVmdKTU1Da2RjTllaU1BWOA?oc=5\" target=\"_blank\">Lakshadweep Land Acquisition 2026: Constitutional Concerns and Tribal Displacement on Agatti Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVk2NUt1SEl6Tm5QdDRJNkpjUXl6LXpnNWNEMEpDeTV6Z3dNck1uWGxYRVBZSS1NSDNwelBBU19oV3g4bC0zWEt6RklMR0RMWnoySEJZOXhwS1lDM0IwNS1ZYmtBSnBLM3U0ck96Ymd0MHpTUmI2ZjRUUmEwdkJGeHZUQWNCUzZxM3FSWFVlbjFwMVptdHVpcjE2RG83bWY4eWdfZ253OURBczRRVEtycTVCUjR4OHFCX2p4YjZiSlrSAccBQVVfeXFMTVNWdVZHRUpqejRlaE9nN09Jc1BpNXhncjlwbEEtdXFBTG8xZHd4UzRmZlZoeXBrVWprUXp4OW93UFNQT09ETVVZbU5zRUhwUDQ1MW1MbTZfcjFIM0JpWXFaVFFhN0ZFQ2FZZGJWYk9YSHAtNkoyY0ZxUDcyN0ZXc0FzNi0tMW1tdjc1TlhEek9SaVI4ZnFTZGwxdzQ4akN5MGw4MWFvV0NRVlBMZm9NVUhmX1I1WUJzVmdKTU1Da2RjTllaU1BWOA?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Fri, 20 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "RNIT AI Solutions Deploys First AI-Based Attendance System in Lakshadweep Schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNDhXR0I3OWpzeHZ2YVpWVHNtODE3SUNIZWc1NVp1THJMVE8wS1lTaS01dF9nTTRQd0RNVlRNZENNOFVBRDl4SVlXQldvbU82Sm4wS290RzVLQVMybzlZdWR3cmUxaXl4aUFtdlozV280YzE1cC1hMUt6Z2ZtM1NNWnpWVDd5dS1ieThqajVjelRFcWh2Rkp6dVo4WDRZR1U2RGdDRjZNazZXNzFPTGRUanNVbDlhR3JKR242cEt0S0xMYm1RZEtwQURqT01DYzhv?oc=5\" target=\"_blank\">RNIT AI Solutions Deploys First AI-Based Attendance System in Lakshadweep Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNDhXR0I3OWpzeHZ2YVpWVHNtODE3SUNIZWc1NVp1THJMVE8wS1lTaS01dF9nTTRQd0RNVlRNZENNOFVBRDl4SVlXQldvbU82Sm4wS290RzVLQVMybzlZdWR3cmUxaXl4aUFtdlozV280YzE1cC1hMUt6Z2ZtM1NNWnpWVDd5dS1ieThqajVjelRFcWh2Rkp6dVo4WDRZR1U2RGdDRjZNazZXNzFPTGRUanNVbDlhR3JKR242cEt0S0xMYm1RZEtwQURqT01DYzhv?oc=5",
+   "source_name": "scanx.trade",
+   "source_domain": "scanx.trade",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "\"1st Project Of Its Kind\": Minister Jitendra Singh To NDTV On New Ocean-Powered Plant In Lakshadweep",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2NKdDJzMnVGTEtHZlFpMEZvR3M0MEY0UHNuVm9fU3FzUy1EeklOUmtFdnh5aDNmTXlxTXdtdlVNT1BXaXhfbW5kaDJuLWtGdkdCVlg1LWxrTXFVZ0RHNllJQnRoV3pQOHcxbWtfTkQtYm5jZDVzdXZrSUxUc1dhOG1UTk1fMmNRcVhrdVNQdXVpUlp6b3QyUHI5S1NSWUpMU3l6UHBjQVlfY29tcnh0bmF2b3BnWHF3WnZ0SG5fY1JfVTVRclBHRkU4NGpCdS0wMVk2ZNIB3AFBVV95cUxQR3F0Vm9oN0llMzRlTXFNeGFqU19EcmNhVUcwUzcwOWExdlU4X2ZZU1JYXzF4SUQyblB2VV9ESnRkU0RsME1mZlJfYldnY0g2cnZMX2R0c3BOZlhKNW5uSVJKZjJUMTBGclVBVWN1bnRUNlZsMjJKUVJOdHRFenExTUJXZF94cW5CUndpMk1FNWhNWFJJcW8xem90RVhJbnhFeDdUcW1PdHQ3UzZ5ZldlcnRIejNfX0FTT2I4Q3BLTkl3X0RWZjI5WE8xeGZwRW1YOEliSjBxSm5DckU0?oc=5\" target=\"_blank\">\"1st Project Of Its Kind\": Minister Jitendra Singh To NDTV On New Ocean-Powered Plant In Lakshadweep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2NKdDJzMnVGTEtHZlFpMEZvR3M0MEY0UHNuVm9fU3FzUy1EeklOUmtFdnh5aDNmTXlxTXdtdlVNT1BXaXhfbW5kaDJuLWtGdkdCVlg1LWxrTXFVZ0RHNllJQnRoV3pQOHcxbWtfTkQtYm5jZDVzdXZrSUxUc1dhOG1UTk1fMmNRcVhrdVNQdXVpUlp6b3QyUHI5S1NSWUpMU3l6UHBjQVlfY29tcnh0bmF2b3BnWHF3WnZ0SG5fY1JfVTVRclBHRkU4NGpCdS0wMVk2ZNIB3AFBVV95cUxQR3F0Vm9oN0llMzRlTXFNeGFqU19EcmNhVUcwUzcwOWExdlU4X2ZZU1JYXzF4SUQyblB2VV9ESnRkU0RsME1mZlJfYldnY0g2cnZMX2R0c3BOZlhKNW5uSVJKZjJUMTBGclVBVWN1bnRUNlZsMjJKUVJOdHRFenExTUJXZF94cW5CUndpMk1FNWhNWFJJcW8xem90RVhJbnhFeDdUcW1PdHQ3UzZ5ZldlcnRIejNfX0FTT2I4Q3BLTkl3X0RWZjI5WE8xeGZwRW1YOEliSjBxSm5DckU0?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Tue, 10 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Lakshadweep admin's 'no vehicle day' draws flak, BJP unit among critics",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQkZuSHhqaFlWRS0zTEpfQ3h6SXU4TVJDbm9pVnRTOUU2Qk5sWkdpV1pwbHJ6bmNaVzNNeVk2U0cxRUI4TXAzeXRqbHVhRFRuaVlFSTZOdDhJdGJONkdYSUhwbHBfdUZkMkwzeHhJMGVuSUFmanE3bGpEblB3SFFEcjFBUGdEMXZWb2tzdWk0VVc1U3JyaU5ZQ2Vrd2ZkdFBhNWZldk5TMkx2RHRlNkl0dGEyZVJUTGp4TENHRHQtOXEtelZmbGhrMzlNeHRWLXZYX1UwUWdOUdIB3AFBVV95cUxORi1GNnNmajNHc0VrX3RtbzVvaWt5OWpFQV9pQUI5QmRNQjdlckpxTWl2VWR4WEoxOTd6a25scjdreGRKZTJNOHlXRl9XTTRLaHp4OFJRYTRxbkR3TnVGNDNnLUZHVnpoNGVUQTZNR1dmNG5vSlRLdWNoR3VLMjVZUDQ3T0ctcTBPTkhNRGtsWUQ3OHFrWU1xOWc4VllXZTVNSjZVMHN2Y1B4c2hpZXE1Ml8xUDBsbHR4aU1HcWRXbldwRWo1Z3dBX3Z6NUpIQVZ0NW9tM1BMR3NLN0hq?oc=5\" target=\"_blank\">Lakshadweep admin's 'no vehicle day' draws flak, BJP unit among critics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQkZuSHhqaFlWRS0zTEpfQ3h6SXU4TVJDbm9pVnRTOUU2Qk5sWkdpV1pwbHJ6bmNaVzNNeVk2U0cxRUI4TXAzeXRqbHVhRFRuaVlFSTZOdDhJdGJONkdYSUhwbHBfdUZkMkwzeHhJMGVuSUFmanE3bGpEblB3SFFEcjFBUGdEMXZWb2tzdWk0VVc1U3JyaU5ZQ2Vrd2ZkdFBhNWZldk5TMkx2RHRlNkl0dGEyZVJUTGp4TENHRHQtOXEtelZmbGhrMzlNeHRWLXZYX1UwUWdOUdIB3AFBVV95cUxORi1GNnNmajNHc0VrX3RtbzVvaWt5OWpFQV9pQUI5QmRNQjdlckpxTWl2VWR4WEoxOTd6a25scjdreGRKZTJNOHlXRl9XTTRLaHp4OFJRYTRxbkR3TnVGNDNnLUZHVnpoNGVUQTZNR1dmNG5vSlRLdWNoR3VLMjVZUDQ3T0ctcTBPTkhNRGtsWUQ3OHFrWU1xOWc4VllXZTVNSjZVMHN2Y1B4c2hpZXE1Ml8xUDBsbHR4aU1HcWRXbldwRWo1Z3dBX3Z6NUpIQVZ0NW9tM1BMR3NLN0hq?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Awanish Kumar Appointed Census Director for Lakshadweep, Sonal Swaroop for Northeast States",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUJfLTM0cGlKcFBEem94bndZcXp3dkp1N05mWUhCMnFuSkZiVHlBV245NjNfTXhtN21aVWExTTljSjVNY3YydTFpRkkxSHBFbHZGb2lVY2JfMVY0ZkZHX256aDBzdzJWX25uaVR5VkNKTWxhNjlnMThtMGZqeXNjQkVoY2lTQ3EydmdnV0lJbm1BcnRROHJYZXlqSHFIZUxrcFQ1UFJQc1NZVXE0azhVWnk2dUkwMUZNbktNYXd0MDRjWDBNZFdv?oc=5\" target=\"_blank\">Awanish Kumar Appointed Census Director for Lakshadweep, Sonal Swaroop for Northeast States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUJfLTM0cGlKcFBEem94bndZcXp3dkp1N05mWUhCMnFuSkZiVHlBV245NjNfTXhtN21aVWExTTljSjVNY3YydTFpRkkxSHBFbHZGb2lVY2JfMVY0ZkZHX256aDBzdzJWX25uaVR5VkNKTWxhNjlnMThtMGZqeXNjQkVoY2lTQ3EydmdnV0lJbm1BcnRROHJYZXlqSHFIZUxrcFQ1UFJQc1NZVXE0azhVWnk2dUkwMUZNbktNYXd0MDRjWDBNZFdv?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Wed, 22 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Seaplanes return to India as SkyHop wins licence for island routes",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGdvVEY3ZVZzTGlQeS1aZFAyVHBmR0dKcGJ1ZW03dFF5UU5zdGdEcTVNVlJUaEZ1YnNTSzg0Z2RIaEtZVnZRSG9YNVFUaWZIbHNVQm1NNktHN0RwR0I3VEktSU5XdnZzQ3dKLVFvdTAxdWdvZC1NMklQcVkxX1JfN0Y3bFFvYjVVNlZv?oc=5\" target=\"_blank\">Seaplanes return to India as SkyHop wins licence for island routes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aerospace Global News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGdvVEY3ZVZzTGlQeS1aZFAyVHBmR0dKcGJ1ZW03dFF5UU5zdGdEcTVNVlJUaEZ1YnNTSzg0Z2RIaEtZVnZRSG9YNVFUaWZIbHNVQm1NNktHN0RwR0I3VEktSU5XdnZzQ3dKLVFvdTAxdWdvZC1NMklQcVkxX1JfN0Y3bFFvYjVVNlZv?oc=5",
+   "source_name": "Aerospace Global News",
+   "source_domain": "aerospaceglobalnews.com",
+   "published_raw": "Mon, 27 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "India Is Set To Get Its First Commercial Seaplanes, Starting With Lakshadweep",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUQ0TnZ6YlNpYWJBRXlQa1BwY3NCNkdHelBOTHM2XzhFMWpEOVVldnhuQ1BTZ0I4dE9ZUkYwOHVtX0dWaFVkX1Z2N19NdDJYLUxhRldpYWRnaUFaMGNnSHRhZjNrN2lfY29KWUxGRkFxdFp5RXJvZTBzOE4zQ291Ti15cUVkVmQwNDlSVkV0VVBkekVVRlZzOW5tcmxfaEhDMUlBUENYN0E3enlmWjAxZk1Id9IBuwFBVV95cUxNYjBpOU42TUdoQzV0bU5NZENfMXFDU3Jkdl9lcFVCZjdOOGxZWFlnR1NFa01KSnNUU09FemFWUjFKOU02emNPallrb05iMVBvMVRKT0NpbGNFNlYyV3IyM1lNUUk4SzlHM3F5RFZDOUFxaFVxQ0RTRDliTkdRMk5pVGtXQUgtQWtpMm5xV1Z6N2h1MFcxajBVQVZEUzN6dDhvTlJyVXpRN24yMlpadGNPdG5jTnNvMEpEMmJF?oc=5\" target=\"_blank\">India Is Set To Get Its First Commercial Seaplanes, Starting With Lakshadweep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUQ0TnZ6YlNpYWJBRXlQa1BwY3NCNkdHelBOTHM2XzhFMWpEOVVldnhuQ1BTZ0I4dE9ZUkYwOHVtX0dWaFVkX1Z2N19NdDJYLUxhRldpYWRnaUFaMGNnSHRhZjNrN2lfY29KWUxGRkFxdFp5RXJvZTBzOE4zQ291Ti15cUVkVmQwNDlSVkV0VVBkekVVRlZzOW5tcmxfaEhDMUlBUENYN0E3enlmWjAxZk1Id9IBuwFBVV95cUxNYjBpOU42TUdoQzV0bU5NZENfMXFDU3Jkdl9lcFVCZjdOOGxZWFlnR1NFa01KSnNUU09FemFWUjFKOU02emNPallrb05iMVBvMVRKT0NpbGNFNlYyV3IyM1lNUUk4SzlHM3F5RFZDOUFxaFVxQ0RTRDliTkdRMk5pVGtXQUgtQWtpMm5xV1Z6N2h1MFcxajBVQVZEUzN6dDhvTlJyVXpRN24yMlpadGNPdG5jTnNvMEpEMmJF?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Tue, 28 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Kochi-Lakshadweep seaplane service soon",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXVfNXd2QV9FU2FiR2k2MHJJR3A0QWR1OE83QkgyYl96ZlpCZHFTZXFuUlZWWEdXM2twcnNLUUwzemJHZjBLbEdZc3R3aXNfMG9XcFVjRll3N25WTVc2bWNLNFk1cHREZHRQZWRRUGh5WDNCVDZrNWNGLVBBd25OUXdUNzd2VU5GR3FydEJmTmU5emthamdIMmtyLUFlZ0Zuck51Wkd2R0t6bFZKSDRvdmxR0gG3AUFVX3lxTE9DSWZnOS10cHR3ZW5PLXRJZHVfQUNTNm9mLUJWajZVTk53YWxfQ0lJSDNNbURDNk9sejhNcnE3TTlaQkg5QmQ1OHkzNFgyTEZ0NF9nVXJjVTVXSEVUbmVrVVkxVmtKMnMyR3kxdjhONTk2TGdkNnZGTC1WdFlBUVVHR1FUZmRTcG04dHdSOXFQZ1E5YVY2U0g5MEhmbmpiVUVLSVVJNzVKM2N3MUxzb3pRUmp1X08ydw?oc=5\" target=\"_blank\">Kochi-Lakshadweep seaplane service soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXVfNXd2QV9FU2FiR2k2MHJJR3A0QWR1OE83QkgyYl96ZlpCZHFTZXFuUlZWWEdXM2twcnNLUUwzemJHZjBLbEdZc3R3aXNfMG9XcFVjRll3N25WTVc2bWNLNFk1cHREZHRQZWRRUGh5WDNCVDZrNWNGLVBBd25OUXdUNzd2VU5GR3FydEJmTmU5emthamdIMmtyLUFlZ0Zuck51Wkd2R0t6bFZKSDRvdmxR0gG3AUFVX3lxTE9DSWZnOS10cHR3ZW5PLXRJZHVfQUNTNm9mLUJWajZVTk53YWxfQ0lJSDNNbURDNk9sejhNcnE3TTlaQkg5QmQ1OHkzNFgyTEZ0NF9nVXJjVTVXSEVUbmVrVVkxVmtKMnMyR3kxdjhONTk2TGdkNnZGTC1WdFlBUVVHR1FUZmRTcG04dHdSOXFQZ1E5YVY2U0g5MEhmbmpiVUVLSVVJNzVKM2N3MUxzb3pRUmp1X08ydw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 07 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "First seaplane service trial between Kochi, Lakshadweep completed ahead of commercial rollout",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYklVVE9JU1JraE5ZWE5nYXBBSXJsQnJIRDlBOHBiZS1jbWpxQXNrUjRBTHBuM1J5UXB1Y2xucTA0eTE5dmtiMzJ5X2FiLUFwck00ZFRMYWhZblhvVS1yZ2tjcnZUbHpRV2REVnRZamZ2UGViRUp0RllERTl1SDNZOFZ5RE5aTFJBejgtcUVuN3hLR2hlZVR3RG5jMTBHY25aZUtYUV9uc2VjU2JJcXZYdHRvZkhLVHdXTlFuMHh0bUt5QWtBQ1dQR0tlcGZTNFZ2eVhYYTNCMVFFMTjSAd8BQVVfeXFMUHdZMjQ3al9vMWpuM2hNZmhZbDc0aG5SWGlSbmdnV1BwdG15U0tFU0hKZzljcHhPYy1TVVJyNm95VzhieEhZWU5UREZMcmFZc21Rb2hXdTNEckRRMy15R0NyRU9uMWd3Z0l4cnpZbUtOQ3lhTVpUU3gzU3dQWmhEbEdZZy1nX2R0OHlRU2wtODF4ZDFDYl94YW0tb25Mb1hPVFR5X2hXcUVjOVdkR0NPNEY0WU5pM245MFFCUkgweS0zZGR3U1htSnJRak5SVDFORHlObzVRVmVzZmJkd0otOA?oc=5\" target=\"_blank\">First seaplane service trial between Kochi, Lakshadweep completed ahead of commercial rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYklVVE9JU1JraE5ZWE5nYXBBSXJsQnJIRDlBOHBiZS1jbWpxQXNrUjRBTHBuM1J5UXB1Y2xucTA0eTE5dmtiMzJ5X2FiLUFwck00ZFRMYWhZblhvVS1yZ2tjcnZUbHpRV2REVnRZamZ2UGViRUp0RllERTl1SDNZOFZ5RE5aTFJBejgtcUVuN3hLR2hlZVR3RG5jMTBHY25aZUtYUV9uc2VjU2JJcXZYdHRvZkhLVHdXTlFuMHh0bUt5QWtBQ1dQR0tlcGZTNFZ2eVhYYTNCMVFFMTjSAd8BQVVfeXFMUHdZMjQ3al9vMWpuM2hNZmhZbDc0aG5SWGlSbmdnV1BwdG15U0tFU0hKZzljcHhPYy1TVVJyNm95VzhieEhZWU5UREZMcmFZc21Rb2hXdTNEckRRMy15R0NyRU9uMWd3Z0l4cnpZbUtOQ3lhTVpUU3gzU3dQWmhEbEdZZy1nX2R0OHlRU2wtODF4ZDFDYl94YW0tb25Mb1hPVFR5X2hXcUVjOVdkR0NPNEY0WU5pM245MFFCUkgweS0zZGR3U1htSnJRak5SVDFORHlObzVRVmVzZmJkd0otOA?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "India To Launch First Commercial Seaplane Service With Lakshadweep As The Starting Point",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQS1mWHRNdVlFT1pGWHJvaHc1ZVpGdnc2UmxLdnZRVFZkRm1DSnJ5aVBHMGtDb2dEY3h0MzVGX1F3YmJhTm9wRUJkNXJIMDU1V1NBczlKRVc3Vm9zUjR4UHlTYWJoVlpHbnd3UDQzT05adzE1QWQzOWxoVWRoU2xVekNhSF9iOVdac2pGb2I3RGFZdG1HSl9JODdPQjBraXdRc0FfWm4zajVYQmFqSFF5Uk1wemgzMFIyMWw3enBGSGNIZ2hqVG1tNl9CUGJ3b0lXUFRydUlfVE5kZ9IB3wFBVV95cUxQRVZHZVRjNVVkbVFnTlVWSHZxbTJFX1o2STNuaVN2djZNRlkwQkRraE5fU1hGT2pzT0JDNHJ5YkJMU3Q0amx6NzZQWk1UM2lEN3hRNVQ2MmRhSHdXTmI3M2NMUDE3Q3FWM1NXSEhLU3loQy0tcDBkNWFldDVFSGhjTWdDZ0psRzNHVklFeE9nZGxqSk5TQkVVQV9ZcVNBWGlLUmZhUWVQVVJzUWh6R3BmZlEzdExEN0YzYkFVZ1hyU2NfWkkwOGtiOWdoRlppWWJ6WGRRdHdMZmZUZ3FvVmtj?oc=5\" target=\"_blank\">India To Launch First Commercial Seaplane Service With Lakshadweep As The Starting Point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQS1mWHRNdVlFT1pGWHJvaHc1ZVpGdnc2UmxLdnZRVFZkRm1DSnJ5aVBHMGtDb2dEY3h0MzVGX1F3YmJhTm9wRUJkNXJIMDU1V1NBczlKRVc3Vm9zUjR4UHlTYWJoVlpHbnd3UDQzT05adzE1QWQzOWxoVWRoU2xVekNhSF9iOVdac2pGb2I3RGFZdG1HSl9JODdPQjBraXdRc0FfWm4zajVYQmFqSFF5Uk1wemgzMFIyMWw3enBGSGNIZ2hqVG1tNl9CUGJ3b0lXUFRydUlfVE5kZ9IB3wFBVV95cUxQRVZHZVRjNVVkbVFnTlVWSHZxbTJFX1o2STNuaVN2djZNRlkwQkRraE5fU1hGT2pzT0JDNHJ5YkJMU3Q0amx6NzZQWk1UM2lEN3hRNVQ2MmRhSHdXTmI3M2NMUDE3Q3FWM1NXSEhLU3loQy0tcDBkNWFldDVFSGhjTWdDZ0psRzNHVklFeE9nZGxqSk5TQkVVQV9ZcVNBWGlLUmZhUWVQVVJzUWh6R3BmZlEzdExEN0YzYkFVZ1hyU2NfWkkwOGtiOWdoRlppWWJ6WGRRdHdMZmZUZ3FvVmtj?oc=5",
+   "source_name": "News18",
+   "source_domain": "news18.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:44+00:00"
+  }
+ ]
+}

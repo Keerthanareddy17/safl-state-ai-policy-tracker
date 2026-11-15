@@ -1,0 +1,131 @@
+{
+ "region": "Haryana",
+ "group": "A",
+ "query": "(Haryana) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Haryana%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:14+00:00",
+ "item_count": 11,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "HC notice to Centre, Google, Meta, X over plea for regulation of AI content",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGd1ajdwVUJrUEdLSlNac053VlN5Q1BpVUVLVV9iZUtKaUZGSm1LZjVDSjJhOE1GcGJWS1NDdnBBek9fbmNwWks0SFdSNm9GNG55RnRyZWp0U2pRWWZDaVlKTlktUFJhUEc5MnJ4OTJIdExfckJ0LW9NWUhJVE9kbXFRdFVhTHAzdnNfLTBYTl9oZHlNV1hVZUZycVBXTmJRaGNFRXpZTTZPeFFMRVhuVXl6bE5mRDFFTnVMRVQwa0RuVmNQazRKN0k3ZC1wN0xVMjlYOHB3SlhvQmIySHhiSklDUmI1cVh4N0xaZ0tmNkpOMHUwdFpFRWVpM0h5eGZCM2dORjRyX3AzR2tRZUHSAZICQVVfeXFMT09UVDhqRXBFVUdJZUdhLXRFNWFMd1I0a3FYbUMwSmlMZS1NWjBQd0Q1d1dLUzd3aTV4OG10R2Y4eS1GQUh0TmlkMXNNNW9VaUltTmRaUy1tdnZzQnBVd1J3Q3FQZ0JWTE9qaG9ZeHJqbWFSMk9CUzJNMVhyWndiaF9OWFd5ZzNwWFI3eGtheTlNMFYtVFRYZ0pMUzNKa1d5UmxTaUZpMHRRYjFRSm5fT0p6dUg2cFltaHNBNzBOVVNiaGctNjRGUldMbVNHNVdyQTJwcjRrYmZKS29FNWgtOE54YmkxZ2l0dHBNRGRHNjlyXzRIdG1TdF9vaHpMZmN6SWdzeDRDQUNvMTZvdVRfRU5WQQ?oc=5\" target=\"_blank\">HC notice to Centre, Google, Meta, X over plea for regulation of AI content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETLegalWorld.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGd1ajdwVUJrUEdLSlNac053VlN5Q1BpVUVLVV9iZUtKaUZGSm1LZjVDSjJhOE1GcGJWS1NDdnBBek9fbmNwWks0SFdSNm9GNG55RnRyZWp0U2pRWWZDaVlKTlktUFJhUEc5MnJ4OTJIdExfckJ0LW9NWUhJVE9kbXFRdFVhTHAzdnNfLTBYTl9oZHlNV1hVZUZycVBXTmJRaGNFRXpZTTZPeFFMRVhuVXl6bE5mRDFFTnVMRVQwa0RuVmNQazRKN0k3ZC1wN0xVMjlYOHB3SlhvQmIySHhiSklDUmI1cVh4N0xaZ0tmNkpOMHUwdFpFRWVpM0h5eGZCM2dORjRyX3AzR2tRZUHSAZICQVVfeXFMT09UVDhqRXBFVUdJZUdhLXRFNWFMd1I0a3FYbUMwSmlMZS1NWjBQd0Q1d1dLUzd3aTV4OG10R2Y4eS1GQUh0TmlkMXNNNW9VaUltTmRaUy1tdnZzQnBVd1J3Q3FQZ0JWTE9qaG9ZeHJqbWFSMk9CUzJNMVhyWndiaF9OWFd5ZzNwWFI3eGtheTlNMFYtVFRYZ0pMUzNKa1d5UmxTaUZpMHRRYjFRSm5fT0p6dUg2cFltaHNBNzBOVVNiaGctNjRGUldMbVNHNVdyQTJwcjRrYmZKS29FNWgtOE54YmkxZ2l0dHBNRGRHNjlyXzRIdG1TdF9vaHpMZmN6SWdzeDRDQUNvMTZvdVRfRU5WQQ?oc=5",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "legal.economictimes.indiatimes.com",
+   "published_raw": "Sat, 07 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Punjab and Haryana high court bars AI use in judgments, legal research; warns of strict action",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2lVOWRqLUEyeFl3QkFxLVhXV2NmOVlWT0tiU1JVa2FqaFowcmRhQjVSTldCMGg3aU1IU3VnWUVxdlh1NTdZMUcxT3VHVmZ1UlBabEo2TmpyMElXSGJyb3ZqTnBpNXBBZ09lZndXd0JndUN3cnVjc0tWMzVDaHFRS3NoYUpKRklsOEpDWDBubVVBb2tZT010UDJBa0V2T1FMempRVlAyd0xhZFRydFlUV1VJY2VUMFctU2E0ZVhaUDd3T0dyaS1sQ0tpRllqanBycGZpSVc1bEpDTkJKdVBOamFCVVlyQTV3OUliMlZFU1RKLXY0TXJxWNIB_gFBVV95cUxQaUZhdGJRQ21lTDRIYm5ucG40MTNpQnBUZmZZNlJYMmVIbmNub3JiMFUxQjB0ekRmMjFRaXdWckRsR2pVZVRJZzc4bHhITm02ZlU0cU1VcVhXS1NLZk0xNUlsWllhZGIwUU9OU0NnTGtEODRLanBSVFRmMXhXV0NsTUtkOTlfN19hNHppcENSZEdoYVhUOG9qOWc1eUZVT1djX0M4d1pNeXJ2bWVrZXlPaTBYaEFGbTg5X0FhRFQtVktVd0xwdlZ3Z2hpelVyQ09KSU44T09GU2RsYkpCX2d3MjQ0NWJTcnR5MzlRV3YzM2tranY4LXNkVTg2aFhTQQ?oc=5\" target=\"_blank\">Punjab and Haryana high court bars AI use in judgments, legal research; warns of strict action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN2lVOWRqLUEyeFl3QkFxLVhXV2NmOVlWT0tiU1JVa2FqaFowcmRhQjVSTldCMGg3aU1IU3VnWUVxdlh1NTdZMUcxT3VHVmZ1UlBabEo2TmpyMElXSGJyb3ZqTnBpNXBBZ09lZndXd0JndUN3cnVjc0tWMzVDaHFRS3NoYUpKRklsOEpDWDBubVVBb2tZT010UDJBa0V2T1FMempRVlAyd0xhZFRydFlUV1VJY2VUMFctU2E0ZVhaUDd3T0dyaS1sQ0tpRllqanBycGZpSVc1bEpDTkJKdVBOamFCVVlyQTV3OUliMlZFU1RKLXY0TXJxWNIB_gFBVV95cUxQaUZhdGJRQ21lTDRIYm5ucG40MTNpQnBUZmZZNlJYMmVIbmNub3JiMFUxQjB0ekRmMjFRaXdWckRsR2pVZVRJZzc4bHhITm02ZlU0cU1VcVhXS1NLZk0xNUlsWllhZGIwUU9OU0NnTGtEODRLanBSVFRmMXhXV0NsTUtkOTlfN19hNHppcENSZEdoYVhUOG9qOWc1eUZVT1djX0M4d1pNeXJ2bWVrZXlPaTBYaEFGbTg5X0FhRFQtVktVd0xwdlZ3Z2hpelVyQ09KSU44T09GU2RsYkpCX2d3MjQ0NWJTcnR5MzlRV3YzM2tranY4LXNkVTg2aFhTQQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Saini unveils Haryana Agri Discom, 20% police quota for Agniveers in 2026–27 budget",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFlxLVA2Y2ljSE9EUjJOSEVhWC1ZU3hCWk1IT216S0FUYTRNWkxHaWVKSFAwMThrZ0ZRLWluQXM5YVpfXzFtdnBvZTBoX3plTXBSbTJLR2VVc1JJWWpiR2pzWUVTTGRqZDB2Z1JLaVh4SVRReFJJai1FY2dscVAzV2NZZXB2ZTNmQzJieU02YXNUTGg2VlNMZVN0ekd5MVZJMTRoLUhuZE5kZkVySnBXTjREd3RJZFhNNk9XWEduWlkyMjBPXzNMSnZwRdIB2AFBVV95cUxQSS1GM1RIZmRXdUY4MHAtR2F2VjRuUHZFM1VsNV9xcXZ2dGlPZUhpQ0U4OG5VOFoxT19BZmNacGNKM1VZdkdUVThERFR1TkVrQktVVF9oZEtJdW9IeFNiR3lONzM3dGFiS25iX19VeVFTNTNzeng2Z3VoR3NLV3Bod29QNTBmMG9WU0RfWUlRQ0VUa2ctZGtZaUlSUXduNjNFUl9uejRxOGVzaDFHTkFuenZvejY3UlI5T25QeFhHV2xDRUNrVk1kSG4xRlp3YndkNEpwY0JtWDA?oc=5\" target=\"_blank\">Saini unveils Haryana Agri Discom, 20% police quota for Agniveers in 2026–27 budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFlxLVA2Y2ljSE9EUjJOSEVhWC1ZU3hCWk1IT216S0FUYTRNWkxHaWVKSFAwMThrZ0ZRLWluQXM5YVpfXzFtdnBvZTBoX3plTXBSbTJLR2VVc1JJWWpiR2pzWUVTTGRqZDB2Z1JLaVh4SVRReFJJai1FY2dscVAzV2NZZXB2ZTNmQzJieU02YXNUTGg2VlNMZVN0ekd5MVZJMTRoLUhuZE5kZkVySnBXTjREd3RJZFhNNk9XWEduWlkyMjBPXzNMSnZwRdIB2AFBVV95cUxQSS1GM1RIZmRXdUY4MHAtR2F2VjRuUHZFM1VsNV9xcXZ2dGlPZUhpQ0U4OG5VOFoxT19BZmNacGNKM1VZdkdUVThERFR1TkVrQktVVF9oZEtJdW9IeFNiR3lONzM3dGFiS25iX19VeVFTNTNzeng2Z3VoR3NLV3Bod29QNTBmMG9WU0RfWUlRQ0VUa2ctZGtZaUlSUXduNjNFUl9uejRxOGVzaDFHTkFuenZvejY3UlI5T25QeFhHV2xDRUNrVk1kSG4xRlp3YndkNEpwY0JtWDA?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "12 Major Takeaways from CM Saini’s ₹2.23 Lakh Crore Haryana Budget | Chandigarh News",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNei1Bd0NndDZJbmlWdnV6QW91bkltQ2xtVjRkSTA5bXZNRlI2LWpHNDdKX3BYV1I4RVVRa0lUUHluSGEtZ0pLYzVCLTl4VF9nZmFUcXlCc3ZjdEtURDh2cG9semwtY18tRVVoZG92SFVRd2NUT0xuTW5sR0V5djlyaVNuTnBhb214bGx1WURZX0tZRU4yZUtBRlhlUEVQb1dBaXI5RWdoSXBBXzZ6SFQ1MFVSNzZxU1hDS1hIS3NVT1llRXdKMm16U2JEcw?oc=5\" target=\"_blank\">12 Major Takeaways from CM Saini’s ₹2.23 Lakh Crore Haryana Budget | Chandigarh News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNei1Bd0NndDZJbmlWdnV6QW91bkltQ2xtVjRkSTA5bXZNRlI2LWpHNDdKX3BYV1I4RVVRa0lUUHluSGEtZ0pLYzVCLTl4VF9nZmFUcXlCc3ZjdEtURDh2cG9semwtY18tRVVoZG92SFVRd2NUT0xuTW5sR0V5djlyaVNuTnBhb214bGx1WURZX0tZRU4yZUtBRlhlUEVQb1dBaXI5RWdoSXBBXzZ6SFQ1MFVSNzZxU1hDS1hIS3NVT1llRXdKMm16U2JEcw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Mon, 02 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana Unveils ₹2.23 Lakh Crore Budget for 2026-27",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUQ0SjFjaTAzR2UzazdNRmhVZGtGcE80WVBnMmp0M1pMRllZakNKejVOcTNWTjRWUXlaLUZWOWlfNFR5ekswR3RQVlo2QTFSbWRCMmxjVk84MDQ3VTh1SDBac0pXOXU3bUhFUWhYWXl5SHlHVnZIZUszemVGWTRRZ3Q4Z3BZZDZxMFFQTkM4TVhNUjgtdUxFTW9UOA?oc=5\" target=\"_blank\">Haryana Unveils ₹2.23 Lakh Crore Budget for 2026-27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUQ0SjFjaTAzR2UzazdNRmhVZGtGcE80WVBnMmp0M1pMRllZakNKejVOcTNWTjRWUXlaLUZWOWlfNFR5ekswR3RQVlo2QTFSbWRCMmxjVk84MDQ3VTh1SDBac0pXOXU3bUhFUWhYWXl5SHlHVnZIZUszemVGWTRRZ3Q4Z3BZZDZxMFFQTkM4TVhNUjgtdUxFTW9UOA?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana gets 668 PMKVY 4.0 centres, 600+ courses in AI, drones, robotics",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcG5BdWRnZ1NzQ0FvV3B6Y1I1SlQ0QlAwMGF3UUFtbEVVejhiYjBDVzVGR3ZDYXBwVkkydWpuTUNlRl9EWWVxaXVXY2FGZENRR1JHblgtQVBOb2JqZktPM3hOWkQ3VUJ6cGpFMVpEVGxJbmZ0ODV0alFWc1l1RDM4Z2ExTWswcmhZaVJLdmtDZG94dDd3Y3lQNG96NFhGWjlaajdRcGRaUmZieU0xYUVMRlYyWDUwLV94em10dWVvZVFwOW0xekg2UExFX3V1ZUtXN3FWVExrRlo5MVVMa2dN0gHkAUFVX3lxTFBzNThZaC1kSXh3YVg0T2VUVVNMcEFJY1FqdFZzSG43MEtZWkxHYUZPMUJSOTM2Mmd3RDRGbUszeXZxRFNIUWw0X2poTk9kMGczd1ZfM1B2SlFsSDE0UFBXYVRadVpMemFsLXFDTmJqc0RuajVvTC15QU1sb1hTWWh0TXFxUjR5QUVrOVNZYWE0dkJieXZGZlg4WWhQYnJsM185UGJzRFhLTUZ2WnIyMUV5Y3g1NDhxYzZJUnZLQkFvVVFpQU5iVkd2bFlKeDFWeE1SWEVBUGdabkxoWjZpQUlnX0tXWg?oc=5\" target=\"_blank\">Haryana gets 668 PMKVY 4.0 centres, 600+ courses in AI, drones, robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcG5BdWRnZ1NzQ0FvV3B6Y1I1SlQ0QlAwMGF3UUFtbEVVejhiYjBDVzVGR3ZDYXBwVkkydWpuTUNlRl9EWWVxaXVXY2FGZENRR1JHblgtQVBOb2JqZktPM3hOWkQ3VUJ6cGpFMVpEVGxJbmZ0ODV0alFWc1l1RDM4Z2ExTWswcmhZaVJLdmtDZG94dDd3Y3lQNG96NFhGWjlaajdRcGRaUmZieU0xYUVMRlYyWDUwLV94em10dWVvZVFwOW0xekg2UExFX3V1ZUtXN3FWVExrRlo5MVVMa2dN0gHkAUFVX3lxTFBzNThZaC1kSXh3YVg0T2VUVVNMcEFJY1FqdFZzSG43MEtZWkxHYUZPMUJSOTM2Mmd3RDRGbUszeXZxRFNIUWw0X2poTk9kMGczd1ZfM1B2SlFsSDE0UFBXYVRadVpMemFsLXFDTmJqc0RuajVvTC15QU1sb1hTWWh0TXFxUjR5QUVrOVNZYWE0dkJieXZGZlg4WWhQYnJsM185UGJzRFhLTUZ2WnIyMUV5Y3g1NDhxYzZJUnZLQkFvVVFpQU5iVkd2bFlKeDFWeE1SWEVBUGdabkxoWjZpQUlnX0tXWg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 26 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Rs 474-cr AI Mission to future-proof Haryana workforce",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZUxmOGZSVGhjOE4zenlTWDhSbEcyYXJBeGljMXlKeWMxUzVCOGxJWWNtdzltTGVwd2lIWV9ldU94LTVFb19pNVVDV1J4MTFTQ2s0c3YyWkRGUVFTZ0tKZncyZ1BTZnJPaVZJRlVVWXpyMXFaWEhlc09BVTBvaGdpZ0toT2NmV1E3UmFtVHI3eWtpeWdSdm80WGFkc2Y4Z9IBogFBVV95cUxNRUVfdm1uTDVyZi1QSURsNzJFX05OLUlGUFQyaUZvckNxSExVWWJ4OHNQMkJzWmg1TU1mY3MyaTZjdjk3d090TktzT2tVeE0yRC11NFgwVHJwdUo0X21KZC1mMzJ3ZWg3akdQdk1ZTTc0R1oxcTRTeE16VUVCX2tJUnZZdzNURUtBOHNVcVJDZjhTOG5GRUI0Tmd0YWVrZzFRMmc?oc=5\" target=\"_blank\">Rs 474-cr AI Mission to future-proof Haryana workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUxmOGZSVGhjOE4zenlTWDhSbEcyYXJBeGljMXlKeWMxUzVCOGxJWWNtdzltTGVwd2lIWV9ldU94LTVFb19pNVVDV1J4MTFTQ2s0c3YyWkRGUVFTZ0tKZncyZ1BTZnJPaVZJRlVVWXpyMXFaWEhlc09BVTBvaGdpZ0toT2NmV1E3UmFtVHI3eWtpeWdSdm80WGFkc2Y4Z9IBogFBVV95cUxNRUVfdm1uTDVyZi1QSURsNzJFX05OLUlGUFQyaUZvckNxSExVWWJ4OHNQMkJzWmg1TU1mY3MyaTZjdjk3d090TktzT2tVeE0yRC11NFgwVHJwdUo0X21KZC1mMzJ3ZWg3akdQdk1ZTTc0R1oxcTRTeE16VUVCX2tJUnZZdzNURUtBOHNVcVJDZjhTOG5GRUI0Tmd0YWVrZzFRMmc?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Haryana budget: Education allocation up; focus on AI, infra, research | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkhkckJOZHhMWi1CMTlIV3pwbm5zaWhBdkRwNUltbGliYVlwaDdqWVZpSkJGbl9sUkgxS0JUeW1iemRPWlprdldXTEF2V2pfUnpobkRaT2tNdHBnZHFLR0lBZDVqaUJNa21HWmJMbkxiQjRYQkJ5QUFkQWRIVV9rX2lHVVlITl9JbF9STS1yY0FyWFV3ZEVKNFdXbndUS21pdTh2YjNxdE9jZlEza2Z0NmZCQ0RQMnZraHFXUkJlbW9IN2pQdE50SElpaTlqWUFGYWpFT05MVdIB3AFBVV95cUxOeUJ0amVpcHFyR2F5RTRRSFJkYVR5X0VISXdMeHhPTW9hRkNrcUpiVzJKRWpfRVRZN3ZVZHZKRnd4LVNJc05CVmhLYzhSTWlfbVlFLTRxNzJnX1pQZV9EWDJybXpBRjRkemxYOWRJVjZRLTZXbkFDekJNQzlEeElUZFdXdVlTb01DQUF0TlhFV21DZ1RVNll0S1ZpRDZuYkZoa3lhMC1wT05tdGJnQWtaenYyanVWb2lhSk9IaWxuODZhbGNjN3lOX3loNEZKc1NFTzZWcWlFNnAyVW52?oc=5\" target=\"_blank\">Haryana budget: Education allocation up; focus on AI, infra, research | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkhkckJOZHhMWi1CMTlIV3pwbm5zaWhBdkRwNUltbGliYVlwaDdqWVZpSkJGbl9sUkgxS0JUeW1iemRPWlprdldXTEF2V2pfUnpobkRaT2tNdHBnZHFLR0lBZDVqaUJNa21HWmJMbkxiQjRYQkJ5QUFkQWRIVV9rX2lHVVlITl9JbF9STS1yY0FyWFV3ZEVKNFdXbndUS21pdTh2YjNxdE9jZlEza2Z0NmZCQ0RQMnZraHFXUkJlbW9IN2pQdE50SElpaTlqWUFGYWpFT05MVdIB3AFBVV95cUxOeUJ0amVpcHFyR2F5RTRRSFJkYVR5X0VISXdMeHhPTW9hRkNrcUpiVzJKRWpfRVRZN3ZVZHZKRnd4LVNJc05CVmhLYzhSTWlfbVlFLTRxNzJnX1pQZV9EWDJybXpBRjRkemxYOWRJVjZRLTZXbkFDekJNQzlEeElUZFdXdVlTb01DQUF0TlhFV21DZ1RVNll0S1ZpRDZuYkZoa3lhMC1wT05tdGJnQWtaenYyanVWb2lhSk9IaWxuODZhbGNjN3lOX3loNEZKc1NFTzZWcWlFNnAyVW52?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Punjab and Haryana High Court bars judicial officers from using AI tools to write judgments",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1ZUUkhHX0NTYWlERnBranRiZWQ2YndMV2ZyaWRqMG1faENsY3lrMEFaRGF6bFV0NVZfcTFzcVNnVTBNZ1FQYVEzcTBHWmFvZk9MWmdIb054TFhCWmFleHVkRlk1X3ZBOW8wWE50UnFrSWZIVnpxYzZWVnFycnhqel93ZXVtMmNNQ3dCbWwxSEpjSWlNckNZd1hMRjJyZXBNZ1BpQVZRclY2ZWh0Njh0T1VpWXhtTmt1NGVRdWJnNkhHYTl2dkpwdnBpRHllZDhRdEQ1UlFJZDdwWHVTV3JQaWl4eXROdW42ZWcwS1BDNVh5SzJLYVVCUWo0d0lWd9IBgwJBVV95cUxPSUY4cm9qOWdhbVhHZ3ZSSnZzWldwVGRtLVVaYm92MVBQeW1BbW1jZ2Z1WjhUZW8xT29mNFVRM0p4UDF5TjdERDBfak5iVnpSekJVVkdhT3B4WUw5aHRlOTFKT2ozdEhfdU5HQTZnUVAzTTJBWDFiOUgtejB4V1psNmpKYU5ON0tTOEZFV0VST1ViVDRvVEpKYnlhWS16anpTemFJb1pMS0hOYk16Vy11Ymt6UGZMXzJnT0dHV3VERE1MQWM4cGFYVTRsYi1fX0trMlJENEU4Z0gwTmNuNDZiUmRhUUhkSlpVbklNRi1hZEkxVDh5NXhINHdrOG40djdOcHJn?oc=5\" target=\"_blank\">Punjab and Haryana High Court bars judicial officers from using AI tools to write judgments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1ZUUkhHX0NTYWlERnBranRiZWQ2YndMV2ZyaWRqMG1faENsY3lrMEFaRGF6bFV0NVZfcTFzcVNnVTBNZ1FQYVEzcTBHWmFvZk9MWmdIb054TFhCWmFleHVkRlk1X3ZBOW8wWE50UnFrSWZIVnpxYzZWVnFycnhqel93ZXVtMmNNQ3dCbWwxSEpjSWlNckNZd1hMRjJyZXBNZ1BpQVZRclY2ZWh0Njh0T1VpWXhtTmt1NGVRdWJnNkhHYTl2dkpwdnBpRHllZDhRdEQ1UlFJZDdwWHVTV3JQaWl4eXROdW42ZWcwS1BDNVh5SzJLYVVCUWo0d0lWd9IBgwJBVV95cUxPSUY4cm9qOWdhbVhHZ3ZSSnZzWldwVGRtLVVaYm92MVBQeW1BbW1jZ2Z1WjhUZW8xT29mNFVRM0p4UDF5TjdERDBfak5iVnpSekJVVkdhT3B4WUw5aHRlOTFKT2ozdEhfdU5HQTZnUVAzTTJBWDFiOUgtejB4V1psNmpKYU5ON0tTOEZFV0VST1ViVDRvVEpKYnlhWS16anpTemFJb1pMS0hOYk16Vy11Ymt6UGZMXzJnT0dHV3VERE1MQWM4cGFYVTRsYi1fX0trMlJENEU4Z0gwTmNuNDZiUmRhUUhkSlpVbklNRi1hZEkxVDh5NXhINHdrOG40djdOcHJn?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Punjab & Haryana High Court cautions judges against using AI for writing verdicts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNk9BalYtZnl1NUtuUU9lcWZJdXBlWEZPMUlEbklxVUZvSjV1ZmxHc2FxVHJEZVZOZmxWU2FSeW5UbWpXbm5fUjhBbW9xalVFWm9KT29QU2JMc2gyeEk3X3ZlQ1dsbzlQQlpUUUJsSldjQ20tT05iU1RUT3BYUmM1YU1LbVlTZFhtZ3BEXzIxMGZMNFJHWDNtdFFhOEpGTjZJS1hlbVE0WHBEMVhraGllbFFCbmhuVUdIUGpKcdIBwAFBVV95cUxPNHJPUS01U1BQdllDdlJ2aFRvb3NVNHZmcXdxTnk1MzlJMmVpSHQ4dXRjR1U4bGhCSVR1c0c5VExKSHVLWC00dlhfYWtIWHZ3QVFaaXpnRjNyZGFHelBMYkthb1d4Wkd3VG0zdVJHNG0wbjlXcWlJdld1UmtnRS0wcVpFZHJqbDN3SHBqMlh6ZmNZMjhtWE1RWU44cWNlZTB3djMxV1dnZEh2TXhPZHFpZmhYbVE3bFlLM19RZ1B1N1Y?oc=5\" target=\"_blank\">Punjab & Haryana High Court cautions judges against using AI for writing verdicts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNk9BalYtZnl1NUtuUU9lcWZJdXBlWEZPMUlEbklxVUZvSjV1ZmxHc2FxVHJEZVZOZmxWU2FSeW5UbWpXbm5fUjhBbW9xalVFWm9KT29QU2JMc2gyeEk3X3ZlQ1dsbzlQQlpUUUJsSldjQ20tT05iU1RUT3BYUmM1YU1LbVlTZFhtZ3BEXzIxMGZMNFJHWDNtdFFhOEpGTjZJS1hlbVE0WHBEMVhraGllbFFCbmhuVUdIUGpKcdIBwAFBVV95cUxPNHJPUS01U1BQdllDdlJ2aFRvb3NVNHZmcXdxTnk1MzlJMmVpSHQ4dXRjR1U4bGhCSVR1c0c5VExKSHVLWC00dlhfYWtIWHZ3QVFaaXpnRjNyZGFHelBMYkthb1d4Wkd3VG0zdVJHNG0wbjlXcWlJdld1UmtnRS0wcVpFZHJqbDN3SHBqMlh6ZmNZMjhtWE1RWU44cWNlZTB3djMxV1dnZEh2TXhPZHFpZmhYbVE3bFlLM19RZ1B1N1Y?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Tue, 07 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Haryana",
+   "title": "Centre clears Haryana’s AI hubs in Gurugram, Panchkula | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRldnbkV0VnVVREh6OXRLVS1QTWF2TXpQNEhMdEFWVS1DM1ZIRzBGdlFDNVN5eHhkNV9sNGowcTJhY3dKeEt5a2xNTDhGRDFTbm9NQzBaR0d3bDR1blp4LWhGVmdrd0d4RkhpNWR6Rjh5bzhTZTBSX3lvR3VYMUgxWWFWeVpxczk1Y3ZEMHpFSzRsYzdWWkozN0hXQlBxNjg5Y3hfUEVhaUtsR0RCT2cwMU1lUGgtYjJqVVVYLU02UTVnRTNVU0ww0gHMAUFVX3lxTFA4cHdNdU01LUl5dHhjWG54bnJvaGxvSUpERjJXcTZXYmR2ZC0xYjBtYmF1WjVOWFZiTjBtNUJTeVJ5ZnVyWDlobXFvTzh1SzNrdnBTVmNyUWpVS2tmMExGYjZ5YmxoUlpQb3kyTEgxb1JYNmxhWmRFaVpTcHRfSEo3QktlbHZLV3otYjM2Z3ljdXgycmVoQjliUURwVVZjUUV5enYzWU5NNG5ocTl3MjlrQk1SNFJ4QlZnQXhlTjZod2ZtLWNLaVgxZTVSbQ?oc=5\" target=\"_blank\">Centre clears Haryana’s AI hubs in Gurugram, Panchkula | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRldnbkV0VnVVREh6OXRLVS1QTWF2TXpQNEhMdEFWVS1DM1ZIRzBGdlFDNVN5eHhkNV9sNGowcTJhY3dKeEt5a2xNTDhGRDFTbm9NQzBaR0d3bDR1blp4LWhGVmdrd0d4RkhpNWR6Rjh5bzhTZTBSX3lvR3VYMUgxWWFWeVpxczk1Y3ZEMHpFSzRsYzdWWkozN0hXQlBxNjg5Y3hfUEVhaUtsR0RCT2cwMU1lUGgtYjJqVVVYLU02UTVnRTNVU0ww0gHMAUFVX3lxTFA4cHdNdU01LUl5dHhjWG54bnJvaGxvSUpERjJXcTZXYmR2ZC0xYjBtYmF1WjVOWFZiTjBtNUJTeVJ5ZnVyWDlobXFvTzh1SzNrdnBTVmNyUWpVS2tmMExGYjZ5YmxoUlpQb3kyTEgxb1JYNmxhWmRFaVpTcHRfSEo3QktlbHZLV3otYjM2Z3ljdXgycmVoQjliUURwVVZjUUV5enYzWU5NNG5ocTl3MjlrQk1SNFJ4QlZnQXhlTjZod2ZtLWNLaVgxZTVSbQ?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Wed, 06 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:14+00:00"
+  }
+ ]
+}

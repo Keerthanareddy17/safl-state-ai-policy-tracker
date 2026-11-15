@@ -1,0 +1,120 @@
+{
+ "region": "Assam",
+ "group": "B",
+ "query": "(Assam) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Assam%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:33+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "PM’s speech during the launch of various development works in Silchar, Assam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYk9aUDVHZlhYSVBaTTVtblFTQ2FvNXhhcTVNMkhUVE5WLTZsWVZJRW1MZVN5OE5YMi1kS3pLNEdsSVh3QmFWbnNvYU1xOEpQNFBKVW13NzJNM1BaNjVuNXlfb1h4U0ROWmdnekFKbzdib3BhNF9SZ2NVU0RVVjA0clZpR2xaMEZKVElJbi1rcERVVnpzcVRsTVp5VEtNNzRPUUZlTlJJN2FGWlFOMjRXbkh3Zmx5MG9yT2c?oc=5\" target=\"_blank\">PM’s speech during the launch of various development works in Silchar, Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PM India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYk9aUDVHZlhYSVBaTTVtblFTQ2FvNXhhcTVNMkhUVE5WLTZsWVZJRW1MZVN5OE5YMi1kS3pLNEdsSVh3QmFWbnNvYU1xOEpQNFBKVW13NzJNM1BaNjVuNXlfb1h4U0ROWmdnekFKbzdib3BhNF9SZ2NVU0RVVjA0clZpR2xaMEZKVElJbi1rcERVVnpzcVRsTVp5VEtNNzRPUUZlTlJJN2FGWlFOMjRXbkh3Zmx5MG9yT2c?oc=5",
+   "source_name": "PM India",
+   "source_domain": "pmindia.gov.in",
+   "published_raw": "Sat, 14 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "AI-FIRST ASSAM: Reimagining Governance for a Digital Decade",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOb21RQ043M0VWWV9RS25OVFNtZnhCZ2JqdlhUMEFSNEh3bzZKU0E1NzVyZkp1UGNVUjJ2bW52c280OFl0c18za1FVQ0lmVHJDazB2UHc5ZTU5WU1iVHA1SHBoM0pfUVdMWUE3NVRNb2R6a0RBd1BOQ2s2cTBlTVZXVWUtMDktY1NMTktTRWJmblM4MjNFekZmNFBMZWE?oc=5\" target=\"_blank\">AI-FIRST ASSAM: Reimagining Governance for a Digital Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb21RQ043M0VWWV9RS25OVFNtZnhCZ2JqdlhUMEFSNEh3bzZKU0E1NzVyZkp1UGNVUjJ2bW52c280OFl0c18za1FVQ0lmVHJDazB2UHc5ZTU5WU1iVHA1SHBoM0pfUVdMWUE3NVRNb2R6a0RBd1BOQ2s2cTBlTVZXVWUtMDktY1NMTktTRWJmblM4MjNFekZmNFBMZWE?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUE83dzJYc0JxMFRkcmdwTzhjUDcwMGgydTMwN3YwTFN1bFNwWDNUT3NLdXlvTDNWZzlzYzZ3SGMyOTduYTBZcVpzeExSbnhrWXFXZVlDMHh1MXNwY3ZGaXpqS3k5ckpmeFdwdUc0NUFFUTFFS3F3UzJrdllGRFhJUnZXaTVKa1Bvck9zNGZWUFJCSjFKMjBWWmU5X0J3NUVHbkRPQ0dkSGhYdV9PcHlKY9IBtgFBVV95cUxOM3ZNTTJ0eTdDODVWd1JsanVsZFdVSFZQWEp5SFR6UGUxMVB5LWd2eHJKQWw5WnhRQlhwSHpXZWptMUdGOWxBaGJrdnZOdVlMbEZYUXAzODhyUHk2VllBdDI2V0c3NGJEZUhkS1ZlVkVSNU9iTzFKZW1pRkVrNkVzUF8xZWE4SEdqODIyaDdXSkFGbk8zaVhXbG1pNS1NUGtfVVRGeUpPcFdFTVNwUlRCRWRiaWRSQQ?oc=5\" target=\"_blank\">‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUE83dzJYc0JxMFRkcmdwTzhjUDcwMGgydTMwN3YwTFN1bFNwWDNUT3NLdXlvTDNWZzlzYzZ3SGMyOTduYTBZcVpzeExSbnhrWXFXZVlDMHh1MXNwY3ZGaXpqS3k5ckpmeFdwdUc0NUFFUTFFS3F3UzJrdllGRFhJUnZXaTVKa1Bvck9zNGZWUFJCSjFKMjBWWmU5X0J3NUVHbkRPQ0dkSGhYdV9PcHlKY9IBtgFBVV95cUxOM3ZNTTJ0eTdDODVWd1JsanVsZFdVSFZQWEp5SFR6UGUxMVB5LWd2eHJKQWw5WnhRQlhwSHpXZWptMUdGOWxBaGJrdnZOdVlMbEZYUXAzODhyUHk2VllBdDI2V0c3NGJEZUhkS1ZlVkVSNU9iTzFKZW1pRkVrNkVzUF8xZWE4SEdqODIyaDdXSkFGbk8zaVhXbG1pNS1NUGtfVVRGeUpPcFdFTVNwUlRCRWRiaWRSQQ?oc=5",
+   "source_name": "Al Jazeera",
+   "source_domain": "aljazeera.com",
+   "published_raw": "Mon, 06 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBKOUJIMS01NUw4VnRDUlRMVnBVaFdpTDczRDBmVDQtTHZSY1VkekFJdDJYNERuT0NJQzVuQmptZDZSQXd4dVozWjdJdF9qZ2xqbnU0VVE0WlEyQWQtX2tSTEdMTWZVZ3NZOVptVXdlN2RoclBfNmtn?oc=5\" target=\"_blank\">How India’s Ruling Party is Using AI to Boost Hate Speech in States Near Bangladesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingcat</font>",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKOUJIMS01NUw4VnRDUlRMVnBVaFdpTDczRDBmVDQtTHZSY1VkekFJdDJYNERuT0NJQzVuQmptZDZSQXd4dVozWjdJdF9qZ2xqbnU0VVE0WlEyQWQtX2tSTEdMTWZVZ3NZOVptVXdlN2RoclBfNmtn?oc=5",
+   "source_name": "Bellingcat",
+   "source_domain": "bellingcat.com",
+   "published_raw": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Daily Assam Current Affairs for APSC Exam (18-02-2026)",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNWZOZ3VDX2JqYkNqal9UbXVGR3dKZjNUQ2pWQ3J4U3RTREhvenVTWGRTTHY2dllRQkhOSTVFRzRRdVhGYklYY1A1LTRQZjBwOFlhVzFBX1I1Y19sVVF3Z2lB?oc=5\" target=\"_blank\">Daily Assam Current Affairs for APSC Exam (18-02-2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Drishti IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNWZOZ3VDX2JqYkNqal9UbXVGR3dKZjNUQ2pWQ3J4U3RTREhvenVTWGRTTHY2dllRQkhOSTVFRzRRdVhGYklYY1A1LTRQZjBwOFlhVzFBX1I1Y19sVVF3Z2lB?oc=5",
+   "source_name": "Drishti IAS",
+   "source_domain": "drishtiias.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Viral image of PM Modi in Assam tea garden is AI-generated, not a real photoshoot",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDdJR2tkSkhXRjdZTWw4T240NmMxTWhSbXdUbW5YU1FKY3dod3lsUi14S195WFFuaFdYeWRhRjNlZFlxWEFkSXBrU1YtcVVqbGRVblhlOXpfUGkwMmQyOHNTenJKNUFORWFCM3BhYVZaa2Z4NDNCSVJVTDN1NG5BYnZOUm1UVWNuQ2RQUDJHZHRxZEdJOHFBT3pZdnZ1dVVqWERKTldDOVFtS0dHUy1hLVh0OGFHZ0hnc2FxSWtUT3BpUQ?oc=5\" target=\"_blank\">Viral image of PM Modi in Assam tea garden is AI-generated, not a real photoshoot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Press Trust of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDdJR2tkSkhXRjdZTWw4T240NmMxTWhSbXdUbW5YU1FKY3dod3lsUi14S195WFFuaFdYeWRhRjNlZFlxWEFkSXBrU1YtcVVqbGRVblhlOXpfUGkwMmQyOHNTenJKNUFORWFCM3BhYVZaa2Z4NDNCSVJVTDN1NG5BYnZOUm1UVWNuQ2RQUDJHZHRxZEdJOHFBT3pZdnZ1dVVqWERKTldDOVFtS0dHUy1hLVh0OGFHZ0hnc2FxSWtUT3BpUQ?oc=5",
+   "source_name": "Press Trust of India",
+   "source_domain": "ptinews.com",
+   "published_raw": "Mon, 06 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "CJI to launch CBI’s ‘Abhay’ AI chatbot to curb digital arrest scams",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXo1VE5OVXNRMlljMDRxQVJYU1M0VkxPSnNhVGlVeUw5SmpsVWl4dEUxUC0wU0w2cnczYVlTTkZGamZTLWNxS1BFQmtNN01sVWR5am9rcmtpQzdMdjc1VG0wY2pxRFlwS0FVWnNXc0RIb2FlOVhNbW1XMUVITW80UE9fTnZQLVVQR1FHVnRlYTlmX3hIQzBBd1lTRmF4WnZEeklDMjZ4Nk1kQdIBrwFBVV95cUxNeVBnMVBxLUdpT2sza1Vqa2ktY1IxalFiQWdZcXhUSHBuRDBOMnlQck8yU3lFYXN5Q3JKZWZVREhWRTRMazJmZkprU2ZNMkRRSDBNdVg1VkJLbk1FZjFMZ2hOVS1WN1hJTXRNNUZlMnpGcXRjd3pzT1N1RjRyVGdXOHhvamtVNVpBTjJTVDVNaEFQYXRESnQtWWc0QVp3MC12cTBYbXpFV3RzTFlPWGZr?oc=5\" target=\"_blank\">CJI to launch CBI’s ‘Abhay’ AI chatbot to curb digital arrest scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXo1VE5OVXNRMlljMDRxQVJYU1M0VkxPSnNhVGlVeUw5SmpsVWl4dEUxUC0wU0w2cnczYVlTTkZGamZTLWNxS1BFQmtNN01sVWR5am9rcmtpQzdMdjc1VG0wY2pxRFlwS0FVWnNXc0RIb2FlOVhNbW1XMUVITW80UE9fTnZQLVVQR1FHVnRlYTlmX3hIQzBBd1lTRmF4WnZEeklDMjZ4Nk1kQdIBrwFBVV95cUxNeVBnMVBxLUdpT2sza1Vqa2ktY1IxalFiQWdZcXhUSHBuRDBOMnlQck8yU3lFYXN5Q3JKZWZVREhWRTRMazJmZkprU2ZNMkRRSDBNdVg1VkJLbk1FZjFMZ2hOVS1WN1hJTXRNNUZlMnpGcXRjd3pzT1N1RjRyVGdXOHhvamtVNVpBTjJTVDVNaEFQYXRESnQtWWc0QVp3MC12cTBYbXpFV3RzTFlPWGZr?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "#FactCheck- AI-Generated Image of PM Modi Misleadingly Shared as Assam Campaign Shoot Setup",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRDQ5NjFSaDVZWjlkdHJyemxjVGR6Q3ZKT181X0I0UXY0MWxzWXpvVzRUUjZ5NGJmQWNYUkhLeWI3STE0c1ZZWnhsSHpTdGtXbjEzRnNDeEs3TGFsWm9DNGdNVXd5MkNUZzZCcW9NNUNXdmh0ODE2d1dGX01iQy1zZkllbThUV3FHUlZwUG9MbWlBVnBDNjlNTlRjd096VUEybm10dURFQW9wcV9fWUlOMTczLW5URXRSSTB5YzRtd2stRUZYelR4YjhfOGpLUQ?oc=5\" target=\"_blank\">#FactCheck- AI-Generated Image of PM Modi Misleadingly Shared as Assam Campaign Shoot Setup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberPeace Foundation</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRDQ5NjFSaDVZWjlkdHJyemxjVGR6Q3ZKT181X0I0UXY0MWxzWXpvVzRUUjZ5NGJmQWNYUkhLeWI3STE0c1ZZWnhsSHpTdGtXbjEzRnNDeEs3TGFsWm9DNGdNVXd5MkNUZzZCcW9NNUNXdmh0ODE2d1dGX01iQy1zZkllbThUV3FHUlZwUG9MbWlBVnBDNjlNTlRjd096VUEybm10dURFQW9wcV9fWUlOMTczLW5URXRSSTB5YzRtd2stRUZYelR4YjhfOGpLUQ?oc=5",
+   "source_name": "CyberPeace Foundation",
+   "source_domain": "cyberpeace.org",
+   "published_raw": "Mon, 06 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Amit Shah to launch Vibrant Villages Programme Phase II in Assam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2c0X0M1Mnhlc0t2QTV5NUFDY3dxUU9CR0pYRUZ6T1FyYjEwN0tMckg0c0ZUYS1OMnBRaWJHdDVqY2tpTG1kWFJaMFJtcjM2MXNib1ZaUUJPeFdtck9zQTgwbHlJZ1ZXRjFrYXZBLXRQWEJDMk1Hb2NvRUdlZlk3c3VCM2dQVnFRZmRreDAtUHdpUXBUQUVQMkhLUTVVWFl4Nk9YZHlwaDA2bjgxSWVSZDBqTmNmSVJVMGgzNko0aGZHTGtYa0VhR3p6NmzSAdIBQVVfeXFMUGg5eEU0VC14OFVoZTlhTDRjRUxVLXgxTU8wLXVQS24tSHROdVdXS0pTQUdCaWoyZjcyemRUNHdSYjlWSEVhSzhhaDVPMHFuVWVmYnNzWi1Iazk0SDMtWkpaeElhNnBkY1FyM0ZHTDBoV0huUkJ0QWNQZVY4WjEwUXQ4a2NDZUpvQTdwdHJLTkd4ckZZdVBnMzBrUjR2VGl0RmQxR2FPVmt3VWQzbG9fR2pKY25nVUhDY2JLNm9WN3Ixak13aElxbzdFRG80RXVuckp3?oc=5\" target=\"_blank\">Amit Shah to launch Vibrant Villages Programme Phase II in Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2c0X0M1Mnhlc0t2QTV5NUFDY3dxUU9CR0pYRUZ6T1FyYjEwN0tMckg0c0ZUYS1OMnBRaWJHdDVqY2tpTG1kWFJaMFJtcjM2MXNib1ZaUUJPeFdtck9zQTgwbHlJZ1ZXRjFrYXZBLXRQWEJDMk1Hb2NvRUdlZlk3c3VCM2dQVnFRZmRreDAtUHdpUXBUQUVQMkhLUTVVWFl4Nk9YZHlwaDA2bjgxSWVSZDBqTmNmSVJVMGgzNko0aGZHTGtYa0VhR3p6NmzSAdIBQVVfeXFMUGg5eEU0VC14OFVoZTlhTDRjRUxVLXgxTU8wLXVQS24tSHROdVdXS0pTQUdCaWoyZjcyemRUNHdSYjlWSEVhSzhhaDVPMHFuVWVmYnNzWi1Iazk0SDMtWkpaeElhNnBkY1FyM0ZHTDBoV0huUkJ0QWNQZVY4WjEwUXQ4a2NDZUpvQTdwdHJLTkd4ckZZdVBnMzBrUjR2VGl0RmQxR2FPVmt3VWQzbG9fR2pKY25nVUhDY2JLNm9WN3Ixak13aElxbzdFRG80RXVuckp3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "CM Sarma opens HDFC Bank’s tech & digital factory in Guwahati, boosts Assam’s AI and fintech talent base",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmszUG5GcFFSNUpOS0tfQmI1VkRqWTlyRmhIMktaR295T0J5cG5ZSV9Sd3YtQlc5bU1pSnNnbG9nZHN5RUJwbldia0NRelZzQ0lfeUl3cEt6eEozNXd3aUlRTjdTWjNDalhIazJraDdyMy1QT2QyTkEzUm5PQzFiNWxJdVNwMWdNc0NfZXF5STBVd2kzaFlsbVBnZGVRdEZGMmxrRVZ3UlZ0SmVqM3pLNE5UaFlhUWpBajN1QWhockI?oc=5\" target=\"_blank\">CM Sarma opens HDFC Bank’s tech & digital factory in Guwahati, boosts Assam’s AI and fintech talent base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syllad</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmszUG5GcFFSNUpOS0tfQmI1VkRqWTlyRmhIMktaR295T0J5cG5ZSV9Sd3YtQlc5bU1pSnNnbG9nZHN5RUJwbldia0NRelZzQ0lfeUl3cEt6eEozNXd3aUlRTjdTWjNDalhIazJraDdyMy1QT2QyTkEzUm5PQzFiNWxJdVNwMWdNc0NfZXF5STBVd2kzaFlsbVBnZGVRdEZGMmxrRVZ3UlZ0SmVqM3pLNE5UaFlhUWpBajN1QWhockI?oc=5",
+   "source_name": "Syllad",
+   "source_domain": "syllad.com",
+   "published_raw": "Tue, 24 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:33+00:00"
+  }
+ ]
+}

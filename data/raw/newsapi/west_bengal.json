@@ -1,0 +1,119 @@
+{
+ "region": "West Bengal",
+ "query": "(\"West Bengal\" OR Kolkata) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:48:15+00:00",
+ "total_results": 10,
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "Passenger held over hoax hijack threat to Air India Kolkata-Mumbai flight",
+   "description": "A passenger was apprehended and handed over to the airport police in connection with a hoax hijack threat to an Air India flight from Kolkata to Mumbai, officials said on Thursday.\nIn a release, the Airports Authority of India (AAI) said the action was taken …",
+   "url": "https://www.business-standard.com/india-news/passenger-held-over-hoax-hijack-threat-to-air-india-kolkata-mumbai-flight-126111200324_1.html",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "2026-11-12T06:12:52Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "AI people-count introduced at N Kol pandal",
+   "description": "Kolkata Police pilots AI people-counting at Phatakesto Kali Puja pandal, using 3 cameras and green-yellow-red alerts to prevent overcrowding after stampede.",
+   "url": "https://timesofindia.indiatimes.com/city/kolkata/ai-people-count-introduced-at-n-kol-pandal/articleshow/135664882.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-08T19:00:24Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "1,000 extra trains between Delhi, Mumbai, Kolkata and Chennai to ease waiting lists, Railway ministry plans four parallel tracks on 7 major corridors",
+   "description": "Railway Minister Ashwini Vaishnaw said Indian Railways plans to expand seven major corridors to four parallel tracks, enabling more than 1,000 additional regular trains after completion. The routes include connections between Delhi, Mumbai, Kolkata and Chenna…",
+   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/1000-extra-trains-between-delhi-mumbai-kolkata-and-chennai-to-ease-waiting-lists-railway-ministry-plans-four-parallel-tracks-on-7-major-corridors/articleshow/135635762.cms",
+   "source_name": "The Times of India",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_raw": "2026-11-07T12:02:05Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "2026-11-02 Emacs news",
+   "description": "Belated happy 50th birthday, Emacs!\n\n\n\nIn other news, you can now reach Emacs News at https://emacs.news. Enjoy!\n\n\n<ul>\n<li>Upcoming events (iCal file, Org):\n<ul>\n<li>[emacs-berlin] 40c3 Assembly? (@emacs@toot.berlin)</li>\n<li>EmacsATX: Emacs Social https://w…",
+   "url": "https://sachachua.com/blog/2026/11/2026-11-02-emacs-news/",
+   "source_name": "Sachachua.com",
+   "source_domain": "sachachua.com",
+   "published_raw": "2026-11-02T14:20:32Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "Fraudsters using AI voice dupe actor of 2 lakh",
+   "description": "Aspiring Kolkata actor loses Rs 2.07 lakh after AI voice-cloned Bengali director and fake casting call used forged production house documents to scam him.",
+   "url": "https://timesofindia.indiatimes.com/city/kolkata/fraudsters-using-ai-voice-dupe-actor-of-2-lakh/articleshow/135436182.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-01T18:58:01Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "Invariz partners with IEM Kolkata to launch AI centre of excellence",
+   "description": "Invariz Pvt Ltd partners with IEM Kolkata to launch a Joint Centre of Excellence for AI training, research and industry-academia collaboration to build job-ready talent.",
+   "url": "https://timesofindia.indiatimes.com/city/kolkata/invariz-partners-with-iem-kolkata-to-launch-ai-centre-of-excellence/articleshow/135324162.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-29T16:39:20Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "AI takes centre stage as TAAI convention returns to Kolkata after 22 years",
+   "description": "The 69th convention of the Travel Agents Association of India is being held in Kolkata. Delegates will discuss the impact of Artificial Intelligence in the travel industry. AI tools have the potential to improve efficiency, response times, and customer servic…",
+   "url": "https://timesofindia.indiatimes.com/city/kolkata/ai-takes-centre-stage-as-taai-convention-returns-to-kolkata-after-22-years/articleshow/135207224.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-26T08:48:30Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "AI Takes Centre Stage At Kolkata Travel Convention",
+   "description": "TAAI’s 69th Kolkata convention marks 75 years, focusing on AI adoption for travel agents amid tighter margins; 650 delegates attend first India event in a decade.",
+   "url": "https://timesofindia.indiatimes.com/city/kolkata/ai-takes-centre-stage-at-kolkata-travel-convention/articleshow/135197090.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-25T18:57:40Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "Can technology prevent the next stampede? Inside the crowd-monitoring tools India needs",
+   "description": "The recent stampede in Kolkata has highlighted the urgent need for effective crowd management solutions. Technology, particularly artificial intelligence, can analyze crowd behavior and density in real-time. Implementing digital ticketing and live occupancy d…",
+   "url": "https://timesofindia.indiatimes.com/city/delhi/can-technology-prevent-the-next-stampede-inside-the-crowd-monitoring-tools-india-needs/articleshow/135039132.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-19T04:26:48Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "West Bengal",
+   "title": "Train passengers take note: 5 superfast trains, including 2 Vande Bharat Express services, get AI-based cleaning checks & a 2-hour complaint resolution target",
+   "description": "Northeast Frontier Railway (NFR) has introduced technology-driven on-board services in five superfast trains to improve cleanliness, hygiene and passenger comfort. The initiative covers the Kamakhya–SMVT Bengaluru Express, Guwahati–Kolkata Garib Rath Express,…",
+   "url": "https://economictimes.indiatimes.com/industry/transportation/railways/train-passengers-take-note-5-superfast-trains-including-2-vande-bharat-express-services-get-ai-based-cleaning-checks-a-2-hour-complaint-resolution-target/articleshow/135032578.cms",
+   "source_name": "The Times of India",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_raw": "2026-10-18T17:26:47Z",
+   "fetched_at": "2026-11-15T09:48:15+00:00"
+  }
+ ]
+}

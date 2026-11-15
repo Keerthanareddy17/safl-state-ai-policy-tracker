@@ -1,0 +1,120 @@
+{
+ "region": "Ladakh",
+ "group": "A",
+ "query": "(Ladakh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Ladakh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:21+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh Has Potential to Become India’s First AI State, Says LG Kavinder Gupta, Emphasizes Human-Centric Digital Growth. | The Administration of Union Territory of Ladakh | India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc041bGhVc2hhQlBYSUx5dEFWQ3BkczlBZF9DVGtxUloxb05NWGY2Mm5IZEhpSWZsZ1hpS3drYXgxbDhEcXBObE56bzFRNklwMHRyd0d2UjNuV2VIcmN0NWNsT1VHaHVIWGhWcndveUNQbl83a1lQZWcwbU9qOEh5cmFjaXhpaE9NQnJRN0xLZ2tOVmd1S1dubVp0UkZWdGdJdGh3MnlZd3pWc2taOVp5X0NFUTdrZ3dPeFJkVV8wLWxDQ3haY2hIdXJHYkdqeHM0eUJPYg?oc=5\" target=\"_blank\">Ladakh Has Potential to Become India’s First AI State, Says LG Kavinder Gupta, Emphasizes Human-Centric Digital Growth. | The Administration of Union Territory of Ladakh | India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Administration of Union Territory of Ladakh</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc041bGhVc2hhQlBYSUx5dEFWQ3BkczlBZF9DVGtxUloxb05NWGY2Mm5IZEhpSWZsZ1hpS3drYXgxbDhEcXBObE56bzFRNklwMHRyd0d2UjNuV2VIcmN0NWNsT1VHaHVIWGhWcndveUNQbl83a1lQZWcwbU9qOEh5cmFjaXhpaE9NQnJRN0xLZ2tOVmd1S1dubVp0UkZWdGdJdGh3MnlZd3pWc2taOVp5X0NFUTdrZ3dPeFJkVV8wLWxDQ3haY2hIdXJHYkdqeHM0eUJPYg?oc=5",
+   "source_name": "Administration of Union Territory of Ladakh",
+   "source_domain": "ladakh.gov.in",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Airtel brings mobile connectivity to Eastern Ladakh’s isolated villages",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY05wOWFuX01OLTh5ZnQ5YVc3cVY4b2hMLUxBSE1OM3lFTGRJVTN1TWZMVXNHSTktbEliWkxmVmZhTDVET0poYUY5VU1vcGRCYTRRT3lDb28zU2hOU3BnNGNXaDdPYW5Wby10R1VQOF9FQi0yT0l5V1h4SWlCbkJqdHQ4bTNTcGZXaEdwZ2lvclZGNmNwWXBhS01RQ0JVWXljbkRiODZIUF8td3AtdXBMcU5aSC1rMFZnYlczTnlzYnJLcS1SMnZ2UGx6MUlDdVRRLVJUT2xhQzA5U01GN21IOUI4X2FQamhB0gHuAUFVX3lxTE5hVlpMZEZrREF5V2ViSXc3NXVUejdtRVJ6d0ttd1JhR3YxQkhldG5qc1FQazF2XzNjMG1ZNFVZbEJBbkdodEk0S3pyT2pqWW8xR3F4VWpXdmRwYndydGxMX2huaG9VdDlZajZrSTZGOGdfT3BBX1lUY2thZFVTclJiRThqYXE2d3ZscjJyRzRrdHdweFZtWk1MUlJXUTB0MVJlbnJscndFYU05SDI4d3BpRHZGcnE4OTc5OC14bE1oQ24wTHRNdUZyZ2hvdFhkblhoVWc5NUowZU9UU01ROGNlUnZGNk5DU2YtOVFJY0E?oc=5\" target=\"_blank\">Airtel brings mobile connectivity to Eastern Ladakh’s isolated villages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY05wOWFuX01OLTh5ZnQ5YVc3cVY4b2hMLUxBSE1OM3lFTGRJVTN1TWZMVXNHSTktbEliWkxmVmZhTDVET0poYUY5VU1vcGRCYTRRT3lDb28zU2hOU3BnNGNXaDdPYW5Wby10R1VQOF9FQi0yT0l5V1h4SWlCbkJqdHQ4bTNTcGZXaEdwZ2lvclZGNmNwWXBhS01RQ0JVWXljbkRiODZIUF8td3AtdXBMcU5aSC1rMFZnYlczTnlzYnJLcS1SMnZ2UGx6MUlDdVRRLVJUT2xhQzA5U01GN21IOUI4X2FQamhB0gHuAUFVX3lxTE5hVlpMZEZrREF5V2ViSXc3NXVUejdtRVJ6d0ttd1JhR3YxQkhldG5qc1FQazF2XzNjMG1ZNFVZbEJBbkdodEk0S3pyT2pqWW8xR3F4VWpXdmRwYndydGxMX2huaG9VdDlZajZrSTZGOGdfT3BBX1lUY2thZFVTclJiRThqYXE2d3ZscjJyRzRrdHdweFZtWk1MUlJXUTB0MVJlbnJscndFYU05SDI4d3BpRHZGcnE4OTc5OC14bE1oQ24wTHRNdUZyZ2hvdFhkblhoVWc5NUowZU9UU01ROGNlUnZGNk5DU2YtOVFJY0E?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh Earthquake: Leh-Ladakh struck by 5.6 magnitude earthquake, NCS says",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWsxaTgxTDhQYUk2ZzdZdjB1Q3RpYld6b3F5MlZEYzNBWmNUNHNIQTRhYndvM2dyR1UwM19ucjBzSE5XV1RnV0xQNzZZTzVZcmRsekdQUkUtdFMtR1RrRXZRcXFiTmJSVHZOSGt0SzVaTjJYZUFuaWwzOHQ4UkJVbDAwd090Q1ZjZk0yZlhnek5KdlAzU1Zad254X2JTZ21INUhKcURTOVF4dUFWZWVwbkR6dl9tY29ORlpGdNIBwgFBVV95cUxOdklOYXNzVzVaR2xYeHZFNG5ZNGppSXZDNnZVLTVMemh1Y3hZMEJjZlhtRW8zbzJIdkp4cC0yVlhnTUd0S0JQS3hsckVQa0dUQWFfTXgyM3FSM3ViNjU1bDU0UDB2R2hGSTJYbU83VlFkeWR4eE5wc1Y4aTh0Y1Etdzc2ZjIzMjNjcWlBMTlFR2x0MVIydDVaUTRhUG51SU8xQ2pjd2I1WEh0WnNaUmRCRmpuRmxicGJ3REVpRkpVR0VLQQ?oc=5\" target=\"_blank\">Ladakh Earthquake: Leh-Ladakh struck by 5.6 magnitude earthquake, NCS says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWsxaTgxTDhQYUk2ZzdZdjB1Q3RpYld6b3F5MlZEYzNBWmNUNHNIQTRhYndvM2dyR1UwM19ucjBzSE5XV1RnV0xQNzZZTzVZcmRsekdQUkUtdFMtR1RrRXZRcXFiTmJSVHZOSGt0SzVaTjJYZUFuaWwzOHQ4UkJVbDAwd090Q1ZjZk0yZlhnek5KdlAzU1Zad254X2JTZ21INUhKcURTOVF4dUFWZWVwbkR6dl9tY29ORlpGdNIBwgFBVV95cUxOdklOYXNzVzVaR2xYeHZFNG5ZNGppSXZDNnZVLTVMemh1Y3hZMEJjZlhtRW8zbzJIdkp4cC0yVlhnTUd0S0JQS3hsckVQa0dUQWFfTXgyM3FSM3ViNjU1bDU0UDB2R2hGSTJYbU83VlFkeWR4eE5wc1Y4aTh0Y1Etdzc2ZjIzMjNjcWlBMTlFR2x0MVIydDVaUTRhUG51SU8xQ2pjd2I1WEh0WnNaUmRCRmpuRmxicGJ3REVpRkpVR0VLQQ?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Mon, 19 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "No, CDS Chauhan Did Not Say Government Ceded Arunachal, Ladakh To China | BOOM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU29CRFphVWRaVXRHTWFOR01CVzZjZEJZaHdsb3JIQzhWXzVWd2s5eW9QNnNIR0stLVN1WGdveTZDVl9UQjlPbEd3WTZNMFVETW11UENVYktHWk5qVURpOXl1VjZOVVZCSk5ZMGlPYlhSd1VUbU9QdE43STh0N2F5WTJLMXM4UXlQY1d5bjFpdzBIRldtVjExQVhvX0Z1NE9abFI0THdUUnAxa2Y4b2hEaE93UnY1T2dFWGVURk9feU12LTA2c1RYMUJKZ3hQdXBHUmkwTFh5djNLOFhR0gHiAUFVX3lxTE5Ic0lESnZNTVptN29Ua1RoSnp2cklwMGF0d0lnLUZxbmFJRW5zQTdMYnlybVBYOENoYW13Mzd5NmwwVGZWYXFrZGFhX3VENXNqQVhueEU0dHBxMXM2bW5pNFFjd05ZYTVDTGUxMktWVk92NTM3dnI2bFpaVXpMM002dnRIc0VNYVF2Z0F5QUR2SmJ1YUlmWnlZSnhJY2lfbWFBb2FyemQ2MVpCUXU1QlhsZWFYcXdjN2Z4aU1wWjRQUDlRLVRHejRvWGZfMmM3SWdTVnd6czFVblNaeWszQkZYc1E?oc=5\" target=\"_blank\">No, CDS Chauhan Did Not Say Government Ceded Arunachal, Ladakh To China | BOOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BOOM Fact Check</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU29CRFphVWRaVXRHTWFOR01CVzZjZEJZaHdsb3JIQzhWXzVWd2s5eW9QNnNIR0stLVN1WGdveTZDVl9UQjlPbEd3WTZNMFVETW11UENVYktHWk5qVURpOXl1VjZOVVZCSk5ZMGlPYlhSd1VUbU9QdE43STh0N2F5WTJLMXM4UXlQY1d5bjFpdzBIRldtVjExQVhvX0Z1NE9abFI0THdUUnAxa2Y4b2hEaE93UnY1T2dFWGVURk9feU12LTA2c1RYMUJKZ3hQdXBHUmkwTFh5djNLOFhR0gHiAUFVX3lxTE5Ic0lESnZNTVptN29Ua1RoSnp2cklwMGF0d0lnLUZxbmFJRW5zQTdMYnlybVBYOENoYW13Mzd5NmwwVGZWYXFrZGFhX3VENXNqQVhueEU0dHBxMXM2bW5pNFFjd05ZYTVDTGUxMktWVk92NTM3dnI2bFpaVXpMM002dnRIc0VNYVF2Z0F5QUR2SmJ1YUlmWnlZSnhJY2lfbWFBb2FyemQ2MVpCUXU1QlhsZWFYcXdjN2Z4aU1wWjRQUDlRLVRHejRvWGZfMmM3SWdTVnd6czFVblNaeWszQkZYc1E?oc=5",
+   "source_name": "BOOM Fact Check",
+   "source_domain": "boomlive.in",
+   "published_raw": "Mon, 01 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Union Budget 2026: 15 Archaeological sites from Gujarat to Ladakh set for revival",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0hOTngzbktZOUYyV1daLU9KQnJtekxybjlDa2VNU2o5RFk1TVdRZE9DZ0ZZRm5ORnV0MnNYLTVDX3g5b1Nub2g3UFQ4MDRXcDlJekV5LWtXVU5nQUtfS29UazM3THBOTk05anJvVHZnczhCSVBvcHFfNGxhVDRZVUdYSV9tdlBhLUNGbi0yTVkwZmExR2F6dFUweWp2TXdJNmNDRmhSakxSamFQcUkzZE5ZZ0pNb2hSMU1IS2pZeTlhNGPSAcgBQVVfeXFMT3pWXzdIaUoxYUZETHRWZFY4YVh0dHo2SHZkX3YzdTRrLS1UTDVxRm95MWpQRjNuQjJvRWhNYU5XbHd2RzBmalNhbjJmbHFRVUlwN2U3MFFiRUkzYXZGSDA1SDBkLWdaVGx0aWlyTDZuM1NWNnZLYl9pTWktZ01aWTBRT1QzWWlJVkl4cTdqZWoyc2IzbzZTYS1uRWlZQ3hDdkJRbGVzQlpOd05vY2MtLTFGRE03M2JaMWpkLTVTemNOTkI0cG95bzM?oc=5\" target=\"_blank\">Union Budget 2026: 15 Archaeological sites from Gujarat to Ladakh set for revival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0hOTngzbktZOUYyV1daLU9KQnJtekxybjlDa2VNU2o5RFk1TVdRZE9DZ0ZZRm5ORnV0MnNYLTVDX3g5b1Nub2g3UFQ4MDRXcDlJekV5LWtXVU5nQUtfS29UazM3THBOTk05anJvVHZnczhCSVBvcHFfNGxhVDRZVUdYSV9tdlBhLUNGbi0yTVkwZmExR2F6dFUweWp2TXdJNmNDRmhSakxSamFQcUkzZE5ZZ0pNb2hSMU1IS2pZeTlhNGPSAcgBQVVfeXFMT3pWXzdIaUoxYUZETHRWZFY4YVh0dHo2SHZkX3YzdTRrLS1UTDVxRm95MWpQRjNuQjJvRWhNYU5XbHd2RzBmalNhbjJmbHFRVUlwN2U3MFFiRUkzYXZGSDA1SDBkLWdaVGx0aWlyTDZuM1NWNnZLYl9pTWktZ01aWTBRT1QzWWlJVkl4cTdqZWoyc2IzbzZTYS1uRWlZQ3hDdkJRbGVzQlpOd05vY2MtLTFGRE03M2JaMWpkLTVTemNOTkI0cG95bzM?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Sun, 01 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "State Legislation Roundup November 2025 | Tenancy Reform in Jammu & Kashmir, Gujarat's Judicial Service Rules, Haryana ends 'Couple Case' Policy, Punjab's Proclamation Rules, Ladakh's Factories Amendment & Beyond",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRW1CaVozcmFxZUZBc0I1cm5DdlBSdFE0SHJlVjJZVjhzOHNzUUVrLVVFQ2JMMnVQY1hDTXdZcWExeUYyTF9HNzNURXFhM3lxM3FRb1drUnAtUVZ3Q0gxWEhLV0g4SkduazhvQmJrNUJKS0VlNVdNU0FhU3lWYVRzYU9tVWk1NVJBd04wbzF0R3Rxd1c2MzlLUWFoSQ?oc=5\" target=\"_blank\">State Legislation Roundup November 2025 | Tenancy Reform in Jammu & Kashmir, Gujarat's Judicial Service Rules, Haryana ends 'Couple Case' Policy, Punjab's Proclamation Rules, Ladakh's Factories Amendment & Beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCC Online</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRW1CaVozcmFxZUZBc0I1cm5DdlBSdFE0SHJlVjJZVjhzOHNzUUVrLVVFQ2JMMnVQY1hDTXdZcWExeUYyTF9HNzNURXFhM3lxM3FRb1drUnAtUVZ3Q0gxWEhLV0g4SkduazhvQmJrNUJKS0VlNVdNU0FhU3lWYVRzYU9tVWk1NVJBd04wbzF0R3Rxd1c2MzlLUWFoSQ?oc=5",
+   "source_name": "SCC Online",
+   "source_domain": "scconline.com",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "The northern frontier: Analysing the Galwan clash as a Chinese strategy in eastern Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmZndkZoMXNXLWZaUU1ha0tIRTlXcEgzaGRsOFpGNU5pWk51VVliZnNlcXNYaGlEajc3TEJFTF9jdnNxVFRrU1RJWm82MWNvWXhjRzk5N3gyazFtaExON19fSUg1eHFhc0NNZ3hxUGxhRXZiRlJVajNJYkNUMkxEVDRHcTFVRG9jcGIwYWFycVBKOHFyU3BUVDk0NW5jMDV5Z1R6ZExnQWpEVG9yS2VPMWp6eFNfOXBqREHSAb4BQVVfeXFMTVMxbmN1cHBsdmRxWTNZS3NOYVJIbUZKamRMbjRXbzBnQ2tFaFFUano0Q3hKVTI4TFJUU2E1WnZqUU9nMDhxSXVxalBzVXlfbkxvV0dIelJ1NkxuRV9ocHAxMWFmZ2sxdWV4bm9GOXhJajlGTmQzWmtOMVk0c1JyM1N2akxvUUg0bDlfbmwwSVEtZEU5eVY2a1JvdDV1aGxEWmpZNG5RSTVMOHlIMEoxMG00Tk1YUmEyUndLejEyQQ?oc=5\" target=\"_blank\">The northern frontier: Analysing the Galwan clash as a Chinese strategy in eastern Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmZndkZoMXNXLWZaUU1ha0tIRTlXcEgzaGRsOFpGNU5pWk51VVliZnNlcXNYaGlEajc3TEJFTF9jdnNxVFRrU1RJWm82MWNvWXhjRzk5N3gyazFtaExON19fSUg1eHFhc0NNZ3hxUGxhRXZiRlJVajNJYkNUMkxEVDRHcTFVRG9jcGIwYWFycVBKOHFyU3BUVDk0NW5jMDV5Z1R6ZExnQWpEVG9yS2VPMWp6eFNfOXBqREHSAb4BQVVfeXFMTVMxbmN1cHBsdmRxWTNZS3NOYVJIbUZKamRMbjRXbzBnQ2tFaFFUano0Q3hKVTI4TFJUU2E1WnZqUU9nMDhxSXVxalBzVXlfbkxvV0dIelJ1NkxuRV9ocHAxMWFmZ2sxdWV4bm9GOXhJajlGTmQzWmtOMVk0c1JyM1N2akxvUUg0bDlfbmwwSVEtZEU5eVY2a1JvdDV1aGxEWmpZNG5RSTVMOHlIMEoxMG00Tk1YUmEyUndLejEyQQ?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Budget 2026: NLST, NLOT Telescopes Approved in Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMGFHOGJXTkNuaC1mY192T2hZWXRSc1FHb1JJaXN2bUxoNXdDMUs0NzBTUml6U0k2bm9OZUs0Y2R5TEc1QTZXSmRDYmJXUG0xQnZ0VmIwSzl0WFFfN2dycTF4cW1PREsxb3plODRJMGFDY0pRRFVmWDdIR2RYSUtlVmRWYXQ5YmFQNGQzb3RmQm5WUmpsY1FkQmxiOERhLWxhcGgtVUVndjV2RnZyV05NeWdKakpoNGlsUVlsbjhnblJMcmdvbWc?oc=5\" target=\"_blank\">Budget 2026: NLST, NLOT Telescopes Approved in Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utkarsh Classes</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMGFHOGJXTkNuaC1mY192T2hZWXRSc1FHb1JJaXN2bUxoNXdDMUs0NzBTUml6U0k2bm9OZUs0Y2R5TEc1QTZXSmRDYmJXUG0xQnZ0VmIwSzl0WFFfN2dycTF4cW1PREsxb3plODRJMGFDY0pRRFVmWDdIR2RYSUtlVmRWYXQ5YmFQNGQzb3RmQm5WUmpsY1FkQmxiOERhLWxhcGgtVUVndjV2RnZyV05NeWdKakpoNGlsUVlsbjhnblJMcmdvbWc?oc=5",
+   "source_name": "Utkarsh Classes",
+   "source_domain": "utkarsh.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Chief Secretary stresses mission-mode push for Pashmina trade in Ladakh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3U5OUZZd1lPcFVRM1pOUlZGc2ctcTBFLWFaeEpLSnNLeG1pcnhjY1BjUU1tTWh6ajVWM05lSGY5MVhvUm5Za0xjQlZhcGlRcDNZdnhVNnh6bWRjemtTSGJMcnR3MmxpQTl4X3V1M1JoR05jRENJRlNocXk4S0dJOHlzdnNRemkyY0wzMXVMLUkxMERJdnozMV9yYmxfOFBjRzEyczhvVUxzNmlFRUJ0Z0hRZ3NBZ29NeTVFM1ozY9IBxAFBVV95cUxPY0lrRHVWeXhWajhPWDB5VGFEQThhY2U2cXdteHdRUENyRjlvOFMtanBPczFWZVhicTA1ZzFCRDEyWFE0a2N2a0NpdVRkdU1ONHZUREZndlNhd2ExS3VKck92cHdoS1VlTUdfbUVyQW44dW1ULWczZW50a29ZOFd0MHdDa3ppaHBBQTJfLVZ3ZGdhdEE1dzVQalNlRmo2eUNhM05fMUNwNWxqc2tsak92eERydHFsOXRxTUFjWUd2SWV0clNk?oc=5\" target=\"_blank\">Chief Secretary stresses mission-mode push for Pashmina trade in Ladakh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3U5OUZZd1lPcFVRM1pOUlZGc2ctcTBFLWFaeEpLSnNLeG1pcnhjY1BjUU1tTWh6ajVWM05lSGY5MVhvUm5Za0xjQlZhcGlRcDNZdnhVNnh6bWRjemtTSGJMcnR3MmxpQTl4X3V1M1JoR05jRENJRlNocXk4S0dJOHlzdnNRemkyY0wzMXVMLUkxMERJdnozMV9yYmxfOFBjRzEyczhvVUxzNmlFRUJ0Z0hRZ3NBZ29NeTVFM1ozY9IBxAFBVV95cUxPY0lrRHVWeXhWajhPWDB5VGFEQThhY2U2cXdteHdRUENyRjlvOFMtanBPczFWZVhicTA1ZzFCRDEyWFE0a2N2a0NpdVRkdU1ONHZUREZndlNhd2ExS3VKck92cHdoS1VlTUdfbUVyQW44dW1ULWczZW50a29ZOFd0MHdDa3ppaHBBQTJfLVZ3ZGdhdEE1dzVQalNlRmo2eUNhM05fMUNwNWxqc2tsak92eERydHFsOXRxTUFjWUd2SWV0clNk?oc=5",
+   "source_name": "The Statesman",
+   "source_domain": "thestatesman.com",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Why has the blood-red night sky over Ladakh's Hanle village left the internet stunned? Explained",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNZVAzUFVMTDVhM3NYV1RJSExwZUhDQmx2eW9zeDZWV09rVWdBRDdBZzhhSUM2MlhxTnhNdlpabTNrdHdXVXR4bzFsSFJndUhMcWRIWlIwSXRhQThCSE5tRVNmUjFKaEtac1R6NGhCY0NDUWhiVHZ2aWFuUS1JbjJoeFg4MldPb0ZJRUhoRTBsU3psdVhEdWhvMkUxYXB4LTExdERzaUVTNEhhdGFWdUJCQnhOeFpYZ0k3TlhPSmJQTUJFM2FqMG11T1ZXc0Q1Z05LNUpidEJ6dXctUHFzZURGNnZKLUlMeDRJVFRiUHpRbnpVVmY1WHBlWW01UmRQdVM3NlFQcGlTMkVTYTgt0gGSAkFVX3lxTE5BTXNlVjhVb2xEdFVaZjVGa1R0SGxaQnYtLXJvMWRhUTJPMktPVHR2V3BrMHJqakVDY09xWHVnQmFpdE1CdjhfeHA5c2d2OHJPRFpIS19PMFdzbEtQQjRKd1FTdjdHb3J6QnhuUS1LRnZPNjBMSnFRR21XeUZBWkh6X1Vob0NkYWM1Uzc1aG9IX0hJQWQ5bnliVVZFWmszcnJlQ3U1bUQ4aHRYRmhyaERWSU5mNVRTZW5kenVhaWF3Vk5VakFhM2haV3dtTU1kWGhuTkdlcE1ZamJ6LWtpTXp5RWNvR1M0ZWhFVnBQVldYaENJT2s5M216ZGpfc3ZmUFVJMmVfc283SjhaeFBhakw4Vmc?oc=5\" target=\"_blank\">Why has the blood-red night sky over Ladakh's Hanle village left the internet stunned? Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZVAzUFVMTDVhM3NYV1RJSExwZUhDQmx2eW9zeDZWV09rVWdBRDdBZzhhSUM2MlhxTnhNdlpabTNrdHdXVXR4bzFsSFJndUhMcWRIWlIwSXRhQThCSE5tRVNmUjFKaEtac1R6NGhCY0NDUWhiVHZ2aWFuUS1JbjJoeFg4MldPb0ZJRUhoRTBsU3psdVhEdWhvMkUxYXB4LTExdERzaUVTNEhhdGFWdUJCQnhOeFpYZ0k3TlhPSmJQTUJFM2FqMG11T1ZXc0Q1Z05LNUpidEJ6dXctUHFzZURGNnZKLUlMeDRJVFRiUHpRbnpVVmY1WHBlWW01UmRQdVM3NlFQcGlTMkVTYTgt0gGSAkFVX3lxTE5BTXNlVjhVb2xEdFVaZjVGa1R0SGxaQnYtLXJvMWRhUTJPMktPVHR2V3BrMHJqakVDY09xWHVnQmFpdE1CdjhfeHA5c2d2OHJPRFpIS19PMFdzbEtQQjRKd1FTdjdHb3J6QnhuUS1LRnZPNjBMSnFRR21XeUZBWkh6X1Vob0NkYWM1Uzc1aG9IX0hJQWQ5bnliVVZFWmszcnJlQ3U1bUQ4aHRYRmhyaERWSU5mNVRTZW5kenVhaWF3Vk5VakFhM2haV3dtTU1kWGhuTkdlcE1ZamJ6LWtpTXp5RWNvR1M0ZWhFVnBQVldYaENJT2s5M216ZGpfc3ZmUFVJMmVfc283SjhaeFBhakw4Vmc?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Thu, 29 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:21+00:00"
+  }
+ ]
+}

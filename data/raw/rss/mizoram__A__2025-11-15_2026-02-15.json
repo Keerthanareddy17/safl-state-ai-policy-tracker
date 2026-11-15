@@ -1,0 +1,54 @@
+{
+ "region": "Mizoram",
+ "group": "A",
+ "query": "(Mizoram) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Mizoram%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:34:53+00:00",
+ "item_count": 4,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram to introduce Hindi-speaking day in schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmd2eXVkRkdPV0ZVRUhvZWF2QnM0cHFrQXVzMkRlTGNrZW1RZm1aeDF5WHhUVEN6SFNRb2txdTRfaV9DMXNXMG9Nb0U0d0dsd3lISTBUWXFMZ1BROTBXay1wQnpRZmtIUjd1Q05wWXVQejgzc2pMN3ZXcnplUXBtWjBRNTU0Y1BkcmhpODRTMU1BbE5qOUFpZ25lZUQwWjJPd285aDNPY2RUSnZzM1VyVXVUWWt1WjVwNjZKTzhZcUttazl0RklRRlFzX0_SAdABQVVfeXFMUDM5RjRBZmFWY0xrNXJ0QkxvdWVKVThicXowclBYY1djVERFQ0hmUDZlbHA2ZEh5RnpqaHBqT01ZdzFvcWtUN29xOEhVelBrRVlxZHAtN2UwbnFyYUg0U3dzcFlINllTMDRSUTlPcGdibW05anpPZlBfazE2Z1B1cXlaQ3ZadFlQeTlwMjItdWY0bkZKcnM4aktzdGRlSGpoMXk5cDQ2ZTRGellGbVNPRXBSWWc4Z01iTS1WTjQyOVVybTJjaU85ZGdaY2lNUHltaw?oc=5\" target=\"_blank\">Mizoram to introduce Hindi-speaking day in schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmd2eXVkRkdPV0ZVRUhvZWF2QnM0cHFrQXVzMkRlTGNrZW1RZm1aeDF5WHhUVEN6SFNRb2txdTRfaV9DMXNXMG9Nb0U0d0dsd3lISTBUWXFMZ1BROTBXay1wQnpRZmtIUjd1Q05wWXVQejgzc2pMN3ZXcnplUXBtWjBRNTU0Y1BkcmhpODRTMU1BbE5qOUFpZ25lZUQwWjJPd285aDNPY2RUSnZzM1VyVXVUWWt1WjVwNjZKTzhZcUttazl0RklRRlFzX0_SAdABQVVfeXFMUDM5RjRBZmFWY0xrNXJ0QkxvdWVKVThicXowclBYY1djVERFQ0hmUDZlbHA2ZEh5RnpqaHBqT01ZdzFvcWtUN29xOEhVelBrRVlxZHAtN2UwbnFyYUg0U3dzcFlINllTMDRSUTlPcGdibW05anpPZlBfazE2Z1B1cXlaQ3ZadFlQeTlwMjItdWY0bkZKcnM4aktzdGRlSGpoMXk5cDQ2ZTRGellGbVNPRXBSWWc4Z01iTS1WTjQyOVVybTJjaU85ZGdaY2lNUHltaw?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 29 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizoram: Healthy Lunglei App To Be Launched On January 29",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE1wS3JiNmE4UlotdDZKVWo0V3A5QXJ3TXNBeWlQRk1EWWFVM0JqRXJDR1VoN3BPWkRFVk9RVHV4cUNhdERON1hiSzJwX3pXT0lTb1o0NTZvQlpjZGhUS3g0TWFLeWhHWVZCMWFUaTFLM3lxcDA2Mk5YYUtPbFJuSENYaDZKN2t5Z1VObWRLS2pYcE9vMDFLMA?oc=5\" target=\"_blank\">Mizoram: Healthy Lunglei App To Be Launched On January 29</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE1wS3JiNmE4UlotdDZKVWo0V3A5QXJ3TXNBeWlQRk1EWWFVM0JqRXJDR1VoN3BPWkRFVk9RVHV4cUNhdERON1hiSzJwX3pXT0lTb1o0NTZvQlpjZGhUS3g0TWFLeWhHWVZCMWFUaTFLM3lxcDA2Mk5YYUtPbFJuSENYaDZKN2t5Z1VObWRLS2pYcE9vMDFLMA?oc=5",
+   "source_name": "Northeast Today",
+   "source_domain": "northeasttoday.in",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Mizo language learning centre to be set up at Kamalanagar in Mizoram",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFNhd3I1dW03eU85emdvQjVPMzJxOGI0QklpUnliOFNGVXRZdFUtVFdTejFPNmdXX0pMeFR4VFkzVGpIWGxvaGl5cmhaV1QxTXRJR3QtSTYydUlrbnFVWWpfVkY3aDhHVUo3cmM2SmltMUdsSHdMYzZRc0lnREp1SkFTSDRSd0NMM3dLQmNqTG5BTWE2S2ZHc3BCWkJodEVWbE9OMlBKMzRYT1c2aGU1WUxucTV4OU81aTVDVTVBWEd4M29HZnfSAcsBQVVfeXFMTXFyOG1mQWU1ei14NGxDMEs1SEEwX1IwdUFMWUxSeEZ1MTh4MWZOV1lvTkVSVkFKaHI0UXlxNEQ3YlEyV1NZb2lDdE9yMkdSNE1uazd0ZHZ6RzV6U3NtYW90VEY1dGJPMnc3bGVlSDNlOWo2UFAxcVlMb09lZDJhSDlvUUdLblhJa01DUVNROVh5NlRUQnlydWpzT1JSUFpldW03UmNzMUE1SVlEWDVVanQ1d3o2Z2Vnb0lQTFd6amRKa3ZNQTJOd2hqMDg?oc=5\" target=\"_blank\">Mizo language learning centre to be set up at Kamalanagar in Mizoram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFNhd3I1dW03eU85emdvQjVPMzJxOGI0QklpUnliOFNGVXRZdFUtVFdTejFPNmdXX0pMeFR4VFkzVGpIWGxvaGl5cmhaV1QxTXRJR3QtSTYydUlrbnFVWWpfVkY3aDhHVUo3cmM2SmltMUdsSHdMYzZRc0lnREp1SkFTSDRSd0NMM3dLQmNqTG5BTWE2S2ZHc3BCWkJodEVWbE9OMlBKMzRYT1c2aGU1WUxucTV4OU81aTVDVTVBWEd4M29HZnfSAcsBQVVfeXFMTXFyOG1mQWU1ei14NGxDMEs1SEEwX1IwdUFMWUxSeEZ1MTh4MWZOV1lvTkVSVkFKaHI0UXlxNEQ3YlEyV1NZb2lDdE9yMkdSNE1uazd0ZHZ6RzV6U3NtYW90VEY1dGJPMnc3bGVlSDNlOWo2UFAxcVlMb09lZDJhSDlvUUdLblhJa01DUVNROVh5NlRUQnlydWpzT1JSUFpldW03UmNzMUE1SVlEWDVVanQ1d3o2Z2Vnb0lQTFd6amRKa3ZNQTJOd2hqMDg?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Wed, 07 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Mizoram",
+   "title": "Northeast gets Rs 11,486 crore rail budget push; Kokrajhar-Gelephu link in focus",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTg2YWRjZ1Q5bTBET2d0MldYNzVfRjk3OWlNNnlJWjRmNUNucGRoZm5ITURubTFjZ2trbnNOMWgzSUpoWTJwYkdYdHFIemJDbGpoR1hzWFJ0dFZQVk1aSldET0hCVzgzcmh0NTFHV1FrVXV5TmgzbXV0SEUzdGRoM2xWcXdEQnlGRHY1VFVCOEhKR09HWThHWkE2QVpINmtRWlFoODBJWE1URzRNdmFWQ3U5ZDloUmwzTlRkTmI3ONIBxAFBVV95cUxPT0k4eEJMeG1IQS1aX252YXZsYUFRMjhyTUs0T2lUTHpWMktSdUJPYmhtd3RrTU5qU1dUZ0sxa0RtVE5QdTVRMm00VmVOdkdyTjhwS3hJR3pReFpRYXhKWUNCMTc4cnRnUi1oWlN3NjNjY1U4UE1QRFVHd0d2OGJ6NmRIYmgwd3h4T0ZXLVhtdkFaMW5PQnRqc0NHeUMzbWxfNWdoN2ZPZTBfRTVhUE5pRUtEeFZKcU1hX09uLTNYNjd0WGQx?oc=5\" target=\"_blank\">Northeast gets Rs 11,486 crore rail budget push; Kokrajhar-Gelephu link in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTg2YWRjZ1Q5bTBET2d0MldYNzVfRjk3OWlNNnlJWjRmNUNucGRoZm5ITURubTFjZ2trbnNOMWgzSUpoWTJwYkdYdHFIemJDbGpoR1hzWFJ0dFZQVk1aSldET0hCVzgzcmh0NTFHV1FrVXV5TmgzbXV0SEUzdGRoM2xWcXdEQnlGRHY1VFVCOEhKR09HWThHWkE2QVpINmtRWlFoODBJWE1URzRNdmFWQ3U5ZDloUmwzTlRkTmI3ONIBxAFBVV95cUxPT0k4eEJMeG1IQS1aX252YXZsYUFRMjhyTUs0T2lUTHpWMktSdUJPYmhtd3RrTU5qU1dUZ0sxa0RtVE5QdTVRMm00VmVOdkdyTjhwS3hJR3pReFpRYXhKWUNCMTc4cnRnUi1oWlN3NjNjY1U4UE1QRFVHd0d2OGJ6NmRIYmgwd3h4T0ZXLVhtdkFaMW5PQnRqc0NHeUMzbWxfNWdoN2ZPZTBfRTVhUE5pRUtEeFZKcU1hX09uLTNYNjd0WGQx?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Mon, 02 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:34:53+00:00"
+  }
+ ]
+}

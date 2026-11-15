@@ -1,0 +1,130 @@
+{
+ "region": "Goa",
+ "query": "(Goa) AND (\"AI\" OR \"artificial intelligence\")",
+ "fetched_at": "2026-11-15T09:47:37+00:00",
+ "total_results": 11,
+ "item_count": 11,
+ "items": [
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "Govt inks MoU with US firm to explore AI use in governance",
+   "description": "Goa govt signs MoU with California’s Modern Data Company to explore AI for scheme delivery, education, tourism and healthcare planning using DataOS platform.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/govt-inks-mou-with-us-firm-to-explore-ai-use-in-governance/articleshow/135549451.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-11-04T18:26:39Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "Goa to adopt AI governance to disburse government benefits and schemes",
+   "description": "Goa partners with Modern Data Company to deploy DataOS AI for smarter governance, targeting benefits delivery, education, tourism, and healthcare.",
+   "url": "https://www.thehindubusinessline.com/news/national/goa-to-adopt-ai-governance-to-disburse-government-benefits-and-schemes/article71666836.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-11-04T16:32:36Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "IPB inks deals worth Rs 8,000 crore at Vibrant Goa summit",
+   "description": "Goa IPB signs nine MoUs worth Rs 8,600 crore at Vibrant Goa summit, aiming to create 5,000 jobs in AI, data centres, energy, logistics and more.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/ipb-inks-deals-worth-rs-8000-crore-at-vibrant-goa-summit/articleshow/135410409.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-31T18:52:40Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "AI Express flight crew's lapse probably led to runway incursion at Goa airport in Apr this yr: AAIB",
+   "description": "The incident happened in the morning of April 3 involving Air India Express' Boeing 737-8 aircraft which was to operate the flight AXB 1109 from Dabolim to Delhi, and Navy's single pilot fighter jet",
+   "url": "https://www.thehindubusinessline.com/economy/logistics/ai-express-flight-crews-lapse-probably-led-to-runway-incursion-at-goa-airport-in-apr-this-yr-aaib/article71648819.ece",
+   "source_name": "BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_raw": "2026-10-31T09:19:19Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "Tourism dept taps AI to promote Goa through online searches, drive international footfalls",
+   "description": "Goa tourism department adopts AI to boost visibility in AI search and social platforms, promote year-round themes, and drive international footfalls.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/tourism-dept-taps-ai-to-promote-goa-through-online-searches-drive-international-footfalls/articleshow/135278278.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-28T18:55:41Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "North Goa hospital performs AI-assisted knee replacement surgery",
+   "description": "North Goa District Hospital performs AI-assisted total knee replacement, enabling real-time guidance for accurate alignment and precise implant positioning in public healthcare.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/north-goa-hospital-performs-ai-assisted-knee-replacement-surgery/articleshow/135219217.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-26T19:46:18Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "GCCI pledges industry support to help build knowledge economy under Goa AI Policy",
+   "description": "GCCI backs Goa AI Policy and Mission 2027, citing Rs 250 crore fund, 50,000 AI professionals by 2030, CoEs, school AI labs, and responsible AI rules.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/gcci-pledges-industry-support-to-help-build-knowledge-economy-under-goa-ai-policy/articleshow/135197095.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-25T18:58:26Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "State launches AI policy, to introduce AI fundamentals for Classes VI–XII from next academic year",
+   "description": "Goa launches AI Policy 2026: AI fundamentals for Classes VI–XII from 2027-28, AI labs in 50 govt schools, and 50,000 AI-certified professionals by 2030.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/state-launches-ai-policy-to-introduce-ai-fundamentals-for-classes-vixii-from-next-academic-year/articleshow/135126746.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-22T19:19:03Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "Parties take the AI route to take potshots at their rivals",
+   "description": "Goa parties use AI memes ahead of Feb 2027 Assembly polls as BJP and Congress trade digital attacks, raising questions about tech-driven campaigning.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/parties-take-the-ai-route-to-take-potshots-at-their-rivals/articleshow/135076363.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-20T19:35:22Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "Investment in data centres, AI city on Vibrant Goa summit agenda",
+   "description": "Vibrant Goa Global Business Summit 2026 to spotlight NBCC-led investments in data centres and an AI city, plus India-Africa trade ties and MoUs.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/investment-in-data-centres-ai-city-on-vibrant-goa-summit-agenda/articleshow/135019450.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-17T18:41:29Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  },
+  {
+   "source_api": "newsapi",
+   "query_region": "Goa",
+   "title": "IT dept aims to make 50,000 Goans AI certified by 2030",
+   "description": "Goa IT dept targets AI certification for 50,000 people by 2030; AI Policy to launch at AI Tech Conclave Oct 22-23, with Konkani LLM and Bhashini focus.",
+   "url": "https://timesofindia.indiatimes.com/city/goa/it-dept-aims-to-make-50000-goans-ai-certified-by-2030/articleshow/135019444.cms",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "2026-10-17T18:40:58Z",
+   "fetched_at": "2026-11-15T09:47:37+00:00"
+  }
+ ]
+}

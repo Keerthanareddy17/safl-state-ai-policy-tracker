@@ -1,0 +1,208 @@
+{
+ "region": "Delhi",
+ "group": "A",
+ "query": "(Delhi) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Delhi%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:35+00:00",
+ "item_count": 18,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "ITDC, SCOPE and LBSNAA Organise ‘AI Champions for Digital Governance’ Summit in New Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSTEtQkJMR1BTRFBVSnJTLXR4Mjd5Q0tfeXFYalRNNGdHMEYyY0Q0S0tjM3JMbWFDZVlSaUs0aHZ6ODJRaS1WQW5zQmpvZGRpZ2hPVTV1ZDBEenBWUldZTHU5RmdYUkpXSzg3dWNkVlBfWlJzZzdoUzV2WQ?oc=5\" target=\"_blank\">ITDC, SCOPE and LBSNAA Organise ‘AI Champions for Digital Governance’ Summit in New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSTEtQkJMR1BTRFBVSnJTLXR4Mjd5Q0tfeXFYalRNNGdHMEYyY0Q0S0tjM3JMbWFDZVlSaUs0aHZ6ODJRaS1WQW5zQmpvZGRpZ2hPVTV1ZDBEenBWUldZTHU5RmdYUkpXSzg3dWNkVlBfWlJzZzdoUzV2WQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Cadence, IIT Delhi launch AI-equipped CoE for semiconductor innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnk4VU5oZVdJVkV3TkpSU3BmLXdteW16WUpFU2V2UldTaUxvbmVPaU80T3dJbmJEM0Ixb3AzR0NBTHhySHJiU0RHYkx2MXRKN0VkbS1Pa0RVbGhaenBlWHloaEVNMFg1ZHdVQk9vVTN2Wm5DUU9zM1A2amFmTDFiVVFHV0pzdEFmMzY0bG9aLXpuMmlFc3VQOUE5UVJnUy10TGtFWmotSzFpUTJ3Tmt2NndleWhKaU5NN2RkQUFjUU9NRjE0OUtGU0NnVW5mNEdfaUZiOFkzUFlfX2pQdG83Y9IB5gFBVV95cUxQTzl0dmMzcS05Z1hVUWFnd3pkZFJnWFF1OUZpYVBwdFpvdHZtUktXUzNMREN0QkJTQlRYZXZrRzhZUnZmc0V5eHc2RkJrcEpDLXFmeUIxNDlEWGdxU19OTk1pUlV3a0FmaGRHUlh5TERoamdpZ1NudV8xTDQwZGM5dzhEcTVXamJLY3o5ejkxeE55U1hEVG1tMF9SOThzZGZUOEVaU2U1dk5XWEdKYTNFMUhFaENVQzI4ajZQQk5WTEYyRXU0QzRUYXJZbjlmQXVXV014M3YzTENUZFkybzdRMU1teUlIUQ?oc=5\" target=\"_blank\">Cadence, IIT Delhi launch AI-equipped CoE for semiconductor innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electronics.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnk4VU5oZVdJVkV3TkpSU3BmLXdteW16WUpFU2V2UldTaUxvbmVPaU80T3dJbmJEM0Ixb3AzR0NBTHhySHJiU0RHYkx2MXRKN0VkbS1Pa0RVbGhaenBlWHloaEVNMFg1ZHdVQk9vVTN2Wm5DUU9zM1A2amFmTDFiVVFHV0pzdEFmMzY0bG9aLXpuMmlFc3VQOUE5UVJnUy10TGtFWmotSzFpUTJ3Tmt2NndleWhKaU5NN2RkQUFjUU9NRjE0OUtGU0NnVW5mNEdfaUZiOFkzUFlfX2pQdG83Y9IB5gFBVV95cUxQTzl0dmMzcS05Z1hVUWFnd3pkZFJnWFF1OUZpYVBwdFpvdHZtUktXUzNMREN0QkJTQlRYZXZrRzhZUnZmc0V5eHc2RkJrcEpDLXFmeUIxNDlEWGdxU19OTk1pUlV3a0FmaGRHUlh5TERoamdpZ1NudV8xTDQwZGM5dzhEcTVXamJLY3o5ejkxeE55U1hEVG1tMF9SOThzZGZUOEVaU2U1dk5XWEdKYTNFMUhFaENVQzI4ajZQQk5WTEYyRXU0QzRUYXJZbjlmQXVXV014M3YzTENUZFkybzdRMU1teUlIUQ?oc=5",
+   "source_name": "electronics.economictimes.indiatimes.com",
+   "source_domain": "electronics.economictimes.indiatimes.com",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "IIMC launches its AI academy in Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdFRqbFhJOFl1OHR3RU10blRXRVJBZGJCYWcyQl9vdmJPUEQxT01CNHJtWkNMV0FYaXNLZFZiSHNSNEo5RzVQc24ybW5DM3hKLUpHLWJVem5mQ2hncjZsVUxrM05PYW1TU3RReFF2dXA?oc=5\" target=\"_blank\">IIMC launches its AI academy in Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdFRqbFhJOFl1OHR3RU10blRXRVJBZGJCYWcyQl9vdmJPUEQxT01CNHJtWkNMV0FYaXNLZFZiSHNSNEo5RzVQc24ybW5DM3hKLUpHLWJVem5mQ2hncjZsVUxrM05PYW1TU3RReFF2dXA?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Fri, 29 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Info Origin Signs MoU with IIT Delhi to Advance AI-Driven Healthcare Innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMXBsZDBpSjdQV1liS1pMT2hLNUlqVVJhTHlIdE1EcWFnZEczNFluVnZXT0IxQkh4cm5mN1Nzckw0cWNoN0ZnRkZ6bFlfNk92RTZVVkI3WmtCTFY3cFYyd2VJM2RsM3QzOWNmcDJFZWZFNWdLc2hCM0ZxNUFyUEFPSktMU3FYbE85RnRiWmhNeHYwUDduaWZWenR1UGFOR1J5UWtMaWlRYlpaOWxjdlhVVmdIMU9KclM4SUQzT05kYTB5S2RIdHlkWVRjVDdzZTZwWUpaWE1yT2Q1Ykx6THExVm9WWDhNM280bWF2MVpseWIyd9IB9wFBVV95cUxQNTk1VkpvNm5OOGN1TE5xTzNETUExLTdwc0lqX3VQeV9LeEdCckdUb2JKMGNZQndwNGxUVUNQV1JwN3JKQ3NhTDVnQlE0eEN0Qkk0eTVKMTdXYWJiNVpEcURJNk9Oa2MwM3FGTGpqbkZIZlVEekhzLWYtb21YMnNVc1o5azRhQ3RONE1lMENndW9tT0J1dTY3dUZua1dQUUtrdm5iT0VYUUdMNkU1LXM4S3h3ZExudGJiQWdsZDJyZUJYbGtjcWJ5OVd4NFFiNFdCaUR1UXBFZEROY2hPNDhNTV85dTdXd3hfekZXN0dWMnZfZGRDaU9J?oc=5\" target=\"_blank\">Info Origin Signs MoU with IIT Delhi to Advance AI-Driven Healthcare Innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMXBsZDBpSjdQV1liS1pMT2hLNUlqVVJhTHlIdE1EcWFnZEczNFluVnZXT0IxQkh4cm5mN1Nzckw0cWNoN0ZnRkZ6bFlfNk92RTZVVkI3WmtCTFY3cFYyd2VJM2RsM3QzOWNmcDJFZWZFNWdLc2hCM0ZxNUFyUEFPSktMU3FYbE85RnRiWmhNeHYwUDduaWZWenR1UGFOR1J5UWtMaWlRYlpaOWxjdlhVVmdIMU9KclM4SUQzT05kYTB5S2RIdHlkWVRjVDdzZTZwWUpaWE1yT2Q1Ykx6THExVm9WWDhNM280bWF2MVpseWIyd9IB9wFBVV95cUxQNTk1VkpvNm5OOGN1TE5xTzNETUExLTdwc0lqX3VQeV9LeEdCckdUb2JKMGNZQndwNGxUVUNQV1JwN3JKQ3NhTDVnQlE0eEN0Qkk0eTVKMTdXYWJiNVpEcURJNk9Oa2MwM3FGTGpqbkZIZlVEekhzLWYtb21YMnNVc1o5azRhQ3RONE1lMENndW9tT0J1dTY3dUZua1dQUUtrdm5iT0VYUUdMNkU1LXM4S3h3ZExudGJiQWdsZDJyZUJYbGtjcWJ5OVd4NFFiNFdCaUR1UXBFZEROY2hPNDhNTV85dTdXd3hfekZXN0dWMnZfZGRDaU9J?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Thu, 09 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "UNESCO Launches Outlook Study on Artificial Intelligence and Gender in South Asia",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOc01qemItNjlyRWp6ZWJKVjlvY2RtZUZOU3o0Ny1vaEs0S0RxM1AxdWE0SmdYY2Rnc2MwanpEaHNBbXY1OGo4azVlamxlaDBqUTBEQUpKekNpeXNUNGF1ZENuc29FdVd6Y1NtRTFjZ0pwZTk4Y2pqcEQtNFNqYXduRHpzZ3pDdXZKUk81NFF0cFgySHpWYUtYSzBqR052LVdXVTR1RzRzXzV5LWlaa1NR?oc=5\" target=\"_blank\">UNESCO Launches Outlook Study on Artificial Intelligence and Gender in South Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc01qemItNjlyRWp6ZWJKVjlvY2RtZUZOU3o0Ny1vaEs0S0RxM1AxdWE0SmdYY2Rnc2MwanpEaHNBbXY1OGo4azVlamxlaDBqUTBEQUpKekNpeXNUNGF1ZENuc29FdVd6Y1NtRTFjZ0pwZTk4Y2pqcEQtNFNqYXduRHpzZ3pDdXZKUk81NFF0cFgySHpWYUtYSzBqR052LVdXVTR1RzRzXzV5LWlaa1NR?oc=5",
+   "source_name": "UNESCO",
+   "source_domain": "unesco.org",
+   "published_raw": "Fri, 10 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Khaitan & Co. represents OpenAI, the Developers of ChatGPT, in landmark AI copyright dispute before Delhi HC",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQalBsc2VaUTZmVEtsZV9GdTRuUnoxcFNqNHpiNFRKWjF3LTdqR184RHRTVmdZN3ktNThpdVU1QVgwUlVROExpUG5XazZ0ZVRra2prQWFnempLb01NWXpoMUxJT3MyMDNVNXVZQjNIS0MwajZPVk1TNVgwZF9POXc1eWxLcDVYSHo1VEkzS0poNjE3bHFXd0pkeUZJdFVLbjNNQVk1dE5peEFCdlFrWnloSw?oc=5\" target=\"_blank\">Khaitan & Co. represents OpenAI, the Developers of ChatGPT, in landmark AI copyright dispute before Delhi HC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SCC Online</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalBsc2VaUTZmVEtsZV9GdTRuUnoxcFNqNHpiNFRKWjF3LTdqR184RHRTVmdZN3ktNThpdVU1QVgwUlVROExpUG5XazZ0ZVRra2prQWFnempLb01NWXpoMUxJT3MyMDNVNXVZQjNIS0MwajZPVk1TNVgwZF9POXc1eWxLcDVYSHo1VEkzS0poNjE3bHFXd0pkeUZJdFVLbjNNQVk1dE5peEFCdlFrWnloSw?oc=5",
+   "source_name": "SCC Online",
+   "source_domain": "scconline.com",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "NIC is building govt’s first AI data centre in Delhi. Parliament, legal databases in the works, too",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX01kMEtyeUtiUy1oVXY1dlFBRHZIYl8tanhPOUljTzZSYzlPTW1hSHRydlY5X2FLcW5VUldUUmJpYU9iZjlacjBwTk1tRmFLWERDX2dPd25sY0VTenA0SHlHX2tkNUJ2X0dQM0hCaVZyUVF0bGhZbDRuWVJtWjhGQ25iaHdLQ0xVay15SnRzOTNicTBCVGpKaFN0SGdVclVjV1JnZVBpWnE3WjZYZ3h6dkdLaDlHeVZzU2k2VzlwVVZxNXlJbVFlWjJHT0k2bzRXaFJKcV9QVXDSAd4BQVVfeXFMTTI2TGY2NnJZTmsxWkNGbTdtc2M1dVA5TzAtclhpWXVzWExZLVZnSmpQLTUteTdoS21WU1hKNVhIbllrUmdzbmtVSFBCZmdzdXRWQWUxS0FfU010THM2cXRFZTJtaTJjUWZaWXJBamJYcnhZRzNXNnpRUUNqSTdkX3NIUXdyQ3ZPQmYwc3FQTm9fRDRWMHFqZWRQWnZVUFU1T0dkUFFIQTU3U01PR2lKNTFCd3ZtclNhbTZKQ1pFVUJJZEViOFhSWjJNVEZoRTJ5a0lwalZuSFVEcDNIckRR?oc=5\" target=\"_blank\">NIC is building govt’s first AI data centre in Delhi. Parliament, legal databases in the works, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX01kMEtyeUtiUy1oVXY1dlFBRHZIYl8tanhPOUljTzZSYzlPTW1hSHRydlY5X2FLcW5VUldUUmJpYU9iZjlacjBwTk1tRmFLWERDX2dPd25sY0VTenA0SHlHX2tkNUJ2X0dQM0hCaVZyUVF0bGhZbDRuWVJtWjhGQ25iaHdLQ0xVay15SnRzOTNicTBCVGpKaFN0SGdVclVjV1JnZVBpWnE3WjZYZ3h6dkdLaDlHeVZzU2k2VzlwVVZxNXlJbVFlWjJHT0k2bzRXaFJKcV9QVXDSAd4BQVVfeXFMTTI2TGY2NnJZTmsxWkNGbTdtc2M1dVA5TzAtclhpWXVzWExZLVZnSmpQLTUteTdoS21WU1hKNVhIbllrUmdzbmtVSFBCZmdzdXRWQWUxS0FfU010THM2cXRFZTJtaTJjUWZaWXJBamJYcnhZRzNXNnpRUUNqSTdkX3NIUXdyQ3ZPQmYwc3FQTm9fRDRWMHFqZWRQWnZVUFU1T0dkUFFIQTU3U01PR2lKNTFCd3ZtclNhbTZKQ1pFVUJJZEViOFhSWjJNVEZoRTJ5a0lwalZuSFVEcDNIckRR?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Mon, 06 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Jharkhand government begins stakeholder consultation in Delhi, unveils draft AI and investment policies",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXhkV20wWnZvenZQTDk4NzM4OXd4dlY4UlAyTG9BR3VieDl3akZScVpPSFdrS0ZKUzJKaXZpdTBrYU1Qc3Y4TmxidGJQcGRSVlBhZDBsb0dEa2NaUVRsT21ZZW9oNlYyeTFLNDNpUThfa2RGUE55aElTNHFEamZYQ0ZKXzFQeDFSYTFId002YlVaZ2RrYXUtekFYMWl1ZXZMQ3hlLW56LTRreTNvS1RMQm40MjFUVWlRZXlGdHZpeTZLVkVzVGhuWXlPSGlFZXFfVGZtdzF1dVlZTUhxT2FUclpyRWowQjjSAewBQVVfeXFMT3hJbnVEZnF0TjloWklxbzJLX1FOTHVZXzZxYW5TMFpQOURFTk9MeHBPVm1mcUhuUVlsaWZZbWFNRGFoSEY4QzN6d0lLRXF0MUFZVDBuUTNtSzE2MDlRT1MtS3JBTE5pUnduSEFwVzhsZFd5OTFyN2pmTlVLMTFKMmU4U3hMeUcyNWxTNDFGajRNdjhzUGo1UWRfVUVzSUdoVklIVEE0YWdBZHZ5cVpjWGZubFNvSmF0bzh0bjRrSjhNUkRjODdWNzAwWHlpenVPRVZEbWd3ZnNjdXc4LUxHY29JeUkzdUV0MW55Vzg?oc=5\" target=\"_blank\">Jharkhand government begins stakeholder consultation in Delhi, unveils draft AI and investment policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXhkV20wWnZvenZQTDk4NzM4OXd4dlY4UlAyTG9BR3VieDl3akZScVpPSFdrS0ZKUzJKaXZpdTBrYU1Qc3Y4TmxidGJQcGRSVlBhZDBsb0dEa2NaUVRsT21ZZW9oNlYyeTFLNDNpUThfa2RGUE55aElTNHFEamZYQ0ZKXzFQeDFSYTFId002YlVaZ2RrYXUtekFYMWl1ZXZMQ3hlLW56LTRreTNvS1RMQm40MjFUVWlRZXlGdHZpeTZLVkVzVGhuWXlPSGlFZXFfVGZtdzF1dVlZTUhxT2FUclpyRWowQjjSAewBQVVfeXFMT3hJbnVEZnF0TjloWklxbzJLX1FOTHVZXzZxYW5TMFpQOURFTk9MeHBPVm1mcUhuUVlsaWZZbWFNRGFoSEY4QzN6d0lLRXF0MUFZVDBuUTNtSzE2MDlRT1MtS3JBTE5pUnduSEFwVzhsZFd5OTFyN2pmTlVLMTFKMmU4U3hMeUcyNWxTNDFGajRNdjhzUGo1UWRfVUVzSUdoVklIVEE0YWdBZHZ5cVpjWGZubFNvSmF0bzh0bjRrSjhNUkRjODdWNzAwWHlpenVPRVZEbWd3ZnNjdXc4LUxHY29JeUkzdUV0MW55Vzg?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Wed, 08 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "As AI development advances, an expert explains why its regulation matters",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRG1xbTlabG91a0FhQUU0b2w2TS1nTE5iNjYzSVJqbFNxYTMxemcyVGw0bnFZTUxjV1N6bHczVldEelFUX2Q5bE1PcWRlRTA2RDZVallBRWloS1cxakhvUzN4cWp1ZU9rSWpIREZ3d2ZYamFsVHhnM0NuWmhUaXNmTms5TjNYbDRlaXNyNDdRTGVZZkI1bWNjTERHSHFESDZ6SkQ4OVgwUWM2MnVKeHVBTmVGZlR1ODdlZnFwV05Wc9IBxgFBVV95cUxQWVNKbXlLaEQwVktVRml5WDBCalVpN1VEZlpfcThLaldsRjFZNk0yQ0xPOFItT0RtSEpVV18tZ0VabXZNc3Y0OWhuMVhlVUJHWGVYTVZFSlZDX1lQbUp4QmFoMDdmYmlWRFlMZTh5QUhvM0Q0WlhqTDljQmZmblBHdlFiLVZrdHlnQVZvdktPODNXaVVSWWpfNF9SYVQwYjUxd1NLZGNRZlFSWlhONE1SeGRYQ09ReUFpak14WThYM2xIeVkyclE?oc=5\" target=\"_blank\">As AI development advances, an expert explains why its regulation matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRG1xbTlabG91a0FhQUU0b2w2TS1nTE5iNjYzSVJqbFNxYTMxemcyVGw0bnFZTUxjV1N6bHczVldEelFUX2Q5bE1PcWRlRTA2RDZVallBRWloS1cxakhvUzN4cWp1ZU9rSWpIREZ3d2ZYamFsVHhnM0NuWmhUaXNmTms5TjNYbDRlaXNyNDdRTGVZZkI1bWNjTERHSHFESDZ6SkQ4OVgwUWM2MnVKeHVBTmVGZlR1ODdlZnFwV05Wc9IBxgFBVV95cUxQWVNKbXlLaEQwVktVRml5WDBCalVpN1VEZlpfcThLaldsRjFZNk0yQ0xPOFItT0RtSEpVV18tZ0VabXZNc3Y0OWhuMVhlVUJHWGVYTVZFSlZDX1lQbUp4QmFoMDdmYmlWRFlMZTh5QUhvM0Q0WlhqTDljQmZmblBHdlFiLVZrdHlnQVZvdktPODNXaVVSWWpfNF9SYVQwYjUxd1NLZGNRZlFSWlhONE1SeGRYQ09ReUFpak14WThYM2xIeVkyclE?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sun, 21 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "IIT Delhi, Cadence Launch AI Lab for Semiconductor Talent",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObGZjN0lDeF9GMzlScGxlYWZvX09nRXdGVFpMa1V5MVlQSU1ZU1RZalIwazA2UVA3amVYZWluN05XV29pTUt5VnhteDhIdHdlUjEyMlN1OFVMY25vMGpfNjFzeEhDMTN0aXRGdXVxZlJYcGdFMWgxNEdTcE92TG5Bb3dNa2lpekVrX1ZiTk1OWFhtR0hIQWJFU19R?oc=5\" target=\"_blank\">IIT Delhi, Cadence Launch AI Lab for Semiconductor Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGZjN0lDeF9GMzlScGxlYWZvX09nRXdGVFpMa1V5MVlQSU1ZU1RZalIwazA2UVA3amVYZWluN05XV29pTUt5VnhteDhIdHdlUjEyMlN1OFVMY25vMGpfNjFzeEhDMTN0aXRGdXVxZlJYcGdFMWgxNEdTcE92TG5Bb3dNa2lpekVrX1ZiTk1OWFhtR0hIQWJFU19R?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Children are turning to AI for homework – and life advice",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE15bjhkdExaRS1NZ01YdzI5VnlPeEJzZFdYY3RneTh2Um44Sk1SR3ZKZDNlZFNnTksxS1JqUTQwUUxnaVdRZXBnRXhBenFsa2ZKVUJiR2daOA?oc=5\" target=\"_blank\">Children are turning to AI for homework – and life advice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15bjhkdExaRS1NZ01YdzI5VnlPeEJzZFdYY3RneTh2Um44Sk1SR3ZKZDNlZFNnTksxS1JqUTQwUUxnaVdRZXBnRXhBenFsa2ZKVUJiR2daOA?oc=5",
+   "source_name": "UN News",
+   "source_domain": "news.un.org",
+   "published_raw": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5\" target=\"_blank\">Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQlcwUXFLMEE4c1lMcWRXVk1ORDBIMVhRcHZaem9Mb0E1WDFYUHJ1RmhIZFN3YXVORnNDWElOODFaX0I2M0tFVFpKSk9FNnpPMFd4TlZrYTctbHJLX2hReEpudTlaeHhyalNBNWpqUWRBcUg3YnZGWTNn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sat, 08 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI Ethics: What It Is and Why It Matters",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNFdhSUJWbGw5YU9QZW0wT1VCbkdLTVBFcnZia1ZzLXhXV0U5Y0w2ZzlLMjdxcktpMzg1anRyU0lxUFNIUU0wSm9mZmh1cUwtdG9rQ0diM3VDQQ?oc=5\" target=\"_blank\">AI Ethics: What It Is and Why It Matters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coursera</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNFdhSUJWbGw5YU9QZW0wT1VCbkdLTVBFcnZia1ZzLXhXV0U5Y0w2ZzlLMjdxcktpMzg1anRyU0lxUFNIUU0wSm9mZmh1cUwtdG9rQ0diM3VDQQ?oc=5",
+   "source_name": "Coursera",
+   "source_domain": "coursera.org",
+   "published_raw": "Mon, 10 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "I asked ChatGPT to plan a ₹25,000 adventurous trip from Delhi to Manali — Here's how AI made it affordable",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0ViQ0h3UzVLVk9ZczJadEJiek1BRDFlUkRJYUJzUWRTcHlpYVRMQ2pKaHJrWHp3VVdMSjJCZmZ6ZEV3R044YzMwS3ZyY0VrcFl1SjAwUU9Yc2pfc1IzQUhjc0tWdk1Cekdqa3dBY0xDNkw4ejNWb2dhRWF1WnJkdTNqdy0yUzNIdWlRUHQ3NHZkdTBBcGNzVUdhNHJobk5JNTczTlBjaG9wLWpJTU4wSktieHRzOW9OR1RfNWljcjNmNXVNeE5FYmRFby11b0pUdXN0bDQ2eTZYY3JJOURnZndDa01sTWxCU2tuWFpEMEV5bnJQbGpwenV4MFFGQjTSAYQCQVVfeXFMTWFQVUxfM3FCVmpfWDVkSlRZQmJId21lMHczWFlLV0FqbDM4b0s1NUdkMGVVdHJKbEtkcDExQlhiWUFFNndDRDZIS3hBWERleU9RWG5MNWtkUVI1RnlKQnpucXFqdldLSUNTZGJJQVpUdm82aFVqY29iQlh2bkVORE5EOTRzQmYxOXNrZlE2LWgtWm02Y3VDMlpqS2NPWWN1N0NtWEMydExGTk5xZTVkTFRudl9aODE0U2lvdkxsb2FldzBWYU1ZUDg3QTRZb1hwa2VBSy1ndmcwakxhQ2dScWViNmRKVml3NFZ1ZjBWRV9UMlAtLW1vMUVubVNyaFFVVFlncW4?oc=5\" target=\"_blank\">I asked ChatGPT to plan a ₹25,000 adventurous trip from Delhi to Manali — Here's how AI made it affordable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0ViQ0h3UzVLVk9ZczJadEJiek1BRDFlUkRJYUJzUWRTcHlpYVRMQ2pKaHJrWHp3VVdMSjJCZmZ6ZEV3R044YzMwS3ZyY0VrcFl1SjAwUU9Yc2pfc1IzQUhjc0tWdk1Cekdqa3dBY0xDNkw4ejNWb2dhRWF1WnJkdTNqdy0yUzNIdWlRUHQ3NHZkdTBBcGNzVUdhNHJobk5JNTczTlBjaG9wLWpJTU4wSktieHRzOW9OR1RfNWljcjNmNXVNeE5FYmRFby11b0pUdXN0bDQ2eTZYY3JJOURnZndDa01sTWxCU2tuWFpEMEV5bnJQbGpwenV4MFFGQjTSAYQCQVVfeXFMTWFQVUxfM3FCVmpfWDVkSlRZQmJId21lMHczWFlLV0FqbDM4b0s1NUdkMGVVdHJKbEtkcDExQlhiWUFFNndDRDZIS3hBWERleU9RWG5MNWtkUVI1RnlKQnpucXFqdldLSUNTZGJJQVpUdm82aFVqY29iQlh2bkVORE5EOTRzQmYxOXNrZlE2LWgtWm02Y3VDMlpqS2NPWWN1N0NtWEMydExGTk5xZTVkTFRudl9aODE0U2lvdkxsb2FldzBWYU1ZUDg3QTRZb1hwa2VBSy1ndmcwakxhQ2dScWViNmRKVml3NFZ1ZjBWRV9UMlAtLW1vMUVubVNyaFFVVFlncW4?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Sat, 13 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "National Workshop on leveraging AI in rural development to be held in New Delhi today",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFHa28wbUdneERxekNWR2gxRE5ZWkVQTXFBTlB4XzZvY2tWbXdBaXVJVkd0MFNYRlp5WEd3UUozMnFIRlUwazNYbXZaWThabE05TU9QbGF0ajlKdEZwNkFWaTQ0RHR0TXVIdGNSbjlqb3JRRDdVTjVXMEVUZXJkMXZIeXFQZDBBNVk3YmI1QjktaVM4NTZrWnNsQjZoajhtVFVWZVNPd21HVkMxNmxBQg?oc=5\" target=\"_blank\">National Workshop on leveraging AI in rural development to be held in New Delhi today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFHa28wbUdneERxekNWR2gxRE5ZWkVQTXFBTlB4XzZvY2tWbXdBaXVJVkd0MFNYRlp5WEd3UUozMnFIRlUwazNYbXZaWThabE05TU9QbGF0ajlKdEZwNkFWaTQ0RHR0TXVIdGNSbjlqb3JRRDdVTjVXMEVUZXJkMXZIeXFQZDBBNVk3YmI1QjktaVM4NTZrWnNsQjZoajhtVFVWZVNPd21HVkMxNmxBQg?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Thu, 25 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5\" target=\"_blank\">OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5",
+   "source_name": "CNBC",
+   "source_domain": "cnbc.com",
+   "published_raw": "Fri, 26 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Best Healthcare Management Courses in India: IIT vs IIM Comparison for 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0R5LTlMS0pRLTBMTFV5SFQ5aEtydmJFSFJ0eTAxZjFJRG11cUQtNUtMQ3lpT09VTTh0MDBxeUo2MWRnZ1MzUWdSenBOYUpYVDc1M1NwQm84Q0F0bmZITG1iN3J6WEhXMHJuWFdHR1lDTGxHb3BBR1RCOEs2QWtCZQ?oc=5\" target=\"_blank\">Best Healthcare Management Courses in India: IIT vs IIM Comparison for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jaro Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0R5LTlMS0pRLTBMTFV5SFQ5aEtydmJFSFJ0eTAxZjFJRG11cUQtNUtMQ3lpT09VTTh0MDBxeUo2MWRnZ1MzUWdSenBOYUpYVDc1M1NwQm84Q0F0bmZITG1iN3J6WEhXMHJuWFdHR1lDTGxHb3BBR1RCOEs2QWtCZQ?oc=5",
+   "source_name": "Jaro Education",
+   "source_domain": "jaroeducation.com",
+   "published_raw": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Mission launches Indigenous Varya, a Video Story Generating AI Model Claiming to Offer Quality at Affordable Price",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUUFuR0luYk9NQjJQRVp5TlVSS0o3MjF5bnhyZ1ZKbmlwUHRiQXlrTUhYdXgxS3lCZHRxdWJDMkxXU1VVRHplaENaZXY0VUo4LTBNZG84Yk5PVjBIc2tvOXNrVWhCSENMZF9yMFR2azF0ZTBoeEVLQVdR?oc=5\" target=\"_blank\">India AI Mission launches Indigenous Varya, a Video Story Generating AI Model Claiming to Offer Quality at Affordable Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUUFuR0luYk9NQjJQRVp5TlVSS0o3MjF5bnhyZ1ZKbmlwUHRiQXlrTUhYdXgxS3lCZHRxdWJDMkxXU1VVRHplaENaZXY0VUo4LTBNZG84Yk5PVjBIc2tvOXNrVWhCSENMZF9yMFR2azF0ZTBoeEVLQVdR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 12 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:35+00:00"
+  }
+ ]
+}

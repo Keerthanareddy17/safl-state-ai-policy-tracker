@@ -1,0 +1,109 @@
+{
+ "region": "Punjab",
+ "group": "A",
+ "query": "(Punjab) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Punjab%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:19+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab plans to use AI to boost agriculture",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1pIR3ByVmwzYkJqYnlaY0M0SEpoOXNKQm1xTlVFXzhzUnlVeWo2bEdrQkU1alBqZWV2VDBJZ01ZS0FQb29XT2dQZXU3LTRCSlJzc2RXemU2bW9hTXByY2VybjB2V29acmdmLVlGUFNhWnBMOEd5OTBpa1Q5UXRMaVNwanlFS0huMHVHbXlkZk9nU0xDeURXSUxmOEdDQ2FjVzhPX2tmVGpFS2JkaDd6ZVZvUVJJQUlPbWtWQWd0RFBwaWNMY29rSnJMRkhiQdIB0wFBVV95cUxPdUVON3phdXUwbDBXbUd0NjF1bjVuZ01CQnRNUFVyTnhJSENTd0g1aW5xX20tZGFJMU0zYnc5LTJJZ3d5T1dPazVVLXFTRXZzZ3RkU1ptQkt2amg3ZFBLalBMbFpNd2dSN0FLMjdWZ3gyOGFFYThTYlp6WW9GU2txVzdGT3JIZjV4OVNhZHdJeDNLR0prQ1J0NFJRUzd6cFZTT1c2VzJvQ3ZDeUY3bkRaVE1KdnJLY1JqOTlTVUhRUHZTanpNM2djSExZN0FfWG1fU2FJ?oc=5\" target=\"_blank\">Punjab plans to use AI to boost agriculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1pIR3ByVmwzYkJqYnlaY0M0SEpoOXNKQm1xTlVFXzhzUnlVeWo2bEdrQkU1alBqZWV2VDBJZ01ZS0FQb29XT2dQZXU3LTRCSlJzc2RXemU2bW9hTXByY2VybjB2V29acmdmLVlGUFNhWnBMOEd5OTBpa1Q5UXRMaVNwanlFS0huMHVHbXlkZk9nU0xDeURXSUxmOEdDQ2FjVzhPX2tmVGpFS2JkaDd6ZVZvUVJJQUlPbWtWQWd0RFBwaWNMY29rSnJMRkhiQdIB0wFBVV95cUxPdUVON3phdXUwbDBXbUd0NjF1bjVuZ01CQnRNUFVyTnhJSENTd0g1aW5xX20tZGFJMU0zYnc5LTJJZ3d5T1dPazVVLXFTRXZzZ3RkU1ptQkt2amg3ZFBLalBMbFpNd2dSN0FLMjdWZ3gyOGFFYThTYlp6WW9GU2txVzdGT3JIZjV4OVNhZHdJeDNLR0prQ1J0NFJRUzd6cFZTT1c2VzJvQ3ZDeUY3bkRaVE1KdnJLY1JqOTlTVUhRUHZTanpNM2djSExZN0FfWG1fU2FJ?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Thu, 01 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab launches AI-driven career guidance in government schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3hsNF9pTmVEN3V1NjljNFgya29ZQi1FZUZoZV9iLUNRNjdseDYyWDh4QUVMeGx0VlRRWDEyczVaWm51bFAxSF9sS3ZiUlZ4Qk1kVkpvRWE2UGNQMGZPbEEwNk9OTW1NM3JWTS1qejh0LXE0a1NiNGlGZ1hZdDBRTDdXb2NvYzhDQWhoa051QlBGQkdMZXdkNHloSUxzNGpTOEpzTnFJZEIzejZQTTl2TTZMdU5lSmVQak1zRUtsZDVNTGRaeFUtLVNFaWdUZzJQdlpXcjNPVdIB3AFBVV95cUxQbVBBTlYyb2lhM2lQVWNMc2Y5cWNNSUtGcC1vNEdqc3ZXU0NDdjNyd1Z3eTZaVnYwNGNMWjE5VnhadERZTmJoejE3Y1d2QkhQZktlaEZnVmsxUEgwR19WTXVqT0hJTDI3WVV2LU5QdnhKSnlHN0J1LTZTZGNUMWFjOHI1NXdtSS12Xy0teWR5STVqNlk4RXdnS09pTWszUmNxTWlXWjIzc09YME1DeTQwM1V1OTJnNFg2S195Mk1QWU9lNkctYWM0UlY0R2otOTlrVEdKRnhBRDlaRzZm?oc=5\" target=\"_blank\">Punjab launches AI-driven career guidance in government schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3hsNF9pTmVEN3V1NjljNFgya29ZQi1FZUZoZV9iLUNRNjdseDYyWDh4QUVMeGx0VlRRWDEyczVaWm51bFAxSF9sS3ZiUlZ4Qk1kVkpvRWE2UGNQMGZPbEEwNk9OTW1NM3JWTS1qejh0LXE0a1NiNGlGZ1hZdDBRTDdXb2NvYzhDQWhoa051QlBGQkdMZXdkNHloSUxzNGpTOEpzTnFJZEIzejZQTTl2TTZMdU5lSmVQak1zRUtsZDVNTGRaeFUtLVNFaWdUZzJQdlpXcjNPVdIB3AFBVV95cUxQbVBBTlYyb2lhM2lQVWNMc2Y5cWNNSUtGcC1vNEdqc3ZXU0NDdjNyd1Z3eTZaVnYwNGNMWjE5VnhadERZTmJoejE3Y1d2QkhQZktlaEZnVmsxUEgwR19WTXVqT0hJTDI3WVV2LU5QdnhKSnlHN0J1LTZTZGNUMWFjOHI1NXdtSS12Xy0teWR5STVqNlk4RXdnS09pTWszUmNxTWlXWjIzc09YME1DeTQwM1V1OTJnNFg2S195Mk1QWU9lNkctYWM0UlY0R2otOTlrVEdKRnhBRDlaRzZm?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Mon, 22 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Tightens Real Estate Rules: Full Land Title Now Mandatory For CLU Approvals",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlpvY0dBSzhyUlY3bzI2dDZ4RGR1ZTUtaHR4OHdRTjVqdkt6UDVxVjduQkMzcDNrNjAwWENlZDI5RUlLblk5Sk9mMW1BMGs2M3JMV3ZrVDlRN0hFZGNySnV4Z0xHa2lvUzc4TXdyajNWd3daX0kzZ3pMVE1xWnl3aXJ6V0JhY3RkTTY3SzBxeVhKUHMxdV96YkZIaGU5MTBPck9HMDBfTjJBdXJBNFhucjhhT2ZaaWFQ0gHGAUFVX3lxTE1jSkh1RUFEMzY3TllTM2hWTGlLWGZRc1o1T1duMFVZcXJVN3ltMXVCNk9wUDZMR09tc09QV0dTdWp0WGxoQ3ZpOFdNWHAyb1hWZTAyZVlVcXd4TThtX0VLS2p3cGt1TGRHR0dMeDFMOTBYa2V5c0RsS29ya3hPdG1iWFpsMGs5ZllxSDloRHhDMWxjV3JHd25yRXVJNmJSVkhlT2JGWjgyNHlIU1VDMnJLVGhfQWtDUHNuQjNrRFB6YUlYcmUzUQ?oc=5\" target=\"_blank\">Punjab Tightens Real Estate Rules: Full Land Title Now Mandatory For CLU Approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Money</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlpvY0dBSzhyUlY3bzI2dDZ4RGR1ZTUtaHR4OHdRTjVqdkt6UDVxVjduQkMzcDNrNjAwWENlZDI5RUlLblk5Sk9mMW1BMGs2M3JMV3ZrVDlRN0hFZGNySnV4Z0xHa2lvUzc4TXdyajNWd3daX0kzZ3pMVE1xWnl3aXJ6V0JhY3RkTTY3SzBxeVhKUHMxdV96YkZIaGU5MTBPck9HMDBfTjJBdXJBNFhucjhhT2ZaaWFQ0gHGAUFVX3lxTE1jSkh1RUFEMzY3TllTM2hWTGlLWGZRc1o1T1duMFVZcXJVN3ltMXVCNk9wUDZMR09tc09QV0dTdWp0WGxoQ3ZpOFdNWHAyb1hWZTAyZVlVcXd4TThtX0VLS2p3cGt1TGRHR0dMeDFMOTBYa2V5c0RsS29ya3hPdG1iWFpsMGs5ZllxSDloRHhDMWxjV3JHd25yRXVJNmJSVkhlT2JGWjgyNHlIU1VDMnJLVGhfQWtDUHNuQjNrRFB6YUlYcmUzUQ?oc=5",
+   "source_name": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "published_raw": "Mon, 15 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Makes AI Mandatory in Schools, Governance Drive",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmcxVW9rcUNyNHFhcElza0NUSldId2Z5QTMzakRpbXFUSkpsQUZWekFEYjVlaUEwRUlzRDFwYlJrd1c0emxkQnVSUnExanBOeDhxNnhWeE5MNnk4TkdyMmVvMWNzQ2RKaVFHaUR3QWhGc2NKZzRPQTVZZTBQbWlSR2hTbnVDU0J5?oc=5\" target=\"_blank\">Punjab Makes AI Mandatory in Schools, Governance Drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Pakistan</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmcxVW9rcUNyNHFhcElza0NUSldId2Z5QTMzakRpbXFUSkpsQUZWekFEYjVlaUEwRUlzRDFwYlJrd1c0emxkQnVSUnExanBOeDhxNnhWeE5MNnk4TkdyMmVvMWNzQ2RKaVFHaUR3QWhGc2NKZzRPQTVZZTBQbWlSR2hTbnVDU0J5?oc=5",
+   "source_name": "Digital Pakistan",
+   "source_domain": "digitalpakistan.pk",
+   "published_raw": "Wed, 28 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab cabinet clears ‘India’s first’ private open digital varsities policy; policy aligns with establish",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOHFMcTJCYkkzcjBwcXNNcUZHOGRKbEpDWHlOTVVNdl9wem80ZFUzeXplYmZWc2VmMGpxUlBURHhLNkhHMjZnbklnbk1hWDRGOU53TXdVOVY2T2hsakVxaDdPdzNLZmgya0tGVlp1NzUxeFAzNG03UzVpbHNhR1lnUWR5NnpzeFhyalhEY3JWOXo5emhRTGxhblJnLUdDNnQ0b2pzYWdNVFZkLVFrVEI5eFlvMlpvQnBPN2JFWTVOUTJVT1k0NkY0YUdkTjU1b2owZVppa3ZFQzBRcDFLVEdDNUZIM3puTkNYWUMxNHFydDJ4VGVVcEw3Q0JGSlh5Wkl1TTlGMjBTNmZZcG5SSGJkWXVoLXo5STBRdHJwLXZlVlJNYzVNNzF0OUVqOXAwM1ZldUdxeDhqeXZnNm_SAcACQVVfeXFMUHY0cGJHelp6elJmb3JQTExrTjlrQU4wdTlDOUVQMGpRWFZ4UFZYdGRUa1pyZzJSeXhONVNybjZOblpkSDA1aF9oWERFZGJPNUNTcHBNdjNBa1RJLVFNN3hWa1JCZHpvLTFzTy1kZDRPS25Cb0R2TFc3dEVxSFMxaTFPVGkyY3M1YmxRbU9mSHkwSi0xSm1FUkJxUFktUDR2b3VRbXVrNGVhSWQ1TmVqUXZMbmJXNUx3NEZYLTF2RlR4bldjdElrLWhJVEc4QXBNeDBhYmp5eEtHQWlYbnF4SFk1eUFJcEt6Nzk4OUF0eTFKYWNQdlRlMkdWUHRhS0xkVzg3elhiSDJ6cmgwM1A0cG52eHFUTWFVU1p3SkM5bk9VRVVGbXpjSWNmbm9WOGh6MEgwbGU1MEhnZ3JMYkRYU2o?oc=5\" target=\"_blank\">Punjab cabinet clears ‘India’s first’ private open digital varsities policy; policy aligns with establish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOHFMcTJCYkkzcjBwcXNNcUZHOGRKbEpDWHlOTVVNdl9wem80ZFUzeXplYmZWc2VmMGpxUlBURHhLNkhHMjZnbklnbk1hWDRGOU53TXdVOVY2T2hsakVxaDdPdzNLZmgya0tGVlp1NzUxeFAzNG03UzVpbHNhR1lnUWR5NnpzeFhyalhEY3JWOXo5emhRTGxhblJnLUdDNnQ0b2pzYWdNVFZkLVFrVEI5eFlvMlpvQnBPN2JFWTVOUTJVT1k0NkY0YUdkTjU1b2owZVppa3ZFQzBRcDFLVEdDNUZIM3puTkNYWUMxNHFydDJ4VGVVcEw3Q0JGSlh5Wkl1TTlGMjBTNmZZcG5SSGJkWXVoLXo5STBRdHJwLXZlVlJNYzVNNzF0OUVqOXAwM1ZldUdxeDhqeXZnNm_SAcACQVVfeXFMUHY0cGJHelp6elJmb3JQTExrTjlrQU4wdTlDOUVQMGpRWFZ4UFZYdGRUa1pyZzJSeXhONVNybjZOblpkSDA1aF9oWERFZGJPNUNTcHBNdjNBa1RJLVFNN3hWa1JCZHpvLTFzTy1kZDRPS25Cb0R2TFc3dEVxSFMxaTFPVGkyY3M1YmxRbU9mSHkwSi0xSm1FUkJxUFktUDR2b3VRbXVrNGVhSWQ1TmVqUXZMbmJXNUx3NEZYLTF2RlR4bldjdElrLWhJVEc4QXBNeDBhYmp5eEtHQWlYbnF4SFk1eUFJcEt6Nzk4OUF0eTFKYWNQdlRlMkdWUHRhS0xkVzg3elhiSDJ6cmgwM1A0cG52eHFUTWFVU1p3SkM5bk9VRVVGbXpjSWNmbm9WOGh6MEgwbGU1MEhnZ3JMYkRYU2o?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sat, 10 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Retirement Policy For Disabled Employee In Haryana Unconstitutional, Rules Punjab And Haryana High Court",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUNFY29udV9vSVJmLWRRdGhKcDB2cmdwMFN0cllsSU1vZTVVb1ZFZDV5bHpJM0VzYlhUQ0wtUVJSWVVUOEdQTEFMOUpGcVNWX1hmakxWZWpKSEpEdGpKMHVvQnRFOGh2c3JyX3BTMVV1WV91TGlETTZVMGFrVmYwT2pHc1ZwWi1ZTGpYcVVPSGtXbFlUY1NhNUgxdzRjeVBQZXVqSW9uNlRGX3BlQzZSa091VG9pQmVXczRKR1NYR1VRMGhZdlhkWHpEdTNqQy1VY3NN0gHgAUFVX3lxTFBDTHVNcGhYOVA0cTZSOU9TUHkwejM5MjJFVkVWTklnMU8zTTVyN0ZYMlVjam1IempCNlpESEFyNUJCRU9rNWx4TXFBT2w5YkFtN2dfQi15eTFEbDMwTVlfcHZoOEpTaDNxbmM4Unl0U2ZwSHhFU2FIU2hjMTJJU0hIb3pxMDd3djh6UzBDbWZobTRTMzRUM0t0RFdRSGdHbC1SQmtuVDdqUFdsWkx5emprSHdFNVlINjBYbU9jb21oNVhjYTdOM2pudHYxcFUtTC1rcHVGd01VZ2lKRVJqeXJT?oc=5\" target=\"_blank\">Retirement Policy For Disabled Employee In Haryana Unconstitutional, Rules Punjab And Haryana High Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Outlook Money</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUNFY29udV9vSVJmLWRRdGhKcDB2cmdwMFN0cllsSU1vZTVVb1ZFZDV5bHpJM0VzYlhUQ0wtUVJSWVVUOEdQTEFMOUpGcVNWX1hmakxWZWpKSEpEdGpKMHVvQnRFOGh2c3JyX3BTMVV1WV91TGlETTZVMGFrVmYwT2pHc1ZwWi1ZTGpYcVVPSGtXbFlUY1NhNUgxdzRjeVBQZXVqSW9uNlRGX3BlQzZSa091VG9pQmVXczRKR1NYR1VRMGhZdlhkWHpEdTNqQy1VY3NN0gHgAUFVX3lxTFBDTHVNcGhYOVA0cTZSOU9TUHkwejM5MjJFVkVWTklnMU8zTTVyN0ZYMlVjam1IempCNlpESEFyNUJCRU9rNWx4TXFBT2w5YkFtN2dfQi15eTFEbDMwTVlfcHZoOEpTaDNxbmM4Unl0U2ZwSHhFU2FIU2hjMTJJU0hIb3pxMDd3djh6UzBDbWZobTRTMzRUM0t0RFdRSGdHbC1SQmtuVDdqUFdsWkx5emprSHdFNVlINjBYbU9jb21oNVhjYTdOM2pudHYxcFUtTC1rcHVGd01VZ2lKRVJqeXJT?oc=5",
+   "source_name": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "published_raw": "Sun, 16 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Bring back AI-based grain testing: Punjab rice industry",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1VzYnhHWVhKVUU5RFhEalM4UWNia1BtOEFBeHZHZHhfc2xZOXJxY1JEdkE1eEJkdmo2REVIZ0dTV1pJb292d25EcmJuUzdsTUM1Z0RkemFQaThXcXdtUEdfTThlb2Nod3lFMFJ1LWJsMkFuZnU1alJieEhzRkFiQlVFbnhuRmZxaUw4eHd1ajdWcWF1SjBlOEZpZHh6S29NVGFOZ3NneDNrd3IzVXBPdFlFSVRkVlZRZG96OHJoSHItVXNfcXQ0dzhfem3SAdIBQVVfeXFMUGxscnZwbUstVmZjU1ZIc1VSc29JUFF0RmQwMWFoQVNham9RX2taT2ZsQUVkSXRlRHA2eDBrbmxaemNZM3ZOcllKZ0pYZW1MWG5MNlRIQ0ExN3FVRXJDSFlLMHhYRTB4bTZqVlFyUlhUMFpPUzBhSFp0dVNzSzYtOXVMUTFuRENCMklIOU1fLUdOTHgtU05ILXNMWnhjd0h3M19CZmJZTTJ2eGxsMzFId3ZwOVdmaEVDUzVfRVZxOHg0U0ZkVHNnU0tGVV8wdk9JZndn?oc=5\" target=\"_blank\">Bring back AI-based grain testing: Punjab rice industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1VzYnhHWVhKVUU5RFhEalM4UWNia1BtOEFBeHZHZHhfc2xZOXJxY1JEdkE1eEJkdmo2REVIZ0dTV1pJb292d25EcmJuUzdsTUM1Z0RkemFQaThXcXdtUEdfTThlb2Nod3lFMFJ1LWJsMkFuZnU1alJieEhzRkFiQlVFbnhuRmZxaUw4eHd1ajdWcWF1SjBlOEZpZHh6S29NVGFOZ3NneDNrd3IzVXBPdFlFSVRkVlZRZG96OHJoSHItVXNfcXQ0dzhfem3SAdIBQVVfeXFMUGxscnZwbUstVmZjU1ZIc1VSc29JUFF0RmQwMWFoQVNham9RX2taT2ZsQUVkSXRlRHA2eDBrbmxaemNZM3ZOcllKZ0pYZW1MWG5MNlRIQ0ExN3FVRXJDSFlLMHhYRTB4bTZqVlFyUlhUMFpPUzBhSFp0dVNzSzYtOXVMUTFuRENCMklIOU1fLUdOTHgtU05ILXNMWnhjd0h3M19CZmJZTTJ2eGxsMzFId3ZwOVdmaEVDUzVfRVZxOHg0U0ZkVHNnU0tGVV8wdk9JZndn?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 08 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab govt forms AI cell to nudge adaption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWxpcFNjb25DU0s0TTM5VEd3QnRfa1owaVVfdkUzdGRxejg0MzlySTVxVzdOU3luWk5JZmJ1MFE0QkIwZU02WHA3MDRfem1GOGwxcTFYV1JJaHZUbW42MHhDdmdvaUpUUklCeFBkdkdSQTN2OFZyME9MeG85OFdVdWFVcjlYUGPSAY8BQVVfeXFMTWVJVnZzMEFNaGc2d183NEUyWWpXMzZ2b1ZidEFwMVYtUEZoUHlSeGVRRDMyVVlSSEstV3VqdDRJMmpjRXhjSDFjZ0hqcUlzYVlzWmJEOFZselBoSm92SWJSNmpjUlZtX3IwYVM1aHN2RlJZYkhkd2pyNDlMOWVzZURjMnlUN3dXMFNlQjlMa2c?oc=5\" target=\"_blank\">Punjab govt forms AI cell to nudge adaption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWxpcFNjb25DU0s0TTM5VEd3QnRfa1owaVVfdkUzdGRxejg0MzlySTVxVzdOU3luWk5JZmJ1MFE0QkIwZU02WHA3MDRfem1GOGwxcTFYV1JJaHZUbW42MHhDdmdvaUpUUklCeFBkdkdSQTN2OFZyME9MeG85OFdVdWFVcjlYUGPSAY8BQVVfeXFMTWVJVnZzMEFNaGc2d183NEUyWWpXMzZ2b1ZidEFwMVYtUEZoUHlSeGVRRDMyVVlSSEstV3VqdDRJMmpjRXhjSDFjZ0hqcUlzYVlzWmJEOFZselBoSm92SWJSNmpjUlZtX3IwYVM1aHN2RlJZYkhkd2pyNDlMOWVzZURjMnlUN3dXMFNlQjlMa2c?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Mon, 19 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Ali Dar appointed CM Maryam's aide on Punjab AI and special initiatives",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVJPNlM2cmRsZlZvUzk0ZDdVUGVTYUtnbVZpOXk1VnBGTS16a05Ia2Y1MG9XQ2NTMmtHNjRzdXFYa1NwUmZnUE85OHNkMUlnNjF3VWpaTEtyRzZMMWZpWmU2NDhXb2NwQXA4M2lKZXhnRXB0WXFOOTU3QlpUbXd2NnN3UHA4REljaXp5YXJrRDN1ZzNjR18ySDd3eTdrU2luczR2Tnpn?oc=5\" target=\"_blank\">Ali Dar appointed CM Maryam's aide on Punjab AI and special initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Geo News</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVJPNlM2cmRsZlZvUzk0ZDdVUGVTYUtnbVZpOXk1VnBGTS16a05Ia2Y1MG9XQ2NTMmtHNjRzdXFYa1NwUmZnUE85OHNkMUlnNjF3VWpaTEtyRzZMMWZpWmU2NDhXb2NwQXA4M2lKZXhnRXB0WXFOOTU3QlpUbXd2NnN3UHA4REljaXp5YXJrRDN1ZzNjR18ySDd3eTdrU2luczR2Tnpn?oc=5",
+   "source_name": "Geo News",
+   "source_domain": "geo.tv",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:19+00:00"
+  }
+ ]
+}

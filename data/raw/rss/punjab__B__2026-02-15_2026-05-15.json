@@ -1,0 +1,120 @@
+{
+ "region": "Punjab",
+ "group": "B",
+ "query": "(Punjab) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Punjab%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:27+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Partners With IIT Ropar To Use AI For Real Time Crime Tracking",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmUtVzNBcTRsVzNhRkp3cWNKR3NjOXYtWEZiZ2QwRzhNbGh6VmpqUGhRV3NyNWJPbnRRRjZmTm0yeDdFZE1RNE90TzFzTDNfMVB2dzRyQzdVajNTVmxzU2ZwSVlwMXBXZnN2TDNvTUJNWmVsYkhWc1dYSi13VEUyZFExamU2Qm9TaGhodDVHWlhWWkh6TndpRlZsTmQta3pCb0JramVJT0RtZDVMWW1Z0gG3AUFVX3lxTE5mcDJLZmgzcjRyeTlDSW52Z0JKd3hWNnRKaFZpYVMtbzFZdlFia1hkTUExbHBiRmtTdU5RX0ZmclZHbElvWEJYRGVFY1VUMnJpeWtlbm04T3hCY0pXTkFNd1NISWdMN1U5VDZCT0xUUjYzTmVZbW0yQkMxTTJ6ZkYzUThVRnc0QS1aT2JET2pIX0JsbFFhNVdCS2VQUDY5MVo2OHFxQWo1OXBOdHZkbm85T0NqY1RiMA?oc=5\" target=\"_blank\">Punjab Partners With IIT Ropar To Use AI For Real Time Crime Tracking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmUtVzNBcTRsVzNhRkp3cWNKR3NjOXYtWEZiZ2QwRzhNbGh6VmpqUGhRV3NyNWJPbnRRRjZmTm0yeDdFZE1RNE90TzFzTDNfMVB2dzRyQzdVajNTVmxzU2ZwSVlwMXBXZnN2TDNvTUJNWmVsYkhWc1dYSi13VEUyZFExamU2Qm9TaGhodDVHWlhWWkh6TndpRlZsTmQta3pCb0JramVJT0RtZDVMWW1Z0gG3AUFVX3lxTE5mcDJLZmgzcjRyeTlDSW52Z0JKd3hWNnRKaFZpYVMtbzFZdlFia1hkTUExbHBiRmtTdU5RX0ZmclZHbElvWEJYRGVFY1VUMnJpeWtlbm04T3hCY0pXTkFNd1NISWdMN1U5VDZCT0xUUjYzTmVZbW0yQkMxTTJ6ZkYzUThVRnc0QS1aT2JET2pIX0JsbFFhNVdCS2VQUDY5MVo2OHFxQWo1OXBOdHZkbm85T0NqY1RiMA?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Thu, 16 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Police Partners with IIT Ropar to Deploy AI for Crime Prevention",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ1YwLVpmS0RXczhDc0dzT29SWGRTV3F2R2xUVnlMMjNYTmI1LUFTc3ZfNlRfVTFRaUVuc2M2RlMzbEpRaHBRU2pxclQ5ZHFrZXRSd25wSEJTRWVrYVFhMHcxX2dJMi1JUEpXNlV5aWowWVJReThIUExNSE82WHR1NHBqQk9kdF9jdVBFMjlBOGR4cy1yeXF0NURQTkZmbEFN0gGjAUFVX3lxTFA0em1FMXBjWlJmV0c0cjBqVHE4WWxaRmJubUlhdEhYbkczVFlhT25uQW5ISjdiSlVYa3k1c1A4WTNGSFFxMU5GbzRWbHh0b0NRdHVkZkRQeHFEN3JZMVlCczFhVkpBdnNEZ1dkaElJQ05mSmFOV2xScXh3TlozZFl5ZTlndmVCR0ZQQl9tdG9Id3Z6V1BQVW1LSXByV1ZYMzNSUFU?oc=5\" target=\"_blank\">Punjab Police Partners with IIT Ropar to Deploy AI for Crime Prevention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ1YwLVpmS0RXczhDc0dzT29SWGRTV3F2R2xUVnlMMjNYTmI1LUFTc3ZfNlRfVTFRaUVuc2M2RlMzbEpRaHBRU2pxclQ5ZHFrZXRSd25wSEJTRWVrYVFhMHcxX2dJMi1JUEpXNlV5aWowWVJReThIUExNSE82WHR1NHBqQk9kdF9jdVBFMjlBOGR4cy1yeXF0NURQTkZmbEFN0gGjAUFVX3lxTFA0em1FMXBjWlJmV0c0cjBqVHE4WWxaRmJubUlhdEhYbkczVFlhT25uQW5ISjdiSlVYa3k1c1A4WTNGSFFxMU5GbzRWbHh0b0NRdHVkZkRQeHFEN3JZMVlCczFhVkpBdnNEZ1dkaElJQ05mSmFOV2xScXh3TlozZFl5ZTlndmVCR0ZQQl9tdG9Id3Z6V1BQVW1LSXByV1ZYMzNSUFU?oc=5",
+   "source_name": "Rediff",
+   "source_domain": "rediff.com",
+   "published_raw": "Thu, 16 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "IIT-Ropar to deploy 100 AI weather stations across Punjab",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU00yRVdWd2ppaFVnQks2c2dQckFEcGM0V1IxUU9jRFc4ZDkzdHh0RUwxck9XWGJBOEJHbFJ1M2gwUnJNMmFWZXJ1clRURTVxTTBJUWM4dkFIWWtQMXo2QS1kNkVsY0RBVWNEeFRVSFhGTnhhSnBhMktrOV9ZMmFQbjhFQi1EN0VGdUNmYVk2aDlRMVBldFhmRlVPREtKcXR2RmxSN3dIMzkyQ0F2b3ZxbW1aSzAxaDV0V2xtRDBGVk5iS0RZWDYyNU0yYVJrMTBtaVJfa0hWLXo5YzJWTFg1WXRuM1E4YknSAewBQVVfeXFMUEtPZkZKTmhianU4Z1VWM2VNd0lqMW8yOFNmaW1Qc3dGTFJtMFctYzB0TjhpTmZZTXFLSW11a1h1U3NVOWFuVWVIcHBmMTNkd1ZUTXZGMWhiWXdNU1ZDTDJlTEc2TXp4WTJnNTh5X2cwbGVQbFdfYnYzQVJRUkxESTBQak5ETDRfSXAwRlRveTE0SVgtbVBPVkxJa3VWdUZKOGgxeXBRV1JvM3JkV3RlNFBCdkhORnRoSWdoNUtpX2g3ZkVpR05JLUp2NVFuaks0cUhaQ0RNOGJWejVWZWh3UGhCcHNUeC1LQ1pCRGw?oc=5\" target=\"_blank\">IIT-Ropar to deploy 100 AI weather stations across Punjab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU00yRVdWd2ppaFVnQks2c2dQckFEcGM0V1IxUU9jRFc4ZDkzdHh0RUwxck9XWGJBOEJHbFJ1M2gwUnJNMmFWZXJ1clRURTVxTTBJUWM4dkFIWWtQMXo2QS1kNkVsY0RBVWNEeFRVSFhGTnhhSnBhMktrOV9ZMmFQbjhFQi1EN0VGdUNmYVk2aDlRMVBldFhmRlVPREtKcXR2RmxSN3dIMzkyQ0F2b3ZxbW1aSzAxaDV0V2xtRDBGVk5iS0RZWDYyNU0yYVJrMTBtaVJfa0hWLXo5YzJWTFg1WXRuM1E4YknSAewBQVVfeXFMUEtPZkZKTmhianU4Z1VWM2VNd0lqMW8yOFNmaW1Qc3dGTFJtMFctYzB0TjhpTmZZTXFLSW11a1h1U3NVOWFuVWVIcHBmMTNkd1ZUTXZGMWhiWXdNU1ZDTDJlTEc2TXp4WTJnNTh5X2cwbGVQbFdfYnYzQVJRUkxESTBQak5ETDRfSXAwRlRveTE0SVgtbVBPVkxJa3VWdUZKOGgxeXBRV1JvM3JkV3RlNFBCdkhORnRoSWdoNUtpX2g3ZkVpR05JLUp2NVFuaks0cUhaQ0RNOGJWejVWZWh3UGhCcHNUeC1LQ1pCRGw?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "AI-led startups in MSME, healthcare sectors need of hour: Punjab minister Sanjeev Arora",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWRSMjIzSU9COEZ2V1J3WUxucC1obUIwMmFyQkFMZlNqQmxyOENOREdPN2xsOTk4S2hOWjJqUjE4UWJGMGEwTXJVbUdRb3JKR1JrcWxhcDNKaXl3NGh0ekNUWWV6QnU3TDY1M0ptclZXd092UXBiUnFpMjBEVlJhWGg3SHpTZGJTU0t1RkxtU2ljTzExeHJCTlFaZHVYN2JTMy1WWkRQWDdrQ3pnQV90R0VOUzl1WE8zVTh2Z1RrbjBQazJndXBmNzR4MNIBzwFBVV95cUxNdDVJLWJMM2R4Q2dnMjF4ay1FTjlLVk5GUkNIVXNvYk5TT2RySHNDLW8wWXdKczZqNlR1OUFCVHBnRmFWdzFabVExd0ZDVl9wckFFdGw2dHM3UWJCbEtGYUctR2drVDdHWlhJLXJ0VUtqVEJFNV9SekpTdXNCV3lDalkwQ2tSRXZzWWJ0TUxmZTY0UWh0WU9kVFZXV1NPT1cxWnVESE9aRGw3OXZkclM4UHB3Z0EtTHVyalk5ZzFHeWhWNno4dFhpSGdSbG1uc2s?oc=5\" target=\"_blank\">AI-led startups in MSME, healthcare sectors need of hour: Punjab minister Sanjeev Arora</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWRSMjIzSU9COEZ2V1J3WUxucC1obUIwMmFyQkFMZlNqQmxyOENOREdPN2xsOTk4S2hOWjJqUjE4UWJGMGEwTXJVbUdRb3JKR1JrcWxhcDNKaXl3NGh0ekNUWWV6QnU3TDY1M0ptclZXd092UXBiUnFpMjBEVlJhWGg3SHpTZGJTU0t1RkxtU2ljTzExeHJCTlFaZHVYN2JTMy1WWkRQWDdrQ3pnQV90R0VOUzl1WE8zVTh2Z1RrbjBQazJndXBmNzR4MNIBzwFBVV95cUxNdDVJLWJMM2R4Q2dnMjF4ay1FTjlLVk5GUkNIVXNvYk5TT2RySHNDLW8wWXdKczZqNlR1OUFCVHBnRmFWdzFabVExd0ZDVl9wckFFdGw2dHM3UWJCbEtGYUctR2drVDdHWlhJLXJ0VUtqVEJFNV9SekpTdXNCV3lDalkwQ2tSRXZzWWJ0TUxmZTY0UWh0WU9kVFZXV1NPT1cxWnVESE9aRGw3OXZkclM4UHB3Z0EtTHVyalk5ZzFHeWhWNno4dFhpSGdSbG1uc2s?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Sun, 12 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "HC notice to Centre, Google, Meta, X over plea for regulation of AI content",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGd1ajdwVUJrUEdLSlNac053VlN5Q1BpVUVLVV9iZUtKaUZGSm1LZjVDSjJhOE1GcGJWS1NDdnBBek9fbmNwWks0SFdSNm9GNG55RnRyZWp0U2pRWWZDaVlKTlktUFJhUEc5MnJ4OTJIdExfckJ0LW9NWUhJVE9kbXFRdFVhTHAzdnNfLTBYTl9oZHlNV1hVZUZycVBXTmJRaGNFRXpZTTZPeFFMRVhuVXl6bE5mRDFFTnVMRVQwa0RuVmNQazRKN0k3ZC1wN0xVMjlYOHB3SlhvQmIySHhiSklDUmI1cVh4N0xaZ0tmNkpOMHUwdFpFRWVpM0h5eGZCM2dORjRyX3AzR2tRZUHSAZICQVVfeXFMT09UVDhqRXBFVUdJZUdhLXRFNWFMd1I0a3FYbUMwSmlMZS1NWjBQd0Q1d1dLUzd3aTV4OG10R2Y4eS1GQUh0TmlkMXNNNW9VaUltTmRaUy1tdnZzQnBVd1J3Q3FQZ0JWTE9qaG9ZeHJqbWFSMk9CUzJNMVhyWndiaF9OWFd5ZzNwWFI3eGtheTlNMFYtVFRYZ0pMUzNKa1d5UmxTaUZpMHRRYjFRSm5fT0p6dUg2cFltaHNBNzBOVVNiaGctNjRGUldMbVNHNVdyQTJwcjRrYmZKS29FNWgtOE54YmkxZ2l0dHBNRGRHNjlyXzRIdG1TdF9vaHpMZmN6SWdzeDRDQUNvMTZvdVRfRU5WQQ?oc=5\" target=\"_blank\">HC notice to Centre, Google, Meta, X over plea for regulation of AI content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETLegalWorld.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcGd1ajdwVUJrUEdLSlNac053VlN5Q1BpVUVLVV9iZUtKaUZGSm1LZjVDSjJhOE1GcGJWS1NDdnBBek9fbmNwWks0SFdSNm9GNG55RnRyZWp0U2pRWWZDaVlKTlktUFJhUEc5MnJ4OTJIdExfckJ0LW9NWUhJVE9kbXFRdFVhTHAzdnNfLTBYTl9oZHlNV1hVZUZycVBXTmJRaGNFRXpZTTZPeFFMRVhuVXl6bE5mRDFFTnVMRVQwa0RuVmNQazRKN0k3ZC1wN0xVMjlYOHB3SlhvQmIySHhiSklDUmI1cVh4N0xaZ0tmNkpOMHUwdFpFRWVpM0h5eGZCM2dORjRyX3AzR2tRZUHSAZICQVVfeXFMT09UVDhqRXBFVUdJZUdhLXRFNWFMd1I0a3FYbUMwSmlMZS1NWjBQd0Q1d1dLUzd3aTV4OG10R2Y4eS1GQUh0TmlkMXNNNW9VaUltTmRaUy1tdnZzQnBVd1J3Q3FQZ0JWTE9qaG9ZeHJqbWFSMk9CUzJNMVhyWndiaF9OWFd5ZzNwWFI3eGtheTlNMFYtVFRYZ0pMUzNKa1d5UmxTaUZpMHRRYjFRSm5fT0p6dUg2cFltaHNBNzBOVVNiaGctNjRGUldMbVNHNVdyQTJwcjRrYmZKS29FNWgtOE54YmkxZ2l0dHBNRGRHNjlyXzRIdG1TdF9vaHpMZmN6SWdzeDRDQUNvMTZvdVRfRU5WQQ?oc=5",
+   "source_name": "ETLegalWorld.com",
+   "source_domain": "legal.economictimes.indiatimes.com",
+   "published_raw": "Sat, 07 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab Police to Deploy AI-Powered Smart Patrol Vans",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2R3ZU9iRE81V3pyYjlfQWVKSzdpYnFzQ25reEptaEVJaW9wRHJ1dGxaVldZTFZPYTV5THdYNUEwSGtaczE4czVpcHlpYUZwQ2o4OGNXY0FzOXo1WkhLakpIWUEwYUNRWHRpZzhpTkNfWEc3Qmdfa0xNdTNNRzRxa1dheFV5MGc?oc=5\" target=\"_blank\">Punjab Police to Deploy AI-Powered Smart Patrol Vans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Pakistan</font>",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2R3ZU9iRE81V3pyYjlfQWVKSzdpYnFzQ25reEptaEVJaW9wRHJ1dGxaVldZTFZPYTV5THdYNUEwSGtaczE4czVpcHlpYUZwQ2o4OGNXY0FzOXo1WkhLakpIWUEwYUNRWHRpZzhpTkNfWEc3Qmdfa0xNdTNNRzRxa1dheFV5MGc?oc=5",
+   "source_name": "Digital Pakistan",
+   "source_domain": "digitalpakistan.pk",
+   "published_raw": "Mon, 27 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab’s AI office, BoP sign MoU",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qck54Q0dVQlJraUxwZ0ZJajNraTBRUEVaUzFVRHNJVEhUWHZ4dGJjWHcwSzNNNkw1dzRhRDRQZmo1em1DMnpWOUFfMTF2clhGR1EwTlVJSW1OUURzQ1VXSDVybW1HLWlMcVQ5R1VZV3RqamVNaHNJcWJB0gFWQVVfeXFMT3RTSHNuenNCWFZsTmlRRUdxQ1ZTRVo2TWV0NFZpd080N2VfYlhVOXVSYndLTVFnYm1pVXBpY05TeWNueGNja1ZfYU1qa1UzSUtIQURONnc?oc=5\" target=\"_blank\">Punjab’s AI office, BoP sign MoU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Recorder</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Qck54Q0dVQlJraUxwZ0ZJajNraTBRUEVaUzFVRHNJVEhUWHZ4dGJjWHcwSzNNNkw1dzRhRDRQZmo1em1DMnpWOUFfMTF2clhGR1EwTlVJSW1OUURzQ1VXSDVybW1HLWlMcVQ5R1VZV3RqamVNaHNJcWJB0gFWQVVfeXFMT3RTSHNuenNCWFZsTmlRRUdxQ1ZTRVo2TWV0NFZpd080N2VfYlhVOXVSYndLTVFnYm1pVXBpY05TeWNueGNja1ZfYU1qa1UzSUtIQURONnc?oc=5",
+   "source_name": "Business Recorder",
+   "source_domain": "brecorder.com",
+   "published_raw": "Fri, 10 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab eyes AI superiority",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWnVNd1V2QnRlQ2N4YllqbDQxaDJ5VUlKZmpBMHgwVDhEcnJoV05ZM3FwUjVuVjFtUDdXSXE5V3R6MWZ0VUw4R0VkYVVuZVhlbVJ6THdVRWdFWGpSaWVMSmxvVVl3WWhSWmkyVUdZRFDSAXhBVV95cUxNQWlYeHlJaHllVkswREczNXBXNHU0NjJLcjhGQVZvdUk4YnVpbVAxMkx6Q2hvU3BsQkJTdmd4eVFBX2JoVGlUZUl1UVk1bVMtWFpGSThRWktZT2NDcUczUnNNQzQwVzFpMW1MZEh4M3dZeEZ0b3Q4cTU?oc=5\" target=\"_blank\">Punjab eyes AI superiority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWnVNd1V2QnRlQ2N4YllqbDQxaDJ5VUlKZmpBMHgwVDhEcnJoV05ZM3FwUjVuVjFtUDdXSXE5V3R6MWZ0VUw4R0VkYVVuZVhlbVJ6THdVRWdFWGpSaWVMSmxvVVl3WWhSWmkyVUdZRFDSAXhBVV95cUxNQWlYeHlJaHllVkswREczNXBXNHU0NjJLcjhGQVZvdUk4YnVpbVAxMkx6Q2hvU3BsQkJTdmd4eVFBX2JoVGlUZUl1UVk1bVMtWFpGSThRWktZT2NDcUczUnNNQzQwVzFpMW1MZEh4M3dZeEZ0b3Q4cTU?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Fri, 13 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "IIT Ropar marks 18th Foundation Day with launch of HPC facility, AI chatbot",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOalk3V3NXZlhzRjQ4TUtyRWZUdERiMEdFenk0NEJEemxGY1NZVVZ2TVg5N0RNLWVzLTlaRWR5V3NVVUZoaWxzUmNtS1lVOElackstVkstbU0yOExYTlBoM0tScUZ6LXRsTVVhZjdMQlhLNV9LT01JRFFfZUxmSk1VYUVLdThLbzBHMDFXdzgyNENUSHlCNUs1NVNJMzRXazlZTkI1c2NDU0pYWnE4NEhNcmFna0hJSEXSAbsBQVVfeXFMTjA4b0QxRWtGOGVEa1VlbFZXYldjRzdKWWdNZDhwT2MzLURLaDVkYXN5a2FlTjRodUFIeUQtM0J2Nm9VSGU3MTlyWTZoSUVUSGRVOHJpRmRGOS15OEFNajFra05oTl9rek1yQ2w4N2dBM2dLNmFDeVBEMG9OQmxMWFFWOTNVWHVrc3FGUC1NMExibk00clhrQkQ1T21qbmgtN3ZobGdkRS04ZWxra2huSzlkZWFHZnlFbXpNUQ?oc=5\" target=\"_blank\">IIT Ropar marks 18th Foundation Day with launch of HPC facility, AI chatbot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalk3V3NXZlhzRjQ4TUtyRWZUdERiMEdFenk0NEJEemxGY1NZVVZ2TVg5N0RNLWVzLTlaRWR5V3NVVUZoaWxzUmNtS1lVOElackstVkstbU0yOExYTlBoM0tScUZ6LXRsTVVhZjdMQlhLNV9LT01JRFFfZUxmSk1VYUVLdThLbzBHMDFXdzgyNENUSHlCNUs1NVNJMzRXazlZTkI1c2NDU0pYWnE4NEhNcmFna0hJSEXSAbsBQVVfeXFMTjA4b0QxRWtGOGVEa1VlbFZXYldjRzdKWWdNZDhwT2MzLURLaDVkYXN5a2FlTjRodUFIeUQtM0J2Nm9VSGU3MTlyWTZoSUVUSGRVOHJpRmRGOS15OEFNajFra05oTl9rek1yQ2w4N2dBM2dLNmFDeVBEMG9OQmxMWFFWOTNVWHVrc3FGUC1NMExibk00clhrQkQ1T21qbmgtN3ZobGdkRS04ZWxra2huSzlkZWFHZnlFbXpNUQ?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab AI curriculum ready",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybnY2aEswa2tXalpROFk2b0FPUjBCdl9HaldLUUtCNmlEbTF0bXZCLS1CY2piY19tMVZ2ektzc0kwcHFaR0ZYZEVsT3JhdlBySl9iUFJtVGVwSDFQQlU1TzZKMWppMC0tSUFqblYtekbSAXhBVV95cUxON1NwYkpabWxOWlFMNmFuSWJaWnhPRmY2c29tOFpqeUdzMjlWa3JjNkl5SzZUQmVGSHQ3T0ZvVl9MMUJVeUJSRnF0NHZmSHhmcG4tT1lGaU1qTV9ScmRPdGlvTVNsTzh6dEdZVWNPX2UtV01jREVmTlY?oc=5\" target=\"_blank\">Punjab AI curriculum ready</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybnY2aEswa2tXalpROFk2b0FPUjBCdl9HaldLUUtCNmlEbTF0bXZCLS1CY2piY19tMVZ2ektzc0kwcHFaR0ZYZEVsT3JhdlBySl9iUFJtVGVwSDFQQlU1TzZKMWppMC0tSUFqblYtekbSAXhBVV95cUxON1NwYkpabWxOWlFMNmFuSWJaWnhPRmY2c29tOFpqeUdzMjlWa3JjNkl5SzZUQmVGSHQ3T0ZvVl9MMUJVeUJSRnF0NHZmSHhmcG4tT1lGaU1qTV9ScmRPdGlvTVNsTzh6dEdZVWNPX2UtV01jREVmTlY?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Mon, 06 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:27+00:00"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "region": "Delhi",
+ "group": "B",
+ "query": "(Delhi) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Delhi%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:41+00:00",
+ "item_count": 15,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "ITDC, SCOPE and LBSNAA Organise ‘AI Champions for Digital Governance’ Summit in New Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSTEtQkJMR1BTRFBVSnJTLXR4Mjd5Q0tfeXFYalRNNGdHMEYyY0Q0S0tjM3JMbWFDZVlSaUs0aHZ6ODJRaS1WQW5zQmpvZGRpZ2hPVTV1ZDBEenBWUldZTHU5RmdYUkpXSzg3dWNkVlBfWlJzZzdoUzV2WQ?oc=5\" target=\"_blank\">ITDC, SCOPE and LBSNAA Organise ‘AI Champions for Digital Governance’ Summit in New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSTEtQkJMR1BTRFBVSnJTLXR4Mjd5Q0tfeXFYalRNNGdHMEYyY0Q0S0tjM3JMbWFDZVlSaUs0aHZ6ODJRaS1WQW5zQmpvZGRpZ2hPVTV1ZDBEenBWUldZTHU5RmdYUkpXSzg3dWNkVlBfWlJzZzdoUzV2WQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "PM to address the 57th Convocation Ceremony of IIT Delhi on 8th August",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWFEMkxBVW1SZVo2cFVDOWhXaUlJNmZRTlBob2VrZ2lOUjBTdkVpQUtLcndwZW55eGF2Z01WOFo0ek1IM3FSZmpfeHN4cHNyYmtrRUIycUZkX0tZSk9iSmxpb25idXp1LXMzMnYzd2lPNTVhNVJNcm5DamZXVlNLa3d4dGducDMybW1GUXFjRG1DSTdBSmNWNk4yWDVNdHRreEh6bE1wSVJLU25xSEw4cDNVYlQ?oc=5\" target=\"_blank\">PM to address the 57th Convocation Ceremony of IIT Delhi on 8th August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PM India</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWFEMkxBVW1SZVo2cFVDOWhXaUlJNmZRTlBob2VrZ2lOUjBTdkVpQUtLcndwZW55eGF2Z01WOFo0ek1IM3FSZmpfeHN4cHNyYmtrRUIycUZkX0tZSk9iSmxpb25idXp1LXMzMnYzd2lPNTVhNVJNcm5DamZXVlNLa3d4dGducDMybW1GUXFjRG1DSTdBSmNWNk4yWDVNdHRreEh6bE1wSVJLU25xSEw4cDNVYlQ?oc=5",
+   "source_name": "PM India",
+   "source_domain": "pmindia.gov.in",
+   "published_raw": "Fri, 07 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Cadence, IIT Delhi launch AI-equipped CoE for semiconductor innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnk4VU5oZVdJVkV3TkpSU3BmLXdteW16WUpFU2V2UldTaUxvbmVPaU80T3dJbmJEM0Ixb3AzR0NBTHhySHJiU0RHYkx2MXRKN0VkbS1Pa0RVbGhaenBlWHloaEVNMFg1ZHdVQk9vVTN2Wm5DUU9zM1A2amFmTDFiVVFHV0pzdEFmMzY0bG9aLXpuMmlFc3VQOUE5UVJnUy10TGtFWmotSzFpUTJ3Tmt2NndleWhKaU5NN2RkQUFjUU9NRjE0OUtGU0NnVW5mNEdfaUZiOFkzUFlfX2pQdG83Y9IB5gFBVV95cUxQTzl0dmMzcS05Z1hVUWFnd3pkZFJnWFF1OUZpYVBwdFpvdHZtUktXUzNMREN0QkJTQlRYZXZrRzhZUnZmc0V5eHc2RkJrcEpDLXFmeUIxNDlEWGdxU19OTk1pUlV3a0FmaGRHUlh5TERoamdpZ1NudV8xTDQwZGM5dzhEcTVXamJLY3o5ejkxeE55U1hEVG1tMF9SOThzZGZUOEVaU2U1dk5XWEdKYTNFMUhFaENVQzI4ajZQQk5WTEYyRXU0QzRUYXJZbjlmQXVXV014M3YzTENUZFkybzdRMU1teUlIUQ?oc=5\" target=\"_blank\">Cadence, IIT Delhi launch AI-equipped CoE for semiconductor innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electronics.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnk4VU5oZVdJVkV3TkpSU3BmLXdteW16WUpFU2V2UldTaUxvbmVPaU80T3dJbmJEM0Ixb3AzR0NBTHhySHJiU0RHYkx2MXRKN0VkbS1Pa0RVbGhaenBlWHloaEVNMFg1ZHdVQk9vVTN2Wm5DUU9zM1A2amFmTDFiVVFHV0pzdEFmMzY0bG9aLXpuMmlFc3VQOUE5UVJnUy10TGtFWmotSzFpUTJ3Tmt2NndleWhKaU5NN2RkQUFjUU9NRjE0OUtGU0NnVW5mNEdfaUZiOFkzUFlfX2pQdG83Y9IB5gFBVV95cUxQTzl0dmMzcS05Z1hVUWFnd3pkZFJnWFF1OUZpYVBwdFpvdHZtUktXUzNMREN0QkJTQlRYZXZrRzhZUnZmc0V5eHc2RkJrcEpDLXFmeUIxNDlEWGdxU19OTk1pUlV3a0FmaGRHUlh5TERoamdpZ1NudV8xTDQwZGM5dzhEcTVXamJLY3o5ejkxeE55U1hEVG1tMF9SOThzZGZUOEVaU2U1dk5XWEdKYTNFMUhFaENVQzI4ajZQQk5WTEYyRXU0QzRUYXJZbjlmQXVXV014M3YzTENUZFkybzdRMU1teUlIUQ?oc=5",
+   "source_name": "electronics.economictimes.indiatimes.com",
+   "source_domain": "electronics.economictimes.indiatimes.com",
+   "published_raw": "Fri, 05 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Cisco and IIT Delhi launch Cisco Technology Hub to strengthen India’s AI and cybersecurity capabilities",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0tIMldWNWgwdUZOM1g5c090RVpwdVJXOHhvNE00ZU93dTFtdG5hV2FHWDhoaEYyMTBTRzc2ei1XZHNZeFFLWkVpUTF0Y08yVEdoWEVlVDZQOER3QTZmSVlacmx4R1gzVEdJYU1hWnlTMkRZTTdWQ3VQOXVKY0tNWUw4U2paandmOTg3cUZYOXhacEkwVUtsY0NvMlJCcVotTk5qLVczMHRBVHZhUklUSFJRZ0ZpTGtiQk4tcDRHcF9iRDlISjFHYjdLenp3ZEZjS0hubkRiV21la0ZPdnc?oc=5\" target=\"_blank\">Cisco and IIT Delhi launch Cisco Technology Hub to strengthen India’s AI and cybersecurity capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tele.net</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0tIMldWNWgwdUZOM1g5c090RVpwdVJXOHhvNE00ZU93dTFtdG5hV2FHWDhoaEYyMTBTRzc2ei1XZHNZeFFLWkVpUTF0Y08yVEdoWEVlVDZQOER3QTZmSVlacmx4R1gzVEdJYU1hWnlTMkRZTTdWQ3VQOXVKY0tNWUw4U2paandmOTg3cUZYOXhacEkwVUtsY0NvMlJCcVotTk5qLVczMHRBVHZhUklUSFJRZ0ZpTGtiQk4tcDRHcF9iRDlISjFHYjdLenp3ZEZjS0hubkRiV21la0ZPdnc?oc=5",
+   "source_name": "tele.net",
+   "source_domain": "tele.net.in",
+   "published_raw": "Wed, 05 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Modi faces challenge from activists over surveillance at India youth protest",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmtnNFQ5YmdpX2E3WndlQzdheFpGUlJ2TldyYlRGSXBnUzBOV1dNaU13T0F5eG1YZDNZT3l0eVRoRWU5V1d2UUk1eFdEakhid1h5MzNDOXhuckNnVk9ZZVg4X0pYRF9PZmZGX010a19IbmVOT1F2aGFQWWxPc2NQaUVBQUxtNmlDVzFXT0s0NGRieE5ISGJJNHV3LUllaFdWLS1lakg4X3YwVHUwckI4bmQtLS16VVk?oc=5\" target=\"_blank\">Modi faces challenge from activists over surveillance at India youth protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmtnNFQ5YmdpX2E3WndlQzdheFpGUlJ2TldyYlRGSXBnUzBOV1dNaU13T0F5eG1YZDNZT3l0eVRoRWU5V1d2UUk1eFdEakhid1h5MzNDOXhuckNnVk9ZZVg4X0pYRF9PZmZGX010a19IbmVOT1F2aGFQWWxPc2NQaUVBQUxtNmlDVzFXT0s0NGRieE5ISGJJNHV3LUllaFdWLS1lakg4X3YwVHUwckI4bmQtLS16VVk?oc=5",
+   "source_name": "Reuters",
+   "source_domain": "reuters.com",
+   "published_raw": "Mon, 27 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "CEP IIT Delhi Announces the Launch of Batch 2 of its Executive Programme for AI in Healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVkJGc3hSd1A5Y0R3cTJVZnlzTUVrdzlBdTY4dmNoRWdnSEpwX1hJUDEwMTBLWmZFQWp2dkJhTExwNFZKMk96U09XNW9hRkM1TEE1MVFKalhSbExsT1g2WnBYNUJLVXRNZmtoSzMyMXY4bndnNmJrdUtfSTBjbkdpQjIyeWV3UG5JV1IycDRsRzVQWmJzY1l4TXRhblZ2WnQ2ek8yWEt5T21xaG1vNVlrTkx0VU5YaXlGa1VoVGQzZC1oVWswMWF3VjZpZmc3WHprWHpucFctTGjSAd4BQVVfeXFMTnNucFdYanhva0ZaMXFZY3JUN2VmZTl6VUJtTTE5dnBEVlJWNXhTSHVnVWRFb0dyMUwtWjl2bWVuRG1palVubGN5LUdzYllmazF2VE5wV3FIdWxlallYWWRkQ21GTWgxc1dwUHpvTDk5aVEyNTg5VHJjMDl1QmJCS21oRE1tTHpvdk1HSXA3T2NGbVh6eDBHNTMxOTFOeGVDMHkySlZGbGlzYjB5alZ2SFNxTDdtanpVWW1LS1Q2QVNaX3J4WVB1cldrZEZyMDhodk90NmhMM1JkME5GNThn?oc=5\" target=\"_blank\">CEP IIT Delhi Announces the Launch of Batch 2 of its Executive Programme for AI in Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVkJGc3hSd1A5Y0R3cTJVZnlzTUVrdzlBdTY4dmNoRWdnSEpwX1hJUDEwMTBLWmZFQWp2dkJhTExwNFZKMk96U09XNW9hRkM1TEE1MVFKalhSbExsT1g2WnBYNUJLVXRNZmtoSzMyMXY4bndnNmJrdUtfSTBjbkdpQjIyeWV3UG5JV1IycDRsRzVQWmJzY1l4TXRhblZ2WnQ2ek8yWEt5T21xaG1vNVlrTkx0VU5YaXlGa1VoVGQzZC1oVWswMWF3VjZpZmc3WHprWHpucFctTGjSAd4BQVVfeXFMTnNucFdYanhva0ZaMXFZY3JUN2VmZTl6VUJtTTE5dnBEVlJWNXhTSHVnVWRFb0dyMUwtWjl2bWVuRG1palVubGN5LUdzYllmazF2VE5wV3FIdWxlallYWWRkQ21GTWgxc1dwUHpvTDk5aVEyNTg5VHJjMDl1QmJCS21oRE1tTHpvdk1HSXA3T2NGbVh6eDBHNTMxOTFOeGVDMHkySlZGbGlzYjB5alZ2SFNxTDdtanpVWW1LS1Q2QVNaX3J4WVB1cldrZEZyMDhodk90NmhMM1JkME5GNThn?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi University's Hansraj College partners GFMI to launch AI-integrated media courses",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUkFscGZJRzZIa3BTTzVwWDFNLU1oZ01ueGloYnRvUzFHZ2dhQlRxQ0xzQUpGcGNiZ2NmTF8wZ20tOHluX1diTWFxQjRDc3RnalVwbUc2ZURxSG5IZ2JhZFBLNzhfUHVmMWtwZnJhWjd2bGl1SjNpT3ZpWS1zR0MzZllVazRPN0VNTzBCVEZIUFlWTzZtdUhPejZjdXlpeS1zcDdMMExveUJvMktCZExpSW1rUm1NN1E2S3pqSWJwM0xFTGtGTS00ZC05YndoRTNONWc?oc=5\" target=\"_blank\">Delhi University's Hansraj College partners GFMI to launch AI-integrated media courses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUkFscGZJRzZIa3BTTzVwWDFNLU1oZ01ueGloYnRvUzFHZ2dhQlRxQ0xzQUpGcGNiZ2NmTF8wZ20tOHluX1diTWFxQjRDc3RnalVwbUc2ZURxSG5IZ2JhZFBLNzhfUHVmMWtwZnJhWjd2bGl1SjNpT3ZpWS1zR0MzZllVazRPN0VNTzBCVEZIUFlWTzZtdUhPejZjdXlpeS1zcDdMMExveUJvMktCZExpSW1rUm1NN1E2S3pqSWJwM0xFTGtGTS00ZC05YndoRTNONWc?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Mon, 25 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "IIT Delhi, Cadence Launch AI Lab for Semiconductor Talent",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObGZjN0lDeF9GMzlScGxlYWZvX09nRXdGVFpMa1V5MVlQSU1ZU1RZalIwazA2UVA3amVYZWluN05XV29pTUt5VnhteDhIdHdlUjEyMlN1OFVMY25vMGpfNjFzeEhDMTN0aXRGdXVxZlJYcGdFMWgxNEdTcE92TG5Bb3dNa2lpekVrX1ZiTk1OWFhtR0hIQWJFU19R?oc=5\" target=\"_blank\">IIT Delhi, Cadence Launch AI Lab for Semiconductor Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGZjN0lDeF9GMzlScGxlYWZvX09nRXdGVFpMa1V5MVlQSU1ZU1RZalIwazA2UVA3amVYZWluN05XV29pTUt5VnhteDhIdHdlUjEyMlN1OFVMY25vMGpfNjFzeEhDMTN0aXRGdXVxZlJYcGdFMWgxNEdTcE92TG5Bb3dNa2lpekVrX1ZiTk1OWFhtR0hIQWJFU19R?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Thu, 04 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Union Health Minister chairs review meeting of the TB Mukt Bharat Abhiyaan with the Delhi Government",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5GYld6RVBTck4yeHhtcTVvVjc1TWpmYUNhcmtlQlRIUjBUbE0ybDg0NTA2X0lsVUg2MzY0N29JSVQ3Z1lETGtYanVUdDB2OWhtdDRrSlZvamhFemZLb1BqMVJoaUowSGpyTFR4U0M5ZXNNX3RaeS00MWlkWQ?oc=5\" target=\"_blank\">Union Health Minister chairs review meeting of the TB Mukt Bharat Abhiyaan with the Delhi Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GYld6RVBTck4yeHhtcTVvVjc1TWpmYUNhcmtlQlRIUjBUbE0ybDg0NTA2X0lsVUg2MzY0N29JSVQ3Z1lETGtYanVUdDB2OWhtdDRrSlZvamhFemZLb1BqMVJoaUowSGpyTFR4U0M5ZXNNX3RaeS00MWlkWQ?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 01 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Phuket-Delhi AI flight captain's confirmatory test also positive for marijuana: Sources",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQldTSUp3OF82TXVsUlVHMFJ3d3I5UWZCRXZya3FIdWs3MUdPNUNFbklsXzJDMXNCelR6ZEF2ekZLUDlrOTdmaWxJQWwxM0RtZXlkRmZPUG02NzJIZzlvdUdNVEIxTmVERzNBU01USXRoWEJXQmVmNkdwNjlKTUdBSDNtV0ZUdktIQnczcWJaWmc0WTBlbEM0ZVhNOTNIUkthSjB1ell6ZTBtX0tDNDlVNTZLVGE1YlhCNWFCbHR3ZkVaemUwNHpTOXNKRG93ZmdBXzV1Nmh30gHbAUFVX3lxTFAySklLSF96eGNPNFhPSHFQMGo4SFNWY0dXdnFHcXdXZUVuZXFPR0pCeWFDOXpxNEhnbjZSYUU5OEZNV0JoUFNDRXp1bkFmV1hWVkxDa0FXemg1TDFfYS1VcFhPTW94UDFoM1NFcVNsVldKR1dEN2hqU0QzeFlHRTBQWThyTkRIZXF3N2QxcXVRZHl3MVctMFkzMmlXeXJHbDdKbENPVHlueGQxcnJ0dWJwS2dUOER6MmZDaFVnaTBVeXZIZnBVWFRaRnQ5djlnUWhCZzQ3MnN5ZUxIRQ?oc=5\" target=\"_blank\">Phuket-Delhi AI flight captain's confirmatory test also positive for marijuana: Sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQldTSUp3OF82TXVsUlVHMFJ3d3I5UWZCRXZya3FIdWs3MUdPNUNFbklsXzJDMXNCelR6ZEF2ekZLUDlrOTdmaWxJQWwxM0RtZXlkRmZPUG02NzJIZzlvdUdNVEIxTmVERzNBU01USXRoWEJXQmVmNkdwNjlKTUdBSDNtV0ZUdktIQnczcWJaWmc0WTBlbEM0ZVhNOTNIUkthSjB1ell6ZTBtX0tDNDlVNTZLVGE1YlhCNWFCbHR3ZkVaemUwNHpTOXNKRG93ZmdBXzV1Nmh30gHbAUFVX3lxTFAySklLSF96eGNPNFhPSHFQMGo4SFNWY0dXdnFHcXdXZUVuZXFPR0pCeWFDOXpxNEhnbjZSYUU5OEZNV0JoUFNDRXp1bkFmV1hWVkxDa0FXemg1TDFfYS1VcFhPTW94UDFoM1NFcVNsVldKR1dEN2hqU0QzeFlHRTBQWThyTkRIZXF3N2QxcXVRZHl3MVctMFkzMmlXeXJHbDdKbENPVHlueGQxcnJ0dWJwS2dUOER6MmZDaFVnaTBVeXZIZnBVWFRaRnQ5djlnUWhCZzQ3MnN5ZUxIRQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 11 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi govt launches AI-enabled Dust Portal 2.0 to monitor construction sites in real time",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSzBwR3ZoQ19NTXlTWTcxeEZmZmxteGNFaHVyYVI2MFhGRUpfSVZiRFRSQTQ0ODRtSndqSnZyWGpsUEVGck1UblQ1cnU5UUVpMnVfQUNuQTZ0OVR0ZEVOcG54cmhZdllBMTIzUExrZ0E1VTVudV9WZEhNN2c0RUIyOEw1R3dkMVVLU21JV1pIQ2dnVGE4a0I5cVdWVS1aMndhX2YwT3FMTlhXTGd3aFJWMGtBVmYtY2pkT1hxZmFiZnp4d9IBxwFBVV95cUxNS1dPaTFzQ2NXT0NqLUN0NElYRVp2WGh5Z3RiaXhNZHRXMmRkbEN4M0tMNEFrRTJJWkE0eXVfdlBaTEFqM0hjTjZKelFLeVF2VFRiQ29LY3pwdG1Fald5NkkxMzhmOGpPSXRZNWR2ajl1LW8yTGNBTHhWbFJmeU0tdXI0NEdRVndFZkRBM2NGaGw0OXZBX1hza0NyMzNXQnJPbHBnRXgxM3ZTRERRajNOMFdDazZsQTczek93MlF1LWZtTkJCSHg0?oc=5\" target=\"_blank\">Delhi govt launches AI-enabled Dust Portal 2.0 to monitor construction sites in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSzBwR3ZoQ19NTXlTWTcxeEZmZmxteGNFaHVyYVI2MFhGRUpfSVZiRFRSQTQ0ODRtSndqSnZyWGpsUEVGck1UblQ1cnU5UUVpMnVfQUNuQTZ0OVR0ZEVOcG54cmhZdllBMTIzUExrZ0E1VTVudV9WZEhNN2c0RUIyOEw1R3dkMVVLU21JV1pIQ2dnVGE4a0I5cVdWVS1aMndhX2YwT3FMTlhXTGd3aFJWMGtBVmYtY2pkT1hxZmFiZnp4d9IBxwFBVV95cUxNS1dPaTFzQ2NXT0NqLUN0NElYRVp2WGh5Z3RiaXhNZHRXMmRkbEN4M0tMNEFrRTJJWkE0eXVfdlBaTEFqM0hjTjZKelFLeVF2VFRiQ29LY3pwdG1Fald5NkkxMzhmOGpPSXRZNWR2ajl1LW8yTGNBTHhWbFJmeU0tdXI0NEdRVndFZkRBM2NGaGw0OXZBX1hza0NyMzNXQnJPbHBnRXgxM3ZTRERRajNOMFdDazZsQTczek93MlF1LWZtTkJCSHg0?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Mon, 13 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "PM Modi inaugurates AI-powered Param Pragya supercomputing facility at IIT Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSzZOalFlMEt0RkxKdFBzd25GNFZvVmNRb01zNVNJTHBFM2JkMjM0cTZBazN6S2lXYjFMM1VZc2ZTSkprZVFkVTg4dDBZTklVUDVnS3NLUFpyRWZBVFd0M2Fld2NTMkZDc3dnNUp6MWxQQXBIODE3LXRsTEpXVnhiOTRWdnUtNWtJUHVBZmlZQjluN0tXeEp6LVFIUDRRZk5RdWV6eXVXVGVYZmFfSnZTTUhmWG5naU9qYXNaWUtySGVJQldQNzU0UEdVc2lrZW9UcmY3VDNBcHI3ZnJObWhIaXVycXE1Q1p0OWc?oc=5\" target=\"_blank\">PM Modi inaugurates AI-powered Param Pragya supercomputing facility at IIT Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSzZOalFlMEt0RkxKdFBzd25GNFZvVmNRb01zNVNJTHBFM2JkMjM0cTZBazN6S2lXYjFMM1VZc2ZTSkprZVFkVTg4dDBZTklVUDVnS3NLUFpyRWZBVFd0M2Fld2NTMkZDc3dnNUp6MWxQQXBIODE3LXRsTEpXVnhiOTRWdnUtNWtJUHVBZmlZQjluN0tXeEp6LVFIUDRRZk5RdWV6eXVXVGVYZmFfSnZTTUhmWG5naU9qYXNaWUtySGVJQldQNzU0UEdVc2lrZW9UcmY3VDNBcHI3ZnJObWhIaXVycXE1Q1p0OWc?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Sun, 09 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Mission launches Indigenous Varya, a Video Story Generating AI Model Claiming to Offer Quality at Affordable Price",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUUFuR0luYk9NQjJQRVp5TlVSS0o3MjF5bnhyZ1ZKbmlwUHRiQXlrTUhYdXgxS3lCZHRxdWJDMkxXU1VVRHplaENaZXY0VUo4LTBNZG84Yk5PVjBIc2tvOXNrVWhCSENMZF9yMFR2azF0ZTBoeEVLQVdR?oc=5\" target=\"_blank\">India AI Mission launches Indigenous Varya, a Video Story Generating AI Model Claiming to Offer Quality at Affordable Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvUUFuR0luYk9NQjJQRVp5TlVSS0o3MjF5bnhyZ1ZKbmlwUHRiQXlrTUhYdXgxS3lCZHRxdWJDMkxXU1VVRHplaENaZXY0VUo4LTBNZG84Yk5PVjBIc2tvOXNrVWhCSENMZF9yMFR2azF0ZTBoeEVLQVdR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 12 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI to facilitate pollution-control, says CM as Delhi govt inks MoU for air quality forecast tech",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQSmd0YWJlUzk4dFNPNnpxU2d2Sml2alJNY2ktYzJ3SFNERnpjYThUelkwOERZVmlvMDhBamZ6WXJGZWNYZTRFYlhEcnZyb1lwcHB6dm00ZUtSMldWdjdLZEVRY3YwcHlnWl81VlpfdjNlNTNKOUZkZ0JkTGNSSWFIblVFWkNzZzhmRkVsQTVTdU9hbTVzME51bFo1ZTZ6VS1lc09iNUtSOVNVTFNGU1pHYVpDR0pfZW5aTHkwZl91dG9pU0gzQlhCbHB30gHPAUFVX3lxTFAtMGdwOW1KY2o0bENUeG5DSWtlSU13VWtxYmhPbGkzYllIakhaazVZSk44MHlhT3NMbjdXNW1NSDhXZkI0aXJjMWoyTlF3d2xtVnFwQWFtaUM2alpQUVdObjhueW9rQjIzZjZzelZXUGk0Z3ZkWGVPTl9xZkowTWV3QVRXV291d2JlRVlNemsxcjRwY3dQU3h2bjlJazB3V19BOS1Mamd1ZWtvRzFMdDJMbzBKOVI2NmQyY0xMa19GNWFqQmtNVmRjV05HQjRYdw?oc=5\" target=\"_blank\">AI to facilitate pollution-control, says CM as Delhi govt inks MoU for air quality forecast tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSmd0YWJlUzk4dFNPNnpxU2d2Sml2alJNY2ktYzJ3SFNERnpjYThUelkwOERZVmlvMDhBamZ6WXJGZWNYZTRFYlhEcnZyb1lwcHB6dm00ZUtSMldWdjdLZEVRY3YwcHlnWl81VlpfdjNlNTNKOUZkZ0JkTGNSSWFIblVFWkNzZzhmRkVsQTVTdU9hbTVzME51bFo1ZTZ6VS1lc09iNUtSOVNVTFNGU1pHYVpDR0pfZW5aTHkwZl91dG9pU0gzQlhCbHB30gHPAUFVX3lxTFAtMGdwOW1KY2o0bENUeG5DSWtlSU13VWtxYmhPbGkzYllIakhaazVZSk44MHlhT3NMbjdXNW1NSDhXZkI0aXJjMWoyTlF3d2xtVnFwQWFtaUM2alpQUVdObjhueW9rQjIzZjZzelZXUGk0Z3ZkWGVPTl9xZkowTWV3QVRXV291d2JlRVlNemsxcjRwY3dQU3h2bjlJazB3V19BOS1Mamd1ZWtvRzFMdDJMbzBKOVI2NmQyY0xMa19GNWFqQmtNVmRjV05HQjRYdw?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Fri, 22 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi govt launches AI-enabled Dust Portal 2.0 to monitor construction sites in real time",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTTFnTWV0bFlodDh6dlgwS0l4WDdFOUlxYlVBZ3dPeVpRTDFKS2wwSENjclp6RldWZkhqWDVJTklBVS13V2JfcTZVN2s0NS1TRWhHSklOZ2RHc08xVEpBVVBleUhPbm1FeG9Eb1NkcWdvS21jSm9MNUFSWlQ1REhIUWtvZkdhMHlsU2JtbzdPeUJBb2NKbFpUN3pXd0lpaEdXZzBDbmxtSTRtdmZ0bm02Wm1mX24tenBNak5hY2l5T3hHaXRDSWl5TnliNXV3ampmM0VhTHJwczI4QnBBS2NPbjR6eWpidG1jSXBFeHF1cG12QdIB9gFBVV95cUxOemYzeGxHelViei1SWmRKNV9mWU1RUVBObkpiTlhCT1NQOUU2NjhnRGtKRF9BZUdnNHV3RXY3Q2N6MGs0dVpNeHlsVW5ORlhGS0U4YXByMU01S2w4dHdBem9iQ0UzOU80RVpHUEM1R0Z3QWx6MThaVG9iQjRqWjZqelVnMnBGdFVMaVJwN0p4c0hLVkt1bmdHODRfczNDWXVSNWdzdWRVMGhkYnE0TXlNNWJlRWdGYmJNTnNET19sZ0xzUzlKZHQ2ZjdZQm9DQXlGVDJBYzIzVWJ5S2RkSmx1U3oxWnh0ZWVjVjVFcXNvbW9tUUFTaWc?oc=5\" target=\"_blank\">Delhi govt launches AI-enabled Dust Portal 2.0 to monitor construction sites in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTTFnTWV0bFlodDh6dlgwS0l4WDdFOUlxYlVBZ3dPeVpRTDFKS2wwSENjclp6RldWZkhqWDVJTklBVS13V2JfcTZVN2s0NS1TRWhHSklOZ2RHc08xVEpBVVBleUhPbm1FeG9Eb1NkcWdvS21jSm9MNUFSWlQ1REhIUWtvZkdhMHlsU2JtbzdPeUJBb2NKbFpUN3pXd0lpaEdXZzBDbmxtSTRtdmZ0bm02Wm1mX24tenBNak5hY2l5T3hHaXRDSWl5TnliNXV3ampmM0VhTHJwczI4QnBBS2NPbjR6eWpidG1jSXBFeHF1cG12QdIB9gFBVV95cUxOemYzeGxHelViei1SWmRKNV9mWU1RUVBObkpiTlhCT1NQOUU2NjhnRGtKRF9BZUdnNHV3RXY3Q2N6MGs0dVpNeHlsVW5ORlhGS0U4YXByMU01S2w4dHdBem9iQ0UzOU80RVpHUEM1R0Z3QWx6MThaVG9iQjRqWjZqelVnMnBGdFVMaVJwN0p4c0hLVkt1bmdHODRfczNDWXVSNWdzdWRVMGhkYnE0TXlNNWJlRWdGYmJNTnNET19sZ0xzUzlKZHQ2ZjdZQm9DQXlGVDJBYzIzVWJ5S2RkSmx1U3oxWnh0ZWVjVjVFcXNvbW9tUUFTaWc?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:41+00:00"
+  }
+ ]
+}

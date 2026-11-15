@@ -1,0 +1,120 @@
+{
+ "region": "Jharkhand",
+ "group": "B",
+ "query": "(Jharkhand) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Jharkhand%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:42:57+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Secure, inclusive e-Governance: How Jharkhand is leveraging tech to transform healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHhPVW04UmwwWUlDZWxMMzdpNDVOOHBtRkQ1dlZpQldyS2tzd0NwVHc5ei1qd3ZTajI2azNlNWlRSGhLeEIwVWdscDEwS2pfWXlkYzdyVHVpOHh2c1JWdk45c0wtM19CX3h4QmJCVExPSGlDZ1VaanRIVVRQVVlhd0UzSDFrU0pSdnlJWjZ3aFduUGZTVUY1UFVrcmdfeFM3OGdKU2pPalpMaDVNdWVCdlBXajRNbS12YUd4bTJxQlBBbmJfQ0twQWlYdUNnclJHd185cTF0S3l1Y0FsV3h4czB4LXFWbXPSAesBQVVfeXFMT0xaSEl0SndXMkhaS045UnVVX3Q2LXE3UXdCQzVKNDRES2twY2lVOUZ4UWdIcWRTaVlGTDR0TmJ0a25zaHBYd1pkc2RUcjJmNnZrVjlPMC0xcnJ5d2x6Qk1JYmZSTVJScTdVMlRhbFZrWVJJYWRUWkc0SldHa1Z0XzB4Q3g1bTU0R2JDUVF4eGNwQlJWTWk3LVlhZkJSUkczZ3luTDRoM1JHWDdmSndVRWFpdndVSFZSNUY1YS1hUnI5N1hndVdabTNob1d1QndkaktwT0pTNEI2WjNncW4xcFFZYkhrRFZZSmpUMA?oc=5\" target=\"_blank\">Secure, inclusive e-Governance: How Jharkhand is leveraging tech to transform healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeHhPVW04UmwwWUlDZWxMMzdpNDVOOHBtRkQ1dlZpQldyS2tzd0NwVHc5ei1qd3ZTajI2azNlNWlRSGhLeEIwVWdscDEwS2pfWXlkYzdyVHVpOHh2c1JWdk45c0wtM19CX3h4QmJCVExPSGlDZ1VaanRIVVRQVVlhd0UzSDFrU0pSdnlJWjZ3aFduUGZTVUY1UFVrcmdfeFM3OGdKU2pPalpMaDVNdWVCdlBXajRNbS12YUd4bTJxQlBBbmJfQ0twQWlYdUNnclJHd185cTF0S3l1Y0FsV3h4czB4LXFWbXPSAesBQVVfeXFMT0xaSEl0SndXMkhaS045UnVVX3Q2LXE3UXdCQzVKNDRES2twY2lVOUZ4UWdIcWRTaVlGTDR0TmJ0a25zaHBYd1pkc2RUcjJmNnZrVjlPMC0xcnJ5d2x6Qk1JYmZSTVJScTdVMlRhbFZrWVJJYWRUWkc0SldHa1Z0XzB4Q3g1bTU0R2JDUVF4eGNwQlJWTWk3LVlhZkJSUkczZ3luTDRoM1JHWDdmSndVRWFpdndVSFZSNUY1YS1hUnI5N1hndVdabTNob1d1QndkaktwT0pTNEI2WjNncW4xcFFZYkhrRFZZSmpUMA?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Tue, 23 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand Makes Strong Investment Pitch On Davos Debut",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXUyTTQ2UXZHejdXMF93SmpDS1NTRWNaVFFKMWY0bGNGbEtiZWJVREZyaEcyQXdKRmVncjRmT0kyb1hTX3psWUZzYmt2bkVyT0RmTzhuRUpzSWhpOXpQb2hzV3J6cDBld1pxajREcVA5UXdFUGhCWU1QOXFFQ21raHo0d2FZN0NFakJpQkhCTlFvYTlSQ2ZFNkF3?oc=5\" target=\"_blank\">Jharkhand Makes Strong Investment Pitch On Davos Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Tribal</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXUyTTQ2UXZHejdXMF93SmpDS1NTRWNaVFFKMWY0bGNGbEtiZWJVREZyaEcyQXdKRmVncjRmT0kyb1hTX3psWUZzYmt2bkVyT0RmTzhuRUpzSWhpOXpQb2hzV3J6cDBld1pxajREcVA5UXdFUGhCWU1QOXFFQ21raHo0d2FZN0NFakJpQkhCTlFvYTlSQ2ZFNkF3?oc=5",
+   "source_name": "The Indian Tribal",
+   "source_domain": "theindiantribal.com",
+   "published_raw": "Tue, 20 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "AI or not? Audio clip shakes Jharkhand assembly session",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMEZFa0lVUXg1azFHY1ljdER0eV9CS0lNc0ttc2ZpYl9rcnJWLXM2ZWtpaHlWTnlYQTJvb3liaGZzcWMzU0V5UmJGOFhwMWw5WE5qNTA2QTJINmJQcWxXbHV5TnVmT21zN2FsLWRLMnRsVW1BdW9vcWluYmlUeE9CcDA2V1M3TmVtVjc0YW5wZkZZMWNqZFlJQjJlZGM5d9IBpAFBVV95cUxNNTJSOFIxWl9MY0tzRnIyWnM1eldLTGJEYlhEblNtRm10NUxsSGRTZkJJSWMzdllnUEFLZHkwVlpVU1Z1a2ZhblAwWUMxa0NqaFZsZC1FSDJweXdydGNIVm13WTNzcWo1RXF2SmFHeENTTXBjZDZteWZQaUxiT0tSSWNWYV9rZzFmX3JHcXBlZ0xkYkEwQ2taSmFGZXZ3R2h6WUFSbQ?oc=5\" target=\"_blank\">AI or not? Audio clip shakes Jharkhand assembly session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEZFa0lVUXg1azFHY1ljdER0eV9CS0lNc0ttc2ZpYl9rcnJWLXM2ZWtpaHlWTnlYQTJvb3liaGZzcWMzU0V5UmJGOFhwMWw5WE5qNTA2QTJINmJQcWxXbHV5TnVmT21zN2FsLWRLMnRsVW1BdW9vcWluYmlUeE9CcDA2V1M3TmVtVjc0YW5wZkZZMWNqZFlJQjJlZGM5d9IBpAFBVV95cUxNNTJSOFIxWl9MY0tzRnIyWnM1eldLTGJEYlhEblNtRm10NUxsSGRTZkJJSWMzdllnUEFLZHkwVlpVU1Z1a2ZhblAwWUMxa0NqaFZsZC1FSDJweXdydGNIVm13WTNzcWo1RXF2SmFHeENTTXBjZDZteWZQaUxiT0tSSWNWYV9rZzFmX3JHcXBlZ0xkYkEwQ2taSmFGZXZ3R2h6WUFSbQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand to introduce AI-based ‘elephant alert system’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMl9mRlNkRkdGVnJhWmdCTHU1cHVMeU4ycGNKT0RFSEtxM29nRmZNUEFaT2lVMzFkTEptN3JmZTlhSGdEYWdZVUx0SklsZnBQeDNxcTMycTVHdkVGemNVNDY2cXZqRVo3SHNJZElQVDhkSnNjUjE5ZndLUE0wXzk4Z3RDMTZ5bTVNY3I2blNGOTFNRE02S3lnaFlrX1JRS0IwTFYwTE8tTdIBtAFBVV95cUxNZmN0ZEZmOXlUb1FGbkoxQU55SFNIMXpVUXRscGwybVZha0VfN3NjSEVsM1NzQTB5eDNObHlDaG1ZRjRJZ3hQUUl2SDdZMmc5MFZocEFhWThaNGI4cG9QTm1HSUxSaGY2RFRMWWIxWjNzQzZFaG5fZ19KbGZqaHRXMWx0TUlGbDZSNDhNOXktM2EzLUpWaXZ6QjdicUhfNW1tRDUwVGZrWm5MWFBHZW1qYmNnWmw?oc=5\" target=\"_blank\">Jharkhand to introduce AI-based ‘elephant alert system’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMl9mRlNkRkdGVnJhWmdCTHU1cHVMeU4ycGNKT0RFSEtxM29nRmZNUEFaT2lVMzFkTEptN3JmZTlhSGdEYWdZVUx0SklsZnBQeDNxcTMycTVHdkVGemNVNDY2cXZqRVo3SHNJZElQVDhkSnNjUjE5ZndLUE0wXzk4Z3RDMTZ5bTVNY3I2blNGOTFNRE02S3lnaFlrX1JRS0IwTFYwTE8tTdIBtAFBVV95cUxNZmN0ZEZmOXlUb1FGbkoxQU55SFNIMXpVUXRscGwybVZha0VfN3NjSEVsM1NzQTB5eDNObHlDaG1ZRjRJZ3hQUUl2SDdZMmc5MFZocEFhWThaNGI4cG9QTm1HSUxSaGY2RFRMWWIxWjNzQzZFaG5fZ19KbGZqaHRXMWx0TUlGbDZSNDhNOXktM2EzLUpWaXZ6QjdicUhfNW1tRDUwVGZrWm5MWFBHZW1qYmNnWmw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 19 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Union Law Minister Backs Demand for CAT Bench in Jharkhand at High Court’s Silver Jubilee",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjFWZXlvdnNRbDVoOE1QbWtSeDc4elFWTUJISTF4NTQxS0otbl9hNmU1bHY5LURqdDlxRW54cUpCRldUOVJqcnIyT01ZWDI3ZFFFYWdWaVpGazJHOTd0Z19IZlRSMzFkSEFUaF9ZZDF4Y2stY3lJYWUyT2dEMUNZMm1QZzFxcFV1S1pKX2c3djVmbVBBSGtBUzc1cV9EcFNqZjVzbWdhWUx5OVd1VWpBWTNOa2FqSE1MbGJmdE81Ung1U04xd3fSAcsBQVVfeXFMTWtlckswd1RGaHR4SjQyU3ljRjJJdHZhZ0h3ZGdiOV83U0xfeHBNa3VyREs1clMzZ1JvRUI4UjFiajBIQThLSkJVNUs2ZU9nTEZoZGM5RnE1bTZIX1h6dlFRWlp2WS1rTl9SMW1iN2gxWW12RFZjMW8tRkl1ek5EVVVqOGRaTU5YSFk4TjczRW52dDhuSmZGMmNiMDctUUlScHZzdFI1TmdBOUVuZnVGSU5naFZNeXdkcVhtSHB1dkUzbW5LLXBaOFg0eE0?oc=5\" target=\"_blank\">Union Law Minister Backs Demand for CAT Bench in Jharkhand at High Court’s Silver Jubilee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LawBeat</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjFWZXlvdnNRbDVoOE1QbWtSeDc4elFWTUJISTF4NTQxS0otbl9hNmU1bHY5LURqdDlxRW54cUpCRldUOVJqcnIyT01ZWDI3ZFFFYWdWaVpGazJHOTd0Z19IZlRSMzFkSEFUaF9ZZDF4Y2stY3lJYWUyT2dEMUNZMm1QZzFxcFV1S1pKX2c3djVmbVBBSGtBUzc1cV9EcFNqZjVzbWdhWUx5OVd1VWpBWTNOa2FqSE1MbGJmdE81Ung1U04xd3fSAcsBQVVfeXFMTWtlckswd1RGaHR4SjQyU3ljRjJJdHZhZ0h3ZGdiOV83U0xfeHBNa3VyREs1clMzZ1JvRUI4UjFiajBIQThLSkJVNUs2ZU9nTEZoZGM5RnE1bTZIX1h6dlFRWlp2WS1rTl9SMW1iN2gxWW12RFZjMW8tRkl1ek5EVVVqOGRaTU5YSFk4TjczRW52dDhuSmZGMmNiMDctUUlScHZzdFI1TmdBOUVuZnVGSU5naFZNeXdkcVhtSHB1dkUzbW5LLXBaOFg0eE0?oc=5",
+   "source_name": "LawBeat",
+   "source_domain": "lawbeat.in",
+   "published_raw": "Sat, 15 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand to sound ‘Elephant Alert’ with AI hooter system",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkZrOTlPeVVtTU5IOVhBczcycHRYekRxRTFNUEVYNUJWaUVGU0s0YVEyVGVsMV9ZLXBRWGJHbzJoOVc2dGk3VFFBOUg3bmFDdkpYYTNKWE41TV91VmYwZTRET1Rub0QxOUE1NVpGMDlqR0ZvOEZxc1RXZm4xdU00RmdQT3E?oc=5\" target=\"_blank\">Jharkhand to sound ‘Elephant Alert’ with AI hooter system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Avenue Mail</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkZrOTlPeVVtTU5IOVhBczcycHRYekRxRTFNUEVYNUJWaUVGU0s0YVEyVGVsMV9ZLXBRWGJHbzJoOVc2dGk3VFFBOUg3bmFDdkpYYTNKWE41TV91VmYwZTRET1Rub0QxOUE1NVpGMDlqR0ZvOEZxc1RXZm4xdU00RmdQT3E?oc=5",
+   "source_name": "The Avenue Mail",
+   "source_domain": "avenuemail.in",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Ranchi Launches Jharkhand's First AI-Enabled Public Toilet for Smart City Sanitation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY090MHZURHR1MElGSDFuU3VnSy1TMnlXWFpjdElXYmhHbl9uQlJ6ODVkakx5RV9MSVJjWENHUEh2UDZBS0R1ejd1VkhGcmFXamg3SndEUURwS1l5X2F3NGlTSGwtdE1nMUZqM1VpV1dqOFdkNUVBUVhUWTNXTmNlMUFYMTFNWjVnMjZKbm1MZHRjVWdiNFJGSG05OURvZmtRZ09LbEI4d280U3pHYmtINEF1enpTcVdaeVVGZzZLZmxJNUd1UGx6bnRqM3hYVTRnN1ozZmpJWll4aklVMjNfQmJpRlNfaC1RMWZ2OHpB0gHzAUFVX3lxTE0wM1dfZFI0NXdqd08xT1QwNm9NdzhQLXk5dlR5VnZHUHhHUHN5YWdtVzl6RWpFU2JDN0xscTdyQ3N1ZkZSQ2J1MzFKOFpHeFFnYWJHVzJMemI4RnRxcmJMV0hoQ29zOVB5M3dlblFsNVcwM0JnUV8wZU5WUE9ZV3c3djJpQi1zak00T0tkVVAxRTRtOF9tUUp5M0RNZDdaNmUxRFRiRjhjTFlkUkdlallBZHhUTlJEYkVzMTREcnhPek9yQ0RsYzlaczFRTDlLdDg0WXl0SWJBVmIyVTFGb0kwMmFuU2NkRGFkaXVGRS1YUHF5QQ?oc=5\" target=\"_blank\">Ranchi Launches Jharkhand's First AI-Enabled Public Toilet for Smart City Sanitation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY090MHZURHR1MElGSDFuU3VnSy1TMnlXWFpjdElXYmhHbl9uQlJ6ODVkakx5RV9MSVJjWENHUEh2UDZBS0R1ejd1VkhGcmFXamg3SndEUURwS1l5X2F3NGlTSGwtdE1nMUZqM1VpV1dqOFdkNUVBUVhUWTNXTmNlMUFYMTFNWjVnMjZKbm1MZHRjVWdiNFJGSG05OURvZmtRZ09LbEI4d280U3pHYmtINEF1enpTcVdaeVVGZzZLZmxJNUd1UGx6bnRqM3hYVTRnN1ozZmpJWll4aklVMjNfQmJpRlNfaC1RMWZ2OHpB0gHzAUFVX3lxTE0wM1dfZFI0NXdqd08xT1QwNm9NdzhQLXk5dlR5VnZHUHhHUHN5YWdtVzl6RWpFU2JDN0xscTdyQ3N1ZkZSQ2J1MzFKOFpHeFFnYWJHVzJMemI4RnRxcmJMV0hoQ29zOVB5M3dlblFsNVcwM0JnUV8wZU5WUE9ZV3c3djJpQi1zak00T0tkVVAxRTRtOF9tUUp5M0RNZDdaNmUxRFRiRjhjTFlkUkdlallBZHhUTlJEYkVzMTREcnhPek9yQ0RsYzlaczFRTDlLdDg0WXl0SWJBVmIyVTFGb0kwMmFuU2NkRGFkaXVGRS1YUHF5QQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 18 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand CM calls for redevelopment of three Ranchi bus terminals",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnBpYmZLZEtSOVJDYnBoVVg4SGZScjNWV184dUtCSS0zbEc1NFFrenFwZFdUZDJBeG5wY1lsZm1YenhheDBfMXFJOHc4NG5tZ3VBejdiclNoWThoOW1razhnRkJWY3FMR01SUlpqMkpHd3FtWjVxQTlEY0NLUzRVR2NQb0g4c08wMUFzdjY3eHd0T0xnelk0MHUwU0w3V29DWlRybTZrZ0pqTnhYRHVJS3NRVDhKcFktVWJSaXNwLUVkSXgtQ3Zxdk8wZFppWVFwc2pqSGJ5OWJGcEZi0gHiAUFVX3lxTE55Z2hQYjZ4UUFBbmxfWWdadTNLaEQtUXM0WHVEY3ZYekswOExyZ1VzcDNGS0hxV0xaWk1OQ05TQXdKUGk5T2czdUdSY1E0MzRNNl9rTGppdEU0UkN3Q1hrVldySThZYmExQWNFQVBHX3dkMU42dHR4eGVfR0s1VldUWWJ1NjE0bU9iVlQ5TXdXU3ZxMXNidFdaTlFIcmdsMFZ1VHBPWjgtcGJqMjRiUU5xZHh2OFhweV96RHpXSE1DX0EzNktla2RvT3dmUWFleTFwYlROM3VSU1pOUVVjVlpuN1E?oc=5\" target=\"_blank\">Jharkhand CM calls for redevelopment of three Ranchi bus terminals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnBpYmZLZEtSOVJDYnBoVVg4SGZScjNWV184dUtCSS0zbEc1NFFrenFwZFdUZDJBeG5wY1lsZm1YenhheDBfMXFJOHc4NG5tZ3VBejdiclNoWThoOW1razhnRkJWY3FMR01SUlpqMkpHd3FtWjVxQTlEY0NLUzRVR2NQb0g4c08wMUFzdjY3eHd0T0xnelk0MHUwU0w3V29DWlRybTZrZ0pqTnhYRHVJS3NRVDhKcFktVWJSaXNwLUVkSXgtQ3Zxdk8wZFppWVFwc2pqSGJ5OWJGcEZi0gHiAUFVX3lxTE55Z2hQYjZ4UUFBbmxfWWdadTNLaEQtUXM0WHVEY3ZYekswOExyZ1VzcDNGS0hxV0xaWk1OQ05TQXdKUGk5T2czdUdSY1E0MzRNNl9rTGppdEU0UkN3Q1hrVldySThZYmExQWNFQVBHX3dkMU42dHR4eGVfR0s1VldUWWJ1NjE0bU9iVlQ5TXdXU3ZxMXNidFdaTlFIcmdsMFZ1VHBPWjgtcGJqMjRiUU5xZHh2OFhweV96RHpXSE1DX0EzNktla2RvT3dmUWFleTFwYlROM3VSU1pOUVVjVlpuN1E?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 10 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "Jharkhand Government, Infosys Hold Talks For Collaboration In Fields Of Technology And AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWI2WldzUUgwYnV4cUQxV0tEY0FyMWdob2pfQmN2MkhyQk5Gbmw1Q2NoLTV0VXBJWGlQeThvWkdxdjdKZExqWTJBUldnX2N0SE8xSXFiVFEtVkpDbTZtbHBSM0JPRDIzY0dMSVZYT0RMTS1zT2ZUdnFpZUlFNktWaUZpRGRkWklDc3l0V1VfVl9LYzJWdzJKMFVJcGJOWkdzYmdB0gGoAUFVX3lxTE0xNUdncWFvY20tYjUzVVBrTUlyNGlJSnp6WFVBUzdpVUpidmtLMDRtVFg1dUxidjdWa2g3RGx0UW1mTlNWZk1ULUhmRWx2LU9JNThPa3ByQzJnRko4SlJBXzFVV0tvbVdobWxLVDFsRF9wbktGTkV2MGZIV0NLTWtwRWprX0l3OEFEZ3NRUE5kM2FQSjZzVGYxdGNnUERLQ003RFg0OXNyLQ?oc=5\" target=\"_blank\">Jharkhand Government, Infosys Hold Talks For Collaboration In Fields Of Technology And AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWI2WldzUUgwYnV4cUQxV0tEY0FyMWdob2pfQmN2MkhyQk5Gbmw1Q2NoLTV0VXBJWGlQeThvWkdxdjdKZExqWTJBUldnX2N0SE8xSXFiVFEtVkpDbTZtbHBSM0JPRDIzY0dMSVZYT0RMTS1zT2ZUdnFpZUlFNktWaUZpRGRkWklDc3l0V1VfVl9LYzJWdzJKMFVJcGJOWkdzYmdB0gGoAUFVX3lxTE0xNUdncWFvY20tYjUzVVBrTUlyNGlJSnp6WFVBUzdpVUpidmtLMDRtVFg1dUxidjdWa2g3RGx0UW1mTlNWZk1ULUhmRWx2LU9JNThPa3ByQzJnRko4SlJBXzFVV0tvbVdobWxLVDFsRF9wbktGTkV2MGZIV0NLTWtwRWprX0l3OEFEZ3NRUE5kM2FQSjZzVGYxdGNnUERLQ003RFg0OXNyLQ?oc=5",
+   "source_name": "ETV Bharat",
+   "source_domain": "etvbharat.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Jharkhand",
+   "title": "At Davos, Tech Mahindra Explores AI, Data Centre Investments in Jharkhand",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1hYjVUVnZnQkdncjZOZmgtNE04MHU5OXloTk9FNXI2QkpGV3p0SUp1dVRyYTkwRWNQQVNUTEVNSnptMGlYMHNhMkZuVUhVLWtIUTlxSDlDd3RoRnpPRVgwN0hINVoybzdxcUI4OXNLWVdjczdUdUFmV3p0enBzeTNhcE5PbFJldnJFT1ZnQ2ttRXJXeV94dTJrd0R6SDJJV0pqV3diNkRqNjJqeHA5Q0w4NlpDcDdzOFpRZHdQRQ?oc=5\" target=\"_blank\">At Davos, Tech Mahindra Explores AI, Data Centre Investments in Jharkhand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1hYjVUVnZnQkdncjZOZmgtNE04MHU5OXloTk9FNXI2QkpGV3p0SUp1dVRyYTkwRWNQQVNUTEVNSnptMGlYMHNhMkZuVUhVLWtIUTlxSDlDd3RoRnpPRVgwN0hINVoybzdxcUI4OXNLWVdjczdUdUFmV3p0enBzeTNhcE5PbFJldnJFT1ZnQ2ttRXJXeV94dTJrd0R6SDJJV0pqV3diNkRqNjJqeHA5Q0w4NlpDcDdzOFpRZHdQRQ?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:42:57+00:00"
+  }
+ ]
+}

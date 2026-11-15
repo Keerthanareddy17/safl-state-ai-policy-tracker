@@ -1,0 +1,120 @@
+{
+ "region": "Maharashtra",
+ "group": "B",
+ "query": "(Maharashtra OR Mumbai OR Pune) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Maharashtra+OR+Mumbai+OR+Pune%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:08+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Maharashtra leads India’s AI-powered cybercrime fight: Microsoft unveils MahaCrimeOS AI to combat cybercrime at scale",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWERXa29wLW13VHphQXREbXpGQXFCUmxIM3ZtNENyalNxMXVlYTM5U01yVW1UMlNROGRlM0tZcHdIZ1F3ZG5OZ1l4MFlkT1M1dXRvblgyOUZlOTRfbE1sZjFpakI4aG1mb0dSSzc2ajRvMjY2LXRPdjFNeW8wdDM5UWFnRDBsc0RuaFdadmNTaF9zNl82S1BkMFNVZUxMOTljbGJleDJIN09vdEVFWXotSkV2TTJzZ0ZvU25JcEtfc2YxV2xWNS1nZzJDVWE4TVpkZFkzOUZvcEc0NlgtUW1jNGdmUEtGajFJSDBqcTBjb1NYaEM3dFg5Znhn?oc=5\" target=\"_blank\">Maharashtra leads India’s AI-powered cybercrime fight: Microsoft unveils MahaCrimeOS AI to combat cybercrime at scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft Source</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWERXa29wLW13VHphQXREbXpGQXFCUmxIM3ZtNENyalNxMXVlYTM5U01yVW1UMlNROGRlM0tZcHdIZ1F3ZG5OZ1l4MFlkT1M1dXRvblgyOUZlOTRfbE1sZjFpakI4aG1mb0dSSzc2ajRvMjY2LXRPdjFNeW8wdDM5UWFnRDBsc0RuaFdadmNTaF9zNl82S1BkMFNVZUxMOTljbGJleDJIN09vdEVFWXotSkV2TTJzZ0ZvU25JcEtfc2YxV2xWNS1nZzJDVWE4TVpkZFkzOUZvcEc0NlgtUW1jNGdmUEtGajFJSDBqcTBjb1NYaEM3dFg5Znhn?oc=5",
+   "source_name": "Microsoft Source",
+   "source_domain": "news.microsoft.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "India AI Stack: Powering Intelligence at Scale",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9tR1FmRkc1Z3Z0WHNPcHM5QnFQSFpSby1KNDd5ODVSVzB6RFoxU0NFdzA2U3JqYlB6NEc4MEE5aVlCRTkyLXhTbEZ1WjFodFJjRHpHRWNLeDlac0FmNzFRWjY4NkxBaUw3VU40eEJRRm9fR1owSkV5bmVR?oc=5\" target=\"_blank\">India AI Stack: Powering Intelligence at Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tR1FmRkc1Z3Z0WHNPcHM5QnFQSFpSby1KNDd5ODVSVzB6RFoxU0NFdzA2U3JqYlB6NEc4MEE5aVlCRTkyLXhTbEZ1WjFodFJjRHpHRWNLeDlac0FmNzFRWjY4NkxBaUw3VU40eEJRRm9fR1owSkV5bmVR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Maharashtra govt to procure AI infrastructure for higher, technical education department",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZm03aG5aUUxpdGd4SG01V1plVDR2Rm1aMm9CUElaZ05nbEZrcHUtTFNER2JtNW51QmdaVEpmcnJhd3NwYndmUTY2NndkVXdqZERNaWJybl9pdUJHT3NaUXhCbzlzSk1LM2RvTUhtX0s4cHlKMld4a2hSSlVyNzFoQndOdHVFdGIyU1VGaGpVdS1ZTDlXUjdhUVVRek9LUTFmbGVrMHhPcms2X2JXTTZJMEtIdXF1OXJNU25fV1k0aHF1NHg3M3Y1QTdpd2lWc2FhdjVZc0o0cm05SVgxWEVyWk45eFBBRzVjeFFfc254NW5iSnVqVWFMTElwdkFsZ9IBggJBVV95cUxQY2ZsU0JZaWFVNGM2VU5CT2h6UXJNcC1iN3p6dkZGTWk0YkpVV2hlaUh4M1pMNUZIclpzZC0wTWp2VkM3djlmR3NEMlZOUHJNYTAxc3hhMk4zeDRuSmdvUzJuRWVwVUQ4RGNXQkhWWU9xZkcyOWs2cWRrcWpadERFbFBIcXZ3a19oOE1FMlhGMWRmSW9OdFBkaUVERmpzNW9IdUxKRmlhMU5zbEJ4RUZsaF9WWHE1OGRqZnF6YllDVDRxc3dkeFFWQ2wyZmNxVjBRQmE4aW5sc2I5NFk2QlJRekJsOTJ3WFctOF9ERmE4R1F6MnlCbVVJVGNGdDFIN1J0d3c?oc=5\" target=\"_blank\">Maharashtra govt to procure AI infrastructure for higher, technical education department</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZm03aG5aUUxpdGd4SG01V1plVDR2Rm1aMm9CUElaZ05nbEZrcHUtTFNER2JtNW51QmdaVEpmcnJhd3NwYndmUTY2NndkVXdqZERNaWJybl9pdUJHT3NaUXhCbzlzSk1LM2RvTUhtX0s4cHlKMld4a2hSSlVyNzFoQndOdHVFdGIyU1VGaGpVdS1ZTDlXUjdhUVVRek9LUTFmbGVrMHhPcms2X2JXTTZJMEtIdXF1OXJNU25fV1k0aHF1NHg3M3Y1QTdpd2lWc2FhdjVZc0o0cm05SVgxWEVyWk45eFBBRzVjeFFfc254NW5iSnVqVWFMTElwdkFsZ9IBggJBVV95cUxQY2ZsU0JZaWFVNGM2VU5CT2h6UXJNcC1iN3p6dkZGTWk0YkpVV2hlaUh4M1pMNUZIclpzZC0wTWp2VkM3djlmR3NEMlZOUHJNYTAxc3hhMk4zeDRuSmdvUzJuRWVwVUQ4RGNXQkhWWU9xZkcyOWs2cWRrcWpadERFbFBIcXZ3a19oOE1FMlhGMWRmSW9OdFBkaUVERmpzNW9IdUxKRmlhMU5zbEJ4RUZsaF9WWHE1OGRqZnF6YllDVDRxc3dkeFFWQ2wyZmNxVjBRQmE4aW5sc2I5NFk2QlJRekJsOTJ3WFctOF9ERmE4R1F6MnlCbVVJVGNGdDFIN1J0d3c?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "AI to track Mumbai’s street dogs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWDFkYkFlMnFxcW9rS1lqRnZoMVkxNzlRaTU0QnFubDZjQ3BaNnpKTFl0QTZrSDZtWHdUWnk0RWhXNV9MLVNCa1gzQzR3aC1fZVFidjl1d1cwTjRTUVJNREszaHRZUGt1SkRNMWgyNUhOMEc3OHBTYlQwV1htYkU?oc=5\" target=\"_blank\">AI to track Mumbai’s street dogs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mumbai Mirror</font>",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWDFkYkFlMnFxcW9rS1lqRnZoMVkxNzlRaTU0QnFubDZjQ3BaNnpKTFl0QTZrSDZtWHdUWnk0RWhXNV9MLVNCa1gzQzR3aC1fZVFidjl1d1cwTjRTUVJNREszaHRZUGt1SkRNMWgyNUhOMEc3OHBTYlQwV1htYkU?oc=5",
+   "source_name": "Mumbai Mirror",
+   "source_domain": "mumbaimirror.com",
+   "published_raw": "Mon, 22 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "A race against time: Maharashtra police get an AI copilot to fight cybercrime",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXFiLXppM1Z2X3lFNFBBd1RybmZUU05XcnhqNnh6UmZnS1dyMC1udkM4cUhOS2FTa3NSOHVuaVVqd1hWb3licmQyaEJpMXhzMG5NbEhfeE00dENhQ1JDak5qVi1nWVNpVE50b0NGUU92MHZBWkxXYWpTSmxUaVlCVURVWk5jd3ZFeEI5dmEzZm02YUd4UDROZVZaN2VucGJGNTNBLVp2Q21XS1Z1cFIxSmpZY1FoRl9Tcnh6Y2VNazY5RGc?oc=5\" target=\"_blank\">A race against time: Maharashtra police get an AI copilot to fight cybercrime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft Source</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXFiLXppM1Z2X3lFNFBBd1RybmZUU05XcnhqNnh6UmZnS1dyMC1udkM4cUhOS2FTa3NSOHVuaVVqd1hWb3licmQyaEJpMXhzMG5NbEhfeE00dENhQ1JDak5qVi1nWVNpVE50b0NGUU92MHZBWkxXYWpTSmxUaVlCVURVWk5jd3ZFeEI5dmEzZm02YUd4UDROZVZaN2VucGJGNTNBLVp2Q21XS1Z1cFIxSmpZY1FoRl9Tcnh6Y2VNazY5RGc?oc=5",
+   "source_name": "Microsoft Source",
+   "source_domain": "news.microsoft.com",
+   "published_raw": "Fri, 12 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "KEM Hospital marks 100 years; minister urges AI-based services and improved patient facilities",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa3ZFLUczMklhZUppVlJsamdYV2tFeV95dnFjVXI2RmhaeHEzZGROeTVqZ05VaENsYjdBR3pxQUNYQURaMG96NVViaVlnWkxZS2VIb1VwY3lINkRpZWR1YnN3aDRlZjY0ajd0N0I3aUV5V1QweGRadVJBUzlTaEJlMUFuaFN0TVowTWl1WjdZWk9NTlpqSXZyZkRJUHpKd041b254TVl0MlpHV1Etc3U5M1pkelVQM3JjSUd3Q2RhRE5Jb291S1NRNjdVOWhPWUtVSGxwWXZ2ejcxUmo0S0Zpcy0zQkN5emdM?oc=5\" target=\"_blank\">KEM Hospital marks 100 years; minister urges AI-based services and improved patient facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-Day</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa3ZFLUczMklhZUppVlJsamdYV2tFeV95dnFjVXI2RmhaeHEzZGROeTVqZ05VaENsYjdBR3pxQUNYQURaMG96NVViaVlnWkxZS2VIb1VwY3lINkRpZWR1YnN3aDRlZjY0ajd0N0I3aUV5V1QweGRadVJBUzlTaEJlMUFuaFN0TVowTWl1WjdZWk9NTlpqSXZyZkRJUHpKd041b254TVl0MlpHV1Etc3U5M1pkelVQM3JjSUd3Q2RhRE5Jb291S1NRNjdVOWhPWUtVSGxwWXZ2ejcxUmo0S0Zpcy0zQkN5emdM?oc=5",
+   "source_name": "Mid-Day",
+   "source_domain": "mid-day.com",
+   "published_raw": "Thu, 22 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "How is Bristol Myers Squibb Using AI in Mumbai?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWw2NUM5NkxlTllFMGlXUXJXcWNBWnZfTzQyVkVxSTdPU0Q2dmZWR1VFQkFDTDVQcjdlRXdqcldlWFZrbEE0dFRCRjZvSHBlVWQta0xuQjBqdzBuUHBGVDVXdFE1Q2FOWUU5VG9ZaHVoeDRoYlNJVnZGcGZqWjRKLTdkMDNaNG1ITHpPd01lRElqVVBOd3lIQmNGVmJKaEt4V3JrdTE3X2JLVUExSDh4bS16MXBna2s?oc=5\" target=\"_blank\">How is Bristol Myers Squibb Using AI in Mumbai?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWw2NUM5NkxlTllFMGlXUXJXcWNBWnZfTzQyVkVxSTdPU0Q2dmZWR1VFQkFDTDVQcjdlRXdqcldlWFZrbEE0dFRCRjZvSHBlVWQta0xuQjBqdzBuUHBGVDVXdFE1Q2FOWUU5VG9ZaHVoeDRoYlNJVnZGcGZqWjRKLTdkMDNaNG1ITHpPd01lRElqVVBOd3lIQmNGVmJKaEt4V3JrdTE3X2JLVUExSDh4bS16MXBna2s?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Wed, 17 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "No more toll delays? Mumbai plans AI-driven toll collection at Dahisar in game-changing pilot",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOME1uN3BnMWY3UEZFZkRrOU1UWS1IOW9EalU4WEhwSHlMM3NyTk5SZmNHVzJxQlhWOEV3LWRZNUtWNUc3LTUyNUFob2duZjh6dVZ3OUNad3RYbWxnLUlmVDNxS201dDR0eFhYUThaWmFzSEdRZU1ubkEtTkFGRUM5WTFmT1RSWGtIVDdnc18xWVhtNUxRSHZIQkFjN0hsVmQ1Qzg1cWwzUEhpZURXbnljQUR6Qy1xZzRTbGZkYlhuU2ZBZHVuc09uSWhaTEhudnBuM3NBOVpSZ3BUZTIwWmJwMjkzT3JGOUVpV1phbzVZa3RkVmxwbWdYQdIBgAJBVV95cUxNVm1QdDZxTG1FWDZKVEd0blNETzBlR0FwQjhXYnRaSXVPMktWRE9nODNPMTRXLTZCVXcxM0VQNC1NcGszaXFxdEVGU0kwRDRrTGhCdXM0ZWJXbmxvUi1GQ081VWRYWmt5TGVKXzVkazNPdmpRYkZ6U1kxcVgwaVlnZEx6eXBzOWUzQzc5Umk4UWhGQmRGOW1EdjRpN0d1V1hhOW90Z2dQWl90cExfZVZZc1hkeFA0R3k2d1VaRUZSUGZ1NW90Y3JVNDMwYnJiaGMtYlg0bFU1bmlCRVRyQUN6aWVEOUtMOEFSQ0MyTGtIdE8xWHJVSTFGUTNsR0ExQ0Y3?oc=5\" target=\"_blank\">No more toll delays? Mumbai plans AI-driven toll collection at Dahisar in game-changing pilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOME1uN3BnMWY3UEZFZkRrOU1UWS1IOW9EalU4WEhwSHlMM3NyTk5SZmNHVzJxQlhWOEV3LWRZNUtWNUc3LTUyNUFob2duZjh6dVZ3OUNad3RYbWxnLUlmVDNxS201dDR0eFhYUThaWmFzSEdRZU1ubkEtTkFGRUM5WTFmT1RSWGtIVDdnc18xWVhtNUxRSHZIQkFjN0hsVmQ1Qzg1cWwzUEhpZURXbnljQUR6Qy1xZzRTbGZkYlhuU2ZBZHVuc09uSWhaTEhudnBuM3NBOVpSZ3BUZTIwWmJwMjkzT3JGOUVpV1phbzVZa3RkVmxwbWdYQdIBgAJBVV95cUxNVm1QdDZxTG1FWDZKVEd0blNETzBlR0FwQjhXYnRaSXVPMktWRE9nODNPMTRXLTZCVXcxM0VQNC1NcGszaXFxdEVGU0kwRDRrTGhCdXM0ZWJXbmxvUi1GQ081VWRYWmt5TGVKXzVkazNPdmpRYkZ6U1kxcVgwaVlnZEx6eXBzOWUzQzc5Umk4UWhGQmRGOW1EdjRpN0d1V1hhOW90Z2dQWl90cExfZVZZc1hkeFA0R3k2d1VaRUZSUGZ1NW90Y3JVNDMwYnJiaGMtYlg0bFU1bmlCRVRyQUN6aWVEOUtMOEFSQ0MyTGtIdE8xWHJVSTFGUTNsR0ExQ0Y3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 17 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Bristol Myers Squibb, Accenture launch AI-powered content hub ‘Mosaic’ in Mumbai",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUktRRGxkSllBOE01eU9STmVxNEIydjUyZ19EUW0yelI0ZjQzZlk5UkRzSW56VDY4a0lINFdZcTlIQXU4M2gwNHI5S3lqUXBYaDA4dk9iVThSbWMwNWtsSTJZRkVueThEYUdHdU5wbkhvUUIteGIwTWhWQ2RVdTBpVm9fa3pCQXBFaHJRWl9hVzVmYjg2dTE2Z2N3SzZoLU1jM3BkOHN5eEg5YU1sYzFJbG9nTEttN2dGak1nYndvZFplYVN3X2tFb3lILS1MYjBvdElEUDB0VjRzaFVWcmxYRndsdDNuNktCckZr0gHwAUFVX3lxTFBzMjZ0ZHJ1ZnZEUW56YVNxbTFMMjNweHdfeEN1QjFSYWVZNFV6NXpoUFg3MVJNaGw2MWw3MmNDTEJIZFlWNXNab3A1QkREVXpjNmN4S204SlV4ak5DLTRhM00xR3UwTzg3bmpnZklaOXR3cWxhSE52bmhoelMyUmJHZE9iUlFXaGtlMGY1eWM3ZWFkUFJhNVBtMHJiNGVLUG1hZHhzS25vYTRtRFJ1bndXYjF2ei03bDUxeTRmZnYzQnJVa3ZxZUlGSkNodFk5REV1cldjOGF1c2xNMEd2Mk1JTzJSMHgzM3NrUE1LbzBlag?oc=5\" target=\"_blank\">Bristol Myers Squibb, Accenture launch AI-powered content hub ‘Mosaic’ in Mumbai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pharma.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUktRRGxkSllBOE01eU9STmVxNEIydjUyZ19EUW0yelI0ZjQzZlk5UkRzSW56VDY4a0lINFdZcTlIQXU4M2gwNHI5S3lqUXBYaDA4dk9iVThSbWMwNWtsSTJZRkVueThEYUdHdU5wbkhvUUIteGIwTWhWQ2RVdTBpVm9fa3pCQXBFaHJRWl9hVzVmYjg2dTE2Z2N3SzZoLU1jM3BkOHN5eEg5YU1sYzFJbG9nTEttN2dGak1nYndvZFplYVN3X2tFb3lILS1MYjBvdElEUDB0VjRzaFVWcmxYRndsdDNuNktCckZr0gHwAUFVX3lxTFBzMjZ0ZHJ1ZnZEUW56YVNxbTFMMjNweHdfeEN1QjFSYWVZNFV6NXpoUFg3MVJNaGw2MWw3MmNDTEJIZFlWNXNab3A1QkREVXpjNmN4S204SlV4ak5DLTRhM00xR3UwTzg3bmpnZklaOXR3cWxhSE52bmhoelMyUmJHZE9iUlFXaGtlMGY1eWM3ZWFkUFJhNVBtMHJiNGVLUG1hZHhzS25vYTRtRFJ1bndXYjF2ei03bDUxeTRmZnYzQnJVa3ZxZUlGSkNodFk5REV1cldjOGF1c2xNMEd2Mk1JTzJSMHgzM3NrUE1LbzBlag?oc=5",
+   "source_name": "pharma.economictimes.indiatimes.com",
+   "source_domain": "pharma.economictimes.indiatimes.com",
+   "published_raw": "Thu, 18 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Maharashtra",
+   "title": "Accenture helps Bristol Myers Squibb to launch AI-based medical content hub Mosaic",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSjhxQ19qWlliWHkwM3dpVTh4bWpyaUcyUHpjc29RUndBYjZsU1p1SEpLeHBtUWpRMGNRbzhOTm9HdkhoQmU4ZXQtRi1PcU1UVnJaT04zVTdncHk2N0FwUVRDbXlQNDQwRFZQYV9Kd280d013VWhKcnlqazBINExJQXIwN1NfUmk2NlFkNktBdGdqUDlYbE9IRjRCbUpCREpVLUNjUFZyV1ZMMUFENmlpVkRzejNxZzNISEw3c3luZGNfcWFya1RNVjAzZ1VhNk1PNDhiNHVjQ1gzbUhtNGZfLXhZdFFxTDNxUmFjMWp1WUdwTTR4R0ZPTdIB_gFBVV95cUxNZzdxcnRfRURJd2JubGVIbklfSlU0TmdJeGEzMDhtc3hKRGo0b0QyS2tJZTMxY1hNU3lBckZsUVJmd3d6Mm9yYVI5ZUhZaUVZb0dubDJsanlqSU9MMUw5V3JTQ0s2ZWE4THU3b1dQeDRMYzRhVUNkRWxRY09oSXhueEh6c29mMllURldzZElyUG5ZS3NBeEFwbEFIdkJ1NlBoRnlyT1lVYjk2T2R3eDRoMnNWaS1udjJ2LU5YZlhGQVppV3R0dFBKREZPaGhzS3pjcDhOOHYwQmp4dHVZYjc4R0ZQZDdpdW1IMUVQSTB6RWRINnZkVDBZUnlINHJQUQ?oc=5\" target=\"_blank\">Accenture helps Bristol Myers Squibb to launch AI-based medical content hub Mosaic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSjhxQ19qWlliWHkwM3dpVTh4bWpyaUcyUHpjc29RUndBYjZsU1p1SEpLeHBtUWpRMGNRbzhOTm9HdkhoQmU4ZXQtRi1PcU1UVnJaT04zVTdncHk2N0FwUVRDbXlQNDQwRFZQYV9Kd280d013VWhKcnlqazBINExJQXIwN1NfUmk2NlFkNktBdGdqUDlYbE9IRjRCbUpCREpVLUNjUFZyV1ZMMUFENmlpVkRzejNxZzNISEw3c3luZGNfcWFya1RNVjAzZ1VhNk1PNDhiNHVjQ1gzbUhtNGZfLXhZdFFxTDNxUmFjMWp1WUdwTTR4R0ZPTdIB_gFBVV95cUxNZzdxcnRfRURJd2JubGVIbklfSlU0TmdJeGEzMDhtc3hKRGo0b0QyS2tJZTMxY1hNU3lBckZsUVJmd3d6Mm9yYVI5ZUhZaUVZb0dubDJsanlqSU9MMUw5V3JTQ0s2ZWE4THU3b1dQeDRMYzRhVUNkRWxRY09oSXhueEh6c29mMllURldzZElyUG5ZS3NBeEFwbEFIdkJ1NlBoRnlyT1lVYjk2T2R3eDRoMnNWaS1udjJ2LU5YZlhGQVppV3R0dFBKREZPaGhzS3pjcDhOOHYwQmp4dHVZYjc4R0ZQZDdpdW1IMUVQSTB6RWRINnZkVDBZUnlINHJQUQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 18 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:08+00:00"
+  }
+ ]
+}

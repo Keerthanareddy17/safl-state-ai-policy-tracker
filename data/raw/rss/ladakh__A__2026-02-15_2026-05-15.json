@@ -1,0 +1,98 @@
+{
+ "region": "Ladakh",
+ "group": "A",
+ "query": "(Ladakh) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Ladakh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:24+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Green Sovereignty: Ladakh’s Vision for India’s First AI-Enabled City",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAxdzFfREdRX1hISHBrWVNLdHhnejBoMzF0SWExcFRVR1JrRFhSVXp3UkJCRDhWempEUm5VamFMN1Q0MUd1eGVfYUk2RUdtWVJmSGlYa0hjWUd3WU9vajhhUkJmM1B6X2tDWmF6cQ?oc=5\" target=\"_blank\">Green Sovereignty: Ladakh’s Vision for India’s First AI-Enabled City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Policy Edge</font>",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxdzFfREdRX1hISHBrWVNLdHhnejBoMzF0SWExcFRVR1JrRFhSVXp3UkJCRDhWempEUm5VamFMN1Q0MUd1eGVfYUk2RUdtWVJmSGlYa0hjWUd3WU9vajhhUkJmM1B6X2tDWmF6cQ?oc=5",
+   "source_name": "The Policy Edge",
+   "source_domain": "policyedge.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh Highlights Ethical AI Leadership and Green Data Vision at India AI Summit, Aims to Become India’s First AI-Enabled City. | The Administration of Union Territory of Ladakh | India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONm9wNHF6VUNubFVyd0VaMlNHRmpTX29yaXdvemduc1ZwOFpqRDJVc2FQeURERVowNERyQUEwZWVPQ0VteDg3a1o0MWVGaGtBZUpQNF9TdWtxQkdSOFFSRGo1VFB2UDltZnUtdmZVVWI5NkFfd3lDNlRudy00eERZdmtrRnZXQ2gtZUwzWEpXSzNobFpMTExzWnpSV3NWNTE4UFNjLVhwOXdNS2ZCZjVrdTgtN29ZTDl1LVdUb1NMejhJN29iZ2cydEpfVVF5T3ZRd1hlTTVHQ1R4bVZWTEpmSA?oc=5\" target=\"_blank\">Ladakh Highlights Ethical AI Leadership and Green Data Vision at India AI Summit, Aims to Become India’s First AI-Enabled City. | The Administration of Union Territory of Ladakh | India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Administration of Union Territory of Ladakh</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONm9wNHF6VUNubFVyd0VaMlNHRmpTX29yaXdvemduc1ZwOFpqRDJVc2FQeURERVowNERyQUEwZWVPQ0VteDg3a1o0MWVGaGtBZUpQNF9TdWtxQkdSOFFSRGo1VFB2UDltZnUtdmZVVWI5NkFfd3lDNlRudy00eERZdmtrRnZXQ2gtZUwzWEpXSzNobFpMTExzWnpSV3NWNTE4UFNjLVhwOXdNS2ZCZjVrdTgtN29ZTDl1LVdUb1NMejhJN29iZ2cydEpfVVF5T3ZRd1hlTTVHQ1R4bVZWTEpmSA?oc=5",
+   "source_name": "Administration of Union Territory of Ladakh",
+   "source_domain": "ladakh.gov.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh sets in motion process for preparing first ever 'Master Plan' for UT",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG9rZlU0aUNHYXBzMkRSbVVzcUs0Z1Jic3N0emxaaEt3WjBhRm1DNm5MLTFwal9hZGNyRC1DcFBBU2JaWGl1RnFZUXRvU09SWmpnS2k5RUFybmlUeTY5eGc0elp4U3VmUGJwNDFQVGJaZFd6aWN0QmszWXNDTnA3TUFHa29TSnhCUHRvSFRJc1o5T1lVd3p6VzR3RmR1UHBIRnVWVTl2Tnp5YlBRVUFCTDVId2Y4R0c4b2RfcGdnQVd0WjY0MFRuZnQ1bk9SeUR4SThJbE5nZznSAd4BQVVfeXFMT25PeDRjZjAxLUdfejRKRlRwRjl3Nmw5MXpaODhhVm9JVEZkS1d1bXcwUWI5MElOLUNvYTFPVkZ0VW5vNmRhMlQyTC1JeS1TX214aG0zMnhCRGs1LWRMakU1bHVPTFJhUjlpaHYwRmZXaTJiZTNQYkJjVEhtNGdZZmEwQ2dwTmIyeldpanlJbEFQdmUtSTVtNGVJRENpemxRTm5YSXJ6UHVEVklmTDhaRXZxZm9OLUlPWVdxWkl5MTVwQmJPajdOVTdmNVE3VUM4ZVJuRmlGb1V4VTM4MDF3?oc=5\" target=\"_blank\">Ladakh sets in motion process for preparing first ever 'Master Plan' for UT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG9rZlU0aUNHYXBzMkRSbVVzcUs0Z1Jic3N0emxaaEt3WjBhRm1DNm5MLTFwal9hZGNyRC1DcFBBU2JaWGl1RnFZUXRvU09SWmpnS2k5RUFybmlUeTY5eGc0elp4U3VmUGJwNDFQVGJaZFd6aWN0QmszWXNDTnA3TUFHa29TSnhCUHRvSFRJc1o5T1lVd3p6VzR3RmR1UHBIRnVWVTl2Tnp5YlBRVUFCTDVId2Y4R0c4b2RfcGdnQVd0WjY0MFRuZnQ1bk9SeUR4SThJbE5nZznSAd4BQVVfeXFMT25PeDRjZjAxLUdfejRKRlRwRjl3Nmw5MXpaODhhVm9JVEZkS1d1bXcwUWI5MElOLUNvYTFPVkZ0VW5vNmRhMlQyTC1JeS1TX214aG0zMnhCRGs1LWRMakU1bHVPTFJhUjlpaHYwRmZXaTJiZTNQYkJjVEhtNGdZZmEwQ2dwTmIyeldpanlJbEFQdmUtSTVtNGVJRENpemxRTm5YSXJ6UHVEVklmTDhaRXZxZm9OLUlPWVdxWkl5MTVwQmJPajdOVTdmNVE3VUM4ZVJuRmlGb1V4VTM4MDF3?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 01 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "ISRO launches Ladakh mission to study astronaut performance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkJtMWJZZE1iU3R3QmdIUUVYaWtFRTRGeUxvdzdKdXpKclRPMVc3M2g2WU0yYWZkc2p5djNtbm9hTjBnUE9vcEZTb2lvY0UxcG1raW9qa3JtZV9XazdBU084MnJzQzJuaWhZbU1Fa1RsTEE4SW16Ym1ZdG1UVGV2R2xCNXc2TktYRndDb1lUSQ?oc=5\" target=\"_blank\">ISRO launches Ladakh mission to study astronaut performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkJtMWJZZE1iU3R3QmdIUUVYaWtFRTRGeUxvdzdKdXpKclRPMVc3M2g2WU0yYWZkc2p5djNtbm9hTjBnUE9vcEZTb2lvY0UxcG1raW9qa3JtZV9XazdBU084MnJzQzJuaWhZbU1Fa1RsTEE4SW16Ym1ZdG1UVGV2R2xCNXc2TktYRndDb1lUSQ?oc=5",
+   "source_name": "Telangana Today",
+   "source_domain": "telanganatoday.com",
+   "published_raw": "Sat, 04 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Army, Ladakh Administration sign MoU for snow leopard conservation on World Wildlife Day",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFdpVllXTmhVZUtaVTFBUFRRVXljRzlEaFA0enpGb0lvc2lwd2R2N1FSLXgydHF2VWVpeU50MVFRZDJTdWJBckY5bGRxUUdwc3lVMEhwMUVLc1N2YWZTWjBackpHcU1nd0RfOWhIR1BubklIbUxkajdZZkR0WWZLaUY0a1dUc1R4WWVRcXlfbjlkY1VYSFZ4SExSbWJFWnBJSXlwTzNQMFVFTm1iQ1p5NGQxZVlmd0pjaG9aaWJkRERXZ1FFdmV30gHLAUFVX3lxTFA1a2VmVzJMcFlLcWVsQ0s1WHFuZEtEYTZmUUhnSi1ielBfTzVROUpYckVaeEM0LWpHMnpIU1ZFX1NONWczNVpYOUcxU0RTaEw2SnF5RHBNUndNU25iWjZLNndFdjFzeS1DZ3QtamlnNktIdy1PZ3haQ1Z2YWEtcVNhSzdmNGdUZDFJMENtMzJjSS1JdmNYV1lnNE5NUTFfam5DbFVhYTRNRC1aUTBBN2FQbVF3N3ZCY1BrbzBTdmZUc015bXRjSEhQYUdR?oc=5\" target=\"_blank\">Army, Ladakh Administration sign MoU for snow leopard conservation on World Wildlife Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFdpVllXTmhVZUtaVTFBUFRRVXljRzlEaFA0enpGb0lvc2lwd2R2N1FSLXgydHF2VWVpeU50MVFRZDJTdWJBckY5bGRxUUdwc3lVMEhwMUVLc1N2YWZTWjBackpHcU1nd0RfOWhIR1BubklIbUxkajdZZkR0WWZLaUY0a1dUc1R4WWVRcXlfbjlkY1VYSFZ4SExSbWJFWnBJSXlwTzNQMFVFTm1iQ1p5NGQxZVlmd0pjaG9aaWJkRERXZ1FFdmV30gHLAUFVX3lxTFA1a2VmVzJMcFlLcWVsQ0s1WHFuZEtEYTZmUUhnSi1ielBfTzVROUpYckVaeEM0LWpHMnpIU1ZFX1NONWczNVpYOUcxU0RTaEw2SnF5RHBNUndNU25iWjZLNndFdjFzeS1DZ3QtamlnNktIdy1PZ3haQ1Z2YWEtcVNhSzdmNGdUZDFJMENtMzJjSS1JdmNYV1lnNE5NUTFfam5DbFVhYTRNRC1aUTBBN2FQbVF3N3ZCY1BrbzBTdmZUc015bXRjSEhQYUdR?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh stakeholders pass resolution, seek regulated outside investment in tourism sector",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc0NuUTVEdGtMUXpHNk80cTctZjUyM1ByUHZ4TGZqNDdqTEpvMHRhX2pOcEYxRGNsdFktcnMxSTNhcDVuMC13SXFJOWN5cmotdXl0aVo5LWlPSHdrRnlVb05TN3hObllRQW1uZVBnSHZJSmczN1BCU19RZkhhcHQ0QjZTN1I5SEtzald2YUUtUTM5b2xsN2d3Q0xwZHl1OVEzRkNmQXRTNm1qWUk1LXdmc0NURjVQZVV6aWkxV3BkVTRtVTBNbnN5T1JLYkt6S2xNcUhhVXFUV05VaFI1dHRvRHJMaDVNREnSAewBQVVfeXFMT294QW01QTIyLTRwRW9aaDZwMzM2NlkzNlJlaUhxZ3lKemdHVEpFOE1vWHhHQWtYdW1uaUI4UWVLYlUxZXNvSU5zSElnelcwcFJSbnFaOTd4ZndEWHMxMnZpQTNVdTc3aEtZMnR2cW9zdTNmbWxDMzN5VkZaUXBKSlZocnZCYU85TVVPWWM5djZSSXV4cFM1a1RzMEFabVg4YnNmNV8zUk1ZYkIxU1l4U29odlVlb0hjcnZtc2NaWi1fVkUwbl93cDJYdVlMNWprNjZTajJGQ0otRGFKbFlBNldoVUg4VTE5endZNE8?oc=5\" target=\"_blank\">Ladakh stakeholders pass resolution, seek regulated outside investment in tourism sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc0NuUTVEdGtMUXpHNk80cTctZjUyM1ByUHZ4TGZqNDdqTEpvMHRhX2pOcEYxRGNsdFktcnMxSTNhcDVuMC13SXFJOWN5cmotdXl0aVo5LWlPSHdrRnlVb05TN3hObllRQW1uZVBnSHZJSmczN1BCU19RZkhhcHQ0QjZTN1I5SEtzald2YUUtUTM5b2xsN2d3Q0xwZHl1OVEzRkNmQXRTNm1qWUk1LXdmc0NURjVQZVV6aWkxV3BkVTRtVTBNbnN5T1JLYkt6S2xNcUhhVXFUV05VaFI1dHRvRHJMaDVNREnSAewBQVVfeXFMT294QW01QTIyLTRwRW9aaDZwMzM2NlkzNlJlaUhxZ3lKemdHVEpFOE1vWHhHQWtYdW1uaUI4UWVLYlUxZXNvSU5zSElnelcwcFJSbnFaOTd4ZndEWHMxMnZpQTNVdTc3aEtZMnR2cW9zdTNmbWxDMzN5VkZaUXBKSlZocnZCYU85TVVPWWM5djZSSXV4cFM1a1RzMEFabVg4YnNmNV8zUk1ZYkIxU1l4U29odlVlb0hjcnZtc2NaWi1fVkUwbl93cDJYdVlMNWprNjZTajJGQ0otRGFKbFlBNldoVUg4VTE5endZNE8?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sun, 05 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Ladakh gets 5 new districts after L-G Saxena approves proposal, total districts rise to 7",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNazh6UGxDWDNvWFVBOXR1dVpRNlVvamtJTVJrZlNDOGwybVZuNk40UWM3bkhCcTdFaXlXTTlBRVQzOWlkbkdtQWxXWkxDa3RjN2NkeU5aMHRNNTZJem9OZ0loWXh2X2RiWE1WcURSdTN1WHNzZDhQa2JJQlp0M2V4YWFVU2lxMnBrdHJFUTNjTV91YkxKczVVNUJReXU2eVRFb0k1aHJmczNjeUR1cEcwc3paNkRCdmwyaUs4dWp5V2taR0lrS25PNHJyTGFLZ1dPaE5DWnZOQUtRQ0N00gHiAUFVX3lxTE5PN0ZEc0FrcjdQdEZLUXJfSTAwV29VdnltZG9JZEdCRkZrX09hVVlhY2ZYOGdmb0pEYTZnTG1QOTdWVUxYUnQ5b2FJRVBnSHNOel9BQjAxdnlsV3dhSFJfa2ZKOC12TzVYamVYZUEtZ19NR2VUbmdWN0RNdkdWek5kSE9MZnZZN2FqeU40cl9nd2dJbWxuWHRVb1hGNWZiUVdCOFNFT3AxeHVqdTR1QUlHT05pS2NpQmw2elM5aDMxU3k2d0FmYmQ4MlJPWmZaeDcySXJ0YW90b0pzM25lbzd6WFE?oc=5\" target=\"_blank\">Ladakh gets 5 new districts after L-G Saxena approves proposal, total districts rise to 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNazh6UGxDWDNvWFVBOXR1dVpRNlVvamtJTVJrZlNDOGwybVZuNk40UWM3bkhCcTdFaXlXTTlBRVQzOWlkbkdtQWxXWkxDa3RjN2NkeU5aMHRNNTZJem9OZ0loWXh2X2RiWE1WcURSdTN1WHNzZDhQa2JJQlp0M2V4YWFVU2lxMnBrdHJFUTNjTV91YkxKczVVNUJReXU2eVRFb0k1aHJmczNjeUR1cEcwc3paNkRCdmwyaUs4dWp5V2taR0lrS25PNHJyTGFLZ1dPaE5DWnZOQUtRQ0N00gHiAUFVX3lxTE5PN0ZEc0FrcjdQdEZLUXJfSTAwV29VdnltZG9JZEdCRkZrX09hVVlhY2ZYOGdmb0pEYTZnTG1QOTdWVUxYUnQ5b2FJRVBnSHNOel9BQjAxdnlsV3dhSFJfa2ZKOC12TzVYamVYZUEtZ19NR2VUbmdWN0RNdkdWek5kSE9MZnZZN2FqeU40cl9nd2dJbWxuWHRVb1hGNWZiUVdCOFNFT3AxeHVqdTR1QUlHT05pS2NpQmw2elM5aDMxU3k2d0FmYmQ4MlJPWmZaeDcySXJ0YW90b0pzM25lbzd6WFE?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Mon, 27 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Ladakh",
+   "title": "Leh-Manali national highway reopened till Sarchu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEVTcTcyTjI0d1B0R0dxN0dtR3JHcUxiTkREWE5ud0VJaHg1MUVrMm1vcC1CSnFMNF9pWmV4b2I0NGhlUVRPa0twRE5NVnlURElYZnhwUUhlWGQzZmhidktFa1U5YmhmR0lBYUR1SmNTaUoyYzh4cktVa1pvbklXT2drTVM0UDhDOF9VaE9RSFZlTVZKdllmV0EyaHhneFRlOXRGdkdEX1hCUlJYUUtwZDZaU0JuUXJrZGRBYWt6UVgwcmFNTnF4NXJsVDBFVVlYMUNMLWkxNElxN2o3dTFF0gHjAUFVX3lxTFBNNFF3UlA3Vzc3clBCbEl6bUk0R0xfRjhJSjhMMGdmVVNnX3d6bHlyT2NVZ1F3REFIMlpTdFgwcW9ucVFnZkdCc0s1UGhiV09QSDYycnl4aGRNTGQ4N0N0ZWx2ZktjYTFmakczcDYxNFE3dHpGQXRSZmpXRmRtUXdnV0dzeWprN3RXRXUzYnNIMm9rTFBic180UkpfZWJTRkpfSDdQamh2eGREZ2xxeHJ1NTN4Yk1udThFUmNsRU9SWmF4SVB6eVBzRHRGbFRUV2FYZjRvWkVCN2RRUjhCWlZydmRj?oc=5\" target=\"_blank\">Leh-Manali national highway reopened till Sarchu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEVTcTcyTjI0d1B0R0dxN0dtR3JHcUxiTkREWE5ud0VJaHg1MUVrMm1vcC1CSnFMNF9pWmV4b2I0NGhlUVRPa0twRE5NVnlURElYZnhwUUhlWGQzZmhidktFa1U5YmhmR0lBYUR1SmNTaUoyYzh4cktVa1pvbklXT2drTVM0UDhDOF9VaE9RSFZlTVZKdllmV0EyaHhneFRlOXRGdkdEX1hCUlJYUUtwZDZaU0JuUXJrZGRBYWt6UVgwcmFNTnF4NXJsVDBFVVlYMUNMLWkxNElxN2o3dTFF0gHjAUFVX3lxTFBNNFF3UlA3Vzc3clBCbEl6bUk0R0xfRjhJSjhMMGdmVVNnX3d6bHlyT2NVZ1F3REFIMlpTdFgwcW9ucVFnZkdCc0s1UGhiV09QSDYycnl4aGRNTGQ4N0N0ZWx2ZktjYTFmakczcDYxNFE3dHpGQXRSZmpXRmRtUXdnV0dzeWprN3RXRXUzYnNIMm9rTFBic180UkpfZWJTRkpfSDdQamh2eGREZ2xxeHJ1NTN4Yk1udThFUmNsRU9SWmF4SVB6eVBzRHRGbFRUV2FYZjRvWkVCN2RRUjhCWlZydmRj?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Wed, 13 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:24+00:00"
+  }
+ ]
+}

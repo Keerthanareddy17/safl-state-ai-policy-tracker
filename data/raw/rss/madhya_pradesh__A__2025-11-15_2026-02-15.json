@@ -1,0 +1,120 @@
+{
+ "region": "Madhya Pradesh",
+ "group": "A",
+ "query": "(\"Madhya Pradesh\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Madhya+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:48+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "IndiaAI Mission, MeitY & Government of Madhya Pradesh Conclude the Madhya Pradesh Regional AI Impact Conference 2026 in Bhopal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0yc0tlTTlyWkJzUDJndkhodXFLS0dzUk8wTHA3MGpPaUVDbjZNeUVPb3VqRU5sRFhkcmpIaDNrMzVqX1RDbkRvZ05BYW9KNVF4M2d5ZzBsT0tQNWx6Qmt2ejBQLWphTWRrVFotWVdxU25SUU40aW9HanR3?oc=5\" target=\"_blank\">IndiaAI Mission, MeitY & Government of Madhya Pradesh Conclude the Madhya Pradesh Regional AI Impact Conference 2026 in Bhopal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yc0tlTTlyWkJzUDJndkhodXFLS0dzUk8wTHA3MGpPaUVDbjZNeUVPb3VqRU5sRFhkcmpIaDNrMzVqX1RDbkRvZ05BYW9KNVF4M2d5ZzBsT0tQNWx6Qmt2ejBQLWphTWRrVFotWVdxU25SUU40aW9HanR3?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 15 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Abhishek Singh on the IndiaAI Mission and Madhya Pradesh’s role in shaping national AI infrastructure",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkFJVmt5NGdGbmtWWC1qN2NKZ3lxS2R1QVBXVGVLMjY0cGlGWG0yRVpXZkk4VEpDemo5Ry1idjBqSzY5SkwtUHJ6WHItd0FoSDdCeW5UOWV4dzAya2ZJc0dYMW5rdWZ3aXBLWklIOUhzcXRYUHpiM2FnRXFXa19TZTBkVU0zWnQ3ekVfb0VUUHBuUC1LX0ZZdjQ2SEdaVGM2X2tfbHltZE5qdkx1b0pOX0RKeUZKdmlxdVpIZHVNdndkc0Z5bWJ3R0pBQVdfYkpWeFF0Q2xrdTh2SHJxX0lGcUdmMjNZQdIB6wFBVV95cUxPT1FwMmZQUWJURVJOQ1hzMWxBWEo2YXBnUXgtZFl5Mkg5WUQ3Z09XTzNTY2xpeGRIX0V3VGNoY3BiYXFoVXEyM0trRXhTU1U2YVpqeVV4UWs3bmFZcVh5ZGVmeXdyY3VEcnJ5d3JwV2szbDRWWlFrRXpLTjNOeS1EWk1kcEVzeUZXZHNGTURrUHgwTzVvcGhJcm5PdFIyUnRQcGlVOHFJYnpTVG1Td1ljdmZ1TklJTHB0LVhZOFRIcGxEV2I4WVFmdmdWbk1LUDJVZWpVMlBCdXcwY1FlQ2psb0lodHdoa1FaQzln?oc=5\" target=\"_blank\">Abhishek Singh on the IndiaAI Mission and Madhya Pradesh’s role in shaping national AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkFJVmt5NGdGbmtWWC1qN2NKZ3lxS2R1QVBXVGVLMjY0cGlGWG0yRVpXZkk4VEpDemo5Ry1idjBqSzY5SkwtUHJ6WHItd0FoSDdCeW5UOWV4dzAya2ZJc0dYMW5rdWZ3aXBLWklIOUhzcXRYUHpiM2FnRXFXa19TZTBkVU0zWnQ3ekVfb0VUUHBuUC1LX0ZZdjQ2SEdaVGM2X2tfbHltZE5qdkx1b0pOX0RKeUZKdmlxdVpIZHVNdndkc0Z5bWJ3R0pBQVdfYkpWeFF0Q2xrdTh2SHJxX0lGcUdmMjNZQdIB6wFBVV95cUxPT1FwMmZQUWJURVJOQ1hzMWxBWEo2YXBnUXgtZFl5Mkg5WUQ3Z09XTzNTY2xpeGRIX0V3VGNoY3BiYXFoVXEyM0trRXhTU1U2YVpqeVV4UWs3bmFZcVh5ZGVmeXdyY3VEcnJ5d3JwV2szbDRWWlFrRXpLTjNOeS1EWk1kcEVzeUZXZHNGTURrUHgwTzVvcGhJcm5PdFIyUnRQcGlVOHFJYnpTVG1Td1ljdmZ1TklJTHB0LVhZOFRIcGxEV2I4WVFmdmdWbk1LUDJVZWpVMlBCdXcwY1FlQ2psb0lodHdoa1FaQzln?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Profiling the Foreign Investment Appeal of Madhya Pradesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeV9qd1BCSGVPRWoyelZfU2FsOTJ2OVB6UWZITVNwZUhfdkMwMk4zSmRTV2Q5WURDWmlVTlJsVVVBY0lXRkRJMU9pWDhJeG90NzFDN3lrQVpqTmpmdTJrVG1YODZlb2RYYjlpdnZQRXhtZGhrMVY4eDdIaXduNThPVU1rc3VYSlpvb3VaYTREZjlVQXNSYmZmeHAzdkFhUUxfVWxhdmZwamc1ckpVVkVsY3JyRzc1MHZIS2ppb3F2SUxZQkpBa0M2Y2wzUFFDQ25ZTF9VX0V3?oc=5\" target=\"_blank\">Profiling the Foreign Investment Appeal of Madhya Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Briefing</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeV9qd1BCSGVPRWoyelZfU2FsOTJ2OVB6UWZITVNwZUhfdkMwMk4zSmRTV2Q5WURDWmlVTlJsVVVBY0lXRkRJMU9pWDhJeG90NzFDN3lrQVpqTmpmdTJrVG1YODZlb2RYYjlpdnZQRXhtZGhrMVY4eDdIaXduNThPVU1rc3VYSlpvb3VaYTREZjlVQXNSYmZmeHAzdkFhUUxfVWxhdmZwamc1ckpVVkVsY3JyRzc1MHZIS2ppb3F2SUxZQkpBa0M2Y2wzUFFDQ25ZTF9VX0V3?oc=5",
+   "source_name": "India Briefing",
+   "source_domain": "india-briefing.com",
+   "published_raw": "Mon, 19 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "CM Mohan Yadav launches 'Madhya Pradesh SpaceTech Policy-2026' at AI Impact Conference in Bhopal, 7 MoUs exchanged",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPczVlNzVLT3lHNHo0S01WYXlwRndvTUN5aW5sSEpqSTVYZ1U1Y2VOZVRMOFo2cFdMYXlzZEdGaHcxcFRfOHJyVVR0VlcxV3JaQnJmZ2dPcFNpZ1QtbktMTERzTWF2VDNKYWRiMjdkbUp5UThLQ0lWM3UtSGJwcjNQOTVCWWhmdVJpTTZLVUVLb3NYUklwSDVHbGR2Tkk3aWFlTnVUcjdKMVNMejg3eGp1WU1yeDVZTGQydjRKdVJvWFotOXJENUZUQXlKckVfMDZaZE9KSUlwaTJid3ZpRmdUdHFvdWtTdGcwbkJVdXVtVXZtNXdOSzZVUzQzMnNVdFAwWG90U1Rn?oc=5\" target=\"_blank\">CM Mohan Yadav launches 'Madhya Pradesh SpaceTech Policy-2026' at AI Impact Conference in Bhopal, 7 MoUs exchanged</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPczVlNzVLT3lHNHo0S01WYXlwRndvTUN5aW5sSEpqSTVYZ1U1Y2VOZVRMOFo2cFdMYXlzZEdGaHcxcFRfOHJyVVR0VlcxV3JaQnJmZ2dPcFNpZ1QtbktMTERzTWF2VDNKYWRiMjdkbUp5UThLQ0lWM3UtSGJwcjNQOTVCWWhmdVJpTTZLVUVLb3NYUklwSDVHbGR2Tkk3aWFlTnVUcjdKMVNMejg3eGp1WU1yeDVZTGQydjRKdVJvWFotOXJENUZUQXlKckVfMDZaZE9KSUlwaTJid3ZpRmdUdHFvdWtTdGcwbkJVdXVtVXZtNXdOSzZVUzQzMnNVdFAwWG90U1Rn?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Thu, 15 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Google shows interest to invest in Madhya Pradesh at Davos meet",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2Nhc0lPQ1psUDNpMC1yQm9FRlp6Q2VRYlMxcDBrZ2tYSzg0US0zcG1GZWhlVTQybjRfMUJtZ2xpdDR0QWdubEQtUVJaNUJSMzdDN3FUZW1LVmZZeDdOUHNybGdqUWQwQlNZcWxiQXU4YzZmRi1nZHRnQW9kd044TG8zWkNMU1FwYUJHS2dPSFhIdGxoU0dEcHNlZURud0pfRDU0OTROd0xuZkdBR0poVlBoM3rSAcIBQVVfeXFMTkNFdnM2alZleFZvSzE3SHdtMFVwV2pDYkU3dEp0WGZxMkZqX09PNUJPT1lyM21lNHFBSnlzMWoyMEJReUJ3TFJkU2NDQUhtUU1MWkN3eFVnRWh0al80WktCVlNVdFBDZFVYLUJXYkk3RDRiWjVtZlZ0NFRuQlladWNPUEtsSkdCMWxja3pTemNYeS1WVFlDV0JPTlFwcFl4QUZMcnpxYU4xZlFVN3MwZGl5TTVBd1dOZXl3LTRjYW5BTnc?oc=5\" target=\"_blank\">Google shows interest to invest in Madhya Pradesh at Davos meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2Nhc0lPQ1psUDNpMC1yQm9FRlp6Q2VRYlMxcDBrZ2tYSzg0US0zcG1GZWhlVTQybjRfMUJtZ2xpdDR0QWdubEQtUVJaNUJSMzdDN3FUZW1LVmZZeDdOUHNybGdqUWQwQlNZcWxiQXU4YzZmRi1nZHRnQW9kd044TG8zWkNMU1FwYUJHS2dPSFhIdGxoU0dEcHNlZURud0pfRDU0OTROd0xuZkdBR0poVlBoM3rSAcIBQVVfeXFMTkNFdnM2alZleFZvSzE3SHdtMFVwV2pDYkU3dEp0WGZxMkZqX09PNUJPT1lyM21lNHFBSnlzMWoyMEJReUJ3TFJkU2NDQUhtUU1MWkN3eFVnRWh0al80WktCVlNVdFBDZFVYLUJXYkk3RDRiWjVtZlZ0NFRuQlladWNPUEtsSkdCMWxja3pTemNYeS1WVFlDV0JPTlFwcFl4QUZMcnpxYU4xZlFVN3MwZGl5TTVBd1dOZXl3LTRjYW5BTnc?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh Emerges as India’s New Technological Powerhouse: Sanjay Dubey",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDdyTGFwaWpLRkp1a1hZejl1aUtOTjlKNi1QaktEM3F0T0JiOE1KQ3VXN0pnSDEwUU82RV9YRGNobUdEdG9rZjdlUjFDenlOWmZ0RE5CN2RDTVBLY3I2a1NrZXdZX1ZjcjZTaUVjNnVUam1Ja1NxVG1rUGNjNDY4OExLQ19WNERzcGwwcW5ZQTlvZWVrWXU5OEJ4dEF6YjdIRHRhMmhnYUltOTA5ajVyeWRYTzVReTRTeFE?oc=5\" target=\"_blank\">Madhya Pradesh Emerges as India’s New Technological Powerhouse: Sanjay Dubey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Express Computer</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDdyTGFwaWpLRkp1a1hZejl1aUtOTjlKNi1QaktEM3F0T0JiOE1KQ3VXN0pnSDEwUU82RV9YRGNobUdEdG9rZjdlUjFDenlOWmZ0RE5CN2RDTVBLY3I2a1NrZXdZX1ZjcjZTaUVjNnVUam1Ja1NxVG1rUGNjNDY4OExLQ19WNERzcGwwcW5ZQTlvZWVrWXU5OEJ4dEF6YjdIRHRhMmhnYUltOTA5ajVyeWRYTzVReTRTeFE?oc=5",
+   "source_name": "Express Computer",
+   "source_domain": "expresscomputer.in",
+   "published_raw": "Thu, 20 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh IAS officers deny using AI-generated images to win National Water Award amid row",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3Z4TlF4TVpQUWU1OHpNRU5BSnJYU1ZCQ2pJZjFKcU9pZjRKMWktY1prN2lGbVpGMUp3RnFBQ3FDZzRZNW9YcEMyeXFVTXBFbUtIXzdOeklGTS1GNnczRGd1OHZlMm1MUUwzRVBUZV9RUTlndmtKR0xqRkQ0cndGb09KODhYZ2tXcFI1UW8zUFZVZ2kyeXJBaHdYbGhDVU1KaFBUUVdJcVpUTUh2VDJLbGxVMEtsMEhRUlltSndYd2FlcHdwcUxwT21n0gHPAUFVX3lxTE5zMHFzUkRaZnBoRENqZ1lwdFVRT0pxTThtd19nQmd4NmI1c19jRWlwdzV1Zk96SXF4UTJTYUN1T0VDQW42RlJxZXJ0NkNNU1NDdGtWMkZ6UEo1cG1OR25sSnlwczNXSGRjY1ppaG5TeHNfUEVMem0yenpfdkRuSngtY0g2RVhEZVFJUlgtTjdrRXZrTTZlSzhham5BM2RNNzk2Y2x0dl94RVdBQkh2ZnlpMjEzUXVBcnR0ZERYMEJYRklxV0pHRlo5ZmtfWUpLNA?oc=5\" target=\"_blank\">Madhya Pradesh IAS officers deny using AI-generated images to win National Water Award amid row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3Z4TlF4TVpQUWU1OHpNRU5BSnJYU1ZCQ2pJZjFKcU9pZjRKMWktY1prN2lGbVpGMUp3RnFBQ3FDZzRZNW9YcEMyeXFVTXBFbUtIXzdOeklGTS1GNnczRGd1OHZlMm1MUUwzRVBUZV9RUTlndmtKR0xqRkQ0cndGb09KODhYZ2tXcFI1UW8zUFZVZ2kyeXJBaHdYbGhDVU1KaFBUUVdJcVpUTUh2VDJLbGxVMEtsMEhRUlltSndYd2FlcHdwcUxwT21n0gHPAUFVX3lxTE5zMHFzUkRaZnBoRENqZ1lwdFVRT0pxTThtd19nQmd4NmI1c19jRWlwdzV1Zk96SXF4UTJTYUN1T0VDQW42RlJxZXJ0NkNNU1NDdGtWMkZ6UEo1cG1OR25sSnlwczNXSGRjY1ppaG5TeHNfUEVMem0yenpfdkRuSngtY0g2RVhEZVFJUlgtTjdrRXZrTTZlSzhham5BM2RNNzk2Y2x0dl94RVdBQkh2ZnlpMjEzUXVBcnR0ZERYMEJYRklxV0pHRlo5ZmtfWUpLNA?oc=5",
+   "source_name": "ThePrint",
+   "source_domain": "theprint.in",
+   "published_raw": "Wed, 31 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh CM Mohan Yadav hails Union Budget 2026-27 as roadmap to boost India's global image",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVFmNEpCYWRhOF8wRktHSU9zT0ZZZHAwQXJ1ZURRYXNtRXJTV3pPSVNYWUh2NlVQZ2h2ZzlWcmhnZXRQSDdlSFZqZXY0eFNJa3ZXbzBVQjJWRHpTMlpsNzBzM0ZyZGxhcGxuTFg1SlNOdGtNUVNlVG9aNjFsZUxBX2hwUDctR2lqckx5T19MdFZZaEZzTlVGNjZ3M2VxSzhfVk12akVVU0VCNVFiRmZBUmM1T2dTalJaZnZ1RUs2LXNPVUZYUjZYYQ?oc=5\" target=\"_blank\">Madhya Pradesh CM Mohan Yadav hails Union Budget 2026-27 as roadmap to boost India's global image</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Mill</font>",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVFmNEpCYWRhOF8wRktHSU9zT0ZZZHAwQXJ1ZURRYXNtRXJTV3pPSVNYWUh2NlVQZ2h2ZzlWcmhnZXRQSDdlSFZqZXY0eFNJa3ZXbzBVQjJWRHpTMlpsNzBzM0ZyZGxhcGxuTFg1SlNOdGtNUVNlVG9aNjFsZUxBX2hwUDctR2lqckx5T19MdFZZaEZzTlVGNjZ3M2VxSzhfVk12akVVU0VCNVFiRmZBUmM1T2dTalJaZnZ1RUs2LXNPVUZYUjZYYQ?oc=5",
+   "source_name": "The News Mill",
+   "source_domain": "thenewsmill.com",
+   "published_raw": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh to institutionalise AI in governance, scale deployments beyond pilots: ACS Sanjay Dubey",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPOWFLUmc2VTlUZUF4NElQSnU5OThyRDZJWExIT0pURDV2aloxd2k1VHQwVkNIOUFKUXJBZ1o3aXVBckxGdTYxeVlCNWpNdEZUX3RjcU1qT1hnNGY1RnNJdmhqZ0xaSy1WXzVtVDJnWTlYdmdpVWR3b25BcnNiREswUmZjNDFSOXpHTmZiNDNYU1dMbnBLWXpxRk1BZnFNb1pVeFZMQ1BJdkJwZXdHZEtXNUZtYUs1OFkwS1hGSjdLVlRqdVZUN0JYZTFrbzllUjZDWVlqTmxJd29qcmR1RVo0RWxmSE5aNGxIZ0p6cUlwWmFuemtNZkRFek5rM0NwVF9VSnU3OUt5b9IBjAJBVV95cUxQX0JCaGw1Qk9yTXNMSXg4YXFPUS15cHpvZHBJeTZiakRUS2VjXzJyTWJmWFl4T1FSVDhITnVEVXpjWi05SlpHaUVuY1J2OXZ5MXZoMXUxalRYRHh0ZlZBb3dseXptWnFLYlN1ZUktS1ZTZTZreGtSd3hxLXZPSmpoV3BnanV5RVVHVEhHS0ZCblhWZGZ3d0lIWWpCWkd2bnJNNmJhWkFDT2VsNVNnQ05JU19mcHQ3STBTWWRVNDRBemhiX05tUkdZRzF0cm1tdHBNQkNBOWJUTTlCQmJYMGYxd2kzTjNJWV9XRGtnS0JIcmpXNFJaWms2SHhJWHFuY0lvYk10T1V3OHcwajVI?oc=5\" target=\"_blank\">Madhya Pradesh to institutionalise AI in governance, scale deployments beyond pilots: ACS Sanjay Dubey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOWFLUmc2VTlUZUF4NElQSnU5OThyRDZJWExIT0pURDV2aloxd2k1VHQwVkNIOUFKUXJBZ1o3aXVBckxGdTYxeVlCNWpNdEZUX3RjcU1qT1hnNGY1RnNJdmhqZ0xaSy1WXzVtVDJnWTlYdmdpVWR3b25BcnNiREswUmZjNDFSOXpHTmZiNDNYU1dMbnBLWXpxRk1BZnFNb1pVeFZMQ1BJdkJwZXdHZEtXNUZtYUs1OFkwS1hGSjdLVlRqdVZUN0JYZTFrbzllUjZDWVlqTmxJd29qcmR1RVo0RWxmSE5aNGxIZ0p6cUlwWmFuemtNZkRFek5rM0NwVF9VSnU3OUt5b9IBjAJBVV95cUxQX0JCaGw1Qk9yTXNMSXg4YXFPUS15cHpvZHBJeTZiakRUS2VjXzJyTWJmWFl4T1FSVDhITnVEVXpjWi05SlpHaUVuY1J2OXZ5MXZoMXUxalRYRHh0ZlZBb3dseXptWnFLYlN1ZUktS1ZTZTZreGtSd3hxLXZPSmpoV3BnanV5RVVHVEhHS0ZCblhWZGZ3d0lIWWpCWkd2bnJNNmJhWkFDT2VsNVNnQ05JU19mcHQ3STBTWWRVNDRBemhiX05tUkdZRzF0cm1tdHBNQkNBOWJUTTlCQmJYMGYxd2kzTjNJWV9XRGtnS0JIcmpXNFJaWms2SHhJWHFuY0lvYk10T1V3OHcwajVI?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Sun, 18 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Madhya Pradesh",
+   "title": "Madhya Pradesh Signs MoU with Digital India BHASHINI to Boost Multilingual AI Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUYxQ1dqdjBDN3NyY0ZtMktXOUNEQ0NvWGlZenhyUkIzUUV0RHU3eHFxeXVaRW52eFRMZ1lPUk00azJweUR2NHBXbkZmVDJwaHg0YVlRRVk1elFMcTN5bmJzVEZ1X0FTNnVJelJkckcxMW9yejRTOHg0RkxQWHFaNzA5aGNjT3pKNlpCWXUtWTAyWEdaai15cGd4aTFGZFdJSUVwaFZWUFhPRHY2NlFyLVFac2dVNkY5OHRRbXpZMzdXZw?oc=5\" target=\"_blank\">Madhya Pradesh Signs MoU with Digital India BHASHINI to Boost Multilingual AI Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUYxQ1dqdjBDN3NyY0ZtMktXOUNEQ0NvWGlZenhyUkIzUUV0RHU3eHFxeXVaRW52eFRMZ1lPUk00azJweUR2NHBXbkZmVDJwaHg0YVlRRVk1elFMcTN5bmJzVEZ1X0FTNnVJelJkckcxMW9yejRTOHg0RkxQWHFaNzA5aGNjT3pKNlpCWXUtWTAyWEdaai15cGd4aTFGZFdJSUVwaFZWUFhPRHY2NlFyLVFac2dVNkY5OHRRbXpZMzdXZw?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:48+00:00"
+  }
+ ]
+}

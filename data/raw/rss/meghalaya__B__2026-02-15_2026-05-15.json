@@ -1,0 +1,120 @@
+{
+ "region": "Meghalaya",
+ "group": "B",
+ "query": "(Meghalaya) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Meghalaya%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:36+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Where Heritage Meets Intelligence: Empowering Artisans through AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SWhVcHY1TUptVmJwWDFqZ3NlQ0R1WDliWEhmYUJpWm9JRzZiUTFESTZ4Z1lMU3E5bWlDWGZzM19QVDNRQ0RzZ0VfU0hfeFpQUUt4RS1EaGlKc1daVzhYRnRqdW55cWlO?oc=5\" target=\"_blank\">Where Heritage Meets Intelligence: Empowering Artisans through AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SWhVcHY1TUptVmJwWDFqZ3NlQ0R1WDliWEhmYUJpWm9JRzZiUTFESTZ4Z1lMU3E5bWlDWGZzM19QVDNRQ0RzZ0VfU0hfeFpQUUt4RS1EaGlKc1daVzhYRnRqdW55cWlO?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "RNIT AI Solutions Secures Paid Pilot Order from Meghalaya Government for AI Face Recognition System Integration",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPWU5SM09NZk9oMHNVNy0tVlJWekxnMlQyR0s3dzJDcVl1UEhqeDA4MnNVNmp6MjktNWtXM3Q2cDhldFgzU3hlR3RYVkFDYnJuVjhURFp1WG5MTWtub2xOWHBGZHllMENsVjlyWjk1VlRzQWV1UzNGa3A1azZ6V0JoSHBxWmxSMGtvTmZyd01nazRISXR6ZVE4R01QMnNYUmc1a1g1bzFXVlQ4eVRqZG1KWWNuNkRsZUlXWjhVSmZaUEpXUWNGT2dDQzBTa19vX19KMDJqcHIzbkRXb1E2alRlaDdyZGZGejQ5U0NTZFhGbXlOLWQ5bExSUm1fWkczTnR4?oc=5\" target=\"_blank\">RNIT AI Solutions Secures Paid Pilot Order from Meghalaya Government for AI Face Recognition System Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWU5SM09NZk9oMHNVNy0tVlJWekxnMlQyR0s3dzJDcVl1UEhqeDA4MnNVNmp6MjktNWtXM3Q2cDhldFgzU3hlR3RYVkFDYnJuVjhURFp1WG5MTWtub2xOWHBGZHllMENsVjlyWjk1VlRzQWV1UzNGa3A1azZ6V0JoSHBxWmxSMGtvTmZyd01nazRISXR6ZVE4R01QMnNYUmc1a1g1bzFXVlQ4eVRqZG1KWWNuNkRsZUlXWjhVSmZaUEpXUWNGT2dDQzBTa19vX19KMDJqcHIzbkRXb1E2alRlaDdyZGZGejQ5U0NTZFhGbXlOLWQ5bExSUm1fWkczTnR4?oc=5",
+   "source_name": "scanx.trade",
+   "source_domain": "scanx.trade",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "MIT University of Meghalaya partners with Bengaluru-based Flo101 tech labs to advance AI-enabled learning in..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNkZGQVBoTFVCN1Y2aTAxZWNwTEZPb2E2Z0pFVjdXanBhRkUyd3BxT3V0Sjl3QzRwajZnVG9JQVBvbzdfYklLQzNWeFMwX21vd1ljMXp2ZGZMRk9jMkphR1dtZXZRNFFnNzhOaFZKckV6M2xIemZjcVJvdUNjQmhENEptYXNfOTI5NnVLLVZjZExpVVhuVzdxYTVSWHNLZk0wQVdkb2lvb2lmRHd3ZVJiaFctVWVLZFBzRTdvY0gzSUdGX29keEJLTWN4VS03Vk91WFQ5V0lQeVd5Rjd0bmsyVFlTdnNMOVVad0pYcmRxOVdzZ2JSTmNyTzNHcUTSAYACQVVfeXFMTVBpSVE2TEtTX1E3Q0EzWTNybEpreExhS1J1SW1WUzBwWmhMM3A1b3ZOQmJRZzM4WTB0U2pCLVhtRF9UTDdwLW5yRmt6QXRjYnNObWMyOUxmV3Q3OEl1R21Ca0U1M2Z6YS03UkF4MEM0UFhwTVJrdURHWUpTbUxObFVXOE5mU1dmMUR5Ni0yN3hYSWxjV3dNU2JCbjVoUVhia2tHMHVqc2h6ZVFwVnFEaTdQdGNBWVN2d0JGWW5oSFBqVDVVTDFWRkNjOUpZMXVPUHlpWWdMOXY3X2hseENadEpSN0l4Q2lGekJpSVdfOVlYUzYzN1p4UjFXNU52aURsZA?oc=5\" target=\"_blank\">MIT University of Meghalaya partners with Bengaluru-based Flo101 tech labs to advance AI-enabled learning in..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNkZGQVBoTFVCN1Y2aTAxZWNwTEZPb2E2Z0pFVjdXanBhRkUyd3BxT3V0Sjl3QzRwajZnVG9JQVBvbzdfYklLQzNWeFMwX21vd1ljMXp2ZGZMRk9jMkphR1dtZXZRNFFnNzhOaFZKckV6M2xIemZjcVJvdUNjQmhENEptYXNfOTI5NnVLLVZjZExpVVhuVzdxYTVSWHNLZk0wQVdkb2lvb2lmRHd3ZVJiaFctVWVLZFBzRTdvY0gzSUdGX29keEJLTWN4VS03Vk91WFQ5V0lQeVd5Rjd0bmsyVFlTdnNMOVVad0pYcmRxOVdzZ2JSTmNyTzNHcUTSAYACQVVfeXFMTVBpSVE2TEtTX1E3Q0EzWTNybEpreExhS1J1SW1WUzBwWmhMM3A1b3ZOQmJRZzM4WTB0U2pCLVhtRF9UTDdwLW5yRmt6QXRjYnNObWMyOUxmV3Q3OEl1R21Ca0U1M2Z6YS03UkF4MEM0UFhwTVJrdURHWUpTbUxObFVXOE5mU1dmMUR5Ni0yN3hYSWxjV3dNU2JCbjVoUVhia2tHMHVqc2h6ZVFwVnFEaTdQdGNBWVN2d0JGWW5oSFBqVDVVTDFWRkNjOUpZMXVPUHlpWWdMOXY3X2hseENadEpSN0l4Q2lGekJpSVdfOVlYUzYzN1p4UjFXNU52aURsZA?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Fri, 08 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "India’s Catholic Chief Minister Calls for Peace Amid Unrest in Meghalaya",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGp1dkVPTFlzdUs4N25CNWhjS2xkN2FFSm9CVFV2V3VYcEFiUm8tVHdoRUtZRzhOQ3NfN2xyckhvUHlTLXJSVkZZZkU2RTR3bVMxVkF5RFB3MGp5MWhVc1VwSktaN3doN1hTNDFSX1U1OWdxWTlubjVRYXU4ZHU2SkM2SXpTMzBtcS1qYWFSM3VieHR2aGZJRHRUc3V0cUk?oc=5\" target=\"_blank\">India’s Catholic Chief Minister Calls for Peace Amid Unrest in Meghalaya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Veritas Asia</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGp1dkVPTFlzdUs4N25CNWhjS2xkN2FFSm9CVFV2V3VYcEFiUm8tVHdoRUtZRzhOQ3NfN2xyckhvUHlTLXJSVkZZZkU2RTR3bVMxVkF5RFB3MGp5MWhVc1VwSktaN3doN1hTNDFSX1U1OWdxWTlubjVRYXU4ZHU2SkM2SXpTMzBtcS1qYWFSM3VieHR2aGZJRHRUc3V0cUk?oc=5",
+   "source_name": "Radio Veritas Asia",
+   "source_domain": "rvasia.org",
+   "published_raw": "Thu, 12 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya Rat-Hole Mining: A Deadly Economy in Plain Sight",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkMzaC10UThRcVRwSFFMR0NIYnJwNWZESVJPMVRtbTFZVDYwSFd5Vmc0QVRKQUEtRkJfMm1udlg4a0JfdC1fZ1JHV0VPUGhBNnJMRk9tMmdhQVRYb2hxYi1nRFNrSWVQU0QzZDhwNU9EZHZHOWJTSzNIeDA1ZTFTMmJiM2ZLczJZRld5aG9WaUN2Vm9pX0U1T3k2ejdpVWtVRDJxaHpKakpzZ2pz0gGzAUFVX3lxTE9fZE5ZMmlXam1BbV80OVFZUnpRTGNKTGFpQzZLbHlLc2d4N2lWczVGcWpfRGdaOFY5cTB4R0ZTRnU4cmJ4c29aYnl3SGZiX1FSV01HMlRMTkVycGgyODJYc0NnV3QxSi1ydGU3c1RyVUF6c1pBWlFOV0QyRm9pR1Q5blJKX2NpaS10c1FvQUtNcUVNc0p0LVhNNWlaQTJNYy10ODhLcVRDVGNiNzc4X0xqanZz?oc=5\" target=\"_blank\">Meghalaya Rat-Hole Mining: A Deadly Economy in Plain Sight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontline Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkMzaC10UThRcVRwSFFMR0NIYnJwNWZESVJPMVRtbTFZVDYwSFd5Vmc0QVRKQUEtRkJfMm1udlg4a0JfdC1fZ1JHV0VPUGhBNnJMRk9tMmdhQVRYb2hxYi1nRFNrSWVQU0QzZDhwNU9EZHZHOWJTSzNIeDA1ZTFTMmJiM2ZLczJZRld5aG9WaUN2Vm9pX0U1T3k2ejdpVWtVRDJxaHpKakpzZ2pz0gGzAUFVX3lxTE9fZE5ZMmlXam1BbV80OVFZUnpRTGNKTGFpQzZLbHlLc2d4N2lWczVGcWpfRGdaOFY5cTB4R0ZTRnU4cmJ4c29aYnl3SGZiX1FSV01HMlRMTkVycGgyODJYc0NnV3QxSi1ydGU3c1RyVUF6c1pBWlFOV0QyRm9pR1Q5blJKX2NpaS10c1FvQUtNcUVNc0p0LVhNNWlaQTJNYy10ODhLcVRDVGNiNzc4X0xqanZz?oc=5",
+   "source_name": "Frontline Magazine",
+   "source_domain": "frontline.thehindu.com",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya signs first tenant for Shillong Technology Park-II as NASSCOM meet pushes digital economy vision",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjhjeEpVYk9DZnNaVGVIUWhodm95V3J2T1RXSFp4NVhoclpldWZYS1hjT3JET0hBYy04bmJOM0hrZlkybzlmTXVSVExZQjBQWmlNeXpFdm5YMnhDMlpjMjZjR1hqQkxOV1I0bXhzVjBhY3dIQ2hNR1hVcmQtbGs2Q2tWb29vaDhmYmVuMUpvcEJVX3A5VllsN3JwQWZyQ3RFRlJUbi1CeXZrODZHRjl6UUJxbHlJM0V6M0xKNVhmZjJZNmtRQlRBNmJn?oc=5\" target=\"_blank\">Meghalaya signs first tenant for Shillong Technology Park-II as NASSCOM meet pushes digital economy vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syllad</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjhjeEpVYk9DZnNaVGVIUWhodm95V3J2T1RXSFp4NVhoclpldWZYS1hjT3JET0hBYy04bmJOM0hrZlkybzlmTXVSVExZQjBQWmlNeXpFdm5YMnhDMlpjMjZjR1hqQkxOV1I0bXhzVjBhY3dIQ2hNR1hVcmQtbGs2Q2tWb29vaDhmYmVuMUpvcEJVX3A5VllsN3JwQWZyQ3RFRlJUbi1CeXZrODZHRjl6UUJxbHlJM0V6M0xKNVhmZjJZNmtRQlRBNmJn?oc=5",
+   "source_name": "Syllad",
+   "source_domain": "syllad.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya hands over 66 acres near Umiam Lake for 5-star resort, projects Rs 1,982 cr revenue",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSzFnX1RJc1JoVjVSVzVmSnVQQmk5dHpNNno3eUhmLUZRaVhxQ1JUOHlPaEJrLWJKQ0xHNGt5Vm9pQzc5QWRDOFZ6b3NfdVdHLWRqRkc1dXh6Xy0wc2d4MkhhY0VWVUhIRjBKZEszZjZtMlpHVzlUREdFdU9xdFREaFdPN283d216eXhURVpxbGRMZEFyUmY5eThYN3hQLXl4RGIzcER4WVBDdzBwVUJYZ3owSzVPRDlwYXNZZ1BPcEZhVWpDOS1FTGR5MEMtbDRUa1B1YWZUbTUzTldocmVpelFUNzBMX09ULUHSAe8BQVVfeXFMT3hLU3NjY1Y0bnM4VEZOeXFZbmNIOWc0eGJpN05QSnhSa0MzSnNtQ0JkUEoteHU4TDRRcWF3Z1lUMDZyeExiWEVkOGNneWw2dXU2aFZsN3djOUN5Vkt4NGZJT0JCNUVaa0I5R1BZNi1lbktQT3NTQnRwVXlENHM0OGQtYlAyc2VWQjViZUxvelB0X0pJWE5yYmt3LTh1X01vZkdLek8zNkZJNW5vVlVJc0pDRmZvNW1wd2VPSzdLbTNEdVd0Z3R4T2h1aDNaQWtIR1hqR2tFRkVVRm5JVVBLVzd4UWg0VGlsSnhEaTZGVlE?oc=5\" target=\"_blank\">Meghalaya hands over 66 acres near Umiam Lake for 5-star resort, projects Rs 1,982 cr revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSzFnX1RJc1JoVjVSVzVmSnVQQmk5dHpNNno3eUhmLUZRaVhxQ1JUOHlPaEJrLWJKQ0xHNGt5Vm9pQzc5QWRDOFZ6b3NfdVdHLWRqRkc1dXh6Xy0wc2d4MkhhY0VWVUhIRjBKZEszZjZtMlpHVzlUREdFdU9xdFREaFdPN283d216eXhURVpxbGRMZEFyUmY5eThYN3hQLXl4RGIzcER4WVBDdzBwVUJYZ3owSzVPRDlwYXNZZ1BPcEZhVWpDOS1FTGR5MEMtbDRUa1B1YWZUbTUzTldocmVpelFUNzBMX09ULUHSAe8BQVVfeXFMT3hLU3NjY1Y0bnM4VEZOeXFZbmNIOWc0eGJpN05QSnhSa0MzSnNtQ0JkUEoteHU4TDRRcWF3Z1lUMDZyeExiWEVkOGNneWw2dXU2aFZsN3djOUN5Vkt4NGZJT0JCNUVaa0I5R1BZNi1lbktQT3NTQnRwVXlENHM0OGQtYlAyc2VWQjViZUxvelB0X0pJWE5yYmt3LTh1X01vZkdLek8zNkZJNW5vVlVJc0pDRmZvNW1wd2VPSzdLbTNEdVd0Z3R4T2h1aDNaQWtIR1hqR2tFRkVVRm5JVVBLVzd4UWg0VGlsSnhEaTZGVlE?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya rolls out centralised PF for 30,000 teachers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzk4SVBDTGZQZGY4eUJ4NVpSOXlTYURqdzFFbGRKTFU2aTUxWmVsLTJqaXp0dXFobm1iemEwcWJzWkJKUHpsWVdMZGJnVlQ2MkF2eTZyQ0wzLU8xNEVlZWVpS25oSWJoX2ZETkNwY1BubzNKX3FzR2dqdUNvT0pFeV9ZN3ZhWkVGVWVyN05EVlJsSjdfUjZLSG9Lc1R1NzROcUNnazNCWFdSc1BMaVJreTloa3IyU09KcHRHQjZEanZOZlFSWEFjOUFlNVFWNmNp0gHUAUFVX3lxTE1xOG9wMzE2YjVEZ3pmMVhiTVA3WXpaSElsODBFWndqNnBOS1JFTHo0Tk1USmZfd1g0aVh5QzF0SWVYVGJiN2xuNHhqODhVanRMeWZLMG03bVFHdUpfbnlzZklEZmdXTmtFVDZDMEJrM0VqZHZMcmJseFA1d2trMVdMaGhWemlYcEpObldNaVRpSjhVblF2X3BPWEhWSm05d19yVGtha0ZvOV94RU0wenVHeEJzN2pIUkFOWWpXc2FqWlJyWU10d3ExYi1palllNW92aHU5?oc=5\" target=\"_blank\">Meghalaya rolls out centralised PF for 30,000 teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzk4SVBDTGZQZGY4eUJ4NVpSOXlTYURqdzFFbGRKTFU2aTUxWmVsLTJqaXp0dXFobm1iemEwcWJzWkJKUHpsWVdMZGJnVlQ2MkF2eTZyQ0wzLU8xNEVlZWVpS25oSWJoX2ZETkNwY1BubzNKX3FzR2dqdUNvT0pFeV9ZN3ZhWkVGVWVyN05EVlJsSjdfUjZLSG9Lc1R1NzROcUNnazNCWFdSc1BMaVJreTloa3IyU09KcHRHQjZEanZOZlFSWEFjOUFlNVFWNmNp0gHUAUFVX3lxTE1xOG9wMzE2YjVEZ3pmMVhiTVA3WXpaSElsODBFWndqNnBOS1JFTHo0Tk1USmZfd1g0aVh5QzF0SWVYVGJiN2xuNHhqODhVanRMeWZLMG03bVFHdUpfbnlzZklEZmdXTmtFVDZDMEJrM0VqZHZMcmJseFA1d2trMVdMaGhWemlYcEpObldNaVRpSjhVblF2X3BPWEhWSm05d19yVGtha0ZvOV94RU0wenVHeEJzN2pIUkFOWWpXc2FqWlJyWU10d3ExYi1palllNW92aHU5?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 06 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya Health Minister says State has highest HIV caseload in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPeU9OTDNRemNwd2cyS1N1SUJKeDJ6Vkg4S1VXYWxaMTkwY3I4QlI1ZDZWU05GT2FsWXhncXJqbXE2bGZFYkdlOWVNbVdLRk1tRlJFMHp2NkFPQ2JPVFE4VUlnZ0ZwMEdFcERldzJocE13QlgtQUJIYVNDNlcxN1lQeDVVT1JiSVVnTWk4NHRoQnVDSWlEamdtektwYjBGQzZGaXhBNHh5QnZkTElZenNmOGE1QnNNczFVNUxrM2xBNUN3aVMyWm1lcFRSaUlCd9IB1AFBVV95cUxOODExOU85R3U1d2Z0eWJvckVYMk1ZNFJtRFpaQkY4WmN4QmgwWlFrVXZieVF2Z21VMmZneV9UX2lKLWVlWnVfbkxuOHp4M0FsbWcxcFFpTmlNbENZUkxmMmFFTHlpNlVTVi1fY1pENmRaODduMDdwTVlXSWVEY0FiM3lBRENac0RsRlpZWWliNXpSN2o4NHNrVFIxdXFCRW9WQzFtRGVyLVFocnZVc0dFcUowZVN5YXUwRnlDU2I0N3c2NC1EOE5oeVJZUGRSa0tITVlUWg?oc=5\" target=\"_blank\">Meghalaya Health Minister says State has highest HIV caseload in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeU9OTDNRemNwd2cyS1N1SUJKeDJ6Vkg4S1VXYWxaMTkwY3I4QlI1ZDZWU05GT2FsWXhncXJqbXE2bGZFYkdlOWVNbVdLRk1tRlJFMHp2NkFPQ2JPVFE4VUlnZ0ZwMEdFcERldzJocE13QlgtQUJIYVNDNlcxN1lQeDVVT1JiSVVnTWk4NHRoQnVDSWlEamdtektwYjBGQzZGaXhBNHh5QnZkTElZenNmOGE1QnNNczFVNUxrM2xBNUN3aVMyWm1lcFRSaUlCd9IB1AFBVV95cUxOODExOU85R3U1d2Z0eWJvckVYMk1ZNFJtRFpaQkY4WmN4QmgwWlFrVXZieVF2Z21VMmZneV9UX2lKLWVlWnVfbkxuOHp4M0FsbWcxcFFpTmlNbENZUkxmMmFFTHlpNlVTVi1fY1pENmRaODduMDdwTVlXSWVEY0FiM3lBRENac0RsRlpZWWliNXpSN2o4NHNrVFIxdXFCRW9WQzFtRGVyLVFocnZVc0dFcUowZVN5YXUwRnlDU2I0N3c2NC1EOE5oeVJZUGRSa0tITVlUWg?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya MP seeks freeze on environmental clearance process for new cement plant",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNrcXU4MmhoSWxwTUtnOVp1WDlGSWZkdXl6RlpXMGhhem9KRnhIc2R0bmpFWXBsVExFU1ROWl9HV2ZDYkJtS1p5YWttR1U2T3Fhd2VNRUpzM2FqcjNDY3hpNkdFVEFXWFBMaFMzUjhLUGoyMTI2LUhXeXVKVWh5UXBoR1FRRURISFRITmZwa3lOQ0ZNWWc1U0JMYU9XS3ZfblVOdEh1SWtUa3AyY2NlWlNYT0RCOHBOYUlhZm5kX0YyZHRLeXlTQThmOEpMUGFJN1dXMFNJaTJ6RnVlZF9vRGsxcEsyUdIB6wFBVV95cUxQemZ2MDNtMUtzcVFBV2I3OFNjZFhVS0hVUlduZ1VzRkxWTGVKQlRBb0VJYVFBaDJYczJwSVRmRzFhWUtocE5UdnhHN0lvY05xQURkd25zRjBWSFlJZUNNaURTSmNDRmlaZjZnQXcwWF9ueHZyZklFbHpUT0Zjb1B3UVpicVBuZmFydFpRdDZDT1pKWnlXMy1salEyM185ck11WEp4ejRMOTNEV2d4RDE1WjBCMm05N0JaT1l2RENpVnlGOVlTdkQ3SncyLXRQc0t3eFZXS1AyN0Q4WU4yeUd3WWF6X20xZW4wb19j?oc=5\" target=\"_blank\">Meghalaya MP seeks freeze on environmental clearance process for new cement plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNrcXU4MmhoSWxwTUtnOVp1WDlGSWZkdXl6RlpXMGhhem9KRnhIc2R0bmpFWXBsVExFU1ROWl9HV2ZDYkJtS1p5YWttR1U2T3Fhd2VNRUpzM2FqcjNDY3hpNkdFVEFXWFBMaFMzUjhLUGoyMTI2LUhXeXVKVWh5UXBoR1FRRURISFRITmZwa3lOQ0ZNWWc1U0JMYU9XS3ZfblVOdEh1SWtUa3AyY2NlWlNYT0RCOHBOYUlhZm5kX0YyZHRLeXlTQThmOEpMUGFJN1dXMFNJaTJ6RnVlZF9vRGsxcEsyUdIB6wFBVV95cUxQemZ2MDNtMUtzcVFBV2I3OFNjZFhVS0hVUlduZ1VzRkxWTGVKQlRBb0VJYVFBaDJYczJwSVRmRzFhWUtocE5UdnhHN0lvY05xQURkd25zRjBWSFlJZUNNaURTSmNDRmlaZjZnQXcwWF9ueHZyZklFbHpUT0Zjb1B3UVpicVBuZmFydFpRdDZDT1pKWnlXMy1salEyM185ck11WEp4ejRMOTNEV2d4RDE1WjBCMm05N0JaT1l2RENpVnlGOVlTdkQ3SncyLXRQc0t3eFZXS1AyN0Q4WU4yeUd3WWF6X20xZW4wb19j?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:36+00:00"
+  }
+ ]
+}

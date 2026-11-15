@@ -1,0 +1,120 @@
+{
+ "region": "Arunachal Pradesh",
+ "group": "A",
+ "query": "(\"Arunachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Arunachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:09+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pushes AI Education for Youth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQl9pMlNzYUhuUmdnQ3hON3FOOHJpd2hQVUE4X05nTXRISm1iOUJ4WHZrM2NXZjRVNEticXM3UHdFQngtV2YzZldndEJCSjBuN0JPcHh3dXZQVEhqa3NudWQya09jQWhRSW11UFpQSi0?oc=5\" target=\"_blank\">Arunachal Pushes AI Education for Youth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arunachal24</font>",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQl9pMlNzYUhuUmdnQ3hON3FOOHJpd2hQVUE4X05nTXRISm1iOUJ4WHZrM2NXZjRVNEticXM3UHdFQngtV2YzZldndEJCSjBuN0JPcHh3dXZQVEhqa3NudWQya09jQWhRSW11UFpQSi0?oc=5",
+   "source_name": "Arunachal24",
+   "source_domain": "arunachal24.in",
+   "published_raw": "Mon, 12 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Patel Engineering to revive 144 MW Gongri hydropower project in Arunachal Pradesh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUVrcXpvRXpVckhVU1ZKcFB3VnpndWl4dTdIdTFkTTRsSUVXQ1RweTN3ODAtMnFJem9hUHF1anZwaEdRS184LVZsLW9mSVNQOUhCV0o1RVZ0dzBaczQzUjhHYUlFdlFYcFVTLUkxS3pJQlk5NDJIeEtwZTU1ejhIQkdMRlNGWUczMll2eVBJS21lcWtvNUxUcklTNjdONzJ4cUhGdnpVbmx4SkNXX1VhaGpGb0NwcDFicmwtRlIyZnVRY3ZBRmlsa09RNnpFalVqeVc0YjlNTG0zZ24tSUHSAeIBQVVfeXFMTmZYWllRdWZGY0dxdG05c1lvakZiQTNWWEoxZWZzX1FoUDZuWS1BTTMwSmtaZldYbDEzWXdOWFE2QkpvWTE2S3lHWERONTZ5dFlKQmJUTE1WNjFuaVpIOXhjSWVBMF9DdUdnSTV3SlNWRHQ2TTh0R3djYWl3dlJkNTl3SUo1VkJrVE9PV1ZQR0k5Wm56TWxhLWg1VF9wMS1CaGdXOFlvenRiTTB6bmU4UFNiRTFrM1hhR29xSUxZSWRHakxtS2ZrREFTWHVjRTRFYXpwLXdjM3RTRl83UkR4aXB1QQ?oc=5\" target=\"_blank\">Patel Engineering to revive 144 MW Gongri hydropower project in Arunachal Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUVrcXpvRXpVckhVU1ZKcFB3VnpndWl4dTdIdTFkTTRsSUVXQ1RweTN3ODAtMnFJem9hUHF1anZwaEdRS184LVZsLW9mSVNQOUhCV0o1RVZ0dzBaczQzUjhHYUlFdlFYcFVTLUkxS3pJQlk5NDJIeEtwZTU1ejhIQkdMRlNGWUczMll2eVBJS21lcWtvNUxUcklTNjdONzJ4cUhGdnpVbmx4SkNXX1VhaGpGb0NwcDFicmwtRlIyZnVRY3ZBRmlsa09RNnpFalVqeVc0YjlNTG0zZ24tSUHSAeIBQVVfeXFMTmZYWllRdWZGY0dxdG05c1lvakZiQTNWWEoxZWZzX1FoUDZuWS1BTTMwSmtaZldYbDEzWXdOWFE2QkpvWTE2S3lHWERONTZ5dFlKQmJUTE1WNjFuaVpIOXhjSWVBMF9DdUdnSTV3SlNWRHQ2TTh0R3djYWl3dlJkNTl3SUo1VkJrVE9PV1ZQR0k5Wm56TWxhLWg1VF9wMS1CaGdXOFlvenRiTTB6bmU4UFNiRTFrM1hhR29xSUxZSWRHakxtS2ZrREFTWHVjRTRFYXpwLXdjM3RTRl83UkR4aXB1QQ?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Fri, 19 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "OnePlus and Oppo AI refuses to answer ‘Is Arunachal Pradesh a part of India?’; company responds",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdBTjZyVVZBWVRvY2NwRkQzNEtVMjZjTlZwWk1DRmc5eDV0dWhfSVl3SGRmaTB5TkxNUEkzTHlwcVl2Mzk0Zkg2S21NQktWdDNpamtLZFFtelJxZEJOazlOcUZBUGZaaUhfS1ZOQ1ZVSjBwNjFVTTN4WVBoM0JlWGJvWjRLWU5TVjRBTk5NTXp0WXNldXNGZWxTUUduMmlqVnZDdFE0WlFELUZ3VWxaNkJrcHZfWHdfSUo4emJONUtZY0FRRkRjelZXR0hZY2h5cXJEaER1T3hsUy1BMHVIM1NKdDVBMjlrbFczanJR0gHzAUFVX3lxTE9KOVlsVkpxZUkyWkdqZHlsTDhMUi1VZnZ0MF9HN3duZG9XdGd2Ti1DR0pERGVVY3ZNR2J1ck5PcWRWeDFRNzN5eGUtZDJacXUwc25VSHFfZlJuQWlkWi1jZERfb2RCLVc0U21Jd2hxRm1Dbm9LdS1ORTFBYXB1T0ktakhodE9mVVhld19rR280ZjZnU2FFTDlWLTRGcWZKem5ZY2JVSmtWQy1KcW9oOGw4U1NNUFZlN01ZNXdhNjB4MmlpOUgtZ3U1RXV1SVNRWTVubjRjN2poeklHZUxLQS03REVwWmxZTFAxZjFVZ1FPTURqMA?oc=5\" target=\"_blank\">OnePlus and Oppo AI refuses to answer ‘Is Arunachal Pradesh a part of India?’; company responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmdBTjZyVVZBWVRvY2NwRkQzNEtVMjZjTlZwWk1DRmc5eDV0dWhfSVl3SGRmaTB5TkxNUEkzTHlwcVl2Mzk0Zkg2S21NQktWdDNpamtLZFFtelJxZEJOazlOcUZBUGZaaUhfS1ZOQ1ZVSjBwNjFVTTN4WVBoM0JlWGJvWjRLWU5TVjRBTk5NTXp0WXNldXNGZWxTUUduMmlqVnZDdFE0WlFELUZ3VWxaNkJrcHZfWHdfSUo4emJONUtZY0FRRkRjelZXR0hZY2h5cXJEaER1T3hsUy1BMHVIM1NKdDVBMjlrbFczanJR0gHzAUFVX3lxTE9KOVlsVkpxZUkyWkdqZHlsTDhMUi1VZnZ0MF9HN3duZG9XdGd2Ti1DR0pERGVVY3ZNR2J1ck5PcWRWeDFRNzN5eGUtZDJacXUwc25VSHFfZlJuQWlkWi1jZERfb2RCLVc0U21Jd2hxRm1Dbm9LdS1ORTFBYXB1T0ktakhodE9mVVhld19rR280ZjZnU2FFTDlWLTRGcWZKem5ZY2JVSmtWQy1KcW9oOGw4U1NNUFZlN01ZNXdhNjB4MmlpOUgtZ3U1RXV1SVNRWTVubjRjN2poeklHZUxLQS03REVwWmxZTFAxZjFVZ1FPTURqMA?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Mon, 08 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Patel Engineering Signs Mou With Arunachal Pradesh To Develop 144 Mw Gongri Hydropower - PT Pulse",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0trTmdtaFVNSW96S3RtODF6YUV6cl8wdWh1a2ZGazRaVE1Ibk12N0h6QVNmd014blFwYnBJRElSZjhaci0td1dFRkxEM2J6UWtpdlZmeEIzODZLTXJ0WFk5anRtaktoNnZ4bld6U3RUOFoydVV2UVg4VThWS2V1X1IxOTA1ZmRDZWFCemhoRndITE9oQ251NlVFUmFhSXpMVUlTZW92NTZjMzhIclRyLVcyXzA2X19pdUg4ZXlhS01FZlEzRTFTYUxvUTgxWS05RkE?oc=5\" target=\"_blank\">Patel Engineering Signs Mou With Arunachal Pradesh To Develop 144 Mw Gongri Hydropower - PT Pulse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Projects Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0trTmdtaFVNSW96S3RtODF6YUV6cl8wdWh1a2ZGazRaVE1Ibk12N0h6QVNmd014blFwYnBJRElSZjhaci0td1dFRkxEM2J6UWtpdlZmeEIzODZLTXJ0WFk5anRtaktoNnZ4bld6U3RUOFoydVV2UVg4VThWS2V1X1IxOTA1ZmRDZWFCemhoRndITE9oQ251NlVFUmFhSXpMVUlTZW92NTZjMzhIclRyLVcyXzA2X19pdUg4ZXlhS01FZlEzRTFTYUxvUTgxWS05RkE?oc=5",
+   "source_name": "Projects Today",
+   "source_domain": "projectstoday.ai",
+   "published_raw": "Fri, 19 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "RGU hosts pre-summit event",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9lWm9wdGRDZjh5T3dLdmxSYklIRFE5VUkydU5aay1wa0FKelo5T3NNNWU0UEtLTjBraDlPMTF5V0dNZlFEUnF2dWk2Tl9PQjdJMlUwMlljTDVTeW10VlVabTNibmd4cVhDQXN1aw?oc=5\" target=\"_blank\">RGU hosts pre-summit event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lWm9wdGRDZjh5T3dLdmxSYklIRFE5VUkydU5aay1wa0FKelo5T3NNNWU0UEtLTjBraDlPMTF5V0dNZlFEUnF2dWk2Tl9PQjdJMlUwMlljTDVTeW10VlVabTNibmd4cVhDQXN1aw?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "No, CDS Chauhan Did Not Say Government Ceded Arunachal, Ladakh To China | BOOM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU29CRFphVWRaVXRHTWFOR01CVzZjZEJZaHdsb3JIQzhWXzVWd2s5eW9QNnNIR0stLVN1WGdveTZDVl9UQjlPbEd3WTZNMFVETW11UENVYktHWk5qVURpOXl1VjZOVVZCSk5ZMGlPYlhSd1VUbU9QdE43STh0N2F5WTJLMXM4UXlQY1d5bjFpdzBIRldtVjExQVhvX0Z1NE9abFI0THdUUnAxa2Y4b2hEaE93UnY1T2dFWGVURk9feU12LTA2c1RYMUJKZ3hQdXBHUmkwTFh5djNLOFhR0gHiAUFVX3lxTE5Ic0lESnZNTVptN29Ua1RoSnp2cklwMGF0d0lnLUZxbmFJRW5zQTdMYnlybVBYOENoYW13Mzd5NmwwVGZWYXFrZGFhX3VENXNqQVhueEU0dHBxMXM2bW5pNFFjd05ZYTVDTGUxMktWVk92NTM3dnI2bFpaVXpMM002dnRIc0VNYVF2Z0F5QUR2SmJ1YUlmWnlZSnhJY2lfbWFBb2FyemQ2MVpCUXU1QlhsZWFYcXdjN2Z4aU1wWjRQUDlRLVRHejRvWGZfMmM3SWdTVnd6czFVblNaeWszQkZYc1E?oc=5\" target=\"_blank\">No, CDS Chauhan Did Not Say Government Ceded Arunachal, Ladakh To China | BOOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BOOM Fact Check</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU29CRFphVWRaVXRHTWFOR01CVzZjZEJZaHdsb3JIQzhWXzVWd2s5eW9QNnNIR0stLVN1WGdveTZDVl9UQjlPbEd3WTZNMFVETW11UENVYktHWk5qVURpOXl1VjZOVVZCSk5ZMGlPYlhSd1VUbU9QdE43STh0N2F5WTJLMXM4UXlQY1d5bjFpdzBIRldtVjExQVhvX0Z1NE9abFI0THdUUnAxa2Y4b2hEaE93UnY1T2dFWGVURk9feU12LTA2c1RYMUJKZ3hQdXBHUmkwTFh5djNLOFhR0gHiAUFVX3lxTE5Ic0lESnZNTVptN29Ua1RoSnp2cklwMGF0d0lnLUZxbmFJRW5zQTdMYnlybVBYOENoYW13Mzd5NmwwVGZWYXFrZGFhX3VENXNqQVhueEU0dHBxMXM2bW5pNFFjd05ZYTVDTGUxMktWVk92NTM3dnI2bFpaVXpMM002dnRIc0VNYVF2Z0F5QUR2SmJ1YUlmWnlZSnhJY2lfbWFBb2FyemQ2MVpCUXU1QlhsZWFYcXdjN2Z4aU1wWjRQUDlRLVRHejRvWGZfMmM3SWdTVnd6czFVblNaeWszQkZYc1E?oc=5",
+   "source_name": "BOOM Fact Check",
+   "source_domain": "boomlive.in",
+   "published_raw": "Mon, 01 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "India and China in deep water over Himalayan hydropower",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlZDd2o5TTREY0xXVWRJN0cwRDRRWS1uQ3R0ZWR0UFR5bWFLWHUtYW5kcjFJQXVEaGJzdHM3LTZuX01vczhIX2lEbTJRUUpZd2xLSE9ZOVlRQ0dnaGtmSGU2WVZnV3VEUFRYTWpubDJONi1pRXhKUnNSWnpaRzJOOFdMV1hHWWRxdklyQ1RVcHFQbDVJRUw1OA?oc=5\" target=\"_blank\">India and China in deep water over Himalayan hydropower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Asia Forum</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlZDd2o5TTREY0xXVWRJN0cwRDRRWS1uQ3R0ZWR0UFR5bWFLWHUtYW5kcjFJQXVEaGJzdHM3LTZuX01vczhIX2lEbTJRUUpZd2xLSE9ZOVlRQ0dnaGtmSGU2WVZnV3VEUFRYTWpubDJONi1pRXhKUnNSWnpaRzJOOFdMV1hHWWRxdklyQ1RVcHFQbDVJRUw1OA?oc=5",
+   "source_name": "East Asia Forum",
+   "source_domain": "eastasiaforum.org",
+   "published_raw": "Tue, 16 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal: AI Explorer Training Begins in Roing School Students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDFEd1J6YVd4QlliMC1GNEdjQjRtSzJjSGlnZDJIdmItcTJITVBMaTQ4MG9ZWmR0eFpuUWhiZktjb05UTDV1c0lDRXlkNVllM3hCMFVZUWxGSl81cGlCMWFUNEVlbGtlQnhaNzBxNU1BVXVIcHQxNjBNeU5fNjlUOTBnY2dsSzdnYmZFMlhuQQ?oc=5\" target=\"_blank\">Arunachal: AI Explorer Training Begins in Roing School Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arunachal24</font>",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDFEd1J6YVd4QlliMC1GNEdjQjRtSzJjSGlnZDJIdmItcTJITVBMaTQ4MG9ZWmR0eFpuUWhiZktjb05UTDV1c0lDRXlkNVllM3hCMFVZUWxGSl81cGlCMWFUNEVlbGtlQnhaNzBxNU1BVXVIcHQxNjBNeU5fNjlUOTBnY2dsSzdnYmZFMlhuQQ?oc=5",
+   "source_name": "Arunachal24",
+   "source_domain": "arunachal24.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "UP Budget 2026: Yogi govt bets big on capex, rural push and AI mission",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ24ydXVNaUZGZk1YSWlUa0tzUmU1MFdVS0pBR2F0eWJYd0doQ1NseUZZRTU0cGRWM0Y0a2pDam1qRHdpd2cyaDJwSms3MEZwZDBwOE1VV3JKOWFYdmx2c1NUOWtqY0pRMUZkU2NIRG5NbWRJalNwQ255ZEV6M1NuRW43VE55SjEzTkVGeVVqcW1tdHAxRVpMRE9YTTBrVUhjVlZjM3FXNzJQRy05blFUYnFyNmJhOERpUkpMRWlzaUVJeHVIZl9lZC1EMkxOZ1hQd0dsaXp30gHaAUFVX3lxTE8wOU93eS0xTk1RZzJ6OXlMLUhUakRNSFNLTmpGMjNpMkY5NGJEdldINWppbk9tS2VsREpyLUJTVktYcHJZZU5GbDY3d2xsamwya3RJMTRKZnB2OUVFd29GUjZMVGpMdUJzVEFsN0pUWk4zMU1YT2RmYTR4ckh4X3pKektZT3R6cTBwQUx6My1wdWZSMHZWNW8wM0VvWmZIUnpWYnZtT0JJVFhWMk41eWpWbno3Z0JLOVBNQ29EM3FDTEIxNUQtSmM5RThqUkpxOXdIZHdMdHlzQUtn?oc=5\" target=\"_blank\">UP Budget 2026: Yogi govt bets big on capex, rural push and AI mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ24ydXVNaUZGZk1YSWlUa0tzUmU1MFdVS0pBR2F0eWJYd0doQ1NseUZZRTU0cGRWM0Y0a2pDam1qRHdpd2cyaDJwSms3MEZwZDBwOE1VV3JKOWFYdmx2c1NUOWtqY0pRMUZkU2NIRG5NbWRJalNwQ255ZEV6M1NuRW43VE55SjEzTkVGeVVqcW1tdHAxRVpMRE9YTTBrVUhjVlZjM3FXNzJQRy05blFUYnFyNmJhOERpUkpMRWlzaUVJeHVIZl9lZC1EMkxOZ1hQd0dsaXp30gHaAUFVX3lxTE8wOU93eS0xTk1RZzJ6OXlMLUhUakRNSFNLTmpGMjNpMkY5NGJEdldINWppbk9tS2VsREpyLUJTVktYcHJZZU5GbDY3d2xsamwya3RJMTRKZnB2OUVFd29GUjZMVGpMdUJzVEFsN0pUWk4zMU1YT2RmYTR4ckh4X3pKektZT3R6cTBwQUx6My1wdWZSMHZWNW8wM0VvWmZIUnpWYnZtT0JJVFhWMk41eWpWbno3Z0JLOVBNQ29EM3FDTEIxNUQtSmM5RThqUkpxOXdIZHdMdHlzQUtn?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Thu, 12 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Budget 2026 Sows AI Support for Farmers Through Bharat Vistar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnlCUUs3TnItWmx1VWNpWjIzelRTT3JPMlVMWXZlbzFLUnpSalhMYVJrZ1kyV1FsWkJ1YVYwN0tuUURYczhOb1Bmb2dFa2xqaHlPYmg0dFFaNDdMcDRtUDMya3JpeWVIOV96a2ItTXZYOHFyZkI3dXFNSXNWOUJuMEM4RzR5dVRrZnFyNWVPTE1XdGh1MGhYN0thVUppTVpVV1dBVFIzNNIBrwFBVV95cUxPdG9wU0FiUnNxbkVjOUdza0NOMTg3eFVxbEpwWXN0Q1drOGdDZzdjaE5OeGg4UGctMmpsWEFGWkNieUhua2tUS1dzU2lidDNyRV9zZGdDVTBONkVuR3V2ZWF2UDFfREoyMGd2NVhHejRCUjd3eWRhTEhzaVlDdlQzM1hPWG0wbkRzaFdTNUQyRWQ1Njh5SzB2R1dXZlRiSmhTMXk3U1EzcWRhck1Way1F?oc=5\" target=\"_blank\">Budget 2026 Sows AI Support for Farmers Through Bharat Vistar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tractor Junction</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnlCUUs3TnItWmx1VWNpWjIzelRTT3JPMlVMWXZlbzFLUnpSalhMYVJrZ1kyV1FsWkJ1YVYwN0tuUURYczhOb1Bmb2dFa2xqaHlPYmg0dFFaNDdMcDRtUDMya3JpeWVIOV96a2ItTXZYOHFyZkI3dXFNSXNWOUJuMEM4RzR5dVRrZnFyNWVPTE1XdGh1MGhYN0thVUppTVpVV1dBVFIzNNIBrwFBVV95cUxPdG9wU0FiUnNxbkVjOUdza0NOMTg3eFVxbEpwWXN0Q1drOGdDZzdjaE5OeGg4UGctMmpsWEFGWkNieUhua2tUS1dzU2lidDNyRV9zZGdDVTBONkVuR3V2ZWF2UDFfREoyMGd2NVhHejRCUjd3eWRhTEhzaVlDdlQzM1hPWG0wbkRzaFdTNUQyRWQ1Njh5SzB2R1dXZlRiSmhTMXk3U1EzcWRhck1Way1F?oc=5",
+   "source_name": "Tractor Junction",
+   "source_domain": "tractorjunction.com",
+   "published_raw": "Sun, 01 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:09+00:00"
+  }
+ ]
+}

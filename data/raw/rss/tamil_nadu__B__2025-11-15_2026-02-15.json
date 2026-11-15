@@ -1,0 +1,241 @@
+{
+ "region": "Tamil Nadu",
+ "group": "B",
+ "query": "(\"Tamil Nadu\" OR Chennai) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Tamil+Nadu%22+OR+Chennai%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:05+00:00",
+ "item_count": 21,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu has taken a major step into sovereign artificial intelligence by signing an MoU with Sarvam AI to build India’s first full stack Sovereign AI Park in Chennai with an initial investment of ₹10,000 crore. The agreement was exchanged on January 13 in t",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVjNuU0tWd3podEJ0SFFkX0dUcDRyTWhsRmdkdTYtMGkyM2dsU0lERG40bjJkTDdJMXRmQWNtVnNGY3EzZjlzSzQzNTdmYVFNVnZmR1lfTWhRNUpFY3loVXZ2R3VWSWRVeEkxcnY1d3NtTUpzNjBQZ0pzclRETU9Ya2JIMWY1UHg1VWNmZ0V4OXNocGthZzJ2RFFlOFNjdUtpeUpvMmtGQzEzd2xUODdXRlI1c2Jnd1lGc1F6WElLV2ctVlExeG1WWnV2bU4xQ0taQi1mZg?oc=5\" target=\"_blank\">Tamil Nadu has taken a major step into sovereign artificial intelligence by signing an MoU with Sarvam AI to build India’s first full stack Sovereign AI Park in Chennai with an initial investment of ₹10,000 crore. The agreement was exchanged on January 13 in t</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVjNuU0tWd3podEJ0SFFkX0dUcDRyTWhsRmdkdTYtMGkyM2dsU0lERG40bjJkTDdJMXRmQWNtVnNGY3EzZjlzSzQzNTdmYVFNVnZmR1lfTWhRNUpFY3loVXZ2R3VWSWRVeEkxcnY1d3NtTUpzNjBQZ0pzclRETU9Ya2JIMWY1UHg1VWNmZ0V4OXNocGthZzJ2RFFlOFNjdUtpeUpvMmtGQzEzd2xUODdXRlI1c2Jnd1lGc1F6WElLV2ctVlExeG1WWnV2bU4xQ0taQi1mZg?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Sovereign AI partnerships with Indian states",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE42UjRpMFoxWmVuVE5wMDBESGlMLU1MRFNVS0VHcTJkeEx6YmwwOXNQakZLN1EzTGVDVEJmbkdRZ1pEVzU1dHZQRF95VlB3QW5iT3NmbllQMUNkMFBsRFdIY25GWlUtS2RGV3Fv?oc=5\" target=\"_blank\">Sovereign AI partnerships with Indian states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarvam AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42UjRpMFoxWmVuVE5wMDBESGlMLU1MRFNVS0VHcTJkeEx6YmwwOXNQakZLN1EzTGVDVEJmbkdRZ1pEVzU1dHZQRF95VlB3QW5iT3NmbllQMUNkMFBsRFdIY25GWlUtS2RGV3Fv?oc=5",
+   "source_name": "Sarvam AI",
+   "source_domain": "sarvam.ai",
+   "published_raw": "Mon, 09 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu Partners with Sarvam AI for Sovereign AI Park",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFA0dEdBUGNGZERHOGFRdllKODNmcTd4YThBYXFGOU1BRUp2cDQ3SkJRZ05FVkFTZDZXOV9KQkxKMHpaUkpnRDU1a2oxZVdrbW9PQVcwY212VXlHR0dkM1ltMGVNSmJSeUdnVV9uN014d01UcFl0emlCZVhESGktZzI4NA?oc=5\" target=\"_blank\">Tamil Nadu Partners with Sarvam AI for Sovereign AI Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaNama</font>",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFA0dEdBUGNGZERHOGFRdllKODNmcTd4YThBYXFGOU1BRUp2cDQ3SkJRZ05FVkFTZDZXOV9KQkxKMHpaUkpnRDU1a2oxZVdrbW9PQVcwY212VXlHR0dkM1ltMGVNSmJSeUdnVV9uN014d01UcFl0emlCZVhESGktZzI4NA?oc=5",
+   "source_name": "MediaNama",
+   "source_domain": "medianama.com",
+   "published_raw": "Thu, 15 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu, Sarvam AI ink MoU to set up India’s first ₹10,000-crore Sovereign AI Park",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOG5JdlRfU2M3MC1qaXNtdklxN1FHVUtpR0hwNlhFUjB6OE5JUWRJRUduYUp5V0Q1d215aHpYcl9SX2haTmFMQlNGSWtFWVpjb0w3dHJ6RktWZGlTckFyQ3FCNXhPNGhiNS1zN2FyRjBqWjEzcml1VFBYWW9QRXlLZnlNX2ZXdkFoenM5c0I4Rzg5cERxTUc4V0pOOHhmbUYtWi1RakxhV0I4UEJzRnBFUXlUZ2JCbWJfWHJlZjgyUjVNcFRFYmlNQWcwZ3NTczhMSjY2czR4Sk0xeF9hRmZZaXpMSFF3UdIB7AFBVV95cUxQTmpXd2k2Uldkb0pBaTlpWDJpMFlNV2p5TW5rZ2haeUJxVUdTR3llZXRLbUlHVVFXWTdYQWZ2RFUzUjlNejBzWDFiemtseXQ0VWN1UDBxY1FkdFV3bkNndnA5Qks3bEdJSFQ1R09BYVpBWmhOUUV5SUxaa1l3YzhzZGVIT1NMU2QxdVBEUGhPOFJRZEpvU0hwRVpxQ0xKQ3J1RDI4cmlGQXVaQmJWRUpJbTJWR2VweENnWFl5alNxMHh5S3RVZmtJLUFfWDgyUVJ5RWVIVXhjdlJGcURaN2dSSlFoU2ZYY2I1VGE2UA?oc=5\" target=\"_blank\">Tamil Nadu, Sarvam AI ink MoU to set up India’s first ₹10,000-crore Sovereign AI Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOG5JdlRfU2M3MC1qaXNtdklxN1FHVUtpR0hwNlhFUjB6OE5JUWRJRUduYUp5V0Q1d215aHpYcl9SX2haTmFMQlNGSWtFWVpjb0w3dHJ6RktWZGlTckFyQ3FCNXhPNGhiNS1zN2FyRjBqWjEzcml1VFBYWW9QRXlLZnlNX2ZXdkFoenM5c0I4Rzg5cERxTUc4V0pOOHhmbUYtWi1RakxhV0I4UEJzRnBFUXlUZ2JCbWJfWHJlZjgyUjVNcFRFYmlNQWcwZ3NTczhMSjY2czR4Sk0xeF9hRmZZaXpMSFF3UdIB7AFBVV95cUxQTmpXd2k2Uldkb0pBaTlpWDJpMFlNV2p5TW5rZ2haeUJxVUdTR3llZXRLbUlHVVFXWTdYQWZ2RFUzUjlNejBzWDFiemtseXQ0VWN1UDBxY1FkdFV3bkNndnA5Qks3bEdJSFQ1R09BYVpBWmhOUUV5SUxaa1l3YzhzZGVIT1NMU2QxdVBEUGhPOFJRZEpvU0hwRVpxQ0xKQ3J1RDI4cmlGQXVaQmJWRUpJbTJWR2VweENnWFl5alNxMHh5S3RVZmtJLUFfWDgyUVJ5RWVIVXhjdlJGcURaN2dSSlFoU2ZYY2I1VGE2UA?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu to set up India's first sovereign AI park for ₹10K crore",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVFZRZTNxZ1BNZlVMam1fTlZObG5peUdBa2dEbVR6ZzJiNUVoYWdERHNvOTdpR1JhUU93S0RFUWZzbkZadkxwQV9uYkR6Mnk3MGlyU211Z3VucHVLMlU3LXhKeTVzNV9yNmtlWUFCVzZHYU1obkliV2FNdV9IdGVRSHNJbmN0amZLa1lKLS1XWW5qeTJ1djJfQ1cxemc5M1NxTTJPSlBvSHJCenUxT2NXYVhKdmVDT3VHb0RWajZVVEJLbG1KbFNnUDhDckvSAdIBQVVfeXFMUDI4YjRwNlZIaDllZjlNMC1wSFRKd25hT1RFQWMxRUlUMC1kX1F1VDYxWTBRRGxoQ2daUko5bk9fSGh1TjltM0FoQ191QXZfdDBQWVRHSWlaMHUxWm81YkFuTVdKSU5CQ1gzTHRRYlVjb05OMjJ3WjZmZ25fbV9rUXo0bV9VS0E4UDJtNFludktiU1E5eENFTmtLSy1JQTdTUEJiWUtVQy1jc0p6a0tlVlRNVjl4SndhNldQNWlKbGZTWkdOU3pYakc2RkNlUWx1MHJB?oc=5\" target=\"_blank\">Tamil Nadu to set up India's first sovereign AI park for ₹10K crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVFZRZTNxZ1BNZlVMam1fTlZObG5peUdBa2dEbVR6ZzJiNUVoYWdERHNvOTdpR1JhUU93S0RFUWZzbkZadkxwQV9uYkR6Mnk3MGlyU211Z3VucHVLMlU3LXhKeTVzNV9yNmtlWUFCVzZHYU1obkliV2FNdV9IdGVRSHNJbmN0amZLa1lKLS1XWW5qeTJ1djJfQ1cxemc5M1NxTTJPSlBvSHJCenUxT2NXYVhKdmVDT3VHb0RWajZVVEJLbG1KbFNnUDhDckvSAdIBQVVfeXFMUDI4YjRwNlZIaDllZjlNMC1wSFRKd25hT1RFQWMxRUlUMC1kX1F1VDYxWTBRRGxoQ2daUko5bk9fSGh1TjltM0FoQ191QXZfdDBQWVRHSWlaMHUxWm81YkFuTVdKSU5CQ1gzTHRRYlVjb05OMjJ3WjZmZ25fbV9rUXo0bV9VS0E4UDJtNFludktiU1E5eENFTmtLSy1JQTdTUEJiWUtVQy1jc0p6a0tlVlRNVjl4SndhNldQNWlKbGZTWkdOU3pYakc2RkNlUWx1MHJB?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu govt partners with Sarvam to launch Sovereign AI Park",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXRSN3ZReFBMY2drRG1iRWxCWmRROGNTSTNCbUJPNTBCTUxKYmVIZ3RPT0FLSDVERl9mWkpSWVQzejIzdGIwTHNySGp4d1JXWU5hTVdKYzNZNVR3SnhYMHc3ekF0bnVlQkVWd2tDSGpYNFY0RERWNDVMQVl5MWVCTzgyem1aT3RwaXNr?oc=5\" target=\"_blank\">Tamil Nadu govt partners with Sarvam to launch Sovereign AI Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YourStory.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXRSN3ZReFBMY2drRG1iRWxCWmRROGNTSTNCbUJPNTBCTUxKYmVIZ3RPT0FLSDVERl9mWkpSWVQzejIzdGIwTHNySGp4d1JXWU5hTVdKYzNZNVR3SnhYMHc3ekF0bnVlQkVWd2tDSGpYNFY0RERWNDVMQVl5MWVCTzgyem1aT3RwaXNr?oc=5",
+   "source_name": "YourStory.com",
+   "source_domain": "yourstory.com",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu to Host India's First Sovereign AI Park in Partnership with Sarvam AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzFrWmRSY0JxX3d4c2ZuREhDMmtmeHl2b2k3QjBlNndKWnluUFFBbDVFQm5CVVF3bTNsdmRpZkJjMWJnVUd5ZUp4QXY3Qjc3R2ljZWphY2l0U2M2SEU5MU5JbnVHWGNxcjFoZVlJa0xmVkRXUmNwQVNYcnM5X2xtWlpaQmM2eDBXNENjUEVZbG5ZZWtrU204SnNXZzd6TEtORE1LMDNBaUFqOXI5blhpQWxyQVBISkpkRGRENU5Eb3lPdm11TE1qS2F3?oc=5\" target=\"_blank\">Tamil Nadu to Host India's First Sovereign AI Park in Partnership with Sarvam AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzFrWmRSY0JxX3d4c2ZuREhDMmtmeHl2b2k3QjBlNndKWnluUFFBbDVFQm5CVVF3bTNsdmRpZkJjMWJnVUd5ZUp4QXY3Qjc3R2ljZWphY2l0U2M2SEU5MU5JbnVHWGNxcjFoZVlJa0xmVkRXUmNwQVNYcnM5X2xtWlpaQmM2eDBXNENjUEVZbG5ZZWtrU204SnNXZzd6TEtORE1LMDNBaUFqOXI5blhpQWxyQVBISkpkRGRENU5Eb3lPdm11TE1qS2F3?oc=5",
+   "source_name": "ANI News",
+   "source_domain": "aninews.in",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbVFsWFMzWGVzTjhQZVQyOXFhRTJEXzlLT0lnNDgxYzcxXzR1WEMxSFQtanVGNEFGUFBPSTB1UUhFbU1MYmY1WTZ6d3F0X3BxOGJnUUxQVTBzeDNFTTVrSTBxc2lZVU4xN21rQk5zM2pJbFozTnJmMm53dGlVQmI1Snl0NkYzdHA0UVFHSDNfcWR5MS1fcFdFQ0RfSEl4ZzNFdWlod3JTVVN4T0NtRjlNczZhUHVzekN3RV9YMk9DSHJONm1hNXp6d2s2TnotTS1kbmU4R1Rrdi01Z0QyN2M4WnNR0gHvAUFVX3lxTFBhWGplcmk4Q0xwY3AyRUNxdVZjTjlHQm9ITWxSbHFDRkcxLWhocTFaUGtrTHp6ZEZ5SE5fc3pVZzBDSnFMX0MzR0tDTHpEYmloeHA3RjNHWU41Q3AtNldOWkpGZlRaLTZvczRzRnAyS2pQSGYtblJTYWVTZWRxd3JUMUtqRGpGTlRFOUd4SmpnSEdVblQyT0ZwQUo0dmxSZWtSNEdYRmYyTW8ybHlBQlBDZzhxLXJXUEdsOGFYbXJLOFFUMGZKNERRZDZrOFgxN3NMWllkQXFoN3YwLVF1ejNqcFNLeVM2ZDF4MDBVd1Rv?oc=5\" target=\"_blank\">Tamil Nadu signs Rs 10,000-crore MoU to set up domestically governed AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbVFsWFMzWGVzTjhQZVQyOXFhRTJEXzlLT0lnNDgxYzcxXzR1WEMxSFQtanVGNEFGUFBPSTB1UUhFbU1MYmY1WTZ6d3F0X3BxOGJnUUxQVTBzeDNFTTVrSTBxc2lZVU4xN21rQk5zM2pJbFozTnJmMm53dGlVQmI1Snl0NkYzdHA0UVFHSDNfcWR5MS1fcFdFQ0RfSEl4ZzNFdWlod3JTVVN4T0NtRjlNczZhUHVzekN3RV9YMk9DSHJONm1hNXp6d2s2TnotTS1kbmU4R1Rrdi01Z0QyN2M4WnNR0gHvAUFVX3lxTFBhWGplcmk4Q0xwY3AyRUNxdVZjTjlHQm9ITWxSbHFDRkcxLWhocTFaUGtrTHp6ZEZ5SE5fc3pVZzBDSnFMX0MzR0tDTHpEYmloeHA3RjNHWU41Q3AtNldOWkpGZlRaLTZvczRzRnAyS2pQSGYtblJTYWVTZWRxd3JUMUtqRGpGTlRFOUd4SmpnSEdVblQyT0ZwQUo0dmxSZWtSNEdYRmYyTW8ybHlBQlBDZzhxLXJXUEdsOGFYbXJLOFFUMGZKNERRZDZrOFgxN3NMWllkQXFoN3YwLVF1ejNqcFNLeVM2ZDF4MDBVd1Rv?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu is pushing the boundaries of India’s AI ambitions by partnering with Sarvam to build the country’s first full stack Sovereign AI Park. This ₹10,000 crore initiative is designed to create a secure, state backed AI ecosystem. At the core of the project is th",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjJ4bktoSklrY2dVbmdBbnl6YUxhQm5jbEN3NG9sd1pVNnhvM2hfZXF1cGtwU0dFaXVFY2xXTkp2Nk8tTmFRczhiTVhxZ2xSVGE5TnNOWjIyX0ZoWFY3YjBlTzhVc2tSRWJ5aXhXamZYQjRRdGxjT0FUY2JBa3RxQ1p6Ykg0RVA3NHIxREd4WFhYemdLT1h6V3VDMkFmeXlUdWtCbUZuem5USzR0a1lLM0JuUFdLNEY3c2xsNlR4TnVNV3AzMVZQX1RLSnM5Q09K?oc=5\" target=\"_blank\">Tamil Nadu is pushing the boundaries of India’s AI ambitions by partnering with Sarvam to build the country’s first full stack Sovereign AI Park. This ₹10,000 crore initiative is designed to create a secure, state backed AI ecosystem. At the core of the project is th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjJ4bktoSklrY2dVbmdBbnl6YUxhQm5jbEN3NG9sd1pVNnhvM2hfZXF1cGtwU0dFaXVFY2xXTkp2Nk8tTmFRczhiTVhxZ2xSVGE5TnNOWjIyX0ZoWFY3YjBlTzhVc2tSRWJ5aXhXamZYQjRRdGxjT0FUY2JBa3RxQ1p6Ykg0RVA3NHIxREd4WFhYemdLT1h6V3VDMkFmeXlUdWtCbUZuem5USzR0a1lLM0JuUFdLNEY3c2xsNlR4TnVNV3AzMVZQX1RLSnM5Q09K?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "India, Korea hospitals deploy stroke AI and more briefs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTWVuRnJHem52SENOMDZmZEFRRG9Ram1kYl9kQU8zLXNISVB6RGtBZTdxMzU4dVRLdDVqQVBqR0h4bzRDbDY0SHpnZWNlSjVlcm16aTh2b01KaVVHM09GMmhZRmtXT283STF3OEotSDY5el82WG1xZnMwaXhqQkhyOW9BZG9fbk1GZTNqMkIxcjhjZktNNDk0aFpxWVZYQQ?oc=5\" target=\"_blank\">India, Korea hospitals deploy stroke AI and more briefs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare IT News</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWVuRnJHem52SENOMDZmZEFRRG9Ram1kYl9kQU8zLXNISVB6RGtBZTdxMzU4dVRLdDVqQVBqR0h4bzRDbDY0SHpnZWNlSjVlcm16aTh2b01KaVVHM09GMmhZRmtXT283STF3OEotSDY5el82WG1xZnMwaXhqQkhyOW9BZG9fbk1GZTNqMkIxcjhjZktNNDk0aFpxWVZYQQ?oc=5",
+   "source_name": "Healthcare IT News",
+   "source_domain": "healthcareitnews.com",
+   "published_raw": "Mon, 15 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu Partners Sarvam AI for Sovereign AI Park",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxObEwxTkJmYkNQMWNlTzBvSzUtcEpuUGJLcHM1TzlGenZtQlZGZEthQVMxYVFQWkQ0cmJhLVJDSzRaOGZHTE5qTWJhaXJyOFJtOGg1YTVCUjdUS1BDb2xHblRBMWI5S2xHT2UwbXNfTjNGcFljZS1Td1BNT3BybFAyeg?oc=5\" target=\"_blank\">Tamil Nadu Partners Sarvam AI for Sovereign AI Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEwxTkJmYkNQMWNlTzBvSzUtcEpuUGJLcHM1TzlGenZtQlZGZEthQVMxYVFQWkQ0cmJhLVJDSzRaOGZHTE5qTWJhaXJyOFJtOGg1YTVCUjdUS1BDb2xHblRBMWI5S2xHT2UwbXNfTjNGcFljZS1Td1BNT3BybFAyeg?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Sat, 17 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu Signs ₹10,000 Crore MoU with Sarvam AI to Build India’s First Sovereign AI Park in Chennai",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDVqVWwyVUVFTjNjVllNVVF6R0JubnZma25BLXE3S2N5Qzc0dDVCdDhGYjNwOGdtaDQwekR3dV92Zm9DX0JlQzZSQ0xtUnU2UHBxekcxR05TN09uU0dwUXM5d3BRRWFKa3JhQ0Q0OUhpNk1HOTZET0tBUmEzbFdRcVVZSk13SktFRGFKTHNrRkFHTVpUVDR5dTRYclA3Q0VGV2o3Tlg4OENKakgtenlIbFlxZWdZMUJNUjVKQ2QyeGJ1Vlc4ZDRZWlZ6Y1l5NWxjWkZ1c2JzSQ?oc=5\" target=\"_blank\">Tamil Nadu Signs ₹10,000 Crore MoU with Sarvam AI to Build India’s First Sovereign AI Park in Chennai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CXO Digitalpulse</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDVqVWwyVUVFTjNjVllNVVF6R0JubnZma25BLXE3S2N5Qzc0dDVCdDhGYjNwOGdtaDQwekR3dV92Zm9DX0JlQzZSQ0xtUnU2UHBxekcxR05TN09uU0dwUXM5d3BRRWFKa3JhQ0Q0OUhpNk1HOTZET0tBUmEzbFdRcVVZSk13SktFRGFKTHNrRkFHTVpUVDR5dTRYclA3Q0VGV2o3Tlg4OENKakgtenlIbFlxZWdZMUJNUjVKQ2QyeGJ1Vlc4ZDRZWlZ6Y1l5NWxjWkZ1c2JzSQ?oc=5",
+   "source_name": "CXO Digitalpulse",
+   "source_domain": "cxodigitalpulse.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu to set up India's first Sovereign AI Park: What it offers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTRYbnZYX1daR1dYbTJqa1JsbFBPOHlPRE1odDRBd25MbFUzM2Z1S3puZEtiY21HXzM3a25DWXlLay1pS0dIclZIbmZLZlRzcTRaZy1VTXJpRTZSZVJKZUdSa2RGR2cySnJEaWwzSEZqRDlvNjN6eXhFSUk3T1JmUnJNRFhiM01LSzlyZHlRaHI2VnBoZWhxbVBpX2dWWi1PeUhEbGhHQVhrQXlkSWktVmtWNDdOc0k5T00ya9IBwgFBVV95cUxPVWhKMFZBWXgyUGJWYm9ZbDR1eDdoRFlWNVVqdEZPa21zblFUSkd2X2hoRjE5dWQ3dEZCNWhBd1AwSDFOZUFYVkoxX2I3Z0FNOGdUdmRfakM4cm44aXdmZlpBeElNN0U3RnZvVnl2SkVtcW1NdTFSZUxNU2V0dHdBbndJQkNZZ2xZLVFhVGRfT0pPRktOU2M2OWxpR0hVOU1USThKNDJXSG9zSVZvY0tzcnNVaUpXSnFlQUlKc1c5MjBSUQ?oc=5\" target=\"_blank\">Tamil Nadu to set up India's first Sovereign AI Park: What it offers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTRYbnZYX1daR1dYbTJqa1JsbFBPOHlPRE1odDRBd25MbFUzM2Z1S3puZEtiY21HXzM3a25DWXlLay1pS0dIclZIbmZLZlRzcTRaZy1VTXJpRTZSZVJKZUdSa2RGR2cySnJEaWwzSEZqRDlvNjN6eXhFSUk3T1JmUnJNRFhiM01LSzlyZHlRaHI2VnBoZWhxbVBpX2dWWi1PeUhEbGhHQVhrQXlkSWktVmtWNDdOc0k5T00ya9IBwgFBVV95cUxPVWhKMFZBWXgyUGJWYm9ZbDR1eDdoRFlWNVVqdEZPa21zblFUSkd2X2hoRjE5dWQ3dEZCNWhBd1AwSDFOZUFYVkoxX2I3Z0FNOGdUdmRfakM4cm44aXdmZlpBeElNN0U3RnZvVnl2SkVtcW1NdTFSZUxNU2V0dHdBbndJQkNZZ2xZLVFhVGRfT0pPRktOU2M2OWxpR0hVOU1USThKNDJXSG9zSVZvY0tzcnNVaUpXSnFlQUlKc1c5MjBSUQ?oc=5",
+   "source_name": "CNBC TV18",
+   "source_domain": "cnbctv18.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "AI tool to offer career guidance to students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHJGNEFyVmU5eXp6VnE1LUdibU1FNmRPaVhUT3ZBXzZodmxrUlRxdGo5aDdOTS05VlNoQTdsUTJJS01vRHVFaWtRYTRFYktpU0JOOWs2UHE4cTNfbHVOZnB2SXpFS0s2N1M3cV9namVST2FVdWp3WVEyaWMtYl9LRWdEYmg0ekZDSlNGQzFoZkthdVZTdGxwQnBxajVPZFM1SDNxM2ZyRklzWTFoeGtDLUhSRFVEX1RPU3Aw0gHAAUFVX3lxTFBtcU9iLUZqbGNVNVMzSzVDb28yTXdOWGdhUmxhY0gzSF90eHEtcWNNd0tldTdvbXpQT3RwbnpSYVNuQ19jaDhZOFdwNkNZZkJKUnU5ay1jWC1MbU1JUTJhUjl3QVZqQWZVTmlvWTRTbFRTNURGUTgtQXFHQTFLbGFjdV9NWWxNM3RBald0M1BzUzlKbGZzVnpJa3RTLTJHMFY1OTZPbkx4ei16Q2ViTHJsSEtLZEpuLVhnNHR1X3VYQQ?oc=5\" target=\"_blank\">AI tool to offer career guidance to students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHJGNEFyVmU5eXp6VnE1LUdibU1FNmRPaVhUT3ZBXzZodmxrUlRxdGo5aDdOTS05VlNoQTdsUTJJS01vRHVFaWtRYTRFYktpU0JOOWs2UHE4cTNfbHVOZnB2SXpFS0s2N1M3cV9namVST2FVdWp3WVEyaWMtYl9LRWdEYmg0ekZDSlNGQzFoZkthdVZTdGxwQnBxajVPZFM1SDNxM2ZyRklzWTFoeGtDLUhSRFVEX1RPU3Aw0gHAAUFVX3lxTFBtcU9iLUZqbGNVNVMzSzVDb28yTXdOWGdhUmxhY0gzSF90eHEtcWNNd0tldTdvbXpQT3RwbnpSYVNuQ19jaDhZOFdwNkNZZkJKUnU5ay1jWC1MbU1JUTJhUjl3QVZqQWZVTmlvWTRTbFRTNURGUTgtQXFHQTFLbGFjdV9NWWxNM3RBald0M1BzUzlKbGZzVnpJa3RTLTJHMFY1OTZPbkx4ei16Q2ViTHJsSEtLZEpuLVhnNHR1X3VYQQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 23 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "How is Tamil Nadu Attracting AI Investments in 2026?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXI0QmhWQkxRM1NWNVJwYllnVU5rS3NzZVhJYU12RmkzSVcxTzExQ2otUlplV2FDekczakRsUnduMlRlN01NbmgtZ1VYT3ZGbzhVRUw5TkppRExGM3FXRHJvX0RWb3g5cXh6ejRQTS11OXlKcU8tVUtGTkpYR003bHFXXzFUUi1hOUpNTEdjQTVLN1ZiZHdpVHdWRGR3eVk0OXRlVi15QQ?oc=5\" target=\"_blank\">How is Tamil Nadu Attracting AI Investments in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXI0QmhWQkxRM1NWNVJwYllnVU5rS3NzZVhJYU12RmkzSVcxTzExQ2otUlplV2FDekczakRsUnduMlRlN01NbmgtZ1VYT3ZGbzhVRUw5TkppRExGM3FXRHJvX0RWb3g5cXh6ejRQTS11OXlKcU8tVUtGTkpYR003bHFXXzFUUi1hOUpNTEdjQTVLN1ZiZHdpVHdWRGR3eVk0OXRlVi15QQ?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Sat, 24 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "ELCOT inks MoU with Perplexity AI to train college students in Tamil Nadu",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYU1zaUJaWDBiR193Q252Nk9hWWhWd1E5TnZzVDJaajZIOVRtMGtvTjItZmFqX0o0NTRfLXdYb2F3eWhaaUxscVhXVE95Z3FrVmlpLWJDblplaFowb3JaQUlSS0NETEJ6MUlKRWlSVExhY2pTSTRnb2k0eGZyZlN5ZjU5bjhaSHhUOUJpLUtvc2VBZzBSbDlVdDZ2cjRWQmJjZFhOcFh3YlFxQnNUOFoweEdoTXlwOVI0c1lfMDJrQVB4THJXZjg3ck5UelctQmR2RGZwRnlPY25yUFHSAeIBQVVfeXFMT3ppWjdXOU8yYXBqTFpzYlFQbV84VHhWSXo3bFIzWTNBN3phSVNWMU56dVNGUmlDSHpHZWFtRGQtZWpDanU1WWNMR0hJbTJmOFdPMUdJeXBCb1VOaVNWYU51RENxY2EzTTktSDJfU245ejZKVVBsREtaLWdFUnVxSjhxbDdJTlREbWg4REhLajJ5Mjh4M09haHJNMWxiU0Y5QXhPM09VekMtZHNIVi1sUFJjcHQxNnZyR3dmUzdXTU5QVXdBWFpwMHltU2h4c1p6S0tEX2J4bjRRdENPZEN3bTlVQQ?oc=5\" target=\"_blank\">ELCOT inks MoU with Perplexity AI to train college students in Tamil Nadu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYU1zaUJaWDBiR193Q252Nk9hWWhWd1E5TnZzVDJaajZIOVRtMGtvTjItZmFqX0o0NTRfLXdYb2F3eWhaaUxscVhXVE95Z3FrVmlpLWJDblplaFowb3JaQUlSS0NETEJ6MUlKRWlSVExhY2pTSTRnb2k0eGZyZlN5ZjU5bjhaSHhUOUJpLUtvc2VBZzBSbDlVdDZ2cjRWQmJjZFhOcFh3YlFxQnNUOFoweEdoTXlwOVI0c1lfMDJrQVB4THJXZjg3ck5UelctQmR2RGZwRnlPY25yUFHSAeIBQVVfeXFMT3ppWjdXOU8yYXBqTFpzYlFQbV84VHhWSXo3bFIzWTNBN3phSVNWMU56dVNGUmlDSHpHZWFtRGQtZWpDanU1WWNMR0hJbTJmOFdPMUdJeXBCb1VOaVNWYU51RENxY2EzTTktSDJfU245ejZKVVBsREtaLWdFUnVxSjhxbDdJTlREbWg4REhLajJ5Mjh4M09haHJNMWxiU0Y5QXhPM09VekMtZHNIVi1sUFJjcHQxNnZyR3dmUzdXTU5QVXdBWFpwMHltU2h4c1p6S0tEX2J4bjRRdENPZEN3bTlVQQ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Thu, 18 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Why is India building a ₹10,000 crore AI district that other states may have to rent into? A five-year sovereign AI project anchored in Tamil Nadu could quietly change how India builds, governs, and deploys AI at population scale. This isn’t an IT park. It’s AI infra",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTl9Nc3o0Y1hIQUY2cTZNTHRMS2pTX1dPM1FCQkFzOFpMb2ZPSjFFVUVMcE1OMEFUSUx0bmljcDBHdnB6TU1JMlBnMDNMN184LVNvd2xHWXptVnZoWHVLS1BSU19Fb2VGNnRPdmZrNkhacUJpeTluYVZ3MGtiNXVqc2ZZNzNHbXBWQk00UHBzUG5tNFVKVFlfV2xYOXhoSmd1cHhMclE1ZXZNVDR5eXY0QVVhYnNPenVPZ3BsWQ?oc=5\" target=\"_blank\">Why is India building a ₹10,000 crore AI district that other states may have to rent into? A five-year sovereign AI project anchored in Tamil Nadu could quietly change how India builds, governs, and deploys AI at population scale. This isn’t an IT park. It’s AI infra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTl9Nc3o0Y1hIQUY2cTZNTHRMS2pTX1dPM1FCQkFzOFpMb2ZPSjFFVUVMcE1OMEFUSUx0bmljcDBHdnB6TU1JMlBnMDNMN184LVNvd2xHWXptVnZoWHVLS1BSU19Fb2VGNnRPdmZrNkhacUJpeTluYVZ3MGtiNXVqc2ZZNzNHbXBWQk00UHBzUG5tNFVKVFlfV2xYOXhoSmd1cHhMclE1ZXZNVDR5eXY0QVVhYnNPenVPZ3BsWQ?oc=5",
+   "source_name": "LinkedIn",
+   "source_domain": "linkedin.com",
+   "published_raw": "Fri, 16 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "Tamil Nadu launches new CSR and\nAI-led land-use data platforms",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEVsd1hrRU1pQzU5djVBMDJwLXlMckVjV2RmTmFBZi1OcFV2aDV6SDByT2xuQkJCRTQzZmpld080VFdMd3BHYTA3c3dNOFViY3RkTEdtSlZWTVNlVE9LcUxBUXpWemlQdlJSTTdDbjhRRmVxWVJqdk91RnhaM0hhbFdjWS1YNG5nOUUybVlheGZKMEo4Z3F1Q19pTWZkYUlNME9PVWpoUllaMEhvLUEyVUFaT1ZkZ0VMSHlCcGRuR2d0UdIBzwFBVV95cUxNYWhuZVREMUZ5eWVfUzJwNUk3aEhKeFFOUi1FQWZpRE5CdmQxWmw4Zk9XSFY1blpGdmJ4bEpBMkVNQzlDaXNCcTlNRy1hS0VDcDRjZWJwTlJ0bTNiYjZWam4zd3liZTVKVDdybWlJeElXN004aDd1MExXc3JDeUtNWVZ2UlAzek1ybllTWGJ0dFhrNnFNM2IyQlFZd3RXa1JKd3B2dC0yb2xIaUp6bm1PNGVzNlNudXRSSHJEalpTY3RTNmp5bWpZOGptc2x1TEU?oc=5\" target=\"_blank\">Tamil Nadu launches new CSR and\nAI-led land-use data platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEVsd1hrRU1pQzU5djVBMDJwLXlMckVjV2RmTmFBZi1OcFV2aDV6SDByT2xuQkJCRTQzZmpld080VFdMd3BHYTA3c3dNOFViY3RkTEdtSlZWTVNlVE9LcUxBUXpWemlQdlJSTTdDbjhRRmVxWVJqdk91RnhaM0hhbFdjWS1YNG5nOUUybVlheGZKMEo4Z3F1Q19pTWZkYUlNME9PVWpoUllaMEhvLUEyVUFaT1ZkZ0VMSHlCcGRuR2d0UdIBzwFBVV95cUxNYWhuZVREMUZ5eWVfUzJwNUk3aEhKeFFOUi1FQWZpRE5CdmQxWmw4Zk9XSFY1blpGdmJ4bEpBMkVNQzlDaXNCcTlNRy1hS0VDcDRjZWJwTlJ0bTNiYjZWam4zd3liZTVKVDdybWlJeElXN004aDd1MExXc3JDeUtNWVZ2UlAzek1ybllTWGJ0dFhrNnFNM2IyQlFZd3RXa1JKd3B2dC0yb2xIaUp6bm1PNGVzNlNudXRSSHJEalpTY3RTNmp5bWpZOGptc2x1TEU?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Tue, 23 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "‘T.N. focusing on emerging domains like AI to drive tech-based learning ecosystem’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNklBZHhJcHl1aGpHOXBleEdGYWY0aTdMSUZNVExuU0NyVVQ5ZkUzblFlUk1QT0ZYbVpLOXJSS0x1dWdiTEFZRGlCMkxncGtvZ0RQWXN3Q3NvMmE3amtkNE9JMXVoM1ZmemRBWEg5NktOMzdQTlphUEhEYzFYY1BFbjNPRDA3MXpMMnRRWXdQVndFUGtOd2ZyUDRURmNYa1dhOFNIbkpwRzJIMEVyTVRIV2h5RVNDUkl6MEZ2cXdfOU41WnhpVUcwU1paRERod1gyV3p2b3UxT19BMUZ2bVpxdFNmONIB6gFBVV95cUxNWHplN1BQYlo4dDY5MnRwWGdXTG8wWV9oazJqU0FyalZqRkRzXzhqcXZHaDI5Yk9SVF9LZHRRQlRPVV9oUHdPclg1Y203S0NZOFZZZHRjbFJNRFF3Zm5RcjJKNHRpbTFqWk04a3ZxeDdMY1VpUmxQUFc1bTVfemcyd1hhTmEtbE0xa0ZJVXVmbkRMSlNla29IVnVaYjFJVF9rY2VCZ2JIZnVMZ1FhZEpRb0oyakU4REVqUXFVVjN5SnBoVUM5S2tmZVA2dmRHenpkTmcycTZGRlFqTlJKMGEwZVpuemNZdnUwWGc?oc=5\" target=\"_blank\">‘T.N. focusing on emerging domains like AI to drive tech-based learning ecosystem’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNklBZHhJcHl1aGpHOXBleEdGYWY0aTdMSUZNVExuU0NyVVQ5ZkUzblFlUk1QT0ZYbVpLOXJSS0x1dWdiTEFZRGlCMkxncGtvZ0RQWXN3Q3NvMmE3amtkNE9JMXVoM1ZmemRBWEg5NktOMzdQTlphUEhEYzFYY1BFbjNPRDA3MXpMMnRRWXdQVndFUGtOd2ZyUDRURmNYa1dhOFNIbkpwRzJIMEVyTVRIV2h5RVNDUkl6MEZ2cXdfOU41WnhpVUcwU1paRERod1gyV3p2b3UxT19BMUZ2bVpxdFNmONIB6gFBVV95cUxNWHplN1BQYlo4dDY5MnRwWGdXTG8wWV9oazJqU0FyalZqRkRzXzhqcXZHaDI5Yk9SVF9LZHRRQlRPVV9oUHdPclg1Y203S0NZOFZZZHRjbFJNRFF3Zm5RcjJKNHRpbTFqWk04a3ZxeDdMY1VpUmxQUFc1bTVfemcyd1hhTmEtbE0xa0ZJVXVmbkRMSlNla29IVnVaYjFJVF9rY2VCZ2JIZnVMZ1FhZEpRb0oyakU4REVqUXFVVjN5SnBoVUM5S2tmZVA2dmRHenpkTmcycTZGRlFqTlJKMGEwZVpuemNZdnUwWGc?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 29 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "In a first, Tamil Nadu police deploy AI to manage crowd at Tiruvannamalai for Karthigai Deepam festival",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOVDB0c2tjdThUVTdMaTRpSHc4SldPWFg5S1Bsb0FoQVNJemljVXcxZVF6LTNJOVdCVno4TkU3ZnJvd052SmUxcWtDcWNBMUxQX0JaZTJ5UTZEczZDTlFZdEcxaUFJLUFTbFZVdzQ2LW9FVk40STdlM1IzcEc1bkY5S2RFTkJTcnp6S1lEQjhibVZ3T041V0F1NUw0LXEwa1o5aV9OVmFYZVdpT055V0xYaFJ4N2VmOWQ2NDBZTF9OeDJMa05scTAyaDdzajVlVzJSMW1xNWg1WnVJVUNtNEdfcFA4eVZOZVo3SExNSGJwRVJSWi1Vajl4VVRfaXN4MklzMnfSAYgCQVVfeXFMTjBmOEpJUFpvMmU5VmZnelFKYlhtbDg1eVptS2lDdFBVeHRNdkxJVlJkWmpBdGNNXzZsQUJwSjhMdFZ0M0NSN3lSUkZSd1lNbVJ6djhKcGMzWC11cktPV2xySXRxUGdIV1JPSjlZZF9iQ2FlSzNKYUxCVEhvWDc0TEw5ay1GUXRkaVR5ckhHanJlNjZhMEtLQllBdWI0akk1WE5UZjJxY0Q3Tk9MV2M0aTNOZ3EyQWxzOVRnOWtJWHYwcnlNakVtdXE1NG0yUjJual8xNjJmU2FYanZyT05JR2R3eGlSUTEzbDkzN2JwNjFZeGRxSWN1NnZmamVENWp2SEVsYW8xVWds?oc=5\" target=\"_blank\">In a first, Tamil Nadu police deploy AI to manage crowd at Tiruvannamalai for Karthigai Deepam festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVDB0c2tjdThUVTdMaTRpSHc4SldPWFg5S1Bsb0FoQVNJemljVXcxZVF6LTNJOVdCVno4TkU3ZnJvd052SmUxcWtDcWNBMUxQX0JaZTJ5UTZEczZDTlFZdEcxaUFJLUFTbFZVdzQ2LW9FVk40STdlM1IzcEc1bkY5S2RFTkJTcnp6S1lEQjhibVZ3T041V0F1NUw0LXEwa1o5aV9OVmFYZVdpT055V0xYaFJ4N2VmOWQ2NDBZTF9OeDJMa05scTAyaDdzajVlVzJSMW1xNWg1WnVJVUNtNEdfcFA4eVZOZVo3SExNSGJwRVJSWi1Vajl4VVRfaXN4MklzMnfSAYgCQVVfeXFMTjBmOEpJUFpvMmU5VmZnelFKYlhtbDg1eVptS2lDdFBVeHRNdkxJVlJkWmpBdGNNXzZsQUJwSjhMdFZ0M0NSN3lSUkZSd1lNbVJ6djhKcGMzWC11cktPV2xySXRxUGdIV1JPSjlZZF9iQ2FlSzNKYUxCVEhvWDc0TEw5ay1GUXRkaVR5ckhHanJlNjZhMEtLQllBdWI0akk1WE5UZjJxY0Q3Tk9MV2M0aTNOZ3EyQWxzOVRnOWtJWHYwcnlNakVtdXE1NG0yUjJual8xNjJmU2FYanZyT05JR2R3eGlSUTEzbDkzN2JwNjFZeGRxSWN1NnZmamVENWp2SEVsYW8xVWds?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Tue, 02 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Tamil Nadu",
+   "title": "AI's transformative role: Tamil Nadu CM highlights technology investment for student growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmF2cUN5WnMxZjNQM0hYb3pxbWFCaWw1bDJuYV9MY0xFbkF6TTNfVUFTcDdKdzJJTVNOVmZIWHI0VjY5Zk12S1JsMG9LTnZrZmxWSHhyVmRJYndteExIS25taWtvWW93TlBlWVhCUmtjeFZkUUdZa0VYWUZYekZLemRKOTBBTnF0M3Bhakd4TV9oaWNjTjNVV0xyVdIBoAFBVV95cUxPVXIzcGZDVlFkNWd2VDNNNmxNY08wLUk5bWNvMDhlUldrTk9YNTkxXzE2b0lVUFZaNGFxQkM2ZFlrbFRLVkJVOVpBTEZJMDVLY1BzQTJkMjVWZHp5eVUxRE13bWFaZkNVZWFTQ2lVNGxVTHVpM20zbFYwS3Jzb0ZiNExUMTU3czgyNEV6ZUp4UEt3dVgtaGlpQWVZUDZFVkpJ?oc=5\" target=\"_blank\">AI's transformative role: Tamil Nadu CM highlights technology investment for student growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mathrubhumi English</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmF2cUN5WnMxZjNQM0hYb3pxbWFCaWw1bDJuYV9MY0xFbkF6TTNfVUFTcDdKdzJJTVNOVmZIWHI0VjY5Zk12S1JsMG9LTnZrZmxWSHhyVmRJYndteExIS25taWtvWW93TlBlWVhCUmtjeFZkUUdZa0VYWUZYekZLemRKOTBBTnF0M3Bhakd4TV9oaWNjTjNVV0xyVdIBoAFBVV95cUxPVXIzcGZDVlFkNWd2VDNNNmxNY08wLUk5bWNvMDhlUldrTk9YNTkxXzE2b0lVUFZaNGFxQkM2ZFlrbFRLVkJVOVpBTEZJMDVLY1BzQTJkMjVWZHp5eVUxRE13bWFaZkNVZWFTQ2lVNGxVTHVpM20zbFYwS3Jzb0ZiNExUMTU3czgyNEV6ZUp4UEt3dVgtaGlpQWVZUDZFVkpJ?oc=5",
+   "source_name": "Mathrubhumi English",
+   "source_domain": "english.mathrubhumi.com",
+   "published_raw": "Tue, 06 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:05+00:00"
+  }
+ ]
+}

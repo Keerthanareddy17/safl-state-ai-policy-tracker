@@ -1,0 +1,197 @@
+{
+ "region": "Punjab",
+ "group": "A",
+ "query": "(Punjab) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Punjab%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:22+00:00",
+ "item_count": 17,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab govt introduces AI as main subject from Class 1-12",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemU4S1JhTWVqUUE5bWJ5QWtxYXRRS3F3bi1kYzZWMDY4VlhacWttTm5TaTJLT1lnc3h6dzNlY1VlM3VJejBMWkJ3eThCd2RORURzYTBPS2JReW5uZC1id21pX19nRE5ld2lfTUo5VjFTaEtMeURUSGpDQkZQSEFndGZvQmdfZ2RYSGp5NGtKczVuYkVZVE5ZOXpwQ1FlU1k5eXlBandaVVVNRUpTdUQzemt6amN0aFcwS0VuMkR6aXRMMG1TeXFEV2FUV0JLbE05OXfSAdYBQVVfeXFMUHJ1NjFyblozOXYyNHpGQlVlNTUwRXpoeUlyRkJpRXRnTmVvZnpwLVBIYjBTLXBhd1E2UmpyU3pEMWJhTVpSb0FvcWRoVnNsbUMyNlN6QjB5VkMzdFVlMllXTlhNS29DMk1hZUNCd2luNTJFWkdnbVJyQzJZTHpmbl96Qi1VWmcyV1JpMHBRME1iOWV0RjJjS2lmQ2ZtN25kQks1U2lIZ3hGdnJDMzVSU2ttNGJ3d3I0TUotQU1Udnh6WThlNGwtdVlIdFhLWUowYWJQNV82dw?oc=5\" target=\"_blank\">Punjab govt introduces AI as main subject from Class 1-12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemU4S1JhTWVqUUE5bWJ5QWtxYXRRS3F3bi1kYzZWMDY4VlhacWttTm5TaTJLT1lnc3h6dzNlY1VlM3VJejBMWkJ3eThCd2RORURzYTBPS2JReW5uZC1id21pX19nRE5ld2lfTUo5VjFTaEtMeURUSGpDQkZQSEFndGZvQmdfZ2RYSGp5NGtKczVuYkVZVE5ZOXpwQ1FlU1k5eXlBandaVVVNRUpTdUQzemt6amN0aFcwS0VuMkR6aXRMMG1TeXFEV2FUV0JLbE05OXfSAdYBQVVfeXFMUHJ1NjFyblozOXYyNHpGQlVlNTUwRXpoeUlyRkJpRXRnTmVvZnpwLVBIYjBTLXBhd1E2UmpyU3pEMWJhTVpSb0FvcWRoVnNsbUMyNlN6QjB5VkMzdFVlMllXTlhNS29DMk1hZUNCd2luNTJFWkdnbVJyQzJZTHpmbl96Qi1VWmcyV1JpMHBRME1iOWV0RjJjS2lmQ2ZtN25kQks1U2lIZ3hGdnJDMzVSU2ttNGJ3d3I0TUotQU1Udnh6WThlNGwtdVlIdFhLWUowYWJQNV82dw?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Digital India BHASHINI Division (DIBD) and Punjab National Bank (PNB) Sign MoU to Advance Multilingual AI for Inclusive Banking",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YUWVQMEJsM0VUeXZKc015SnFmOFVqZFlRN1FMRzNiSmtLcHN0WFBoZ0Vhc3NqeU44SnROQndmMFR2RktQZWctTTRmWFFLMEl3MzJwemt1MGZ3Y19COERpeHBydEJVTkp5?oc=5\" target=\"_blank\">Digital India BHASHINI Division (DIBD) and Punjab National Bank (PNB) Sign MoU to Advance Multilingual AI for Inclusive Banking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YUWVQMEJsM0VUeXZKc015SnFmOFVqZFlRN1FMRzNiSmtLcHN0WFBoZ0Vhc3NqeU44SnROQndmMFR2RktQZWctTTRmWFFLMEl3MzJwemt1MGZ3Y19COERpeHBydEJVTkp5?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 15 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab signs MoU to deploy AI-driven technologies in healthcare",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTi1XRkhzREFZWnN1emdGRmFDNjJLSUpPOUtoSlJNSHpOMURtQ0xadmhNTFVMaEpPYlhlVXJoc05acmRBRW1yZFNzMUJhOWlnRGJHSEVWMmNWdHQ4U1phUW93NFEwQk5BaFpOb05pQnRtYzUwTTlyVnVySHc3anhob2RXd19lNEhkU2JtTzFua3pfWkFxRnlJOGpxR3VRR192Z002TDYzZXYzc2VHYVoxN1liZVhyTVnSAbwBQVVfeXFMTWlvWjNXMkhvcy1aSnFkOG5qMnZ3VnhHdWxCY3JrdWU1Wm1zcjY4dWtjZk10ZWtKbWx4MzdXelF1X3FwMUo0Y29DZGZoRmdIVnV0VVBjMDEzUzl0amNiR3VjcVA0cXJJa0RVUmdyOXMxdkh4dUFsd1diODZOSXUwUTBsNlJRbG02QzFMd295YUZDck5CWUZMbHI0RUIydG9UbGRBLWhkVjM4bWd1OFI0b2hlYU9GX1o0ZWltTVo?oc=5\" target=\"_blank\">Punjab signs MoU to deploy AI-driven technologies in healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Dialogues</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTi1XRkhzREFZWnN1emdGRmFDNjJLSUpPOUtoSlJNSHpOMURtQ0xadmhNTFVMaEpPYlhlVXJoc05acmRBRW1yZFNzMUJhOWlnRGJHSEVWMmNWdHQ4U1phUW93NFEwQk5BaFpOb05pQnRtYzUwTTlyVnVySHc3anhob2RXd19lNEhkU2JtTzFua3pfWkFxRnlJOGpxR3VRR192Z002TDYzZXYzc2VHYVoxN1liZVhyTVnSAbwBQVVfeXFMTWlvWjNXMkhvcy1aSnFkOG5qMnZ3VnhHdWxCY3JrdWU1Wm1zcjY4dWtjZk10ZWtKbWx4MzdXelF1X3FwMUo0Y29DZGZoRmdIVnV0VVBjMDEzUzl0amNiR3VjcVA0cXJJa0RVUmdyOXMxdkh4dUFsd1diODZOSXUwUTBsNlJRbG02QzFMd295YUZDck5CWUZMbHI0RUIydG9UbGRBLWhkVjM4bWd1OFI0b2hlYU9GX1o0ZWltTVo?oc=5",
+   "source_name": "Medical Dialogues",
+   "source_domain": "medicaldialogues.in",
+   "published_raw": "Sun, 21 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab introduces AI as mainstream subject in schools from Class 1 to 12, to cover 31.5 lakh students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOFZNb2hvVDYtNWdJNEdiT1hEbUN3TDFlZlNneU9yZVdlR2NLV1BpR2N0aElPWjMtUC1nTWpaQ1ZIc0YzczYtb29IMGFpeVhqY0JFUGdJWjkyVjc3Y2c3VzlpYjFDMHFGOVNzenl4b2liUjJJZTFpckZwTjhXWDV2OFRwcVBHLV9KQW5UdnNaZlRmS05qcnE4azBoenlmZ3RoUHU4XzhPelFOVkZlZG1aaEVpTEVULUxyM0hnSUxOdFlRNXBDZTBhbE5aWU1RTXhVT3BpODlFS2E0azF0NG1zU1Q3bHg4UQ?oc=5\" target=\"_blank\">Punjab introduces AI as mainstream subject in schools from Class 1 to 12, to cover 31.5 lakh students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOFZNb2hvVDYtNWdJNEdiT1hEbUN3TDFlZlNneU9yZVdlR2NLV1BpR2N0aElPWjMtUC1nTWpaQ1ZIc0YzczYtb29IMGFpeVhqY0JFUGdJWjkyVjc3Y2c3VzlpYjFDMHFGOVNzenl4b2liUjJJZTFpckZwTjhXWDV2OFRwcVBHLV9KQW5UdnNaZlRmS05qcnE4azBoenlmZ3RoUHU4XzhPelFOVkZlZG1aaEVpTEVULUxyM0hnSUxOdFlRNXBDZTBhbE5aWU1RTXhVT3BpODlFS2E0azF0NG1zU1Q3bHg4UQ?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab politicians ramp up AI usage to target rivals with videos like these",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2NSTk4tZnJCQTR1SWNmZXhJOVVoa3lXQjhXUG9xODNNbVJ4RGFVVW1PMjdyTFRBY3dITGtVLXlZeGw5enNuODlXakVCTF8xeDd2R2lVVWhsZ2RvNG9iNjJZeTh5NFl6R1g5ZmNqaF9SMElGQVRsdnZuQkJjUW9VNnFzQ25SdF9kYm1lOE41TUJOU1FYNHR1VjlOUExMa05qS1hoTGROdkZvMHdueXpRR0pDdW85dXVORmxrVExnS0haOENackRPbzRwY1pwbmdsZ0ZKLdIB2wFBVV95cUxQOU1hVlozU09TWDNsWVlnY294VG9nX0hjT3NweUo5WDRELU42VHpnSmNuR2xwTVpROXNBZVdWTkRQMnk0LXUxSUdOdU5tMnBCSFhhSEFmSFB2NFBrV0FxTThMa1J2NHczZzJKZzVZUk9mNDVJbVdrVXc3YzBtSzdsQmhPRWdIQTRPUkJsNTlFd3dPay1CbmtqTFZLcjhfdllrRG5fZzFXaTNIS2t5ZXYxNFM2cjA4bXZ6VVVQYTZfc000QUJBRDcyYjJRNzF1NlUyVFlTZnBxRmxfY1U?oc=5\" target=\"_blank\">Punjab politicians ramp up AI usage to target rivals with videos like these</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2NSTk4tZnJCQTR1SWNmZXhJOVVoa3lXQjhXUG9xODNNbVJ4RGFVVW1PMjdyTFRBY3dITGtVLXlZeGw5enNuODlXakVCTF8xeDd2R2lVVWhsZ2RvNG9iNjJZeTh5NFl6R1g5ZmNqaF9SMElGQVRsdnZuQkJjUW9VNnFzQ25SdF9kYm1lOE41TUJOU1FYNHR1VjlOUExMa05qS1hoTGROdkZvMHdueXpRR0pDdW85dXVORmxrVExnS0haOENackRPbzRwY1pwbmdsZ0ZKLdIB2wFBVV95cUxQOU1hVlozU09TWDNsWVlnY294VG9nX0hjT3NweUo5WDRELU42VHpnSmNuR2xwTVpROXNBZVdWTkRQMnk0LXUxSUdOdU5tMnBCSFhhSEFmSFB2NFBrV0FxTThMa1J2NHczZzJKZzVZUk9mNDVJbVdrVXc3YzBtSzdsQmhPRWdIQTRPUkJsNTlFd3dPay1CbmtqTFZLcjhfdllrRG5fZzFXaTNIS2t5ZXYxNFM2cjA4bXZ6VVVQYTZfc000QUJBRDcyYjJRNzF1NlUyVFlTZnBxRmxfY1U?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 26 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab becomes first state to introduce AI as mainstream subject from Class 1 to 12",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1ExcXVVUDJOY2RMczc2U1plU3lGOE1XUU5tS1EtZWVhTkF1eHl6T0pQcEFwVjhUVlNDcEJFMUVGeXZ3elZWVzNUMjl4aFpCbTdJMUpJMkdXN2tPaWhBZ3dwdkxwWkR3TmhJdXk1aDFIVFB1SXZIUjNsd01WZDBPdkllVUs5bEhrYUp0alpEN2lVT25kc3lFTjZDSHY0RVdzc3pYUlRqLVFyZDZndFJ0M3VjRGR6eG9SVTNteEU5a2F3UdIBxwFBVV95cUxPR2hSMkJhdEgxUVR3MU9Zdi1IbG5WS1ViYktEckdQX1pYdmM3RHlRU2xXc2pjb2ZSdE9hVW9pQldJRGlVVzNVY05nNVcySXRnWEItbUxsZkdyVk05TzNicVhVcm41TkdpdXdXYzIwdm1QYmZRU2FEVEg1eVpMUUNKQkVjVUZwTHNIXzJmTm5ZLWl3bFJCSUFPTWpucU9SY0llQVIzemlrWW9nVUJhSi1xd3ZkNEY1ckdMN0lHeFpwMXNXdlE1Zmsw?oc=5\" target=\"_blank\">Punjab becomes first state to introduce AI as mainstream subject from Class 1 to 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1ExcXVVUDJOY2RMczc2U1plU3lGOE1XUU5tS1EtZWVhTkF1eHl6T0pQcEFwVjhUVlNDcEJFMUVGeXZ3elZWVzNUMjl4aFpCbTdJMUpJMkdXN2tPaWhBZ3dwdkxwWkR3TmhJdXk1aDFIVFB1SXZIUjNsd01WZDBPdkllVUs5bEhrYUp0alpEN2lVT25kc3lFTjZDSHY0RVdzc3pYUlRqLVFyZDZndFJ0M3VjRGR6eG9SVTNteEU5a2F3UdIBxwFBVV95cUxPR2hSMkJhdEgxUVR3MU9Zdi1IbG5WS1ViYktEckdQX1pYdmM3RHlRU2xXc2pjb2ZSdE9hVW9pQldJRGlVVzNVY05nNVcySXRnWEItbUxsZkdyVk05TzNicVhVcm41TkdpdXdXYzIwdm1QYmZRU2FEVEg1eVpMUUNKQkVjVUZwTHNIXzJmTm5ZLWl3bFJCSUFPTWpucU9SY0llQVIzemlrWW9nVUJhSi1xd3ZkNEY1ckdMN0lHeFpwMXNXdlE1Zmsw?oc=5",
+   "source_name": "India Today",
+   "source_domain": "indiatoday.in",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab announces statewide AI curriculum for government schools, rollout begins next month",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSmdydVVya05QOXdla09Ub21ISFNPaVVRQ2NHbXpROHVpd2RMN0UtVC1uZER2S05iZ2ctUnNmQVVaVGhWN1g1b3o5UmdVX2twY08xa0RGRE55WG9fcURXYWJtb2RFSHlydzUzbnVacHpBcGV2UGpmdHNVTGVJeHkwdVhia2g0RU5rVlRTbjB4MWhURHFmaUdWRndzTU9iVHd6bWFNT3ZHS21ydkI3S1dYeVBoUW9rcHl6ZjdXUHRrbUt1d09tN0ZPZ1BkUm55M09NVDdUXzZ1STQwLVJRMFF6X05GYkdIS3liTXFSTWRxbGV4ZDQybjdoZDR30gH_AUFVX3lxTFByVlBVWjEtR2o1T1BvTnlDdkdQXzJUemxwek8ySHdIMHR6M0dMWlhtZS1ObG83UE5rWGFpZWw4V2x0Rmd0S3VOTGZYbC1HMm5nZ21UYlR0V0xtQjFnNG91X0xISzNHZmgxVmJkb1ZaY0o5dHdCcFRwbHhyUkQ3T1ZSckFfZGN5Rkh0ZFZGYUphZHN0UThuLVlta0hZamNKT2g3eVQ1Q2RuOU1BQmVfOGQ5em9FM2VwRDZ3dDdFSm8wdl8zSVlBVHJMTXZjdzlFWWh5eVUzeFZQcE9HSVZkN2xnZ1FEUHVlbkVXX2RiUm9GaEZQUE5rbC1leWlwQjVXdw?oc=5\" target=\"_blank\">Punjab announces statewide AI curriculum for government schools, rollout begins next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSmdydVVya05QOXdla09Ub21ISFNPaVVRQ2NHbXpROHVpd2RMN0UtVC1uZER2S05iZ2ctUnNmQVVaVGhWN1g1b3o5UmdVX2twY08xa0RGRE55WG9fcURXYWJtb2RFSHlydzUzbnVacHpBcGV2UGpmdHNVTGVJeHkwdVhia2g0RU5rVlRTbjB4MWhURHFmaUdWRndzTU9iVHd6bWFNT3ZHS21ydkI3S1dYeVBoUW9rcHl6ZjdXUHRrbUt1d09tN0ZPZ1BkUm55M09NVDdUXzZ1STQwLVJRMFF6X05GYkdIS3liTXFSTWRxbGV4ZDQybjdoZDR30gH_AUFVX3lxTFByVlBVWjEtR2o1T1BvTnlDdkdQXzJUemxwek8ySHdIMHR6M0dMWlhtZS1ObG83UE5rWGFpZWw4V2x0Rmd0S3VOTGZYbC1HMm5nZ21UYlR0V0xtQjFnNG91X0xISzNHZmgxVmJkb1ZaY0o5dHdCcFRwbHhyUkQ3T1ZSckFfZGN5Rkh0ZFZGYUphZHN0UThuLVlta0hZamNKT2g3eVQ1Q2RuOU1BQmVfOGQ5em9FM2VwRDZ3dDdFSm8wdl8zSVlBVHJMTXZjdzlFWWh5eVUzeFZQcE9HSVZkN2xnZ1FEUHVlbkVXX2RiUm9GaEZQUE5rbC1leWlwQjVXdw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab's AI future begins with people",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE96bGc1dVkweVN0RE5pckpfb2ZnZkNJckJGd0Zud3NSYjRvVTZ0YzV0NDVfUjZxQjJXSTdCYk5CclR4VWhVcWV4a291UzEtNDBiekcwdUdETVRlWlY2dWxrcUR5RldqTjFnaEpITm9vb0c3MVRfU1VHeWY3bzVjQdIBhgFBVV95cUxOV0hVYmRWdUNKOU0xMUdaQXA5Zk5QSVhXRVowbHN1TW42a3lMZlVSc0c1NnZGMDA5M3ZzQW1SY1FrVGdOTXQxdTdWdFpXLWI4eURiTlNzLUxKVElCU3NmWVpUNklLaGxmUVBfWFpYMDJDTTFBOGJTVk5PR09aTS1Ta3QzOTNKZw?oc=5\" target=\"_blank\">Punjab's AI future begins with people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96bGc1dVkweVN0RE5pckpfb2ZnZkNJckJGd0Zud3NSYjRvVTZ0YzV0NDVfUjZxQjJXSTdCYk5CclR4VWhVcWV4a291UzEtNDBiekcwdUdETVRlWlY2dWxrcUR5RldqTjFnaEpITm9vb0c3MVRfU1VHeWY3bzVjQdIBhgFBVV95cUxOV0hVYmRWdUNKOU0xMUdaQXA5Zk5QSVhXRVowbHN1TW42a3lMZlVSc0c1NnZGMDA5M3ZzQW1SY1FrVGdOTXQxdTdWdFpXLWI4eURiTlNzLUxKVElCU3NmWVpUNklLaGxmUVBfWFpYMDJDTTFBOGJTVk5PR09aTS1Ta3QzOTNKZw?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Tue, 28 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Maharashtra signs MoU with Google for AI training of over 4 lakh teachers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmtGTERkM3QtRjhNMGp2X2liNEFxa0JBS0RDb0RwMURSN2xtT3RxZWViUnZLcWRncWhnc2dmaE1sYzdlaXlHNkR5dEZlWXpya2E1VTNlUTExY3VXekd1ZXVCZnAxVDUxQ1F4aWE2YWJ0NVVkWGlMT0VFTTZuMEhFTDBUd0pvRHRBWk1aVGZmcWVJZXFSSEE2SmFlMjNtcmZVY01nd2lwZGthSGJDdzBUbjlya2tuWUtDdl85dlZJYWdtdXBjT2fSAcwBQVVfeXFMTzdDWkRaMU91MVV0S19xUFRya0FHNFpMS3AtUHZIZ3VGdnVtaGhPUGdVR0ZzVmtmb1lYNnNzd3Yyb0EzUDZFb2IyN001cWxJd2Rqc1VrUHgyeWJUc1NQcV96SXlxWVdyeDFSc2F3UDFjX0dOcWJ2UlhiWkROcHZmaFdwcGpYelN4UEt0LTBPWUVIdHk2WFhDNlNOUzZWeFBjdU1ZNlhQU1k2MVZ4Tzl5S0NaVUtlakctMFEyZ05IQWhSYzhfbDVkTXcxa3Nn?oc=5\" target=\"_blank\">Maharashtra signs MoU with Google for AI training of over 4 lakh teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmtGTERkM3QtRjhNMGp2X2liNEFxa0JBS0RDb0RwMURSN2xtT3RxZWViUnZLcWRncWhnc2dmaE1sYzdlaXlHNkR5dEZlWXpya2E1VTNlUTExY3VXekd1ZXVCZnAxVDUxQ1F4aWE2YWJ0NVVkWGlMT0VFTTZuMEhFTDBUd0pvRHRBWk1aVGZmcWVJZXFSSEE2SmFlMjNtcmZVY01nd2lwZGthSGJDdzBUbjlya2tuWUtDdl85dlZJYWdtdXBjT2fSAcwBQVVfeXFMTzdDWkRaMU91MVV0S19xUFRya0FHNFpMS3AtUHZIZ3VGdnVtaGhPUGdVR0ZzVmtmb1lYNnNzd3Yyb0EzUDZFb2IyN001cWxJd2Rqc1VrUHgyeWJUc1NQcV96SXlxWVdyeDFSc2F3UDFjX0dOcWJ2UlhiWkROcHZmaFdwcGpYelN4UEt0LTBPWUVIdHk2WFhDNlNOUzZWeFBjdU1ZNlhQU1k2MVZ4Tzl5S0NaVUtlakctMFEyZ05IQWhSYzhfbDVkTXcxa3Nn?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sat, 20 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Canada based Punjabi Abhinandan Gill warns against misuse of artificial intelligence in politics",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnpPOGRLRUY3dXJpSkN2aEd6TkN0a1NibXRyZFdaTVJnMVlVSklhbGk1WlpiSllmQkdhN2hRUHFuVEw3S0pjNHRPR1czV3RiREdQMkE3UEt1Rlh5QjZ1YU96UWxrNy1taEkxbzBFX01fWjJQcm5jbkRZTGVBZnVlbjJXTjE2N0Y5OEpVVmlvWVlYSV9PNHJod0VBeUpBRkRMdWVuSENROWsteVZQczYwSmc0aUZQNlpPR2N4c2o4SmhDNEZIQWszdWJiU0NXY3VGM2x4eG14R2laYmxlSE53QnFGWm1FTFItVGpnWWg5UEVsbGkybnRUMUYzRDlvQjZXbkR4QdIBigJBVV95cUxNaFhhbVU2UzE4U0stZU5OdEVtalhPRlBpU0psRU11TGNBdnNBX2w0OElPVWxha1BJdTZKenZLWmFtTU1JZExKSnM4WDFGT29mTGxrMW9CSzBxSElPTm1QejlpYXk5QmlTTWNBMlNUTlZ2WUNYQjFlTHVjTTB0cV9KUWFmLWtoSmo4TG9ELWttcTRWU0ZseXF4cmRGRlhVeFlUQnEyODczMVpzNzBma1Q5b0Z1dmpsWGozTm5xbUtuOGNOaWFUSVZuNTUxSnJwOWgzMlJBNTZFS2pRVGVrMVlranlRNlFWUE40NU1fRVNVSEROeXZ1WEd6aFkzby1UaDJZalVqQTl1ZHN5dw?oc=5\" target=\"_blank\">Canada based Punjabi Abhinandan Gill warns against misuse of artificial intelligence in politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnpPOGRLRUY3dXJpSkN2aEd6TkN0a1NibXRyZFdaTVJnMVlVSklhbGk1WlpiSllmQkdhN2hRUHFuVEw3S0pjNHRPR1czV3RiREdQMkE3UEt1Rlh5QjZ1YU96UWxrNy1taEkxbzBFX01fWjJQcm5jbkRZTGVBZnVlbjJXTjE2N0Y5OEpVVmlvWVlYSV9PNHJod0VBeUpBRkRMdWVuSENROWsteVZQczYwSmc0aUZQNlpPR2N4c2o4SmhDNEZIQWszdWJiU0NXY3VGM2x4eG14R2laYmxlSE53QnFGWm1FTFItVGpnWWg5UEVsbGkybnRUMUYzRDlvQjZXbkR4QdIBigJBVV95cUxNaFhhbVU2UzE4U0stZU5OdEVtalhPRlBpU0psRU11TGNBdnNBX2w0OElPVWxha1BJdTZKenZLWmFtTU1JZExKSnM4WDFGT29mTGxrMW9CSzBxSElPTm1QejlpYXk5QmlTTWNBMlNUTlZ2WUNYQjFlTHVjTTB0cV9KUWFmLWtoSmo4TG9ELWttcTRWU0ZseXF4cmRGRlhVeFlUQnEyODczMVpzNzBma1Q5b0Z1dmpsWGozTm5xbUtuOGNOaWFUSVZuNTUxSnJwOWgzMlJBNTZFS2pRVGVrMVlranlRNlFWUE40NU1fRVNVSEROeXZ1WEd6aFkzby1UaDJZalVqQTl1ZHN5dw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 12 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab 1st state to launch AI as mainstream subject for Class I to XII: Bains",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm5OU0hpamkybmxhMm9QcGVrSjJ6alg5TXFEbkNSSXQxZS1jUmFmOFlXUTd6SnMxYWJQaEdCSklRSVZJTVlndFJEVFZDSmR3dXQ1V1E1UE5TeXhTV0RGdXk1cTZnLWFyRFgtUlktbTc5dTlKbUhJR0ozSFZiUGc3czZ4a3RkSnBVVlowajlRU1Q0d0EzR0dDQmhNQ0xSRlpLTFlTSDZ2dWhvZnNQN0s0LXM0TXMzM0hhZHU40gHCAUFVX3lxTE9hT3BjeDI2RXVaa2hFd3lBc0xpbEViY3llQnVvZU02Mm1PVGVuR25mdEQ5S0ZWUHN4VVZqTGhPdkk3ejdQM1ZLMGxuZFF4ZnY2a0dLU3lnTG0wQ0EzeF9kUVlfVWFERDZ6OXpNaHFDemN5eUhyc1lGZFdSLUh2UW5BVGR1N1d6VlhsLW1nb1JES1NQNFRQWFJLMGlXQjNaMUJsUk9PcWtDSmdDa3A4UFZYRDVoWUZSWkVuUzlhYzA3RnJ3?oc=5\" target=\"_blank\">Punjab 1st state to launch AI as mainstream subject for Class I to XII: Bains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm5OU0hpamkybmxhMm9QcGVrSjJ6alg5TXFEbkNSSXQxZS1jUmFmOFlXUTd6SnMxYWJQaEdCSklRSVZJTVlndFJEVFZDSmR3dXQ1V1E1UE5TeXhTV0RGdXk1cTZnLWFyRFgtUlktbTc5dTlKbUhJR0ozSFZiUGc3czZ4a3RkSnBVVlowajlRU1Q0d0EzR0dDQmhNQ0xSRlpLTFlTSDZ2dWhvZnNQN0s0LXM0TXMzM0hhZHU40gHCAUFVX3lxTE9hT3BjeDI2RXVaa2hFd3lBc0xpbEViY3llQnVvZU02Mm1PVGVuR25mdEQ5S0ZWUHN4VVZqTGhPdkk3ejdQM1ZLMGxuZFF4ZnY2a0dLU3lnTG0wQ0EzeF9kUVlfVWFERDZ6OXpNaHFDemN5eUhyc1lGZFdSLUh2UW5BVGR1N1d6VlhsLW1nb1JES1NQNFRQWFJLMGlXQjNaMUJsUk9PcWtDSmdDa3A4UFZYRDVoWUZSWkVuUzlhYzA3RnJ3?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab passes Digital Universities Bills: What are they, the controversy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW04a28yLVNrUWlsemtpOUhFcm1NRU1tc0t6RWt5YkVWWkpZMzRkcVNtQlR6RUVaTWVmZ2tWNUFKOUN0TjlQYWxXcmZucUs0RW9KNFRMazl2Z3dHQ2ZZV2JEbkZZTjJLZWJ5WFotRnJsNVRIbWk1N3V6V2tpMUYtUThjQmlVeXJMTDNmMUNIUjZNdG0ySWllUUVReVd1TVA3STlSaW1Zb05saFVMWF9rd1F3OEjSAbsBQVVfeXFMTlBQQXI2dTdnMExNZGp2dHpBLXZNVlJBcndreVFmNmZBLUQ5aFFWU0J1QXlGX0dmQVhhMEU2aTNNR2hUVjdLZFctRUFVT29ZS2FhN194YlFuWm5sdUM2eXhYQUlPLXJUalU4SXZmN1dyM25oVG5OY3Z1cHFZUFVNWFBSYXBRdHlZaWZMVV9QeEs0WDRvUWhzR2JZZlpSSVZkdjA5dEMyWi1WdF8wVkl3X1lxam1ReE9wRlYzaw?oc=5\" target=\"_blank\">Punjab passes Digital Universities Bills: What are they, the controversy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW04a28yLVNrUWlsemtpOUhFcm1NRU1tc0t6RWt5YkVWWkpZMzRkcVNtQlR6RUVaTWVmZ2tWNUFKOUN0TjlQYWxXcmZucUs0RW9KNFRMazl2Z3dHQ2ZZV2JEbkZZTjJLZWJ5WFotRnJsNVRIbWk1N3V6V2tpMUYtUThjQmlVeXJMTDNmMUNIUjZNdG0ySWllUUVReVd1TVA3STlSaW1Zb05saFVMWF9rd1F3OEjSAbsBQVVfeXFMTlBQQXI2dTdnMExNZGp2dHpBLXZNVlJBcndreVFmNmZBLUQ5aFFWU0J1QXlGX0dmQVhhMEU2aTNNR2hUVjdLZFctRUFVT29ZS2FhN194YlFuWm5sdUM2eXhYQUlPLXJUalU4SXZmN1dyM25oVG5OY3Z1cHFZUFVNWFBSYXBRdHlZaWZMVV9QeEs0WDRvUWhzR2JZZlpSSVZkdjA5dEMyWi1WdF8wVkl3X1lxam1ReE9wRlYzaw?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 12 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab: AI push sparks confusion among teachers",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcG9SUGJxUEt6SUEyVVFhMlZCa3M4WkRNUV9mRzZ6YmdCRmY0c0FCSHlLU0hvQXBDUFlSNHhLX1Q3Y1ZtOWlnbUFSZkdseG51al9vTk9GdFZfZjRwek5FSURIOC1CT2pyd2h4Mlp4QzhWRW8tUll6aUdTTE1XUzR0SHl1b3E0T0J10gGMAUFVX3lxTE1lcl9aSGxzXzEtTnlyNS1yR0pSUFdnS1RqZ3hrRzhCXzlXVWFqclNUZDZEVTVsb1NvWHBKR3N2V3FGang0SXVfT1lvWGFJRkVRRnZ2VG1CU04yMkpjTEFGS3hXeVh5c2gyMGExN1BQMG5wT2JCM29vbEx5cXpIYmtpeXZLQ2lpZGJnWXdz?oc=5\" target=\"_blank\">Punjab: AI push sparks confusion among teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcG9SUGJxUEt6SUEyVVFhMlZCa3M4WkRNUV9mRzZ6YmdCRmY0c0FCSHlLU0hvQXBDUFlSNHhLX1Q3Y1ZtOWlnbUFSZkdseG51al9vTk9GdFZfZjRwek5FSURIOC1CT2pyd2h4Mlp4QzhWRW8tUll6aUdTTE1XUzR0SHl1b3E0T0J10gGMAUFVX3lxTE1lcl9aSGxzXzEtTnlyNS1yR0pSUFdnS1RqZ3hrRzhCXzlXVWFqclNUZDZEVTVsb1NvWHBKR3N2V3FGang0SXVfT1lvWGFJRkVRRnZ2VG1CU04yMkpjTEFGS3hXeVh5c2gyMGExN1BQMG5wT2JCM29vbEx5cXpIYmtpeXZLQ2lpZGJnWXdz?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Sun, 02 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Pilot project introduces AI learning in govt schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVlNVEh4UDVuTEd4M2dEelRKYkhPbG9xSGJ0Xy1JX3BvV0hPeFg1R2pLVUxtRHFWYXhYVFpRY01zNWdBNWZRYmlnMHhQU0tJa3NSNVpoaGhnRHp2TzdPTlFuN0tTaDRHUXY5eWZZN2xsUmdRZWZQVnFJWk84OVVrNl8yaFowZU1vbGFSOG43UzdzTnlZZUJMbXhn0gGeAUFVX3lxTE01RGVOblBHNVZ0dHpQZDAtYlJoNTBCYW0tZlo3S1RTc2d1MTlkWGpyYk9lWTloOS1NSXYwQkpzNk9GbWZvQnA0OUQzS0I1YWdWWTFvV3hHZlFWcHl2Qmt2dnIzdXlmaXlhaEp6bVBNSjVrNWg1VkFYNWo0VVRSMDJzd2lhN0h1ZGY0VDVIem1rUWs0SWtGOGg2U21HWGhB?oc=5\" target=\"_blank\">Pilot project introduces AI learning in govt schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVlNVEh4UDVuTEd4M2dEelRKYkhPbG9xSGJ0Xy1JX3BvV0hPeFg1R2pLVUxtRHFWYXhYVFpRY01zNWdBNWZRYmlnMHhQU0tJa3NSNVpoaGhnRHp2TzdPTlFuN0tTaDRHUXY5eWZZN2xsUmdRZWZQVnFJWk84OVVrNl8yaFowZU1vbGFSOG43UzdzTnlZZUJMbXhn0gGeAUFVX3lxTE01RGVOblBHNVZ0dHpQZDAtYlJoNTBCYW0tZlo3S1RTc2d1MTlkWGpyYk9lWTloOS1NSXYwQkpzNk9GbWZvQnA0OUQzS0I1YWdWWTFvV3hHZlFWcHl2Qmt2dnIzdXlmaXlhaEp6bVBNSjVrNWg1VkFYNWo0VVRSMDJzd2lhN0h1ZGY0VDVIem1rUWs0SWtGOGg2U21HWGhB?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Sun, 28 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab becomes first state to introduce AI as mainstream subject from classes 1-12: Harjot Singh Bains",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHhZUWhwcEVjcHZ0NGRjYXFob2dvTkEza3N6aEVSODVwUDkxNXFQdDhvdTI4bF9JWWNBcUt6dXJ1eWZLUXN3MUk3VDQzTWh5LTZuRnAwUW5KczhBZG8xd0Vkb3BKQi16SDhfZDVWNWJtdEtoaXRBZjcwTng5WXk2dktBcDhoR011dEQwdHdMNXZJM1RXQ0ZnNHlkTC1NNUdpMmxtZ3VvNWh0U2RNVDRER0FkYWZScjFvbmthM0ZaQ0JvMHdYMnFXNFFB0gHOAUFVX3lxTE5xVDVkV0N5aTlrNFBSRG51NzVIOTB3MGYwYkdhdU02UUlRdDUtVkpSdk9Sc21SRGc2TjZjQXhwdmY5LVlINHVINF9fUmxJeWlwSG5Zb3VhVmt6T1FnZ1RjYmNaaWFtTEdNMENHcG9HbDVMZ09LNTRYLUZlUXRLZ2E4NGJQZUlhdU1uQUlpWHdBejlzcnlvMUpMRGhUdEtlMEVpNmx1WUVqcUpVa2RpU1VYaTZPTG9qXzJ5ckZFVlZSbWZKWm5YVzNTei1CTkt3?oc=5\" target=\"_blank\">Punjab becomes first state to introduce AI as mainstream subject from classes 1-12: Harjot Singh Bains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHhZUWhwcEVjcHZ0NGRjYXFob2dvTkEza3N6aEVSODVwUDkxNXFQdDhvdTI4bF9JWWNBcUt6dXJ1eWZLUXN3MUk3VDQzTWh5LTZuRnAwUW5KczhBZG8xd0Vkb3BKQi16SDhfZDVWNWJtdEtoaXRBZjcwTng5WXk2dktBcDhoR011dEQwdHdMNXZJM1RXQ0ZnNHlkTC1NNUdpMmxtZ3VvNWh0U2RNVDRER0FkYWZScjFvbmthM0ZaQ0JvMHdYMnFXNFFB0gHOAUFVX3lxTE5xVDVkV0N5aTlrNFBSRG51NzVIOTB3MGYwYkdhdU02UUlRdDUtVkpSdk9Sc21SRGc2TjZjQXhwdmY5LVlINHVINF9fUmxJeWlwSG5Zb3VhVmt6T1FnZ1RjYmNaaWFtTEdNMENHcG9HbDVMZ09LNTRYLUZlUXRLZ2E4NGJQZUlhdU1uQUlpWHdBejlzcnlvMUpMRGhUdEtlMEVpNmx1WUVqcUpVa2RpU1VYaTZPTG9qXzJ5ckZFVlZSbWZKWm5YVzNTei1CTkt3?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Punjab govt drafts landmark AI protection law for artists",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTZLVzZ2VjFYSmx1SThBVUs3NHo0bE02cnNkX0tkLTBGYXBWTEp3ZTFaQzdFaGV6OWZ4djFLX2RHejRvc2tUbnBoTXNfN2ljSUlUdGR2X01PdUZxXzRuZ2hCU2MxV3ZRMUtfeVVpamh0eHFMQW9BampDYlJIMUFXMm9RWWVCZTFlQ0o5UnZYTlR3bEUyR1VOcjdB0gGiAUFVX3lxTE1WTFdqbFJaTS1LQlhxdVM3RkdyRGxxRDdEQ1FMT0w5bGRzcGFUMy1CNk9fTnpRbGcxRk9LM3phV2h3MlJVUDF5YjFHN3NTZkE3Q3hPZ0JLdzE3d1c0MXJtYkhiQk5iZGVscEphdFN4bks3UFhBMWlNcFZESDAyQjRJNG1PbGg5TzFPTHotODQybVZ3QVBoLXlKNUxkYmlGbXJkZw?oc=5\" target=\"_blank\">Punjab govt drafts landmark AI protection law for artists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTZLVzZ2VjFYSmx1SThBVUs3NHo0bE02cnNkX0tkLTBGYXBWTEp3ZTFaQzdFaGV6OWZ4djFLX2RHejRvc2tUbnBoTXNfN2ljSUlUdGR2X01PdUZxXzRuZ2hCU2MxV3ZRMUtfeVVpamh0eHFMQW9BampDYlJIMUFXMm9RWWVCZTFlQ0o5UnZYTlR3bEUyR1VOcjdB0gGiAUFVX3lxTE1WTFdqbFJaTS1LQlhxdVM3RkdyRGxxRDdEQ1FMT0w5bGRzcGFUMy1CNk9fTnpRbGcxRk9LM3phV2h3MlJVUDF5YjFHN3NTZkE3Q3hPZ0JLdzE3d1c0MXJtYkhiQk5iZGVscEphdFN4bks3UFhBMWlNcFZESDAyQjRJNG1PbGg5TzFPTHotODQybVZ3QVBoLXlKNUxkYmlGbXJkZw?oc=5",
+   "source_name": "The Express Tribune",
+   "source_domain": "tribune.com.pk",
+   "published_raw": "Sat, 13 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Punjab",
+   "title": "Computer teacher shortage may hit Punjab’s AI education push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmk1TkhmdTg0bHc0bUd4Z2hNc2RNZzRyRmZ4eC1TTk84UE1nRVlUSC1HU0pTUlBrMmtjRUFSU2lxeXZsYk9ieXRuZFhCU1lqYkluVXd0MTNTSmU0MkVobWdBOGR3UHJEOTFTRk1BSFhCZ3JUMGVGR3pjSU9raE1yT3FBZzBSZ0VHdi02YXJRdWZSMHRQQlhNd19BVXN4aXpfSnVlQWt30gGqAUFVX3lxTE1pZ29LRlZZbk51ME5KY3dIMWJRQjJ4bF9LdENFUGdocVlGakdNZFhPV3lhZnNaSUQ3dkh3akRxbV9YMm5GWEJjZ0NaVk83Vy02b2RNc2w1R1BPMk1YWmtnT2xIX1dIUVI4SElodnV0VElpblh2aE1nc0oyTDZQOS0yZFlLN0lBUE5kb0RVWHNVYlhUbUotQjN1anE2b01wWEhGY3ZfR3pQdmd3?oc=5\" target=\"_blank\">Computer teacher shortage may hit Punjab’s AI education push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmk1TkhmdTg0bHc0bUd4Z2hNc2RNZzRyRmZ4eC1TTk84UE1nRVlUSC1HU0pTUlBrMmtjRUFSU2lxeXZsYk9ieXRuZFhCU1lqYkluVXd0MTNTSmU0MkVobWdBOGR3UHJEOTFTRk1BSFhCZ3JUMGVGR3pjSU9raE1yT3FBZzBSZ0VHdi02YXJRdWZSMHRQQlhNd19BVXN4aXpfSnVlQWt30gGqAUFVX3lxTE1pZ29LRlZZbk51ME5KY3dIMWJRQjJ4bF9LdENFUGdocVlGakdNZFhPV3lhZnNaSUQ3dkh3akRxbV9YMm5GWEJjZ0NaVk83Vy02b2RNc2w1R1BPMk1YWmtnT2xIX1dIUVI4SElodnV0VElpblh2aE1nc0oyTDZQOS0yZFlLN0lBUE5kb0RVWHNVYlhUbUotQjN1anE2b01wWEhGY3ZfR3pQdmd3?oc=5",
+   "source_name": "The Tribune",
+   "source_domain": "tribuneindia.com",
+   "published_raw": "Thu, 30 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:22+00:00"
+  }
+ ]
+}

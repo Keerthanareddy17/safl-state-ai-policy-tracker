@@ -1,0 +1,120 @@
+{
+ "region": "Goa",
+ "group": "B",
+ "query": "(Goa) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Goa%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:53+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "From sun & sand to AI, GCCs and R&D, Rohan Ashok Khaunte on Goa’s tourism-tech vision",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmtRY292eTJOTlliY1FSTUtHWGZpQzRVckpJYzNvc0dYd3EzY0ZYVWVvNjdaUTdlRy02SkF2Z2ZEblBDWnlDa2lMN1YzYXdOZjQ4SjdYc1MtbDRyOTA3eno0U0FiUEhmN1J6LWpjdGFVZEJPUUdXYjJZcnh4UFhFX2ktb1lTNlZlYlpwWXJ1Z2NTNGhPZWZ3Q2kyOFRWZjNPdVQwZURVOWc0SURTQWQ3LWswbXhja1ozVmQyTzUyNGVlcE5qQ1ptSzV2TWpLVGltaTJDUnFjVEJKZ1YwWFdv0gHjAUFVX3lxTFB4WDlzbkNzd0Y1Rzd5SDBjTGtLRkpyV0JXX1ZLZUliWDdJSVg4RXdLYmpOVmRLMWhhX0M3a3YtTWZsbVdKRTdHb0V6VFdRbHg5TjBlZVIzRzJGNEtrRWtEM1hpX3lPQjVFM1ZXbDBkV1lxOVlqR3NoNTM3Y2t0WjNWS1J1RGRWXzUtSWs5ZlZrNHlibzNDSFRfdzdzTDQ3WlJWZ2FrRVF2OFNnR1JOSmNLSGE0bndSS0ZCSmZ0ZHdfLXV4T1R2djEwZkVxV3VlVVc2c2JKYWxiWDNoSjZMbnVHTjhz?oc=5\" target=\"_blank\">From sun & sand to AI, GCCs and R&amp;D, Rohan Ashok Khaunte on Goa’s tourism-tech vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmtRY292eTJOTlliY1FSTUtHWGZpQzRVckpJYzNvc0dYd3EzY0ZYVWVvNjdaUTdlRy02SkF2Z2ZEblBDWnlDa2lMN1YzYXdOZjQ4SjdYc1MtbDRyOTA3eno0U0FiUEhmN1J6LWpjdGFVZEJPUUdXYjJZcnh4UFhFX2ktb1lTNlZlYlpwWXJ1Z2NTNGhPZWZ3Q2kyOFRWZjNPdVQwZURVOWc0SURTQWQ3LWswbXhja1ozVmQyTzUyNGVlcE5qQ1ptSzV2TWpLVGltaTJDUnFjVEJKZ1YwWFdv0gHjAUFVX3lxTFB4WDlzbkNzd0Y1Rzd5SDBjTGtLRkpyV0JXX1ZLZUliWDdJSVg4RXdLYmpOVmRLMWhhX0M3a3YtTWZsbVdKRTdHb0V6VFdRbHg5TjBlZVIzRzJGNEtrRWtEM1hpX3lPQjVFM1ZXbDBkV1lxOVlqR3NoNTM3Y2t0WjNWS1J1RGRWXzUtSWs5ZlZrNHlibzNDSFRfdzdzTDQ3WlJWZ2FrRVF2OFNnR1JOSmNLSGE0bndSS0ZCSmZ0ZHdfLXV4T1R2djEwZkVxV3VlVVc2c2JKYWxiWDNoSjZMbnVHTjhz?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Fri, 20 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Govt unveils draft AI policy with aim to position state as global hub for high-tech innovation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnpCSlFRS1Q0RUFNYUphcG02eFkzeHR0dmRQR2p1MDgwZnEyTU5OYlFfTmF1QVVYUnFyeG5odXoycFFacU9XTjlBYUhOelFsVThma0QzeDBESzZxRnNqc0ZjQzhJeVZFNWFCWm83Z0h5QzhTR3JmOTVMbnZaYmN5VzlXMzZZenY5NVlfUHJ5VVRjektOVmNPaTF2RTBQNnpvVlViVDZQRWVpeUpHbFlIZ2JzalIwRU5KQXAyc0w2SVFWUE13VDFrZW56Z9IB2AFBVV95cUxNazFvb2tsN1FFRjJxXzM3a01VSTlRSU5RQW9ma0FWdzJZakhWbWdJTzZtQWl1TFlDQzUxb2VYLUhjRVJSUUJOcnhSTllDYVQyZ1hTdE9EUWNfTUJyR29mNUpnTHFfMDBYcHpibC1kWnlRMlNibEJDbnVaSUpSM3VkUy0zcVFPZkh5ZVphZ0JXVmkwYkEwaEhva1dmVjVUMERvLXFJWGRtWkVvUVROUzV3VzQ5NnBrcmw5QThhZnhIWUtXT3J4VXBtUm5qc1dMZzNHaHdfdkMwTU0?oc=5\" target=\"_blank\">Goa Govt unveils draft AI policy with aim to position state as global hub for high-tech innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PSU Watch</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnpCSlFRS1Q0RUFNYUphcG02eFkzeHR0dmRQR2p1MDgwZnEyTU5OYlFfTmF1QVVYUnFyeG5odXoycFFacU9XTjlBYUhOelFsVThma0QzeDBESzZxRnNqc0ZjQzhJeVZFNWFCWm83Z0h5QzhTR3JmOTVMbnZaYmN5VzlXMzZZenY5NVlfUHJ5VVRjektOVmNPaTF2RTBQNnpvVlViVDZQRWVpeUpHbFlIZ2JzalIwRU5KQXAyc0w2SVFWUE13VDFrZW56Z9IB2AFBVV95cUxNazFvb2tsN1FFRjJxXzM3a01VSTlRSU5RQW9ma0FWdzJZakhWbWdJTzZtQWl1TFlDQzUxb2VYLUhjRVJSUUJOcnhSTllDYVQyZ1hTdE9EUWNfTUJyR29mNUpnTHFfMDBYcHpibC1kWnlRMlNibEJDbnVaSUpSM3VkUy0zcVFPZkh5ZVphZ0JXVmkwYkEwaEhva1dmVjVUMERvLXFJWGRtWkVvUVROUzV3VzQ5NnBrcmw5QThhZnhIWUtXT3J4VXBtUm5qc1dMZzNHaHdfdkMwTU0?oc=5",
+   "source_name": "PSU Watch",
+   "source_domain": "psuwatch.com",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Youth Congress protest at AI Summit tarnished India’s image: Pramod Sawant",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXZ3TFVsS3hyM2luS204N3UwOVB2TFVUUDFuVVFmR2dJOFhjZ0E3dUN6NVU2WnFRVDhsZDcxTVJxQTFFSDdWcVI3aV9NQlVSWkVTUXVnVkFPdFU1MmV3QmlWd1JXckJGdXVVQngwdWJJaUxhS0I3cG16ZS1lX2RrS3FPVXVxbmJ6b3pmbEZSMXoxSlZKaU9ncVZPa0NaUDJqSDhDZWtJTmNqMnZkRDlJLTVYSmxKaGVLQi16VDNfZ181MlpyemJheEJxS03SAdMBQVVfeXFMTkJRbEdmdVV2YmMxQ1V5TGdYME9FQ1M1Nk05LUZWc3EtQkc3Ml8yam5PY2l6WFRmQUhiaUYwRUtSYmlNbFdLTVFQdjZrSjU4aVJxODlHa1doZ3NXNzBCR0hXVEZQbk9XWWZUNjZfTGJMbTRJemZzbU9mUHhhVjFsR3VoeXctdVJJUjRnNDVfeHRRT1JvNlJhZDhkdHdlNDM5RjZubUw4NWdjQ01RUFZHZWQzZHVKa1kxZUh3eXJ2bk9zbjJRUHhLS3RncGMzdGUtbm5Xbw?oc=5\" target=\"_blank\">Youth Congress protest at AI Summit tarnished India’s image: Pramod Sawant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXZ3TFVsS3hyM2luS204N3UwOVB2TFVUUDFuVVFmR2dJOFhjZ0E3dUN6NVU2WnFRVDhsZDcxTVJxQTFFSDdWcVI3aV9NQlVSWkVTUXVnVkFPdFU1MmV3QmlWd1JXckJGdXVVQngwdWJJaUxhS0I3cG16ZS1lX2RrS3FPVXVxbmJ6b3pmbEZSMXoxSlZKaU9ncVZPa0NaUDJqSDhDZWtJTmNqMnZkRDlJLTVYSmxKaGVLQi16VDNfZ181MlpyemJheEJxS03SAdMBQVVfeXFMTkJRbEdmdVV2YmMxQ1V5TGdYME9FQ1M1Nk05LUZWc3EtQkc3Ml8yam5PY2l6WFRmQUhiaUYwRUtSYmlNbFdLTVFQdjZrSjU4aVJxODlHa1doZ3NXNzBCR0hXVEZQbk9XWWZUNjZfTGJMbTRJemZzbU9mUHhhVjFsR3VoeXctdVJJUjRnNDVfeHRRT1JvNlJhZDhkdHdlNDM5RjZubUw4NWdjQ01RUFZHZWQzZHVKa1kxZUh3eXJ2bk9zbjJRUHhLS3RncGMzdGUtbm5Xbw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 21 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "“CERT-In SAMVAAD 2026”",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0wdlRSWUEyeGVpVHlrVFpOOVZOYmd1b2twT1Y5SU1vYkR3TXhXUXkxQzN2MmF6OXV6dFV0MUxtQVZFQnVpS19xUzVyY2tRRmE2aGxpVmRtTmlqMnh3b2VubUdMRzFEN1NrOEZQek5Ba0RxeGhwUFpRRmpn?oc=5\" target=\"_blank\">“CERT-In SAMVAAD 2026”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wdlRSWUEyeGVpVHlrVFpOOVZOYmd1b2twT1Y5SU1vYkR3TXhXUXkxQzN2MmF6OXV6dFV0MUxtQVZFQnVpS19xUzVyY2tRRmE2aGxpVmRtTmlqMnh3b2VubUdMRzFEN1NrOEZQek5Ba0RxeGhwUFpRRmpn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 29 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Distributed Hiring Drives Goa’s Rise as a Tech Talent Hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmNvMEUwLVFQUU1UaVVtNmFZb0FaVTcxSDhaajJkQ1dKMFlWV18tdzliRkdVVjU0QzZ5Z054RnVsR2xDcG9IbllIV3pzM1Rnc21fXzk2TjVzQzRmandBeDhaVDFkd0RMdWVHbVc5OXNDSVgwNzNPRm9zVkZYMWJNMHB5ZmZTR0ZYOEs1djhOMkozQlBUOWJsZXBCMGxFYUVKUEHSAaIBQVVfeXFMTVpjbzBFMC1RUFFNVGlVbTZhWW9BWlU3MUg4WmoyZENXSjBZVldfLXc5YkZHVVY1NEM2eWdOeEZ1bEdsQ3BvSG5ZSFd6czNUZ3NtX185Nk41c0M0Zmp3QXg4WlQxZHdETHVlR21XOTlzQ0lYMDczT0Zvc1ZGWDFiTTBweWZmU0dGWDhLNXY4TjJKM0JQVDlibGVwQjBsRWFFSlBB?oc=5\" target=\"_blank\">Distributed Hiring Drives Goa’s Rise as a Tech Talent Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CIOL</font>",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmNvMEUwLVFQUU1UaVVtNmFZb0FaVTcxSDhaajJkQ1dKMFlWV18tdzliRkdVVjU0QzZ5Z054RnVsR2xDcG9IbllIV3pzM1Rnc21fXzk2TjVzQzRmandBeDhaVDFkd0RMdWVHbVc5OXNDSVgwNzNPRm9zVkZYMWJNMHB5ZmZTR0ZYOEs1djhOMkozQlBUOWJsZXBCMGxFYUVKUEHSAaIBQVVfeXFMTVpjbzBFMC1RUFFNVGlVbTZhWW9BWlU3MUg4WmoyZENXSjBZVldfLXc5YkZHVVY1NEM2eWdOeEZ1bEdsQ3BvSG5ZSFd6czNUZ3NtX185Nk41c0M0Zmp3QXg4WlQxZHdETHVlR21XOTlzQ0lYMDczT0Zvc1ZGWDFiTTBweWZmU0dGWDhLNXY4TjJKM0JQVDlibGVwQjBsRWFFSlBB?oc=5",
+   "source_name": "CIOL",
+   "source_domain": "ciol.com",
+   "published_raw": "Mon, 06 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa proposes curbs on social media for minors under 16; draft to be sent to Centre",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWs4ZDRWMWVCaVhIMkJ5LXhlZnh3TEwzWk10cWxUU092WVdEbm9MbEVvYjJpTUlYYWNfTnl0cDVLRGdJVVBjQXJjclhPSmRWZDBkZzRjdnRJc2YzZDVhRVJ6OVo3S08xUjBpVENTaFlGaU9xWTJPSFNVX0l6MHc4WW9UUXBHbEFjZGFuOTNIU3R3NjI1blFqTWQySWh4UWVUX3NMd0tEN1I5ODdQdmkxT0JEYkQzc3dxVTdWQTZJWW1wYzVTRDhDejNn0gHPAUFVX3lxTE9OdDdyOFp1T0lUOFBoNmJhdHRfLTgxaDlyMnFsbGJpVTlfSVQxTW1lWDVWSHJkd3BnSWpYenZ4b0diYnk1SUQ1TEpsY3ZFeGJlbWd1Y2duNUZwUXFFZ1hSMERJeE5mQUxVSGw5TFBHX1ZWQWZsV3NENUNJb2c1ZnNzX0F2ZlVBWlYzTXJKQmY1YW40dFlEdzZsQTdKRFRZQjBCWFNCaGtiZ2I1aEZLTFJuWkFpc3hoOHRyWjVJQW85d1JKZThKUWNWZGNxMC1aQQ?oc=5\" target=\"_blank\">Goa proposes curbs on social media for minors under 16; draft to be sent to Centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWs4ZDRWMWVCaVhIMkJ5LXhlZnh3TEwzWk10cWxUU092WVdEbm9MbEVvYjJpTUlYYWNfTnl0cDVLRGdJVVBjQXJjclhPSmRWZDBkZzRjdnRJc2YzZDVhRVJ6OVo3S08xUjBpVENTaFlGaU9xWTJPSFNVX0l6MHc4WW9UUXBHbEFjZGFuOTNIU3R3NjI1blFqTWQySWh4UWVUX3NMd0tEN1I5ODdQdmkxT0JEYkQzc3dxVTdWQTZJWW1wYzVTRDhDejNn0gHPAUFVX3lxTE9OdDdyOFp1T0lUOFBoNmJhdHRfLTgxaDlyMnFsbGJpVTlfSVQxTW1lWDVWSHJkd3BnSWpYenZ4b0diYnk1SUQ1TEpsY3ZFeGJlbWd1Y2duNUZwUXFFZ1hSMERJeE5mQUxVSGw5TFBHX1ZWQWZsV3NENUNJb2c1ZnNzX0F2ZlVBWlYzTXJKQmY1YW40dFlEdzZsQTdKRFRZQjBCWFNCaGtiZ2I1aEZLTFJuWkFpc3hoOHRyWjVJQW85d1JKZThKUWNWZGNxMC1aQQ?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "‘Bandkhor’ film launched with focus on women’s empowerment",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXJZcW94elE4cTZqM1EwSndMb3B5MlZlMndPWExpdmlvUHpjV0IwVm5MVUVuTWZENFpfTXFDYjJvaUVUM3FOTFNETHR6c2xSNkhYZ2JCLTEwUTRtNG0tMXJ0aHVPRU9oSms0YXJIbkVsUVpMSlZ2NUZrNWR5X0JPT205MHZkWUZNZjVBaTg0aG1FZUZReFB1bHNlRXRVV3dMQ002YjhCYk5IcGJDQzdMMjQzVERoS2tXNGNPdms0UVo5OFBPZ1VuVGlpdU5YY01oUzZqTkxSWTNmS2xFdngtZGdSMXRvdE50ekl4NHlpS2NTUnV4V2xXNUo4N3hDZw?oc=5\" target=\"_blank\">‘Bandkhor’ film launched with focus on women’s empowerment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLXJZcW94elE4cTZqM1EwSndMb3B5MlZlMndPWExpdmlvUHpjV0IwVm5MVUVuTWZENFpfTXFDYjJvaUVUM3FOTFNETHR6c2xSNkhYZ2JCLTEwUTRtNG0tMXJ0aHVPRU9oSms0YXJIbkVsUVpMSlZ2NUZrNWR5X0JPT205MHZkWUZNZjVBaTg0aG1FZUZReFB1bHNlRXRVV3dMQ002YjhCYk5IcGJDQzdMMjQzVERoS2tXNGNPdms0UVo5OFBPZ1VuVGlpdU5YY01oUzZqTkxSWTNmS2xFdngtZGdSMXRvdE50ekl4NHlpS2NTUnV4V2xXNUo4N3hDZw?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "47 govt primary schools shut across Goa since 2021, says chief minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeG81ZmpqdkJ1aURnZFFvTzBfVnBEMFR5dlFmYUdFTkthUVJYalVCWnlVOHZRQm5QN2F2Q0VtY0RxMFkweGZiRUI3dXRKcHlsTmlrYVpoLXJtZlhQTnh0Um5ZWU9MbGZqQ0VYMDd2TmlkanhiYkZBSTVkX2xmUUdpUzlOcmlNbzNsZndRRUtTMUJXa0FNcG8ybVFOTEEtTldUR1gzSFFOTURqWURtMllBNC14T2FGNVd6c1NwUHozbEVtQ0ZrdVMxU0M2T0VTVmFJeUlzcGliTmVrRjFoLXBhaEgtRdIB5wFBVV95cUxOTGdsR0p0SmxoajdzOGhqY0J6V2Fta3Bhb3JqaTZSSGJ0Y1UwWDNOeTAwdlh2V0huMFo3UE45d3NJbzF3TExKQlFRUDlCYThGSFFiVWkwVmlfYTE0eWFNTGRfbThqcTJELXVOSm1vcFN5ajBoRHZtbGNDcmRETVp0VVAyTUlDRlFkRVhXa1ZrNndxWGJoX3gwTjBLMUk4b183UTJ6bC13RDBGX0ljOUZUdXF3VmFLVi1tRzQ3S1pTRE1NbmdyclZpQjdTR3JVTTQ3RXItWHVVd1pJcjJTVzd2NmdGV2Q5TEU?oc=5\" target=\"_blank\">47 govt primary schools shut across Goa since 2021, says chief minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeG81ZmpqdkJ1aURnZFFvTzBfVnBEMFR5dlFmYUdFTkthUVJYalVCWnlVOHZRQm5QN2F2Q0VtY0RxMFkweGZiRUI3dXRKcHlsTmlrYVpoLXJtZlhQTnh0Um5ZWU9MbGZqQ0VYMDd2TmlkanhiYkZBSTVkX2xmUUdpUzlOcmlNbzNsZndRRUtTMUJXa0FNcG8ybVFOTEEtTldUR1gzSFFOTURqWURtMllBNC14T2FGNVd6c1NwUHozbEVtQ0ZrdVMxU0M2T0VTVmFJeUlzcGliTmVrRjFoLXBhaEgtRdIB5wFBVV95cUxOTGdsR0p0SmxoajdzOGhqY0J6V2Fta3Bhb3JqaTZSSGJ0Y1UwWDNOeTAwdlh2V0huMFo3UE45d3NJbzF3TExKQlFRUDlCYThGSFFiVWkwVmlfYTE0eWFNTGRfbThqcTJELXVOSm1vcFN5ajBoRHZtbGNDcmRETVp0VVAyTUlDRlFkRVhXa1ZrNndxWGJoX3gwTjBLMUk4b183UTJ6bC13RDBGX0ljOUZUdXF3VmFLVi1tRzQ3S1pTRE1NbmdyclZpQjdTR3JVTTQ3RXItWHVVd1pJcjJTVzd2NmdGV2Q5TEU?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Wed, 18 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa: 18 low-enrolment govt primary schools merged in last six years",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd3dXUkFmZ1BTVGxBcTJTX1g2LTlRNXZESHlyN0R1TlhWZzd3b1F1WkNzQ29yRzIwVU9KemR2eFhIMFNqV3EzVVBucUpqWXpIek9DcGJSYzE3ck9YSUtfM253WXIyNnRXQ25hT0pMNUs5WEltLUtfLUhVQ3JDSkR0aUxRSHB4QTBNbmxDemlLSmZETWVucmwzbzd0Y1VlRzZlMU9sNmxIRWo5cVkteTJOQ09NcGVWMEhQVjdVM1BZQmRoTjdudWE0X1VQVGtPdVZtNmgzNGVIdmNVQ21kckc0ZHZn0gHmAUFVX3lxTE9qRTVvNVF5WGJ5ZFB6TEJ3cnozamJlRkMxUnBReXRLX3E3R1ExSkJrdGw5aFdQWlM4cFBZbmxFSXpKRFpMQ1AyYkJUeEFKSTQtbU5ubnpTeEZnSk5kb1d4ZW10Y0picmxQOG8wczZxQnRydHVxSkNIalFGZ0NUeEh1WGZ0enRfZDFJXzFZWXQ1ajdjQ0p1RTNnaU9tQ29iVmZPdUhENUE3emhKbzBGQUl0OVM3Z2tyNWNkcHlxZmRraGtkcm16ZjQ2aVJGcUhUTWVIWHF5VjhGMk1mcm90ZDFzLWxMZXBB?oc=5\" target=\"_blank\">Goa: 18 low-enrolment govt primary schools merged in last six years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd3dXUkFmZ1BTVGxBcTJTX1g2LTlRNXZESHlyN0R1TlhWZzd3b1F1WkNzQ29yRzIwVU9KemR2eFhIMFNqV3EzVVBucUpqWXpIek9DcGJSYzE3ck9YSUtfM253WXIyNnRXQ25hT0pMNUs5WEltLUtfLUhVQ3JDSkR0aUxRSHB4QTBNbmxDemlLSmZETWVucmwzbzd0Y1VlRzZlMU9sNmxIRWo5cVkteTJOQ09NcGVWMEhQVjdVM1BZQmRoTjdudWE0X1VQVGtPdVZtNmgzNGVIdmNVQ21kckc0ZHZn0gHmAUFVX3lxTE9qRTVvNVF5WGJ5ZFB6TEJ3cnozamJlRkMxUnBReXRLX3E3R1ExSkJrdGw5aFdQWlM4cFBZbmxFSXpKRFpMQ1AyYkJUeEFKSTQtbU5ubnpTeEZnSk5kb1d4ZW10Y0picmxQOG8wczZxQnRydHVxSkNIalFGZ0NUeEh1WGZ0enRfZDFJXzFZWXQ1ajdjQ0p1RTNnaU9tQ29iVmZPdUhENUE3emhKbzBGQUl0OVM3Z2tyNWNkcHlxZmRraGtkcm16ZjQ2aVJGcUhUTWVIWHF5VjhGMk1mcm90ZDFzLWxMZXBB?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Thu, 02 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Aims to Attract Deep-Tech and Semiconductor Investments at India AI Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVc5SV9YTWNVV1ZKS2s5dzdubDRvLTRFbnkxbEpWWkllajQxMnd5d1JMTXg4YzFiYWFScnRVVWRHSlEzZGpET05jQ21pdVZLWTNSX1ZYbE9mc016TkZjbHpEWk9vVHB6ZU5sUHJqaGZFU1hSdHBNTW5TU2lidUEzVjA3Vm9MSUxYSG4xUVJCRlNQVGtTS3hrNFk2X0ZESUZ3TlNURlV2Yw?oc=5\" target=\"_blank\">Goa Aims to Attract Deep-Tech and Semiconductor Investments at India AI Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goodreturns</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVc5SV9YTWNVV1ZKS2s5dzdubDRvLTRFbnkxbEpWWkllajQxMnd5d1JMTXg4YzFiYWFScnRVVWRHSlEzZGpET05jQ21pdVZLWTNSX1ZYbE9mc016TkZjbHpEWk9vVHB6ZU5sUHJqaGZFU1hSdHBNTW5TU2lidUEzVjA3Vm9MSUxYSG4xUVJCRlNQVGtTS3hrNFk2X0ZESUZ3TlNURlV2Yw?oc=5",
+   "source_name": "Goodreturns",
+   "source_domain": "goodreturns.in",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:53+00:00"
+  }
+ ]
+}

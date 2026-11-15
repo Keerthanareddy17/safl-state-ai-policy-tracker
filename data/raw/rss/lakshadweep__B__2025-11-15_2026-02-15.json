@@ -1,0 +1,87 @@
+{
+ "region": "Lakshadweep",
+ "group": "B",
+ "query": "(Lakshadweep) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Lakshadweep%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:43:42+00:00",
+ "item_count": 7,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "‘Dedicated jetty for Lakshadweep is fine, but let it not affect the residents’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHdIWDBxSzdYSnVKMFR0ZnBPNG1IRTlabUw1MG00UUVzd014aG1RNmM3bk9KZ1RFMDNHOTlfY2doVmJ5M2tOelJnczhPZXgzVHlnMFVPbTFaOXhZM1VuUF9yOW5TSmdrcTlveS1RQlZOd0pGemk0bS04ZTB1aGNmUUV5TVMwUUlacDNvT2szeHhpWDI5dmliSzFGa0ZqbjBfMjVRbXdNUTFMNTZtNlZza185eERGOGNxWEFaR3BaRnUxZGs5X01kVHNKYzlBQzFaLWhWTko3eVlJZ9IB4AFBVV95cUxNQ1BjbzhhR3F5eGpoQnVoMjRHd0VBTTZtZjhERWNkQXVCbnAyQXdwVFE2b25IMVBGclJWcnR5RHhwbldlM1V5TGtaRlJhZ3ptajdlbnAyMUdqbEhOcEM3ZThNeXQ4d1EzZTFnWGlGY0dseEVDbjY5eEVXdVoxS01ZSHdZeWF5THBnM2hqNjhwSE43eE9lcF9RWnEtMG9ISl9TdjgxM1FKZW9xOFpfV1A4MzdaM052R1JyV2hXdy16bHVZbm1RWTYwMDJfTndHRTJtWEF5VG5QREtvREExc0xFOA?oc=5\" target=\"_blank\">‘Dedicated jetty for Lakshadweep is fine, but let it not affect the residents’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHdIWDBxSzdYSnVKMFR0ZnBPNG1IRTlabUw1MG00UUVzd014aG1RNmM3bk9KZ1RFMDNHOTlfY2doVmJ5M2tOelJnczhPZXgzVHlnMFVPbTFaOXhZM1VuUF9yOW5TSmdrcTlveS1RQlZOd0pGemk0bS04ZTB1aGNmUUV5TVMwUUlacDNvT2szeHhpWDI5dmliSzFGa0ZqbjBfMjVRbXdNUTFMNTZtNlZza185eERGOGNxWEFaR3BaRnUxZGs5X01kVHNKYzlBQzFaLWhWTko3eVlJZ9IB4AFBVV95cUxNQ1BjbzhhR3F5eGpoQnVoMjRHd0VBTTZtZjhERWNkQXVCbnAyQXdwVFE2b25IMVBGclJWcnR5RHhwbldlM1V5TGtaRlJhZ3ptajdlbnAyMUdqbEhOcEM3ZThNeXQ4d1EzZTFnWGlGY0dseEVDbjY5eEVXdVoxS01ZSHdZeWF5THBnM2hqNjhwSE43eE9lcF9RWnEtMG9ISl9TdjgxM1FKZW9xOFpfV1A4MzdaM052R1JyV2hXdy16bHVZbm1RWTYwMDJfTndHRTJtWEF5VG5QREtvREExc0xFOA?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 10 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "K’taka down spirited Lakshadweep",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0dGSDhCclJVc2sxSHVTNndWMmZ0UFZtb0h2VU9sUUpkb0tNVkJ4VDJ1cHp4QUZXS293N2VzQWJjMDUtRUFJS1M3eHpFd3BiVmViZ1haUVN1d2kyUy1NTVJjRXQtQkVIQkZuMHVORExkdG9yMW4yeEhSd3Z6ektySG5tT3gzX19Ja2ViSmg1X1h4MDdRM3BUTllWZkY0dTBqejF2c21VUHVCVkNy0gGyAUFVX3lxTE9VSUdSbkZuaVdtT0ZMVDNzYWpNaVdMejVhb3FJdHFWNmdjZEFqek55bU9tM1JEckowMHVJYmNNNWFXS3AxcnZERHFCb0FscGptSVNRSVhydDlrUkRnV0RhczNoVmcxb3djaFluNjNFY0U1Y2d5YzVyRXlSQUdud19wclhRUXBkVXpCWnFIei1QM2o3UnVTc1VZb196QnVsNEVVZm15b3NXa0xWMmVIbU1LdUE?oc=5\" target=\"_blank\">K’taka down spirited Lakshadweep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0dGSDhCclJVc2sxSHVTNndWMmZ0UFZtb0h2VU9sUUpkb0tNVkJ4VDJ1cHp4QUZXS293N2VzQWJjMDUtRUFJS1M3eHpFd3BiVmViZ1haUVN1d2kyUy1NTVJjRXQtQkVIQkZuMHVORExkdG9yMW4yeEhSd3Z6ektySG5tT3gzX19Ja2ViSmg1X1h4MDdRM3BUTllWZkY0dTBqejF2c21VUHVCVkNy0gGyAUFVX3lxTE9VSUdSbkZuaVdtT0ZMVDNzYWpNaVdMejVhb3FJdHFWNmdjZEFqek55bU9tM1JEckowMHVJYmNNNWFXS3AxcnZERHFCb0FscGptSVNRSVhydDlrUkRnV0RhczNoVmcxb3djaFluNjNFY0U1Y2d5YzVyRXlSQUdud19wclhRUXBkVXpCWnFIei1QM2o3UnVTc1VZb196QnVsNEVVZm15b3NXa0xWMmVIbU1LdUE?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Sun, 21 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Govt committed to providing quality healthcare to all, especially in remote territories, says Defence Minister Rajnath Singh",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHdZdXR4LWlPcjNqQmVCa3VBVDhKZDJGWFVfSURlWDJCNGtSZ0ZxanJJWGpJdlZ3SE9iaHhrbk9CLS1DTDFoQThCZ216VUcwQWw1RnlGNVY1blA4alNUV2QxYWtiUWFwdDY3V3JYMC1Hcy1SYnhnUTJ5Q2RHdWxrV2RRWW5uOC1QRnZ0Wk1EUVh6VkNmWUpXdlFyWU9hWE1fMktnRDg5bXlORHZTSTRlbjViTlTSAbsBQVVfeXFMTUpfQmZPaWYyRTZsZDBueG9VTURSekJuVnZTV2ZqN3oteE82VUFHc0NjM0N5eHhNcTdsTzZtdjJ5ZWJ5V0lmbTRxZml5c1FtdkJZallCMUhZQmFMS3FHWmNISnExY3k4NkR5VTg2RGh0RkswcmwwMVhqQ1VPR2IyNFJXSDdPa0l6QzJfclIxRUxqMWlENWdOX1k4S2IwZWFQOGF5anc5RU5DNnNMQUt4UFh1eHppTVRWZU5QSQ?oc=5\" target=\"_blank\">Govt committed to providing quality healthcare to all, especially in remote territories, says Defence Minister Rajnath Singh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHdZdXR4LWlPcjNqQmVCa3VBVDhKZDJGWFVfSURlWDJCNGtSZ0ZxanJJWGpJdlZ3SE9iaHhrbk9CLS1DTDFoQThCZ216VUcwQWw1RnlGNVY1blA4alNUV2QxYWtiUWFwdDY3V3JYMC1Hcy1SYnhnUTJ5Q2RHdWxrV2RRWW5uOC1QRnZ0Wk1EUVh6VkNmWUpXdlFyWU9hWE1fMktnRDg5bXlORHZTSTRlbjViTlTSAbsBQVVfeXFMTUpfQmZPaWYyRTZsZDBueG9VTURSekJuVnZTV2ZqN3oteE82VUFHc0NjM0N5eHhNcTdsTzZtdjJ5ZWJ5V0lmbTRxZml5c1FtdkJZallCMUhZQmFMS3FHWmNISnExY3k4NkR5VTg2RGh0RkswcmwwMVhqQ1VPR2IyNFJXSDdPa0l6QzJfclIxRUxqMWlENWdOX1k4S2IwZWFQOGF5anc5RU5DNnNMQUt4UFh1eHppTVRWZU5QSQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 14 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "How Expensive Is Lakshadweep Really? Flights, Hotels and Food Explained",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRy1LRHc1TlZWcURpc1RqOWdJNlFrazNkZjloU2Z0S1JyRnNraXJLbDhCQVdrRGJFMnZlWWhkdTJEUjJJQzk5aHpFY3lZTmpXNVZGQlY4OFB0M1RTNVhnZHpqNU5LYUVjcFJjVHFvNWNhdzB2SU9QdF94TEhjVHZ6cUlIeVNZQUdPNURtUFQ4a0NXTC1WcXR0eDJRdVJnaUN6WTJuYldJZTNuZTTSAbMBQVVfeXFMTWp6VDlZdkpHQ1BzYXFKaFZ6QlRUSVJjLWZuNXd6TzJNU0F3Xzc2TFV3LTItY2JvT2toQW5KbW1SbzhDZ3dyVi05R2EwOUxWTGhCZ0JCaU91X0pRaFozZkhPbGY1NE05ZzZMcEFwem1JdG5TdEU2UnFnZmVKNF9pbXR4YnBhT3dOSG9YbGlpaWo4bEFQNzItTVdNb01qTXQxU1JBWWg2UE50dlZ2aGM1S05OTG8?oc=5\" target=\"_blank\">How Expensive Is Lakshadweep Really? Flights, Hotels and Food Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRy1LRHc1TlZWcURpc1RqOWdJNlFrazNkZjloU2Z0S1JyRnNraXJLbDhCQVdrRGJFMnZlWWhkdTJEUjJJQzk5aHpFY3lZTmpXNVZGQlY4OFB0M1RTNVhnZHpqNU5LYUVjcFJjVHFvNWNhdzB2SU9QdF94TEhjVHZ6cUlIeVNZQUdPNURtUFQ4a0NXTC1WcXR0eDJRdVJnaUN6WTJuYldJZTNuZTTSAbMBQVVfeXFMTWp6VDlZdkpHQ1BzYXFKaFZ6QlRUSVJjLWZuNXd6TzJNU0F3Xzc2TFV3LTItY2JvT2toQW5KbW1SbzhDZ3dyVi05R2EwOUxWTGhCZ0JCaU91X0pRaFozZkhPbGY1NE05ZzZMcEFwem1JdG5TdEU2UnFnZmVKNF9pbXR4YnBhT3dOSG9YbGlpaWo4bEFQNzItTVdNb01qTXQxU1JBWWg2UE50dlZ2aGM1S05OTG8?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Mon, 15 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Lakshadweep To Undergo Major Port Overhaul Across Key Islands",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXN6QlN1T21Sa0NMS3JVeXFuUVBjdnMwOVZ0M09lcU45SkVWZzZzMWRTbGRwYU9NcE84V2RpQmp0U2NsUHpJaHZqc2JtSzFHR1VTNHdLUnhudHJnMlpkbFRLZXhVRGxKaHNRQmVIVjhaa2hhMFg1YldxaFkwa0hhZjJyNzNLZUFyMVRnWEt1NXNMY05DNzhDUGh3ZUjSAawBQVVfeXFMT0R0UVlnaUgwMV94S054eXBwZmtzSnVZSFh4Y01fMGVZcWxEZjhtRHRFa1hYS0ZHWUZud0VpaEJJQlBjQ04zOWt0SjkybFlUUTM4a1I5czRwSVBuRDRibERTcE5OQy1yVkduZzRrSllVYko4OG1QUzFaMXVtUVlRdUlZWmZtbi1vTkhiRnRWOVNGMXVhc0JvVjdvM1U0Z0tFb3ZKcnZ5bVVNYUpiYQ?oc=5\" target=\"_blank\">Lakshadweep To Undergo Major Port Overhaul Across Key Islands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXN6QlN1T21Sa0NMS3JVeXFuUVBjdnMwOVZ0M09lcU45SkVWZzZzMWRTbGRwYU9NcE84V2RpQmp0U2NsUHpJaHZqc2JtSzFHR1VTNHdLUnhudHJnMlpkbFRLZXhVRGxKaHNRQmVIVjhaa2hhMFg1YldxaFkwa0hhZjJyNzNLZUFyMVRnWEt1NXNMY05DNzhDUGh3ZUjSAawBQVVfeXFMT0R0UVlnaUgwMV94S054eXBwZmtzSnVZSFh4Y01fMGVZcWxEZjhtRHRFa1hYS0ZHWUZud0VpaEJJQlBjQ04zOWt0SjkybFlUUTM4a1I5czRwSVBuRDRibERTcE5OQy1yVkduZzRrSllVYko4OG1QUzFaMXVtUVlRdUlZWmZtbi1vTkhiRnRWOVNGMXVhc0JvVjdvM1U0Z0tFb3ZKcnZ5bVVNYUpiYQ?oc=5",
+   "source_name": "Swarajya",
+   "source_domain": "swarajyamag.com",
+   "published_raw": "Wed, 10 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Final voter lists delayed in 9 states, UTs; Puducherry, Lakshadweep publish",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkpqSnlVekZVemJSRWJONU41Qks5a1RzdHBPU0tEX2xpSnBhbGxzQXJJWEVRNjEyazQ2WURoeTVXMkoyeDdGMmZoWERsVEZhMGVtSDRqcjd3NUwyODl3RU8tUGVuZEpibWFLZWZNLXBpSThzaW0tZ0J6VVR1TFVNWTlLQjRCNXZzNEpYU2MtZ1lzdndIVVZYdndOelBEdDA0WUJJVm5xRU93S0ZTWXJuNFdqU0trLVdYUkE0eTZrcU1wYWRyTjNiTjVZUnRnb04xd0NkYWpQRWVNZ9IB3wFBVV95cUxQT1pya2dLcTJwYk5qbHdMU3JVM3EzbUtaUWdYa3BodlRPeWtvb3ZPcEQzdGU2Ml9PZ3c3d29NX19HWlJMM2lPSG9LWDJLbXA5OU01bk5nOVV3bjRMRG8tSFFEOFh6eTlyS2dMWS04a0RwX3l1WEM4ZXVLdWVZWnM2emFZdURUcV8wczh4b3ByaGVWY3k1ZHk5NWZDdjl2anpwMEx6U2NBT0EzUHk4N1Q5WmJNbW9YSmxOTlRxWUhFWDdMV2pSRVQ2NndwanhTRks5TkRtY004VGZfODlNZkIw?oc=5\" target=\"_blank\">Final voter lists delayed in 9 states, UTs; Puducherry, Lakshadweep publish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkpqSnlVekZVemJSRWJONU41Qks5a1RzdHBPU0tEX2xpSnBhbGxzQXJJWEVRNjEyazQ2WURoeTVXMkoyeDdGMmZoWERsVEZhMGVtSDRqcjd3NUwyODl3RU8tUGVuZEpibWFLZWZNLXBpSThzaW0tZ0J6VVR1TFVNWTlLQjRCNXZzNEpYU2MtZ1lzdndIVVZYdndOelBEdDA0WUJJVm5xRU93S0ZTWXJuNFdqU0trLVdYUkE0eTZrcU1wYWRyTjNiTjVZUnRnb04xd0NkYWpQRWVNZ9IB3wFBVV95cUxQT1pya2dLcTJwYk5qbHdMU3JVM3EzbUtaUWdYa3BodlRPeWtvb3ZPcEQzdGU2Ml9PZ3c3d29NX19HWlJMM2lPSG9LWDJLbXA5OU01bk5nOVV3bjRMRG8tSFFEOFh6eTlyS2dMWS04a0RwX3l1WEM4ZXVLdWVZWnM2emFZdURUcV8wczh4b3ByaGVWY3k1ZHk5NWZDdjl2anpwMEx6U2NBT0EzUHk4N1Q5WmJNbW9YSmxOTlRxWUhFWDdMV2pSRVQ2NndwanhTRks5TkRtY004VGZfODlNZkIw?oc=5",
+   "source_name": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Lakshadweep",
+   "title": "Lakshadweep hosts first-ever investors' meet to unlock fisheries, aquaculture potential",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0l2eFp0VWN1RU9RdHl5U0E2aGs4dWxmMzNnQVZmRGNNSXk5M0Mtb21jYlBOUXBOUDJIRUVqd1VpTGs4VkxfWlJ4VDVkamI3TzhjU3pLcHUzVlphYXFqQWFCT0duVE1tNnlLMWhJS0pJazlCM3pRaHFJSU9ka1QwT1ltNmRTd3NxVUhRY2hCc3FQYzhkbmU5ZkR0bW5OZjMzaEdTMEt1VFBDNTBBTXo2NmUwQlhjUS1LcDJWaVdqT1RqajhfUnJZenJ2NC1WSThWaURqNUVBQ3F2ZU1FbXFMTTJ6WUzSAeoBQVVfeXFMUFlBUEdINW5zZlN3TzAxVXpJUzlSZXRlME9SMF9vTHdKQUI2dmUxU0VMS2FGSjgtTmEwb0ZVZG5YVTR3VGloRjBKZXFjdGVoYlBWOU9fYVJScW1lb1BWdWRJZ2pBQXB5Y19zNHVlblNYSFpLMUJOZFNYS2c0YzdjQ0ZpaHNjTm1VNGlLQVI2dDJlaV9wNkd0YkRzdWRRWllkQk56Y0xicDNyTldjTk1Vd2NEX012VjFJcXdtWUxFZjZ2bEJibEdjX09PTl9MT0hWMDJ2TWNhYy05TGVPVWtHZGcxSFpNTm5XcG5n?oc=5\" target=\"_blank\">Lakshadweep hosts first-ever investors' meet to unlock fisheries, aquaculture potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM0l2eFp0VWN1RU9RdHl5U0E2aGs4dWxmMzNnQVZmRGNNSXk5M0Mtb21jYlBOUXBOUDJIRUVqd1VpTGs4VkxfWlJ4VDVkamI3TzhjU3pLcHUzVlphYXFqQWFCT0duVE1tNnlLMWhJS0pJazlCM3pRaHFJSU9ka1QwT1ltNmRTd3NxVUhRY2hCc3FQYzhkbmU5ZkR0bW5OZjMzaEdTMEt1VFBDNTBBTXo2NmUwQlhjUS1LcDJWaVdqT1RqajhfUnJZenJ2NC1WSThWaURqNUVBQ3F2ZU1FbXFMTTJ6WUzSAeoBQVVfeXFMUFlBUEdINW5zZlN3TzAxVXpJUzlSZXRlME9SMF9vTHdKQUI2dmUxU0VMS2FGSjgtTmEwb0ZVZG5YVTR3VGloRjBKZXFjdGVoYlBWOU9fYVJScW1lb1BWdWRJZ2pBQXB5Y19zNHVlblNYSFpLMUJOZFNYS2c0YzdjQ0ZpaHNjTm1VNGlLQVI2dDJlaV9wNkd0YkRzdWRRWllkQk56Y0xicDNyTldjTk1Vd2NEX012VjFJcXdtWUxFZjZ2bEJibEdjX09PTl9MT0hWMDJ2TWNhYy05TGVPVWtHZGcxSFpNTm5XcG5n?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sun, 14 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:43:42+00:00"
+  }
+ ]
+}

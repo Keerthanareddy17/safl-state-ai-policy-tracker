@@ -1,0 +1,197 @@
+{
+ "region": "Uttar Pradesh",
+ "group": "B",
+ "query": "(\"Uttar Pradesh\" OR Lucknow OR Noida) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Uttar+Pradesh%22+OR+Lucknow+OR+Noida%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:46:46+00:00",
+ "item_count": 17,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "IBM launches AI GovTech innovation centre in Lucknow for public sector modernisation",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmtJLVlYNWVaV2JHRVRwUDJHYVRvdlc0dWFWZ1o3dGlnUzJENUZBMjhsaWtHbUkyS01peEdWQXpkcFg3OFVwWlFLQ2lyU0xiTWMxcHNUc0dlMEpsMjBNUjVqMHFUM3ZWbjQxY2prdHp3LXJkRmRlSUtPdVh5WTFQbDcybmI3V25kVGhCNG5XdVZUV19iQXQyTHhSLUtQb0dfekRmRlpZaGt2WkhmYU9mSjAybWtHZ2s?oc=5\" target=\"_blank\">IBM launches AI GovTech innovation centre in Lucknow for public sector modernisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CRN Asia</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmtJLVlYNWVaV2JHRVRwUDJHYVRvdlc0dWFWZ1o3dGlnUzJENUZBMjhsaWtHbUkyS01peEdWQXpkcFg3OFVwWlFLQ2lyU0xiTWMxcHNUc0dlMEpsMjBNUjVqMHFUM3ZWbjQxY2prdHp3LXJkRmRlSUtPdVh5WTFQbDcybmI3V25kVGhCNG5XdVZUV19iQXQyTHhSLUtQb0dfekRmRlpZaGt2WkhmYU9mSjAybWtHZ2s?oc=5",
+   "source_name": "CRN Asia",
+   "source_domain": "crnasia.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "Uttar Pradesh expands partnership with Wadhwani AI to deploy AI tools in public health programmes",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXhTYlJsREM2dy0yM21pTDZOQlVZaWd6cmNXZWZwRzZCOFJySGg5anZzVUxSckFOb3A2RER4Um42WGE2QmtkRjdyMTRHNFRmUmx3MVFpS21TUHhnWWFlclFMUlJHaUhGU3VKVGdmSW9rT21GeC03X09Od0ZJVTk0MmEtMHgxeU1GbW1xLTBxcWV0RHBHdTVVb0Q1aThlTXUyWG1Td2ZHWkwwUW5id2ducDU0Z2FPa3p3cnZhRHpUQ0VoaV9fdDI1ZDJvbjZGZHgxT0RVV3I2Q1VudVE?oc=5\" target=\"_blank\">Uttar Pradesh expands partnership with Wadhwani AI to deploy AI tools in public health programmes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Express Healthcare</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXhTYlJsREM2dy0yM21pTDZOQlVZaWd6cmNXZWZwRzZCOFJySGg5anZzVUxSckFOb3A2RER4Um42WGE2QmtkRjdyMTRHNFRmUmx3MVFpS21TUHhnWWFlclFMUlJHaUhGU3VKVGdmSW9rT21GeC03X09Od0ZJVTk0MmEtMHgxeU1GbW1xLTBxcWV0RHBHdTVVb0Q1aThlTXUyWG1Td2ZHWkwwUW5id2ducDU0Z2FPa3p3cnZhRHpUQ0VoaV9fdDI1ZDJvbjZGZHgxT0RVV3I2Q1VudVE?oc=5",
+   "source_name": "Express Healthcare",
+   "source_domain": "expresshealthcare.in",
+   "published_raw": "Tue, 17 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "UP plans to use AI to transform healthcare, says deputy chief minister Brajesh Pathak",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlpWWkw4LUdDOU9LU25OWGROVlFTaW4wZGZMUW1GdzVXc0QyeG9ERUpnWW9Fc2c3S1dfODlfV21ubXJqVG1iZTJhNU9KWFpaQjQ1cUUxWXY1TFFNb0tWSnQ2bXZLeDhtTGJBdFlzMW9RNXJabEpRZ2dkLVZJVDBabjN0TXlLck9SclBPS1VlYTNKQ2xzU2xWV0tMVmd6OC1OOFlFb3BlRUtCdWNRN3BLTUdXaW1YS0hKaWRWcUVCbmNsU0kxdXptWlA2ZUVseGp5N3ZzUjVB0gHbAUFVX3lxTE1iQVRyeXpyMWdBMGpwYkFWYm1tTGd1ejMtMld3ejcwcGVndXdtekdfZ2xHYVNoNU90S0dyOUN0VmhBU3BqbEJJUlBPSGdudUdsZS1rSHE3d0o4V1BDdkVzTDV3V2o2Nld0T3JDeGlTc3lhRDVHWDdHRjRpOVdHMks0TXdVaE9IZW90YkxTcEpnT3kxUGZrcnlOcjlZQ2Z4WnF1dE5ZYlJhTXpyZ2RDVTZxRzhGSnotUl9KZ0Y2bXhaeENkeDY4ZVhBVW5ZSno1aFhFVk95UWRTVWpXbw?oc=5\" target=\"_blank\">UP plans to use AI to transform healthcare, says deputy chief minister Brajesh Pathak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdlpWWkw4LUdDOU9LU25OWGROVlFTaW4wZGZMUW1GdzVXc0QyeG9ERUpnWW9Fc2c3S1dfODlfV21ubXJqVG1iZTJhNU9KWFpaQjQ1cUUxWXY1TFFNb0tWSnQ2bXZLeDhtTGJBdFlzMW9RNXJabEpRZ2dkLVZJVDBabjN0TXlLck9SclBPS1VlYTNKQ2xzU2xWV0tMVmd6OC1OOFlFb3BlRUtCdWNRN3BLTUdXaW1YS0hKaWRWcUVCbmNsU0kxdXptWlA2ZUVseGp5N3ZzUjVB0gHbAUFVX3lxTE1iQVRyeXpyMWdBMGpwYkFWYm1tTGd1ejMtMld3ejcwcGVndXdtekdfZ2xHYVNoNU90S0dyOUN0VmhBU3BqbEJJUlBPSGdudUdsZS1rSHE3d0o4V1BDdkVzTDV3V2o2Nld0T3JDeGlTc3lhRDVHWDdHRjRpOVdHMks0TXdVaE9IZW90YkxTcEpnT3kxUGZrcnlOcjlZQ2Z4WnF1dE5ZYlJhTXpyZ2RDVTZxRzhGSnotUl9KZ0Y2bXhaeENkeDY4ZVhBVW5ZSno1aFhFVk95UWRTVWpXbw?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Thu, 19 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "Uttar Pradesh Government Cancels Rs 25,000 Crore MoU With Puch AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXZfdEI3Z2hKQWNHWXpTSlQ0RlZKV1UzRnVwaGZ4X3RacW9WVlpkaDJreV93dEZCTXYyWXpPSVQ0ZHlfZXBqOXBDTkJ0MndCazk4U3lvRWJpYnd0YU9MSE0tWUtCUzE3VXFEX0VCajZFcTM3RzFzcjJqOUxoRng1aWJCYklTUDNlcjRZMHg2ZGhoSDlVQW5nbzM0czJKUVhyRnVIYl9uMNIBrAFBVV95cUxQRVdTOGVGMHdwRGtyYWpKTnZGaDZOWE5kNEdHa2FZN3pfRmEzTGd0bExBX2JVV3ZwaXZocEo3aTBpcEJicDRtZUdmVTBFVW1zV2Y2QTJqSG5sNGphVlZrSE1RMU01MDBwaG5kMm5JTmpkd0dFT044SUcxdjd4bVlsYkxVVFRkSlUwVkRPU1JsS1lja25OVmdmTldqWHFzSnZxMHBHU1IyVXNjWXFU?oc=5\" target=\"_blank\">Uttar Pradesh Government Cancels Rs 25,000 Crore MoU With Puch AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheWire.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXZfdEI3Z2hKQWNHWXpTSlQ0RlZKV1UzRnVwaGZ4X3RacW9WVlpkaDJreV93dEZCTXYyWXpPSVQ0ZHlfZXBqOXBDTkJ0MndCazk4U3lvRWJpYnd0YU9MSE0tWUtCUzE3VXFEX0VCajZFcTM3RzFzcjJqOUxoRng1aWJCYklTUDNlcjRZMHg2ZGhoSDlVQW5nbzM0czJKUVhyRnVIYl9uMNIBrAFBVV95cUxQRVdTOGVGMHdwRGtyYWpKTnZGaDZOWE5kNEdHa2FZN3pfRmEzTGd0bExBX2JVV3ZwaXZocEo3aTBpcEJicDRtZUdmVTBFVW1zV2Y2QTJqSG5sNGphVlZrSE1RMU01MDBwaG5kMm5JTmpkd0dFT044SUcxdjd4bVlsYkxVVFRkSlUwVkRPU1JsS1lja25OVmdmTldqWHFzSnZxMHBHU1IyVXNjWXFU?oc=5",
+   "source_name": "TheWire.in",
+   "source_domain": "m.thewire.in",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "UP govt scraps Rs 25,000-crore MoU with Puch AI: ‘Firm lacks net worth, financial linkages’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNX000MFVEa1NLMFpPNTJtbW4xTmtWT3NKNDVkb2wwOEk0MEI2R1BHWkwzRHZvSUVIejVINnloQzlDbXU3TzJ4eU1RRTZNdFlobm4tWWdNOWJaWERBLWs0S0tibHR2M1hfbkVNZmswVkJxaVdudk5Wa05tS1NGS1pOLTBEYV9ZUkI1M3RBbEM5VHR2UHZ4RmR1WlNBYkx1RGZRNnYtejdJcmVLLVZPeHJHNGlKT3JMUG1WSkxMbDRXUlNvRXBiUjBFa0x30gHQAUFVX3lxTE9kV25kU0hESFB5U0lxUTd4QjRKZmQtaWRCdnZBdUF4bXViTzNxYVROZktmbWswVnJnXzc3WnFwTWhGODZMUC1rWF9iMmFMVU93a1RmMkZ6MFl2c1Q0QkRKWUJ4VFBnYVc1bGVxWWdPM2pPTVBLLVp3V2hHT3ZiRXhQbjlQVkVPWXFJc3FvU2lvcUhMV1NwdWF5SEtkWmx4a3NNaFVtSG9zeHhjMlhRT292cnZwdGx2VGEybERjUkI1aktYRVhRb1NCbFVhb1NQaFc?oc=5\" target=\"_blank\">UP govt scraps Rs 25,000-crore MoU with Puch AI: ‘Firm lacks net worth, financial linkages’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX000MFVEa1NLMFpPNTJtbW4xTmtWT3NKNDVkb2wwOEk0MEI2R1BHWkwzRHZvSUVIejVINnloQzlDbXU3TzJ4eU1RRTZNdFlobm4tWWdNOWJaWERBLWs0S0tibHR2M1hfbkVNZmswVkJxaVdudk5Wa05tS1NGS1pOLTBEYV9ZUkI1M3RBbEM5VHR2UHZ4RmR1WlNBYkx1RGZRNnYtejdJcmVLLVZPeHJHNGlKT3JMUG1WSkxMbDRXUlNvRXBiUjBFa0x30gHQAUFVX3lxTE9kV25kU0hESFB5U0lxUTd4QjRKZmQtaWRCdnZBdUF4bXViTzNxYVROZktmbWswVnJnXzc3WnFwTWhGODZMUC1rWF9iMmFMVU93a1RmMkZ6MFl2c1Q0QkRKWUJ4VFBnYVc1bGVxWWdPM2pPTVBLLVp3V2hHT3ZiRXhQbjlQVkVPWXFJc3FvU2lvcUhMV1NwdWF5SEtkWmx4a3NNaFVtSG9zeHhjMlhRT292cnZwdGx2VGEybERjUkI1aktYRVhRb1NCbFVhb1NQaFc?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "IBM Launches AI GovTech Innovation Center to Accelerate the Future of Digital Governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA3UXRORmcxdWpYdkY1VTJpVzB3S3F0dkF3ZmtSTEZhaHpTSjVwaVdrd3lxenRLOGw3S2xlQ2VEY2NlZVpaS0JJOXRiNWJrZHp5a2d0dk9rVnlCNWsyZmRlLV81N1A2cGV4OU9QeFJJN1MySVQ5ZnRIbA?oc=5\" target=\"_blank\">IBM Launches AI GovTech Innovation Center to Accelerate the Future of Digital Governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3UXRORmcxdWpYdkY1VTJpVzB3S3F0dkF3ZmtSTEZhaHpTSjVwaVdrd3lxenRLOGw3S2xlQ2VEY2NlZVpaS0JJOXRiNWJrZHp5a2d0dk9rVnlCNWsyZmRlLV81N1A2cGV4OU9QeFJJN1MySVQ5ZnRIbA?oc=5",
+   "source_name": "IBM",
+   "source_domain": "in.newsroom.ibm.com",
+   "published_raw": "Sun, 22 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "Uttar Pradesh's first AI city? Yogi govt's big bet on Lucknow",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWNubDVmaVNEVlhwTTI2LXByTk9WY0hpQXlGZDdLYW5qUk5XOXdramJuNFhkOTgyejAwUUVHcHlkeWs2aV9CNDF1TmFucjQ0XzRuVWhWazR1dzVXX0ZHU1VDWllSaE5tNF9wOHlRRGdLWm4zMDl5bWlKU3EtdlZ1TFVTMG9oRi16LVg0SlNNQjhVbG9nTFFhQi1NT2hJOEluSWdWZ3JseDV4dUhBYlJfNjFkeG7SAboBQVVfeXFMUEFSdmpfZXlZWUZXS1ZOQWNuaHlTaE1MNWFkZzVGOUdMRnFTUlJUblB6Ym5SQjd1aUZOWnRDUUhzR2x3N1MzZmZfaE5jZDA0ei1Cd3E3RlJfdEpnaElZWmMyOUpHeGZqdk5tSDRnb0JBWWItR0ZVZTRmTjE0WHhIbENSR2lJS3BOd0pHbzVDWTVKekU2ZURKemJSb2Rkbko4N29vNFZCUkxucmlDTUxqNS10dUhQQVR4eXZ3?oc=5\" target=\"_blank\">Uttar Pradesh's first AI city? Yogi govt's big bet on Lucknow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWNubDVmaVNEVlhwTTI2LXByTk9WY0hpQXlGZDdLYW5qUk5XOXdramJuNFhkOTgyejAwUUVHcHlkeWs2aV9CNDF1TmFucjQ0XzRuVWhWazR1dzVXX0ZHU1VDWllSaE5tNF9wOHlRRGdLWm4zMDl5bWlKU3EtdlZ1TFVTMG9oRi16LVg0SlNNQjhVbG9nTFFhQi1NT2hJOEluSWdWZ3JseDV4dUhBYlJfNjFkeG7SAboBQVVfeXFMUEFSdmpfZXlZWUZXS1ZOQWNuaHlTaE1MNWFkZzVGOUdMRnFTUlJUblB6Ym5SQjd1aUZOWnRDUUhzR2x3N1MzZmZfaE5jZDA0ei1Cd3E3RlJfdEpnaElZWmMyOUpHeGZqdk5tSDRnb0JBWWItR0ZVZTRmTjE0WHhIbENSR2lJS3BOd0pHbzVDWTVKekU2ZURKemJSb2Rkbko4N29vNFZCUkxucmlDTUxqNS10dUhQQVR4eXZ3?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Fri, 20 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "Uttar Pradesh Government Cancels Rs 25,000 Crore MoU With Puch AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREoyQkM3bmtKUGRqYlNBNzhMbG0tbFozR2ZKbWQzVldvTjNpNWltUk5vRi1VY21RWVJNa1pJMXhEVDNvODJWV18xVlJpeEpWNHdIZ3ljVVA4ZDRIRVREU2Nkbi1ES2JpRUlRRUNDZHkxYVJaTWxZX2FLeWhUYU93SFNRV3RjdzVJYmJVeUJDTzIza3dHQmdzbGp6NmVIVFJDalVoNHduQ0wwd9IBsgFBVV95cUxQV2VKYzlQNWFmOTlib0pzOG1oSmtwVTNraTJ3UHcwV0hVNGtteGxHaUphMG1YTFBVNC1FUXcwaTVhNmhCMGFON01KRVlJQUxkYnFsMVdGNUNnUmtLcFNJWWRKY1ZkbUNwSXJwQ0RWTm9TRGJ4bnZBOHN0bUhXZXJZRlZFVHVFdjlvaVBFWmloY085b3dtU3ZxWFA4bEsyZVI3Z1gxck9yTVA2bFN2T3JvR0Zn?oc=5\" target=\"_blank\">Uttar Pradesh Government Cancels Rs 25,000 Crore MoU With Puch AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREoyQkM3bmtKUGRqYlNBNzhMbG0tbFozR2ZKbWQzVldvTjNpNWltUk5vRi1VY21RWVJNa1pJMXhEVDNvODJWV18xVlJpeEpWNHdIZ3ljVVA4ZDRIRVREU2Nkbi1ES2JpRUlRRUNDZHkxYVJaTWxZX2FLeWhUYU93SFNRV3RjdzVJYmJVeUJDTzIza3dHQmdzbGp6NmVIVFJDalVoNHduQ0wwd9IBsgFBVV95cUxQV2VKYzlQNWFmOTlib0pzOG1oSmtwVTNraTJ3UHcwV0hVNGtteGxHaUphMG1YTFBVNC1FUXcwaTVhNmhCMGFON01KRVlJQUxkYnFsMVdGNUNnUmtLcFNJWWRKY1ZkbUNwSXJwQ0RWTm9TRGJ4bnZBOHN0bUhXZXJZRlZFVHVFdjlvaVBFWmloY085b3dtU3ZxWFA4bEsyZVI3Z1gxck9yTVA2bFN2T3JvR0Zn?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "UP govt pulls plug on ₹25,000 crore Puch AI pact after due diligence review",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVjBOdzdUMk1xMkFGdVk5OE1MV2pFUDZON3NZalJQTm1hS3l5YkEtaHBxXzlHTlUwU0xkVzliX016MUFxNU9Va29fUVBnajN1azJYSXNfTUZ2THQ2ZDk0d20tZzV3TEthaDhKeFRqcXVac2V3ZmVVdzR4NE5DVS1kb3ZXeElzeTJGRnRXbGI5ei0wSGxzQlNWa1VYc3dQdVhVSFBPZ1RUYXNSMzhqRUNnd2tWWXhjWmZIeEU3bmdtVGRzX3ZDc1VrRV9oUjczdnk3bUc5cDI1cFE1QkpoN1duV1RTZEI3VldMWDBTWWcxLXRtd9IB9wFBVV95cUxON3FnOUJEWF82UUJmOWliSnBYOXkzWlVhSU0tdXJHMU9tNzVQNWkzdW9hUlhPbUFoNGpBeHBQektWWDZVdzliZmkwVWJGczY4SjlUV2MzWlEtb0pzTWpDMDlYVHNDMm9kNlk2N3FuRjJKTlNDX3JtVVNQTmpHSFJEWDk5RTJ2MmJrRi1SMi1yUFVxNTJRbjB3el8xWmIyc3NxcW9NdW1xMzRPMDdGdFhSX1VCbHk2dWZQT3ZoTV9iZW5rckJuTjZuZ1J5N0lTX3ZGTGNlcktOUkpVUGZmckJSbWJPRlowZWZrRnVLeGlUa2J5MEdDd1F3?oc=5\" target=\"_blank\">UP govt pulls plug on ₹25,000 crore Puch AI pact after due diligence review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVjBOdzdUMk1xMkFGdVk5OE1MV2pFUDZON3NZalJQTm1hS3l5YkEtaHBxXzlHTlUwU0xkVzliX016MUFxNU9Va29fUVBnajN1azJYSXNfTUZ2THQ2ZDk0d20tZzV3TEthaDhKeFRqcXVac2V3ZmVVdzR4NE5DVS1kb3ZXeElzeTJGRnRXbGI5ei0wSGxzQlNWa1VYc3dQdVhVSFBPZ1RUYXNSMzhqRUNnd2tWWXhjWmZIeEU3bmdtVGRzX3ZDc1VrRV9oUjczdnk3bUc5cDI1cFE1QkpoN1duV1RTZEI3VldMWDBTWWcxLXRtd9IB9wFBVV95cUxON3FnOUJEWF82UUJmOWliSnBYOXkzWlVhSU0tdXJHMU9tNzVQNWkzdW9hUlhPbUFoNGpBeHBQektWWDZVdzliZmkwVWJGczY4SjlUV2MzWlEtb0pzTWpDMDlYVHNDMm9kNlk2N3FuRjJKTlNDX3JtVVNQTmpHSFJEWDk5RTJ2MmJrRi1SMi1yUFVxNTJRbjB3el8xWmIyc3NxcW9NdW1xMzRPMDdGdFhSX1VCbHk2dWZQT3ZoTV9iZW5rckJuTjZuZ1J5N0lTX3ZGTGNlcktOUkpVUGZmckJSbWJPRlowZWZrRnVLeGlUa2J5MEdDd1F3?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Fri, 27 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "After MoU with AI startup came under scrutiny, a clarification from UP CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmZhc01LeU15UWJzV2NENGd2SnlIcHNaTGxsdjducnRreGV3bTA2UDZ5QnQyeWJfeDNvNkJ0cTJDa2ZXdUlxd2JvMEJzTDBZSkFfcXk2cVhqWnIyemR4SXlZUXFmMktRaGt2bmRYQWFUNGRCcXdGdngxMnFpN0VmVjk5aTJUMEFZTmozUmw5ZURUUXNiTEluZDcwdm84SEVDNVhPaGNGQm1ZQkhLX2lReUtHWG84cWgxTVlmaE5xb0YwcUJIU3lFSGI1a9IB0gFBVV95cUxQeTQtdlRBMzV6VHl2RFdoUEYzQmhiRy1EQWhqLVBjNDhaZGRLQ2RIY1c5aDdVd0V4QXJhWFl5cmhWZGZsR0dEd2N6dlRSR3NtNlRJamdibVhRV1c2MlNKSTA5VzJra2tHTWpLTHhTcllNQjFUMmpMSmpCU0VySzY1enFMVjNlZE80SFlrdEo2QWtSNFE0RnVRQ1VWakEtU2d6a2NnNk1KUkllNktwdFpBRkNjMXRWdldMM0E2NHIydFFQeEd3MGhIQVVVMTdieFJNOXc?oc=5\" target=\"_blank\">After MoU with AI startup came under scrutiny, a clarification from UP CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmZhc01LeU15UWJzV2NENGd2SnlIcHNaTGxsdjducnRreGV3bTA2UDZ5QnQyeWJfeDNvNkJ0cTJDa2ZXdUlxd2JvMEJzTDBZSkFfcXk2cVhqWnIyemR4SXlZUXFmMktRaGt2bmRYQWFUNGRCcXdGdngxMnFpN0VmVjk5aTJUMEFZTmozUmw5ZURUUXNiTEluZDcwdm84SEVDNVhPaGNGQm1ZQkhLX2lReUtHWG84cWgxTVlmaE5xb0YwcUJIU3lFSGI1a9IB0gFBVV95cUxQeTQtdlRBMzV6VHl2RFdoUEYzQmhiRy1EQWhqLVBjNDhaZGRLQ2RIY1c5aDdVd0V4QXJhWFl5cmhWZGZsR0dEd2N6dlRSR3NtNlRJamdibVhRV1c2MlNKSTA5VzJra2tHTWpLTHhTcllNQjFUMmpMSmpCU0VySzY1enFMVjNlZE80SFlrdEo2QWtSNFE0RnVRQ1VWakEtU2d6a2NnNk1KUkllNktwdFpBRkNjMXRWdldMM0E2NHIydFFQeEd3MGhIQVVVMTdieFJNOXc?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "Uttar Pradesh CM Adityanath inaugurates IBM’s ‘AI GovTech Innovation Center’ in Lucknow",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEo5Z1BJeHBDeTVrM2N2VFhEa0FkSUl4dVhzVDNLYjZ0V2k2QVBqNUhUdkdfNTR2RXNQRUFnT2FmUENRVXVld2piTmFsWWdNeGhUTWZJRHFJakV1SmJ3Y3V1aHQ0ZmFneHlPQVRJVVJ2YjR5SFFTUmlaRXVVY0I2R1BMN3ptbThyOWdGT0duTTQ2dUFCYUhFcXE4dHRvODVPX3p5bS02QnBpa2k5NjN2TDRyQjZaWmZTOGVJdnh1M042dGNOekx4MzJqQ0RiM2FWaThLOWJxQzVTbngtNU80ajRmSExtemR6ODhHbTduYTZqOTZJN1hfakRiaHrSAYICQVVfeXFMTTZiMkVFZ25kN1J2N001MlhqY3hLQ3hmeXI1a0xSaDk0MlZNWVczQjBIMFBLSzdvem16VjBpeVpjZFJ2UmQ2Um5hRGNpSWRyeHpWeFV2R21rZDhoUDdmVHBROGVxSUtkUEJxYzdNR2Q1N1M5a1AwRG15Ni1FcGUtQWg4eEV6X29TMEVjMkQ0cWhqa1N6djZjRUs0OGtrQmZtNWdONkI4d1J3V3I1Z1A3WEhoVHJSRGVNRUVtYUdabUNubkJPRTIyeDBTVU1yZ2ZGSUd6c2s3N0NhSVoyWDdJUktJZXVyNExrTFRMejdwaEJ4Qm8xQTY0UjBBTElBRm1TZnN3?oc=5\" target=\"_blank\">Uttar Pradesh CM Adityanath inaugurates IBM’s ‘AI GovTech Innovation Center’ in Lucknow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEo5Z1BJeHBDeTVrM2N2VFhEa0FkSUl4dVhzVDNLYjZ0V2k2QVBqNUhUdkdfNTR2RXNQRUFnT2FmUENRVXVld2piTmFsWWdNeGhUTWZJRHFJakV1SmJ3Y3V1aHQ0ZmFneHlPQVRJVVJ2YjR5SFFTUmlaRXVVY0I2R1BMN3ptbThyOWdGT0duTTQ2dUFCYUhFcXE4dHRvODVPX3p5bS02QnBpa2k5NjN2TDRyQjZaWmZTOGVJdnh1M042dGNOekx4MzJqQ0RiM2FWaThLOWJxQzVTbngtNU80ajRmSExtemR6ODhHbTduYTZqOTZJN1hfakRiaHrSAYICQVVfeXFMTTZiMkVFZ25kN1J2N001MlhqY3hLQ3hmeXI1a0xSaDk0MlZNWVczQjBIMFBLSzdvem16VjBpeVpjZFJ2UmQ2Um5hRGNpSWRyeHpWeFV2R21rZDhoUDdmVHBROGVxSUtkUEJxYzdNR2Q1N1M5a1AwRG15Ni1FcGUtQWg4eEV6X29TMEVjMkQ0cWhqa1N6djZjRUs0OGtrQmZtNWdONkI4d1J3V3I1Z1A3WEhoVHJSRGVNRUVtYUdabUNubkJPRTIyeDBTVU1yZ2ZGSUd6c2s3N0NhSVoyWDdJUktJZXVyNExrTFRMejdwaEJ4Qm8xQTY0UjBBTElBRm1TZnN3?oc=5",
+   "source_name": "Indiatimes",
+   "source_domain": "telecom.economictimes.indiatimes.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "Yogi Adityanath Inaugurates IBM’s AI GovTech Innovation Centre in Lucknow",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzQtZ000WTB2bmwyR3hnS1AwbVR4a1prMDR5SE1tLUlHZHVndzhJbzR0UnI5NUtkSzUwcl9sWjMweWc1SDltN25GOEFoZGppczV4ejFrb2M4S2JkZlBPYWh0VmJDRllKdGFjV05fWnh3dEZVcXoxdDBkRXF0eEVxNTgyWEhEWjN5TGEyM1BYbEFPSHFqUTFOSENxbW8xZTNTd1A2d2dHU0RNeVZV?oc=5\" target=\"_blank\">Yogi Adityanath Inaugurates IBM’s AI GovTech Innovation Centre in Lucknow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adda247</font>",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzQtZ000WTB2bmwyR3hnS1AwbVR4a1prMDR5SE1tLUlHZHVndzhJbzR0UnI5NUtkSzUwcl9sWjMweWc1SDltN25GOEFoZGppczV4ejFrb2M4S2JkZlBPYWh0VmJDRllKdGFjV05fWnh3dEZVcXoxdDBkRXF0eEVxNTgyWEhEWjN5TGEyM1BYbEFPSHFqUTFOSENxbW8xZTNTd1A2d2dHU0RNeVZV?oc=5",
+   "source_name": "Adda247",
+   "source_domain": "currentaffairs.adda247.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "‘Major step to bolster tech-driven governance’: Yogi at IBM’s AI GovTech Innovation Centre inauguration",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHBndXdjQjB5UUlWcE5pN3ZCRGVtYk5EeUNxOWNlV3RBZ0hRQlpta2xSY09PWGtfYTd0NkhoODh2QXhycUdHVFlSdGVKekF3OVhwWmhQLTRPS2JqTWVzUXpsdGJaTnpYeGxYZFhhRkhEMmpzOUJGbEc2MzRMdDkwOUp2Y2xidURjTUhqbjRkYW9ESnlYaWVFNE83M1AzR294T3lwRFNGSDh6TldiUFBoNnNuMFN3NFNvb2NaVnVnZmNjRXpza1RJSlVaOHczTnhTUkF5SVVLZmtTWkZNeG9fdllKNWs3dzNKLW9rYnZ2MNIB9gFBVV95cUxOTjUwSmFNQWwzb3lONFhCMWtISUNqaDZEcFk4eUgycnVtYm1IeV9MT3F1aWoyY1JWTkVTdE81WFRncVZwaFNHRkYwc0J2NEFwVzJBVk5iQzROZExwVGFmSGlrX3lfWUh5SUZtUkRDZk5NQmVBX3haeHZldjhUaWtpdFNGaUdmbFNmRUNpNWctaUpON0xfbnJOQTFVb25ZM2UyRVRsWVk2anVOVjZ5dHRRTmZzUnI2VWl1dFRDelVUa3dvc0l0d21mS0FSb0FqbExTNXFtNWRTdlNZRExCSXJIR3hiaWZEWklKbE14NzVfRE9tbGQyRnc?oc=5\" target=\"_blank\">‘Major step to bolster tech-driven governance’: Yogi at IBM’s AI GovTech Innovation Centre inauguration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHBndXdjQjB5UUlWcE5pN3ZCRGVtYk5EeUNxOWNlV3RBZ0hRQlpta2xSY09PWGtfYTd0NkhoODh2QXhycUdHVFlSdGVKekF3OVhwWmhQLTRPS2JqTWVzUXpsdGJaTnpYeGxYZFhhRkhEMmpzOUJGbEc2MzRMdDkwOUp2Y2xidURjTUhqbjRkYW9ESnlYaWVFNE83M1AzR294T3lwRFNGSDh6TldiUFBoNnNuMFN3NFNvb2NaVnVnZmNjRXpza1RJSlVaOHczTnhTUkF5SVVLZmtTWkZNeG9fdllKNWs3dzNKLW9rYnZ2MNIB9gFBVV95cUxOTjUwSmFNQWwzb3lONFhCMWtISUNqaDZEcFk4eUgycnVtYm1IeV9MT3F1aWoyY1JWTkVTdE81WFRncVZwaFNHRkYwc0J2NEFwVzJBVk5iQzROZExwVGFmSGlrX3lfWUh5SUZtUkRDZk5NQmVBX3haeHZldjhUaWtpdFNGaUdmbFNmRUNpNWctaUpON0xfbnJOQTFVb25ZM2UyRVRsWVk2anVOVjZ5dHRRTmZzUnI2VWl1dFRDelVUa3dvc0l0d21mS0FSb0FqbExTNXFtNWRTdlNZRExCSXJIR3hiaWZEWklKbE14NzVfRE9tbGQyRnc?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "UP CM Yogi Adityanath to launch AI-driven Nivesh Mitra 3.0 on March 24",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQWwtMzY1Nlpna21NVFVNZlZnU0tRaEdySmtzTkc5R0NUek9wTVhjOFBkTFY1eTZ0cWdkODJxNlJxY3ZNWUF5dzdLY29iLU5UQkNFUVQ5LUdqM3BZXzBUanBnZnhKT29Icy1EXzdMZ3JWYndDNEhrSzZ1STZFei1Bck9DYktScTNTZ3lnX2M0eXZFc0IyMTFaak1uZlFXclJPazRRMHlqY29xeDNUSEpxLVA1UzdVbDJ0b05JbDRKcEpRUUpxS3RxckUzZmtqN0JoakFEZmt1dnpVbXRQTjAya3B1SDVfZnhjYVHSAe4BQVVfeXFMUEdtSzhtTkZiNlRUME1TbmVZc0tpTnphOW9fZFdJaW9nOG8wT0I0NEQ0X04xNEdaclM0RC1qUWhXdi1UbUdXZ3dRTEhUXzdkQmhWbzBFZTlYbmR6SndZLWFOcWg3ZXlBUERTQ3JPbTNJZjluQ0FxanU3dllUNG00YnUzSm03RmhidmpKR2s5azE3b3NMelRNWGxLby0tTmF1N0tDQVNYQnJrZXBIeXo2Mnh4MTEtZ3JWUHlsQ0RuWGFraHp1cnVraWw3RFdUMGl4a2gwNjFocHM2VmpZNk1IU29haVpiRjhObFRTYUIxZw?oc=5\" target=\"_blank\">UP CM Yogi Adityanath to launch AI-driven Nivesh Mitra 3.0 on March 24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQWwtMzY1Nlpna21NVFVNZlZnU0tRaEdySmtzTkc5R0NUek9wTVhjOFBkTFY1eTZ0cWdkODJxNlJxY3ZNWUF5dzdLY29iLU5UQkNFUVQ5LUdqM3BZXzBUanBnZnhKT29Icy1EXzdMZ3JWYndDNEhrSzZ1STZFei1Bck9DYktScTNTZ3lnX2M0eXZFc0IyMTFaak1uZlFXclJPazRRMHlqY29xeDNUSEpxLVA1UzdVbDJ0b05JbDRKcEpRUUpxS3RxckUzZmtqN0JoakFEZmt1dnpVbXRQTjAya3B1SDVfZnhjYVHSAe4BQVVfeXFMUEdtSzhtTkZiNlRUME1TbmVZc0tpTnphOW9fZFdJaW9nOG8wT0I0NEQ0X04xNEdaclM0RC1qUWhXdi1UbUdXZ3dRTEhUXzdkQmhWbzBFZTlYbmR6SndZLWFOcWg3ZXlBUERTQ3JPbTNJZjluQ0FxanU3dllUNG00YnUzSm03RmhidmpKR2s5azE3b3NMelRNWGxLby0tTmF1N0tDQVNYQnJrZXBIeXo2Mnh4MTEtZ3JWUHlsQ0RuWGFraHp1cnVraWw3RFdUMGl4a2gwNjFocHM2VmpZNk1IU29haVpiRjhObFRTYUIxZw?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Sun, 22 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "To curb traffic congestion, UP Police launch AI-based pilot project in 20 districts",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOFUxclZ5anh1S1Rnc2RvYm9Bd0c5NnEweWRkOERIaVZFemxsclktb1pwUUhwM2lfcmNfVDdGd2ttcDMxVjEweFl1R1NBYW5WZnRvWTdJaFZ6dnlFUGROTDZiTk5wR3hCc09CNC1IelQwZVZHU1FibEttc21jSHpMbC1KaXlsRlJJOWxKWFYtSllGc0I1bGVsXzBzRlhTXzRYSFpleUFSbGVxWjhCd1NFZXk5Y056OXJUZFhwZWtEdVZ2eXdtYV8tNFRORTRBWFdDZXM3WVNrbGnSAd8BQVVfeXFMUG9PTElPWFNiQV9QMERKRWtmSnRwa1ZfMzRrdXZ3OFhTVVd0NndQYnBvQ1RmTzFGWUdHaXZpZ083ZlkzaUdTNFJLQ0tIUjdJZUl5cl9LRXZJdTk5dm9ZZ21zb28xalViN2dNS05uOUstRk85dVk3RlhKNGEyZFFNbjNYRGt1VHRGRGpZSDJQd1RjQnNEeGMxRjJoS3BwaTR3ODUzZWlueVo4S01RQzc5VmJWY1dQNVlRbXJreERvTmxLbUZfcllxZGZzbXc2a0FMMUl5RTU2d3FNbzhRSzNDRQ?oc=5\" target=\"_blank\">To curb traffic congestion, UP Police launch AI-based pilot project in 20 districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOFUxclZ5anh1S1Rnc2RvYm9Bd0c5NnEweWRkOERIaVZFemxsclktb1pwUUhwM2lfcmNfVDdGd2ttcDMxVjEweFl1R1NBYW5WZnRvWTdJaFZ6dnlFUGROTDZiTk5wR3hCc09CNC1IelQwZVZHU1FibEttc21jSHpMbC1KaXlsRlJJOWxKWFYtSllGc0I1bGVsXzBzRlhTXzRYSFpleUFSbGVxWjhCd1NFZXk5Y056OXJUZFhwZWtEdVZ2eXdtYV8tNFRORTRBWFdDZXM3WVNrbGnSAd8BQVVfeXFMUG9PTElPWFNiQV9QMERKRWtmSnRwa1ZfMzRrdXZ3OFhTVVd0NndQYnBvQ1RmTzFGWUdHaXZpZ083ZlkzaUdTNFJLQ0tIUjdJZUl5cl9LRXZJdTk5dm9ZZ21zb28xalViN2dNS05uOUstRk85dVk3RlhKNGEyZFFNbjNYRGt1VHRGRGpZSDJQd1RjQnNEeGMxRjJoS3BwaTR3ODUzZWlueVo4S01RQzc5VmJWY1dQNVlRbXJreERvTmxLbUZfcllxZGZzbXc2a0FMMUl5RTU2d3FNbzhRSzNDRQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "IBM opens AI GovTech centre in Lucknow",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYURENU5HdnJDbjkzd1lmYk5EU0xraUU3RkpndUdfNDRyT3RzT29HY3FyRTFBOW9YaDFGVGhVU1FxRlRtNUgwNFBEQWp3WEREYVR1cEExT0lreG5GT1ZZWVpyTzJWa1lzZFZlX21LaXA4MG16cHItQ1FXbjBBN0c0QWRKbE4wQ2lkS3Z6ZHVPYzhLOHpmSm9ZS256a20xckhrNHFQVWZVeFlUcmRNWWpTR0pyVGkyTERfb29tb2Zn0gHDAUFVX3lxTE8xZjJIcEs1aWItQ2dkLVEzM3hrZDZNeUVoajJZUkxzRGdabm9lalhWM3BGbVlaUjFXQmd2cXdFQVRpdS1aaTBETU5JVTYtWFBuYXY1QV9YdXc5UGV3RHhrU1NVTEVwZXp5V3JaX3JLYmVNRjVNVEkzN1BEUFJaZ3BPS25XWkJ1cUV3Wmh3ODZTNjNGSkxrXzY1Z0xON0d3MHRJa0FtM0FZTWlOV3hwRmFnU0hjUy1uOW5EcUl2TjRWekhaYw?oc=5\" target=\"_blank\">IBM opens AI GovTech centre in Lucknow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYURENU5HdnJDbjkzd1lmYk5EU0xraUU3RkpndUdfNDRyT3RzT29HY3FyRTFBOW9YaDFGVGhVU1FxRlRtNUgwNFBEQWp3WEREYVR1cEExT0lreG5GT1ZZWVpyTzJWa1lzZFZlX21LaXA4MG16cHItQ1FXbjBBN0c0QWRKbE4wQ2lkS3Z6ZHVPYzhLOHpmSm9ZS256a20xckhrNHFQVWZVeFlUcmRNWWpTR0pyVGkyTERfb29tb2Zn0gHDAUFVX3lxTE8xZjJIcEs1aWItQ2dkLVEzM3hrZDZNeUVoajJZUkxzRGdabm9lalhWM3BGbVlaUjFXQmd2cXdFQVRpdS1aaTBETU5JVTYtWFBuYXY1QV9YdXc5UGV3RHhrU1NVTEVwZXp5V3JaX3JLYmVNRjVNVEkzN1BEUFJaZ3BPS25XWkJ1cUV3Wmh3ODZTNjNGSkxrXzY1Z0xON0d3MHRJa0FtM0FZTWlOV3hwRmFnU0hjUy1uOW5EcUl2TjRWekhaYw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Mon, 23 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Uttar Pradesh",
+   "title": "8 data centre parks to turn into digital, AI hub",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkpXV01UZ0w2dG9SZ1FCWWRxQ3lESXBCYlVpZFpMbDRCQnotX3ZXcG1WYkVNYUcwTU4zUjFyem04SDItWnZMSU5tWHNYOWdSa2NYaTBYOTFfYXAxcmJZbkFUTHR4UjB2aG9ya2MtZHBqd3dKZ3dNTF85M1h2S2FNeDd0djRsSUpiZnh2WW43anZZeWpseDlKRVNGTW5WMFJuY0JpYTNoenhqTkY3REN5MzdHV1liYWRRSUFJWmFfVdIBxAFBVV95cUxPWFF6WmhXU2NjVjBRVi1pU016QzhSSHpVVC1pRkNjcVZZVm1FUzF6OFNXQnQxNU53MFZKRGJWR0xRdWRVOWpSLW5lSUZjdlk1LS1QQm9Kb3Juc3dBY2hhS09POTc1V19aek9ieUlsQXlkSzQycEpRM2w0RDd2akhySVdZeHA4YU5OQ2ZZUllXVjBXcVVSUlI3bk5tY0RuR3J6V1VjbVFMZkNEUktCNkFkdUJoZXlpM1JMdEh2Zzlna0lGeG1B?oc=5\" target=\"_blank\">8 data centre parks to turn into digital, AI hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkpXV01UZ0w2dG9SZ1FCWWRxQ3lESXBCYlVpZFpMbDRCQnotX3ZXcG1WYkVNYUcwTU4zUjFyem04SDItWnZMSU5tWHNYOWdSa2NYaTBYOTFfYXAxcmJZbkFUTHR4UjB2aG9ya2MtZHBqd3dKZ3dNTF85M1h2S2FNeDd0djRsSUpiZnh2WW43anZZeWpseDlKRVNGTW5WMFJuY0JpYTNoenhqTkY3REN5MzdHV1liYWRRSUFJWmFfVdIBxAFBVV95cUxPWFF6WmhXU2NjVjBRVi1pU016QzhSSHpVVC1pRkNjcVZZVm1FUzF6OFNXQnQxNU53MFZKRGJWR0xRdWRVOWpSLW5lSUZjdlk1LS1QQm9Kb3Juc3dBY2hhS09POTc1V19aek9ieUlsQXlkSzQycEpRM2w0RDd2akhySVdZeHA4YU5OQ2ZZUllXVjBXcVVSUlI3bk5tY0RuR3J6V1VjbVFMZkNEUktCNkFkdUJoZXlpM1JMdEh2Zzlna0lGeG1B?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 17 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:46:46+00:00"
+  }
+ ]
+}

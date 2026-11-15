@@ -1,0 +1,263 @@
+{
+ "region": "Delhi",
+ "group": "B",
+ "query": "(Delhi) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Delhi%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:38+00:00",
+ "item_count": 23,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Finalists Announced for Three Flagship Global AI Impact Challenges under the India AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBCQUFlRWNGN1Y1aGk0LVQxWHZwdlUwUDFFVXl0cVBVbmhxbnlQMzlmSzl5UkRhMFd5dEdIc2JVUmJ4aGVCZWRFRVdnU1JOenJmc09kUXpGT0hqODRjRS1sQWxLdU5uR1NZNkpDcDQyZG1tMXFjbkllY01B?oc=5\" target=\"_blank\">Finalists Announced for Three Flagship Global AI Impact Challenges under the India AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCQUFlRWNGN1Y1aGk0LVQxWHZwdlUwUDFFVXl0cVBVbmhxbnlQMzlmSzl5UkRhMFd5dEdIc2JVUmJ4aGVCZWRFRVdnU1JOenJmc09kUXpGT0hqODRjRS1sQWxLdU5uR1NZNkpDcDQyZG1tMXFjbkllY01B?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi govt joins hands with IIT Kanpur for AI-based grievance redressal system",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1M3eTRpZV9aODdZMlNXLU8zZWdCY1pneTh6OVQ1TTIzNUc1NTlxSjh0TFNXNHFJQVpKUGFxX0ZmVTMtXzhPVlZxdy1rS0hsWjRKTGtqSGtmV2tHYWpqYjZUdnJPa2RxdGVzTEN2aXNPUjR5ZjdvLUdoNmxYbU9BNFNwRlBpb1R4RktPZl9UUG95RUxEaHFHbmxlVFN5Zl92Uk5Sb3F4UQ?oc=5\" target=\"_blank\">Delhi govt joins hands with IIT Kanpur for AI-based grievance redressal system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1M3eTRpZV9aODdZMlNXLU8zZWdCY1pneTh6OVQ1TTIzNUc1NTlxSjh0TFNXNHFJQVpKUGFxX0ZmVTMtXzhPVlZxdy1rS0hsWjRKTGtqSGtmV2tHYWpqYjZUdnJPa2RxdGVzTEN2aXNPUjR5ZjdvLUdoNmxYbU9BNFNwRlBpb1R4RktPZl9UUG95RUxEaHFHbmxlVFN5Zl92Uk5Sb3F4UQ?oc=5",
+   "source_name": "DD News",
+   "source_domain": "ddnews.gov.in",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "World leaders from 20 countries to attend India-AI Impact Summit 2026 in New Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1ZSb3BIN3VUWjhQU1JQUHJCOGVkN1k1NWx2T2tQa0ZlS3RhbkV0WHJCdzVnNVRDblN1NHN0b0xsbkc2YXhNamZBcEd1bzJ4REkxVmM5d2tscFZyU2hYV3NvS3JQT3B1Szk4cnRyWjBOZXBoemEyVUk0ODhwX0Vjekx0dEdZVDRxV1ZfSkpxdjJGcVlad1E5ODZCRXNhSXFGQXZHVG9BUWxLdw?oc=5\" target=\"_blank\">World leaders from 20 countries to attend India-AI Impact Summit 2026 in New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1ZSb3BIN3VUWjhQU1JQUHJCOGVkN1k1NWx2T2tQa0ZlS3RhbkV0WHJCdzVnNVRDblN1NHN0b0xsbkc2YXhNamZBcEd1bzJ4REkxVmM5d2tscFZyU2hYV3NvS3JQT3B1Szk4cnRyWjBOZXBoemEyVUk0ODhwX0Vjekx0dEdZVDRxV1ZfSkpxdjJGcVlad1E5ODZCRXNhSXFGQXZHVG9BUWxLdw?oc=5",
+   "source_name": "News On AIR",
+   "source_domain": "newsonair.gov.in",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India AI Impact Summit has received phenomenal global response: Ashwini Vaishnaw",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbGE4ZXRDUWs2TnFKcUoxSmcyYVU4YUlFRmo3eE4xcVk1YVY3T0xjcUtUQXdFdFg2aUlvRU8tVEtkaUw3UlhtX1ZobTZFQzhIYWVya2dTQlNKSThDZ1VINjV4YTBzVExDdW80NlJfeHpyY3J6YlBlUWF1YVo2T3AtOEtObEtlWnNOZXIxTDZUaWI5Szd4VDVrU1pZM3p0dGZ2bFZ0TzNiSU80VW9BT2RqdzBoYmU5T1dvbVZmZDJPLXFKcGIwU25YMVRIS0QzWWkySnhScEpxRzh4bThq0gHjAUFVX3lxTE5vbGZ5UDdrTUI0dUdnWXRoUllvLXhFQXhpdkwyWjg0VTBYT21wZ3I5T0Vza1NBRHVBWF9oRGdnc29VZ2V4WWMxZi1IbngtOG1jVVk1RGxmT3hoN3VMcDJYbm5zZDNOWGxIZ0ZpMUhocVFoeTdHUHp6Y2dMbk9MNUc4MWdzR2xodUdjaXpXRk9jYnU0LThmRnVJR2ZwTDBpZXJYQjRqblh6R2pBY2habHJwNDhpeHZDUmZGT0NEMHpwWmhUNmdFQ1hVVVRJdU03MUgzYy1PX002bXVySjBsTjdFSDNv?oc=5\" target=\"_blank\">India AI Impact Summit has received phenomenal global response: Ashwini Vaishnaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbGE4ZXRDUWs2TnFKcUoxSmcyYVU4YUlFRmo3eE4xcVk1YVY3T0xjcUtUQXdFdFg2aUlvRU8tVEtkaUw3UlhtX1ZobTZFQzhIYWVya2dTQlNKSThDZ1VINjV4YTBzVExDdW80NlJfeHpyY3J6YlBlUWF1YVo2T3AtOEtObEtlWnNOZXIxTDZUaWI5Szd4VDVrU1pZM3p0dGZ2bFZ0TzNiSU80VW9BT2RqdzBoYmU5T1dvbVZmZDJPLXFKcGIwU25YMVRIS0QzWWkySnhScEpxRzh4bThq0gHjAUFVX3lxTE5vbGZ5UDdrTUI0dUdnWXRoUllvLXhFQXhpdkwyWjg0VTBYT21wZ3I5T0Vza1NBRHVBWF9oRGdnc29VZ2V4WWMxZi1IbngtOG1jVVk1RGxmT3hoN3VMcDJYbm5zZDNOWGxIZ0ZpMUhocVFoeTdHUHp6Y2dMbk9MNUc4MWdzR2xodUdjaXpXRk9jYnU0LThmRnVJR2ZwTDBpZXJYQjRqblh6R2pBY2habHJwNDhpeHZDUmZGT0NEMHpwWmhUNmdFQ1hVVVRJdU03MUgzYy1PX002bXVySjBsTjdFSDNv?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Fri, 30 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Top 10 CSE & AI Colleges in India for 2026 to Launch Your Career in Computer Science & Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ltRkp4d3A3Q0Z6UHA0Yl92T1NVVWdUTlo5eGRjR3Z6Vy1kcHAxR1lLc05IWFZ2X3daa1Uyd1JHNzltV0J3TG8wcnktdzl3bDZfZ2R0WWo4OV9VaUxSVmpuRFN4N2NrYmJwbXQ4RmJpZ2hDWXBBUDBDRGNmUFdGMVVCN3ZQYm1YUG1RaXZ0eWZNdDZUOHJrekFrMGRja285cjA5TTdCa0R0b2FhRUJmdG44TExNZnAwVzJ1ZVgzckpER3ZMUlpxYnVnYw?oc=5\" target=\"_blank\">Top 10 CSE & AI Colleges in India for 2026 to Launch Your Career in Computer Science & Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LPU</font>",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ltRkp4d3A3Q0Z6UHA0Yl92T1NVVWdUTlo5eGRjR3Z6Vy1kcHAxR1lLc05IWFZ2X3daa1Uyd1JHNzltV0J3TG8wcnktdzl3bDZfZ2R0WWo4OV9VaUxSVmpuRFN4N2NrYmJwbXQ4RmJpZ2hDWXBBUDBDRGNmUFdGMVVCN3ZQYm1YUG1RaXZ0eWZNdDZUOHJrekFrMGRja285cjA5TTdCa0R0b2FhRUJmdG44TExNZnAwVzJ1ZVgzckpER3ZMUlpxYnVnYw?oc=5",
+   "source_name": "LPU",
+   "source_domain": "lpu.in",
+   "published_raw": "Wed, 26 Nov 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi government wants AI Grind for school, college students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODk1VU9la1BnRkJBamdkYWNDZEpUWnNqZDd3TXhkdHB1Sy1YVTR1bGJpYjdrSFpLcjdtTmN5SEs0cGV3WFZBSjRFUTl6VlAyTEY1RjVNblFBUFZ0ZS1DY0o3OGlubFZ4U0tVX0pBdV9JZ3I0V2hXak5yd2hZOWhNUTJYcjhXbnk0LVFrUG1Jd3BZQUpZUFZWWi1IZlVjLW5hYVNkX0lrTm1NVGoxWGFLcGdscVczZW1h0gHGAUFVX3lxTE5FaUlCdWFaaHAxcTNWZVZQSjBoS3MxR1hWbHd0WjdzTUFKTEc5YmJHMGNkNEZiRTV3ME5zZW5nM0VvVzdFa1RUOGNubjRhdHVBZHlqeEZ1cXRGUU9QU1QtOU5xUXVvSWotS0N0bVhFT0V4N1B5eWhpY0t2NTlnZmdDbXpvXzdlWm5vaXV3WXdSa2tGNjdKS1ZhNGtDLWQxQ19MajVVR1FsWjhESzhadEFKTVpuLWZUQkZCMElGUElncVdtbXpZdw?oc=5\" target=\"_blank\">Delhi government wants AI Grind for school, college students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODk1VU9la1BnRkJBamdkYWNDZEpUWnNqZDd3TXhkdHB1Sy1YVTR1bGJpYjdrSFpLcjdtTmN5SEs0cGV3WFZBSjRFUTl6VlAyTEY1RjVNblFBUFZ0ZS1DY0o3OGlubFZ4U0tVX0pBdV9JZ3I0V2hXak5yd2hZOWhNUTJYcjhXbnk0LVFrUG1Jd3BZQUpZUFZWWi1IZlVjLW5hYVNkX0lrTm1NVGoxWGFLcGdscVczZW1h0gHGAUFVX3lxTE5FaUlCdWFaaHAxcTNWZVZQSjBoS3MxR1hWbHd0WjdzTUFKTEc5YmJHMGNkNEZiRTV3ME5zZW5nM0VvVzdFa1RUOGNubjRhdHVBZHlqeEZ1cXRGUU9QU1QtOU5xUXVvSWotS0N0bVhFT0V4N1B5eWhpY0t2NTlnZmdDbXpvXzdlWm5vaXV3WXdSa2tGNjdKS1ZhNGtDLWQxQ19MajVVR1FsWjhESzhadEFKTVpuLWZUQkZCMElGUElncVdtbXpZdw?oc=5",
+   "source_name": "The New Indian Express",
+   "source_domain": "newindianexpress.com",
+   "published_raw": "Mon, 08 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India tells Silicon Valley it will unveil voice-based LLM before Delhi AI summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2xZWkpNSWlSanNkSWJheFl3ZXBZbVQwQmRybHRDVWt6WkFNX0c3SzdmX2JDZFd6eGU3MzdsY3BKcnU5ZzFmVFpyZ3RhbWhDcGNjQ1AzMk1aX2FjVmJoU1VFR204b1JDNFJMQlcwQWpTQU9uVDVtMUdvSVZXd0dKMS1XZ1EzMGEyd2Z5aS1VWkNQQ3NuYVhnaXVvNF9fQ3M2dmJaelhzQzJOX3kwb1ZKQWQwa2d3M3FmOHJGaGhnNE9sSGdCdjRfLVF6MznSAdIBQVVfeXFMTkxzU3VvV1BtX2VENlZST3FRTy1lcUdMMlJ5MGI1bWtYWXlyYUVfdGd4bFliNl9hOGFLTDFyaTJMQzFjVDA2dEc2dW40a2owX05HSzRWT0hSOWhBOThsTGJJYlpHclFCWDBYdE50NXgxLUlwUFNnUUR6NmxGMXY4WG54aHBCeXN4a0dQYTk0Y1A4VEhJTlcxU09sVHluYm52bFpSNnVFNjEzUVBsZnFmMnRqQ2pDdWZ0bEVWWkIzblI4Rl9YSjQ3UEFBTi10STkyOFJn?oc=5\" target=\"_blank\">India tells Silicon Valley it will unveil voice-based LLM before Delhi AI summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiatimes</font>",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2xZWkpNSWlSanNkSWJheFl3ZXBZbVQwQmRybHRDVWt6WkFNX0c3SzdmX2JDZFd6eGU3MzdsY3BKcnU5ZzFmVFpyZ3RhbWhDcGNjQ1AzMk1aX2FjVmJoU1VFR204b1JDNFJMQlcwQWpTQU9uVDVtMUdvSVZXd0dKMS1XZ1EzMGEyd2Z5aS1VWkNQQ3NuYVhnaXVvNF9fQ3M2dmJaelhzQzJOX3kwb1ZKQWQwa2d3M3FmOHJGaGhnNE9sSGdCdjRfLVF6MznSAdIBQVVfeXFMTkxzU3VvV1BtX2VENlZST3FRTy1lcUdMMlJ5MGI1bWtYWXlyYUVfdGd4bFliNl9hOGFLTDFyaTJMQzFjVDA2dEc2dW40a2owX05HSzRWT0hSOWhBOThsTGJJYlpHclFCWDBYdE50NXgxLUlwUFNnUUR6NmxGMXY4WG54aHBCeXN4a0dQYTk0Y1A4VEhJTlcxU09sVHluYm52bFpSNnVFNjEzUVBsZnFmMnRqQ2pDdWZ0bEVWWkIzblI4Rl9YSjQ3UEFBTi10STkyOFJn?oc=5",
+   "source_name": "Indiatimes",
+   "source_domain": "telecom.economictimes.indiatimes.com",
+   "published_raw": "Sat, 06 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXlUV0VvZ1pQWF96ZUFPazkxN29wUi1mZko0WlRJcU1ySXVtMUdkSkRDRldkLWQ3TTZ4R2xzSXdJdnJMMHNZMjVERkNCZHNMazIyVzZDY3d6YWxQLXNvY2RCU29tRi11SV9CZWdtN0dVODY2ZDVFY2JkX2xWMjlzT3doU181UQ?oc=5\" target=\"_blank\">Altman and Pichai among tech CEOs heading to India for major AI summit in a key market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXlUV0VvZ1pQWF96ZUFPazkxN29wUi1mZko0WlRJcU1ySXVtMUdkSkRDRldkLWQ3TTZ4R2xzSXdJdnJMMHNZMjVERkNCZHNMazIyVzZDY3d6YWxQLXNvY2RCU29tRi11SV9CZWdtN0dVODY2ZDVFY2JkX2xWMjlzT3doU181UQ?oc=5",
+   "source_name": "CNBC",
+   "source_domain": "cnbc.com",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India-AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1zY2RNMFM3c0NYNDVDaXNqTVItcG1xZkw0bGkwamVzR3hYZjRlV0VQeGFES0RhTUQyYkpqVmFJOUFjODhIMWV1N0FSUXJPT25GNUxpc2VuR2wwdEhKU3A1Y0VNMjBwV0N1SnhtT3Q5VVF2RHloRGRISGdn?oc=5\" target=\"_blank\">India-AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zY2RNMFM3c0NYNDVDaXNqTVItcG1xZkw0bGkwamVzR3hYZjRlV0VQeGFES0RhTUQyYkpqVmFJOUFjODhIMWV1N0FSUXJPT25GNUxpc2VuR2wwdEhKU3A1Y0VNMjBwV0N1SnhtT3Q5VVF2RHloRGRISGdn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 21 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Mauritius PM Backs India's Leadership, Set To Join New Delhi AI Impact Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2RGUE95ZjVvclVidXFNVzU1QXNiZ0trS0hISUljTVVnQnRHdV8wVWY4MmJXdFJFZzQzMWlXWlVaSmJxZk5TODVoOUl5amFDRE9zdjlod3pjalowdE5QWjM3ZllxRWJhck1zaUJhUWh2dFFiSFo2aWxyaWR2NVBhbUxRajN1N0lZYkNCTl9ITUlpOEhsWHVhWVBzZWxVYzE5bmpNTDdvZ05PazJCWGlwYUdOeVFWeUnSAb8BQVVfeXFMTTVXazVmdGlmZFJ6cjZGRzNBQUxzY0pjQWZLX3duRVJTTzJlSzhGVXhzcXQteFlNSmFYa3ZoWldUWG5pamF1N0Y0eHAwbjZ4MTdyc3NMdTZxZ3cycUc4UkdGZEl1VVNLVjlQQ0tTZ2NNWG1DNjd6YVdOaEVZbm1LV1Z3bDAyWDBHMzZmdXRyckFrM3VRNWMyMzZzVnMxa0pRNG8tVEdWMS1kcTNydXZmQzBvZTZidjd1bzlkWGxmejA?oc=5\" target=\"_blank\">Mauritius PM Backs India's Leadership, Set To Join New Delhi AI Impact Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2RGUE95ZjVvclVidXFNVzU1QXNiZ0trS0hISUljTVVnQnRHdV8wVWY4MmJXdFJFZzQzMWlXWlVaSmJxZk5TODVoOUl5amFDRE9zdjlod3pjalowdE5QWjM3ZllxRWJhck1zaUJhUWh2dFFiSFo2aWxyaWR2NVBhbUxRajN1N0lZYkNCTl9ITUlpOEhsWHVhWVBzZWxVYzE5bmpNTDdvZ05PazJCWGlwYUdOeVFWeUnSAb8BQVVfeXFMTTVXazVmdGlmZFJ6cjZGRzNBQUxzY0pjQWZLX3duRVJTTzJlSzhGVXhzcXQteFlNSmFYa3ZoWldUWG5pamF1N0Y0eHAwbjZ4MTdyc3NMdTZxZ3cycUc4UkdGZEl1VVNLVjlQQ0tTZ2NNWG1DNjd6YVdOaEVZbm1LV1Z3bDAyWDBHMzZmdXRyckFrM3VRNWMyMzZzVnMxa0pRNG8tVEdWMS1kcTNydXZmQzBvZTZidjd1bzlkWGxmejA?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "France's Macron to participate in New Delhi AI summit during India visit next week",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaG9YNFUwcWJIT0dWOGM5ay1jUmNsNWxISW9iNUdPdGZzSm0zeG5URTV1NmZUZ3piMGlVNXp1NEoxLUlfLW0wOFRkSDR0OGk0UmdDRWl4aEE5WWs1S0diVHdZc29VWl81X3ZVT1Z5Y1NkNzBmRXNnVTRLUm5TMEs3cTN1aFRUYTF1cHEw?oc=5\" target=\"_blank\">France's Macron to participate in New Delhi AI summit during India visit next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaG9YNFUwcWJIT0dWOGM5ay1jUmNsNWxISW9iNUdPdGZzSm0zeG5URTV1NmZUZ3piMGlVNXp1NEoxLUlfLW0wOFRkSDR0OGk0UmdDRWl4aEE5WWs1S0diVHdZc29VWl81X3ZVT1Z5Y1NkNzBmRXNnVTRLUm5TMEs3cTN1aFRUYTF1cHEw?oc=5",
+   "source_name": "Reuters",
+   "source_domain": "reuters.com",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi launches India’s first city-centric AI innovation movement to prepare students",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM2RwRHFmUDhkeWJaeGZGVkFPQmkwTTMzZUlPcG8tWXFhNU5YNGs0SzhUdTg3Y0w0N2pMQmR4NTA5cTZxZXU1TmxNMzlmZllqTGgxSVA2S2l1LV82ZmxrMFBSZjcxTEFUaUhENmkzaGdrXy1ybFZRdk16ZWlMeThJN0NjOXIxQzRnSFYxN2R4RlhZRWZGN1NndEV1Si1GY3VCdFhGZ0lyVUlGWHZZLTlxVEgzLUQ4X3RucG4tUkFkbkxyWkRYeDd2Y3l4WEc5MTZiT3p5RFQ2Z9IB3gFBVV95cUxNeUlra2JtMlY0Uzg4TEI1TWNLTWgydkxDWFVvQU9kV2JpY284NWJUMzlJdGhhMlZLaGx3RGR6Q0k3U1FNT292MzBFdW1BLTNnQVpwTUptZml4Um9tZ0Z6R01UYUkySTFXYlBZOVJ3RFBRdUE5aWduNEZ6SE41Qkd2R3Q3WTUwZ3BqRWtYVjBHcTZnNDA2bUJXdE1Wckoxd3VPUFpNcmNDNGR2NEFJa0NyMEwtVTZPYjZVWXkyNnkyN0xGWWk2cXlLX2N4SXByVzNFTXVZMGM2cl9tWnpzWlE?oc=5\" target=\"_blank\">Delhi launches India’s first city-centric AI innovation movement to prepare students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM2RwRHFmUDhkeWJaeGZGVkFPQmkwTTMzZUlPcG8tWXFhNU5YNGs0SzhUdTg3Y0w0N2pMQmR4NTA5cTZxZXU1TmxNMzlmZllqTGgxSVA2S2l1LV82ZmxrMFBSZjcxTEFUaUhENmkzaGdrXy1ybFZRdk16ZWlMeThJN0NjOXIxQzRnSFYxN2R4RlhZRWZGN1NndEV1Si1GY3VCdFhGZ0lyVUlGWHZZLTlxVEgzLUQ4X3RucG4tUkFkbkxyWkRYeDd2Y3l4WEc5MTZiT3p5RFQ2Z9IB3gFBVV95cUxNeUlra2JtMlY0Uzg4TEI1TWNLTWgydkxDWFVvQU9kV2JpY284NWJUMzlJdGhhMlZLaGx3RGR6Q0k3U1FNT292MzBFdW1BLTNnQVpwTUptZml4Um9tZ0Z6R01UYUkySTFXYlBZOVJ3RFBRdUE5aWduNEZ6SE41Qkd2R3Q3WTUwZ3BqRWtYVjBHcTZnNDA2bUJXdE1Wckoxd3VPUFpNcmNDNGR2NEFJa0NyMEwtVTZPYjZVWXkyNnkyN0xGWWk2cXlLX2N4SXByVzNFTXVZMGM2cl9tWnpzWlE?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Sun, 07 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI Impact Summit to yield minimum 15 deliverables, says IT Ministry official",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUW93TS02RmZhSkVWUFNsdXp2MmFteUpSUjZCVWlZalI5RnBoZldJR2JuNDhQSExUTE1oQVNHU2E0QVFZb0FRaUphX3pGaWxpVFZUN0FOU0ZuTklKWmFOQjc1MDBVUUxXZ2JfdThqUEZTSkt3TWdwTko3NnRRd2JYNmNZOUhUcWtuT3BGbGtWbW9uTWtUR3BMWlZfTlppN0ZfSjhwLTQ2bmNJcTlyMnBjbjZwRVZhV2xUaUlwYmpxR2RWV2Y4U1Z5WFp4d0lhaDDSAdYBQVVfeXFMTlJnYm1SRGRqNklrSHpadzZvNzRfTjdTcFNtUldzTERRaVF5UEZUUVFwQ0NUcTNlaU53SDlIWkpiNEJPRUJ4Q2ZrcFU4N0tUdHdmVkNncV9Ec3g4Y3VxLW1Jd0NJY0hweGR1OHJXMGw3blB1RS1fVXZVWUw2V2R4R3J1RWplMThzZVc4VWtSTTJ1SGNjdGNpc2hiU0VhdGRDMWsxdFVfT1RtOUtnV2ttZVNBM3RZZFNTaVZ6c0s4dURuZ0Q0cWRnUUpNSHhNdlRuUHZ2SlFiZw?oc=5\" target=\"_blank\">AI Impact Summit to yield minimum 15 deliverables, says IT Ministry official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUW93TS02RmZhSkVWUFNsdXp2MmFteUpSUjZCVWlZalI5RnBoZldJR2JuNDhQSExUTE1oQVNHU2E0QVFZb0FRaUphX3pGaWxpVFZUN0FOU0ZuTklKWmFOQjc1MDBVUUxXZ2JfdThqUEZTSkt3TWdwTko3NnRRd2JYNmNZOUhUcWtuT3BGbGtWbW9uTWtUR3BMWlZfTlppN0ZfSjhwLTQ2bmNJcTlyMnBjbjZwRVZhV2xUaUlwYmpxR2RWV2Y4U1Z5WFp4d0lhaDDSAdYBQVVfeXFMTlJnYm1SRGRqNklrSHpadzZvNzRfTjdTcFNtUldzTERRaVF5UEZUUVFwQ0NUcTNlaU53SDlIWkpiNEJPRUJ4Q2ZrcFU4N0tUdHdmVkNncV9Ec3g4Y3VxLW1Jd0NJY0hweGR1OHJXMGw3blB1RS1fVXZVWUw2V2R4R3J1RWplMThzZVc4VWtSTTJ1SGNjdGNpc2hiU0VhdGRDMWsxdFVfT1RtOUtnV2ttZVNBM3RZZFNTaVZ6c0s4dURuZ0Q0cWRnUUpNSHhNdlRuUHZ2SlFiZw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sat, 14 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Seven Chakras of the India–AI Impact Summit 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbEpsMGFfUFZRZy1LTzV6Z0hnSnBCOVBtMmZVNS02MmZ2Q1kzbEhqZFJNaGVjQ0RQeXBaeDBJT0xpc3JONWtNb0FlVmxwbHBZbVdCSlE4NW5uTzF0SklrSGF4M1hSTWpDeTY4Tl9ETjVJRUhtQjg3ODBR?oc=5\" target=\"_blank\">Seven Chakras of the India–AI Impact Summit 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LbEpsMGFfUFZRZy1LTzV6Z0hnSnBCOVBtMmZVNS02MmZ2Q1kzbEhqZFJNaGVjQ0RQeXBaeDBJT0xpc3JONWtNb0FlVmxwbHBZbVdCSlE4NW5uTzF0SklrSGF4M1hSTWpDeTY4Tl9ETjVJRUhtQjg3ODBR?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Sun, 08 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "China set to attend India's upcoming AI summit signaling improving relations with New Delhi",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXNoNHo2eVkyNG03dVlMajFVX0NkSDMtdFcyVjZpNHRIdGhSWVFiLVZaX2ZScmE5dVBndEs0ZkJ2RnlCZFJGNWNuU2dLQVN1VWhTVXZTRzZObTdSYlh4ZXd2Z0VDZS05TXB5QXY0emJUdV9KZkRBX1V6Z0ZTSkdKcDJDcW8xUnlXdXkwVm43X1ZKMzJxajJONNIBngFBVV95cUxPNEFsR1hvaTdiTUZ1cFhCbmVpN3pXaTdTX0RkVFQzQl9Gd0haOVpFVEFJWERZZ0JfbDhVdFNsdHljMUFmdGdHZlJ0YlpKOVJ5aVFUS25lTzR2bHVHLWVrU0lQOXJWV0tuZ3U2UmhUbEZJdS1PR3gzVEVFWFJwRzZJSTE0UE1iRGNqa3FhX1lrTmlGSlhGV1doQ0tfOWwzdw?oc=5\" target=\"_blank\">China set to attend India's upcoming AI summit signaling improving relations with New Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXNoNHo2eVkyNG03dVlMajFVX0NkSDMtdFcyVjZpNHRIdGhSWVFiLVZaX2ZScmE5dVBndEs0ZkJ2RnlCZFJGNWNuU2dLQVN1VWhTVXZTRzZObTdSYlh4ZXd2Z0VDZS05TXB5QXY0emJUdV9KZkRBX1V6Z0ZTSkdKcDJDcW8xUnlXdXkwVm43X1ZKMzJxajJONNIBngFBVV95cUxPNEFsR1hvaTdiTUZ1cFhCbmVpN3pXaTdTX0RkVFQzQl9Gd0haOVpFVEFJWERZZ0JfbDhVdFNsdHljMUFmdGdHZlJ0YlpKOVJ5aVFUS25lTzR2bHVHLWVrU0lQOXJWV0tuZ3U2UmhUbEZJdS1PR3gzVEVFWFJwRzZJSTE0UE1iRGNqa3FhX1lrTmlGSlhGV1doQ0tfOWwzdw?oc=5",
+   "source_name": "CNBC",
+   "source_domain": "cnbc.com",
+   "published_raw": "Tue, 03 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "AI Impact Summit 2026 begins on February 16; Modi to inaugurate an India AI Expo",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjg1amp4VkQ0c1dJSkNNZFhCanRtMnR2OVNSTGc4OHJZYXhBRU5XYW8zdU5CYm1UdDNXWjU0VE1rWnpOY3M1b19BY1JlZzJQVDZBNE1iVDAwMnk0UWlzRk9wcDdHblZmaGgxWF8wYnA3VG45WUU5LXBjTDM4VEwyV0R1TElQQ3VZM0pYZlQ1S3Q1OGlORGJNR1N4NV9sX1RJcG1qUk9fU1Fpb3I1aENLN1Nkb0F0TnfSAb4BQVVfeXFMTlNDMDVPNjZRZGlKc0RhMkNlUDU5UmRFa2k4bjIyX29Bb0RGaXFRSGFkUTNyYXUwYW9RazlqdHQyaC1oT0tDQjliMHZnUzJubDlhU19uZ29kMXJwc3NYVnhjWEFLaTBlTlhlQ1VUZWQ4YVhBRzh4WXdpcGUzY1lWaktUVEIwaTJqWXUtWERjbTd4N1RfaEFoWXhlbEtQTXpoYTVYQzhpVHhmcTJhZVE2ODI0ajJSdTJWMWhGSkY0dw?oc=5\" target=\"_blank\">AI Impact Summit 2026 begins on February 16; Modi to inaugurate an India AI Expo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjg1amp4VkQ0c1dJSkNNZFhCanRtMnR2OVNSTGc4OHJZYXhBRU5XYW8zdU5CYm1UdDNXWjU0VE1rWnpOY3M1b19BY1JlZzJQVDZBNE1iVDAwMnk0UWlzRk9wcDdHblZmaGgxWF8wYnA3VG45WUU5LXBjTDM4VEwyV0R1TElQQ3VZM0pYZlQ1S3Q1OGlORGJNR1N4NV9sX1RJcG1qUk9fU1Fpb3I1aENLN1Nkb0F0TnfSAb4BQVVfeXFMTlNDMDVPNjZRZGlKc0RhMkNlUDU5UmRFa2k4bjIyX29Bb0RGaXFRSGFkUTNyYXUwYW9RazlqdHQyaC1oT0tDQjliMHZnUzJubDlhU19uZ29kMXJwc3NYVnhjWEFLaTBlTlhlQ1VUZWQ4YVhBRzh4WXdpcGUzY1lWaktUVEIwaTJqWXUtWERjbTd4N1RfaEFoWXhlbEtQTXpoYTVYQzhpVHhmcTJhZVE2ODI0ajJSdTJWMWhGSkY0dw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Govt. will empower every student, school, community with AI: Delhi CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWRtblpvY3ZjbXhBMGE2OEVCWGMxQXJKUy1pVVZLcW9XMzVKTzZzckdqQjdqb3JnNFhmdE9nMHdGRHlDTDFjMVJFQW1xZ0FvVFcwRDFJQlBQNlAzZVg4N0pLaGpZeFpwOUdEQlNSbWVncWZFcG1nNnhsMGdwandTMU1LZWVjLTdxU1NDaVpwbkVsX0ZuVmNpTVpwVGlWaTNrVXliYlRvOXRYM1V5R2p3MU4wOGNqMEFGRUc3S0hRbkkwREtSTkVJ0gHOAUFVX3lxTE1xcm5SN0tha1g5V1ZlcHItbnN5MXQzOHZmMlA3b19taExuZkF6Z2JMN3ByVUkzQjVfVXlqemQ0eTQ3TFp6ZU9UZWxYd09JcXdFQ0NVSHZ4cmdvb1pfd1p3TEtOSTl4VUxaeW9PVFVOS1docGlyVDhZXy1mR3RhRWFrQUw4WE9xM05Dck4xal9uNlBBZUs3RThnck1sZUVPZ0dWVmkyYkZPZ0tNT25sMEJiS2wwR1poWGtxMjJJS0F5V1A2emYwMVBKbzZraFBn?oc=5\" target=\"_blank\">Govt. will empower every student, school, community with AI: Delhi CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWRtblpvY3ZjbXhBMGE2OEVCWGMxQXJKUy1pVVZLcW9XMzVKTzZzckdqQjdqb3JnNFhmdE9nMHdGRHlDTDFjMVJFQW1xZ0FvVFcwRDFJQlBQNlAzZVg4N0pLaGpZeFpwOUdEQlNSbWVncWZFcG1nNnhsMGdwandTMU1LZWVjLTdxU1NDaVpwbkVsX0ZuVmNpTVpwVGlWaTNrVXliYlRvOXRYM1V5R2p3MU4wOGNqMEFGRUc3S0hRbkkwREtSTkVJ0gHOAUFVX3lxTE1xcm5SN0tha1g5V1ZlcHItbnN5MXQzOHZmMlA3b19taExuZkF6Z2JMN3ByVUkzQjVfVXlqemQ0eTQ3TFp6ZU9UZWxYd09JcXdFQ0NVSHZ4cmdvb1pfd1p3TEtOSTl4VUxaeW9PVFVOS1docGlyVDhZXy1mR3RhRWFrQUw4WE9xM05Dck4xal9uNlBBZUs3RThnck1sZUVPZ0dWVmkyYkZPZ0tNT25sMEJiS2wwR1poWGtxMjJJS0F5V1A2emYwMVBKbzZraFBn?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Mon, 08 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Transforming Healthcare Delivery Through Artificial Intelligence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5\" target=\"_blank\">Transforming Healthcare Delivery Through Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaGNiLVdsYmtwYm50aDRvZk5WVXpuU2tqUDFrdjMyT20yTkRvQWs1cXRlSEFPZXBMMnRadlA4Nlg0a3BvSGFXejlyUE5ZSEg0bFFrS3JSZ3dIaEFGY1JwXzZoWllnMWU0?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Fri, 13 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Democratising AI in India",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8tWDE0aDI4QVVqTDBzM1I0aF9rY21vVGVTNUEtT1paMk5GRVUzSXk5THRCOFB3X2ZvbTQ1M2RRN1J6Q09JOVEyRnlPNHdIQWZyV2ZRcXpHS3pVbWdxbjZHeDljaFY0LVJSeDVvZ0ZWcWFxWUhQMTdDbmZn?oc=5\" target=\"_blank\">Democratising AI in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tWDE0aDI4QVVqTDBzM1I0aF9rY21vVGVTNUEtT1paMk5GRVUzSXk5THRCOFB3X2ZvbTQ1M2RRN1J6Q09JOVEyRnlPNHdIQWZyV2ZRcXpHS3pVbWdxbjZHeDljaFY0LVJSeDVvZ0ZWcWFxWUhQMTdDbmZn?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Tue, 10 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Using AI, school students can become part of Delhi's problem-solving ecosystem. Here's how",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYjhhdFZFY1JUd084b2FSTVl1aHFIUW9lN2w1eDZUU2I0VkEwNENScHhDZHpOcEFKZ0lmMEs0OWxUaGdlQ0x3M3NvZlpXaklUbUsyZ25nenJuSEpWWHVTQU9COUVpbDRhT2JqVWhDZlkxNGNWdkFyY0V6alhHLTR3Q0gwN05Zc21QYkdWVnVLd1Z3VGZwb1FPSkxxTzZaQVk3enY3WFM1Z0lMQVVUSnNLT3hmdmhyZ0VvTnQ2cWx2UmROWkZJYmZGdElKUFlqVnVXVTNpTVlFNU9MMGdRM3A3cXhyelZPVDQyOHplWVNtVdIB9AFBVV95cUxOSnItcjQyNkxCMnAzc0I4ZWp1b3ZzaHFtc0M0NDkxOV9IbTQ0TmxiUXJkTGxHOTZ1QVprN3lSQTVWNlFPWTNmSmVHb21BZE5lTFVFWXFvend3NElEYVIzdTdDTGtfWmx2TEw2VUtaaU1wY01QSjduemprN21nbUFBMkNZVTJjTXdWWVQ3VWVkakEtVDBhRTJSU00wMFhMYVNLT1YyXzgyenFqemxxeWhWY285VkJnSXVDWDI4bTc2d2ZfSmNseHMzZWNDUW93a1JSUEtCNFR5OVREa0RxYXVoR1VycDAxNU5ITi1PblprRmFKeWg3?oc=5\" target=\"_blank\">Using AI, school students can become part of Delhi's problem-solving ecosystem. Here's how</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYjhhdFZFY1JUd084b2FSTVl1aHFIUW9lN2w1eDZUU2I0VkEwNENScHhDZHpOcEFKZ0lmMEs0OWxUaGdlQ0x3M3NvZlpXaklUbUsyZ25nenJuSEpWWHVTQU9COUVpbDRhT2JqVWhDZlkxNGNWdkFyY0V6alhHLTR3Q0gwN05Zc21QYkdWVnVLd1Z3VGZwb1FPSkxxTzZaQVk3enY3WFM1Z0lMQVVUSnNLT3hmdmhyZ0VvTnQ2cWx2UmROWkZJYmZGdElKUFlqVnVXVTNpTVlFNU9MMGdRM3A3cXhyelZPVDQyOHplWVNtVdIB9AFBVV95cUxOSnItcjQyNkxCMnAzc0I4ZWp1b3ZzaHFtc0M0NDkxOV9IbTQ0TmxiUXJkTGxHOTZ1QVprN3lSQTVWNlFPWTNmSmVHb21BZE5lTFVFWXFvend3NElEYVIzdTdDTGtfWmx2TEw2VUtaaU1wY01QSjduemprN21nbUFBMkNZVTJjTXdWWVQ3VWVkakEtVDBhRTJSU00wMFhMYVNLT1YyXzgyenFqemxxeWhWY285VkJnSXVDWDI4bTc2d2ZfSmNseHMzZWNDUW93a1JSUEtCNFR5OVREa0RxYXVoR1VycDAxNU5ITi1PblprRmFKeWg3?oc=5",
+   "source_name": "ET Enterprise AI",
+   "source_domain": "enterpriseai.economictimes.indiatimes.com",
+   "published_raw": "Sat, 06 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Delhi AI Grind: Delhi Government Introduces New AI Initiative for Students from Class 6 Onwards",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVdRV1FrM0R4VnB2MXpjZXJIU29HR1E3eHp0Z0hQV0hXaGhnNVQ4a1g5SnRTVEFMdUpVZEd2N0pJQjZuSGhnZmZ3azdPemJwNEhxNjJjU1gzcklvZkxucEk4MWFWbVY0cEc2Tm5tT0RLQWhzVlBzZUVCU09Ub1M0SjBzdWo5Y0xlc2w5dTVxWVFtNjVOaW1vNVkwSWZfcFJRbHlYSml5V0xzZmdKX1E1VC1NbTk0NGZfZUx5ZDh6Nk93N1hOeDdn?oc=5\" target=\"_blank\">Delhi AI Grind: Delhi Government Introduces New AI Initiative for Students from Class 6 Onwards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">College Mentor</font>",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVdRV1FrM0R4VnB2MXpjZXJIU29HR1E3eHp0Z0hQV0hXaGhnNVQ4a1g5SnRTVEFMdUpVZEd2N0pJQjZuSGhnZmZ3azdPemJwNEhxNjJjU1gzcklvZkxucEk4MWFWbVY0cEc2Tm5tT0RLQWhzVlBzZUVCU09Ub1M0SjBzdWo5Y0xlc2w5dTVxWVFtNjVOaW1vNVkwSWZfcFJRbHlYSml5V0xzZmdKX1E1VC1NbTk0NGZfZUx5ZDh6Nk93N1hOeDdn?oc=5",
+   "source_name": "College Mentor",
+   "source_domain": "collegementor.com",
+   "published_raw": "Sat, 06 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "Faster grievance redressal for public, data-driven insights for officials: Delhi govt set to launch AI-enabled platform in collaboration with IIT Kanpur",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnhJUllhUTNyOENlc2xzd2xheXJnbC10c3FEMWhaRkM1bENaV3Y4aktocEtGZGR4VXlyeTFRTjJPVGVCV3d6OXNqX1k3MU9GY2J3TlE5ZkYyOFpLc1hYWHRhUnNXSWlsNWRjWmdDRmJXaWRwWm04TExRN210YjlXSXc3cFNSZ01mWmFJWHNPUlhZelJyUjJOemgxUVBlRmFMTmZDc1hDWldlNWRZeU5VM0FDeGFqSUI0TlpqNFkwYUFYMVHSAcoBQVVfeXFMT1ZwSUhMRGxWWXN3S1BYdk1EMGJCR3ZqUHFlMnBaZlREYlk3Y09EOENyRDBVWjlSN0FZdzR5NDQ2aDZ2YjRCeUZ3a29Kb1JqTjE5TzJneWRPZG1heUt4VkxaU0RtWWlwNjhWSDQ1blhHMUJ3dG5POW5OTk5CUFNVZmkyVzdSMkxpcXJaVFE1amd2RmJoWmdwRzRmeTdpYnZxV0J1U0txM3pmclB3VU9zb04xNDh0N3YzeUI1dFNheXpRZ28zWnRsNnZnQQ?oc=5\" target=\"_blank\">Faster grievance redressal for public, data-driven insights for officials: Delhi govt set to launch AI-enabled platform in collaboration with IIT Kanpur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnhJUllhUTNyOENlc2xzd2xheXJnbC10c3FEMWhaRkM1bENaV3Y4aktocEtGZGR4VXlyeTFRTjJPVGVCV3d6OXNqX1k3MU9GY2J3TlE5ZkYyOFpLc1hYWHRhUnNXSWlsNWRjWmdDRmJXaWRwWm04TExRN210YjlXSXc3cFNSZ01mWmFJWHNPUlhZelJyUjJOemgxUVBlRmFMTmZDc1hDWldlNWRZeU5VM0FDeGFqSUI0TlpqNFkwYUFYMVHSAcoBQVVfeXFMT1ZwSUhMRGxWWXN3S1BYdk1EMGJCR3ZqUHFlMnBaZlREYlk3Y09EOENyRDBVWjlSN0FZdzR5NDQ2aDZ2YjRCeUZ3a29Kb1JqTjE5TzJneWRPZG1heUt4VkxaU0RtWWlwNjhWSDQ1blhHMUJ3dG5POW5OTk5CUFNVZmkyVzdSMkxpcXJaVFE1amd2RmJoWmdwRzRmeTdpYnZxV0J1U0txM3pmclB3VU9zb04xNDh0N3YzeUI1dFNheXpRZ28zWnRsNnZnQQ?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Delhi",
+   "title": "India plans AI ‘data city’ on staggering scale",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BSUpQX25jbERFX3lLcVZUaWY3U3VvRmJYQ2o5TDdaZ0ZZM1ZTSk05R2EzUWlKbHpRTjl0NWU3QU56Sml6VDdORmM0LUdWXzRCNno2U0NudkdWeTBLS18xdVVDZncwaXdydjc5MHBSTDBIbzV5d1pWZEVVakdWdw?oc=5\" target=\"_blank\">India plans AI ‘data city’ on staggering scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BSUpQX25jbERFX3lLcVZUaWY3U3VvRmJYQ2o5TDdaZ0ZZM1ZTSk05R2EzUWlKbHpRTjl0NWU3QU56Sml6VDdORmM0LUdWXzRCNno2U0NudkdWeTBLS18xdVVDZncwaXdydjc5MHBSTDBIbzV5d1pWZEVVakdWdw?oc=5",
+   "source_name": "The Japan Times",
+   "source_domain": "japantimes.co.jp",
+   "published_raw": "Sun, 15 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:38+00:00"
+  }
+ ]
+}

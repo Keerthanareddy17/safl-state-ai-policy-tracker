@@ -1,0 +1,109 @@
+{
+ "region": "Meghalaya",
+ "group": "A",
+ "query": "(Meghalaya) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Meghalaya%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:44:29+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "MIT University of Meghalaya partners with Bengaluru-based Flo101 tech labs to advance AI-enabled learning in..",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNkZGQVBoTFVCN1Y2aTAxZWNwTEZPb2E2Z0pFVjdXanBhRkUyd3BxT3V0Sjl3QzRwajZnVG9JQVBvbzdfYklLQzNWeFMwX21vd1ljMXp2ZGZMRk9jMkphR1dtZXZRNFFnNzhOaFZKckV6M2xIemZjcVJvdUNjQmhENEptYXNfOTI5NnVLLVZjZExpVVhuVzdxYTVSWHNLZk0wQVdkb2lvb2lmRHd3ZVJiaFctVWVLZFBzRTdvY0gzSUdGX29keEJLTWN4VS03Vk91WFQ5V0lQeVd5Rjd0bmsyVFlTdnNMOVVad0pYcmRxOVdzZ2JSTmNyTzNHcUTSAYACQVVfeXFMTVBpSVE2TEtTX1E3Q0EzWTNybEpreExhS1J1SW1WUzBwWmhMM3A1b3ZOQmJRZzM4WTB0U2pCLVhtRF9UTDdwLW5yRmt6QXRjYnNObWMyOUxmV3Q3OEl1R21Ca0U1M2Z6YS03UkF4MEM0UFhwTVJrdURHWUpTbUxObFVXOE5mU1dmMUR5Ni0yN3hYSWxjV3dNU2JCbjVoUVhia2tHMHVqc2h6ZVFwVnFEaTdQdGNBWVN2d0JGWW5oSFBqVDVVTDFWRkNjOUpZMXVPUHlpWWdMOXY3X2hseENadEpSN0l4Q2lGekJpSVdfOVlYUzYzN1p4UjFXNU52aURsZA?oc=5\" target=\"_blank\">MIT University of Meghalaya partners with Bengaluru-based Flo101 tech labs to advance AI-enabled learning in..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNkZGQVBoTFVCN1Y2aTAxZWNwTEZPb2E2Z0pFVjdXanBhRkUyd3BxT3V0Sjl3QzRwajZnVG9JQVBvbzdfYklLQzNWeFMwX21vd1ljMXp2ZGZMRk9jMkphR1dtZXZRNFFnNzhOaFZKckV6M2xIemZjcVJvdUNjQmhENEptYXNfOTI5NnVLLVZjZExpVVhuVzdxYTVSWHNLZk0wQVdkb2lvb2lmRHd3ZVJiaFctVWVLZFBzRTdvY0gzSUdGX29keEJLTWN4VS03Vk91WFQ5V0lQeVd5Rjd0bmsyVFlTdnNMOVVad0pYcmRxOVdzZ2JSTmNyTzNHcUTSAYACQVVfeXFMTVBpSVE2TEtTX1E3Q0EzWTNybEpreExhS1J1SW1WUzBwWmhMM3A1b3ZOQmJRZzM4WTB0U2pCLVhtRF9UTDdwLW5yRmt6QXRjYnNObWMyOUxmV3Q3OEl1R21Ca0U1M2Z6YS03UkF4MEM0UFhwTVJrdURHWUpTbUxObFVXOE5mU1dmMUR5Ni0yN3hYSWxjV3dNU2JCbjVoUVhia2tHMHVqc2h6ZVFwVnFEaTdQdGNBWVN2d0JGWW5oSFBqVDVVTDFWRkNjOUpZMXVPUHlpWWdMOXY3X2hseENadEpSN0l4Q2lGekJpSVdfOVlYUzYzN1p4UjFXNU52aURsZA?oc=5",
+   "source_name": "ET Education",
+   "source_domain": "education.economictimes.indiatimes.com",
+   "published_raw": "Fri, 08 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "RNIT AI Solutions Secures Paid Pilot Order from Meghalaya Government for AI Face Recognition System Integration",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPWU5SM09NZk9oMHNVNy0tVlJWekxnMlQyR0s3dzJDcVl1UEhqeDA4MnNVNmp6MjktNWtXM3Q2cDhldFgzU3hlR3RYVkFDYnJuVjhURFp1WG5MTWtub2xOWHBGZHllMENsVjlyWjk1VlRzQWV1UzNGa3A1azZ6V0JoSHBxWmxSMGtvTmZyd01nazRISXR6ZVE4R01QMnNYUmc1a1g1bzFXVlQ4eVRqZG1KWWNuNkRsZUlXWjhVSmZaUEpXUWNGT2dDQzBTa19vX19KMDJqcHIzbkRXb1E2alRlaDdyZGZGejQ5U0NTZFhGbXlOLWQ5bExSUm1fWkczTnR4?oc=5\" target=\"_blank\">RNIT AI Solutions Secures Paid Pilot Order from Meghalaya Government for AI Face Recognition System Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWU5SM09NZk9oMHNVNy0tVlJWekxnMlQyR0s3dzJDcVl1UEhqeDA4MnNVNmp6MjktNWtXM3Q2cDhldFgzU3hlR3RYVkFDYnJuVjhURFp1WG5MTWtub2xOWHBGZHllMENsVjlyWjk1VlRzQWV1UzNGa3A1azZ6V0JoSHBxWmxSMGtvTmZyd01nazRISXR6ZVE4R01QMnNYUmc1a1g1bzFXVlQ4eVRqZG1KWWNuNkRsZUlXWjhVSmZaUEpXUWNGT2dDQzBTa19vX19KMDJqcHIzbkRXb1E2alRlaDdyZGZGejQ5U0NTZFhGbXlOLWQ5bExSUm1fWkczTnR4?oc=5",
+   "source_name": "scanx.trade",
+   "source_domain": "scanx.trade",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya Budget Session: State on track to triple its economy by 2032, says Governor Vijayashankar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXliQ3VYUXRZSjAtbFJ0U0NLTWZNUUFXZDNuVU9CNEJQWHdPbXB0TE5PSlU2OXZydFU4RW9Ed1o0SGRSeHlXNlZYUWpScWtxVGtmdGhNUzkwQ2RwcncxNDBWQkRKdUotUzVYVVBnbFVFTUR3cXhtb0RRWmFteVpwaEJIU3M2N1hLaUpTOWxzQ1dRNjRkQTdZcEFvTk5ocWF4bElZRGFHaGJLU2dPOFJTNkVibkFqbzBmVkxHbl85Rm1QQ3I00gHLAUFVX3lxTFBOTTVPTWxiOThsTXM5dTgwX09falpJajl5X3VKX25zREVWNHAwaU1VTDRZTXdXMjJNbVlPQzR2MzNwdFhiYjhycGpPZFNZeDdzUmp2V0tmMHdTS3VTUnNwcHpwb29RUDdIVXZQYWVfX21rMFJYc0t3djdKZ3p0ZkZxNlI5NHNZMGtMUF8wMXFsaHpPMVc4bjF2b2x0YmM1OXBuYkp3bGdXSVJfMjhYempHbmFoUkVXWk8tSVJqQUpFQXlNZUJ1dTdZeUlJ?oc=5\" target=\"_blank\">Meghalaya Budget Session: State on track to triple its economy by 2032, says Governor Vijayashankar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXliQ3VYUXRZSjAtbFJ0U0NLTWZNUUFXZDNuVU9CNEJQWHdPbXB0TE5PSlU2OXZydFU4RW9Ed1o0SGRSeHlXNlZYUWpScWtxVGtmdGhNUzkwQ2RwcncxNDBWQkRKdUotUzVYVVBnbFVFTUR3cXhtb0RRWmFteVpwaEJIU3M2N1hLaUpTOWxzQ1dRNjRkQTdZcEFvTk5ocWF4bElZRGFHaGJLU2dPOFJTNkVibkFqbzBmVkxHbl85Rm1QQ3I00gHLAUFVX3lxTFBOTTVPTWxiOThsTXM5dTgwX09falpJajl5X3VKX25zREVWNHAwaU1VTDRZTXdXMjJNbVlPQzR2MzNwdFhiYjhycGpPZFNZeDdzUmp2V0tmMHdTS3VTUnNwcHpwb29RUDdIVXZQYWVfX21rMFJYc0t3djdKZ3p0ZkZxNlI5NHNZMGtMUF8wMXFsaHpPMVc4bjF2b2x0YmM1OXBuYkp3bGdXSVJfMjhYempHbmFoUkVXWk8tSVJqQUpFQXlNZUJ1dTdZeUlJ?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya’s IT hub grows as NASSCOM Meet gets first firm for Shillong Tech Park-II",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORnQ2SzZNS1Jxa2szcGdld3RSTU9hVFF2d3ZlX2MzQzlxaGhLN3N5MWZsMFREaE5hMGt3OVoySGo2ZS1WWVpCQmlHVWhTaHVFNFBrbWtNR1RrbFJwbUlUUHVaUmVOQVNLQjh6UzhvVGdlN2JsVzRaWXYzRTZrT2hDV0MtTTMtVWZUX1FQR2pEaVA0bEVfRVBEWFJLS2Y5VlBVRWlUYVFEOXJfZi1DdVhVdTZWQ0M1QQ?oc=5\" target=\"_blank\">Meghalaya’s IT hub grows as NASSCOM Meet gets first firm for Shillong Tech Park-II</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Meghalayan Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnQ2SzZNS1Jxa2szcGdld3RSTU9hVFF2d3ZlX2MzQzlxaGhLN3N5MWZsMFREaE5hMGt3OVoySGo2ZS1WWVpCQmlHVWhTaHVFNFBrbWtNR1RrbFJwbUlUUHVaUmVOQVNLQjh6UzhvVGdlN2JsVzRaWXYzRTZrT2hDV0MtTTMtVWZUX1FQR2pEaVA0bEVfRVBEWFJLS2Y5VlBVRWlUYVFEOXJfZi1DdVhVdTZWQ0M1QQ?oc=5",
+   "source_name": "The Meghalayan Express",
+   "source_domain": "themeghalayanexpress.com",
+   "published_raw": "Thu, 14 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya signs first tenant for Shillong Technology Park-II as NASSCOM meet pushes digital economy vision",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjhjeEpVYk9DZnNaVGVIUWhodm95V3J2T1RXSFp4NVhoclpldWZYS1hjT3JET0hBYy04bmJOM0hrZlkybzlmTXVSVExZQjBQWmlNeXpFdm5YMnhDMlpjMjZjR1hqQkxOV1I0bXhzVjBhY3dIQ2hNR1hVcmQtbGs2Q2tWb29vaDhmYmVuMUpvcEJVX3A5VllsN3JwQWZyQ3RFRlJUbi1CeXZrODZHRjl6UUJxbHlJM0V6M0xKNVhmZjJZNmtRQlRBNmJn?oc=5\" target=\"_blank\">Meghalaya signs first tenant for Shillong Technology Park-II as NASSCOM meet pushes digital economy vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syllad</font>",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjhjeEpVYk9DZnNaVGVIUWhodm95V3J2T1RXSFp4NVhoclpldWZYS1hjT3JET0hBYy04bmJOM0hrZlkybzlmTXVSVExZQjBQWmlNeXpFdm5YMnhDMlpjMjZjR1hqQkxOV1I0bXhzVjBhY3dIQ2hNR1hVcmQtbGs2Q2tWb29vaDhmYmVuMUpvcEJVX3A5VllsN3JwQWZyQ3RFRlJUbi1CeXZrODZHRjl6UUJxbHlJM0V6M0xKNVhmZjJZNmtRQlRBNmJn?oc=5",
+   "source_name": "Syllad",
+   "source_domain": "syllad.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya Hanuman mandir attacked: Miscreants vandalise Shillong temple, loot idols & jewellery",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVW1oQU9fWGlsdVo3NjNXcG4yN2hseEpyNXUxRkVIR0p5YkotbUVCQm5DRU9UVWRzSmpmTVlCZVY3a0lTeFdFakJZUzRNdzBMUlVlZ3BCYW9VMVNseHBuUEJZSHJMRjhWaWd0ai1GT3pZbXU5UEtXMzV4SjRyUWFTMmV3UGFVeDNoampaR1pqbXJtQ0sxOTdLTUZOdDNOV3Vpd1o0WWcwSnQ1U2I3TWdVbnozZy1Wc0hXT1lmRmZRZUVBSGUxTGhjOXZqZVFGVXY3VUdncld1VXFSZi1RNDRNN2JOcU4yV0Q3QnFSdkcwSm9Bb3o10gH6AUFVX3lxTE9wQjluZEpXbml5U3Y1b2pmUDNQeFA2MGZkV0s1Vzl6OW96Q3ZXTzVWMW9hWGs2ZTFHbzM2QUlwMGFoYWJRaHpCUWhaUGFnQUhPSThOR0VCQzl4cFFoME5hUUdzZ3Z4ZDBYN001U01PdTBFWENTd0ItZmNaR2tlM20wNjhYNFA3UnpndnU2dTFrVkp3M2pwaWdGbGt3dFlVZVp3TnpJQUNFNm1yNHpxWTJudFZJT2trNldCWTd4ODFxZmx2R1o1Rkt3WGk0Q2pscy1xSWlIeTZwOXd5TV9LbW11RldXVFN4NjZzX0NoMTZvQ0F6LUcxRFB2d3c?oc=5\" target=\"_blank\">Meghalaya Hanuman mandir attacked: Miscreants vandalise Shillong temple, loot idols & jewellery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVW1oQU9fWGlsdVo3NjNXcG4yN2hseEpyNXUxRkVIR0p5YkotbUVCQm5DRU9UVWRzSmpmTVlCZVY3a0lTeFdFakJZUzRNdzBMUlVlZ3BCYW9VMVNseHBuUEJZSHJMRjhWaWd0ai1GT3pZbXU5UEtXMzV4SjRyUWFTMmV3UGFVeDNoampaR1pqbXJtQ0sxOTdLTUZOdDNOV3Vpd1o0WWcwSnQ1U2I3TWdVbnozZy1Wc0hXT1lmRmZRZUVBSGUxTGhjOXZqZVFGVXY3VUdncld1VXFSZi1RNDRNN2JOcU4yV0Q3QnFSdkcwSm9Bb3o10gH6AUFVX3lxTE9wQjluZEpXbml5U3Y1b2pmUDNQeFA2MGZkV0s1Vzl6OW96Q3ZXTzVWMW9hWGs2ZTFHbzM2QUlwMGFoYWJRaHpCUWhaUGFnQUhPSThOR0VCQzl4cFFoME5hUUdzZ3Z4ZDBYN001U01PdTBFWENTd0ItZmNaR2tlM20wNjhYNFA3UnpndnU2dTFrVkp3M2pwaWdGbGt3dFlVZVp3TnpJQUNFNm1yNHpxWTJudFZJT2trNldCWTd4ODFxZmx2R1o1Rkt3WGk0Q2pscy1xSWlIeTZwOXd5TV9LbW11RldXVFN4NjZzX0NoMTZvQ0F6LUcxRFB2d3c?oc=5",
+   "source_name": "The Economic Times",
+   "source_domain": "m.economictimes.com",
+   "published_raw": "Sun, 10 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya Joins Jal Jeevan Mission 2.0 Reform Framework",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPd291alJKWkF1eVNBWFpYRVphcXh4TE95cmNFSTFnVnF5UUtaS295VUhzZDhBT04zZkxqMjBmN25mVmhaaW42NVhuQ1liWTQ5WnV4Y3pxakZES29RXzlzel9kV0Z6RlUzdDhNNThabXJrWGM0dWFIRWUtUDdZbHMyeTV6NnVYZw?oc=5\" target=\"_blank\">Meghalaya Joins Jal Jeevan Mission 2.0 Reform Framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GK Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd291alJKWkF1eVNBWFpYRVphcXh4TE95cmNFSTFnVnF5UUtaS295VUhzZDhBT04zZkxqMjBmN25mVmhaaW42NVhuQ1liWTQ5WnV4Y3pxakZES29RXzlzel9kV0Z6RlUzdDhNNThabXJrWGM0dWFIRWUtUDdZbHMyeTV6NnVYZw?oc=5",
+   "source_name": "GK Today",
+   "source_domain": "gktoday.in",
+   "published_raw": "Sat, 28 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Meghalaya MP seeks freeze on environmental clearance process for new cement plant",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNrcXU4MmhoSWxwTUtnOVp1WDlGSWZkdXl6RlpXMGhhem9KRnhIc2R0bmpFWXBsVExFU1ROWl9HV2ZDYkJtS1p5YWttR1U2T3Fhd2VNRUpzM2FqcjNDY3hpNkdFVEFXWFBMaFMzUjhLUGoyMTI2LUhXeXVKVWh5UXBoR1FRRURISFRITmZwa3lOQ0ZNWWc1U0JMYU9XS3ZfblVOdEh1SWtUa3AyY2NlWlNYT0RCOHBOYUlhZm5kX0YyZHRLeXlTQThmOEpMUGFJN1dXMFNJaTJ6RnVlZF9vRGsxcEsyUdIB6wFBVV95cUxQemZ2MDNtMUtzcVFBV2I3OFNjZFhVS0hVUlduZ1VzRkxWTGVKQlRBb0VJYVFBaDJYczJwSVRmRzFhWUtocE5UdnhHN0lvY05xQURkd25zRjBWSFlJZUNNaURTSmNDRmlaZjZnQXcwWF9ueHZyZklFbHpUT0Zjb1B3UVpicVBuZmFydFpRdDZDT1pKWnlXMy1salEyM185ck11WEp4ejRMOTNEV2d4RDE1WjBCMm05N0JaT1l2RENpVnlGOVlTdkQ3SncyLXRQc0t3eFZXS1AyN0Q4WU4yeUd3WWF6X20xZW4wb19j?oc=5\" target=\"_blank\">Meghalaya MP seeks freeze on environmental clearance process for new cement plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYUNrcXU4MmhoSWxwTUtnOVp1WDlGSWZkdXl6RlpXMGhhem9KRnhIc2R0bmpFWXBsVExFU1ROWl9HV2ZDYkJtS1p5YWttR1U2T3Fhd2VNRUpzM2FqcjNDY3hpNkdFVEFXWFBMaFMzUjhLUGoyMTI2LUhXeXVKVWh5UXBoR1FRRURISFRITmZwa3lOQ0ZNWWc1U0JMYU9XS3ZfblVOdEh1SWtUa3AyY2NlWlNYT0RCOHBOYUlhZm5kX0YyZHRLeXlTQThmOEpMUGFJN1dXMFNJaTJ6RnVlZF9vRGsxcEsyUdIB6wFBVV95cUxQemZ2MDNtMUtzcVFBV2I3OFNjZFhVS0hVUlduZ1VzRkxWTGVKQlRBb0VJYVFBaDJYczJwSVRmRzFhWUtocE5UdnhHN0lvY05xQURkd25zRjBWSFlJZUNNaURTSmNDRmlaZjZnQXcwWF9ueHZyZklFbHpUT0Zjb1B3UVpicVBuZmFydFpRdDZDT1pKWnlXMy1salEyM185ck11WEp4ejRMOTNEV2d4RDE1WjBCMm05N0JaT1l2RENpVnlGOVlTdkQ3SncyLXRQc0t3eFZXS1AyN0Q4WU4yeUd3WWF6X20xZW4wb19j?oc=5",
+   "source_name": "ET Infra",
+   "source_domain": "infra.economictimes.indiatimes.com",
+   "published_raw": "Mon, 16 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Meghalaya",
+   "title": "Conrad Sangma highlights Japan’s role as key partner in Meghalaya’s growth push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUdFSV9IckU3S2hMSTJKZmhQY2xJVUFmYnp2QktRa2ZoaUdVSE15bDd2SlNQNWVja2FXWk1MalZmQ1I4cjZyZEViSEFrUnlHYml6WUdnRm9Gdy01bnVVSnI1ZmY0UTc4RVU5bTdpV3BfYUFjQl9mdTFKN3FmdDlrTHY2NEtjek1YODNlMUdJNWhLSk5sMGc0MjZWNlhrem8tOW9WWWEyaTluX25iQS1wTHpnTEk4d3NVQk9GStIBygFBVV95cUxQT05Dc2E4OURFaEdTQzFkeTlRQ09LN2RTaURHVUhGSWV3RDFhQmNIeXhJVlg5NlRuNm01Uko0a29COXdIZU1LcHFwdnl1NlA0cWxWa2szVFZhaUEwcEd5M1J4Ml9fZDV6Vk5qRXpXUm1YaWY1RmwwWFFGekVUMG8wNE82OGhORFB4VGVPOEpydnpfRFB0UmVVQUxNeklVOVFRUVVQRnBoOW5CZDVRS3hPRnhId0tWYW1kanJoSDFzVTI3b2xrVWw2cGpR?oc=5\" target=\"_blank\">Conrad Sangma highlights Japan’s role as key partner in Meghalaya’s growth push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sentinel - of this Land, for its People</font>",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUdFSV9IckU3S2hMSTJKZmhQY2xJVUFmYnp2QktRa2ZoaUdVSE15bDd2SlNQNWVja2FXWk1MalZmQ1I4cjZyZEViSEFrUnlHYml6WUdnRm9Gdy01bnVVSnI1ZmY0UTc4RVU5bTdpV3BfYUFjQl9mdTFKN3FmdDlrTHY2NEtjek1YODNlMUdJNWhLSk5sMGc0MjZWNlhrem8tOW9WWWEyaTluX25iQS1wTHpnTEk4d3NVQk9GStIBygFBVV95cUxQT05Dc2E4OURFaEdTQzFkeTlRQ09LN2RTaURHVUhGSWV3RDFhQmNIeXhJVlg5NlRuNm01Uko0a29COXdIZU1LcHFwdnl1NlA0cWxWa2szVFZhaUEwcEd5M1J4Ml9fZDV6Vk5qRXpXUm1YaWY1RmwwWFFGekVUMG8wNE82OGhORFB4VGVPOEpydnpfRFB0UmVVQUxNeklVOVFRUVVQRnBoOW5CZDVRS3hPRnhId0tWYW1kanJoSDFzVTI3b2xrVWw2cGpR?oc=5",
+   "source_name": "The Sentinel - of this Land, for its People",
+   "source_domain": "sentinelassam.com",
+   "published_raw": "Fri, 27 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:44:29+00:00"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "region": "Dadra and Nagar Haveli and Daman and Diu",
+ "group": "B",
+ "query": "(\"Dadra and Nagar Haveli and Daman and Diu\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Dadra+and+Nagar+Haveli+and+Daman+and+Diu%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:27+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Govt claims women winning unreserved panchayat seats in ‘significant numbers’",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQY21aX04wWHJGRjBEWXdjM0JVMkJhUENlY2pmSGxYdS1NbzBkcGVMSi04WTl5NUt3Yy0tQWlGRm0tQ3BfSWZLSjZLSGVLNWhPOTFyMWEybUNGaGFSZl8zUDdjUzlxQzBEUEwwRXZFY2NLVmYtblJHUk5sOW1CcjliUXFTb0o0NXF5MzFjaWhyWVVBQmNob29hRnM4Q1JtNy0xOFZFSS0tWXdodVN3YkV6aVA0MTUwSW1pZG1iWFRFYU16MnAwRFhUSjcwZmJ2RE3SAdYBQVVfeXFMT3FJbVJXZ00tbGpYLUFjTjlLcDlfZnJiZF95U19POHE3UXN5OHJraVVSRm1GVk1tNUVVOVh1SHI5elg2M2dIdm1jdEMzekxhUExLS3hGNGc1aXVyUEJKY0F1R3RRV3JBWFZLSzZSWVFxa1l4SWEzYzkzcUE4bkpvRlQtQUxYbnFDVGxpVUQ2WmU1TUZlVU1VRWgzTFdESVY4ZjEwM2dMUzVoeDhiY3dEU1FnUHA2LXpEaHI2cjN5bkt6QlhqSWpuTktJME5ITTZmRG9QVktLdw?oc=5\" target=\"_blank\">Govt claims women winning unreserved panchayat seats in ‘significant numbers’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY21aX04wWHJGRjBEWXdjM0JVMkJhUENlY2pmSGxYdS1NbzBkcGVMSi04WTl5NUt3Yy0tQWlGRm0tQ3BfSWZLSjZLSGVLNWhPOTFyMWEybUNGaGFSZl8zUDdjUzlxQzBEUEwwRXZFY2NLVmYtblJHUk5sOW1CcjliUXFTb0o0NXF5MzFjaWhyWVVBQmNob29hRnM4Q1JtNy0xOFZFSS0tWXdodVN3YkV6aVA0MTUwSW1pZG1iWFRFYU16MnAwRFhUSjcwZmJ2RE3SAdYBQVVfeXFMT3FJbVJXZ00tbGpYLUFjTjlLcDlfZnJiZF95U19POHE3UXN5OHJraVVSRm1GVk1tNUVVOVh1SHI5elg2M2dIdm1jdEMzekxhUExLS3hGNGc1aXVyUEJKY0F1R3RRV3JBWFZLSzZSWVFxa1l4SWEzYzkzcUE4bkpvRlQtQUxYbnFDVGxpVUQ2WmU1TUZlVU1VRWgzTFdESVY4ZjEwM2dMUzVoeDhiY3dEU1FnUHA2LXpEaHI2cjN5bkt6QlhqSWpuTktJME5ITTZmRG9QVktLdw?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 22 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "No proposal for separate UT Ministry or framework: MHA",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSU1zR0VPZmZnSjUwWUtKQXJueDF1U2dkVDQyS3JtYXY5QUdHMGdKOXBBYVdDeVZVZzNQOXQ0cTlwS3dMMllyNlpDajJJbmpycVFCU3JKbFduNm9LZ0dURTZQTmRtbTR3dkN3VkJHTmRPeWR5SjdJVGtBdlJCQjczeVpJM1hwNm1ITTRYcUVWYWxRWjhLZUh6UWk5MktpcnpCRnp0RVd3?oc=5\" target=\"_blank\">No proposal for separate UT Ministry or framework: MHA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Awaz The Voice</font>",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSU1zR0VPZmZnSjUwWUtKQXJueDF1U2dkVDQyS3JtYXY5QUdHMGdKOXBBYVdDeVZVZzNQOXQ0cTlwS3dMMllyNlpDajJJbmpycVFCU3JKbFduNm9LZ0dURTZQTmRtbTR3dkN3VkJHTmRPeWR5SjdJVGtBdlJCQjczeVpJM1hwNm1ITTRYcUVWYWxRWjhLZUh6UWk5MktpcnpCRnp0RVd3?oc=5",
+   "source_name": "Awaz The Voice",
+   "source_domain": "awazthevoice.in",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Goa hand behind Bengal blitz: Dhond scripts BJP’s victory",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWNtZWJ1TW1ISnlFU1FweWN3cGVXTU83NDNHSmhpQTlwSFFsRHdUTTExRFVVc3dGTmRMNk0tejVLWV9RQmNtRDBzSXFWQmRQdTBRMXZDN0J3MjZrLWJFbkRHVV81N01ZaTROZW4xMU55YlQ1OEQtUUN6aThZUWhTY2NTTkFxSk5YTk5vbXlDNi1FYWozN1NQMDhfTW81V3RhY0ZDcXh6NjQtQnY2dGh2ZWVKRExSb0ptcHJXZWJPR2tIVS1t0gHKAUFVX3lxTE5WRndzLXF3SVZOWWtzVy1Vbjg1MVVhNlYwdFpoem01UmN6SWZWazl1NXhNN2kxNG9NX2JVcXZNNHJFaDY4VVZIUTYtQURoRy1oVFZldVBhNFBKUUN2S0ZFUWQzUS14MUJZRXpNc3BiSmNKZFNOUU9jM2tBbGpYbXFyREZFZDdGQlVRdlRleENIbWRkaUt3a1hhcTFJbW91NExVVXRLNGRxSmRSZVRnc3VWTXJzU1p5RFhqNVVReWYwWjdxZk4tSlZ1Wmc?oc=5\" target=\"_blank\">Goa hand behind Bengal blitz: Dhond scripts BJP’s victory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWNtZWJ1TW1ISnlFU1FweWN3cGVXTU83NDNHSmhpQTlwSFFsRHdUTTExRFVVc3dGTmRMNk0tejVLWV9RQmNtRDBzSXFWQmRQdTBRMXZDN0J3MjZrLWJFbkRHVV81N01ZaTROZW4xMU55YlQ1OEQtUUN6aThZUWhTY2NTTkFxSk5YTk5vbXlDNi1FYWozN1NQMDhfTW81V3RhY0ZDcXh6NjQtQnY2dGh2ZWVKRExSb0ptcHJXZWJPR2tIVS1t0gHKAUFVX3lxTE5WRndzLXF3SVZOWWtzVy1Vbjg1MVVhNlYwdFpoem01UmN6SWZWazl1NXhNN2kxNG9NX2JVcXZNNHJFaDY4VVZIUTYtQURoRy1oVFZldVBhNFBKUUN2S0ZFUWQzUS14MUJZRXpNc3BiSmNKZFNOUU9jM2tBbGpYbXFyREZFZDdGQlVRdlRleENIbWRkaUt3a1hhcTFJbW91NExVVXRLNGRxSmRSZVRnc3VWTXJzU1p5RFhqNVVReWYwWjdxZk4tSlZ1Wmc?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 05 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Economic Survey Projects 7.9% Growth for Maharashtra",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSjVIcU12bDNBVTFSVGd5ZVl4d3FiTHFJeTBmdThrZy1mRER6REtBRm15THdrSzVQN0V2UndqU3BfU2VoVkRteWdxakJtbGFLZHpET3VBNjN1dms5MEFueGcxbU5OYnl5Sy1SRU1OdFJWQ3hkVFM5dkM1RnhHekc5Rk5NdmlaVWRLekZxU0xJdy1QeFAtZFhyNEhEbDVIZ9IBowFBVV95cUxNY0w0Ymt3ZFRVdENYcWhmbndacWI4ZFhhSkE2ODhPOGxIdy1uaEx3bWVTY0JMeExJYzJtTGRFWTRWbXZ6UHNKM0FLLUdSYzMzRmpCQkF2MEwxaGEyVjJmaTBPeU5FQjc3ZmpJbURkLUR2ZU9SMDZLc3kzTVZwcncyeERjZmE3Zjc0dURaMWg3Mjk2WW1IQlE0QTJkYkxQanFuNDlz?oc=5\" target=\"_blank\">Economic Survey Projects 7.9% Growth for Maharashtra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Chronicle</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSjVIcU12bDNBVTFSVGd5ZVl4d3FiTHFJeTBmdThrZy1mRER6REtBRm15THdrSzVQN0V2UndqU3BfU2VoVkRteWdxakJtbGFLZHpET3VBNjN1dms5MEFueGcxbU5OYnl5Sy1SRU1OdFJWQ3hkVFM5dkM1RnhHekc5Rk5NdmlaVWRLekZxU0xJdy1QeFAtZFhyNEhEbDVIZ9IBowFBVV95cUxNY0w0Ymt3ZFRVdENYcWhmbndacWI4ZFhhSkE2ODhPOGxIdy1uaEx3bWVTY0JMeExJYzJtTGRFWTRWbXZ6UHNKM0FLLUdSYzMzRmpCQkF2MEwxaGEyVjJmaTBPeU5FQjc3ZmpJbURkLUR2ZU9SMDZLc3kzTVZwcncyeERjZmE3Zjc0dURaMWg3Mjk2WW1IQlE0QTJkYkxQanFuNDlz?oc=5",
+   "source_name": "Deccan Chronicle",
+   "source_domain": "deccanchronicle.com",
+   "published_raw": "Thu, 05 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Election Commission set to roll out phase III of SIR in 'coming days'; to cover 22 states, UTs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdlRfcEZHZEhfNjFla1BZRXpyNGxDaUlWTEt6MkpDMlNuVzFTbzBOTEtZZkhDekJjMjFDT1NIeXRrX2FfWXU3ak9YYkxyNnRjTHhpOUZVcXBIQzdqVGZYcGZhSGJHV1ZCLW5KQk9PemxhVVV1cWxuODFYaEVzd0ljMy00bUxlMzRBZnpoekpNZDlKZ1Fnc3hqdUF3cmlfMlRObWM2enU2bmRIYTlPel80NE9JU19YQmgyZ2NnNm1NR25rMUJaV3R4ODk0M0xQN3pBODlmQzJvb2x2Ny000gHiAUFVX3lxTE9LMGpLT0UzWGllMnJUNnVNbS1idG1HUVlzNnU1ZDhUb2lleTZDdTJKOGdWa1Q5TzNmNGxzUEl4OXl2ZFlGNDBOOVJXaEh6NDhYMVdmYXFscjdMV0xHLS04VnhVcmZaY2tHOGI1RFRVdjIxQlFvWnU2SmxINno1dlJvR0ZvLWR3bDlXNENmOWQ3Q2xPd1IzLU02eTIxaVNUUUpEaG4ycTh0ZUZpRTRxWEk1YlllZXVKWlkzWlVDdVpxWWN5NnBoRzctZGExVkx4ZEJaa29penR0dXJmT0RadGQ3SlE?oc=5\" target=\"_blank\">Election Commission set to roll out phase III of SIR in 'coming days'; to cover 22 states, UTs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdlRfcEZHZEhfNjFla1BZRXpyNGxDaUlWTEt6MkpDMlNuVzFTbzBOTEtZZkhDekJjMjFDT1NIeXRrX2FfWXU3ak9YYkxyNnRjTHhpOUZVcXBIQzdqVGZYcGZhSGJHV1ZCLW5KQk9PemxhVVV1cWxuODFYaEVzd0ljMy00bUxlMzRBZnpoekpNZDlKZ1Fnc3hqdUF3cmlfMlRObWM2enU2bmRIYTlPel80NE9JU19YQmgyZ2NnNm1NR25rMUJaV3R4ODk0M0xQN3pBODlmQzJvb2x2Ny000gHiAUFVX3lxTE9LMGpLT0UzWGllMnJUNnVNbS1idG1HUVlzNnU1ZDhUb2lleTZDdTJKOGdWa1Q5TzNmNGxzUEl4OXl2ZFlGNDBOOVJXaEh6NDhYMVdmYXFscjdMV0xHLS04VnhVcmZaY2tHOGI1RFRVdjIxQlFvWnU2SmxINno1dlJvR0ZvLWR3bDlXNENmOWQ3Q2xPd1IzLU02eTIxaVNUUUpEaG4ycTh0ZUZpRTRxWEk1YlllZXVKWlkzWlVDdVpxWWN5NnBoRzctZGExVkx4ZEJaa29penR0dXJmT0RadGQ3SlE?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Mon, 11 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Vodafone Idea Accelerates 5G Rollout Across India, Targets 133 Cities by May 2026",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkhzLUNobzhkd2JNX2x3WS1fbXRCX1BlMzJaa2xFQy1tQVdYRGFZdTdqQmpSMkY3MkpjWmZQSW1KcEVkT1I0UDZ0dG5YNXdBMUZraDNDWG9QVmxSLU5vRXpDckkyWl94QTRIa2lwc2FuQnJONUlCUHZDaWEwdWRJTDlHMHR5elZOc2Q1T0hlXzFBZXoxOHZDQ3lIa0tINzZadUk5a2JUY01wUUVEMnFtanBoaGbSAbwBQVVfeXFMTjQ3VFdWVXJtRDEtNWl2bnZRbVE3c1ZPdFlIOVFDUWlaYTdPcTJycHp0M1cySk5qUF9KalJGNDhGVnhJMzZfcW1CNmVMOE1nV0haQkduQnFZNGRjWUpJX0xHdmctT1JBcmt1dm5QQUJ1bjh4QVA0bEVXay02bFRmUHpZbC1SNVdoYUczdzlld3h5MURYb0tBbk81d0ZpTWwwaTllVTN0YnJwM1lUNFFsT0FpbnQxUklWWTQ5MnQ?oc=5\" target=\"_blank\">Vodafone Idea Accelerates 5G Rollout Across India, Targets 133 Cities by May 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TelecomLead</font>",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkhzLUNobzhkd2JNX2x3WS1fbXRCX1BlMzJaa2xFQy1tQVdYRGFZdTdqQmpSMkY3MkpjWmZQSW1KcEVkT1I0UDZ0dG5YNXdBMUZraDNDWG9QVmxSLU5vRXpDckkyWl94QTRIa2lwc2FuQnJONUlCUHZDaWEwdWRJTDlHMHR5elZOc2Q1T0hlXzFBZXoxOHZDQ3lIa0tINzZadUk5a2JUY01wUUVEMnFtanBoaGbSAbwBQVVfeXFMTjQ3VFdWVXJtRDEtNWl2bnZRbVE3c1ZPdFlIOVFDUWlaYTdPcTJycHp0M1cySk5qUF9KalJGNDhGVnhJMzZfcW1CNmVMOE1nV0haQkduQnFZNGRjWUpJX0xHdmctT1JBcmt1dm5QQUJ1bjh4QVA0bEVXay02bFRmUHpZbC1SNVdoYUczdzlld3h5MURYb0tBbk81d0ZpTWwwaTllVTN0YnJwM1lUNFFsT0FpbnQxUklWWTQ5MnQ?oc=5",
+   "source_name": "TelecomLead",
+   "source_domain": "telecomlead.com",
+   "published_raw": "Tue, 31 Mar 2026 05:05:24 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "School education index: Kerala betters grade, score",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFNBb2ZtQjFlSWo3OElSMEJGcFFtd1dibU5uS2lFaGpYdnh1UUZGLUxiazlyZUlfdURieWhvQ1VwazdrOFpmbEV2WUxzaXpVOENlcUNDNVBBcEItQlNfUUQzSGRFNzNKeU9NNTcyNVh4VC1FZ25vZlBWU2xaOXliOHByVWk1cjRXRS1wVHZXR3kzVTFBblpLSi1lOWt1dmRSRHVIenJYZ25ScjRBVXFKQ3ZXLS1IQdIBvAFBVV95cUxNWWt3aE1sVC10QkxpUkhrVDBQNkdqV1FuVVBhVGdiWF8zdVNlS0thRDRhY0J5MnE5ZXV6anN6dWc3bzFqem5nd216ZUNTUEhBN2RJUWpvOGdTbUJaODh3ck1TSmhYVUlfeUszSXhZaV9pQTlmTjV6VFQ4VkVDUUlJZm4xSC1fMUtuOHY2QnN1bnh5cng0am8xUWV1cDFydXNrdmhjQTBBREtsUjlhdnJ2bmFMY0dGVFEwX1lOSg?oc=5\" target=\"_blank\">School education index: Kerala betters grade, score</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFNBb2ZtQjFlSWo3OElSMEJGcFFtd1dibU5uS2lFaGpYdnh1UUZGLUxiazlyZUlfdURieWhvQ1VwazdrOFpmbEV2WUxzaXpVOENlcUNDNVBBcEItQlNfUUQzSGRFNzNKeU9NNTcyNVh4VC1FZ25vZlBWU2xaOXliOHByVWk1cjRXRS1wVHZXR3kzVTFBblpLSi1lOWt1dmRSRHVIenJYZ25ScjRBVXFKQ3ZXLS1IQdIBvAFBVV95cUxNWWt3aE1sVC10QkxpUkhrVDBQNkdqV1FuVVBhVGdiWF8zdVNlS0thRDRhY0J5MnE5ZXV6anN6dWc3bzFqem5nd216ZUNTUEhBN2RJUWpvOGdTbUJaODh3ck1TSmhYVUlfeUszSXhZaV9pQTlmTjV6VFQ4VkVDUUlJZm4xSC1fMUtuOHY2QnN1bnh5cng0am8xUWV1cDFydXNrdmhjQTBBREtsUjlhdnJ2bmFMY0dGVFEwX1lOSg?oc=5",
+   "source_name": "The Hindu",
+   "source_domain": "thehindu.com",
+   "published_raw": "Wed, 13 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Edge AI for ASHA Workers: Neonatal Care in Rural India Gets a Tech Upgrade",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXJWTDViYTNqd1pIT3B1ZERUdW90dGN6RHNSMDVpaTBrMVdmdUNIb3BYX29tQlU0dFh4dEFfUmFfbksycENQNG9pcGdIendJdXdBdE1KcTY5MEJLY041Y0FxeXpvbGtjQUVhdUlmbXpINGM5R2lRSzVTXzFkTmtCaGRST0lkS1o1OFhMRVBuM2tpODVDUk80Z0VnX3gxdnFOUTcyd2U2VUhNUFE2LXhlWVlaWDc1bmV0NzZoMjJ3?oc=5\" target=\"_blank\">Edge AI for ASHA Workers: Neonatal Care in Rural India Gets a Tech Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXJWTDViYTNqd1pIT3B1ZERUdW90dGN6RHNSMDVpaTBrMVdmdUNIb3BYX29tQlU0dFh4dEFfUmFfbksycENQNG9pcGdIendJdXdBdE1KcTY5MEJLY041Y0FxeXpvbGtjQUVhdUlmbXpINGM5R2lRSzVTXzFkTmtCaGRST0lkS1o1OFhMRVBuM2tpODVDUk80Z0VnX3gxdnFOUTcyd2U2VUhNUFE2LXhlWVlaWDc1bmV0NzZoMjJ3?oc=5",
+   "source_name": "Analytics India Magazine",
+   "source_domain": "analyticsindiamag.com",
+   "published_raw": "Sun, 22 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Dadra and Nagar Haveli and Daman and Diu",
+   "title": "Petrol, diesel prices hiked: Check latest fuel rates after Rs 3 increase in Delhi, Mumbai, Bengaluru, Kol",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNY1h6WnR0NUZFWVNaRVdCRlV0YzFhTTZPRFhJTjRGaGZjc25HNURueXB0bFdkb3YwUy13V1RWTmZrSmZVdVRGZ1NGU2lxMU9VMzZmSXlkNEJGZWhlVTlZckdkMnB1bkVyTHF6NHppYmhkMWhoWFdBRnRsSGNfRUJ5ZE5UOFVQSVhwRUl5TWJKMnlGUWNRTkswN3cxZVA5RUpDUmpsUWNqbU5uSzFqYVNqMUN6Qk5GcVRaekpUV1VnbXdBRFJVeFFfTmZyb2ZDU1RRVE51eFpPNGROalBmeERld0FLWEhhRVhLbUl2SU1rX25MTHhpdjdlU0RUd19YWm10Wm1TM2gzVTZDWUHSAZACQVVfeXFMTWgxU09XaEV6UTZjb1lWQ2FmSVVZTzFPRTZJOVNLVmdfRVRPOGVLR1piX1R3dndQdU5TNC0xRDF4aVVSRVpIcGpJa0QyYzNQRXR4T0huT3lPR01HQlVhUndfZE9aYVk3U3psVzVZd0YyNjFWSU5ZTGNRbVNycEdOZVJ2dGFjOVZjZlB1QlROcG40VDVXckxkTGQ3TzFmOG11V2FZSDBjbkJXMkZINUM5TUdOMVFtRHpXeV9nbzU2aUZ4X21yenFjR2RvWUR1M003RFJsT21TMF85YVl2NlRIeGE0cnJnNDdkVXR5amNxZ0hjdW1ZVFA4RDlqa013SXc3UmN4dzRJdTZoMDNVVXZ4cm4?oc=5\" target=\"_blank\">Petrol, diesel prices hiked: Check latest fuel rates after Rs 3 increase in Delhi, Mumbai, Bengaluru, Kol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNY1h6WnR0NUZFWVNaRVdCRlV0YzFhTTZPRFhJTjRGaGZjc25HNURueXB0bFdkb3YwUy13V1RWTmZrSmZVdVRGZ1NGU2lxMU9VMzZmSXlkNEJGZWhlVTlZckdkMnB1bkVyTHF6NHppYmhkMWhoWFdBRnRsSGNfRUJ5ZE5UOFVQSVhwRUl5TWJKMnlGUWNRTkswN3cxZVA5RUpDUmpsUWNqbU5uSzFqYVNqMUN6Qk5GcVRaekpUV1VnbXdBRFJVeFFfTmZyb2ZDU1RRVE51eFpPNGROalBmeERld0FLWEhhRVhLbUl2SU1rX25MTHhpdjdlU0RUd19YWm10Wm1TM2gzVTZDWUHSAZACQVVfeXFMTWgxU09XaEV6UTZjb1lWQ2FmSVVZTzFPRTZJOVNLVmdfRVRPOGVLR1piX1R3dndQdU5TNC0xRDF4aVVSRVpIcGpJa0QyYzNQRXR4T0huT3lPR01HQlVhUndfZE9aYVk3U3psVzVZd0YyNjFWSU5ZTGNRbVNycEdOZVJ2dGFjOVZjZlB1QlROcG40VDVXckxkTGQ3TzFmOG11V2FZSDBjbkJXMkZINUM5TUdOMVFtRHpXeV9nbzU2aUZ4X21yenFjR2RvWUR1M003RFJsT21TMF85YVl2NlRIeGE0cnJnNDdkVXR5amNxZ0hjdW1ZVFA4RDlqa013SXc3UmN4dzRJdTZoMDNVVXZ4cm4?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:27+00:00"
+  }
+ ]
+}

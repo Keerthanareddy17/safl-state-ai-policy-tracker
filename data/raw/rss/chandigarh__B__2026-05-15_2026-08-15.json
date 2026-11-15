@@ -1,0 +1,109 @@
+{
+ "region": "Chandigarh",
+ "group": "B",
+ "query": "(Chandigarh) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Chandigarh%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:02+00:00",
+ "item_count": 9,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "CBSE expands AI curriculum, but Centre rejects Chandigarh’s Rs 95L plan for govt schools",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOHpxRlFyLWJwb0VFU3Q3cmRMMEdtRVItZ2o0WkxvUk5CSDNUVzN2MjZ1V0RWNTlwM1p1NnFMRDdaNlRGZlRSS1d1Y0l6Sjd6a1hDYUxudkcyOEltREV0TW5lb2VVWDZjaGtXZ3Ytczg4dXJQaTFLWXBaMmM5WlVWY0xuQ0p2UHliUG0tdURUdHRlM2FXemxfME1pbmFnak5xWU5jU19sQ3FRdzdYWWNyUW8yVFVVUlFzbDRVVWZyQmM3Zzd6RzdMSFI4MTJScTNBdHRwYUlFblNJZG0zVC1jMkUtcEZEcGo1Nm5PRERzRFp2Z3J4XzM00gH8AUFVX3lxTE5VZjhvYzFQcGJkVDl3aWxaeVlkOFhrTUZpRGxvbWVOc1JlbmdTeGVtZG5RLXhydmdSd2VmZ3FfWHZwM1FKQ1lGdmhzSTVXR1lkOTdXcU5YSXZJTjR0czdfLWlTTVI0NnZwUWMzcGlwOXBQZU5lZkxiS0kwN1VsWTFEeDc4RWtzZUZUMndKcm5pN2tpU0JUWUM4eVVfVDVzTjAwa2ZvY1UxV1dYZExEc3NxWkh0Ym15cFNMWGZhTkdnOV9BZGZfQ1IzZXpzT1FIRWxiOTEzY1AwUk93TDQwS194WHVMa1RYVkkxRXhFeXAtQ19raUFEcUtmc01BZw?oc=5\" target=\"_blank\">CBSE expands AI curriculum, but Centre rejects Chandigarh’s Rs 95L plan for govt schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOHpxRlFyLWJwb0VFU3Q3cmRMMEdtRVItZ2o0WkxvUk5CSDNUVzN2MjZ1V0RWNTlwM1p1NnFMRDdaNlRGZlRSS1d1Y0l6Sjd6a1hDYUxudkcyOEltREV0TW5lb2VVWDZjaGtXZ3Ytczg4dXJQaTFLWXBaMmM5WlVWY0xuQ0p2UHliUG0tdURUdHRlM2FXemxfME1pbmFnak5xWU5jU19sQ3FRdzdYWWNyUW8yVFVVUlFzbDRVVWZyQmM3Zzd6RzdMSFI4MTJScTNBdHRwYUlFblNJZG0zVC1jMkUtcEZEcGo1Nm5PRERzRFp2Z3J4XzM00gH8AUFVX3lxTE5VZjhvYzFQcGJkVDl3aWxaeVlkOFhrTUZpRGxvbWVOc1JlbmdTeGVtZG5RLXhydmdSd2VmZ3FfWHZwM1FKQ1lGdmhzSTVXR1lkOTdXcU5YSXZJTjR0czdfLWlTTVI0NnZwUWMzcGlwOXBQZU5lZkxiS0kwN1VsWTFEeDc4RWtzZUZUMndKcm5pN2tpU0JUWUM4eVVfVDVzTjAwa2ZvY1UxV1dYZExEc3NxWkh0Ym15cFNMWGZhTkdnOV9BZGZfQ1IzZXpzT1FIRWxiOTEzY1AwUk93TDQwS194WHVMa1RYVkkxRXhFeXAtQ19raUFEcUtmc01BZw?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Tue, 14 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Punjab 1st state to launch AI as mainstream subject for Class I to XII: Bains",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm5OU0hpamkybmxhMm9QcGVrSjJ6alg5TXFEbkNSSXQxZS1jUmFmOFlXUTd6SnMxYWJQaEdCSklRSVZJTVlndFJEVFZDSmR3dXQ1V1E1UE5TeXhTV0RGdXk1cTZnLWFyRFgtUlktbTc5dTlKbUhJR0ozSFZiUGc3czZ4a3RkSnBVVlowajlRU1Q0d0EzR0dDQmhNQ0xSRlpLTFlTSDZ2dWhvZnNQN0s0LXM0TXMzM0hhZHU40gHCAUFVX3lxTE9hT3BjeDI2RXVaa2hFd3lBc0xpbEViY3llQnVvZU02Mm1PVGVuR25mdEQ5S0ZWUHN4VVZqTGhPdkk3ejdQM1ZLMGxuZFF4ZnY2a0dLU3lnTG0wQ0EzeF9kUVlfVWFERDZ6OXpNaHFDemN5eUhyc1lGZFdSLUh2UW5BVGR1N1d6VlhsLW1nb1JES1NQNFRQWFJLMGlXQjNaMUJsUk9PcWtDSmdDa3A4UFZYRDVoWUZSWkVuUzlhYzA3RnJ3?oc=5\" target=\"_blank\">Punjab 1st state to launch AI as mainstream subject for Class I to XII: Bains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm5OU0hpamkybmxhMm9QcGVrSjJ6alg5TXFEbkNSSXQxZS1jUmFmOFlXUTd6SnMxYWJQaEdCSklRSVZJTVlndFJEVFZDSmR3dXQ1V1E1UE5TeXhTV0RGdXk1cTZnLWFyRFgtUlktbTc5dTlKbUhJR0ozSFZiUGc3czZ4a3RkSnBVVlowajlRU1Q0d0EzR0dDQmhNQ0xSRlpLTFlTSDZ2dWhvZnNQN0s0LXM0TXMzM0hhZHU40gHCAUFVX3lxTE9hT3BjeDI2RXVaa2hFd3lBc0xpbEViY3llQnVvZU02Mm1PVGVuR25mdEQ5S0ZWUHN4VVZqTGhPdkk3ejdQM1ZLMGxuZFF4ZnY2a0dLU3lnTG0wQ0EzeF9kUVlfVWFERDZ6OXpNaHFDemN5eUhyc1lGZFdSLUh2UW5BVGR1N1d6VlhsLW1nb1JES1NQNFRQWFJLMGlXQjNaMUJsUk9PcWtDSmdDa3A4UFZYRDVoWUZSWkVuUzlhYzA3RnJ3?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Wed, 22 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Gurugram: Saini launches AI Sandbox initiative for five sectors | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXNnQ1AwY3lRRWZHR09KMG1WSmZUUXF1TkJMb24yR1d0TUgzN3FwQjdJaWw1TXpFdUkzQzlJMFRQYmRvRDlSengxbHVkMDNqdmUwdDVWMXI3VkVuWnNZdXlPQ0NnT0NwQndaNmluNkdWOWZGV003bDBOblgwRDhkUC1MV3o3bnZ6aEo3eDhIdzllcWh4d2lSVHRrWVpiTGZpY1p3WDlaejREaFlKaXlDRlh1SDdqblJsbUVtamQ5QnJFcEhvSGtYWkc3OThiaGZBNVdj0gHYAUFVX3lxTE9yVGdUNWg0Z196NElaTng0bDRPY0RrRGNHU3lPV2JHNWYyWGhIcXBDR3dlS1habURuZVdOSHhPdzRUVG4yc1JZd3d4WF85MGRJM1A2V3otYlNVdHIwVDdXb2xXQUh2aUduTWMzZWFkTzBfNTktUElYVEJxeEk1Y2gwLW11bzZXcUdwc1k4eDhoZmNRNDJ2MVVrTVZhMWNNaS1hSUJDS0thNGdfbjExWHpyNDF2bDRtbFhGTHJCWkczd3VmUzFSQ2VhcFdVLXo0cEpYMGhEU3BGNA?oc=5\" target=\"_blank\">Gurugram: Saini launches AI Sandbox initiative for five sectors | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXNnQ1AwY3lRRWZHR09KMG1WSmZUUXF1TkJMb24yR1d0TUgzN3FwQjdJaWw1TXpFdUkzQzlJMFRQYmRvRDlSengxbHVkMDNqdmUwdDVWMXI3VkVuWnNZdXlPQ0NnT0NwQndaNmluNkdWOWZGV003bDBOblgwRDhkUC1MV3o3bnZ6aEo3eDhIdzllcWh4d2lSVHRrWVpiTGZpY1p3WDlaejREaFlKaXlDRlh1SDdqblJsbUVtamQ5QnJFcEhvSGtYWkc3OThiaGZBNVdj0gHYAUFVX3lxTE9yVGdUNWg0Z196NElaTng0bDRPY0RrRGNHU3lPV2JHNWYyWGhIcXBDR3dlS1habURuZVdOSHhPdzRUVG4yc1JZd3d4WF85MGRJM1A2V3otYlNVdHIwVDdXb2xXQUh2aUduTWMzZWFkTzBfNTktUElYVEJxeEk1Y2gwLW11bzZXcUdwc1k4eDhoZmNRNDJ2MVVrTVZhMWNNaS1hSUJDS0thNGdfbjExWHpyNDF2bDRtbFhGTHJCWkczd3VmUzFSQ2VhcFdVLXo0cEpYMGhEU3BGNA?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 02 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Soon, AI curriculum to be introduced in Punjab govt schools: Bains",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOG8zalhyUk5obnlqUHB3aURyY3AzWnVDN3lDbVZRSjNoeDFhVzgydHRMd09zZm1pbEJrWEpnWWt1Z1BPY1NwdEVTYzhTOFN4SHJ3ZWpFbE1DN1U4VW1vbEhuRjlPeTdUdlF3WHgxQTYteC1RSml3ZHF0T25PRGYwRFpYTzFRTm5xYjBTS0pHZk9KaHd6RU9hZ3BVdG40UFFkRXJ1cXZ1dWtQXzRzRWJwd3lhVmNHbHlNNzJkd0Y0S1JZek9NeGZwQlYwLTNzd2RtZnljOFoybXRCUdIB3wFBVV95cUxQaThYeXFtWS1uSUhVQWJmUzNzcDFhaUZJenVpcWNaSE5TRTlyaVhqZmtzRTU0WjBLdWFET2VxSGtMNDJvSmRlNXBaZXZnUmxiRTRKczRVY09WSUVNTHBUSFZtUmZnaFU0V2NYbm5ta0phc2RnRTVoZTFPZ3BsS3B0TGJjZFBIR0pZSHBUMURYOEFSV3pMYTBKRjJTRU04WkJlcjBqeUtvNkxidDN0bUh2SWo5TzVDRG9Hcm9hRlV3ei0yZzZySkJYakZuRXZoQWJVYmdROHU0d21xVGJWXzBR?oc=5\" target=\"_blank\">Soon, AI curriculum to be introduced in Punjab govt schools: Bains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOG8zalhyUk5obnlqUHB3aURyY3AzWnVDN3lDbVZRSjNoeDFhVzgydHRMd09zZm1pbEJrWEpnWWt1Z1BPY1NwdEVTYzhTOFN4SHJ3ZWpFbE1DN1U4VW1vbEhuRjlPeTdUdlF3WHgxQTYteC1RSml3ZHF0T25PRGYwRFpYTzFRTm5xYjBTS0pHZk9KaHd6RU9hZ3BVdG40UFFkRXJ1cXZ1dWtQXzRzRWJwd3lhVmNHbHlNNzJkd0Y0S1JZek9NeGZwQlYwLTNzd2RtZnljOFoybXRCUdIB3wFBVV95cUxQaThYeXFtWS1uSUhVQWJmUzNzcDFhaUZJenVpcWNaSE5TRTlyaVhqZmtzRTU0WjBLdWFET2VxSGtMNDJvSmRlNXBaZXZnUmxiRTRKczRVY09WSUVNTHBUSFZtUmZnaFU0V2NYbm5ta0phc2RnRTVoZTFPZ3BsS3B0TGJjZFBIR0pZSHBUMURYOEFSV3pMYTBKRjJTRU04WkJlcjBqeUtvNkxidDN0bUh2SWo5TzVDRG9Hcm9hRlV3ei0yZzZySkJYakZuRXZoQWJVYmdROHU0d21xVGJWXzBR?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana to modernise 719 government schools with smart classrooms, AI labs",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRUgxOU1BMXU0V3hqYXp2a2hJdk1ZdktRNk5LeTFYeUNseGUwc1o1Ri1OSFFpeldkb2F1bjJyN2c1Wk1RMndpb2Ztdl80c3h1UThncmMwNkFRNkNZeDZWVEZSVjJCMmFRTlZiWEtZNGVZcGdJVC1fQjFlZHBTTlBNaFNaV3c2R3lGdlZpeldWUG55ZUJSTXB3bkU2VGF6XzBPcTVHX09WSmxsQjFKVXpXTC1mNjN1WWRqZDFhMVc4VWFBejlBQ3cxN01PRXBaQldqVFBzcVczdGpINE5QYUZqamh5R25icmPSAesBQVVfeXFMTmZJMUhiZGJXRXZ3VHJXRnhQc2lBSXdReWQ2bDhMakIzZzIyMVFGWnE1RWtZa1BZV0FubUh3eEdEWEZwdDR1NFc2Q1oybjU1SzFoV19WOTNBWncwN2M0b2RobkdXQS0zRkJ3bjRuV1dwNmhHTVhfSnJPUXlienlrMVZkcXUxM25CLXZpOFBzVk1hOFRwT0lCVHZoXzZ4dEpzS0tzUi1CLWtGTVlrS1U2V05BbklvVXdIeGlLSVlKVElCcHVBZC1BV0VvazFCOVZ5S1NMMndVUjZSbzZBM3F6LWxNOU5ib2s1bG5uOA?oc=5\" target=\"_blank\">Haryana to modernise 719 government schools with smart classrooms, AI labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRUgxOU1BMXU0V3hqYXp2a2hJdk1ZdktRNk5LeTFYeUNseGUwc1o1Ri1OSFFpeldkb2F1bjJyN2c1Wk1RMndpb2Ztdl80c3h1UThncmMwNkFRNkNZeDZWVEZSVjJCMmFRTlZiWEtZNGVZcGdJVC1fQjFlZHBTTlBNaFNaV3c2R3lGdlZpeldWUG55ZUJSTXB3bkU2VGF6XzBPcTVHX09WSmxsQjFKVXpXTC1mNjN1WWRqZDFhMVc4VWFBejlBQ3cxN01PRXBaQldqVFBzcVczdGpINE5QYUZqamh5R25icmPSAesBQVVfeXFMTmZJMUhiZGJXRXZ3VHJXRnhQc2lBSXdReWQ2bDhMakIzZzIyMVFGWnE1RWtZa1BZV0FubUh3eEdEWEZwdDR1NFc2Q1oybjU1SzFoV19WOTNBWncwN2M0b2RobkdXQS0zRkJ3bjRuV1dwNmhHTVhfSnJPUXlienlrMVZkcXUxM25CLXZpOFBzVk1hOFRwT0lCVHZoXzZ4dEpzS0tzUi1CLWtGTVlrS1U2V05BbklvVXdIeGlLSVlKVElCcHVBZC1BV0VvazFCOVZ5S1NMMndVUjZSbzZBM3F6LWxNOU5ib2s1bG5uOA?oc=5",
+   "source_name": "ET Government",
+   "source_domain": "government.economictimes.indiatimes.com",
+   "published_raw": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "AAP govt to distribute 4 lakh schoolbags with Chief Minister Bhagwant Mann’s photo",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZXo1RzIzVXVzbV9lc1JXWmFZUk5DeVRoVUJZYndFZFNES0RmT1Rwd1dQaXN4emF4c0lqdnp2S1FCc1VsejA2YXNVT252YkxKLVdQcXJHYm4zNGw5XzhoSFRzTjR2cEwweXE0Q2gxSHA2MlRsemRGWC02b1NWd3ZHdEF4MzBnYkVRVU5HMzEtOUNnd1k5a1MzMDRhQktKSFlsWS1mUmZ6YjVIMUN0a0NNREh5TGV4bFQyckJITnhyNnNYUTBobUhhc3Ywcnk5NVptMm81amFFN2g2TldpT3VUcVUtY9IB6gFBVV95cUxPazBjenJJbUJac0ZWMzhGaHdiM1dtQ3hzWHpOZXhSbVJHdVQ5emhBQU1HcUZDWFljS2ZLMEtvQTlUZUZkdWQ2M1pENWJlOXVLTjBfYVhnQmhFZUFYV2JEaHlCTzRZMnZwQWRzanpDTVppZFpGb0pTanU1UWxJUmNCVlk5bFFwY09WTXFsSk1aNGdwU29PTUtNR0Z1Z0RUdFQyVElSUnJpanFQQ0gyLVh1SzRfdi1iUTNTR282WWFVWDgweHBaMDJLVGpaVmtwQU1ia1F6SHFIUXVWLXhWZ3FfWDdsM2RvbkhTY0E?oc=5\" target=\"_blank\">AAP govt to distribute 4 lakh schoolbags with Chief Minister Bhagwant Mann’s photo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZXo1RzIzVXVzbV9lc1JXWmFZUk5DeVRoVUJZYndFZFNES0RmT1Rwd1dQaXN4emF4c0lqdnp2S1FCc1VsejA2YXNVT252YkxKLVdQcXJHYm4zNGw5XzhoSFRzTjR2cEwweXE0Q2gxSHA2MlRsemRGWC02b1NWd3ZHdEF4MzBnYkVRVU5HMzEtOUNnd1k5a1MzMDRhQktKSFlsWS1mUmZ6YjVIMUN0a0NNREh5TGV4bFQyckJITnhyNnNYUTBobUhhc3Ywcnk5NVptMm81amFFN2g2TldpT3VUcVUtY9IB6gFBVV95cUxPazBjenJJbUJac0ZWMzhGaHdiM1dtQ3hzWHpOZXhSbVJHdVQ5emhBQU1HcUZDWFljS2ZLMEtvQTlUZUZkdWQ2M1pENWJlOXVLTjBfYVhnQmhFZUFYV2JEaHlCTzRZMnZwQWRzanpDTVppZFpGb0pTanU1UWxJUmNCVlk5bFFwY09WTXFsSk1aNGdwU29PTUtNR0Z1Z0RUdFQyVElSUnJpanFQQ0gyLVh1SzRfdi1iUTNTR282WWFVWDgweHBaMDJLVGpaVmtwQU1ia1F6SHFIUXVWLXhWZ3FfWDdsM2RvbkhTY0E?oc=5",
+   "source_name": "The Indian Express",
+   "source_domain": "indianexpress.com",
+   "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Ludhiana DC inaugurates AI lab at government school | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3FlaU96Ynl5Rm55a3hnZlpCWmJRcUZNMDU5ejFfeFo4Z3g3VHg4UUZXV3NwYjRyNzZhanhCRklwSWRVNGdDSWc2MU9zdTZ3MFRwWldPT1VsTVE2clRxTzdwQ0hEWU1rTWFzUmlOMTZxS2c5YXlFOERUYmVVZlUzbnQ0TWFJR202RnhpQkZxdXhqS004TUYxc3pNbHN1M1M3WU9vMXpzZ0NwbHAtMUZiTU1MMEdBTTNndm1QdjFDTkR1dTct0gHKAUFVX3lxTE5VQ0trSTF0NndNdVBHdHVGRlJuaTVVVHpHQWpodWlobVM2cW5RcXFzWGQ4NXZYUGVkNTl2N3AzS3BDUEFLWE11ajhaYTItdXRjRGdrRGlXOUZSNmgyekdiaU9jcHZQbTB6aXVXWVYxaFEtU0pmT05XQlhtU2NpZ1UtTHR0YnJKdHZZVWdzZHE4QWdZX3pjLXowRFFXZ2p0VGMydXRqb09JR3B3aEIxbWdUQ2d1ZjB1a3N0WVZidFFyOFl1OThIVEVlQ3c?oc=5\" target=\"_blank\">Ludhiana DC inaugurates AI lab at government school | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3FlaU96Ynl5Rm55a3hnZlpCWmJRcUZNMDU5ejFfeFo4Z3g3VHg4UUZXV3NwYjRyNzZhanhCRklwSWRVNGdDSWc2MU9zdTZ3MFRwWldPT1VsTVE2clRxTzdwQ0hEWU1rTWFzUmlOMTZxS2c5YXlFOERUYmVVZlUzbnQ0TWFJR202RnhpQkZxdXhqS004TUYxc3pNbHN1M1M3WU9vMXpzZ0NwbHAtMUZiTU1MMEdBTTNndm1QdjFDTkR1dTct0gHKAUFVX3lxTE5VQ0trSTF0NndNdVBHdHVGRlJuaTVVVHpHQWpodWlobVM2cW5RcXFzWGQ4NXZYUGVkNTl2N3AzS3BDUEFLWE11ajhaYTItdXRjRGdrRGlXOUZSNmgyekdiaU9jcHZQbTB6aXVXWVYxaFEtU0pmT05XQlhtU2NpZ1UtTHR0YnJKdHZZVWdzZHE4QWdZX3pjLXowRFFXZ2p0VGMydXRqb09JR3B3aEIxbWdUQ2d1ZjB1a3N0WVZidFFyOFl1OThIVEVlQ3c?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana govt schools to teach AI, FinTech | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQd09jeWo2TlE4RFVoSWdFNnlnSW9lN3hGbC04U2xRelBkUnVTUHNWTERHMWlEOVVKZ3djeEQxZGpmZzQ0VzRSci02U1RWdEJQOG9MMENUWWFIb2I3LUxHb2d5b2I4eGk5Zjh1VkV2M3pIcUc1X0s1ZjdmSEFHeFpmNUh6OVhtVzgtUzhhUWs1ejVfSlZpQVRha3VwUEdhUm5WSXQtUy1VRDItY2o1R3djWVdDNlJ0QdIBuwFBVV95cUxQSjVZYXJFSHN5aGlzMGc0SmdYc1JwQi1IY0JtNC1JendBWVl2T1BlSHBDYjM3dDFQSDVfclhXUkdxNjF6MlFjX0ZnNks3Y1lwTzBaSjJFUHhQaHBrTXctYjA1VDZvOGtPSzJqMzFldW11dENfTHJ0TmxoRzBGUmxBNEQ3cl9LcFdQelpHcU0xWjJPaVZfbkVDdzhUc1VyWlY1MU1qX1RjbnJYZVBJemhaUHcyR2xVTFVkbU9n?oc=5\" target=\"_blank\">Haryana govt schools to teach AI, FinTech | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd09jeWo2TlE4RFVoSWdFNnlnSW9lN3hGbC04U2xRelBkUnVTUHNWTERHMWlEOVVKZ3djeEQxZGpmZzQ0VzRSci02U1RWdEJQOG9MMENUWWFIb2I3LUxHb2d5b2I4eGk5Zjh1VkV2M3pIcUc1X0s1ZjdmSEFHeFpmNUh6OVhtVzgtUzhhUWs1ejVfSlZpQVRha3VwUEdhUm5WSXQtUy1VRDItY2o1R3djWVdDNlJ0QdIBuwFBVV95cUxQSjVZYXJFSHN5aGlzMGc0SmdYc1JwQi1IY0JtNC1JendBWVl2T1BlSHBDYjM3dDFQSDVfclhXUkdxNjF6MlFjX0ZnNks3Y1lwTzBaSjJFUHhQaHBrTXctYjA1VDZvOGtPSzJqMzFldW11dENfTHJ0TmxoRzBGUmxBNEQ3cl9LcFdQelpHcU0xWjJPaVZfbkVDdzhUc1VyWlY1MU1qX1RjbnJYZVBJemhaUHcyR2xVTFVkbU9n?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Sun, 19 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Chandigarh",
+   "title": "Haryana to deploy AI-powered drones to track illegal constructions, mining | Hindustan Times",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3N5N3F4Mkhja2lqWVVWZ2c0QzBrMURBSHpGQkk0RF9ub3c1NmJ5cGNMdmh3SW9GYU8xOUZab2FEYjV3RkpJcDYwakEybTNPZUs0YzhhZUFQNExSRUFLc2Yxelg4cUxYU01zTWd4cks0M3M3MHFwN2kwYzh2Ui1BMGNfU2tVaXhTRGRvOUdyN3NSOUdJMndMV2EweUNjdjVjM2ZXaXdnVkEwaU40c1RQNGlkQXJDT0FZbE0ySnJvM0RFQ3preEpoVXhWWWNvQUxpa0xCTDlKYW1rc0tzMTVPaUxn0gHnAUFVX3lxTFBlZ1dXZDcwZWcxSzJETEw0a1pRRVp4a2RBMTJYRHZDMy16NEpkVUE2UWdGNzJIRGdiR1JfbG1UbS01R2tSaTlzQ00wdll3VG1jWlRsVlBLSFRRc2NtSE03akJ6bmdoekczMF95LTB3UlNobWVmWDFibXp0Vk55czEtQ21QMVZ2SEFVRUdfX1NmSTJVMjREbWMzbFFBaDA5dDZIT2tXcjJTdFEtbEIydFRxSnFvdHd3ZGdxMmh2Y3JLTWhVN2JTa1ptNnp5enJ4ZWhuM3d5cjFSWGxSYm15UGdpTjdaV2F6TQ?oc=5\" target=\"_blank\">Haryana to deploy AI-powered drones to track illegal constructions, mining | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3N5N3F4Mkhja2lqWVVWZ2c0QzBrMURBSHpGQkk0RF9ub3c1NmJ5cGNMdmh3SW9GYU8xOUZab2FEYjV3RkpJcDYwakEybTNPZUs0YzhhZUFQNExSRUFLc2Yxelg4cUxYU01zTWd4cks0M3M3MHFwN2kwYzh2Ui1BMGNfU2tVaXhTRGRvOUdyN3NSOUdJMndMV2EweUNjdjVjM2ZXaXdnVkEwaU40c1RQNGlkQXJDT0FZbE0ySnJvM0RFQ3preEpoVXhWWWNvQUxpa0xCTDlKYW1rc0tzMTVPaUxn0gHnAUFVX3lxTFBlZ1dXZDcwZWcxSzJETEw0a1pRRVp4a2RBMTJYRHZDMy16NEpkVUE2UWdGNzJIRGdiR1JfbG1UbS01R2tSaTlzQ00wdll3VG1jWlRsVlBLSFRRc2NtSE03akJ6bmdoekczMF95LTB3UlNobWVmWDFibXp0Vk55czEtQ21QMVZ2SEFVRUdfX1NmSTJVMjREbWMzbFFBaDA5dDZIT2tXcjJTdFEtbEIydFRxSnFvdHd3ZGdxMmh2Y3JLTWhVN2JTa1ptNnp5enJ4ZWhuM3d5cjFSWGxSYm15UGdpTjdaV2F6TQ?oc=5",
+   "source_name": "Hindustan Times",
+   "source_domain": "hindustantimes.com",
+   "published_raw": "Tue, 04 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:02+00:00"
+  }
+ ]
+}

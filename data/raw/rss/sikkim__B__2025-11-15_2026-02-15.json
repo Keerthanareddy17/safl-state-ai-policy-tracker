@@ -1,0 +1,98 @@
+{
+ "region": "Sikkim",
+ "group": "B",
+ "query": "(Sikkim) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2025-11-15 before:2026-02-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Sikkim%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2025-11-15+before%3A2026-02-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:45:51+00:00",
+ "item_count": 8,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim startup Apuphi secures German investment, valued at $4.4 million",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONWUtUWN4dlFVcHgyTEZSYm42eTIyRlotdXFDLXFuSHlHMkJZLTR5ODN3S213Q3h1N1pCSXdVWnpzQ3RqNkVQTHNEeDNWTGl5b0RrTjNhSjJHdTRjSG5ValBXOGNqQXBObDE4YnpSRGZaTjNjRHNwV1kxZmFfVjNOUWZWaEdkTUtTMkE4OHV5ZUNfUnpuQmQtX1h0b3RVdWgyT0cyb3lVbWo4SERZVTlDeg?oc=5\" target=\"_blank\">Sikkim startup Apuphi secures German investment, valued at $4.4 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWUtUWN4dlFVcHgyTEZSYm42eTIyRlotdXFDLXFuSHlHMkJZLTR5ODN3S213Q3h1N1pCSXdVWnpzQ3RqNkVQTHNEeDNWTGl5b0RrTjNhSjJHdTRjSG5ValBXOGNqQXBObDE4YnpSRGZaTjNjRHNwV1kxZmFfVjNOUWZWaEdkTUtTMkE4OHV5ZUNfUnpuQmQtX1h0b3RVdWgyT0cyb3lVbWo4SERZVTlDeg?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Fri, 02 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "When Sikkim knocked on Nepal’s door—and got silence",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdDN3M0NXOUV3TWpYRC1leGFFWndvLXFUSUpPU3NnQlNRSHptbFNhcFZHTXBucXl1VWU5elB2RFVtRW9INGpYNWpSR01Kc1ZPQkZvdG5iZy04TDJwQnZwY2RyWi1hTHF3ckRUZGxHcjU0R0xWdVI0eHE5TEFkOGw4Qm1NeEtYbS1zYzcyUnBqVmwzaEhuS3c?oc=5\" target=\"_blank\">When Sikkim knocked on Nepal’s door—and got silence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdDN3M0NXOUV3TWpYRC1leGFFWndvLXFUSUpPU3NnQlNRSHptbFNhcFZHTXBucXl1VWU5elB2RFVtRW9INGpYNWpSR01Kc1ZPQkZvdG5iZy04TDJwQnZwY2RyWi1hTHF3ckRUZGxHcjU0R0xWdVI0eHE5TEFkOGw4Qm1NeEtYbS1zYzcyUnBqVmwzaEhuS3c?oc=5",
+   "source_name": "Nepalnews.com",
+   "source_domain": "english.nepalnews.com",
+   "published_raw": "Sat, 07 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Catholic Church in Sikkim Marks Triple Jubilee as a Journey of God’s Grace",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORUVWR29DMjYzTUgwWE9WVTZGbkN5MEdQSFJNSEdDSDZ0MHFpVkZLUXFMRmh6bUU5X0dhemZ1X2F1VXFOaVRzeXFvQmlIZlYzeWx0cWJsQmhscUpQN29pbnZhMmpzeHQxMXNDdVlxZk1PcGZxekNFeVBzYVFaS1ZBMnhHYmM5dmQwX0xxX3JzYUlwc3JzSElWaTI0dnU?oc=5\" target=\"_blank\">Catholic Church in Sikkim Marks Triple Jubilee as a Journey of God’s Grace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Veritas Asia</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUVWR29DMjYzTUgwWE9WVTZGbkN5MEdQSFJNSEdDSDZ0MHFpVkZLUXFMRmh6bUU5X0dhemZ1X2F1VXFOaVRzeXFvQmlIZlYzeWx0cWJsQmhscUpQN29pbnZhMmpzeHQxMXNDdVlxZk1PcGZxekNFeVBzYVFaS1ZBMnhHYmM5dmQwX0xxX3JzYUlwc3JzSElWaTI0dnU?oc=5",
+   "source_name": "Radio Veritas Asia",
+   "source_domain": "rvasia.org",
+   "published_raw": "Sat, 27 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim Assembly adopts report on 12 left-out communities",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEpyVDZJeGx3Q1dLXzV0ck14dFJwb21sdGp0c3N5T0RObVBUNFlGcENTT0x2YmxiZlhQS0k3OUVxZmxDNWtmNFpVT2gzSWFVQjd0VHNJbUZMQk5KRHR1SVIxNWkzOWl6dnJrYW1kMkNfMG1pUkpWSmw2eUNBeEhtSmRHcVJ0SFhDMU9ueWM3WVR5WWhUVVE0X0c4TWE?oc=5\" target=\"_blank\">Sikkim Assembly adopts report on 12 left-out communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EastMojo</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEpyVDZJeGx3Q1dLXzV0ck14dFJwb21sdGp0c3N5T0RObVBUNFlGcENTT0x2YmxiZlhQS0k3OUVxZmxDNWtmNFpVT2gzSWFVQjd0VHNJbUZMQk5KRHR1SVIxNWkzOWl6dnJrYW1kMkNfMG1pUkpWSmw2eUNBeEhtSmRHcVJ0SFhDMU9ueWM3WVR5WWhUVVE0X0c4TWE?oc=5",
+   "source_name": "EastMojo",
+   "source_domain": "eastmojo.com",
+   "published_raw": "Sat, 13 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "SKM 14TH FOUNDATION DAY TODAY",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaUgyTF82UVVmZDM0dHBOWkhvVDVmNUdiUDN4bHRJV2hDWEgtRUNjc3ZXOE5YVzVsbFVKVEVEUDdhNjl6WlA2aEJDWUt2RnFIeW1UVndQVlR6VE13Rmk3WExLcUJmSkRYNFZMNDVzT2p3SnBHTkIxQ2p2bEE?oc=5\" target=\"_blank\">SKM 14TH FOUNDATION DAY TODAY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaUgyTF82UVVmZDM0dHBOWkhvVDVmNUdiUDN4bHRJV2hDWEgtRUNjc3ZXOE5YVzVsbFVKVEVEUDdhNjl6WlA2aEJDWUt2RnFIeW1UVndQVlR6VE13Rmk3WExLcUJmSkRYNFZMNDVzT2p3SnBHTkIxQ2p2bEE?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Tue, 03 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Cupid Breweries gets Sikkim government approval for its new brewing unit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXZobDl2cFdteEE1cndZcWVUV2FNTUNtTWF4aTd6Yno0dVZxekVxRVhMd1NHN2NpVjViQmxlYTNZU3puODVIRFliOEY4aEV5OGQyZzA4aG11MElxVllUZ3pkdzNHUzN4a29vS2tvX1d3VjdxRmNXejI3aWF1VUFQVlJKRHc5REkyTTg5VThuMGx2X0kwRURiYzFSQjlmX2ppZHVIbnRNRWg?oc=5\" target=\"_blank\">Cupid Breweries gets Sikkim government approval for its new brewing unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alice Blue</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXZobDl2cFdteEE1cndZcWVUV2FNTUNtTWF4aTd6Yno0dVZxekVxRVhMd1NHN2NpVjViQmxlYTNZU3puODVIRFliOEY4aEV5OGQyZzA4aG11MElxVllUZ3pkdzNHUzN4a29vS2tvX1d3VjdxRmNXejI3aWF1VUFQVlJKRHc5REkyTTg5VThuMGx2X0kwRURiYzFSQjlmX2ppZHVIbnRNRWg?oc=5",
+   "source_name": "Alice Blue",
+   "source_domain": "aliceblueonline.com",
+   "published_raw": "Thu, 11 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Firmly committed to our ‘Sunaulo, Samriddha ani Samarth Sikkim’ vision: CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmZJdnNRd2tUU0UxRVJ2d2FQWUNsWm5PVTgwb001NzIxSEdiRlFHNWFyYlNvaWQtMDdJcU5HMzB0cmVFa1hwbWF2bWRsaXZNODhPLWtYOFozakg5VWJPQXdaYXNVOXNoRS1uNnRVeFlHYWUxemVPVjdRMnRXSXJrZWRDT0lPSXhSdVBOc3BDd2xnWWk3dTM1bzZTMUhRblZzSm93dU1WZUxvNUU2Qk1BaTA4OA?oc=5\" target=\"_blank\">Firmly committed to our ‘Sunaulo, Samriddha ani Samarth Sikkim’ vision: CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmZJdnNRd2tUU0UxRVJ2d2FQWUNsWm5PVTgwb001NzIxSEdiRlFHNWFyYlNvaWQtMDdJcU5HMzB0cmVFa1hwbWF2bWRsaXZNODhPLWtYOFozakg5VWJPQXdaYXNVOXNoRS1uNnRVeFlHYWUxemVPVjdRMnRXSXJrZWRDT0lPSXhSdVBOc3BDd2xnWWk3dTM1bzZTMUhRblZzSm93dU1WZUxvNUU2Qk1BaTA4OA?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Sun, 25 Jan 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Sikkim",
+   "title": "Sikkim Bihari Jagran Manch celebrates its 32nd foundation day",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXcxQkZjUEVHMVBtQUpqU05yaGhRV09DUFB2LUNNQTM5UW9jUHNZS2JwRVZUMmdEVnhwMVFoeVRBcDRTcUZKcGE3N3VEc2NSZU5oYVBVNTNTS1F5enNwVUdpUjBYbjdseWRfU0xJekw1NGZrdVd5OWdCUFlfWW9mTTBTem9PQ2NLNjRaM2hBSkUwLUZaMFJVZ3VIMEQ1czNpc05RV0E3aw?oc=5\" target=\"_blank\">Sikkim Bihari Jagran Manch celebrates its 32nd foundation day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sikkimexpress</font>",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXcxQkZjUEVHMVBtQUpqU05yaGhRV09DUFB2LUNNQTM5UW9jUHNZS2JwRVZUMmdEVnhwMVFoeVRBcDRTcUZKcGE3N3VEc2NSZU5oYVBVNTNTS1F5enNwVUdpUjBYbjdseWRfU0xJekw1NGZrdVd5OWdCUFlfWW9mTTBTem9PQ2NLNjRaM2hBSkUwLUZaMFJVZ3VIMEQ1czNpc05RV0E3aw?oc=5",
+   "source_name": "Sikkimexpress",
+   "source_domain": "sikkimexpress.com",
+   "published_raw": "Tue, 09 Dec 2025 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:45:51+00:00"
+  }
+ ]
+}

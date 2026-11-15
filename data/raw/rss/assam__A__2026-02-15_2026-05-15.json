@@ -1,0 +1,120 @@
+{
+ "region": "Assam",
+ "group": "A",
+ "query": "(Assam) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Assam%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:25+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "AI-FIRST ASSAM: Reimagining Governance for a Digital Decade",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOb21RQ043M0VWWV9RS25OVFNtZnhCZ2JqdlhUMEFSNEh3bzZKU0E1NzVyZkp1UGNVUjJ2bW52c280OFl0c18za1FVQ0lmVHJDazB2UHc5ZTU5WU1iVHA1SHBoM0pfUVdMWUE3NVRNb2R6a0RBd1BOQ2s2cTBlTVZXVWUtMDktY1NMTktTRWJmblM4MjNFekZmNFBMZWE?oc=5\" target=\"_blank\">AI-FIRST ASSAM: Reimagining Governance for a Digital Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb21RQ043M0VWWV9RS25OVFNtZnhCZ2JqdlhUMEFSNEh3bzZKU0E1NzVyZkp1UGNVUjJ2bW52c280OFl0c18za1FVQ0lmVHJDazB2UHc5ZTU5WU1iVHA1SHBoM0pfUVdMWUE3NVRNb2R6a0RBd1BOQ2s2cTBlTVZXVWUtMDktY1NMTktTRWJmblM4MjNFekZmNFBMZWE?oc=5",
+   "source_name": "Elets eGov",
+   "source_domain": "egov.eletsonline.com",
+   "published_raw": "Tue, 24 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "The Reel Election: How AI Networks Are Influencing Assam’s Vote | BOOM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3RnQmd2eGdzN1ZpVk55MFBZemZTQnBDZ20tU3FRWFQzdE1IRTgzX2M0M1kwdEswd3c5ZGpqeFh1WmlqRG1ab2pMSkw5T1BRUG9lWXdTOUh2aU9WVHh0QVVnZmdhMEdNTmtVNWItZ1RTZXNDaWE5cG9qd0IxRW1zaWtpNzFidlBvcTlHUFJpV19vN1BscEVqbk9JcnlxQjdJaERRX9IBqgFBVV95cUxNYThybGFPUGlrSE90LWNwMmoxQmNSYUU3WjBNQjh3MkJXdXN0T21Vc3dNWXRYOS1QSTU3dU5kQlpZek90WDRiYXh0YlZpRDdlLU1vajFDYUt4cTFDckQ2X0tHLUJwV1JvblVMRXZxaGd4c0xPUDBEeTFQUGRjLW1Ld2Vyb3BLSWRLbDJPM09yamNEVjlhWWZxRi1SUEJCY3JodHVVNDBCU2J5UQ?oc=5\" target=\"_blank\">The Reel Election: How AI Networks Are Influencing Assam’s Vote | BOOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BOOM Fact Check</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3RnQmd2eGdzN1ZpVk55MFBZemZTQnBDZ20tU3FRWFQzdE1IRTgzX2M0M1kwdEswd3c5ZGpqeFh1WmlqRG1ab2pMSkw5T1BRUG9lWXdTOUh2aU9WVHh0QVVnZmdhMEdNTmtVNWItZ1RTZXNDaWE5cG9qd0IxRW1zaWtpNzFidlBvcTlHUFJpV19vN1BscEVqbk9JcnlxQjdJaERRX9IBqgFBVV95cUxNYThybGFPUGlrSE90LWNwMmoxQmNSYUU3WjBNQjh3MkJXdXN0T21Vc3dNWXRYOS1QSTU3dU5kQlpZek90WDRiYXh0YlZpRDdlLU1vajFDYUt4cTFDckQ2X0tHLUJwV1JvblVMRXZxaGd4c0xPUDBEeTFQUGRjLW1Ld2Vyb3BLSWRLbDJPM09yamNEVjlhWWZxRi1SUEJCY3JodHVVNDBCU2J5UQ?oc=5",
+   "source_name": "BOOM Fact Check",
+   "source_domain": "boomlive.in",
+   "published_raw": "Wed, 08 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "PM’s speech during the launch of various development works in Silchar, Assam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYk9aUDVHZlhYSVBaTTVtblFTQ2FvNXhhcTVNMkhUVE5WLTZsWVZJRW1MZVN5OE5YMi1kS3pLNEdsSVh3QmFWbnNvYU1xOEpQNFBKVW13NzJNM1BaNjVuNXlfb1h4U0ROWmdnekFKbzdib3BhNF9SZ2NVU0RVVjA0clZpR2xaMEZKVElJbi1rcERVVnpzcVRsTVp5VEtNNzRPUUZlTlJJN2FGWlFOMjRXbkh3Zmx5MG9yT2c?oc=5\" target=\"_blank\">PM’s speech during the launch of various development works in Silchar, Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PM India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYk9aUDVHZlhYSVBaTTVtblFTQ2FvNXhhcTVNMkhUVE5WLTZsWVZJRW1MZVN5OE5YMi1kS3pLNEdsSVh3QmFWbnNvYU1xOEpQNFBKVW13NzJNM1BaNjVuNXlfb1h4U0ROWmdnekFKbzdib3BhNF9SZ2NVU0RVVjA0clZpR2xaMEZKVElJbi1rcERVVnpzcVRsTVp5VEtNNzRPUUZlTlJJN2FGWlFOMjRXbkh3Zmx5MG9yT2c?oc=5",
+   "source_name": "PM India",
+   "source_domain": "pmindia.gov.in",
+   "published_raw": "Sat, 14 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "This deeptech venture is building indigenous AI for geophysical exploration in Assam",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2p4ajFNN3BoSGlBeWlVd3gxY25pT01XeGdMdVFmZ2dpUmx1NTV3UVZMVHpwSFd2dmdFOWRmaUVkM2trbTdZSFRLVkhZeXZyZklpQWFQa01ZMXRVcVctZ1poYlNoOVdGSjh4Z2NhVkR2cnhnbU90WDdsdDBmYjk1YnJNSUNYLXJEMTdZVm1PWEIyOHpHajlwbA?oc=5\" target=\"_blank\">This deeptech venture is building indigenous AI for geophysical exploration in Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YourStory.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2p4ajFNN3BoSGlBeWlVd3gxY25pT01XeGdMdVFmZ2dpUmx1NTV3UVZMVHpwSFd2dmdFOWRmaUVkM2trbTdZSFRLVkhZeXZyZklpQWFQa01ZMXRVcVctZ1poYlNoOVdGSjh4Z2NhVkR2cnhnbU90WDdsdDBmYjk1YnJNSUNYLXJEMTdZVm1PWEIyOHpHajlwbA?oc=5",
+   "source_name": "YourStory.com",
+   "source_domain": "yourstory.com",
+   "published_raw": "Tue, 03 Mar 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Daily Assam Current Affairs for APSC Exam (18-02-2026)",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNWZOZ3VDX2JqYkNqal9UbXVGR3dKZjNUQ2pWQ3J4U3RTREhvenVTWGRTTHY2dllRQkhOSTVFRzRRdVhGYklYY1A1LTRQZjBwOFlhVzFBX1I1Y19sVVF3Z2lB?oc=5\" target=\"_blank\">Daily Assam Current Affairs for APSC Exam (18-02-2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Drishti IAS</font>",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNWZOZ3VDX2JqYkNqal9UbXVGR3dKZjNUQ2pWQ3J4U3RTREhvenVTWGRTTHY2dllRQkhOSTVFRzRRdVhGYklYY1A1LTRQZjBwOFlhVzFBX1I1Y19sVVF3Z2lB?oc=5",
+   "source_name": "Drishti IAS",
+   "source_domain": "drishtiias.com",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Assamese speech-to-text platform showcased at India AI Impact Summit",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkZYZTE2Z1BxN1l4RnA1TlpGRlNkeFRXSU9NNWpVREVyRUUtM2p6THMxckxmQkxBSW5OaGlxbkxHa1A4cTN3QjdRR3hTQkYwSDRnQXd6UnBCU3JmQ3YtT1BZR1NoeW5FYUFRMy02NTlMRUZMclljaXJUcWMzdEEwb3VPZm5rRWVObFQ0MmdONkJCb0VsaW42VnFNVTVpNUg2eldiZ3Y0N043YnpsclQtMWt5V1pUd1JSVm4wZkIzazhGTVpuU1HSAcsBQVVfeXFMTTZJNDdHd095Skhua3NKZ2lwS0h4aU91MlVvWFhMZUM0cnlTQmlMZjRUREh1SVhlWl9panRncndvWU5BMTU5VUs4cXhwaWNYVklFZF9yUU00X3lPY2F5V0pwaDZCcWhQeTZObWlsZWI5X3BZLWpzVnR5bklrT1JxSjJtUW9mZVAzekRmTkw2VXd2NWplalNGbFVHdjEwTzRlQjFMM1FkbUtYV0prZlRkZGNkN1pUSkZmeTQ1Q3FHZGtqTk45cWo5bEVtSHc?oc=5\" target=\"_blank\">Assamese speech-to-text platform showcased at India AI Impact Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkZYZTE2Z1BxN1l4RnA1TlpGRlNkeFRXSU9NNWpVREVyRUUtM2p6THMxckxmQkxBSW5OaGlxbkxHa1A4cTN3QjdRR3hTQkYwSDRnQXd6UnBCU3JmQ3YtT1BZR1NoeW5FYUFRMy02NTlMRUZMclljaXJUcWMzdEEwb3VPZm5rRWVObFQ0MmdONkJCb0VsaW42VnFNVTVpNUg2eldiZ3Y0N043YnpsclQtMWt5V1pUd1JSVm4wZkIzazhGTVpuU1HSAcsBQVVfeXFMTTZJNDdHd095Skhua3NKZ2lwS0h4aU91MlVvWFhMZUM0cnlTQmlMZjRUREh1SVhlWl9panRncndvWU5BMTU5VUs4cXhwaWNYVklFZF9yUU00X3lPY2F5V0pwaDZCcWhQeTZObWlsZWI5X3BZLWpzVnR5bklrT1JxSjJtUW9mZVAzekRmTkw2VXd2NWplalNGbFVHdjEwTzRlQjFMM1FkbUtYV0prZlRkZGNkN1pUSkZmeTQ1Q3FHZGtqTk45cWo5bEVtSHc?oc=5",
+   "source_name": "India Today NE",
+   "source_domain": "indiatodayne.in",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Income Tax dept launches AI-powered ‘Kar Saathi’ tax filing website",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLW1UekdkUHZYQlJObHdEZ2dyblh3T19lUWdkOE5HWm90UlpZQnMxN251Z1ZjdDdBVU9CUUZ6VFlaWXRtaUt3ZnVPaXd4NFhtTzdzY25TVjFIekpOdklhcUJqY21kSzQxRjAxQzNrNkZETkRfcm81X1p2VXZmem1FcGJrb3VpdlVrQThZVlpwWXJXMldHY3QwLW1zYUU1XzgtbUZYb1FiQ0hqNU3SAbABQVVfeXFMTjZBTjBXa3pBMEQyQXRJY09OT1l3NV9tcWl4Y0o0RU9MVVZndnBwU28yUUVGNkgzVG9oS0c1Q0pKWjBOTE10VVU1QzRWTlRRMzNzMG41TFlEMWVUOHdoaGhaWDdWRGhyZmEyU2FjNzVwV3NfRFZkSTVsekxycVd3ei13ZVI4MEdMRGsxV2Z0YWJjVng4c045V0p2Wm50NHVGUUFURmNhU3p2U3ZPRzBtUlQ?oc=5\" target=\"_blank\">Income Tax dept launches AI-powered ‘Kar Saathi’ tax filing website</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLW1UekdkUHZYQlJObHdEZ2dyblh3T19lUWdkOE5HWm90UlpZQnMxN251Z1ZjdDdBVU9CUUZ6VFlaWXRtaUt3ZnVPaXd4NFhtTzdzY25TVjFIekpOdklhcUJqY21kSzQxRjAxQzNrNkZETkRfcm81X1p2VXZmem1FcGJrb3VpdlVrQThZVlpwWXJXMldHY3QwLW1zYUU1XzgtbUZYb1FiQ0hqNU3SAbABQVVfeXFMTjZBTjBXa3pBMEQyQXRJY09OT1l3NV9tcWl4Y0o0RU9MVVZndnBwU28yUUVGNkgzVG9oS0c1Q0pKWjBOTE10VVU1QzRWTlRRMzNzMG41TFlEMWVUOHdoaGhaWDdWRGhyZmEyU2FjNzVwV3NfRFZkSTVsekxycVd3ei13ZVI4MEdMRGsxV2Z0YWJjVng4c045V0p2Wm50NHVGUUFURmNhU3p2U3ZPRzBtUlQ?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Thu, 02 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5\" target=\"_blank\">Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5",
+   "source_name": "BBC",
+   "source_domain": "bbc.com",
+   "published_raw": "Thu, 09 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Assam CM announces job openings at Tata Semiconductor facility",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdk50b2M0MngySzlYRHZQWDM0VjNRRFNZTUFXdmNxLXpzd1JzTlF2MUdVXzY5cGF2WTEwVUFMc2k0YmF2d2VuQmIzS1U3Nm1xSjc3TnFDSTdGMDJGZG5UaktRLWlzUmdTUWxaZGxUa1VVTUxJUVotRjhadGJ0a0NySHBlbHZ6M0xDVHVxc05mS3loR25QZm1nQ1RpQTFGOThxQndF?oc=5\" target=\"_blank\">Assam CM announces job openings at Tata Semiconductor facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdk50b2M0MngySzlYRHZQWDM0VjNRRFNZTUFXdmNxLXpzd1JzTlF2MUdVXzY5cGF2WTEwVUFMc2k0YmF2d2VuQmIzS1U3Nm1xSjc3TnFDSTdGMDJGZG5UaktRLWlzUmdTUWxaZGxUa1VVTUxJUVotRjhadGJ0a0NySHBlbHZ6M0xDVHVxc05mS3loR25QZm1nQ1RpQTFGOThxQndF?oc=5",
+   "source_name": "Communications Today",
+   "source_domain": "communicationstoday.co.in",
+   "published_raw": "Tue, 17 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Assam",
+   "title": "Centre says nearly 3 crore homes completed under PMAY-G",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdFVrZkRnd1Y0WGFZWEV2VVVGSGlWdlkyc204Wnh5S1BKM3pISUFRMC1XcGM1UnRtNkFXV2JTTm9ILWdlYnhDQ1Qzei1xVFNXNlVkR0lnYVlreEtnNXNpTi1kdDBYU0RKQmI3NC1GS3NBX2JNQl9zYURfRWdxQkNhZUJub2lFLV9BMk1KOUc3XzZ0OFcwV0lUZkk2UV9md9IBowFBVV95cUxOLVprTXQ4djhMdGJabkRsWHQ4X1czaXdRMGYzYXU4enBBcFNpZm8zemJEa1FWYXNnRS13ZkhWMXR1bWdISHlEUG5qR0pNQlhWb2ZONVRJTENMSWZwUHBWc0lIR0NVWGVfNUZWc3F6czI4YU96WS1aV2ZTdlBNRzY1MUV2YWhZU2xsN3RSd0hXMFRpSFREUVNUOXZiRW1CLU92Vkww?oc=5\" target=\"_blank\">Centre says nearly 3 crore homes completed under PMAY-G</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFVrZkRnd1Y0WGFZWEV2VVVGSGlWdlkyc204Wnh5S1BKM3pISUFRMC1XcGM1UnRtNkFXV2JTTm9ILWdlYnhDQ1Qzei1xVFNXNlVkR0lnYVlreEtnNXNpTi1kdDBYU0RKQmI3NC1GS3NBX2JNQl9zYURfRWdxQkNhZUJub2lFLV9BMk1KOUc3XzZ0OFcwV0lUZkk2UV9md9IBowFBVV95cUxOLVprTXQ4djhMdGJabkRsWHQ4X1czaXdRMGYzYXU4enBBcFNpZm8zemJEa1FWYXNnRS13ZkhWMXR1bWdISHlEUG5qR0pNQlhWb2ZONVRJTENMSWZwUHBWc0lIR0NVWGVfNUZWc3F6czI4YU96WS1aV2ZTdlBNRzY1MUV2YWhZU2xsN3RSd0hXMFRpSFREUVNUOXZiRW1CLU92Vkww?oc=5",
+   "source_name": "The Assam Tribune",
+   "source_domain": "assamtribune.com",
+   "published_raw": "Tue, 31 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:25+00:00"
+  }
+ ]
+}

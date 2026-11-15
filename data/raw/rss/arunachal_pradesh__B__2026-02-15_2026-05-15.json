@@ -1,0 +1,76 @@
+{
+ "region": "Arunachal Pradesh",
+ "group": "B",
+ "query": "(\"Arunachal Pradesh\") (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-02-15 before:2026-05-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22Arunachal+Pradesh%22%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-02-15+before%3A2026-05-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:40:19+00:00",
+ "item_count": 6,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Union Minister of Minority Affairs & Parliamentary Affairs Shri Kiren Rijiju launches NIGRANI App, Haj Wrist band and AI Chatbots of Ministry during formal inauguration of Chintan Shivir today",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMTdHNURTemxDTTA0ZkNwalhJQUxYZDJfRFZUZzV3aEJPb0VDYVZ2Q3VWX3ZhU1JESHd1NmRFNC1hUV8xOURDWnM3bUxMcF9QSGlxODl2QlpGMS04RXJud1lac0dXR2w4?oc=5\" target=\"_blank\">Union Minister of Minority Affairs & Parliamentary Affairs Shri Kiren Rijiju launches NIGRANI App, Haj Wrist band and AI Chatbots of Ministry during formal inauguration of Chintan Shivir today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMTdHNURTemxDTTA0ZkNwalhJQUxYZDJfRFZUZzV3aEJPb0VDYVZ2Q3VWX3ZhU1JESHd1NmRFNC1hUV8xOURDWnM3bUxMcF9QSGlxODl2QlpGMS04RXJud1lac0dXR2w4?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Thu, 19 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal inks MoU with Wadhwani AI to strengthen health care system",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOd09pYXVPMm12WEl4MXFBUmZhYVNaOEhtUmdPOUNNdDZMWFFOZzF5YmMwdXBBcGdQcmNNY0c0SmxHdHEwc044UTZ2OFMxWHVqN3otNmZXZmNXRFc4U0ZKX2dNSS1IaERTLXJfV1duV1NxMmZETGpnNUZlelU2YTNQamNTS2Q1SlJ4OFFJa1U1NHNvdWVhUWJkRkltb0lhM3Z0RUxrNw?oc=5\" target=\"_blank\">Arunachal inks MoU with Wadhwani AI to strengthen health care system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd09pYXVPMm12WEl4MXFBUmZhYVNaOEhtUmdPOUNNdDZMWFFOZzF5YmMwdXBBcGdQcmNNY0c0SmxHdHEwc044UTZ2OFMxWHVqN3otNmZXZmNXRFc4U0ZKX2dNSS1IaERTLXJfV1duV1NxMmZETGpnNUZlelU2YTNQamNTS2Q1SlJ4OFFJa1U1NHNvdWVhUWJkRkltb0lhM3Z0RUxrNw?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Thu, 23 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Ministry of Minority Affairs organizing 'Chintan Shivir' at Nalanda University, Rajgir, Bihar",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZXZmUHBzdjJUS001cFpBTFhic3RIU2ZxTlNnME5fdUY0Qnh2alRaX2NFSVpxdWo4T0ZDWGpKUVlCOE5rUV9hZlNuZ1p4dW9aUDhxRk9Rci00ZUdMVFJJLVlNWFFlLWdK?oc=5\" target=\"_blank\">Ministry of Minority Affairs organizing 'Chintan Shivir' at Nalanda University, Rajgir, Bihar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.pib.gov.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZXZmUHBzdjJUS001cFpBTFhic3RIU2ZxTlNnME5fdUY0Qnh2alRaX2NFSVpxdWo4T0ZDWGpKUVlCOE5rUV9hZlNuZ1p4dW9aUDhxRk9Rci00ZUdMVFJJLVlNWFFlLWdK?oc=5",
+   "source_name": "www.pib.gov.in",
+   "source_domain": "pib.gov.in",
+   "published_raw": "Wed, 18 Feb 2026 08:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "CM presents appointment orders to successful CSLE candidates",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXAtd2JjM3BaNjd4dkdOYTB3VjlGYUxXRzhFZjU3bEczNGJXRWs5S0pIcXc0cDZxUzlQWGFrYTcxTlJFVUVHaHFJYU90a1RENzJtUW1YWFhhdGphRWFHcFc4NFQwcXE2VC1DOE9adEZsRTdxelNnTlFUSVZoRnZtN2NYM1hYc1htZG1zbGZkeGJYT3FSanFvZ0ZR?oc=5\" target=\"_blank\">CM presents appointment orders to successful CSLE candidates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXAtd2JjM3BaNjd4dkdOYTB3VjlGYUxXRzhFZjU3bEczNGJXRWs5S0pIcXc0cDZxUzlQWGFrYTcxTlJFVUVHaHFJYU90a1RENzJtUW1YWFhhdGphRWFHcFc4NFQwcXE2VC1DOE9adEZsRTdxelNnTlFUSVZoRnZtN2NYM1hYc1htZG1zbGZkeGJYT3FSanFvZ0ZR?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Sat, 18 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal journalist Ranju Dodum represents India at int’l prog on AI",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPY20wUHQ2dklYY2wxeVBuSDZHNGExanBuOHhzTDBVRFZEd0FjRC1aM1ZJSUhhMzdhS2wzVk1UekZzWG1BWml2ZnNVTzlzRVpwU2N4QWNFWWFCazZWQzN1ajQ5MWdqeHFDY3h2ZHpwbTlBQVl0SEFydTM0OTJwbTVOYWlVSFpoSlVKN1JZX0g3NkRrb3FnekNLWEY5NlpnR0g5ZDBFTA?oc=5\" target=\"_blank\">Arunachal journalist Ranju Dodum represents India at int’l prog on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY20wUHQ2dklYY2wxeVBuSDZHNGExanBuOHhzTDBVRFZEd0FjRC1aM1ZJSUhhMzdhS2wzVk1UekZzWG1BWml2ZnNVTzlzRVpwU2N4QWNFWWFCazZWQzN1ajQ5MWdqeHFDY3h2ZHpwbTlBQVl0SEFydTM0OTJwbTVOYWlVSFpoSlVKN1JZX0g3NkRrb3FnekNLWEY5NlpnR0g5ZDBFTA?oc=5",
+   "source_name": "The Arunachal Times",
+   "source_domain": "arunachaltimes.in",
+   "published_raw": "Tue, 17 Mar 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:19+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Arunachal Pradesh",
+   "title": "Arunachal Pradesh Chief Minister Pema Khandu opens new facilities at DNGC, strengthens education and skills push",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTBjVXQ1Y25aMkF6bzUwdF8wVVdaOUdUMUhJUWE5alFXR2x0T0s2Zktvdk5CLUpaUG9kd3B5UTVOZ2VodjM2OEdBU29nUnN1M0ZpSjF0dmlKOXV0YWpXRGdqRHNVWDhlRkdtVmJkNW5RS1lNdjZGUzVnTjl5RGVDUlJGa0dZdDNkVTRqcmVCS1NQci1EMVBjUTZyTmJkUXdmN2R5VEJFYXdGbDd2SExpOTZaVWpiNk95cWNHY1FyTk0yd3BQcmZERFd2aFZ5bmlO?oc=5\" target=\"_blank\">Arunachal Pradesh Chief Minister Pema Khandu opens new facilities at DNGC, strengthens education and skills push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syllad</font>",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTBjVXQ1Y25aMkF6bzUwdF8wVVdaOUdUMUhJUWE5alFXR2x0T0s2Zktvdk5CLUpaUG9kd3B5UTVOZ2VodjM2OEdBU29nUnN1M0ZpSjF0dmlKOXV0YWpXRGdqRHNVWDhlRkdtVmJkNW5RS1lNdjZGUzVnTjl5RGVDUlJGa0dZdDNkVTRqcmVCS1NQci1EMVBjUTZyTmJkUXdmN2R5VEJFYXdGbDd2SExpOTZaVWpiNk95cWNHY1FyTk0yd3BQcmZERFd2aFZ5bmlO?oc=5",
+   "source_name": "Syllad",
+   "source_domain": "syllad.com",
+   "published_raw": "Thu, 16 Apr 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:40:19+00:00"
+  }
+ ]
+}

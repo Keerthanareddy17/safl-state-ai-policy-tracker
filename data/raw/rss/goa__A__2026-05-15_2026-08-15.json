@@ -1,0 +1,120 @@
+{
+ "region": "Goa",
+ "group": "A",
+ "query": "(Goa) (\"AI\" OR \"artificial intelligence\") (policy OR mission OR \"task force\" OR \"centre of excellence\" OR regulation OR ethics OR budget OR MoU) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28Goa%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28policy+OR+mission+OR+%22task+force%22+OR+%22centre+of+excellence%22+OR+regulation+OR+ethics+OR+budget+OR+MoU%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:41:48+00:00",
+ "item_count": 10,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "In Final Stage, Under Review: Goa IT Minister On Delayed AI, Deep-Tech Policy",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONk9kUWhyWF9GcDMycUFidlI5VklLYkNacnUtWkNKV29zRXVpRGkwbHp4eEk4TVVpTWxWVnNsUlVzTXVVMkhJbTRlWGFPcXdnVmw4MTVLckFIVDJqT0Z2a3BVeVIwbGwtd3hWNzVuZVR3NjRsUXBncE5xMTd1clprMTZYSktqN0FXQUF5LTVIbVp6OUU2R3lFbll5MDdGcHVZbXNlam5RWUs2dlI1aEttTWhzY3lpTXJaQXp6bFJoSFpqZXg20gHMAUFVX3lxTFBCdHhoNVAzajZWVnZ6UV9Td0wza3BtNDZNdzVqcjNUeGRlQTQ1azl5Z1JSelF2S1pxMVV4UTFuZ0dGeUxxd3gxbkh0YmF6WlpmX1h6QlpfTWlJbTV5RS15el83MzVMWWhyT2ZUZkJFaFQzZXAtRFRuRlhZZnlpSGJPeWNCQ2RzUDJDVWI0MHlzLUlscFpuRi1iLS1ScXNxTnhjTkV6TzUwcHk3SnVwTGh0VnYwRXN0al93Sk05S2tVMUlyaG5VR21tTng1OA?oc=5\" target=\"_blank\">In Final Stage, Under Review: Goa IT Minister On Delayed AI, Deep-Tech Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONk9kUWhyWF9GcDMycUFidlI5VklLYkNacnUtWkNKV29zRXVpRGkwbHp4eEk4TVVpTWxWVnNsUlVzTXVVMkhJbTRlWGFPcXdnVmw4MTVLckFIVDJqT0Z2a3BVeVIwbGwtd3hWNzVuZVR3NjRsUXBncE5xMTd1clprMTZYSktqN0FXQUF5LTVIbVp6OUU2R3lFbll5MDdGcHVZbXNlam5RWUs2dlI1aEttTWhzY3lpTXJaQXp6bFJoSFpqZXg20gHMAUFVX3lxTFBCdHhoNVAzajZWVnZ6UV9Td0wza3BtNDZNdzVqcjNUeGRlQTQ1azl5Z1JSelF2S1pxMVV4UTFuZ0dGeUxxd3gxbkh0YmF6WlpmX1h6QlpfTWlJbTV5RS15el83MzVMWWhyT2ZUZkJFaFQzZXAtRFRuRlhZZnlpSGJPeWNCQ2RzUDJDVWI0MHlzLUlscFpuRi1iLS1ScXNxTnhjTkV6TzUwcHk3SnVwTGh0VnYwRXN0al93Sk05S2tVMUlyaG5VR21tTng1OA?oc=5",
+   "source_name": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_raw": "Thu, 06 Aug 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa records 803 DPIIT-recognised startups as AI, tech ecosystem expands: Khaunte",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVms3MkZiNGtVemZOdGR6UTMtcF9ZX2RkZ24wY1FLTll6VlVuR0lNMnJ0WVFrd1Q2RUxSU2NqNkt5cUR6Sm1VbU91c2J1aC0wMi1aNF92aVpoelhMeXFuYzhnSmIxM05hYmN3bVpUb3NJeWxDY2UtbC05MUxZRkxfTUREWXlFaDV2THhkalJ2MDFma2FNSWM2bUR6akVEd2hjWUE5Y3h0SEM2VVRyOVVCZXFUNzU3ZHRtM3N1eGlqNA?oc=5\" target=\"_blank\">Goa records 803 DPIIT-recognised startups as AI, tech ecosystem expands: Khaunte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVms3MkZiNGtVemZOdGR6UTMtcF9ZX2RkZ24wY1FLTll6VlVuR0lNMnJ0WVFrd1Q2RUxSU2NqNkt5cUR6Sm1VbU91c2J1aC0wMi1aNF92aVpoelhMeXFuYzhnSmIxM05hYmN3bVpUb3NJeWxDY2UtbC05MUxZRkxfTUREWXlFaDV2THhkalJ2MDFma2FNSWM2bUR6akVEd2hjWUE5Y3h0SEM2VVRyOVVCZXFUNzU3ZHRtM3N1eGlqNA?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Mon, 29 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "1.37 lakh screenings completed in Goa under initiative to tackle cancer: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnI1OGZxcTJrN25Pa28xUlpJbE9xSk8yU1pMZ2pRTW1sZTMxQ3pfemlJazB3V0Zza0F2U2ZHaFBONUZFckFnUEhQRk1YalRDYldET2FPN1lpamFWaC1hbE5WbjRGS0NBa1FMMHJTazM2UmdaWWNMYmxsMnF4YTVyTkE5Q1htZ3c5Y1VkVUptcncwaGhKTzR1WmJaTzZRR0RTNElGTEl6NkU0YUQwRUVCMUFOTzh3cjc0RktoRzQzbC1XOGtJQ09VaTFnS1RXUl9RVzFKZ0pZdzFCMF9kZllB0gHkAUFVX3lxTE9zaXdwNnFINFJvTlVzeUplTEVwQmNhcVFSWjh5TERDZlhJUU5fdVp5SEFDWGVSbUxvUXpqeFY5ejNNbkE5ME9vVG1JcUthZWxDSmpua0dyb2lrdVdYRmVFODV6WnBOTDJFRFBkamRZYmNHUVZWbmRWRE95b29aelBFNmtHRm1vRWFGR1FxeFIzUU1CY0dNSXBwUElJQnR4endYSWVzeGlSV29UMDNyWHRNM1ZsMGpEVVVWd2h3dElqQmVZYmI4a29DeG1sWmg4bDYwVU1abWw1MEI1RDlEczJNdnFDSg?oc=5\" target=\"_blank\">1.37 lakh screenings completed in Goa under initiative to tackle cancer: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET HealthWorld</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMnI1OGZxcTJrN25Pa28xUlpJbE9xSk8yU1pMZ2pRTW1sZTMxQ3pfemlJazB3V0Zza0F2U2ZHaFBONUZFckFnUEhQRk1YalRDYldET2FPN1lpamFWaC1hbE5WbjRGS0NBa1FMMHJTazM2UmdaWWNMYmxsMnF4YTVyTkE5Q1htZ3c5Y1VkVUptcncwaGhKTzR1WmJaTzZRR0RTNElGTEl6NkU0YUQwRUVCMUFOTzh3cjc0RktoRzQzbC1XOGtJQ09VaTFnS1RXUl9RVzFKZ0pZdzFCMF9kZllB0gHkAUFVX3lxTE9zaXdwNnFINFJvTlVzeUplTEVwQmNhcVFSWjh5TERDZlhJUU5fdVp5SEFDWGVSbUxvUXpqeFY5ejNNbkE5ME9vVG1JcUthZWxDSmpua0dyb2lrdVdYRmVFODV6WnBOTDJFRFBkamRZYmNHUVZWbmRWRE95b29aelBFNmtHRm1vRWFGR1FxeFIzUU1CY0dNSXBwUElJQnR4endYSWVzeGlSV29UMDNyWHRNM1ZsMGpEVVVWd2h3dElqQmVZYmI4a29DeG1sWmg4bDYwVU1abWw1MEI1RDlEczJNdnFDSg?oc=5",
+   "source_name": "ET HealthWorld",
+   "source_domain": "health.economictimes.indiatimes.com",
+   "published_raw": "Fri, 19 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa Infrastructure Boost: RVNL signed MoU as Project Executing Agency",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE02aVF1MlRMZzRqUFhrMzVZd3J6UWpwYVJmdXA4QzlKVGoxWVVpdGZSMDlIclFzUjZtSE5jLWtMb25aUURJb0FId1hOcFZsaDBvTE5PSWVZYjlNc0w1amxXblc5UkdnbkNZZUQ3VjkzRU5ncDNJMkkyVE1tWE1BbmM?oc=5\" target=\"_blank\">Goa Infrastructure Boost: RVNL signed MoU as Project Executing Agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metro Rail News</font>",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aVF1MlRMZzRqUFhrMzVZd3J6UWpwYVJmdXA4QzlKVGoxWVVpdGZSMDlIclFzUjZtSE5jLWtMb25aUURJb0FId1hOcFZsaDBvTE5PSWVZYjlNc0w1amxXblc5UkdnbkNZZUQ3VjkzRU5ncDNJMkkyVE1tWE1BbmM?oc=5",
+   "source_name": "Metro Rail News",
+   "source_domain": "metrorailnews.in",
+   "published_raw": "Mon, 20 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Beyond Implementation: Goa’s SeMT emerges as a strategic driver of digital governance",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0lNOTJPZE1uTGFQU0I5TlVsQ1g0a3pIUmZUY2tCbFNQa0pEZ181X3hveElqS2lYRlhqdF9Yc1Rsakp2VW9QTGo0Wi1MRkkzcV9sTkNndWZSTTRMdU81OGJPblNzRmZtTm9pblR4Y21za0R4NFM5ZjVyUTlubEt3Tk44ZnA4MzhSTkFTdUEwbFdaWEM1U0dEYmZxTFdLNXRvcG1pTEtYVno5ZE1qY0MzZ0otMWo4eWlTVHoybnN3aWlSMkhhN0l6Qi1VaFQwUQ?oc=5\" target=\"_blank\">Beyond Implementation: Goa’s SeMT emerges as a strategic driver of digital governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Express Computer</font>",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0lNOTJPZE1uTGFQU0I5TlVsQ1g0a3pIUmZUY2tCbFNQa0pEZ181X3hveElqS2lYRlhqdF9Yc1Rsakp2VW9QTGo0Wi1MRkkzcV9sTkNndWZSTTRMdU81OGJPblNzRmZtTm9pblR4Y21za0R4NFM5ZjVyUTlubEt3Tk44ZnA4MzhSTkFTdUEwbFdaWEM1U0dEYmZxTFdLNXRvcG1pTEtYVno5ZE1qY0MzZ0otMWo4eWlTVHoybnN3aWlSMkhhN0l6Qi1VaFQwUQ?oc=5",
+   "source_name": "Express Computer",
+   "source_domain": "expresscomputer.in",
+   "published_raw": "Mon, 01 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa To Launch Global Capability Centre And AI Excellence Hub To Boost Startup Ecosystem",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmZxci1INnRleFpkZjVzQkpkN0o3dW02SjlYMnVMSTcxdzVQa0F3UWt5Z3JTck5KcFVHalh4UEN4dE5PbndYVkVPdk5tQk5adnZSYUFUblNHRGtuNXR0ZkVjSjlZRjFxdEZwMl9PRW1PVFF5ZnlqYU9UUzBFeHEzRkwxZGtHMlZqTkFlbjh2SzQzSUEwd3dHRnQ5MFoxSnZpcUVkMFZ4ajNuVURJdG92ZlY0eVhIMkhoMGxFM3RLSEtURUhZ?oc=5\" target=\"_blank\">Goa To Launch Global Capability Centre And AI Excellence Hub To Boost Startup Ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ascendants.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmZxci1INnRleFpkZjVzQkpkN0o3dW02SjlYMnVMSTcxdzVQa0F3UWt5Z3JTck5KcFVHalh4UEN4dE5PbndYVkVPdk5tQk5adnZSYUFUblNHRGtuNXR0ZkVjSjlZRjFxdEZwMl9PRW1PVFF5ZnlqYU9UUzBFeHEzRkwxZGtHMlZqTkFlbjh2SzQzSUEwd3dHRnQ5MFoxSnZpcUVkMFZ4ajNuVURJdG92ZlY0eVhIMkhoMGxFM3RLSEtURUhZ?oc=5",
+   "source_name": "ascendants.in",
+   "source_domain": "ascendants.in",
+   "published_raw": "Sun, 21 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa launches BHASHINI workshop to boost Konkani AI, voice-based citizen services",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW11MkF3U2FVMXlTaThESy1idkE3Qk1yNDZjcmtQVmpJdUpEYmNwd2lwZG9KOGJxOVFaMWc5b19PWldIbTZPanB6NWd4N2NseTBoRlpYWUtvbUpldHcyMEJOdDFjRVF1MW1kNWtWeElnVzFiNjNrUXhUb3RsbW9XYjhrcHRnSXNzOTk1dUt3NjdoZFFkTVE0SWJfNmkxX3BkQkpqVzM1QTI1SXR3Z0JMRV9kbkMzSUM0MnF0UWFyRmM?oc=5\" target=\"_blank\">Goa launches BHASHINI workshop to boost Konkani AI, voice-based citizen services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW11MkF3U2FVMXlTaThESy1idkE3Qk1yNDZjcmtQVmpJdUpEYmNwd2lwZG9KOGJxOVFaMWc5b19PWldIbTZPanB6NWd4N2NseTBoRlpYWUtvbUpldHcyMEJOdDFjRVF1MW1kNWtWeElnVzFiNjNrUXhUb3RsbW9XYjhrcHRnSXNzOTk1dUt3NjdoZFFkTVE0SWJfNmkxX3BkQkpqVzM1QTI1SXR3Z0JMRV9kbkMzSUM0MnF0UWFyRmM?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Fri, 17 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Goa developing nation’s first Happiness Index: CM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnhnYXhXcTloZm80eFlCWXFRQ0pLdHJ3MU9RdnJ6ZC1HU2diZWtzUGhNenFIcmkxbkVrUS1NVFBrXzN3aUE1WHZHLU9UYm1hc3E4UE16VEhZSFhwR1VZcHhLUDBKTWtjUG9sbnZ4Q3NnYTFWdk4zS2dxS1Z2aDVfMHRHRHFkbEZkOVBRd0NEMTJ0MG1zamItR3E5TVAyR21vWldqc0hhUWh5ZV9qTEF2MmVNeGJMaWRYN0HSAb8BQVVfeXFMUERZSG85TU5rYkhGdnpnV0RielFyei1pRmlsbDdyY25vUnlPMDNhSWxyWGg4d3RocXZYb1p0V3JCMHhKUHlNcXRUZWV2QzJmcmpOYlpscUZZeldmYkJxTV9aR2N1WlRJVGtRekRqYnBvbEFCT3R4MUlTbGxLU1NSclhoZU93Q0pGM3R2S3VOTHNlSkNtbnh1ZVNDSm1UQnVSUzFWVnhzUXpFdnJMb1VjUjJKSmd3OU5xM0N2ODNjMms?oc=5\" target=\"_blank\">Goa developing nation’s first Happiness Index: CM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnhnYXhXcTloZm80eFlCWXFRQ0pLdHJ3MU9RdnJ6ZC1HU2diZWtzUGhNenFIcmkxbkVrUS1NVFBrXzN3aUE1WHZHLU9UYm1hc3E4UE16VEhZSFhwR1VZcHhLUDBKTWtjUG9sbnZ4Q3NnYTFWdk4zS2dxS1Z2aDVfMHRHRHFkbEZkOVBRd0NEMTJ0MG1zamItR3E5TVAyR21vWldqc0hhUWh5ZV9qTEF2MmVNeGJMaWRYN0HSAb8BQVVfeXFMUERZSG85TU5rYkhGdnpnV0RielFyei1pRmlsbDdyY25vUnlPMDNhSWxyWGg4d3RocXZYb1p0V3JCMHhKUHlNcXRUZWV2QzJmcmpOYlpscUZZeldmYkJxTV9aR2N1WlRJVGtRekRqYnBvbEFCT3R4MUlTbGxLU1NSclhoZU93Q0pGM3R2S3VOTHNlSkNtbnh1ZVNDSm1UQnVSUzFWVnhzUXpFdnJMb1VjUjJKSmd3OU5xM0N2ODNjMms?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 12 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "AI traffic signal rollout begins on cautious note",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3VVOG1kYWNrWkRvV3NsRDVkaDkyNDlaTGY4eEt5LW5oaHhxMmNHVzZEb1BHWGY0aTBlaGo3Tl9kOUJ4QXhBZnBPU0w3b044azdpM3lWSzJ4eFZPMlJSVWx5RXhiQ181TldKRXJoMWF5LXplWXB1TWR0VkVCdzAzT0NNZ0pRblZQSGtJd0JnR0pXSV9QaGN5T1J3?oc=5\" target=\"_blank\">AI traffic signal rollout begins on cautious note</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Goan</font>",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3VVOG1kYWNrWkRvV3NsRDVkaDkyNDlaTGY4eEt5LW5oaHhxMmNHVzZEb1BHWGY0aTBlaGo3Tl9kOUJ4QXhBZnBPU0w3b044azdpM3lWSzJ4eFZPMlJSVWx5RXhiQ181TldKRXJoMWF5LXplWXB1TWR0VkVCdzAzT0NNZ0pRblZQSGtJd0JnR0pXSV9QaGN5T1J3?oc=5",
+   "source_name": "The Goan",
+   "source_domain": "thegoan.net",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "Goa",
+   "title": "Who is Dr Ketan Bhatikar, the Goa Congress leader who died of a snake bite?",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2ZKSUs3NV9nWUhMMXBNLXExQ1hvalJTb0lydmpObHZsemhIRzM1N2pPVFVoS042eGNvVzRkemQ4bXJ6VTFublhBQkozRDJ6Q0N4eG9iZXdlVG9HVU81dVhCd3RTX0ZJUnFGWHZnVWJyTVNTTHl1cTRsRFhkZS1DdGZ5ZWM1eGliLUFLOFo5Z1dTYzJaWFV5MlRlbFF0aHA3YUYzbF9tVUpWejBCdHUwb1h1cWt3TnFRLXpnbDAzYjZwTVJWMGFIMEtqVFJZSEZCTWR6U0RkLW3SAd4BQVVfeXFMTUJMNnpEMXd0REFwTDZVb3FUWlFTOUJOazlGLVBUTldGTlR5UDBUREc2bWdTVTh5ZE5TNEQyUDJ5bzFvR2V6eEJzOTQtclYtRXM1VFBqOC1nUm9YR0VscmEwWFJSTnQ5SFhCbmx1SzNfbVIzajNESDBJQVZXbzlCT2lRa0RFT3p5ZTFMR0Nzdk5sRDl0UGhRa3Y0cVA4Tk1HaVdDYlFjQW1oNjU4T2w0dzJ6dWlyc0prdFpseVkyQko2R1VwWFE2a2xxR2hZNkM0YXQwckNyLUhic0ZPVnF3?oc=5\" target=\"_blank\">Who is Dr Ketan Bhatikar, the Goa Congress leader who died of a snake bite?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Livemint</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2ZKSUs3NV9nWUhMMXBNLXExQ1hvalJTb0lydmpObHZsemhIRzM1N2pPVFVoS042eGNvVzRkemQ4bXJ6VTFublhBQkozRDJ6Q0N4eG9iZXdlVG9HVU81dVhCd3RTX0ZJUnFGWHZnVWJyTVNTTHl1cTRsRFhkZS1DdGZ5ZWM1eGliLUFLOFo5Z1dTYzJaWFV5MlRlbFF0aHA3YUYzbF9tVUpWejBCdHUwb1h1cWt3TnFRLXpnbDAzYjZwTVJWMGFIMEtqVFJZSEZCTWR6U0RkLW3SAd4BQVVfeXFMTUJMNnpEMXd0REFwTDZVb3FUWlFTOUJOazlGLVBUTldGTlR5UDBUREc2bWdTVTh5ZE5TNEQyUDJ5bzFvR2V6eEJzOTQtclYtRXM1VFBqOC1nUm9YR0VscmEwWFJSTnQ5SFhCbmx1SzNfbVIzajNESDBJQVZXbzlCT2lRa0RFT3p5ZTFMR0Nzdk5sRDl0UGhRa3Y0cVA4Tk1HaVdDYlFjQW1oNjU4T2w0dzJ6dWlyc0prdFpseVkyQko2R1VwWFE2a2xxR2hZNkM0YXQwckNyLUhic0ZPVnF3?oc=5",
+   "source_name": "Livemint",
+   "source_domain": "livemint.com",
+   "published_raw": "Fri, 15 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:41:48+00:00"
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "region": "West Bengal",
+ "group": "B",
+ "query": "(\"West Bengal\" OR Kolkata) (\"AI\" OR \"artificial intelligence\") (government OR govt OR minister OR \"chief minister\" OR launch OR deploy OR pilot) after:2026-05-15 before:2026-08-15",
+ "request_url": "https://news.google.com/rss/search?q=%28%22West+Bengal%22+OR+Kolkata%29+%28%22AI%22+OR+%22artificial+intelligence%22%29+%28government+OR+govt+OR+minister+OR+%22chief+minister%22+OR+launch+OR+deploy+OR+pilot%29+after%3A2026-05-15+before%3A2026-08-15&hl=en-IN&gl=IN&ceid=IN:en",
+ "fetched_at": "2026-11-15T09:47:20+00:00",
+ "item_count": 16,
+ "items": [
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Kolkata Corporation Posts AI-Edited Photo To Promote Cleanliness Campaign | BOOM",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTFleUk1bUFQRExCTTY1U01yelpZVHhjcEY4cUhIUm1qcXcxenZSVlB0eTB1Snp5OU1VSHJ6VFBjb3pwS1AydTh5X2NMQnpodmJUZkZ2Q1J3M2Nnblc0UGJlMXBtYXZDYVBuY1prNTJibEFZN2thVS1EQzJUNXhUbGhEQ0ZfUGdFREJia3lnTHY1QTFPa0JydGhkVndSVDAySGNtdWh6ajZybV9HNnN30gG0AUFVX3lxTE9sLXg1WGxZSEIxOVYwTVBiWFhKd2taa3RyVTlxV3JQZkJEUTBUTU9qM1lJUlkzZkVNZWxiY0ZhZDZhMVdmYjFBaVlObUlwbXcxaG93c2JMNVV4dk53dVN0eDM0eHR1NEtSOHBtVDJvc2h0a0N4LVdTRjJ2U1czblNUUWpxZ09rWThGUFNad2NTOEtVVjdVQ2c4MTFJSDB2d3Q3Y1ZHbTl4TFhOZGxOT0NEQlVjVA?oc=5\" target=\"_blank\">Kolkata Corporation Posts AI-Edited Photo To Promote Cleanliness Campaign | BOOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BOOM Fact Check</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTFleUk1bUFQRExCTTY1U01yelpZVHhjcEY4cUhIUm1qcXcxenZSVlB0eTB1Snp5OU1VSHJ6VFBjb3pwS1AydTh5X2NMQnpodmJUZkZ2Q1J3M2Nnblc0UGJlMXBtYXZDYVBuY1prNTJibEFZN2thVS1EQzJUNXhUbGhEQ0ZfUGdFREJia3lnTHY1QTFPa0JydGhkVndSVDAySGNtdWh6ajZybV9HNnN30gG0AUFVX3lxTE9sLXg1WGxZSEIxOVYwTVBiWFhKd2taa3RyVTlxV3JQZkJEUTBUTU9qM1lJUlkzZkVNZWxiY0ZhZDZhMVdmYjFBaVlObUlwbXcxaG93c2JMNVV4dk53dVN0eDM0eHR1NEtSOHBtVDJvc2h0a0N4LVdTRjJ2U1czblNUUWpxZ09rWThGUFNad2NTOEtVVjdVQ2c4MTFJSDB2d3Q3Y1ZHbTl4TFhOZGxOT0NEQlVjVA?oc=5",
+   "source_name": "BOOM Fact Check",
+   "source_domain": "boomlive.in",
+   "published_raw": "Thu, 18 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Bengal BJP Govt’s Maiden Budget Announces GCC Policy, Rs 5,000-Crore Investment Framework and AI Data Cen",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQenQwR29rUDdGRTBuNEF6ZmFjTzFBY1RZMmJtbk03SFo4WEZPN0p3MElab1NUVExMWVZCYVZJc05zS1hvUG05bXJFRmlWbzd2VmlUOVZvZ3l3OW9UN25fVEZwT2stTDU1RVhaVTZ3VERJUTFTbEN0RWs3dkl4VlJjVlJaZDNPT0hHVTlFM2VmM3dDZVd1OHRwZ3oxVWdxSm5DVl9MWXNLRmJEeERjcXZKSWF0NmRKT1hyV3VNemM1bVU1aXBxZ1h0eU1XUy1uYkVoOGp1V2k2ZHdSUGd2RG9VWXUzWW9OLWlKTl9rS1V4Q1RaZ2llS2MxUVJlSGVJa0EwSjk1VVhseEVZc2JXYmtZRHV0T3BJY1V2ODJB0gGgAkFVX3lxTE90Y25VMFVWS0dYaFYxbjRvNU5FZjN3cHRrT3k0U2dVd29PNEZzekNkeTZDQmpudHMwUnczVUxTaDE2N2t3azRGc3BtZ0ZUX0ZHTzk5Y2xnVkZNU3pZWVNBdkdKWTB0d0NoV09CRG1PM3RoX0w1cncyZWhWdkZaT2EzS2pUYTRieV9DNFlaUnpoNmxkQ0Qzc29zOWlYX0lPTF9VVkJIX29qTEVrTS00QWx0R243R01ndjdEY25kZHRxTUhSYi1zZDdRM2ZHR2I3N1J4ZW5ybVdJMjBEdWF0UXpfVkpIUmdMaTN6cENNTHVLYVdoNXgzQVhUUHh1TDV3VzA0eHhTRTJOcm5ubUZTcW40YWs2TDd4cWdiYk5OdjBuRg?oc=5\" target=\"_blank\">Bengal BJP Govt’s Maiden Budget Announces GCC Policy, Rs 5,000-Crore Investment Framework and AI Data Cen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQenQwR29rUDdGRTBuNEF6ZmFjTzFBY1RZMmJtbk03SFo4WEZPN0p3MElab1NUVExMWVZCYVZJc05zS1hvUG05bXJFRmlWbzd2VmlUOVZvZ3l3OW9UN25fVEZwT2stTDU1RVhaVTZ3VERJUTFTbEN0RWs3dkl4VlJjVlJaZDNPT0hHVTlFM2VmM3dDZVd1OHRwZ3oxVWdxSm5DVl9MWXNLRmJEeERjcXZKSWF0NmRKT1hyV3VNemM1bVU1aXBxZ1h0eU1XUy1uYkVoOGp1V2k2ZHdSUGd2RG9VWXUzWW9OLWlKTl9rS1V4Q1RaZ2llS2MxUVJlSGVJa0EwSjk1VVhseEVZc2JXYmtZRHV0T3BJY1V2ODJB0gGgAkFVX3lxTE90Y25VMFVWS0dYaFYxbjRvNU5FZjN3cHRrT3k0U2dVd29PNEZzekNkeTZDQmpudHMwUnczVUxTaDE2N2t3azRGc3BtZ0ZUX0ZHTzk5Y2xnVkZNU3pZWVNBdkdKWTB0d0NoV09CRG1PM3RoX0w1cncyZWhWdkZaT2EzS2pUYTRieV9DNFlaUnpoNmxkQ0Qzc29zOWlYX0lPTF9VVkJIX29qTEVrTS00QWx0R243R01ndjdEY25kZHRxTUhSYi1zZDdRM2ZHR2I3N1J4ZW5ybVdJMjBEdWF0UXpfVkpIUmdMaTN6cENNTHVLYVdoNXgzQVhUUHh1TDV3VzA0eHhTRTJOcm5ubUZTcW40YWs2TDd4cWdiYk5OdjBuRg?oc=5",
+   "source_name": "The Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "published_raw": "Fri, 03 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "TCS and Google Cloud launch Gemini Experience Center in Kolkata",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjR6VmhZV2hDczByUnpNQzJyNndRdDNic203cmEwc1JIcGItV3VCV3BPSVFHSEU4TEdtYjNoQW9fS19STmJGanJYZ3U2OF9sMEFMLTNkUkplT1VGYnp0SkxOOUhfWUloRTJLRngya1ZOcXdtSGRCUDVrSnRiMmJzNkcxbkFRTWdRUXNQZF9HUWdmSGxCSkJuM2EwaDF2cnBISnF6SjRIQTlDV0lyckxV?oc=5\" target=\"_blank\">TCS and Google Cloud launch Gemini Experience Center in Kolkata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tata Consultancy Services</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjR6VmhZV2hDczByUnpNQzJyNndRdDNic203cmEwc1JIcGItV3VCV3BPSVFHSEU4TEdtYjNoQW9fS19STmJGanJYZ3U2OF9sMEFMLTNkUkplT1VGYnp0SkxOOUhfWUloRTJLRngya1ZOcXdtSGRCUDVrSnRiMmJzNkcxbkFRTWdRUXNQZF9HUWdmSGxCSkJuM2EwaDF2cnBISnF6SjRIQTlDV0lyckxV?oc=5",
+   "source_name": "Tata Consultancy Services",
+   "source_domain": "tcs.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Kolkata Resident Allegedly Duped of Lakhs Through AI-Generated Fake Finance Minister Video",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WTzAyb3NxT0U0c1ltenFDUGpEWF9mY01rc3R2QzFmN19CMWZIc19MeDVhY3RLaFY0bFpsWDFBcW9feFpiR18wdm9jUGhiTHVsOGxpNTJmQ3pXTnVYYUNSZldSdFFNVWQz?oc=5\" target=\"_blank\">Kolkata Resident Allegedly Duped of Lakhs Through AI-Generated Fake Finance Minister Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WTzAyb3NxT0U0c1ltenFDUGpEWF9mY01rc3R2QzFmN19CMWZIc19MeDVhY3RLaFY0bFpsWDFBcW9feFpiR18wdm9jUGhiTHVsOGxpNTJmQ3pXTnVYYUNSZldSdFFNVWQz?oc=5",
+   "source_name": "The 420.in",
+   "source_domain": "the420.in",
+   "published_raw": "Thu, 25 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal FM outlines 'AI impact mission', says step necessary for accelerated growth",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkU0aHdPV1huQXVwZlZielpSZUR3bVZlSXNRbWJ6a013TlFfcXJsNU5aWXhjajdMemppOXRscTRNejJlV2FSUzdBeTYzVll1Z1A4LThiRFgxOFdrbXhGY2VYV1dxVGIwTklMdFJ3amVjM0JNaE95NVNFWlpCMy1vX0FMTXhZUi1jdGlfbkJFOFRMM054alc2Q09UR1JWb3lvQVdubVVKb0lEa0ZveTVSalc4X0tVMFcxTnpCYkxsSlE5azhDMTgzcWZGZGdFWk9UWDl2Q9IB2gFBVV95cUxOUG82TmVCaU0zNDk2V1RGemR0dGRWUnNPVTROMWZUZnN6OEliQ3Y4c091TkpGQUU2VVQzMzY4aFpaNERVS1V6V0tRcXRuUy1ISWNhY0dXVDhDdmVnOGhYMUpjZG1MNHhmMXlYRTF3U1NNck1TQTAydUprVElFYTctVm1fOXdyOHlaVGxzSk05TS1JNnVORzZZTnVzTk85a3N2cjhkbzc1d1ItLUk1akdhWVdlajBFLUd6YWJRdVdnU3ZxNUZPRHhhYVhGRnM5MFNjelEyNHpjZ2tTdw?oc=5\" target=\"_blank\">West Bengal FM outlines 'AI impact mission', says step necessary for accelerated growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkU0aHdPV1huQXVwZlZielpSZUR3bVZlSXNRbWJ6a013TlFfcXJsNU5aWXhjajdMemppOXRscTRNejJlV2FSUzdBeTYzVll1Z1A4LThiRFgxOFdrbXhGY2VYV1dxVGIwTklMdFJ3amVjM0JNaE95NVNFWlpCMy1vX0FMTXhZUi1jdGlfbkJFOFRMM054alc2Q09UR1JWb3lvQVdubVVKb0lEa0ZveTVSalc4X0tVMFcxTnpCYkxsSlE5azhDMTgzcWZGZGdFWk9UWDl2Q9IB2gFBVV95cUxOUG82TmVCaU0zNDk2V1RGemR0dGRWUnNPVTROMWZUZnN6OEliQ3Y4c091TkpGQUU2VVQzMzY4aFpaNERVS1V6V0tRcXRuUy1ISWNhY0dXVDhDdmVnOGhYMUpjZG1MNHhmMXlYRTF3U1NNck1TQTAydUprVElFYTctVm1fOXdyOHlaVGxzSk05TS1JNnVORzZZTnVzTk85a3N2cjhkbzc1d1ItLUk1akdhWVdlajBFLUd6YWJRdVdnU3ZxNUZPRHhhYVhGRnM5MFNjelEyNHpjZ2tTdw?oc=5",
+   "source_name": "Moneycontrol.com",
+   "source_domain": "moneycontrol.com",
+   "published_raw": "Mon, 22 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Tata Consultancy Services and Google Cloud launch AI-focused Gemini experience centre in Kolkata",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2JkQk5ZbDJZNzlOMkU4YjhBRmhibzhjMjRJNmcyZFdmemlaRnAxLW9QckVURXQxVnE1Ykx0TFJKQ1h3UXFBRzRFZElTR0pvUGV6UnVCLVowN0M5cHNNSXJwZHFxeDFMNzE5RjBTNjVpWGhLci1CQUVlVHVXSm9RRjY2b1VQNG1LbGZ1Q1puajJrTGJrbDJzdVppb09yTEhhdzBHQk9uUTNEc1lmZDI3bmxPNGJTWXdpTnJGSkRXNkZJRGx1eEF6LXlSU0ptNkwyTmtHcUpHMTQyMlktVVV2RnRn0gHnAUFVX3lxTE1Td1lSWGNMaVczM043eU5meFV5SHJNN1pra0hteDdhMTZoNVN6dU5iajNBZVBRVVJEZW5iMVFrZ2ZjSi14NGxWdlE1WG9YYXRUN3kyM1I0NkVCMUZpeWYySHFyUVZkNUN4TEJ4QjFqSmZkTXBveGpQUzdJRHA4U2RhY0JUeGI5TTlVbDFqejBRbUJkYW5tU3VBUE5jNXFWeGppcWdmYWVha2dBY0lmSVd3aWJGUDR6Slo5WjdtU3cxOFFiV3ZYU3FJXzJ4YlN5T3VVb2g3dkdvekx3Mm0tS3ZnRGZYZWZVQQ?oc=5\" target=\"_blank\">Tata Consultancy Services and Google Cloud launch AI-focused Gemini experience centre in Kolkata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2JkQk5ZbDJZNzlOMkU4YjhBRmhibzhjMjRJNmcyZFdmemlaRnAxLW9QckVURXQxVnE1Ykx0TFJKQ1h3UXFBRzRFZElTR0pvUGV6UnVCLVowN0M5cHNNSXJwZHFxeDFMNzE5RjBTNjVpWGhLci1CQUVlVHVXSm9RRjY2b1VQNG1LbGZ1Q1puajJrTGJrbDJzdVppb09yTEhhdzBHQk9uUTNEc1lmZDI3bmxPNGJTWXdpTnJGSkRXNkZJRGx1eEF6LXlSU0ptNkwyTmtHcUpHMTQyMlktVVV2RnRn0gHnAUFVX3lxTE1Td1lSWGNMaVczM043eU5meFV5SHJNN1pra0hteDdhMTZoNVN6dU5iajNBZVBRVVJEZW5iMVFrZ2ZjSi14NGxWdlE1WG9YYXRUN3kyM1I0NkVCMUZpeWYySHFyUVZkNUN4TEJ4QjFqSmZkTXBveGpQUzdJRHA4U2RhY0JUeGI5TTlVbDFqejBRbUJkYW5tU3VBUE5jNXFWeGppcWdmYWVha2dBY0lmSVd3aWJGUDR6Slo5WjdtU3cxOFFiV3ZYU3FJXzJ4YlN5T3VVb2g3dkdvekx3Mm0tS3ZnRGZYZWZVQQ?oc=5",
+   "source_name": "Telegraph India",
+   "source_domain": "telegraphindia.com",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal betting on policy reforms, AI to reclaim its industrial edge: Shri. Tapas Roy at CMOs’ Charcha",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE50dE1WODAwVWVJQy1NRHdGc3RZVXdqY1lIam5lRlloZVJNNVkwVzJtMWp3Y0x5Q3dnOV9meEZtaGktNGd4NGcxRlRIQ1F4bUhFR1E?oc=5\" target=\"_blank\">West Bengal betting on policy reforms, AI to reclaim its industrial edge: Shri. Tapas Roy at CMOs’ Charcha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adgully</font>",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50dE1WODAwVWVJQy1NRHdGc3RZVXdqY1lIam5lRlloZVJNNVkwVzJtMWp3Y0x5Q3dnOV9meEZtaGktNGd4NGcxRlRIQ1F4bUhFR1E?oc=5",
+   "source_name": "Adgully",
+   "source_domain": "adgully.com",
+   "published_raw": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "TCS builds AI-ready data platform hub with Oracle in Kolkata",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWYxTm5qV0wxN2hnSlNBa2RRejNxNDhYd29PaUQ0NUpOQzJIb1JnNW5uVjE2MTVwSXd0WXF3NElOcHVoa3hpZU5HRE1jMXFCN2NRQ2x1TzRiLWNfcXVKSVFUMG1SUzVCU2JsV1JhTzhEQlJmSWxLT1UzODRESTdkZkJmSHYyX0owQ3dfTlVTc1NHcjdXR3ByTHczbkdJWHM?oc=5\" target=\"_blank\">TCS builds AI-ready data platform hub with Oracle in Kolkata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techcircle</font>",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWYxTm5qV0wxN2hnSlNBa2RRejNxNDhYd29PaUQ0NUpOQzJIb1JnNW5uVjE2MTVwSXd0WXF3NElOcHVoa3hpZU5HRE1jMXFCN2NRQ2x1TzRiLWNfcXVKSVFUMG1SUzVCU2JsV1JhTzhEQlJmSWxLT1UzODRESTdkZkJmSHYyX0owQ3dfTlVTc1NHcjdXR3ByTHczbkdJWHM?oc=5",
+   "source_name": "Techcircle",
+   "source_domain": "techcircle.in",
+   "published_raw": "Fri, 12 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal unveils major school modernisation push with smart classrooms and AI curriculum",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTjVsM1Q4WUptMkQxOVNrYUpBSjE1SF9YU1htN0cxWU1TOW9ic1FHbS1WR0lINml4aVF4VlBEWnhpRml0YU9abm5mSXltdFltSXBCUzJ1VURLYnhMWW1QSEpXQk12M2JhcVJMS3FPNHV1Mm1YOTFwUkFqallHYXgyMWcxYmgzczFERmpvR3Fya3BkQ3JSV3o0aWM2cTJDMDdJQ29rb2FsLU81c0lVeHFHa2szZWZiaWxocDlnTEZBRDJrRk5wNnd5UE1SOUw2VjRnOEtJcms0UTlpN21VZ0pHWkd3?oc=5\" target=\"_blank\">West Bengal unveils major school modernisation push with smart classrooms and AI curriculum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Times</font>",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTjVsM1Q4WUptMkQxOVNrYUpBSjE1SF9YU1htN0cxWU1TOW9ic1FHbS1WR0lINml4aVF4VlBEWnhpRml0YU9abm5mSXltdFltSXBCUzJ1VURLYnhMWW1QSEpXQk12M2JhcVJMS3FPNHV1Mm1YOTFwUkFqallHYXgyMWcxYmgzczFERmpvR3Fya3BkQ3JSV3o0aWM2cTJDMDdJQ29rb2FsLU81c0lVeHFHa2szZWZiaWxocDlnTEZBRDJrRk5wNnd5UE1SOUw2VjRnOEtJcms0UTlpN21VZ0pHWkd3?oc=5",
+   "source_name": "Education Times",
+   "source_domain": "educationtimes.com",
+   "published_raw": "Thu, 30 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Fact Check: Dhruv Rathee praises BJP govt in West Bengal? No, video is AI-generated",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmd3T0F0bC1pVzlObTJwS2VuZjJCU3hTQ1BMb1pxNVJhZ1AySFozZTRmUFgzU1hkWGhIYzdDVlNPMlMyczhTbVQ0VmJCb0k3cDdDVUd3SEhXTW9JelZtOGVMcVV1Nmxnb0lmWG9JcmxpQjIwNFJYZUEzX042LXRBN3d1YlJzZE5aY2UyWlBvM0VPUS13b20tQnZLb25FU2VZZXpZSUJlV1ltcm1NRFJld0JaX1RSeUFTbU93?oc=5\" target=\"_blank\">Fact Check: Dhruv Rathee praises BJP govt in West Bengal? No, video is AI-generated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsMeter</font>",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmd3T0F0bC1pVzlObTJwS2VuZjJCU3hTQ1BMb1pxNVJhZ1AySFozZTRmUFgzU1hkWGhIYzdDVlNPMlMyczhTbVQ0VmJCb0k3cDdDVUd3SEhXTW9JelZtOGVMcVV1Nmxnb0lmWG9JcmxpQjIwNFJYZUEzX042LXRBN3d1YlJzZE5aY2UyWlBvM0VPUS13b20tQnZLb25FU2VZZXpZSUJlV1ltcm1NRFJld0JaX1RSeUFTbU93?oc=5",
+   "source_name": "NewsMeter",
+   "source_domain": "newsmeter.in",
+   "published_raw": "Wed, 20 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Fact-Check: Deepfake Shared as Real Video of Dhruv Rathee Praising BJP Govt in West Bengal",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmpxNWhpaWdrTGoxX2dya0h3cklxTW1vTnNGeEx0c2tkMEExWk00eTVTUHhMd2dMVmd1Y1lpTVpQTml1b2hESnh4SzBhT0QwbnoxMmlETDRXWmZmT3FDUjNjU1JDcUFEVVpaMEpaWDY4QzQzdmt4NHEtTHF0YnpSTU9PQ2VBYmtPRWNZdXFTa05oYVg0eGFSeHMtajJwRkx4bUg2QnlsTVhmQmdYS2paT1NTVWQ1SWIwa1F5RldTSQ?oc=5\" target=\"_blank\">Fact-Check: Deepfake Shared as Real Video of Dhruv Rathee Praising BJP Govt in West Bengal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quint</font>",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmpxNWhpaWdrTGoxX2dya0h3cklxTW1vTnNGeEx0c2tkMEExWk00eTVTUHhMd2dMVmd1Y1lpTVpQTml1b2hESnh4SzBhT0QwbnoxMmlETDRXWmZmT3FDUjNjU1JDcUFEVVpaMEpaWDY4QzQzdmt4NHEtTHF0YnpSTU9PQ2VBYmtPRWNZdXFTa05oYVg0eGFSeHMtajJwRkx4bUg2QnlsTVhmQmdYS2paT1NTVWQ1SWIwa1F5RldTSQ?oc=5",
+   "source_name": "The Quint",
+   "source_domain": "thequint.com",
+   "published_raw": "Sun, 24 May 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal Govt to unveil new policies before Durga Puja, says Finance Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGEtb2JRQW5XaF9wNVpIUGxJVHNQTXJEWkwzVGZtZUdkOUNUNTNCdEFrcE50M3I2YlJrUVg1VVBxbl9VMjBpNXE3UVFnQVE2bEpJZmVlbzFFT3dNWUZhNlZLQklVWlZwamw3Wmo0YkJ5cEZGODVPLTRWOFZxbVEzTHpONTZOc0VDMnp6bzd6VXJ5ZzBzcWJqd2pQTkZkSExDSGd0MzRjUFRoY1VWa2lB0gG8AUFVX3lxTFBTQmdVZkUzR0VHVW82dXU2bjNKY0xkSzBGYmF3eTJkcjZZdTVUSUJyMklBRkhfcEMtVGMzY2hXWVJNT2VwU1hpa0lPOWQ0ejFWcFFQdUtvdU9WbUdJMjFfVFBDQUJPY0ZSa1lFWUFGSzRVdm5CaXJ1VEgxc2prTC1TdG9FR0tTdGhnMnl5bHY1Yk9ZZFlZeTRNR3ZOZkV1STFPMUhTZ05QYlVRNzVORXg5bzVMN1U2bTA1YmFm?oc=5\" target=\"_blank\">West Bengal Govt to unveil new policies before Durga Puja, says Finance Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGEtb2JRQW5XaF9wNVpIUGxJVHNQTXJEWkwzVGZtZUdkOUNUNTNCdEFrcE50M3I2YlJrUVg1VVBxbl9VMjBpNXE3UVFnQVE2bEpJZmVlbzFFT3dNWUZhNlZLQklVWlZwamw3Wmo0YkJ5cEZGODVPLTRWOFZxbVEzTHpONTZOc0VDMnp6bzd6VXJ5ZzBzcWJqd2pQTkZkSExDSGd0MzRjUFRoY1VWa2lB0gG8AUFVX3lxTFBTQmdVZkUzR0VHVW82dXU2bjNKY0xkSzBGYmF3eTJkcjZZdTVUSUJyMklBRkhfcEMtVGMzY2hXWVJNT2VwU1hpa0lPOWQ0ejFWcFFQdUtvdU9WbUdJMjFfVFBDQUJPY0ZSa1lFWUFGSzRVdm5CaXJ1VEgxc2prTC1TdG9FR0tTdGhnMnl5bHY1Yk9ZZFlZeTRNR3ZOZkV1STFPMUhTZ05QYlVRNzVORXg5bzVMN1U2bTA1YmFm?oc=5",
+   "source_name": "Daily Pioneer",
+   "source_domain": "dailypioneer.com",
+   "published_raw": "Fri, 26 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in Kolkata",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkJKTU5CY3JFSklPdHUtMlJrSGViNEVpZk52SGRNaUVVc005NmZIRzRiamVfQU1JVllqbzRDRzh4UmRxQnF3bnRkNFBDVlVfVU9PUW55UXlPWllRTDI4RkY5Z2VSQ0RIWm82RXRYSE1DcDlacWhPVmpDcWxIdm1Dd09pcGwxOFVkbWJ1S1JRQXowLTdMcFNJVkdudjk5YlJRU0dFRll0YVpJalJidnh4Z1R5TzZldXZPTWlRNTBYbC02NVk5UXJWRzkzcnJ5N1UyN2twcVFR?oc=5\" target=\"_blank\">TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in Kolkata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tata Consultancy Services</font>",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkJKTU5CY3JFSklPdHUtMlJrSGViNEVpZk52SGRNaUVVc005NmZIRzRiamVfQU1JVllqbzRDRzh4UmRxQnF3bnRkNFBDVlVfVU9PUW55UXlPWllRTDI4RkY5Z2VSQ0RIWm82RXRYSE1DcDlacWhPVmpDcWxIdm1Dd09pcGwxOFVkbWJ1S1JRQXowLTdMcFNJVkdudjk5YlJRU0dFRll0YVpJalJidnh4Z1R5TzZldXZPTWlRNTBYbC02NVk5UXJWRzkzcnJ5N1UyN2twcVFR?oc=5",
+   "source_name": "Tata Consultancy Services",
+   "source_domain": "tcs.com",
+   "published_raw": "Fri, 12 Jun 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "Mitsubishi keen on setting up semiconductor plant in Bengal: Minister",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1lGSWp2U2M3aGEybm1CTFJxcklYZTRBMDN5aDBCM2UwNzlSbnBCc2JWbG9ETnNJMjNRSkE4WG9CTjdXd2dWNm9INi1MbDB6UXBKaGhYY2d6REhHT3hBRUhhVEliLXh2NjA2ODhKdF9rdmp5ZUprVGNCeU9zYzBBelQ1clQ4RU5aRlVyRW1SZVJSNWR0dFFxeVpSc2daMFNCcllNRXdLVEpKS3BYeDlERjJpdGhEanIzNW9IT2RVdDh1OVdTWXBPWXFKdDJodzdSaHBER3lJSnczd9IB3wFBVV95cUxOSkRlNGNNOEhxZUhOS0JVUUsyUFQwWTRVbFNHSzBCSHhzMEFTRTE2SVJFRVZ4WXdRaE1FR001OV9LVEJPR3JlbFVtUGtNMWZLNlRBNEhfU1pFZ0dXVmgxbmNhZTVIUkVROTQ5aVc4RlVrQXJPU2xzZVlxYm5vWUNHOC1ZUWpfMk9RUmEtZjlpanNXVDJHUzB0bU9NSTFLTWc4QUFlbEZDTzVMYS1PbjkxX0tFcldfbW10eXFGSWR5WHlZbGVIbXRNdEJlbzBWSXl6Q0tMU3hkNk5obGI3Z1Nj?oc=5\" target=\"_blank\">Mitsubishi keen on setting up semiconductor plant in Bengal: Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electronics.economictimes.indiatimes.com</font>",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1lGSWp2U2M3aGEybm1CTFJxcklYZTRBMDN5aDBCM2UwNzlSbnBCc2JWbG9ETnNJMjNRSkE4WG9CTjdXd2dWNm9INi1MbDB6UXBKaGhYY2d6REhHT3hBRUhhVEliLXh2NjA2ODhKdF9rdmp5ZUprVGNCeU9zYzBBelQ1clQ4RU5aRlVyRW1SZVJSNWR0dFFxeVpSc2daMFNCcllNRXdLVEpKS3BYeDlERjJpdGhEanIzNW9IT2RVdDh1OVdTWXBPWXFKdDJodzdSaHBER3lJSnczd9IB3wFBVV95cUxOSkRlNGNNOEhxZUhOS0JVUUsyUFQwWTRVbFNHSzBCSHhzMEFTRTE2SVJFRVZ4WXdRaE1FR001OV9LVEJPR3JlbFVtUGtNMWZLNlRBNEhfU1pFZ0dXVmgxbmNhZTVIUkVROTQ5aVc4RlVrQXJPU2xzZVlxYm5vWUNHOC1ZUWpfMk9RUmEtZjlpanNXVDJHUzB0bU9NSTFLTWc4QUFlbEZDTzVMYS1PbjkxX0tFcldfbW10eXFGSWR5WHlZbGVIbXRNdEJlbzBWSXl6Q0tMU3hkNk5obGI3Z1Nj?oc=5",
+   "source_name": "electronics.economictimes.indiatimes.com",
+   "source_domain": "electronics.economictimes.indiatimes.com",
+   "published_raw": "Thu, 09 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "TCS, Google Cloud open Gemini Experience Center in Kolkata to boost agentic AI adoption",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXd4c2FSRmR0ZmpSc2VMR2owcENyTzRFMU9kc0I1YWROUVluOGpERVRaZmQ0RTVsYzFuTVA4R3ZrRUdOXzQyeFFvcFo2SkVQLVdyN1VPN3lEejNrWHRMU1BNM3paZzRFYTBIbkZEQ0pMdUpfWXZ2cTJvanliTm1ZSGtOZWJuYVdpaTEydWJKSE5VWEljTGk4MGxhSVlQUnEtRlZyNFZFUUlOUzBtVC1JbHF0VzBMQUQ5dDJOcEVRNk9wUQ?oc=5\" target=\"_blank\">TCS, Google Cloud open Gemini Experience Center in Kolkata to boost agentic AI adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techcircle</font>",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXd4c2FSRmR0ZmpSc2VMR2owcENyTzRFMU9kc0I1YWROUVluOGpERVRaZmQ0RTVsYzFuTVA4R3ZrRUdOXzQyeFFvcFo2SkVQLVdyN1VPN3lEejNrWHRMU1BNM3paZzRFYTBIbkZEQ0pMdUpfWXZ2cTJvanliTm1ZSGtOZWJuYVdpaTEydWJKSE5VWEljTGk4MGxhSVlQUnEtRlZyNFZFUUlOUzBtVC1JbHF0VzBMQUQ5dDJOcEVRNk9wUQ?oc=5",
+   "source_name": "Techcircle",
+   "source_domain": "techcircle.in",
+   "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  },
+  {
+   "source_api": "google_news_rss",
+   "query_region": "West Bengal",
+   "title": "West Bengal Set To Launch 4 AI-Powered Helplines To Crack Down On Syndicate Raj, Cut Money And More",
+   "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ0Z2TnFhZjRQQU5zWnlPX21QVy1rTFdHbkplem41T2JsRXgxVTQ4V256NHpKblU0UWVHQVp2V3FDR3J0eHBRZllJc1FZT0dfQjZzOEt4d2Z1Q05EUUxCZXhoSi0yVTJpMlNzeUc0NjlwTWNRQ1hIZl9TV1FsNjRzbkpaZDRtX0VOSTJ4UkpTeldaUUJRempGREloOWVqdkdJTE1KQWNzUk8wYW9pZEE4OVBQb3ZNcnN4YjQtUTZSRXoxVXdWeVJTUUN3NlkwcnUwdTBqOHhPaTRCbkNLcTAw0gHkAUFVX3lxTE1BUlVncWdTT1hDcEJiTXVGcW1xMm1rcXphbkxMbHBpMzFFQ0dSZU52dUJEaF9IWEI3Z3VyU1dIdVpnOTZBM2R3QlV2bzQ2dkZCNWM4bGtDbTBMMk9NRVJnLVE4MkpMLW51QmRjWXRZUXZEcDhzY1Q1QjltX0hacXBzWks2VjN2SlppQm5xc29OWWZKYjNlbzVteG9LV3cxdUI3ekpqdGc0MzBJV09QZTQ5b2dSQXFhNlR0cjN0OURrMVJCb2ZRRTdQTTF3RXJYdGxJYll2aUZGV1RNYjAxWkMxLW9iUA?oc=5\" target=\"_blank\">West Bengal Set To Launch 4 AI-Powered Helplines To Crack Down On Syndicate Raj, Cut Money And More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ0Z2TnFhZjRQQU5zWnlPX21QVy1rTFdHbkplem41T2JsRXgxVTQ4V256NHpKblU0UWVHQVp2V3FDR3J0eHBRZllJc1FZT0dfQjZzOEt4d2Z1Q05EUUxCZXhoSi0yVTJpMlNzeUc0NjlwTWNRQ1hIZl9TV1FsNjRzbkpaZDRtX0VOSTJ4UkpTeldaUUJRempGREloOWVqdkdJTE1KQWNzUk8wYW9pZEE4OVBQb3ZNcnN4YjQtUTZSRXoxVXdWeVJTUUN3NlkwcnUwdTBqOHhPaTRCbkNLcTAw0gHkAUFVX3lxTE1BUlVncWdTT1hDcEJiTXVGcW1xMm1rcXphbkxMbHBpMzFFQ0dSZU52dUJEaF9IWEI3Z3VyU1dIdVpnOTZBM2R3QlV2bzQ2dkZCNWM4bGtDbTBMMk9NRVJnLVE4MkpMLW51QmRjWXRZUXZEcDhzY1Q1QjltX0hacXBzWks2VjN2SlppQm5xc29OWWZKYjNlbzVteG9LV3cxdUI3ekpqdGc0MzBJV09QZTQ5b2dSQXFhNlR0cjN0OURrMVJCb2ZRRTdQTTF3RXJYdGxJYll2aUZGV1RNYjAxWkMxLW9iUA?oc=5",
+   "source_name": "News18",
+   "source_domain": "news18.com",
+   "published_raw": "Tue, 28 Jul 2026 07:00:00 GMT",
+   "fetched_at": "2026-11-15T09:47:20+00:00"
+  }
+ ]
+}
